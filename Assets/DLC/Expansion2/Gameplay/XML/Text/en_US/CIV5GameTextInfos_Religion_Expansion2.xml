@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RELIGION_CATHOLICISM">
+			<Text>Catolicismo</Text>
+		</Row>
+		<!-- BELIEF DESCRIPTIONS -->
+		<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS">
+			<Text>A Influência ganha com presentes em [ICON_GOLD]Ouro para Cidades-Estado aumenta em 30%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EVANGELISM">
+			<Text>A ação de Disseminar Religião dos Missionários diminui a pressão existente de outras religiões.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION">
+			<Text>Missionários convertem unidades Bárbaras adjacentes para sua Civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_JESUIT_EDUCATION">
+			<Text>Pode construir Universidades, Escolas Públicas e Laboratórios de Pesquisas com [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_FERVOR">
+			<Text>Usar [ICON_PEACE]Fé para comprar unidades da Era Industrial (e posteriores).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_SITES">
+			<Text>Todas as compras de edifícios com [ICON_PEACE]Fé fornecem 2 de [ICON_TOURISM]Turismo cada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD">
+			<Text>Usar [ICON_PEACE]Fé para comprar qualquer tipo de [ICON_GREAT_PEOPLE]Grande Pessoa, iniciando na Era Industrial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT">
+			<Text>Seus espiões exercem pressão religiosa nas cidades que eles ocupam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS">
+			<Text>Inquisidores e Profetas reduzem a presença desta religião pela metade (ao invés de eliminá-la).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TEARS_OF_GODS">
+			<Text>+2 de [ICON_PEACE]Fé de cada recurso de Gemas ou Pérolas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART">
+			<Text>Hermitage fornece +5 de [ICON_CULTURE]Cultura e +5 de [ICON_TOURISM]Turismo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EARTH_MOTHER">
+			<Text>+1 de [ICON_PEACE]Fé por cada recurso de {TXT_KEY_RESOURCE_COPPER}, {TXT_KEY_RESOURCE_IRON} e {TXT_KEY_RESOURCE_SALT}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_KING">
+			<Text>O {TXT_KEY_BUILDING_PALACE} fornece +1 de: [ICON_CULTURE] , [ICON_PEACE] , [ICON_GOLD], [ICON_PRODUCTION] e [ICON_RESEARCH]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SUN_GOD">
+			<Text>+1 de [ICON_FOOD]Alimento por cada recurso de {TXT_KEY_RESOURCE_BANANAS}, {TXT_KEY_RESOURCE_CITRUS} e {TXT_KEY_RESOURCE_WHEAT}</Text>
+		</Row>
+		<!-- BELIEF NAMES -->
+		<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS_SHORT">
+			<Text>Missões de Caridade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EVANGELISM_SHORT">
+			<Text>Evangelismo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT">
+			<Text>Conversão de Pagãos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_JESUIT_EDUCATION_SHORT">
+			<Text>Educação Jesuíta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_FERVOR_SHORT">
+			<Text>Fervor Religioso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_SITES_SHORT">
+			<Text>Locais Sagrados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD_SHORT">
+			<Text>Para a Glória de Deus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT_SHORT">
+			<Text>Seita Secreta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS_SHORT">
+			<Text>Unidade dos Profetas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TEARS_OF_GODS_SHORT">
+			<Text>Lágrimas dos Deuses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
+		  <Text>Igreja Ortodoxa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">
+		  <Text>Protestantismo</Text>
+		</Row>    
+		<Row Tag="TXT_KEY_BELIEF_EARTH_MOTHER_SHORT">
+			<Text>Mãe Terra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_KING_SHORT">
+			<Text>Rei Divino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SUN_GOD_SHORT">
+			<Text>Deus Sol</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+    <Language_en_US>
+        <!--General phrases -->
+        <!--Greeting (first time meeting) -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1">
+            <Text>Saudações! Eu sou Gustavus Adolphus, o Rei Dourado da Suécia. Talvez possamos trabalhar juntos como aliados.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_2">
+            <Text>Seja bem-vindo às terras do Rei das Neves, estrangeiro. Eu sou Gustavus Adolphus, herdeiro e descendente da distinta Casa de Vasa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_3">
+            <Text>Oh! Um recém-chegado ao palco mundial.  Saudações! Eu sou Gustavus Adolphus, celebrado Rei da Suécia. Seja pacífico em minha corte.</Text>
+        </Row>
+        <!--Reacts to his bluff being called -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_1">
+            <Text>Ah... parece que você possui mais capacidade mental do que eu havia julgado.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_2">
+            <Text>Cuidado... suas reais intenções as tornam conhecidas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_3">
+            <Text>Hmmm... parece que Oxenstierna estava certo sobre você.</Text>
+        </Row>
+        <!--Gloats after winning a war -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_1">
+            <Text>Você pensou que poderia ser melhor que eu, onde nem mesmo Tilly pôde? Quanta arrogância, quanta estupidez!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_2">
+            <Text>Ah... outra vitória para o poderoso Capitão Gars. Tenho que confessar: aquele homem merece uma promoção.</Text>
+        </Row>
+        <!--Submissive after losing a war -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_1">
+            <Text>Hmph. Você vencer apenas uma batalha, não a guerra. Eu agora estou ciente das suas intenções e estarei mais bem preparado na próxima vez.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_2">
+            <Text>Desfrute sua vitória enquanto pode, pois ela não durará. Os Hakapeliitas cavalgarão novamente.</Text>
+        </Row>
+        <!--Defeated and removed from game -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1">
+            <Text>Oh, Senhor! Por que esquecestes de mim? Eu não estava fazendo o seu trabalho? ... Como pude perder?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_2">
+            <Text>Eu vou um Vasa! Você não pode me destruir por completo. Embora eu possa cair, o espírito da minha Casa continua e sempre será um tormento para você.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_3">
+            <Text>Eu sou o Rei da Suécia! Você pode tomar minha terra, meu povo e meu país, mas você nunca terá a Casa de Vasa.</Text>
+        </Row>
+
+        <!--Neutral -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1">
+            <Text>Saudações.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_2">
+            <Text>Olá.</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1">
+            <Text>Até nos vermos novamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2">
+            <Text>Adeus.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_NEUTRAL">
+            <Text>Muito bem.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Estou gostando muito de como isto está indo, mas não irei aceitar menos do que tenho direito.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Você pode fazer um pouco melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Isso não está suficientemente bom.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Quase...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_NEUTRAL">
+            <Text>Não estou interessado.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_YES_NEUTRAL">
+            <Text>Há um momento para aceitar e um momento para lutar. Eu escolhi aquele agora, mas este não será sempre o caso.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_NEUTRAL">
+            <Text>Eu seria incapaz de encarar o Senhor com uma consciência limpa se aceitasse tal exigência.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_NEUTRAL">
+            <Text>Penso que eu esteja proponho um acordo que você entenderá como aceitável... até mesmo agradável.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Nossos esforços para fazer o que é bom e certo exigem a assistência de todos, inclusive de você.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_1">
+            <Text>Tudo bem.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2">
+            <Text>Muito bem.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_1">
+            <Text>Devo recusar.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_2">
+            <Text>Não, claro que não.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_1">
+            <Text>Vamos ouvir...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2">
+            <Text>Continue.</Text>
+        </Row>
+
+        <!--Happy -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_3">
+            <Text>Bem-vindo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_4">
+            <Text>Bom dia, amigo!</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_3">
+            <Text>Até logo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_4">
+            <Text>Até logo, amigo!</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_HAPPY">
+            <Text>Concordo!</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Ahh... meus nobres frequentemente tentam esses esquemas entre si, mas isso não significa que funcionem comigo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Oh, por favor... isso é o melhor que você pode oferecer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Você está quase lá...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_HAPPY">
+            <Text>Obrigado, mas não desta vez.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_YES_HAPPY">
+            <Text>Um apelo por ajuda é atendido com prazer, pois eu acredito que o que você precisa é justo.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_HAPPY">
+            <Text>Eu fico muito triste, amigo, por ser incapaz de ajudar você neste momento.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_HAPPY">
+            <Text>Amigo, acredito que nossos povos podem se beneficiar deste acordo.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_HAPPY">
+            <Text>Sua assistência neste momento é muito apreciada e será inegavelmente retribuída no futuro.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_3">
+            <Text>Certamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_4">
+            <Text>Combinado.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_5">
+            <Text>Excelente.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_3">
+            <Text>Certamente que não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_4">
+            <Text>Devemos recusar.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_3">
+            <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4">
+            <Text>Estou ouvindo.</Text>
+        </Row>
+
+        <!--Angry -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_5">
+            <Text>Então?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_6">
+            <Text>Vá embora.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_ANGRY">
+            <Text>Combinado.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Nem mesmo Wallenstein iria se humilhar tanto. Reveja sua oferta antes que eu conserte o seu crânio.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Isso não é suficiente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Você precisa fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Quase...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_ANGRY">
+            <Text>Eu pareço um louco para você? A julgar por uma demanda tão ofensiva como esta, parece que sim.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_YES_ANGRY">
+            <Text>Sua audácia realmente não conhece limites. Aceitarei sua exigência apenas para manter meu povo a salvo.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_ANGRY">
+            <Text>Eu sou um Vasa! Seu desaforo não é apenas um insulto a mim, mas a todos os meus antecessores.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_ANGRY">
+            <Text>Eu preferiria pintar todo o país com o seu sangue, mas eu faço o que preciso, não importando o quão aborrecido.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_ANGRY">
+            <Text>Eu poderia ser capaz de ignorar algumas de suas recentes injustiças, se você concordar com minhas demandas.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_5">
+            <Text>É claro que não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_7">
+            <Text>Você não pode estar falando sério!</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_5">
+            <Text>E agora?</Text>
+        </Row>
+
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1">
+            <Text>Eu sou o Rei da Suécia! E neste dia eu selo com o seu sangue as injustiças do seu arruinado e abatido povo. O seu fim está chegando.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_2">
+            <Text>Veja! Os Hakapeliita cavalgarão mais uma vez - seus homens tremerão ao primeiro sinal da minha cavalaria. Que Deus esteja conosco!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_3">
+            <Text>Com Deus e armas vitoriosas, arrancarei o seu fedor dessa terra. Saiba que o Leão do Norte está vindo por você agora.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_1">
+            <Text>Ha! ha! Capitão Gars ficará muito satisfeito em saber que ele cavalgará novamente rumo à guerra! Obrigado por esta maravilhosa oportunidade. Prepare-se para a destruição!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_2">
+            <Text>Que traição imunda é esta? Desde Wallenstein eu não vejo um comportamento tão repulsivo quanto o que você acabou de mostrar. Isso não será tolerado.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_3">
+            <Text>Maldita seja sua insaciável ganância e cobiça por poder! Limparei o seu barbarismo da face da terra!</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

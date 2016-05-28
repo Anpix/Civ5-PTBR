@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_LEAGUES">
+			<Text>{1_Happiness} do Congresso Mundial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_PUBLIC_OPINION">
+			<Text>{1_Num} da Opinião Pública (o desejo por uma nova Ideologia).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_ITR">
+			<Text>{1_Num} de [ICON_TURNS_REMAINING] Rotas Comerciais entre suas cidades e outras civilizações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_TRAITS">
+			<Text>{1_Num} das Características.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_ITR">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] de [ICON_RESEARCH] das [ICON_TURNS_REMAINING] Rotas Comerciais entre suas cidades e outras civilizações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_BONUS_TURNS">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] de um projeto recente do Congresso Mundial (Turnos restantes: {2_TurnsLeft}).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_CITY_COST">
+			<Text>Cada cidade que você possuir aumentará o custo para aquisição de uma Política Social em {1_Num}%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_TECH_CITY_COST">
+			<Text>Cada cidade ou [ICON_PUPPET]cidade fantoche que você possuir aumentará o custo para pesquisar uma Tecnologia em {1_Num}%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CARNIVAL_EFFECT">
+			<Text>Em razão do seu bônus único de Carnaval, a geração de Turismo está atualmente em +100% com todas as civilizações e você está gerando Grandes Escritores, {TXT_KEY_CIV5_GREATARTISTS_HEADING} e Grandes Músicos 50% mais rápido.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_CITY_CONNECTIONS">
+			<Text>{1_Num} de [ICON_CONNECTED]Conexões entre suas cidades e sua [ICON_CAPITAL]Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
+			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 20, o Império está revoltoso! Cidades podem abandonar seu império e passar a fazer parte da civilização que possua maior influência cultural sobre o seu povo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
+			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 10, o Império está inquieto! Motins podem ocorrer com unidades rebeldes (bárbaras) aparecendo em seu território. Isso ocorrerá a cada poucos turnos até você corrigir esta situação!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
+			<Text>Cidades crescerão apenas a 1/4 da velocidade normal enquanto o Império estiver [ICON_HAPPINESS_3]infeliz! [NEWLINE]A geração de [ICON_GOLD]Ouro e [ICON_PRODUCTION]Produção é reduzida em 2% para cada ponto de Infelicidade. A mesma penalidade é aplicada a unidades em combate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ANARCHY">
+			<Text>[COLOR_NEGATIVE_TEXT]O Império está em Anarquia por mais {1_Turns} {1: plural 1?turno; other?turnos;}, em razão da mudança de Ideologia. Durante este estado, o Império não irá gerar nenhuma [ICON_RESEARCH]Ciência, [ICON_GOLD]Ouro, [ICON_CULTURE]Cultura ou [ICON_PEACE]Fé. Além disso, as cidades não possuirão [ICON_PRODUCTION]Produção para construírem algo[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_EMPTY_TOOLTIP">
+			<Text>Espaço Vazio para Grande Trabalho de Arte ou Artefato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_LITERATURE_EMPTY_TOOLTIP">
+			<Text>Espaço Vazio para Grande Trabalho Literário</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_MUSIC_EMPTY_TOOLTIP">
+			<Text>Espaço Vazio para Grande Trabalho Musical</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_CITY_SAPPED">
+			<Text>Apoiada por {TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_EMPIRE_VERY_UNHAPPY_PENALTY">
+			<Text>Império [ICON_HAPPINESS_4]Muito Infeliz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_EMPIRE_UNHAPPY_PENALTY">
+			<Text>Império [ICON_HAPPINESS_3]Infeliz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIQUE_GOLDEN_AGE_ANNOUNCE">
+			<Text>Carnaval!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_CITY_STATE_TERRITORY">
+			<Text>{@1: gender feminine?Uma; other?Um;} {@1_ImprovementName} só pode ser {@1: gender feminine?construída; other?construído;} em território de uma Cidade-Estado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_NO_ADJACENT_LUXURY">
+			<Text>{@1: gender feminine?Uma; other?Um;} {@1_ImprovementName} deve ser {@1: gender feminine?construída; other?construído;} adjacente a um hexágono com um Recurso de Luxo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_CANNOT_BE_ADJACENT">
+			<Text>{@1: gender feminine?Uma; other?Um;} {@1_ImprovementName} não pode ser {@1: gender feminine?construída; other?construído;} próximo a {@1: gender feminine?outra; other?outro;} {@1_ImprovementName} que esteja completa ou parcialmente {@1: gender feminine?construída; other?construído;}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLOTROLL_TRADE_ROUTE">
+			<Text>Conexão com Cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_TRADE_ROUTES">
+			<Text>Conexãoes com Cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_TR">
+			<Text>{1_Num} de [ICON_CONNECTED]Conexões entre suas cidades e sua [ICON_CAPITAL]Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CONNECTED">
+			<Text>A cidade possui uma [ICON_CONNECTED]Conexão com a [ICON_CAPITAL]Capital!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_TOURISM_STRENGTH_TT">
+			<Text>Isso indica a força da unidade quando estiver realizando uma turnê de um concerto. A força é baseada na geração de [ICON_TOURISM]Turismo da civilização quando o Músico nascer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_CARGO_CAPACITY">
+			<Text>Capacidade de Carga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_CARGO_CAPACITY_TT">
+		  <Text>Número de unidades que podem ser transportadas {1: gender feminine?{1: plural 2?pelas; other?pela;}; other?{1: plural 2?pelos; other?pelo;};} {1_UnitName}.</Text>
+	</Row>
+	</Language_en_US>
+</GameData>

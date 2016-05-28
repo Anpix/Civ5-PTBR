@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_1">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_2">
+			<Text>Tudo certo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_3">
+			<Text>Certamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_4">
+			<Text>Isso é aceito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_5">
+			<Text>Oh, muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_6">
+			<Text>Suponho que devo aceitar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_7">
+			<Text>Excelente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_1">
+			<Text>Agora vou destruir você!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_2">
+			<Text>Você caiu na minha armadilha. Agora você irá pagar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_3">
+			<Text>Você cometeu um erro - seu último erro. Eu vou enterrá-lo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DECLAREWAR_1">
+			<Text>Você está no nosso caminho. Prepare-se para a guerra!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DECLAREWAR_2">
+			<Text>Sua existência me ofende. Prepare-se para a guerra!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DECLAREWAR_3">
+			<Text>Você insultou a França pela última vez. Prepare-se para a guerra!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEFEATED_1">
+			<Text>Você me venceu. Eu te parabenizo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEFEATED_2">
+			<Text>Felicito você por sua vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEFEATED_3">
+			<Text>Estou perdido. Só me resta a honra. Faça comigo o que desejar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_ANGRY">
+			<Text>Dê-nos o que queremos ou te destruirei. Eu juro!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_HAPPY">
+			<Text>Meu amigo, a França necessita do seguinte. Eu acredito que você não nos desapontará.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_NEUTRAL">
+			<Text>A França exige o seguinte. Sua sobrevivência será determinada pela sua resposta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_1">
+			<Text>Não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_2">
+			<Text>Certamente não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_3">
+			<Text>Nós recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_4">
+			<Text>Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_5">
+			<Text>Isto é inaceitável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_6">
+			<Text>Isso não pode ser sério!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_7">
+			<Text>Como...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>Bem-vindo. Eu sou Napoleão da França, a maior mente militar da história do mundo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>Bem-vindo, estranho! Eu sou Napoleão, Imperador da França! Sou leal com meus amigos e mato meus inimigos. O que você vai ser?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>Ah! Enfim nos conhecemos. Eu sou Napoleão, Imperador da França. Venha! Vamos discutir a divisão do mundo entre as nossas duas grandes nações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>Saudações! Eu sou Napoleão da França. Eu tenho pouco tempo para brincadeiras; o que o traz aqui?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_1">
+			<Text>Bom Dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_2">
+			<Text>Despeço-me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_3">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_4">
+			<Text>Até nos encontrarmos novamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_5">
+			<Text>Vá embora agora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_6">
+			<Text>Isso é tudo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_7">
+			<Text>Nosso trabalho aqui está feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_1">
+			<Text>Bem-vindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_2">
+			<Text>Olá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_3">
+			<Text>Saudações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_4">
+			<Text>Bom Dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_5">
+			<Text>Oh, é você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_6">
+			<Text>Tudo Bem?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_7">
+			<Text>O que você quer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_1">
+			<Text>Vá em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_2">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_3">
+			<Text>Estou escutando.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_4">
+			<Text>Sim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_5">
+			<Text>Você estava dizendo...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_6">
+			<Text>E?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_7">
+			<Text>Continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LOSEWAR_1">
+			<Text>Parece que eu subestimei muito você. Não vou cometer o mesmo erro outra vez, eu prometo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_1">
+			<Text>A França tem mais necessidade de mim do que eu da França.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_2">
+			<Text>Um homem vai lutar mais por seus interesses que pelos seus direitos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_3">
+			<Text>Nunca interrompa seu inimigo quando ele está cometendo um erro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_4">
+			<Text>A verdade histórica é muitas vezes uma fábula agradável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Você não reconhece a importância de manter boas relações comerciais com a França, a nação mais rica e poderosa do planeta? Você deve fazer melhor que isso!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Isso não é bom o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Meu querido amigo, como Imperador, devo colocar os sentimentos pessoais de lado e fazer o que é melhor para a França! É com pesar que eu peço para você melhorar sua oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Isso é o melhor que você pode fazer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Você está quase lá ...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Tentaria me enganar? O Imperador? Você deve fazer melhor!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Você pode fazer um pouco melhor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Isso não é bom o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_ANGRY">
+			<Text>Meu tempo é precioso. Não o desperdice com este absurdo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_HAPPY">
+			<Text>Deve haver algum engano. Tenho certeza de que você não insultou deliberadamente o grande povo francês com uma oferta tão ridícula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_NEUTRAL">
+			<Text>Sua oferta é um insulto para a pessoa do Imperador, ou seja, eu. Recuso sua oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_ANGRY">
+			<Text>Eu aceito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_HAPPY">
+			<Text>Agradeço você pelo seu serviço para com a França!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_NEUTRAL">
+			<Text>Sua utilidade tem sido observada. Obrigado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_ANGRY">
+			<Text>Essa é a nossa oferta. É pegar ou largar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_HAPPY">
+			<Text>Meu querido amigo, eu confio que você vai encontrar esse acordo ao seu gosto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_NEUTRAL">
+			<Text>A França te oferece este negócio excepcional. Exorto-te a aceitar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_ANGRY">
+			<Text>Você está louco? Como você ousa tentar extorquir tributos de mim!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_HAPPY">
+			<Text>Seus termos são um insulto para a França. Eu imploro: não pressione demais a nossa amizade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_NEUTRAL">
+			<Text>Você está exigindo tributos de mim? Não seja ridículo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_ANGRY">
+			<Text>Devo concordar com seus termos - por enquanto. No entanto, você vai pagar por este insulto. Vou ver isso pessoalmente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_HAPPY">
+			<Text>Certamente que sim. A generosidade do Imperador é lendária!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_NEUTRAL">
+			<Text>Muito bem. Mas eu não vou esquecer este insulto. A França irá se vingar!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_1">
+			<Text>Você está jogando um jogo perigoso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_2">
+			<Text>Muito bem. Da próxima vez não serei tão educado!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_3">
+			<Text>Como é decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_4">
+			<Text>Como é muito decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_5">
+			<Text>Na verdade? Eu acredito que você não irá viver para se arrepender da sua miopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_6">
+			<Text>Que tolice sua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WINWAR_1">
+			<Text>Espero que tenham aprendido a lição ... Eu sou invencível!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<!-- Entry UI-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_TITLE">
+			<Text>Scramble for Africa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DESC">
+			<Text>By 1881, Europeans had discovered and claimed much of the world, with the exception of the Dark Continent of Africa. Who will prevail in the race to dominate this final continent?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_TURNS_REMAINING">
+			<Text>Turns Left: {1_TurnsRemaining}</Text>
+		</Row>
+		<!-- Dawn of Man-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV5_DAWN_TEXT">
+			<Text>SCENARIO DESCRIPTION[NEWLINE]Europeans had claimed most of the native lands elsewhere, but not the dark continent of Africa. Driven by a sense of adventure, a desire for wealth, and the thirst for knowledge, explorers and settlers scrambled into Africa from north and west. There they encountered lost kingdoms, exotic beasts and native empires that challenged their dreams of colonization. Can you claim the riches of Africa as a European? Or will you try and repulse the interlopers?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Achieve high score after 100 turns. Find each Natural Maravilha for +4 [ICON_HAPPINESS_1] Happiness. Europeans (Belgium, England, France, Germany, Italy, Portugal) earn VP if they are the first to discover a Natural Maravilha and for recovering Artifacts. Earning [ICON_GOLD] Gold scores VP for North Africans (Egypt, Morocco, Ottomans); Sub-Saharans (Ethiopia, Boers, Zulu) score for [ICON_CULTURE] Culture. Control of Suez and the Longest Rail line between two cities also scores VP. Land is worth twice as much.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]The interior of Africa changes each time you play. Only the European civs can embark, build Railroads, and dig for Artifacts, and they cannot declare war on each other. Likewise, the North African civs also cannot declare war on each other.</Text>
+		</Row>
+		<!-- Turns Remaining UI-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BRIEFING_BUTTON">
+			<Text>Briefing</Text>
+		</Row>
+		<!-- Victory-->
+		<!-- Civilopedia-->
+		<!-- Civilizations-->
+		<Row Tag="TXT_KEY_TRAIT_SUPERFAST_RIVERS_SHORT">
+			<Text>River Steamers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPERFAST_RIVERS">
+			<Text>Rivers and difficult terrain adjacent to them count as clear terrain for movement. Rivers extend the length of land rotas comerciais as if they were roads. +2 [ICON_PRODUCTION] Production from plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BELGIUM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BELGIUM_TEXT_1">
+			<Text>Having only gained its independence in 1830 AD, Belgium was a relative late-comer to the European scramble for colonies in Africa. Although the Belgian colonial holdings included the small territories of Rwanda and Burundi, it was primarily comprised of the Belgian Congo, a vast area drained by the Congo River. Unlike most colonies, the Congo was not administered by the government, but instead was the private property of King Leopold II of Belgium. From August 1879 to June 1884, while under contract to King Leopold to navigate the river, the explorer Henry Stanley negotiated treaties with a number of tribal chieftains whereby they transferred all rights to their respective lands to the Belgian king. Leopold proceeded to establish private military posts and plantations to harvest rubber. In 1884, the Berlin Conference, headed by the German chancellor Otto von Bismarck, recognized Leopold's ownership of the Congo. Leopold's brutal policies eventually led to international outcry however; in 1908, despite the aging Leopold's offers to reform his personal rule of the territory, the Belgian parliament reluctantly annexed the king's "Congo Free State" as a colony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS_SHORT">
+			<Text>The Rhodes Colossus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS">
+			<Text>Tile improvement construction rate doubled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_BONUS_SHORT">
+			<Text>Third Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_BONUS">
+			<Text>Founded cities start with additional territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY_SHORT">
+			<Text>Gunboat Diplomacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY">
+			<Text>Gain 9 additional [ICON_INFLUENCE] Influence per turn com Cidades-Estado you could demand tribute from. City States also do not become upset by your intruding units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_GENETICS_SHORT">
+			<Text>Mare Nostrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_GENETICS">
+			<Text>Embarked units have +1 [ICON_MOVES] Movement and pay just 1 movement point to move from sea to land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ITALY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ITALY_TEXT_1">
+			<Text>The Italian African Empire came into being after the nation, unified into the modern state in 1861 AD, joined the "scramble for Africa." By this time, France, England, Spain, Portugal and the Netherlands had been carving out colonies in Africa for 100 years. Looking to conquer as yet unclaimed parts of the continent, by the outbreak of World War I, Italy had annexed Eritrea, Somalia and Libya. However, it had been defeated in its first attempt to conquer Ethiopia in the war of 1895-1896; Ethiopia would not fall under Italian dominion until 1936. In 1915 Italy entered World War I on the side of the Western Allies with the agreement of Great Britain and France that it would receive significant territory in Europe and, upon the defeat of Germany, extensive lands carved from the German East African possessions. However, in the Treaty of Versailles that ended the war, Italy was given little land in Europe and none in Africa, leading to resentment towards the European colonial powers that lasted two decades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST_SHORT">
+			<Text>Muhammad Ali's Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST">
+			<Text>Trade Route [ICON_GOLD] Gold bonus from Caravansaries and Harbors is doubled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BOERS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BOERS_TEXT_1">
+			<Text>"Boer" is the Afrikaans word for "farmer" which came to denote the Dutch settlers of the Cape of Good Hope and their descendants. The original Trekboers were primarily Dutch Calvinists who migrated to found settlements in South Africa during the years 1652-1795 while the area was controlled by the Dutch East Indies Company. To avoid British colonialism, most of the Boers in the Cape Colony migrated northward to establish several Boer republics. They fought two wars against the British to defend their independent countries, the Transvaal and the Orange Free State. After the British victory and absorption of the two Boer republics in 1902, a Boer diaspora commenced, which saw many of the Dutch descendants migrate to Argentina, Kenya, Mexico and the southwestern United States. In 1914, the remaining Boers rose in rebellion at the outbreak of World War I; it was forcefully put down amd the ringleaders imprisoned or executed for treason. With that, the last vestiges of the Boers disappeared from history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLD_ZULU_SHORT">
+			<Text>Solar Eclipse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLD_ZULU">
+			<Text>25% Combat bonus if your unit is fighting an enemy unit that requires a more advanced Tecnologia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BOER_SHORT">
+			<Text>The Great Trek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BOER">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_FOOD]  Food from each farm.</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_FIRSTGREETING_1">
+			<Text>I am Leopold, King of Belgium...I have little time for pleasantries, what brings you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_FIRSTGREETING_2">
+			<Text>Welcome to the Congo. Time is among our greatest commodities; I hope you will not waste mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_FIRSTGREETING_3">
+			<Text>What brings you to the Congo my friend? I am Leopold, do we have business to conduct?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_WINWAR_1">
+			<Text>With careful guidance, the Congo's strength shines through all adversity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_WINWAR_2">
+			<Text>With careful guidance, the Congo's strength shines through all adversity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_SUBTITLE">
+			<Text>King of the Belgians and the Congo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_LIVED">
+			<Text>1835 - 1909 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_TEXT_1">
+			<Text>The only European monarch to personally own a colony, Leopold II (ruled 1865-1909) acquired the vast Congo Basin through treaties with a variety of tribal chieftains which transferred their lands to his personal control. Eventually, his management proved so ruthless that international opinion forced the Belgian government to assume administration of the Congo as a colony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_FIRSTGREETING_3">
+			<Text>Greetings! I am Victoria, Queen of the United Kingdom. What brings you before me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_FIRSTGREETING_4">
+			<Text>Welcome to the United Kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_SUBTITLE">
+			<Text>Queen of the United Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_LIVED">
+			<Text>1819 - 1901 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_TEXT_1">
+			<Text>Queen Victoria's lengthy reign (1837-1901) was characterized by the expansion and consolidation of the Empire's African holdings, marked by both military disasters and decisive victories. British policy in Africa was dominated by its preoccupation with establishing a contiguous line of colonies and client states from Cairo to Cape Town, a goal it finally attained when it acquired the German East African holdings at the end of World War I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>Welcome. I am Jules Grevy of France, lover of zebras.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>Welcome, Stranger! I am Jules Grevy, President of France! I am loyal to my friends, death to my enemies. Which will you be?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>Ah. We meet at last. I am Jules Grevy, President of France. Come: let us discuss the division of Africa between our two great nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>Greetings. I am Jules Grevy of France. I have little time for idle pleasantries; what brings you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_SUBTITLE">
+			<Text>President of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_LIVED">
+			<Text>1807 - 1891 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_TEXT_1">
+			<Text>President of the Third Republic (1879-1887), Jules Grevy was a fierce nationalist who engineered France's expansion in Africa, beginning with the acquisition of Tunisia in 1881. Before being forced to resign in the wake of a family scandal, Grevy established France's policy of mission civilisatrice, the principle that it was Europe's destiny to bring civilization to the "benighted" native peoples of Africa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_SUBTITLE">
+			<Text>Chancellor of the German Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_LIVED">
+			<Text>1815 - 1898 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_TEXT_1">
+			<Text>Although the German chancellor Bismarck (served 1871-1890) saw German interest in Africa as distraction, he was intensely interested and intimately involved in the scramble for Africa through the Berlin Conference he organized in 1884 to formally settle various colonial claims. Besides settling several boundary disputes, the Berlin Conference under Bismarck's mediation determined that the Congo was Leopold II's private property, that the 14 signatory nations would have free trade throughout the Congo, that the Niger and Congo rivers were open to all traffic, that slavery was to be abolished in Islamic lands, and formalized the international procedures for establishing a colonial claim.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_DECLAREWAR_1">
+			<Text>By thunder, you shall pay for your insults to mighty Italy. Prepare to die!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_DECLAREWAR_3">
+			<Text>For the glory of Italy, I swear that your days are numbered. Prepare for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_FIRSTGREETING_1">
+			<Text>Greetings. I am Giuseppe Garibaldi, Father of Italy. If you are a friend of Italy, be welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_FIRSTGREETING_2">
+			<Text>Welcome. Italy is true to her allies, death to her enemies. Which are you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_FIRSTGREETING_3">
+			<Text>Welcome! Italy is honored by your presence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>You are as frugal as the Church. Can you not do better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_WINWAR_1">
+			<Text>Italy's glory has been restored to that of Rome!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_SUBTITLE">
+			<Text>General, Politician of Italy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_LIVED">
+			<Text>1807 - 1882 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_TEXT_1">
+			<Text>One of the architects of Italian unification, Garibaldi (lived 1807-1882) was a general, politician statesman and fervent nationalist. As a nationalist, Garibaldi was outspoken in his support for a rebirth of mare nostrum, and in his last years lent his name and prestige to various political movements agitating for Italian involvement in the scramble for Africa, beginning with Italy's failed first effort to claim Tunisia which was thwarted by France and England in 1881.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_SUBTITLE">
+			<Text>Queen Consort of Portugal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_LIVED">
+			<Text>1847 - 1911 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_TEXT_1">
+			<Text>Maria Pia of Savoy was Queen Consort (1862-1889), consort to Portugal's King Luis I, and known for both her extravagance and her charitable efforts. Called the "angel of charity" and "mother of the poor," she sponsored a number of social welfare reforms and projects in Portugal's African colonies, especially Mozambique and Angola where she funded free schools and medical clinics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_FIRSTGREETING_1">
+			<Text>Greetings. I am Ismail Pasha, ruler of mighty Egypt and the Sudan. You show great courage in approaching me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_FIRSTGREETING_2">
+			<Text>Welcome. I am Ismail Pasha of Egypt and the Sudan. Allah has foretold your arrival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_FIRSTGREETING_3">
+			<Text>Greetings. I am Ismail Pasha, controller of the Suez Canal connecting the Mediterranean to the Red Sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_SUBTITLE">
+			<Text>Khedive of Egypt and Sudan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_LIVED">
+			<Text>1830 - 1895 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_TEXT_1">
+			<Text>Known as Ismail the Magnificent, Ismail Pasha became Khedive of Egypt and the Sudan in 1867 when the Ottoman Porte granted a firman recognizing his rule in exchange for an increase in tribute. Despite his reforms and urbanization programs, a costly war with Ethiopia (1875-1884) resulted in the sale of his country's shares in the newly opened Suez Canal and Ismail Pasha was toppled from power in 1895 after the British government's investigation into Egypt's finances forced his abdication in favor of a constitutional monarchy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_1">
+			<Text>Greetings from Morocco...I am Hassan I. How may I be of service to you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_2">
+			<Text>I am Sultan Ahmed Hassan I of Morocco, I welcome you in the name of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_SUBTITLE">
+			<Text>Sultan of Morocco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_LIVED">
+			<Text>1873 - 1894 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_TEXT_1">
+			<Text>Among the most successful sultans of the Alaouite dynasty, Mulay Hassan I (ruled 1873-1894) instituted sweeping military and administrative reforms to strengthen Morocco at a time when much of North Africa was falling under European control. Although both France and Spain would establish enclaves and demand favored status, Hassan proved adept at using Morocco's strategic position to play the European powers against each other, guaranteeing his nation's independence until after his death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_FIRSTGREETING_1">
+			<Text>By my saw and lumber, I am glad to meet you! I am Abdul Hamid II, leader of the mighty Ottomans!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_FIRSTGREETING_2">
+			<Text>The Ottoman nation greets you, Stranger! I am Abdul Hamid II!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_FIRSTGREETING_3">
+			<Text>Greetings, Stranger! I am Abdul Hamid II, leader of the Ottomans! Let us feast to celebrate this grand occasion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_SUBTITLE">
+			<Text>Sultan of the Ottoman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_LIVED">
+			<Text>1842 - 1918 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_TEXT_1">
+			<Text>Abdul Hamid II (ruled 1876-1909), Caliph of the Faithful, 34th sultan of the Ottoman Empire, was the last sultan to exert effective control over the empire's African territories. Following the Russian victory in 1878, the Congress of Berlin forced Abdul Hamid to "rent" Cyprus to Great Britain and allow British forces to occupy Egypt and the Sudan in 1882 to "bring order" to these contentious Ottoman provinces, a role that the British Empire did not relinquish until 1922.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_DECLAREWAR_2">
+			<Text>The Boer people have spoken. Your wanton aggression leaves us no choice: prepare for war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_DEFEATED_3">
+			<Text>You have defeated us - for now. But the Boer Republics shall return!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_1">
+			<Text>The people of the Boer Republics welcome you. I trust you are a friend to freedom?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_2">
+			<Text>On behalf of the citizens of the Boer Republics, I bid you welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_3">
+			<Text>Welcome to the Boer Republics!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>I do not think that the trade, as it is currently configured, would be in the Boer Republics' best interest. Would you care to improve your offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADE_YES_NEUTRAL">
+			<Text>Your proposition is acceptable to the Boer Republics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADEREQUEST_HAPPY">
+			<Text>Greetings. Can the Boer Republics interest you in a trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Opening the borders between our two nations would help to further cement our friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRIBUTE_NO_HAPPY">
+			<Text>I cannot give away our treasure so cavalierly, even to friends. I am no tyrant: I must answer to the people of the Boer Republics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_WINWAR_1">
+			<Text>I trust that you have learned that the Boer Republics are not to be trifled with!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_SUBTITLE">
+			<Text>President of the South African Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_LIVED">
+			<Text>1825 - 1904 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TEXT_1">
+			<Text>Affectionately known as "Oom Paul," Stephanus Paulus Kruger was state president of the Transvaal Republic (1883-1900) and gained international fame as the leader of the Boer resistance to British imperialism in South Africa. A skilled military commander, Kruger was equally adept at negotiation, such as those that ended the First Anglo-Boer War that ended in 1881. Serving as president a fourth time, as British forces closed in on the capital during the Second Boer War, Kruger fled into exile, never to return to Africa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_FIRSTGREETING_1">
+			<Text>A thousand welcomes to our fair nation. I am Menelik II, the descendant of the queen of Sheba and Emperor of Ethiopia, your humble servant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_FIRSTGREETING_3">
+			<Text>Welcome, friend, to my lands of peace and prosperity. I am the King of Kings, but you may call me Menelik II.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_SUBTITLE">
+			<Text>Emperor of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_LIVED">
+			<Text>1844 - 1913 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_TEXT_1">
+			<Text>Upon the death of Yohannes IV in combat against the dervishes in March 1889, Menelik (often called the "father of modern Ethiopia") proclaimed himself emperor. Not long after, in a dispute over interpretation of a treaty, Italy invaded Ethiopia in 1895; Menelik led the stout defense - inflicting defeats on the Italians in the battles of Amba Alagi, Mekele and Adwa - which forced the Italians to sign a treaty recognizing the absolute sovereign independence of Ethiopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_FIRSTGREETING_1">
+			<Text>I am Cetshwayo! Ruler of the Zulu Kingdom! Why have you come?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_SUBTITLE">
+			<Text>King of the Zulu Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_LIVED">
+			<Text>1826 - 1884 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_TEXT_1">
+			<Text>Son of the Zulu chieftain Mpande, Cetshwayo (ruled 1856-1879) defied British demands for reparations for Zulu border raids, leading the Anglo-Zulu War. Despite decisively defeating the initial British invasion at the Battle of Isandlwana, British and colonial troops eventually surrounded and destroyed the royal kraal at Ulundi and shortly after captured Cetshwayo, who was exiled to London until 1883, when he returned to Africa to die is relative obscurity.</Text>
+		</Row>
+		<!-- Scenario-specific Diplomacy Modifiers-->
+		<!-- Technologies-->
+		<!-- Improvements -->
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ARCHAEOLOGICAL_DIG_AFRICA_TEXT">
+			<Text>An Escavação Arqueológica can only be constructed by an Archaeologist at um Sítio Arqueológico resource. The excavations at the tomb of Tutankhamun is an example of a preeminent archaeological dig site. Upon constructing the Dig, your Archaeologist will discover what type of Artefato is buried at this location. Then the artifact is sent back to Europe for bonus victory points..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_AFRICA_HELP">
+			<Text>Converts the Sítio Arqueológico into an Escavação Arqueológica, which sends the artifact back to Europe for victory points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC_AFRICA">
+			<Text>It can send it back to Europe for victory points.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV5_FEATURES_FOUNTAIN_YOUTH_TEXT">
+			<Text>Despite several attempts, neither the Greeks nor the Romans managed to follow the Nile past the Sudd wetlands. Although there were accounts by Europeans visiting Ethiopia in the 1500s of a source for the great river, none were more than hearsay. In the mid-1800s, the European public became obsessed with learning where the source of the Nile might lie in the "heart of Africa." In 1858, the explore Richard Speke claimed that Lake Victoria was the source; although disputed by Sir Richard Burton and others, Henry Stanley finally confirmed Speke's claim by circumnavigating the vast lake and reporting on the outflow of Ripon Falls as the "Source of the Nile."</Text>
+		</Row>
+		<!-- Buildings in the seperate Buildings file-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_STELE_STRATEGY">
+			<Text>The Stele is a  Monumento unique building which increases the city's output of [ICON_CULTURE] Culture .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM_STRATEGY">
+			<Text>The Staatsmuseum is a Boer-unique building which increases the city's output of [ICON_CULTURE] Culture (especially when housing Great Works). It comes pre-built with 1 Great Work. A European civs capturing a city with a Staatsmuseum will gain VP for capturing artifact(s). It replaces o Museu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAATSMUSEUM_TEXT">
+			<Text>The first Staatsmuseum was built in 1892 AD in Pretoria, with the avowed purpose of "improving and maintaining public awareness towards cultural aspects of worth," focusing specifically on the history, ethnography, archeological and natural sciences of the region. When the Anglo-Boer War broke out, the patriotic aspects of the staatsmuseum became even more pronounced, as the burghers in Boer commandos were encouraged to donate memorabilia from the battlefields. After the Boers were defeated, the staatsmuseums were no longer supported with public funds; instead, they were funded by private committees in towns across the Transvaal and Orange Free State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_STRATEGY">
+			<Text>The Turkish Bath is the Ottoman unique building. Like a stock exchange the Turkish Bath increases the city's wealth. However, the Turkish Bath also increases the amount of [ICON_GOLD] Gold a city generates. Trade routes other players make to a city with a Market will generate an extra 2 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 1 [ICON_GOLD] Gold for the trade route. The city must have a Bank before the Turkish Bath may be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_HELP">
+			<Text>City must have a bank.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_TEXT">
+			<Text>Evolved from ancient Roman baths, the Turkish Bath became popular across the Middle East and Europe as a method of relaxation and health care during the Victorian Age.</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="TXT_KEY_UNIT_HELP_FORCE_PUBLIQUE">
+			<Text>An infantry unit that specializes fighting in rough terrain and against wounded units. Only the Belgians can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE_STRATEGY">
+			<Text>Replaces the Rifleman for the Belgians. Receives the Rough Terrain Promotion which allows it to fight better in difficult terrain. This unit also has a promotion that increases its strength against wounded units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FORCE_PUBLIQUE_TEXT">
+			<Text>The Force Publique served as a gendarmerie and military force in the Belgian Congo from 1908 through 1960, when it became the core of the Congolese Army upon independence. Made up of ethnically mixed Africans drawn mainly from the Haut-Congo, Zanzibar and other Belgian colonies, the Force Publique was officered by whites, either Belgian Army veterans or European mercenaries. Scattered across the region in small detachments, the force operated against poachers, Arab slave-traders, and rebellious tribes, as well as serving in the East African campaigns in both world wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY2">
+			<Text>The Foreign Legion is a French unique unit, replacing the rifleman. It receives a significant combat bonus when operating outside of home territory, making it an excellent unit to launch against enemy territory. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION2">
+			<Text>Only the French may build it. This Unit has a combat bonus outside of friendly territory, unlike the Rifleman which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BRANDENBURG_CLASS">
+			<Text>This Ironclad is the strongest ship in this scenario. Only the Germans can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BRANDENBURG_CLASS_STRATEGY">
+			<Text>Replaces the Ironclad for the Germans. It has a higher combat strength which gives it a greater ability to influence city states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_BRANDENBURG_CLASS_TEXT">
+			<Text>The German Brandenburg-class of pre-dreadnoughts, the first being commissioned in 1893 AD, were intended to be an interim stage of design between large coastal ironclads and ocean-going battleships. Heavily armored and armed with six 11-inch heavy guns, four ships were eventually launched. The class saw action as far afield as China during the Boxer Rebellion and the Mediterranean during World War I before being sold off or scrapped.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAIO_DUILIO_CLASS">
+			<Text>An Ironclad that specializes in attacking cities. Only the Italians can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAIO_DUILIO_CLASS_STRATEGY">
+			<Text>Replaces the Ironclad for the Italians. Receives the coastal raider promotion which increases its strength against cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_CAIO_DUILIO_CLASS_TEXT">
+			<Text>Two of the planned three Caio Duilia-class were built by the Italian Regia Marina in 1870s. These ocean-going ironclads were so revolutionary for their time, equipped with 100-ton rifled muzzle loaders and with 50mm armor plate, that the British scrapped their planned new class of battleship to design a counter to the Italian ships. Although the Caio Duilia and Enrico Dandolo never saw action and were scrapped in 1909 and 1920 respectively, they were deployed to the Mediterranean coast of Africa several times to protect or promote Italian interests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_DERVISH_CAVALRY">
+			<Text>Cavalry that spawns Great Generals faster and fights better in open terrain. Only the Egyptians can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DERVISH_CAVALRY_STRATEGY">
+			<Text>Egyptian Cavalry replacement. Its promotions allow it to spawn Great Generals faster and fight better in open terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_DERVISH_CAVALRY_TEXT">
+			<Text>Referred to as the "Mad Mullah," the religious leader Mohammed Abdullah al-Hasan established a Dervish state in Somalia that fought an anti-imperialist war for 20 years against the British, Italians and Ethiopians. Of his forces, approximately 10000 were the feared Dervish cavalry, mostly used for interdiction of supply lines and paths of retreat. Unevenly armed and equipped, led by tribal chieftains, the dervish cavalry were marked by their fanaticism, making them fearsome opponents willing to take losses that would deter other units. Until 1920, when the Mullah was finally defeated, his most effective commanders were among the Dervish cavalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_VOLUNTEERS">
+			<Text>Rifleman that specializes in defense and heals whenever it kills its oponent. Only the Boer Republics can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS_STRATEGY">
+			<Text>Boer Republics Rifleman replacement. It is weaker than a normal rifleman attacking, but stronger defending. It also partially heals after killing its opponents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FOREIGN_VOLUNTEERS_TEXT">
+			<Text>There was much sympathy outside the British Empire for the Boer Republic during the second Boer War (1899-1902) and foreign volunteers arrived to help in their fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_EXPLORER">
+			<Text>A special archaeologist that is not slowed by rough terrain and has a weak attack and defense. Only the Europeans can build it. Does not require uma Universidade. [COLOR_NEGATIVE_TEXT]Like all units in this scenario it does not have the Explore command.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPLORER_STRATEGY">
+			<Text>European archaeologist replacement. It can attack and defend unlike the archaeologist. It can also move through rough terrain as if the terrain was clear. It does not require uma Universidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_EXPLORER_TEXT">
+			<Text>Although the coasts of Africa had been explored for three centuries, it was not until the early 19th Century AD that the European powers began a concerted effort to explore the hinterlands of the continent. Beginning from coastal trading posts, missions and colonial settlements, Western explorers pushed inland in small expeditions seeking legendary wonders, "lost" native civilizations, and scientific knowledge. Some, like David Livingston, were medical missionaries; some, like Pietro di Brazza, sought adventure; and others, such as MacGregor Laird, were merchants seeking new opportunities for profit. Whatever their motivations, the European explorers figure prominently in the history of Africa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RIFLED_CANNON_TEXT">
+			<Text>PLACEHOLDER</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIFLED_CANNON_STRATEGY">
+			<Text>A siege unit that is in between a cannon and artillery. It has a 3 range , must set up, and is stronger than a canon. It cannot see as far as other units, and should be protected with other units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RIFLED_CANNON">
+			<Text>Siege unit between Cannon and Artillery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_STRATEGY">
+			<Text>The Burial Tomb is a unique building for Egypt which increases the city's output of [ICON_HAPPINESS_1] Happiness and [ICON_CULTURE] Culture (by housing a pre-built Great Work). It costs no maintenance for the city. European civs capturing it also gain VP for capturing an artifact. It replaces the Colosseum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_HELP">
+			<Text>Requer no [ICON_GOLD] Gold maintenance.[NEWLINE][NEWLINE]Should this city be captured by a European conqueror the Great Work stored inside will score VP for that civ.</Text>
+		</Row>
+		<!-- Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_VS_CITIES">
+			<Text>Attacking Cities Bonus (30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VS_CITIES_HELP">
+			<Text>Attacking Cities Bonus (30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VS_FORTIFIED">
+			<Text>Attacking Fortified Units Bonus (30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VS_FORTIFIED_HELP">
+			<Text>Attacking Fortified Units Bonus (30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_SCENARIO">
+			<Text>Transfer Movement to General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_SCENARIO_HELP">
+			<Text>Great General moves at rate of this unit if they start the turn stacked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_HEAL_OUTSIDE_FRIENDLY">
+			<Text>Heal Friendly Only</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_HEAL_OUTSIDE_FRIENDLY_HELP">
+			<Text>May only heal if inside friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STINGEY_D">
+			<Text>Strong Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STINGEY_D_HELP">
+			<Text>Defense (50)</Text>
+		</Row>
+		<!-- Policies-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_CANNOT_UNLOCK">
+			<Text>[COLOR_NEGATIVE_TEXT]You may not adopt other policy branches in the Scramble for Africa scenario.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_CAP">
+			<Text>European</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]European[ENDCOLOR][NEWLINE][NEWLINE]Combat units may only heal if inside friendly territory. Land combat units (other than Explorers) have [COLOR_NEGATIVE_TEXT]-1 Visibility Range[ENDCOLOR]. May NOT build the Writers', Artists', or Musicians' Guild.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_CAP">
+			<Text>North African</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]North African[ENDCOLOR][NEWLINE][NEWLINE]Earn [ICON_GOLD] Gold for each unit you kill. May NOT build the Writers', Artists', or Musicians' Guild.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_CAP">
+			<Text>Sub-Saharan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Sub-Saharan[ENDCOLOR][NEWLINE][NEWLINE]Earn [ICON_CULTURE] Culture for each unit you kill except barbarians. Allows cities to build the Writers', Artists', and Musicians' Guilds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1">
+			<Text>Advanced Siege Tactics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Advanced Siege Tactics[ENDCOLOR][NEWLINE]Combat units gain 30% combat bonus when attacking cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E2">
+			<Text>Principle of Effective Occupation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Principle of Effective Occupation[ENDCOLOR][NEWLINE]Combat units gain 30% combat bonus when attacking fortified units. A free Courthouse in each captured city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E3">
+			<Text>Sphere of Influence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E3_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Sphere of Influence[ENDCOLOR][NEWLINE]Pay 50% of the usual cost when purchasing tiles and 33% less when purchasing units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E4">
+			<Text>Colonialism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Colonialism[ENDCOLOR][NEWLINE]Tile improvement construction rate increased by 25%. 3 free settlers appear near the  [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E5">
+			<Text>Trade Unions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Trade Unions[ENDCOLOR][NEWLINE]Maintenance paid on Roads and Railroads reduced by 50%. +2 [ICON_HAPPINESS_1] Happiness for each Recurso de Luxo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E6">
+			<Text>Capitalism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Capitalism[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] from all your land and sea rotas comerciais  and +2 [ICON_HAPPINESS_1] Happiness for each City you own [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1">
+			<Text>Army of the Sahara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Army of the Sahara[ENDCOLOR][NEWLINE]+50% combat bonus when fighting in the desert.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N2">
+			<Text>Berber Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Berber Heritage[ENDCOLOR][NEWLINE]+25% [ICON_PRODUCTION] Production when training Mounted units. Mounted Units receive a promotion that allows Great Generals to move at same speed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N3">
+			<Text>Improved Wares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N3_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Improved Wares[ENDCOLOR][NEWLINE] +1 [ICON_GOLD] Gold from each Market.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N4">
+			<Text>Conscription</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Conscription[ENDCOLOR][NEWLINE]Reduces Unit [ICON_GOLD] Gold Maintenance costs by 33%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N5">
+			<Text>Caravanas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Caravanas[ENDCOLOR][NEWLINE]+2[ICON_GOLD] Gold from all your land rotas comerciais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N6">
+			<Text>Commercial Hub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Commercial Hub[ENDCOLOR][NEWLINE]+10 [ICON_GOLD] in [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S2">
+			<Text>Nationalism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Nationalism[ENDCOLOR][NEWLINE]+15% Bonus in combat in your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S4">
+			<Text>Fine Arts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Fine Arts[ENDCOLOR][NEWLINE]50% of excess [ICON_HAPPINESS_1] Happiness added each turn to the amount of [ICON_CULTURE] Culture that may be spent on Social Policies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S5">
+			<Text>Genius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Genius[ENDCOLOR][NEWLINE]A free Great Person of your choice appears near the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S6">
+			<Text>Cultural Centers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Cultural Centers[ENDCOLOR][NEWLINE]Earn +5 [ICON_CULTURE] Culture from each Great Work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_EUROPEAN_TITLE">
+			<Text>Most esteemed {1_PlayerName:textkey} of {2_CivName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_N_AFRICAN_TITLE">
+			<Text>{1_PlayerName:textkey}, Sovereign of {2_CivName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SUB_SAHARAN_TITLE">
+			<Text>{1_PlayerName:textkey} the Bold of {2_CivName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_EUROPEAN">
+			<Text>European</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_N_AFRICAN">
+			<Text>North African</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_SUB_SAHARAN">
+			<Text>Sub-Saharan</Text>
+		</Row>
+		<!-- Civ States-->
+		<Row Tag="TXT_KEY_CIV5_SOKOTO_TEXT">
+			<Text>Located above steep escarpments on the confluence of two rivers in Nigeria, Sokoto was the fortress-capital of the Sokoto Caliphate, which reached its peak of power and prestige in the 1820s. Previously it had been the center of several Islamic kingdoms of pre-colonial Sudan, historical records of which have been lost. In 1827 AD, the explorer Hugh Clapperton was the first European to discover the town. Following the conquest of Sokoto by the English in 1903, the caliphate was broken up, with much of its territory being added to the British colony of Nigeria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUNKEYA_TEXT">
+			<Text>In the late 1800s, Msiri, the son of an East African trader, established the town of Bunkeya and built a commercial empire. His Bayeke tribe dominated a vast part of the east Congo basin, trading ivory, copper and iron ore, salt and slaves to the Arabs on the coast for guns and ammunition to maintain their kingdom. Concerned when the British showed interest in the area, King Leopold III of Belgium dispatched three expeditions to bring about Msiri's submission. The third, launched from Zanzibar, forced Bayeke forces to retreat from Bunkeya in 1891 AD; Msiri himself was killed shortly thereafter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEGOU_TEXT">
+			<Text>Founded by the Soninke people around the 11th Century AD, the city-state of Segou prospered under the guidance of king Biton Coulibaly from 1712 to 1755. Primarily a trading center, it had close economic relations with Djenne, Timbuktu and Macina. Under the rule of Mamary Coulibaly, the city joined Djenne and Macina to form the Bambara kingdom. Around 1860, El Hadj Umar Tall conquered Segou and converted the residents to Islam. The French invaded in the 1890s, occupying what was the former Bambara kingdom and making Segou the administrative center of their Office du Niger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BORNU_TEXT">
+			<Text>From 1380 to 1893 AD when it was conquered by the Sudanese, the Bornu Empire dominated the area of what is today Nigeria. A successor to the Sayfawa dynasty, the king of Kanem-Bornu, the skilled statesman Idris Alooma (1571-1603), took the empire to its greatest height of power, extent and prosperity. The administrative reforms and military brilliance of Alooma carried Bornu into the late 1700s, but the Fulani Jihad toppled the kingdom into anarchy. Following the expulsion of the Islamic Sudanese, Bornu was absorbed by the British Empire, forming the basis for its colony of Nigeria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_OUGADOUGOU_TEXT">
+			<Text>The Ninsi tribes of the Upper Volta had been in constant conflict for centuries until 1441 AD, when the semi-legendary warrior Wurbi led his tribe to victory, thus creating the Mossi Empire with Wogodogo (in French: Ouagadougou) as its capital. As a trading center, Ouagadougou attracted merchants and caravans from across the region and from both the east and west coasts of Africa. In 1896, a French colonial army under Paul Voulet and Julien Chanoine which had been dispatched to unify all the French claims in West Africa overwhelmed the Ninsi. Ouagadougou after liberation became the capital of Burkina Faso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LUBA_TEXT">
+			<Text>The Luba first appeared as a people c. 5th Century AD in the area around the Upemba Depression in what is the Congo. Starting in the 1580s, the Luba expanded rapidly from their city under the leadership of a series of able chieftains, overrunning neighboring tribes and securing their copper mines, fishing grounds and palm oil production. Under pressure from encroaching Europeans, the Luba went into decline, finally being forcibly incorporated into the Belgian Congo in 1885. The Luba rose in rebellion in 1895, but were virtually annihilated in the Belgian suppression of the revolt.</Text>
+		</Row>
+		<!--National Wonders-->
+		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL_HELP">
+			<Text>Trade routes other players make to a city with an Suez Canal will generate an extra 4 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 2 [ICON_GOLD] Gold for the trade route. Only one allowed in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUEZ_CANAL_TEXT">
+			<Text>Opened in 1869 after 10 years of construction, the Suez Canal is a waterway connecting the Mediterranean Sea to the Red Sea, allowing shipping and transportation between Europe and Asia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL_STRATEGY">
+			<Text>The Suez Canal increases the amount of [ICON_GOLD] Gold a city generates. Trade routes other players make to a city with an Suez Canal will generate an extra 4 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 2 [ICON_GOLD] Gold for the trade route. Only one allowed in the world.</Text>
+		</Row>
+		<!--In-Game Messages-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_ALLY_GAINED">
+			<Text>Military units from the city state of {1_CityStateName} have joined your army!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_ALLY_LOST">
+			<Text>The units from the city state of {1_CityStateName} will now return home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOLOMONS_MINES_FOUND">
+			<Text>You have found King Solomon's Mines! For this feat of exploration you receive {1_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOURCE_NILE_FOUND">
+			<Text>You have found the Source of the Nile! For this feat of exploration you receive {1_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LAKE_VICTORIA_FOUND">
+			<Text>You have found Lake Victoria! For this feat of exploration you receive {1_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_KILIMANJARO_FOUND">
+			<Text>You have found Mount Kilimanjaro! For this feat of exploration you receive {1_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOLOMONS_MINES_FOUND_OTHER">
+			<Text>An explorer from {1_CivName} has found King Solomon's Mines. That civilization earns {2_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOURCE_NILE_FOUND_OTHER">
+			<Text>An explorer from {1_CivName} has found the Source of the Nile. That civilization earns {2_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LAKE_VICTORIA_FOUND_OTHER">
+			<Text>An explorer from {1_CivName} has found Lake Victoria. That civilization earns {2_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_KILIMANJARO_FOUND_OTHER">
+			<Text>An explorer from {1_CivName} has found Mount Kilimanjaro. That civilization earns {2_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_ALL_RAILLINES_LOST">
+			<Text>The rail line built by {1_CivName} has been destroyed. That civilization loses {2_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_NEW_LONGEST_RR_PLAYER">
+			<Text>The rail line from {1_CityName} to {2_CityName} ({3_Length} hexes) is now the longest in Africa.  The {4_VPAmount} Victory Points for longest rail line are now awarded to {5_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LONGER_RR">
+			<Text>{1_CivName} has lengthened their longest rail line. The longest rail connection is now from {2_CityName} to {3_CityName} ({4_Length} hexes).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIG_COMPLETE">
+			<Text>Your explorer has unearthed an African artifact. {1_Num} VP earned.[NEWLINE][NEWLINE](The artifact is removed from the game, having been sent back to Europe).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_GREAT_WORKS_CAPTURED">
+			<Text>{1_Num} Great Work(s) were uncovered during the capture of {2_CityName}. These artifacts are being immediately returned to Europe and add {3_Num} VP to your score.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_GREAT_WORKS_CAPTURED_OTHER">
+			<Text>{1_Num} Great Work(s) were uncovered during the capture of {2_CityName} by {3_PlayerName}. These artifacts are being immediately returned to Europe and add {4_Num} VP to that civ's score.</Text>
+		</Row>
+		<!--Scoring-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_WONDERS">
+			<Text>Suez Canal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_WONDERS">
+			<Text>{1_Num} from Suez Canal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO1">
+			<Text>Longest Rail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO1">
+			<Text>{1_Num} for Longest Rail connection between cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO2">
+			<Text>Exploration/Artifacts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO2">
+			<Text>{1_Num} for Natural Maravilha/Artefato discovery </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO3">
+			<Text>North African Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO3">
+			<Text>{1_Num} for Lifetime [ICON_GOLD] Gold earned</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO4">
+			<Text>Sub-Saharan Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO4">
+			<Text>{1_Num} for Lifetime [ICON_CULTURE] Culture earned</Text>
+		</Row>
+		<!--Scenario-specific diplo modifiers-->
+		<Row Tag="TXT_KEY_SPECIFIC_DIPLO_STRING_1">
+			<Text>Your lands belong to me.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

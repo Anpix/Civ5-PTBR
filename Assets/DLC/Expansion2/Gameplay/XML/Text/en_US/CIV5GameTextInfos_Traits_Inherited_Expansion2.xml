@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION">
+			<Text>Mantém 50% da [ICON_HAPPINESS_1]Felicidade fornecida por um recurso de luxo se sua última fonte for negociada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION_SHORT">
+			<Text>Companhia Holandesa das Índias Orientais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE">
+			<Text>+1 de [ICON_PEACE]Fé por cada cidade com uma floresta adjacente não explorada. O bônus aumenta para +2 de [ICON_PEACE]Fé em cidades com 3 ou mais hexágonos com florestas não exploradas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT">
+			<Text>Conhecimento Druídico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF">
+			<Text>Escolha uma Crença a mais quando você fundar uma Religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF_SHORT">
+			<Text>Patriarca de Constantinopla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
+			<Text>Ganhe 90 de [ICON_INFLUENCE]Influência ao presentear uma Grande Pessoa a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Pessoas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
+			<Text>Prêmio Nobel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
+			<Text>Elimine cidades no dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia Pecuária. +1 de [ICON_PRODUCTION]Produção de Pastos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
+			<Text>Castigo de Deus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE">
+			<Text>Pode gastar [ICON_GOLD]Ouro para anexar ou transformar em fantoche uma Cidade-Estado que esteja aliada a você por 5 turnos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT">
+			<Text>Casamento Diplomático</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
+			<Text>Todas as cidades costeiras ganham um Ancoradouro gratuito. As unidades podem se movimentar sobre montanhas após o primeiro Grande General ser obtido, recebendo 50 pontos de dano se terminarem o turno sobre a montanha.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT">
+			<Text>Herança Fenícia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT">
+			<Text>Após pesquisar a Teologia, recebe uma Grande Pessoa como bônus ao fim de cada ciclo do calendário Maia Conta Longa (a cada 394 anos). Cada Grande Pessoa deste bônus pode ser escolhida somente uma vez.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT_SHORT">
+			<Text>A Conta Longa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH">
+			<Text>Bônus de combate (+20%) quando está lutando contra civilizações com mais cidades que a Etiópia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT">
+			<Text>Espírito de Adua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD">
+			<Text>Receba o triplo de [ICON_GOLD]Ouro de Acampamentos Bárbaros e cidades saqueadas. Unidades terrestres ganham as promoções Canoas de Guerra e Anfíbio, fortalecendo-os quando estão embarcados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
+			<Text>Sete Cidades de Ouro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES">
+			<Text>Bônus de [ICON_GOLD]Ouro por descobrir uma Maravilha Natural (o bônus é maior se for o primeiro a descobri-la). A [ICON_CULTURE]Cultura, a [ICON_HAPPINESS_1]Felicidade e o rendimento dos hexágonos de uma Maravilha Natural são dobrados.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

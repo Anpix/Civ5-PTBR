@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_TITLE">
+			<Text>Maravilhas do Mundo Antigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_DESC">
+			<Text>Muitas civilizações irão prosperar nas terras exuberantes do Crescente Fértil. Poderá seu povo ser lembrado para sempre como os maiores construtores de Maravilhas do Mundo Antigo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Ó grande líder, que as visões de construções grandiosas e arquiteturas transcendentes guiem o seu governo! Sua jovem civilização possui uma oportunidade gloriosa para se estabelecer e cultivar o Crescente Fértil. Com o tempo, o seu povo vai construir cidades prósperas e crescer forte nos caminhos da guerra, comércio, ciência e das artes. É natural que você construa grandes monumentos para comemorar estes sucessos! Você deve saber: os seus rivais não vão ficar de braços cruzados enquanto você constrói as maiores maravilhas do mundo. Então, você deve preparar suas cidades para serem as primeiras a construir essas maravilhas. Somente a civilização com os monumentos mais magníficos, as mais belas maravilhas que o mundo já conheceu, deve ser reverenciada pelo o resto do tempo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Jogue continuamente até que todas as 9 Maravilhas tenham sido construídas. A civilização vencedora será aquela com a maior pontuação naquele momento. Construa o máximo de Maravilhas possíveis para aumentar a sua pontuação; conquistar cidades com Maravilhas construídas por outras civilizações também ajuda.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O ritmo de pesquisa e aquisição de políticas é desacelerado para que você possa mergulhar nesta época distante. As cidades não podem ser eliminadas, de modo que as Maravilhas também não podem ser destruídas. As Maravilhas não são liberadas por meio de pesquisas. Verifique a tela de Status da Maravilha para ver como ganhar o direito de construir cada uma. E o Oráculo, disponível para ser construído no início, pode ser visitado por Grandes Pessoas para temporariamente revelar o progresso de outros jogadores no término das Maravilhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_ARABIA_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Ó grande líder, que as visões de construções grandiosas e arquiteturas transcendentes guiem o seu governo! Sua jovem civilização possui uma oportunidade gloriosa para se estabelecer e cultivar o Crescente Fértil. Com o tempo, o seu povo vai construir cidades prósperas e crescer forte nos caminhos da guerra, comércio, ciência e das artes. É natural que você construa grandes monumentos para comemorar estes sucessos! Você deve saber: os seus rivais não vão ficar de braços cruzados enquanto você constrói as maiores maravilhas do mundo. Então, você deve preparar suas cidades para serem as primeiras a construir essas maravilhas. Somente a civilização com os monumentos mais magníficos, as mais belas maravilhas que o mundo já conheceu, deve ser reverenciada pelo o resto do tempo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Jogue continuamente até que todas as 9 Maravilhas tenham sido construídas. A civilização vencedora será aquela com a maior pontuação naquele momento. Construa o máximo de Maravilhas possíveis para aumentar a sua pontuação; conquistar cidades com Maravilhas construídas por outras civilizações também ajuda.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O ritmo de pesquisa e aquisição de políticas é desacelerado para que você possa mergulhar nesta época distante. As cidades não podem ser eliminadas, de modo que as Maravilhas também não podem ser destruídas. As Maravilhas não são liberadas por meio de pesquisas. Verifique a tela de Status da Maravilha para ver como ganhar o direito de construir cada uma. E o Oráculo, disponível para ser construído no início, pode ser visitado por Grandes Pessoas para temporariamente revelar o progresso de outros jogadores no término das Maravilhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_EGYPT_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Ó grande líder, que as visões de construções grandiosas e arquiteturas transcendentes guiem o seu governo! Sua jovem civilização possui uma oportunidade gloriosa para se estabelecer e cultivar o Crescente Fértil. Com o tempo, o seu povo vai construir cidades prósperas e crescer forte nos caminhos da guerra, comércio, ciência e das artes. É natural que você construa grandes monumentos para comemorar estes sucessos! Você deve saber: os seus rivais não vão ficar de braços cruzados enquanto você constrói as maiores maravilhas do mundo. Então, você deve preparar suas cidades para serem as primeiras a construir essas maravilhas. Somente a civilização com os monumentos mais magníficos, as mais belas maravilhas que o mundo já conheceu, deve ser reverenciada pelo o resto do tempo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Jogue continuamente até que todas as 9 Maravilhas tenham sido construídas. A civilização vencedora será aquela com a maior pontuação naquele momento. Construa o máximo de Maravilhas possíveis para aumentar a sua pontuação; conquistar cidades com Maravilhas construídas por outras civilizações também ajuda.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O ritmo de pesquisa e aquisição de políticas é desacelerado para que você possa mergulhar nesta época distante. As cidades não podem ser eliminadas, de modo que as Maravilhas também não podem ser destruídas. As Maravilhas não são liberadas por meio de pesquisas. Verifique a tela de Status da Maravilha para ver como ganhar o direito de construir cada uma. E o Oráculo, disponível para ser construído no início, pode ser visitado por Grandes Pessoas para temporariamente revelar o progresso de outros jogadores no término das Maravilhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_GREECE_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Ó grande líder, que as visões de construções grandiosas e arquiteturas transcendentes guiem o seu governo! Sua jovem civilização possui uma oportunidade gloriosa para se estabelecer e cultivar o Crescente Fértil. Com o tempo, o seu povo vai construir cidades prósperas e crescer forte nos caminhos da guerra, comércio, ciência e das artes. É natural que você construa grandes monumentos para comemorar estes sucessos! Você deve saber: os seus rivais não vão ficar de braços cruzados enquanto você constrói as maiores maravilhas do mundo. Então, você deve preparar suas cidades para serem as primeiras a construir essas maravilhas. Somente a civilização com os monumentos mais magníficos, as mais belas maravilhas que o mundo já conheceu, deve ser reverenciada pelo o resto do tempo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Jogue continuamente até que todas as 9 Maravilhas tenham sido construídas. A civilização vencedora será aquela com a maior pontuação naquele momento. Construa o máximo de Maravilhas possíveis para aumentar a sua pontuação; conquistar cidades com Maravilhas construídas por outras civilizações também ajuda.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O ritmo de pesquisa e aquisição de políticas é desacelerado para que você possa mergulhar nesta época distante. As cidades não podem ser eliminadas, de modo que as Maravilhas também não podem ser destruídas. As Maravilhas não são liberadas por meio de pesquisas. Verifique a tela de Status da Maravilha para ver como ganhar o direito de construir cada uma. E o Oráculo, disponível para ser construído no início, pode ser visitado por Grandes Pessoas para temporariamente revelar o progresso de outros jogadores no término das Maravilhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_OTTOMANS_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Ó grande líder, que as visões de construções grandiosas e arquiteturas transcendentes guiem o seu governo! Sua jovem civilização possui uma oportunidade gloriosa para se estabelecer e cultivar o Crescente Fértil. Com o tempo, o seu povo vai construir cidades prósperas e crescer forte nos caminhos da guerra, comércio, ciência e das artes. É natural que você construa grandes monumentos para comemorar estes sucessos! Você deve saber: os seus rivais não vão ficar de braços cruzados enquanto você constrói as maiores maravilhas do mundo. Então, você deve preparar suas cidades para serem as primeiras a construir essas maravilhas. Somente a civilização com os monumentos mais magníficos, as mais belas maravilhas que o mundo já conheceu, deve ser reverenciada pelo o resto do tempo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Jogue continuamente até que todas as 9 Maravilhas tenham sido construídas. A civilização vencedora será aquela com a maior pontuação naquele momento. Construa o máximo de Maravilhas possíveis para aumentar a sua pontuação; conquistar cidades com Maravilhas construídas por outras civilizações também ajuda.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O ritmo de pesquisa e aquisição de políticas é desacelerado para que você possa mergulhar nesta época distante. As cidades não podem ser eliminadas, de modo que as Maravilhas também não podem ser destruídas. As Maravilhas não são liberadas por meio de pesquisas. Verifique a tela de Status da Maravilha para ver como ganhar o direito de construir cada uma. E o Oráculo, disponível para ser construído no início, pode ser visitado por Grandes Pessoas para temporariamente revelar o progresso de outros jogadores no término das Maravilhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_PERSIA_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Ó grande líder, que as visões de construções grandiosas e arquiteturas transcendentes guiem o seu governo! Sua jovem civilização possui uma oportunidade gloriosa para se estabelecer e cultivar o Crescente Fértil. Com o tempo, o seu povo vai construir cidades prósperas e crescer forte nos caminhos da guerra, comércio, ciência e das artes. É natural que você construa grandes monumentos para comemorar estes sucessos! Você deve saber: os seus rivais não vão ficar de braços cruzados enquanto você constrói as maiores maravilhas do mundo. Então, você deve preparar suas cidades para serem as primeiras a construir essas maravilhas. Somente a civilização com os monumentos mais magníficos, as mais belas maravilhas que o mundo já conheceu, deve ser reverenciada pelo o resto do tempo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Jogue continuamente até que todas as 9 Maravilhas tenham sido construídas. A civilização vencedora será aquela com a maior pontuação naquele momento. Construa o máximo de Maravilhas possíveis para aumentar a sua pontuação; conquistar cidades com Maravilhas construídas por outras civilizações também ajuda.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]O ritmo de pesquisa e aquisição de políticas é desacelerado para que você possa mergulhar nesta época distante. As cidades não podem ser eliminadas, de modo que as Maravilhas também não podem ser destruídas. As Maravilhas não são liberadas por meio de pesquisas. Verifique a tela de Status das Maravilhas para ver como ganhar o direito de construir cada uma. E o Oráculo, disponível para ser construído no início, pode ser visitado por Grandes Pessoas para temporariamente revelar o progresso de outros jogadores no término das Maravilhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_BRIEFING">
+			<Text>Instruções</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_WONDER_STATUS">
+			<Text>Status</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CONSULT_ORACLE">
+			<Text>Consultar Oráculo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_RANDOM_MAP">
+			<Text>Mar Interior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_FIXED_MAP">
+			<Text>Histórico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_BUILDING_SATRAPS_COURT_STRATEGY">
+			<Text>O Paço de Satrap é o edifício exclusivo Persa. Ele substitui o Mercado. Como um Mercado, o Paço de Satrap aumenta a produção de riqueza da cidade. Além disso, o Paço de Satrap também aumenta a felicidade da civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_BUILDING_SATRAPS_COURT_HELP">
+			<Text>O Paço de Satrap aumenta significativamente a produção de Ouro da cidade, além de sua felicidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULT_OSIRIS">
+			<Text>+1 de [ICON_CULTURE]Cultura de todos os edifícios [ICON_CULTURE]Culturais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULT_OSIRIS_SHORT">
+			<Text>Culto a Osíris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TWO_RIVERS">
+			<Text>Ganha um Grande Cientista ao pesquisar a Escrita. Todas as unidades gastam apenas 1 ponto de movimento para entrar em hexágonos adjacentes a um rio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TWO_RIVERS_SHORT">
+			<Text>Terra dos Dois Rios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FIRST_2_IRON">
+			<Text>Recursos Estratégicos fornecem +1 de [ICON_PRODUCTION]Produção e [ICON_RES_HORSE]Cavalo. Além disso, recursos de [ICON_RES_IRON]Ferro fornecem o dobro da quantidade normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FIRST_2_IRON_SHORT">
+			<Text>Primeiro Ferreiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NILOMETER_TEXT">
+			<Text>O Nilômetro era um dispositivo de medição Egípcio, destinado a referenciar os níveis de água do rio Nilo na época das cheias anuais. Os Egípcios utilizavam o Nilo para inundar as planícies ao redor todos os anos, visando depositar sedimentos para a fertilização, mas muita água iria destruir a infraestrutura de colheita, enquanto que pouca água poderia provocar uma fome generalizada. Os Egípcios usavam as leituras de inundação do Nilômetro para determinar o nível apropriado de impostos a serem aplicadas aos agricultores.[NEWLINE][NEWLINE]O Nilômetro em si tipicamente consistia ou de uma coluna em pé ou de um lance descendente de escadas que levava até um poço, que havia sido canalizado do rio. Ambas as configurações exibiam marcas incrementais para indicar a profundidade da água e os Egípcios mantiveram registros detalhados para comparações entre um ano e outro. Um dos exemplos sobreviventes mais antigos do Nilômetro está hoje na ilha de Roda, no Cairo, que se acredita ter sido construído no século IX, pelo astrônomo Persa Alfraganus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NILOMETER_STRATEGY">
+			<Text>O Nilômetro é o edifício exclusivo Egípcio, substituindo o Moinho d'Água. Ele aumenta a produção de [ICON_FOOD]Alimento e [ICON_GOLD]Ouro da cidade e só pode ser construído se acidade estiver perto de um rio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NILOMETER_HELP">
+			<Text>+15% de [ICON_FOOD]Alimento. Cada hexágono de Planícies Inundadas fornece +1 de [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]A cidade deve ter sido construída próxima a um rio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ZIGGURAT_TEXT">
+			<Text>Um marco dos esforços de construção Suméria, Babilônica e Assíria, o Zigurate evoluiu a partir de desenhos de antigos templos, que foram construídos sobre plataformas elevadas (provavelmente para evitar inundações). O colossal Zigurate tipicamente possui grandes santuários no nível mais alto, para ser visto apenas por sacerdotes e outras figuras religiosas. Predominantemente caracterizado como parte de um grande complexo de templos em geral, a finalidade exata do Zigurate permanece um mistério até hoje.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ZIGGURAT_STRATEGY">
+			<Text>O Zigurate é o edifício exclusivo Sumério, substituindo o Templo. O Zigurate aumenta a [ICON_CULTURE]Cultura da cidade, acelerando o crescimento de suas fronteiras e a aquisição de Políticas Sociais pela civilização. O Zigurate também fornece um bônus de [ICON_RESEARCH]Ciência à cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LIONS_GATE_TEXT">
+			<Text>Encontrado em Hattusa, a capital do Império Hitita, o Portão dos Leões foi uma grande passagem em forma de arco, construída por volta do século XIV a.C. Cada lado do portão possui uma grande figura em pedra de um leão, uma criatura de importância simbólica à sociedade Hitita, que era frequentemente encontrada em muitas das suas estruturas e monumentos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LIONS_GATE_STRATEGY">
+			<Text>O Portão dos Leões é o edifício exclusivo dos Hititas, substituindo as Muralhas. O Portão dos Leões aumenta a Força de Defesa da cidade, tornando-a mais difícil de ser capturada. Além disso, o Portão dos Leões aumenta em 25% o crescimento das fronteiras da cidade e fornece +2 de [ICON_GOLD]Ouro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LIONS_GATE_HELP">
+			<Text>O custo em [ICON_CULTURE]Cultura e [ICON_GOLD]Ouro para aquisição de novos hexágonos é reduzido em 25% na cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMERIAN_PHALANX">
+			<Text>Falange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SUMERIAN_PHALANX_TEXT">
+			<Text>Os Sumérios foram uma das primeiras civilizações a utilizar a formação Falange, onde uma formação densa de soldados, carregando grandes escudos e lanças, era capaz de proteger um ao outro contra ataques, enquanto se movia em conjunto e empurrava seus inimigos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMERIAN_PHALANX_STRATEGY">
+			<Text>A Falange é a unidade exclusiva dos Sumérios, substituindo o {TXT_KEY_UNIT_LANCER}. Ela fica disponível com tecnologia mais antiga que o {TXT_KEY_UNIT_LANCER} (Mineração ao invés de Bronze).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMERIAN_PHALANX_HELP">
+			<Text>Unidade de ataque corpo-a-corpo da Era Antiga, forte contra unidades de montaria. Possui a promoção Bônus vs Montaria (100). Somente os Sumérios podem treiná-la. Esta unidade possui uma maior [ICON_STRENGTH]Força de Combate que o {TXT_KEY_UNIT_LANCER}, que ela substitui.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT">
+			<Text>Biga Hitita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HITTITE_WARCHARIOT_TEXT">
+			<Text>A Biga Hitita, uma evolução dos desenhos existentes de bigas, era maior e mais robusta que aquelas geralmente encontradas entre os exércitos do Egito. Reduzindo o peso geral da biga e movendo as rodas mais para frente, a adaptação Hitita foi capaz de carregar até 3 guerreiros em uma simples biga. Essas bigas geralmente eram utilizadas para esmagar as linhas inimigas, destruindo e desmoralizando a amedrontada infantaria inimiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT_STRATEGY">
+			<Text>A Biga Hitita é a unidade exclusiva Hitita, substituindo o Biga Arqueira. Diferentemente do Biga Arqueira, a Biga Hitita é uma unidade de ataque a distância especializada em atacar e destruir infantarias inimigas. Esta unidade inicia com a promoção Choque.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT_HELP">
+			<Text>Poderosa unidade de ataque a distância da Era Antiga, forte em terreno aberto. Possui a promoção Choque I. Somente os Hititas podem treiná-la. Substitui o Biga Arqueira.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN_FIRSTGREETING_1">
+			<Text>Seja bem-vindo! Eu sou Gilgamesh do povo Sumério. Venha! Vamos admirar a suntuosidade do meu palácio!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN_FIRSTGREETING_2">
+			<Text>Ah! Uma nova estrela nasce no horizonte. Eu sou Gilgamesh da Suméria! Devo escrever um poema épico para celebrar nosso encontro histórico!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN_FIRSTGREETING_3">
+			<Text>Seja bem-vindo, estrangeiro! Eu sou Gilgamesh, governante da Suméria. Venha! Conte-me sobre o seu império.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_HARUN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Você não pode se esconder dos deuses. Se você escolher nos enfrentar, você estará se condenando à perdição eterna.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_1">
+			<Text>Por minha barba e barriga, eu estou feliz por ter encontrado você! Eu sou Muwatallis, líder dos poderosos Hititas!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_2">
+			<Text>A nação Hitita o saúda, estrangeiro! Eu sou Muwatallis!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_3">
+			<Text>Saudações, estrangeiro! Eu sou Muwatallis, líder dos Hititas! Vamos banquetear para celebrarmos esta grande ocasião!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_GREETING_POLITE_HELLO_1">
+			<Text>Ah, seja bem-vindo novamente. O Império Hitita sempre se alegra em entreter seus amigos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>Seja bem-vindo ao Império Hitita, joia da civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_SULEIMAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Diga-me. Você pretende atacar o poderoso Império Hitita? A posição do seu exército parece indicar isso. Eu lhe darei um conselho: será um grande erro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_SULEIMAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>O que é isso?! O que você pensa estar fazendo ao expandir suas fronteiras tão perto do Império Hitita? Pare isso imediatamente!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_RESPONSE_REQUEST_1">
+			<Text>O Império Hitita parece ter um caminho difícil à frente. Eu poderia pedir ao bom amigo ajuda?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CONSULT_ORACLE_HELP">
+			<Text>Envie uma Grande Pessoa aos subúrbios de {@1_CityName} para consultar o Oráculo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CONSULT_ORACLE_ACTIVE">
+			<Text>O Oráculo está revelando quais civilizações estão mais próximas de construir as Maravilhas! ({1_TurnsRemaining} {1: plural 1?turno restante; other?turnos restantes;})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_MYSTICAL_WONDER_HEADING">
+			<Text>MARAVILHA MÍSTICA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CULTURAL_WONDER_HEADING">
+			<Text>CULTURAIS ([ICON_CULTURE]Cultura)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_ECONOMIC_WONDER_HEADING">
+			<Text>ECONÔMICAS ([ICON_GOLD]Rendimento Bruto Total)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_SCIENTIFIC_WONDER_HEADING">
+			<Text>CIENTÍFICAS ([ICON_RESEARCH]Tecnologias)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_MILITARY_WONDER_HEADING">
+			<Text>MILITARES ([ICON_GREAT_PEOPLE]Progresso de Grande General)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_UNDER_CONSTRUCTION">
+			<Text>Sendo construída em {@1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_UNDER_CONSTRUCTION_BY">
+			<Text>{@1_CivName} construindo em {@2_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_BUILT_BY">
+			<Text>Construída {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName} em {@2_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CAPTURED_BY">
+			<Text>[ICON_OCCUPIED]Capturada {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_UNLOCKED">
+			<Text>Liberada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_UNLOCKED_BY">
+			<Text>Liberada {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LOCKED">
+			<Text>[ICON_LOCKED]Bloqueada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LOCKED_BY">
+			<Text>[ICON_LOCKED]Bloqueada {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_WONDER_UNLOCKED">
+			<Text>Graças aos seus avanços, sua civilização liberou o poder para construir {@1: gender masculine?{@1: plural 1?o; other?os;}; other?{@1: plural 1?a; other?as;};} {@1_WonderName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_BUILT">
+			<Text>{@1_CivName} {@1: plural 1?completou; other?completaram;} o Oráculo! Para consultar o Oráculo, traga uma Grande Pessoa a uma distância de até {2_HexDist} {2: plural 1?hexágono; other?hexágonos;} de {@3_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ASK_CONSULT_ORACLE">
+			<Text>{@1_UnitName} {@1: plural 1?deverá; other?deverão;} consultar o Oráculo?[NEWLINE][NEWLINE]Isso durará {2_ConsultDuration} {2: plural 1?turno; other?turnos;}. Esta Grande Pessoa não poderá consultar o Oráculo novamente, mas não será consumida.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_CONSULTED">
+			<Text>EXIBINDO: Informação revelada pela consulta ao Oráculo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_CONSULTED_BY">
+			<Text>{@1_CivName} {@1: plural 1?consultou; other?consultaram;} o Oráculo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_EXPIRED">
+			<Text>EXIBINDO: Informação conhecida por sua civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_GIBRALTER_TEXT">
+			<Text>Lendária casa dos deuses da mitologia Grega, o Monte Olimpo é a maior montanha da Grécia e possui mais de 50 picos, o maior deles sendo o Mytikas com 2.917 metros. Na mitologia, a "Guerra dos Titãs" ocorreu ao redor e no Monte Olimpo, quando os deuses do Panteão, liderados por Zeus, lutaram contra os antigos Titãs pela supremacia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_KRAKATOA_TEXT">
+			<Text>A erupção de Santorini (também conhecida como a Erupção Minoica), foi uma explosão vulcânica devastadoramente poderosa, ocorrida em uma pequena ilha na costa sudeste da Grécia, que destruiu numerosos assentamentos Minoicos. Ocorrendo por volta de 1600 a.C., a erupção é considerada uma das mais poderosas da história humana, atingindo uma magnitude 7 na escala de explosividade vulcânica Índice (que vai de 1 a 8). Hoje, a cadeia de pequenas ilhas formadas a partir da caldeira vulcânica é conhecida coletivamente como Santorini, um popular destino turístico no Mar Egeu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_GRANDMESA_TEXT">
+			<Text>Uma região conhecida por suas proeminentes maravilhas naturais, Capadócia é encontrada na Turquia central. As torres de rocha imponentes, conhecidas como "Hoodoos", ou "chaminés de fadas", são encontradas em toda a Província de Nevsehir e servem como uma atração popular para o turismo na área.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_FUJI_TEXT">
+			<Text>Um vulcão adormecido, encontrado no leste da Turquia, o Monte Ararat é o pico mais alto na Turquia, com 5.137 metros. Dito ser o lugar de descanso final da Arca de Noé após o grande dilúvio bíblico, o Monte Ararat é também o lar para os deuses da mitologia Armênia, semelhante ao Monte Olimpo da mitologia Grega.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_DIPLO_MY_SCORE_WONDERS">
+			<Text>{1_Num} de Maravilhas Construídas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+			<Text>{1_Num} de Maravilhas em seu Controle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_VICTORY_TIME">
+			<Text>Maravilhas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_VICTORY_TIME_BANG">
+			<Text>Maravilhas Completadas!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_VICTORY_FLAVOR_TIME">
+			<Text>Você emergiu triunfante do berço da civilização com Maravilhas magníficas que contam a sua glória, tanto aos seus inimigos derrotados quanto a incontáveis gerações futuras.</Text>
+		</Row>
+		<!-- CIVILOPEDIA ENTRIES -->
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_SUBTITLE">
+			<Text>Rei dos Hititas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_LIVED">
+			<Text>1320 - 1294 a.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_TEXT_1">
+			<Text>Embora os registros históricos de seu governo sejam limitados, Muwatallis serviu como rei dos Hititas por cerca de 20 curiosos anos no século XIV a.C. Muwatallis é mais conhecido como o rei Hitita que lutou contra o faraó Egípcio Ramsés II pelo maior controle da Síria, na épica Batalha de Kadesh, em 1274 a.C. Travada perto do local da antiga cidade de Cades, a batalha é notável pelo grande número de Bigas envolvidas, que dizem ter sido contadas aos milhares. Embora o resultado verdadeiro da batalha seja desconhecido, inclinando-se com evidência em favor dos Egípcios, parece que ambos os lados acabaram por recuar depois de sofrerem perdas substanciais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_SUBTITLE">
+			<Text>Rei da Suméria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_LIVED">
+			<Text>2500 - ? a.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_TEXT_1">
+			<Text>O lendário rei Sumério Gilgamesh é amplamente conhecido como o assunto da "Epopeia de Gilgamesh", um dos primeiros exemplos conhecidos do mundo de literatura. Governando por volta de 2500 a.C., Gilgamesh era o rei de Uruk, uma Cidade-Estado que serviu como capital durante o período de Uruk (numa fase inicial da civilização Suméria). Apesar de muitas das façanhas de Gilgamesh serem consideradas fatos mitológicos, ele é creditado com a construção dos Muros de Uruk, que coincide com referências históricas de um crescimento da população urbana e a construção de cidades muradas durante este período.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_SUMERIA_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_SUMERIA_TEXT_1">
+			<Text>A civilização dos antigos Sumérios foi criada na Mesopotâmia (especificamente em porções do Iraque moderno), durante o sexto milênio a.C., e prosperou por quase 3.000 anos. Arqueólogos contemporâneos descobriram uma série de avanços fundamentais feitos pelos Sumérios durante sua história, em particular nas áreas da agricultura, matemática e escrita. [NEWLINE][NEWLINE]Conhecidos por utilizarem práticas agrícolas avançadas, incluindo o uso de irrigação e cultivo da safra durante todo o ano, os Sumérios aproveitaram o solo rico, encontrado no Crescente Fértil, para estabelecerem assentamentos permanentes na região. [NEWLINE][NEWLINE]Talvez mais importante, os Sumérios desenvolveram um dos primeiros idiomas escritos do mundo, a "Escrita Cuneiforme", que os arqueólogos descobriram em centenas de tabletes de argila, encontrados em toda a área. A "Epopeia de Gilgamesh", considerada uma das primeiras grandes obras da literatura de todos os tempos, narra as aventuras do rei Sumério Gilgamesh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_HITTITES_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_HITTITES_TEXT_1">
+			<Text>Atingindo o auge do poder em torno de 1500 a.C., o império dos Hititas englobou grandes faixas de terra na Anatólia (Ásia Menor) e partes da Síria que fazem fronteira com o reino Egípcio. Fundados por Hattusili I, em 1700 a.C. (imagina-se), os Hititas teriam de enfrentar um fluxo e refluxo de sucessos e derrotas militares por mais de 500 anos. Conhecidos pela sua utilização bem sucedida de Bigas, os Hititas conquistaram uma série de rivais vizinhos, só para chegar a um impasse com os Egípcios na renomada Batalha de Kadesh, possivelmente a maior batalha com Bigas da história.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_WONDER_ORACLE_HELP">
+			<Text>1 Política Social gratuita.[NEWLINE]Ao trazer uma Grande Pessoa próxima à cidade com o Oráculo, será revelado o progresso de outros jogadores na construção das Maravilhas. A consulta ao Oráculo desta maneira pode ser feita por qualquer jogador.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

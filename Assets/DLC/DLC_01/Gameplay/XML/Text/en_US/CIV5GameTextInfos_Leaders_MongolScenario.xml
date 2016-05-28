@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG">
+			<Text>Zhangzong</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER">
+			<Text>Miguel VIII</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+	</Language_en_US>
+</GameData>

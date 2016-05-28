@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+    <Language_en_US>
+        <Row Tag="TXT_KEY_BUILDING_STATUE_ZEUS">
+            <Text>Estátua de Zeus|Estátuas de Zeus</Text>
+            <Gender>feminine|feminine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_HELP">
+            <Text>Requer Honra. Todas as unidades ganham +15% de [ICON_STRENGTH]Força de Combate quando atacam cidades.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_DESC">
+            <Text>Com mais de 12 metros de altura, a Estátua de Zeus, encontrada no Templo de Zeus em Olímpia, Grécia, foi outra das Sete Maravilhas do Mundo Antigo. Conhecida por ter sido construída pelo escultor grego Fídias, em 440 a.C., mesmo com Zeus sentado em um trono de ouro, a enorme estátua mal podia ser contida pelo próprio templo. Imagina-se que a estátua tenha sido destruída o mais tardar em 425 d.C., quando o templo de Zeus foi queimado. Se a estátua ainda estava presente naquele momento, é assunto de muito debate.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_QUOTE">
+            <Text>[NEWLINE][TAB][TAB]"Ele falou, o filho de Cronos, e inclinou sua cabeça com as sobrancelhas negras, e os cabelos imortalmente ungidos do grande deus ondularam sobre sua fronte e todo o Olimpo tremeu."[NEWLINE][TAB][TAB] - A Ilíada[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS">
+            <Text>Estátua de Zeus</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS_HELP">
+            <Text>+15% de [ICON_STRENGTH]Força de Combate quando estiver atacando cidades.</Text>
+        </Row>
+        <!-- WONDERS -->
+        <Row Tag="TXT_KEY_BUILDING_ALHAMBRA">
+            <Text>Alhambra</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_CN_TOWER">
+            <Text>Torre CN</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_HUBBLE">
+            <Text>Telescópio Espacial Hubble</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_LEANING_TOWER">
+            <Text>Torre de Pisa</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_MOSQUE_OF_DJENNE">
+            <Text>Grande Mesquita de Djenné</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_NEUSCHWANSTEIN">
+            <Text>Castelo de Neuschwanstein</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_PETRA">
+            <Text>Petra</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_TERRACOTTA_ARMY">
+            <Text>Exército de Terracota</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL">
+            <Text>Grande Firewall</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <!-- NATIONAL WONDERS -->
+        <Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY">
+            <Text>Agência Nacional de Inteligência</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE">
+            <Text>Grande Templo</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <!-- BUILDINGS -->
+        <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
+            <Text>Anfiteatro|Anfiteatros</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_SHRINE">
+            <Text>Santuário|Santuários</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
+            <Text>Centro de Reciclagem|Centros de Reciclagens</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
+            <Text>Abrigo Antiaéreo|Abrigos Antiaéreo</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_CONSTABLE">
+            <Text>Guarda Policial|Guardas Policiais</Text>
+            <Gender>feminine|feminine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_POLICE_STATION">
+            <Text>Distrito Policial|Distritos Policiais</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <!--RELIGION BUILDINGS -->
+        <Row Tag="TXT_KEY_BUILDING_CATHEDRAL">
+            <Text>Catedral|Catedrais</Text>
+            <Gender>feminine|feminine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_MOSQUE">
+            <Text>Mesquita|Mesquitas</Text>
+            <Gender>feminine|feminine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_PAGODA">
+            <Text>Pagode|Pagodes</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <!-- UNIQUE BUILDINGS -->
+        <Row Tag="TXT_KEY_BUILDING_STELE">
+            <Text>Estela</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+    </Language_en_US>
+</GameData>

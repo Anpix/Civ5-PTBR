@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_DESC">
+			<Text>Ducado da Normandia</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>Normandia</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>Normando|Normanda|Normandos|Normandas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_DESC">
+			<Text>Império Norueguês</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>Noruega</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>Norueguês|Norueguesa|Noruegueses|Norueguesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>Inglaterra Anglo-Saxã</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+	</Language_en_US>
+</GameData>

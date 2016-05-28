@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_ANACONDA_PLAN_SHORT">
+			<Text>Plano Anaconda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_ANACONDA_PLAN">
+			<Text>Apenas {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[2]} e unidades terrestres da União podem embarcar neste cenário.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_REBEL_YELL_SHORT">
+			<Text>Grito Rebelde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_REBEL_YELL">
+			<Text>As unidades recebem automaticamente uma Promoção de Combate de +10%.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+	<Language_en_US>
+
+    <!--General phrases -->
+    <!--Greeting (first time meeting) -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_1">
+      <Text>Eu sou William de Orange, da Holanda. Você precisa de algo? Estou muito ocupado.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_2">
+      <Text>Quais negócios você possui na Holanda? Eu sou William de Orange, seu soberano governante.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_3">
+      <Text>Seja bem-vindo à corte de William de Orange, pai da Holanda. Não fique aí parado... O que você quer?</Text>
+    </Row>
+    <!--Reacts to his bluff being called -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_1">
+      <Text>Que perda de tempo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_2">
+      <Text>Isso é ridículo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_3">
+      <Text>Quão tolo você é.</Text>
+    </Row>
+    <!--Gloats after winning a war -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_WINWAR_1">
+      <Text>Que isso sirva de lição para você... espero que você se lembre.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_WINWAR_2">
+      <Text>Você não é melhor que um mercenário deplorável. Você terá que fazer muito mais para me derrotar.</Text>
+    </Row>
+    <!--Submissive after losing a war -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_LOSEWAR_1">
+      <Text>...inconcebível! Que tipo de artimanha você usou para me vencer?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_LOSEWAR_2">	
+      <Text>Eu me lembrarei disso. Escreva minhas palavras.</Text>
+    </Row>
+    <!--Defeated and removed from game -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_1">
+      <Text>Meu Deus, tenha piedade de minha alma; Meu Deus, tenha piedade desse meu pobre povo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_2">
+      <Text>Talvez seja melhor assim... ao menos agora não terei que testemunhar a destruição da minha amada nação por você.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_3">
+      <Text>Maldito! Eu tinha esperanças de proteger meu povo de todo tipo de escravidão estrangeira, mas aparentemente eles irão sofrer sob o seu julgo.</Text>
+    </Row>    
+    <!--Neutral -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_1">
+      <Text>Bom dia.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_2">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1}</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_1">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_2">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_YES_NEUTRAL">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2}</Text>
+    </Row>
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>Eu continuo não entendendo por que isso seria do meu interesse.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_2}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_3}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_NEUTRAL">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_NEUTRAL}</Text>
+    </Row>
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL">
+      <Text>Será a última vez, eu prometo.</Text>
+    </Row> 
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_NEUTRAL">
+      <Text>Você fala sério?</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_NEUTRAL">
+      <Text>Venha. Acredito ter algo que lhe interessa.</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL">
+      <Text>Uma pequena amostra da sua gratidão seria apreciada neste momento crítico.</Text>
+    </Row>  
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_1">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_1}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_2">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2}</Text>
+    </Row>
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_1">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_1}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_2">
+      <Text>Não.</Text>
+    </Row>
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_1">
+      <Text>O quê?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_2">
+      <Text>Sim.</Text>
+    </Row>    
+    <!--Happy -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_3}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_4">
+      <Text>Olá, novamente.</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_4">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2}</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_YES_HAPPY">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_HAPPY}</Text>
+    </Row>
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_1">
+      <Text>Eu não posso aceitar isto em plena consciência. Ainda não...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_2">
+      <Text>{TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_2}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_3}</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_HAPPY">
+      <Text>{TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_2}</Text>
+    </Row>
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">
+      <Text>Nós estamos sempre prontos para ajudar um aliado em dificuldades.</Text>
+    </Row>
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_HAPPY">
+      <Text>Não desta vez, amigo. Temos nossos próprios problemas para lidar.</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_HAPPY">
+      <Text>Acredito que nossos povos podem se beneficiar deste acordo.</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY">
+      <Text>Sua ajuda seria muito apreciada, amigo. Sua generosidade é renomada.</Text>
+    </Row>
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_3}</Text>
+    </Row> 
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_3}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_4">
+      <Text>{TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_4}</Text>
+    </Row> 
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_4">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4}</Text>
+    </Row>    
+    <!--Angry -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_5">
+      <Text>{TXT_KEY_LEADER_BOUDICCA_GREETING_5}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_6">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_6}</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_5">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_5}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_6">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_6}</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_YES_ANGRY">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_HAPPY}</Text>
+    </Row> 
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_1">
+      <Text>Você está começando a se parecer com minha segunda esposa. E ela era um tanto louca...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_2">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_3">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_3}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_4">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4}</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_ANGRY">
+      <Text>Estou começando a pensar que isso é algo tipo de intriga para me neutralizar. Vá embora!</Text>
+    </Row>  
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_ANGRY">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_1}</Text>
+    </Row>
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_ANGRY">
+      <Text>Sob nenhuma circunstância isto poderá ser aceito.</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_ANGRY">
+      <Text>Meu povo vem antes do meu orgulho, por mais amargo que isso possa ser.</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_ANGRY">
+      <Text>Eu permitirei que você continue em sua miserável existência, se assim você me agradar.</Text>
+    </Row>
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_4">
+      <Text>{TXT_KEY_LEADER_DIDO_AGREE_SHORT_4}</Text>
+    </Row>
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_5">
+      <Text>{TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_5}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_6">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_7">
+      <Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_7}</Text>
+    </Row>
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_5">
+      <Text>Fale.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_1">
+      <Text>Você se provou um governante incapaz e eu não posso mais suportar a lamúria do seu povo. Eles serão libertados de sua tirania.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_2">
+      <Text>Você sabe que foi o que você fez que nos levou a isto. Uma sequência de eventos infeliz.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_3">
+      <Text>Embora eu odeie guerras, considero sua eliminação uma forma de prestação de serviço público.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_ATTACKED_1">
+      <Text>Esse descaso injustificado pela vida humana não será mais tolerado.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_ATTACKED_2">
+      <Text>Que seja.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_ATTACKED_3">
+      <Text>Você se diz governante de homens, mas tudo que vejo é um bárbaro com roupas finas.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_QUOTE_1">
+      <Text>Há somente uma forma de assegurar que eu nunca veja meu país em ruínas: morrer lutando por isso.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WILLIAM_QUOTE_2">
+      <Text>Para agir não é preciso esperança, tão pouco o sucesso é necessário para perseverar.</Text>
+    </Row>
+	</Language_en_US>
+</GameData>

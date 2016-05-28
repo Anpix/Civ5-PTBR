@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_en_US>
+        <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE">
+            <Text>Hidrocultura</Text>
+            <Gender>feminine</Gender> 
+			<Plurality>1</Plurality>						            
+        </Row>
+        <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING">
+            <Text>Escultura Ornamental</Text>
+            <Gender>feminine</Gender> 
+			<Plurality>1</Plurality>						                        
+        </Row>
+        <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO">
+            <Text>Tatuagem</Text>
+            <Gender>feminine</Gender> 
+			<Plurality>1</Plurality>						                        
+        </Row>
+        <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE">
+            <Text>Dança Cerimonial</Text>
+            <Gender>feminine</Gender> 
+			<Plurality>1</Plurality>						                        
+        </Row>
+        <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING">
+            <Text>Orientação</Text>
+            <Gender>feminine</Gender> 
+			<Plurality>1</Plurality>						                        
+        </Row>
+    </Language_en_US>
+</GameData>

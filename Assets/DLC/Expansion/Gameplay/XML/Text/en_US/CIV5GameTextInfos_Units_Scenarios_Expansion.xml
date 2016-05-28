@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<!-- FALL OF ROME -->
+		<Row Tag="TXT_KEY_UNIT_CLIBANARII">
+			<Text>Clibanário|Clibanários</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN">
+			<Text>Machada|Machadas</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_AXEMAN">
+			<Text>Machadinha|Machadinhas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA">
+			<Text>Trirremiola|Trirremiolas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOTH_GADRAUHT">
+			<Text>Valente|Valentes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD">
+			<Text>Castigo de Deus|Castigos de Deus</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD">
+			<Text>Couraçado Terrestre|Couraçados Terrestres</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANDSHIP">
+			<Text>Tanque Ultrapesado|Tanques Ultrapesados</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN">
+			<Text>Leviatã Terrestre|Leviatãs Terrestres</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLYER">
+			<Text>Voador|Voadores</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIRSHIP">
+			<Text>Avião|Aviões</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS">
+			<Text>Fortaleza Aérea|Fortalezas Aéreas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY">
+			<Text>Mameluco|Mamelucos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
+			<Text>Arqueiro de Arco Longo Galês|Arqueiros de Arco Longo Galeses</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+	</Language_en_US>
+</GameData>

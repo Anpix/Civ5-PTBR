@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_TITLE">
+		<Text>Continentes Misturados</Text>
+	</Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_DESC">
+      <Text>Pacote de Mapa Continentes Misturados</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA">
+      <Text>África</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DUEL">
+      <Text>África - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_SMALL">
+      <Text>África - Pequeno</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_STANDARD">
+      <Text>África - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_LARGE">
+      <Text>África - Grande</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DESC">
+      <Text>Um mapa da África randômico, exceto por algumas funcionalidades chave.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED">
+      <Text>Antártica Descongelada</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED_DESC">
+      <Text>Uma versão randômica e fantasiosa da Antártica onde apenas uma pequena porção permanece congelada.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH">
+      <Text>Terra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_TINY">
+      <Text>Terra - Minúsculo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DUEL">
+      <Text>Terra - Duelo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_SMALL">
+      <Text>Terra - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_STANDARD">
+      <Text>Terra - Padrão</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_LARGE">
+      <Text>Terra - Grande</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_HUGE">
+      <Text>Terra - Enorme</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DESC">
+      <Text>A Terra inteira com paisagens geograficamente corretas e terreno e características randômicos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA">
+      <Text>Ásia Oriental</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_DESC">
+      <Text>Um mapa da Ásia Oriental onde as paisagens e o Himalaia são constantes, com todos os demais terrenos randômicos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL">
+      <Text>Ásia Oriental - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL_DESC">
+      <Text>Um pequeno mapa da Ásia Oriental onde as paisagens e o Himalaia são constantes, com todos os demais terrenos randômicos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE">
+      <Text>Ásia Oriental - Grande</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE_DESC">
+      <Text>Um grande mapa da Ásia Oriental onde as paisagens e o Himalaia são constantes, com todos os demais terrenos randômicos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE">
+      <Text>Europa Ocidental</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_DESC">
+      <Text>Um mapa da Europa Ocidental, onde as paisagens e as cadeias de montanhas são constantes, com todos os demais terrenos e características randômicos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL">
+      <Text>Europa Ocidental - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL_DESC">
+      <Text>Um pequeno mapa da Europa Ocidental, onde as paisagens e as cadeias de montanhas são constantes, com todos os demais terrenos e características randômicos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD">
+      <Text>Europa Ocidental - Padrão</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD_DESC">
+      <Text>Um mapa padrão da Europa Ocidental, onde as paisagens e as cadeias de montanhas são constantes, com todos os demais terrenos e características randômicos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA">
+      <Text>Oceania</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA_DESC">
+      <Text>Similar ao Arquipélago, com um agrupamento de pequenos continentes, pequenas ilhas e muito mar aberto.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS">
+      <Text>Continentes Pequenos Extra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS_DESC">
+      <Text>Uma nova visão do mapa Continentes Pequenos original, adicionando vastas cadeias de ilhas e melhor geração de continente.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA">
+		<Text>América do Norte</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DUEL">
+		<Text>América do Norte - Duelo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_TINY">
+		<Text>América do Norte - Minúsculo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_SMALL">
+		<Text>América do Norte - Pequeno</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_STANDARD">
+		<Text>América do Norte - Padrão</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_LARGE">
+		<Text>América do Norte - Grande</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_HUGE">
+		<Text>América do Norte - Enorme</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DESC">
+		<Text>Um mapa da América do Norte medindo da Colômbia ao Alasca, onde as paisagens e a tundra são constantes e todos os outros terrenos e características randômicos.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA">
+		<Text>América do Sul</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_TINY">
+		<Text>América do Sul - Minúsculo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_STANDARD">
+		<Text>América do Sul - Padrão</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_DESC">
+      <Text>Um mapa da América do Sul, onde a paisagem é constante e todos os outros terrenos e características randômicos, incluindo as cadeias de montanhas móveis.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST">
+		<Text>Oriente Médio</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DUEL">
+		<Text>Oriente Médio - Duelo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_TINY">
+		<Text>Oriente Médio - Minúsculo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_SMALL">
+		<Text>Oriente Médio - Pequeno</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_STANDARD">
+		<Text>Oriente Médio - Padrão</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_LARGE">
+		<Text>Oriente Médio - Grande</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DESC">
+		<Text>Um mapa do Oriente Médio medindo do Mar Negro ao Mar da Arábia, onde as paisagens são constantes e toos os outros terrenos randômicos.</Text>
+	</Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTO_DOMINGO">
+			<Text>Santo Domingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOMBRE_DE_DIOS">
+			<Text>Nombre de Dios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_JUAN">
+			<Text>San Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAVANA">
+			<Text>Havana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANAMA">
+			<Text>Panama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VERACRUZ">
+			<Text>Veracruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
+			<Text>Acapulco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARTAGENA">
+			<Text>Cartagena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUENOS_AIRES">
+			<Text>Buenos Aires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALLAO">
+			<Text>Callao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
+			<Text>Assunção</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALPARAISO">
+			<Text>Valparaiso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTIGUA">
+			<Text>Antigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROANOKE_ISLAND">
+			<Text>Ilha Roanoke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAMESTOWN">
+			<Text>Jamestown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_GEORGE">
+			<Text>St. George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_JOHNS">
+			<Text>St. John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH_COLONY">
+			<Text>Colônia Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALEM">
+			<Text>Salem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WETHERSFIELD">
+			<Text>Wethersfield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_MARYS_CITY">
+			<Text>St. Mary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYBROOK">
+			<Text>Saybrook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROVIDENCE">
+			<Text>Providence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLESBOURG_ROYALE">
+			<Text>Charlesbourg Royale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MONTREAL">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FRANCE_ANTARCTIQUE">
+			<Text>França Antártica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_CAROLINE">
+			<Text>Fort Caroline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TADOUSSAC">
+			<Text>Tadoussac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORT_ROYAL">
+			<Text>Port Royal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QUEBEC">
+			<Text>Quebec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAINT_CRISTOPHE">
+			<Text>Saint Cristophe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TROIS_RIVIERES">
+			<Text>Trois Rivieres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOMINICA">
+			<Text>Dominica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_SAINT_PIERRE">
+			<Text>Fort Saint Pierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAYENNE">
+			<Text>Cayenne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LA_GRENADE">
+			<Text>La Grenade</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

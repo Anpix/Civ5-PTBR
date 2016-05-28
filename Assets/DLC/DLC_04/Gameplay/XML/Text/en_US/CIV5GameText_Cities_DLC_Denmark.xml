@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities Denmark-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_RIBE">
+			<Text>Ribe</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIBORG">
+			<Text>Viborg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROSKILDE">
+			<Text>Roskilde</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAUPANG">
+			<Text>Kaupang</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TONSBERG">
+			<Text>Tunsberg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRONDHEIM">
+			<Text>Trondheim</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARPSBORG">
+			<Text>Sarpsborg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HEDEBY">
+			<Text>Hedeby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JELLING">
+			<Text>Jelling</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRUSO">
+			<Text>Truso</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FAEROERNE">
+			<Text>Faeroerne</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_REYKJAVIK">
+			<Text>Reykjavik</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GODTHAB">
+			<Text>Godthab</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HELLULAND">
+			<Text>Helluland</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARKLAND">
+			<Text>Markland</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELSINORE">
+			<Text>Elsinore</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ODENSE">
+			<Text>Odense</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AALBORG">
+			<Text>Aalborg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VORBASSE">
+			<Text>Vorbasse</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCHLESWIG">
+			<Text>Schleswig</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALOGALAND">
+			<Text>Halogaland</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RANDERS">
+			<Text>Randers</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOLDING">
+			<Text>Kolding</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HORSENS">
+			<Text>Horsens</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VEJLE">
+			<Text>Vejle</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOGE">
+			<Text>Koge</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOLSTEBRO">
+			<Text>Holstebro</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SLAGELSE">
+			<Text>Slagelse</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HILLEROD">
+			<Text>Hillerod</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SONDERBORG">
+			<Text>Sonderborg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SVENDBORG">
+			<Text>Svendborg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOLBAEK">
+			<Text>Holbaek</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HJORRING">
+			<Text>Hjorring</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLADSTRAND">
+			<Text>Fladstrand</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HADERSLEV">
+			<Text>Haderslev</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RINGSTED">
+			<Text>Ringsted</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SKIVE">
+			<Text>Skive</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LILLEHAMMER">
+			<Text>Lillehammer</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STAVANGER">
+			<Text>Stavanger</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KRISTIANSAND">
+			<Text>Kristiansand</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FREDRIKSTAD">
+			<Text>Fredrikstad</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TROMSOE">
+			<Text>Tromsoe</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANDNES">
+			<Text>Sandnes</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DRAMMEN">
+			<Text>Drammen</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SKIEN">
+			<Text>Skien</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+	</Language_en_US>
+</GameData>

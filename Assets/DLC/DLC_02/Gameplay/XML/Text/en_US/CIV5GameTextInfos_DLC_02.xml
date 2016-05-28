@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+  <Language_en_US>
+	<Row Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD_SHORT">
+      <Text>Grande Estrada Andina</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD">
+      <Text>As unidades ignoram os custos do terreno ao se moverem por um hexágono com colinas. Não há custo de manutenção para melhorias em colinas; no resto, metade do custo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_INCA_TITLE">
+      <Text>Inca</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_INCA_TEXT">
+      <Text>Ó grande que refazeis o mundo, vossos leais súditos o saúdam - Rei Pachacuti! Vós governais o povo Inca. Desde o seu início, na pequena Cidade-Estado de Cusco, os Incas mostravam o seu potencial à grandeza, marchando para guerra contra seus muitos inimigos, reduzindo seus exércitos ao pó e criando para si um poderoso império que abrange desde o Equador até o Chile. De fato, eles construíram o maior império já visto na América pré-Colombiana. Mais que meros soldados, o vosso povo era grande construtores e artistas, e o legado do trabalho deles ainda causa admiração e inspira o mundo atual.[NEWLINE][NEWLINE]Ó Rei Pachacuti, verdadeiramente vós sois chamado "O que muda a Terra"! Novamente ireis invocar o solo para lutar ao vosso lado? Vossos exércitos aguardam o sinal. Vós ireis restaurar a glória do vosso império? Podereis construir uma civilização que possa resistir ao teste do tempo?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
+      <Text>Sete Cidades de Ouro</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES">
+      <Text>Bônus de [ICON_GOLD]Ouro por descobrir uma Maravilha Natural (o bônus é maior se for o primeiro a descobri-la). A [ICON_CULTURE]Cultura, [ICON_HAPPINESS_1]Felicidade e o rendimento dos hexágonos com Maravilhas Naturais dobram.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SPAIN_TITLE">
+      <Text>Espanha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SPAIN_TEXT">
+      <Text>Abençoada Isabel, serva de Deus, Sagrada Rainha de Castela e Leão, vosso povo a saúda e vos dá as boas vindas! Vós sois a soberana da Espanha, um lindo e antigo país na encruzilhada do mundo, entre a Europa e a África, com uma costa no Mediterrâneo e a outra no poderoso Oceano Atlântico. Os Espanhóis são um povo multicultural, com raízes nos mundos Mulçumano e Cristão. Os exploradores Espanhóis, uma raça marítima, encontraram e conquistaram grande parte do Novo Mundo e, por muitos séculos, seu ouro e prata trouxeram à Espanha riqueza e poder incomparáveis, tornando-a invejável em todo o mundo.[NEWLINE][NEWLINE]Ó justa e virtuosa Isabel, ireis reconstruir o Império Espanhol e mostrar ao mundo a grandeza do vosso povo? Ireis colocar o manto da sagrada monarquia e aniquilar vossos inimigos sob o olhar Divino? Vossos súditos adoradores aguardam vossos comandos. Podereis construir uma civilização que resista ao teste do tempo?</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

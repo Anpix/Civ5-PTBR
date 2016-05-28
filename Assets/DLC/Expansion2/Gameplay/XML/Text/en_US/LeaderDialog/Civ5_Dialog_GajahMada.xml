@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+    <Language_en_US>
+        <!--General phrases -->
+        <!--Greeting (first time meeting) -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_FIRSTGREETING_1">
+            <Text>Você está diante do grande Gajah Mada da Indonésia! O que o traz ao meu império?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_FIRSTGREETING_2">
+            <Text>Bem-vindo à Indonésia! Eu sou Gajah Mada. Espero que as suas intenções sejam nobres aqui...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_FIRSTGREETING_3">
+            <Text>Saudações! Sou Gajah Mada da Indonésia! Bem-vindo ao meu glorioso império!</Text>
+        </Row>
+        <!-- Reage ao seu bluff sendo chamado -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WARBLUFF_1">
+            <Text>Suas palavras soam ocas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WARBLUFF_2">
+            <Text>Você está jogando um jogo perigoso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WARBLUFF_3">
+            <Text>Que decepcionante.</Text>
+        </Row>
+        <!-- Se alegra depois de vencer uma guerra -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WINWAR_1">
+            <Text>É sempre o melhor interesse dos meus inimigos evitar conflitos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WINWAR_2">
+            <Text>É sempre o melhor interesse dos meus inimigos evitar conflitos.</Text>
+        </Row>
+        <!-- Submissa depois de perder uma guerra -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LOSEWAR_1">
+            <Text>Você fez o impossível... derrotar-me certamente será o destaque de sua existência!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LOSEWAR_2">
+            <Text>Você fez o impossível... derrotar-me certamente será o destaque de sua existência!</Text>
+        </Row>
+        <!-- Derrotado e removido do jogo -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEFEATED_1">
+            <Text>Você conseguiu me derrotar... desta vez.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEFEATED_2">
+            <Text>Estou impressionado com a sua vitória, mesmo conseguida às minhas custas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEFEATED_3">
+            <Text>Posso ter sido derrotado, mas o meu espírito não vai ser conquistado!</Text>
+        </Row>
+        <!-- Neutro -->
+        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_1">
+            <Text>Bem-vindo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_2">
+            <Text>Saudações!</Text>
+        </Row>
+        <!-- Adeus -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_1">
+            <Text>Desapareça!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_2">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - sim -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_YES_NEUTRAL">
+            <Text>Concordo.</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - adoçar o negócio -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Isso não será suficiente para apaziguar o meu povo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Você pode fazer um pouco melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Quase...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Isso não é bom o suficiente. </Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - no -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NO_NEUTRAL">
+            <Text>Isso não serve para mim.</Text>
+        </Row>
+        <!-- A demanda por homenagem do jogador - sim -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_NEUTRAL">
+            <Text>Não confunda minha generosidade com fraqueza.</Text>
+        </Row>
+        <!-- A demanda por homenagem do jogador - no -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_NO_NEUTRAL">
+            <Text>A Indonésia não pode ajudar você neste momento.</Text>
+        </Row>
+        <!-- Solicita um comércio -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADEREQUEST_NEUTRAL">
+            <Text>Talvez possamos negociar?</Text>
+        </Row>
+        <!-- Exige tributo -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Terei prazer em ajudá-lo no futuro, se você me ajudar agora.</Text>
+        </Row>
+        <!-- Concorda -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_1">
+            <Text>Tudo bem.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_2">
+            <Text>Muito bem.</Text>
+        </Row>
+        <!--! Discorda -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_1">
+            <Text>Devo recusar.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_2">
+            <Text>Não, claro que não.</Text>
+        </Row>
+        <!-- Vamos ouvi-lo -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_1">
+            <Text>Vamos ouvi-lo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_2">
+            <Text>Vá em frente.</Text>
+        </Row>
+        <!-- Feliz -->
+        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_3">
+            <Text>Saudações!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_4">
+            <Text>Bem...</Text>
+        </Row>
+        <!-- Adeus -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_3">
+            <Text>Nosso negócio aqui está feito.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_4">
+            <Text>Adeus.</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - sim -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_YES_HAPPY">
+            <Text>Isso trará prosperidade aos nossos reinos.</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - adoçar o negócio -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Certamente você pode dar ao luxo de ser mais generoso em sua oferta.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Isso é o melhor que você pode fazer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Você está quase lá...</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - no -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NO_HAPPY">
+            <Text>Temo que não possa fazer isso, mesmo para um amigo.</Text>
+        </Row>
+        <!-- A demanda por homenagem do jogador - sim -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_HAPPY">
+            <Text>Isso trará prosperidade aos nossos reinos.</Text>
+        </Row>
+        <!-- A demanda por homenagem do jogador - no -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_NO_HAPPY">
+            <Text>Peço desculpas, mas isso simplesmente não é possível.</Text>
+        </Row>
+        <!-- Solicita um comércio -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADEREQUEST_HAPPY">
+            <Text>Você estaria interessado em um acordo, meu amigo?</Text>
+        </Row>
+        <!-- Exige tributo -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_HAPPY">
+            <Text>Você poderia ser persuadido a ajudar um amigo em necessidade?</Text>
+        </Row>
+        <!-- Concorda -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_3">
+            <Text>Certamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_4">
+            <Text>Aceito.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_5">
+            <Text>Excelente.</Text>
+        </Row>
+        <!--! Discorda -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_3">
+            <Text>Certamente que não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_4">
+            <Text>Devemos recusar.</Text>
+        </Row>
+        <!-- Vamos ouvi-lo -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_3">
+            <Text>Estou ouvindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_4">
+            <Text>Sim?</Text>
+        </Row>
+        <!-- Irritado -->
+        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_5">
+            <Text>O que você quer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!-- Adeus -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_6">
+            <Text>Terminamos aqui.</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - sim -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_YES_ANGRY">
+            <Text>Eu não tenho escolha.</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - adoçar o negócio -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Que oferta ridícula.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Isso não será suficiente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Você deve fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Sua proposta é um insulto.</Text>
+        </Row>
+        <!-- Oferta Comércio do jogador - no -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NO_ANGRY">
+            <Text>Absolutamente não!</Text>
+        </Row>
+        <!-- A demanda por homenagem do jogador - sim -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_ANGRY">
+            <Text>Vou ceder, mas eu nunca vou esquecer este insulto.</Text>
+        </Row>
+        <!-- A demanda por homenagem do jogador - no -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_NO_ANGRY">
+            <Text>Você ousa me pedir uma coisa dessas?! Absurdo!</Text>
+        </Row>
+        <!-- Solicita um comércio -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADEREQUEST_ANGRY">
+            <Text>Deixa-me enojado ter que negociar com você... mas não tenho alternativa.</Text>
+        </Row>
+        <!-- Exige tributo -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_ANGRY">
+            <Text>Você vai nos dar o que precisamos... ou sofrer as consequências!</Text>
+        </Row>
+        <!--! Discorda -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_5">
+            <Text>Não compreendi...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_7">
+            <Text>Você não pode estar falando sério!</Text>
+        </Row>
+        <!-- Vamos ouvi-lo -->
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_5">
+            <Text>O que estava dizendo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DECLAREWAR_1">
+            <Text>Você está entre o meu exército e seu destino... prepare-se para a guerra!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DECLAREWAR_2">
+            <Text>Eu não tenho tempo para a sua resistência débil. Isso significa guerra!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DECLAREWAR_3">
+            <Text>Há apenas um caminho para frente a partir daqui... a guerra!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_1">
+            <Text>Você deve ser muito corajoso... ou muito tolo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_2">
+            <Text>Você ousa atacar o grande Gajah Mada?!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_3">
+            <Text>Sua insolência só será satisfeita com uma derrota esmagadora!</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

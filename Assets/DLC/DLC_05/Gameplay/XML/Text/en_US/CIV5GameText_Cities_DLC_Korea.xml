@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities Denmark-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_BUSAN">
+			<Text>Busan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JEONJU">
+			<Text>Jeonju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAEGU">
+			<Text>Daegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PYONGYANG">
+			<Text>Pyongyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAESONG">
+			<Text>Kaesong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUWON">
+			<Text>Suwon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GWANGJU">
+			<Text>Gwangju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GANGNEUNG">
+			<Text>Gangneung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAMHUNG">
+			<Text>Hamhung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WONJU">
+			<Text>Wonju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULSAN">
+			<Text>Ulsan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHANGWON">
+			<Text>Changwon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANDONG">
+			<Text>Andong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GONGJU">
+			<Text>Gongju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAEJU">
+			<Text>Haeju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHEONGJU">
+			<Text>Cheongju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOKPO">
+			<Text>Mokpo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DONGDUCHEON">
+			<Text>Dongducheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GEOJE">
+			<Text>Geoje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUNCHEON">
+			<Text>Suncheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JINJU">
+			<Text>Jinju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANGJU">
+			<Text>Sangju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RASON">
+			<Text>Rason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GYEONGJU">
+			<Text>Gyeongju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHUNGJU">
+			<Text>Chungju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SACHEON">
+			<Text>Sacheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GIMJE">
+			<Text>Gimje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANJU">
+			<Text>Anju</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_1">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_2">
+			<Text>Tudo certo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_3">
+			<Text>Certamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_4">
+			<Text>Trato feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_5">
+			<Text>Oh, muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_6">
+			<Text>Suponho que devo aceitar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_7">
+			<Text>Excelente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_1">
+			<Text>Idiota! Destruiremos você facilmente!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_2">
+			<Text>Idiota bárbaro! Você será destruído!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_3">
+			<Text>Maldito seja! Você vai se arrepender deste dia para o resto de sua breve existência!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_1">
+			<Text>Você sobreviveu a sua utilidade. Morra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_2">
+			<Text>Você já não é útil para nós. Morra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_3">
+			<Text>Você me insultou pela última vez! Morra agora!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_1">
+			<Text>Você me destruiu. Parabéns. Se as circunstâncias tivessem sido contrárias, eu teria feito o mesmo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_2">
+			<Text>Estou farto deste mundo. Talvez eu possa me vingar no próximo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_3">
+			<Text>Você demonstrou astúcia e dignidade como rival. Aplaudo sua vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_ANGRY">
+			<Text>Se você deseja continuar com sua miserável existência, dê-me o seguinte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_HAPPY">
+			<Text>Meu irmão, a China precisa do seu apoio. Estou certo de que podemos contar com sua ajuda.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Sugiro que me dê o seguinte, pois a alternativa será bem mais cara para todos nós.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_1">
+			<Text>Não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_2">
+			<Text>Certamente não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_3">
+			<Text>Recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_4">
+			<Text>Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_5">
+			<Text>Isso é inaceitável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_6">
+			<Text>Está falando sério?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_7">
+			<Text>Como...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_1">
+			<Text>Bem-vindo. Eu sou Wu Zetian, Imperatriz da China. Nós não queremos conflito com os outros, mas vamos responder com força para proteger nossos interesses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_2">
+			<Text>Saudações. Eu sou a Imperatriz Wu Zetian. A China quer a paz para seu próprio desenvolvimento. Deixe-nos em paz e faremos o mesmo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_3">
+			<Text>Saudações. Eu sou Wu Zetian, Imperatriz da China. A China quer uma coexistência pacífica e um comércio justo, mas responderemos às agressões fortemente. Espero que nossos interesses sejam comuns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_1">
+			<Text>Bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_2">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_3">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_4">
+			<Text>Até mais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_5">
+			<Text>Vá embora agora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_6">
+			<Text>Isso é tudo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_7">
+			<Text>Nosso trato já está feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_1">
+			<Text>Bem-vindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_2">
+			<Text>Olá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_3">
+			<Text>Saudações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_4">
+			<Text>Bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_5">
+			<Text>Ah, é você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_6">
+			<Text>Está bem?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_7">
+			<Text>O que você quer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_1">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_2">
+			<Text>Adiante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_3">
+			<Text>Estou escutando.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_4">
+			<Text>Sim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_5">
+			<Text>Você estava dizendo...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_6">
+			<Text>E?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_7">
+			<Text>Continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LOSEWAR_1">
+			<Text>A China quer a paz com todos seus vizinhos. Espero que não seja necessário repetir este assunto frustrante futuramente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Você acha que somos camponeses ignorantes? Essa oferta é inaceitável. Melhore-a. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Isso não é suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Você deve fazer melhor que isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Lamento profundamente não poder aceitar sua oferta atual. Por favor, melhore-a.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Esta é a sua melhor oferta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Você está quase lá...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Não podemos aceitar isso. Por favor, melhore sua oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Poderia se esforçar um pouco mais?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Isso não é o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_ANGRY">
+			<Text>Sua arrogância só se compara a sua ignorância. Recusamos sua oferta ridícula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_HAPPY">
+			<Text>Temo não poder aceitar sua oferta neste momento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_NEUTRAL">
+			<Text>Não podemos aceitar isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_ANGRY">
+			<Text>Aceitamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_HAPPY">
+			<Text>Certamente. Parabéns pelo seu bom senso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_NEUTRAL">
+			<Text>Parece justo. Aceitamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_ANGRY">
+			<Text>Esta é a nossa oferta. Você pode aceitar ou recusar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_HAPPY">
+			<Text>Meu irmão, você acha essa oferta aceitável?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_NEUTRAL">
+			<Text>Acredito que um comércio justo beneficia a todos. O que você acha desta oferta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_ANGRY">
+			<Text>Idiota miserável! Você quer extorquir tributos da China? Vá embora ou eu cortarei suas tripas como um porco!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_HAPPY">
+			<Text>Lamento por não sermos capazes de atender o seu pedido neste momento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_NEUTRAL">
+			<Text>Eu me pergunto: será loucura ou estupidez? O que fez você fazer esta débil exigência?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_ANGRY">
+			<Text>Muito bem. Mas nós teremos nossa vingança. Sugiro que você durma com um olho aberto a partir de agora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_HAPPY">
+			<Text>Certamente. A China tem o prazer de ajudar os seus amigos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_NEUTRAL">
+			<Text>Muito bem. Provavelmente será mais barato que iniciar uma guerra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_1">
+			<Text>Você está em um jogo perigoso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_2">
+			<Text>Muito bem. Na próxima vez não serei tão amigável!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_3">
+			<Text>Como é decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_4">
+			<Text>Que decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_5">
+			<Text>Na verdade? Espero que você não viva para lamentar sua falta de visão, seu cego!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_6">
+			<Text>Que estupidez a sua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WINWAR_1">
+			<Text>Agradeça-me por deixar viver sua patética civilização. Não teste nossa paciência de novo!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

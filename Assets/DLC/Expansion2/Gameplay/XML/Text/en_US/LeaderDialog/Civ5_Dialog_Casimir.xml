@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+    <Language_en_US>
+        <!--General phrases -->
+        <!--Greeting (first time meeting) -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_1">
+            <Text>Eu sou Casimiro, o Grande. Rei da Polônia! O que o traz ao meu glorioso reino?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_2">
+            <Text>Saudações, viajante! Eu sou Casimiro da Polônia! Venha, vamos festejar e compartilhar as histórias do nosso povo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_3">
+            <Text>Bem-vindo, estranho! Eu sou Casimiro, o Grande, da Polônia. Talvez você tenha ouvido falar das minhas muitas conquistas?</Text>
+        </Row>
+        <!--Reacts to his bluff being called -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_1">
+            <Text>Você está jogando perigosamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_2">
+            <Text>Você está jogando perigosamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_3">
+            <Text>Escolha as suas palavras com cuidado.</Text>
+        </Row>
+        <!--Gloats after winning a war -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_1">
+            <Text>...E neste dia, você aprendeu que a Polônia não está para brincadeiras!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_2">
+            <Text>...E neste dia, você aprendeu que a Polônia não está para brincadeiras!</Text>
+        </Row>
+        <!--Submissive after losing a war -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_1">
+            <Text>Eu posso estar derrotado, mas eu certamente deixo meu povo em um estado melhor do que quando eu o encontrei!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_2">
+            <Text>Eu posso estar derrotado, mas eu certamente deixo meu povo em um estado melhor do que quando eu o encontrei!</Text>
+        </Row>
+        <!--Defeated and removed from game -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_1">
+            <Text>Aproveite esta vitória, você pode não ter outra.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_2">
+            <Text>Hoje você é o vencedor... espero que você lidere meu povo com honra.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_3">
+            <Text>Meu reino vai sempre se lembrar do seu verdadeiro rei... independentemente de sua vitória insignificante.</Text>
+        </Row>
+        <!--Neutral -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_1">
+            <Text>Bem-vindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_2">
+            <Text>Salve!</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_1">
+            <Text>Vá.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_2">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_NEUTRAL">
+            <Text>A Polônia dá as boas-vindas a um comércio justo.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Nossos comerciantes são tão habilidosos quanto os seus... você terá de melhorar sua oferta.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Você não pode fazer um pouco melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Quase...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Isso não é bom o bastante. </Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_NEUTRAL">
+            <Text>Receio que esta oferta não é do nosso interesse.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_NEUTRAL">
+            <Text>Vamos concordar dessa vez, mas ande com cautela.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_NEUTRAL">
+            <Text>Sua exigência é um insulto a toda a Polônia, e eu não vou aceitar.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_NEUTRAL">
+            <Text>Você tem algum interesse nisso?</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Poderá chegar o momento em que você precise de alguma coisa de mim, mas agora eu preciso pedir isso a você.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_1">
+            <Text>Muito bem.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_2">
+            <Text>Está certo.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_1">
+            <Text>Eu devo recusar.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_2">
+            <Text>Não, claro que não.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_1">
+            <Text>Vamos ouvir.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_2">
+            <Text>Vá em frente.</Text>
+        </Row>
+
+        <!--Happy -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_3">
+            <Text>Saudações!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_4">
+            <Text>Bem...</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_3">
+            <Text>Nossos negócios aqui estão feitos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_4">
+            <Text>Adeus.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_HAPPY">
+            <Text>Isso seria muito agradável.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Não posso aceitar tal oferta, talvez você possa fazer melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Isso é o melhor que você pode fazer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Você está quase lá...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_HAPPY">
+            <Text>Você não faria conscientemente uma oferta tão pobre a um amigo, não é?</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_HAPPY">
+            <Text>A Polônia sempre se alegra em compartilhar com um amigo.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_HAPPY">
+            <Text>Meu povo nunca me permitiria ser tão generoso, mesmo para um amigo.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_HAPPY">
+            <Text>Saudações amigo! A Polônia oferece isso a você num acordo.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_HAPPY">
+            <Text>Você tem sido um amigo para nós. Você poderia considerar fornecer isso para o meu povo?</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_3">
+            <Text>Certamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_4">
+            <Text>De acordo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_5">
+            <Text>Excelente.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_3">
+            <Text>Certamente não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_4">
+            <Text>Devemos rejeitar.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_3">
+            <Text>Estou ouvindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_4">
+            <Text>Sim?</Text>
+        </Row>
+
+        <!--Angry -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_5">
+            <Text>O que você quer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_6">
+            <Text>Terminamos aqui.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_ANGRY">
+            <Text>Claro.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Certamente você não está falando sério.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Isso não será o bastante.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Você deve fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Que proposta ofensiva.</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_ANGRY">
+            <Text>Você nos toma por tolos? Não.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_ANGRY">
+            <Text>Vejo que eu tenho pouca escolha a não ser concordar... dessa vez.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_ANGRY">
+            <Text>Sua piada é de mau gosto... nunca concordaria com tal proposta ultrajante!</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_ANGRY">
+            <Text>Eu lhe ofereço isso em troca. Qual é a sua decisão?</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_ANGRY">
+            <Text>Meu reino exige isso de você. Seria insensato você recusar!</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_5">
+            <Text>Desculpe-me?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_7">
+            <Text>Você não pode estar falando sério!</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_5">
+            <Text>O que você estava dizendo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_1">
+            <Text>Eu considerei minhas opções e a sua remoção parece ser a mais favorável!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_2">
+            <Text>Acho o seu reino de mau gosto e sinto que é minha obrigação remover esta praga do mundo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_3">
+            <Text>Acredito que seja melhor para os interesses do meu povo que você não ande mais por essas terras sem controle...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_1">
+            <Text>Meus exércitos apagarão da memória a sua existência!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_2">
+            <Text>Que traição é essa?! Eu pisarei em você como eu piso em uma formiga.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_3">
+            <Text>Vejo sua falta de sutileza na diplomacia! Talvez você aprenda a humildade com a derrota!</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

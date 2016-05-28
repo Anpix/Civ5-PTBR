@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_PACHACUTI">
+			<Text>Pachacuti</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA">
+			<Text>Isabel</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+	</Language_en_US>
+</GameData>

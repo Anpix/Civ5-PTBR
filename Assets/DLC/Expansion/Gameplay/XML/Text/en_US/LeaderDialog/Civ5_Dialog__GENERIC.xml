@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!--Linked to the Civ5Diplomacy_Responses.xml file (assets\Gameplay\XML\Diplomacy). Entries that have the same key except for the number on the end may be picked randomly by the in-game diplo system (rules for this also defined in the Responses.xml file). *****NOTE**** If you want to add more response possibilities to this file you must keep the same TXT_KEY naming convention as what's here already, or else you'll have to change the Responses.xml file!!!-->
+<GameData>
+	<Language_en_US>
+		<!-- Statements to player -->
+		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Eu imaginei que você gostaria de saber que eu lancei um ataque contra um dos seus pequenos estados de estimação. As terras {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName} serão uma bela adição ao meu território.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>Oops, parece que eu ataquei sua pequena amiga, {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Vai querer fazer algo a respeito?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Chegou ao meu conhecimento que talvez eu tenha atacado {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Embora não tenha sido minha intenção criar um dissabor com sua civilização, foi um ato considerado totalmente necessário.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>Fui informado que meu império lançou um ataque contra {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}. Eu lhe asseguro que isso não foi de propósito e espero que não seja motivo para nos dividir.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_EMBASSY_EXCHANGE_1">
+			<Text>Deveríamos considerar estabelecermos nossas Embaixadas, que permitiriam uma diplomacia avançada entre nossos povos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_EMBASSY_OFFER_1">
+			<Text>Gostaríamos de estabelecer uma Embaixada em sua capital. O que você pensa disso?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>Sua intimidação {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {@1_MinorCivName} é intolerável. Eu exijo que você cesse suas exigências de tributos a Cidades-Estados sob minha proteção.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BULLIED_PROTECTED_CITY_STATE_2">
+			<Text>Eu ouvi falar sobre o que você fez {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {@1_MinorCivName}. Você não percebeu que eles estão sob minha proteção? Não me provoque além disso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>Nós exigimos tributos recentemente {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName} e eles nos atenderam. Você prometeu protegê-los de situações como essa, mas nós dois sabemos que você não é capaz de cumprir isso, não é?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_2">
+			<Text>É muito fácil importunar sua pequena amiga {@1_MinorCivName}. Eles cederam às nossas exigências de tributos e eu acredito que você não esteja em posição de fazer algo a respeito, certo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_1">
+			<Text>Percebi que eu posso ter intimidado {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}, que está sob sua proteção. Espero que você não coloque as necessidades deles acima das minhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_2">
+			<Text>Fui informado que meus exércitos exigiram tributos {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}, uma Cidade-Estado sob sua proteção. Eu lhe asseguro, foi totalmente sem intenção e espero que isso não nos divida.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_FREEDOM_1">
+			<Text>Saudações calorosas a você, sábio líder! Fico contente em ver que você também escolheu seguir o caminho da Independência. O mundo independente será mais forte se mais uma nação nos ajudar a lutar contra a opressão!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_ORDER_1">
+			<Text>Saudações camarada! Estou contente em ver que você também escolheu seguir o caminho da Ordem. Talvez possamos encontrar oportunidades para ajudarmos nossos impérios nos próximos 5 anos de planejamento!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Saudações, grande líder! Estou feliz em ver que você também escolheu seguir o caminho da Autocracia. Talvez possamos trabalhar juntos para assegurar que apenas as nações mais fortes sobrevivam e alcancem a verdadeira grandeza!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Como é que um dos seus agentes imundos de alguma forma conseguiu roubar um de nossos segredos tecnológicos? Estas talvez sejam as últimas palavras que troquemos em paz.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>Eu estou tentado a ignorar o seu recente roubo de um dos meus segredos tecnológicos, se houver uma promessa que isso não ocorrerá novamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Estou contente que você tenha concordado em parar com essa desonestidade ridícula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Sua falta de consideração não é uma surpresa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Como você pediu, nossos agentes não irão mais conduzir operações em seu território.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_SPYING_NO_1">
+			<Text>Nossos agentes ajudam manter nossa civilização a salvo de todas as ameaças, inclusive de você. Eles operarão da forma como nós quisermos, não como você pedir.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Agradeço por você trazer esse plano {@1_CivAdjective[1]} à minha atenção. Com este aviso, nós estaremos prontos para qualquer ato que eles tentarem. Sua generosa ajuda será lembrada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está tramando contra você. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes tomarem conhecimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está marchando neste momento para atacar de surpresa sua cidade {@2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes tomarem conhecimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} está marchando neste momento para atacar você de surpresa. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes tomarem conhecimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} embarcou uma tropa, com escolta naval, para atacar de surpresa sua cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes tomarem conhecimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Nossos espiões descobriram que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_PlayerName} embarcaram uma tropa, com escolta naval, para atacar de surpresa sua civilização. Esperamos que você também compartilhe qualquer intriga relacionada a nós que seus agentes tomarem conhecimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KILLED_YOUR_SPY_1">
+			<Text>Nós eliminamos o seu espião, já que ele estava tentando nos roubar. Pelo que sei, é bem menos perigoso ler um livro e tentar aprender algo você mesmo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KILLED_MY_SPY_1">
+			<Text>Lamento muito qualquer confusão causada pelas últimas atividades do nosso agente. Por favor, permita que qualquer sentimento hostil seja enterrado com as extintas operações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Olá! Você está aqui por causa daquele pequeno incidente de espionagem?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_1">
+			<Text>Uma das minhas cidades foi recentemente assaltada e segredos tecnológicos foram levados. Posso ficar seguro que você não está envolvido nisso?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_2">
+			<Text>Estou convencido que você está espionando minha grande civilização. Sugiro que você pare com isso antes que alguém se machuque.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_STOP_CONVERSIONS_1">
+			<Text>Fomos avisados das conversões religiosas que você anda fazendo dentro do nosso império. Devemos pedir que você interrompa esta atividade imediatamente!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>Eu entendo que algumas ações podem não ser perdoadas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>Fico contente em saber que você não considerará esta situação embaraçosa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Fico feliz que você tenha concordado em parar com essas conversões.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>Seu fervor religioso é perturbador.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Nós estamos ansiosos para antecipar sua rendição incondicional.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>Sua completa rendição parece razoável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_3">
+			<Text>Podemos fazer um acordo agora para evitar sua inevitável aniquilação.</Text>
+		</Row>
+		<!-- Responses to player -->
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>Nós verificaremos isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Ok. Está certo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_WE_BULLIED_MINOR_BAD_1">
+			<Text>Permaneço convicto que minha decisão é a melhor para o meu povo e minha nação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Muito bem. Nós monitoraremos a situação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_MajorCivName:textkey} {2: plural 2?anunciam; other?anuncia;} ao mundo que agora {2: plural 2?estão; other?está;} protegendo {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey}. Atacar a Cidade-Estado ou lhe exigir tributos deteriorará fortemente as relações e talvez levar à guerra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Como queira. Nossos Missionários não mais compartilharão a única fé verdadeira com o povo de suas cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>A despeito dos seus protestos, seus cidadãos continuarão a ser esclarecidos por nossos Missionários, mesmo você condenando seu povo a viver na ignorância.</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Nós não estamos dispostos a oferecer o suficiente para deste um acordo justo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Qualquer proposta que sugerirmos resultará em uma troca injusta para você.</Text>
+		</Row>		
+	</Language_en_US>
+</GameData>

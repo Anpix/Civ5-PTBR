@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+    <Language_en_US>
+        <!--General phrases -->
+        <!--Greeting (first time meeting) -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_FIRSTGREETING_1">
+            <Text>Eu sou Pedro, Imperador do Brasil... Tenho pouco tempo para gentilezas, o que traz você aqui?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_FIRSTGREETING_2">
+            <Text>Bem-vindo ao Brasil! O tempo é um dos nossos maiores bens; Espero que você não desperdice o meu.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_FIRSTGREETING_3">
+            <Text>O que traz você ao Brasil, meu amigo? Eu sou Pedro. Temos negócios a tratar?</Text>
+        </Row>
+        <!--Reacts to his bluff being called -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_WARBLUFF_1">
+            <Text>Que tolice é essa? Você espera que alguém leve você a sério?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_WARBLUFF_2">
+            <Text>Você está jogando perigosamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_WARBLUFF_3">
+            <Text>Você está se sentindo bem? Sua ameaça é ridícula.</Text>
+        </Row>
+        <!--Gloats after winning a war -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_WINWAR_1">
+            <Text>Com cuidadosa orientação, a força do Brasil brilha em todas as adversidades.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_WINWAR_2">
+            <Text>Com cuidadosa orientação, a força do Brasil brilha em todas as adversidades.</Text>
+        </Row>
+        <!--Submissive after losing a war -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_LOSEWAR_1">
+            <Text>Você ganhou o dia, mas muitos ainda estão por vir.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_LOSEWAR_2">
+            <Text>Você ganhou o dia, mas muitos ainda estão por vir.</Text>
+        </Row>
+        <!--Defeated and removed from game -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DEFEATED_1">
+            <Text>É por isso que eu prefiro a diplomacia à violência!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DEFEATED_2">
+            <Text>Espero que este conflito tenha sido suficiente para satisfazer o seu apetite!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DEFEATED_3">
+            <Text>É com grande relutância que eu admito que você é o vencedor.</Text>
+        </Row>
+        <!--Neutral -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_1">
+            <Text>Bem-vindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_2">
+            <Text>Salve!</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_1">
+            <Text>Vá.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_2">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_YES_NEUTRAL">
+            <Text>Isso é aceitável.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Você deve fazer mais concessões antes de eu aceitar isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Você não pode fazer um pouco melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Quase...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Isso não é bom o bastante.</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NO_NEUTRAL">
+            <Text>Isso não serve pra mim.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_YES_NEUTRAL">
+            <Text>Você se aproveita da minha generosidade.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_NO_NEUTRAL">
+            <Text>Meu tempo é precioso - pedido negado.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADEREQUEST_NEUTRAL">
+            <Text>Aceite essa oferta em consideração.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Isso certamente seria útil.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_1">
+            <Text>Está certo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_2">
+            <Text>Muito bem.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_1">
+            <Text>Eu devo recusar.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_2">
+            <Text>Não, claro que não.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_1">
+            <Text>Vamos ouvir.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_2">
+            <Text>Vá em frente.</Text>
+        </Row>
+        <!--Happy -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_3">
+            <Text>Saudações.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_4">
+            <Text>Bem...</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_3">
+            <Text>Nossos negócios aqui estão feitos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_4">
+            <Text>Adeus.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_YES_HAPPY">
+            <Text>De fato, uma oferta generosa. Nós aceitamos.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Sua oferta é tentadora, mas não é o bastante.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Isso é o melhor que você pode fazer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Você está quase lá...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NO_HAPPY">
+            <Text>Deculpe-me, mas o custo é muito alto para aceitar.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_YES_HAPPY">
+            <Text>Qualquer coisa para um compatriota confiável.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_NO_HAPPY">
+            <Text>Temo que isso não seja possível.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADEREQUEST_HAPPY">
+            <Text>Devemos prosperar através deste acordo?</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_HAPPY">
+            <Text>Pelo interesse do meu povo, eu peço isto a você.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_3">
+            <Text>Certamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_4">
+            <Text>De acordo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_5">
+            <Text>Excelente.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_3">
+            <Text>Certamente não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_4">
+            <Text>Devemos rejeitar.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_3">
+            <Text>Estou ouvindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_4">
+            <Text>Sim?</Text>
+        </Row>
+        <!--Angry -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_5">
+            <Text>O que você quer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_6">
+            <Text>Oh, é você.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_YES_ANGRY">
+            <Text>Eu relutantemente aceito.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Sua oferta não faz nenhum sentido na minha perspectiva.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Isso não será o bastante.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Você deve fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Que proposta ofensiva.</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NO_ANGRY">
+            <Text>Você acha que sou tolo? Absolutamente não.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_YES_ANGRY">
+            <Text>Eu só aceito por causa dessa grande pressão.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_NO_ANGRY">
+            <Text>Você tem a audácia de me pedir uma coisa dessas?</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_TRADEREQUEST_ANGRY">
+            <Text>Ainda que me doa, eu devo pedir esse acordo a você.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_ANGRY">
+            <Text>Eu não tenho tempo para conversa fiada. Eu exijo isso de você.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_5">
+            <Text>Desculpe-me?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_7">
+            <Text>Você não pode estar falando sério!</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_5">
+            <Text>O que você estava dizendo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DECLAREWAR_1">
+            <Text>No final, o seu reino estará melhor sob o meu comando!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DECLAREWAR_2">
+            <Text>Você tomou muitas decisões imprudentes. Prepare-se para a guerra!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_DECLAREWAR_3">
+            <Text>Pela proteção do meu povo, você deve ir.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_ATTACKED_1">
+            <Text>Eu lamento por todos aqueles que serão afetados por esse conflito.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_ATTACKED_2">
+            <Text>Eu só posso presumir que você pensou muito bem sobre isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_PEDRO_ATTACKED_3">
+            <Text>Acho que você vai se arrepender dessa decisão.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

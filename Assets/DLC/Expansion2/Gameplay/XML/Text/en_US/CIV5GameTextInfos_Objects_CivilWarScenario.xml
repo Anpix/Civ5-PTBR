@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<!-- Resources -->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER">
+			<Text>Força de Trabalho</Text>
+			<Plurality>1</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

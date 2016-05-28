@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_INGENIOUS_SHORT">
+			<Text>Engenhosidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INGENIOUS">
+			<Text>Recebe um Grande Cientista gratuitamente quando descobre a Escrita. Gera Grandes Cientistas no dobro da velocidade normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BABYLON_TITLE">
+			<Text>Babilônia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BABYLON_TEXT">
+			<Text>Que as bênçãos do Céu estejam convosco, Ó Grande Nabucodonosor, pai da poderosa e antiga Babilônia! Jovem era o mundo quando Sargon construiu a Babilônia, cerca de cinco mil anos atrás. Por longo tempo cresceu e prosperou, ganhando seu primeiro império no século 18 a.C. com o divino Hammurabi, o Legislador. Embora conquistada pelos Cassitas e depois pelos Assírios, a Babilônia resistiu, emergindo como a Fênix das cinzas da destruição e recuperando a sua independência apesar de seus muitos inimigos. Realmente foi a Babilônia o centro das artes e da aprendizagem no mundo antigo![NEWLINE][NEWLINE]Ó Nabucodonosor, vosso Império resistiu pouco tempo depois da vossa morte, caindo frente aos poderosos Persas e, em seguida, aos Gregos, até que a grande cidade foi destruída por volta de 141 a.C. Porém, foi a Babilônia esquecida para sempre, grande Nabucodonosor? O vosso povo olha para vós, para que tragais o Império de volta à vida mais uma vez! Ireis aceitar o desafio? Construireis uma civilização para resistir ao teste do tempo?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,834 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<!-- DOM TEXT -->
+		<Row Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT">
+			<Text>
+        Blessings be upon you, honorable and righteous Emperor of Ethiopia, Haile Selassie. Your legacy as one of Ethiopia's greatest rulers, and as the spiritual leader to the Rastafarian movement, is outshone only by the influence you had on diplomacy and political cooperation throughout the world. In introducing Ethiopia's first written constitution, you planted the seeds of democracy that would take root over the coming years, and your infinitely wise grasp of global affairs secured Ethiopia's place as a charter member of the United Nations. Spearheading efforts to reform and modernize the nation during your reign, you changed the course of Ethiopian history forever.[NEWLINE][NEWLINE]Revered king, your composed demeanor once protected the people from the many conflicts that plague the nations of men, and the kingdom looks to you to assure peace once again. Will you lead the people with courage and authority, moving forward into a new age? Will you build a civilization that stands the test of time?
+      </Text>
+		</Row>
+		<!-- CIVILIZATION TEXT -->
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TITLE">
+			<Text>Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT">
+			<Text>The calendar used in Ethiopia, known as the Ge'ez, is based on the Coptic Calendar developed in ancient Egypt. Thanks to the Ge'ez, Ethiopia is the only nation in the world with a 13th month.[NEWLINE][NEWLINE]Legend has it that the stimulating effects of coffee were first discovered in Ethiopia, when a goatherd named Kaldi observed his goats bucking wildly after eating the berries of a coffee plant.[NEWLINE][NEWLINE]Ethiopia's capital city of Addis Ababa is one of the highest capitals in the world, sitting at an elevation nearly 8000 ft (2400m) above sea level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_3">
+			<Text>Origins of Human Development</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_4">
+			<Text>Pre-History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_5">
+			<Text>Early Kingdoms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_6">
+			<Text>Return of the Solomonic Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_7">
+			<Text>Islamic Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_8">
+			<Text>Age of Princes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_9">
+			<Text>Haile Selassie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_10">
+			<Text>Italian Occupation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_11">
+			<Text>The Derg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_12">
+			<Text>Present-day Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_1">
+			<Text>Home to ancient empires dating back to the waning centuries of the first millennium BC, Ethiopia has a storied history driven by the rule of great kings and emperors. As one of the few African nations to avoid the colonial ambitions of Europe, Ethiopia maintained its sovereignty well into the 20th century, remaining independent until the invasion of Italian forces led by Mussolini in 1935. It was during this period that noted Emperor Haile Selassie brought Ethiopia to the forefront of global affairs, as his nation endured the conflicts of World War II, and he strove to set Ethiopia on a path of modernization and progressive reform.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_2">
+			<Text>Ethiopia, Africa's tenth largest nation, covers the majority of the Horn of Africa, nestled along the continent's northeastern coast. Bisected by the Great Rift Valley, Ethiopia's geography is dominated by highly elevated plateaus and disjointed mountain ranges. Sitting atop the African tectonic plate, which has been in the process of splitting apart for millions of years, Ethiopia has found itself on the receiving end of frequent earthquakes throughout history. The country is also home to several dozen active and dormant volcanoes, including Erta Ale, one of the few volcanoes in the world with an ever-present lake of lava on its summit. The climate of Ethiopia varies greatly, although the nation as a whole is part of a tropical zone with heavy rainfall during the summer monsoon season followed by a dry, moderate winter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_3">
+			<Text>The Great Rift Valley cutting across central Ethiopia has long been considered the birthplace of human development. Numerous fossil remains have been discovered within the valley, in particular the famous skeleton known as "Lucy," which is estimated to be approximately three million years old. These early Hominids later developed into the earliest Homo sapiens, who lived throughout Ethiopia in small groups more than 100,000 years ago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_4">
+			<Text>As early as the 10th millennium BC, Ethiopia was inhabited by tribal peoples who subsisted using early forms of agriculture and animal husbandry. Later during the height of the ancient Egyptian civilization, traders from both nations established routes for the exchange of gold, obsidian, ivory, and other precious materials. These early inhabitants of Ethiopia, who lived in what is known as the mysterious Land of Punt, developed many of the early agricultural practices that are still part of Ethiopian culture today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_5">
+			<Text>As the most advanced of the early Ethiopian kingdoms, the powerful Axumite Empire is well documented in history, but also steeped in legend. Founded in roughly the 4th century BC, Axum grew to become a powerful center of trade over the next five hundred years. The valuable commodities of frankincense and myrrh, harvested from trees prevalent in Ethiopia, brought great wealth to the city of Axum and its people. Through the exportation of these goods, plus lucrative trades in ivory and various precious metals, Axum became an integral part of the rotas comerciais connecting Egypt, Rome, and India, enough so to facilitate the minting of currency within Axum to support the flourishing local economy.[NEWLINE][NEWLINE]However, after centuries of prosperity, legends say the expansive empire's downfall came at the hands of a rebellious queen named Gudit. As the story goes, Axum had long been a stronghold of Christianity, and the Jewish queen Gudit sought the throne by way of conquest, purportedly devastating the countryside before murdering the royal family of Axum. Although the story of Gudit's life and brief reign is mysterious and controversial, it can be said with certainty that the decline of Axum did coincide with her speculated arrival in the 10th century AD.[NEWLINE][NEWLINE]The Zagwe Dynasty, established in the early 12th century after the fall of Axum, was the first dynasty of the Ethiopian Empire, which would control the nation well into the 20th century. Although the Zagwe Dynasty was only in power for little more than a century, they contributed greatly to the spread of Christianity throughout Ethiopia, which would play a major role in the future of the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_6">
+			<Text>In 1270 AD, the monarchy that would control Ethiopia for the coming centuries arose under the leadership of Emperor Yekuno Amlak, founder of the Solomonic Dynasty. The rulers of the Solomonic Dynasty attributed their lineage to the great biblical king Solomon and his queen, Makeda. As legend has it, in the 10th century BC, Queen Makeda travelled from her kingdom in Sheba (thought to have formed part of modern Ethiopia) to Israel in an effort to learn from the wisdom of revered king Solomon. Although accounts differ as to her relationship with Solomon, Makeda later gave birth to a son, Menelik. Said to have been educated in the court of Solomon before returning to Ethiopia, Menelik brought with him the legendary Ark of the Covenant as a gift from Solomon. Ruling sometime around 950 BC, Menelik I was the originator of the biblical ancestry held sacred by later Emperors of Ethiopia.[NEWLINE][NEWLINE]Nearly 2,000 years after the reign of Menelik, Yekuno Amlak claimed to have traced his ancestry through a long line of relatives to establish a clear connection to the legendary emperor and his parents. This newly formed Solomonic Dynasty maintained its rule over Ethiopia for more than five centuries, lasting until the reign of Haile Selassie in the 1970s. Fully supported by the influential Ethiopian Orthodox Church (which to this day still claims to be holding the legendary Ark of the Covenant), the Solomonic emperors enjoyed relative stability during their reign, despite several attempted incursions from outside the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_7">
+			<Text>During the mid-16th century, Ethiopia was bordered by the increasingly powerful Islamic Kingdom of Adal, led by Imam Ahmad Gargn, known colloquially as "The Conqueror." Initiating a holy war against the Christians of Ethiopia in 1529, Imam Ahmad spurred the great conflict that came to be known as the Ethiopian-Adal War. As battles raged for nearly 15 years, Ahmad was nearly successful in wiping out the entire kingdom, laying claim to vast swaths of Ethiopian territory.[NEWLINE][NEWLINE]After suffering such great losses, the Ethiopian Empire was forced to call on the assistance of Portuguese reinforcements to help in repelling the Islamic armies. Explorers and missionaries from Portugal had reached Ethiopia in the prior decades, intent on converting the populace to Roman Catholicism, and were fighting a war of their own against the Islamic Ottomans.  After a prolonged conflict that eventually drew the Ottomans in to aid the Adals, the war was settled in 1543 following the deaths of both Imam Ahmad and the Portuguese general Cristovao da Gama. Ethiopia was left to recover from the war, but the rapid spread of Catholicism in the surrounding regions led to internal strife as the Ethiopian Orthodox Church struggled to maintain a firm grip on the nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_8">
+			<Text>The period known as the Zamana Mesafent, or "Age of Princes" in the 18th century was marked by near constant turmoil within Ethiopia. The development of opposing religious factions, along with constant regional disputes, led to the collapse of central government control. As battles erupted between the princes, warlords, and nobility, each attempting to divide the region and increase their own power, the common people of Ethiopia were forced to endure the ravages of these futile conflicts.[NEWLINE][NEWLINE]The Emperor who finally brought an end to the Age of Princes, Kassa Hailu, first gained notoriety as an outlaw and highwayman. Assembling an army and amassing great wealth through his smuggling operations, Kassa Hailu gained popular support by sharing his riches with the poor. After uniting several of the decentralized provinces and gaining a strong following, Hailu was eventually crowned as Emperor Twedoros II in 1855. Following his coronation, Ethiopia as a whole stabilized, and his reign is considered by many to mark the beginnings of modern Ethiopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_9">
+			<Text>Perhaps the best remembered of Ethiopia's great emperors, Haile Selassie, ascended the throne in 1930 and quickly gained recognition throughout the world for Ethiopia and its people. During his reign he made a strong push for the abolition of slavery, a prospect that had been suggested, but never fulfilled, by his many predecessors. Emperor Selassie was also deeply concerned with modernizing his nation and ending many of the feudal policies that still held sway in Ethiopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_10">
+			<Text>In 1935, the Fascist Italian regime led by Benito Mussolini invaded Ethiopia in an attempt to claim the territory as a province of Italy. Facing a superior military force, Ethiopia was unable to repel the invasion, and by 1936, Mussolini had declared the establishment of an Italian Empire including the occupied Ethiopian territory. During this period, Haile Selassie was forced into exile, taking refuge in Great Britain throughout the occupation. Selassie made his case for the defense of Ethiopia to the League of Nations, including a stern reproach of Italy's use of mustard gas against Ethiopian soldiers and citizens alike. Despite his plea, international assistance was not forthcoming, and years passed before the British East African Campaign of World War II was successful in ending the Italian occupation. Haile Selassie returned to his throne as Emperor of Ethiopia following Italy's defeat, and he would rule successfully for nearly 40 years before the arrival of a new threat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_11">
+			<Text>In 1974, a Communist-led military coup resulted in Haile Selassie's removal from power and imprisonment within the royal palace. The group deposing him, known as the Derg, formed the Provisional Military Government of Socialist Ethiopia and ruled with an iron fist. Selassie died mysteriously while imprisoned, a controversial subject that continues to stir debate today. As the Derg and their communist ideals were not universally supported, their military coup also marked the beginning of the Ethiopian Civil War. This great conflict claimed the lives of several hundred thousand innocent bystanders as fighting continued for over 15 years. In 1991, the Ethiopian People's Revolutionary Democratic Front was finally successful in overthrowing the government, leading to the creation of a new constitution and a democratically elected government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_12">
+			<Text>Known today as the Federal Democratic Republic of Ethiopia, the nation faces a number of major socio-economic issues as the second most populous country in Africa. The wide-ranging geographic isolation facing some groups within the country has made it increasingly difficult to provide education, healthcare, and, in many cases, the basic necessities of life. Although the nation currently holds multiparty elections, corruption within the government is a constant concern, and crackdowns in recent years have led to international condemnation over the killing of protesters and opposition party members.</Text>
+		</Row>
+		<!-- LEADERS -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_NAME">
+			<Text>Haile Selassie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TITLES_1">
+			<Text>Emperor of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_SUBTITLE">
+			<Text>Leader of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_LIVED">
+			<Text>1892 - 1975 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_FACT_1">
+			<Text>Haile Selassie was the first person of African descent to ever appear on the cover of Time magazine, when he was featured shortly after his coronation in 1930. He was also named "Time Man of the Year" in 1935.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_FACT_2">
+			<Text>Of the many rumors surrounding Selassie's death, a consistently reoccurring report states that his bones were discovered buried in the Imperial palace underneath a lavatory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_2">
+			<Text>Early Life and Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_3">
+			<Text>Emperor to Exile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_4">
+			<Text>Return to Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_5">
+			<Text>Decades of Rule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_6">
+			<Text>Imprisonment and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_7">
+			<Text>Rastafarian God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_8">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_1">
+			<Text>Known as the "Conquering Lion of the Tribe of Judah," "King of Kings," and "Elect of God," Haile Selassie ruled Ethiopia as emperor for nearly 40 years in the 20th century. Born as Lij Tafari Makonnen in 1892, the man who came to be known as Haile Selassie spent his life serving the interests of Ethiopia and bringing his nation to the forefront of African politics. Best known for reforming the ancient feudal practices of Ethiopia through his attempts at modernizing the nation, Haile Selassie worked tirelessly to gain international recognition for Ethiopia on the world stage. His legacy in global politics has been surpassed only by his role as the messiah of the Rastafari religion, among whose followers he is venerated as the god who will lead the Rastas back to their homeland of Ethiopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_2">
+			<Text>As the son of a provincial governor, Haile Selassie spent his formative years under the tutelage of several mentors selected by his father, including an influential monk named Abba Samuel. As his education continued, Selassie was seen fit to rule as governor of several minor provinces, and by age 17, had already established himself as a rising political star. During his time as governor, Selassie emerged as a progressive thinker among his peers, introducing policies that reduced the feudal control of the nobles by increasing the authority of the central government.[NEWLINE][NEWLINE]In 1916, Haile Selassie was named Regent Plenipotentiary, serving under Empress Zewdito, placing him in the position of heir apparent to the throne. With both conservative and progressive supporters alike, Selassie was the ideal regent. However, over the course of his appointment, Selassie's support among the progressives throughout Ethiopia continued to grow, much to the chagrin of the conservative Empress. Although Empress Zewdito was the nominal leader of Ethiopia, as regent, Selassie handled much of the government's administration himself. During this period, Selassie is credited with ensuring Ethiopia's membership in the League of Nations, an inclusion that came about as a result of his efforts to abolish slavery in Ethiopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_3">
+			<Text>As Haile Selassie's influence and popular support continued to climb, the Empress was forced to confront the would-be ruler. In 1928, Empress Zewdito attempted to remove Selassie from office by accusing him of treason, but her efforts found little backing. Selassie's popularity at this point was widespread, and he garnered a great deal of support from within the military, leaving Zewdito with little means to assert her claims. As a result of the confrontation, Zewdito was forced to name Haile Selassie King of Ethiopia, a title beneath her own, but still acknowledging his increasing authority within the nation. Less than two years later, the Empress died of unexplained causes, leaving the throne of Ethiopia vacant for Selassie to claim as his own. It was following his coronation as emperor in 1930 that he first came to use the name Haile Selassie, which meant "Power of the Trinity" in the Amharic language used in Ethiopia. Soon after taking the throne, Selassie was instrumental in the creation of the first written constitution of Ethiopia, a task he would later mention in his autobiography as having planned since his time as regent.[NEWLINE][NEWLINE]In 1935, the Italian regime led by Benito Mussolini declared war on Ethiopia, invading in the fall. This conflict came to be known as the Second Italo-Abyssinian War (the first having occurred in the late 1800s). After brief fighting between the Italian and Ethiopian forces, including several battles led by Selassie himself, Italy succeeded in occupying and eventually annexing the African nation.[NEWLINE][NEWLINE]With Italy's successful campaign against Ethiopia, Haile Selassie was forced into exile, but not before pleading the case for Ethiopia's defense at the League of Nations. Despite his galvanizing speech that railed against the Fascist movement of Italy, his plea fell on deaf ears, and Selassie was left to bide his time. He would spend the next five years residing in England, where he continued to speak out against the Italian occupation and attempted to garner support from the international community for a movement to reclaim his country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_4">
+			<Text>With the outbreak of World War II, in 1939, efforts were finally undertaken to liberate Ethiopia from the Italian regime, spearheaded by the British during the East African Campaign. Joined by selected units of the Ethiopian military, this liberation army came to be known as the Gideon Force and was instrumental in the fight to retake the Ethiopian homeland. By 1942, the Italians had surrendered and were forced to acknowledge the renewed sovereignty of Ethiopia, with Haile Selassie returning to the capital city of Addis Ababa. Having found little solidarity in the League of Nations, Selassie became a major proponent of the United Nations, with its increased provisions for international security, and secured Ethiopia's position as a founding member in 1948.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_5">
+			<Text>Over the following years, Selassie continued his quest to modernize Ethiopia through reform while also improving his nation's foreign affairs and international recognition. In the 1960s Selassie led the Organization of African Unity, predecessor to the modern African Union. With the goal of creating solidarity between the independent states of the African continent, Selassie believed that a unified voice would strengthen the people of Africa. Although Selassie tried to establish the organization as more than just an ideological entity, the organization was left with little authority or actual power without the backing of a military force.[NEWLINE][NEWLINE]While working with the international community, Selassie was also focused on improving the welfare of his people at home. Although his efforts to break the nobility's hold on land ownership were met with limited success, the initiative sparked a movement that carried on past his reign. Reforms were also made to provide greater access to educational facilities, while economic programs ensured a just system of taxation. Despite the goodwill generated by these domestic programs, Selassie's efforts to increase his own authority through modifications to the constitution resulted in an increasingly visible dissident movement.[NEWLINE][NEWLINE]Late in the 1960s, Marxist ideologies took root in Ethiopia, and as the people suffered through a famine and drought in the early 1970s, Selassie's popularity dwindled. An economic crisis that led to soaring inflation would be the final straw, as Selassie tenuously maintained his position until 1974, when he was deposed and arrested by a Marxist military group known as The Derg.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_6">
+			<Text>While living under house arrest, Haile Selassie died mysteriously in 1975, with conflicting reports as to the exact cause. While the official account from the military stated that he died as a result of illness, many still believe that he was assassinated by his captors. It wasn't until some 25 years later, in November of 2000, that Haile Selassie was finally given a proper funeral befitting his status.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_7">
+			<Text>The Rastafarian Movement came about through the words of Jamaican activist Marcus Garvey, whose philosophical views created the foundations for the religion as it is known today. Garvey's words "Look to Africa for the crowning of a Black King, he shall be the Redeemer" were seen as a prophecy fulfilled by the coronation of Haile Selassie in 1930. Although Selassie was himself an Orthodox Christian, he never confirmed nor denied his position as the Rastafarian messiah, and he visited Jamaica in 1966 to be met by tens of thousands of Rastafarian believers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_8">
+			<Text>Haile Selassie is widely viewed today as both an eloquent statesmen and a passionate leader who faced a number of difficulties during his reign, yet continually sought only to improve his people's welfare and his nation's stability. Selassie's views on international cooperation and diplomacy were influential not only in the future of Ethiopia, and Africa as a whole, but also throughout the international community.</Text>
+		</Row>
+		<!-- WONDERS -->
+		<Row Tag="TXT_KEY_WONDER_ALHAMBRA_DESC">
+			<Text>Found in southern Spain, the Alhambra is a large palace complex of the Nasrid Dynasty, who controlled the region in the mid 14th century. Construction first began sometime around 1238 AD under the rule of Ibn al-Ahmar, and continued under his successors. Taking its name from the red hue of its walls, the name Alhambra is translated as the "Red Fortress." Noted for its Moorish Islamic architectural style, the Alhambra features elaborate engravings and numerous examples of the interlacing patterns known as "Arabesques" found predominately in Islamic art. Although many examples of the original Islamic style remain today, much of the palace and its interior was reconstructed and modified after the rise of Catholicism in Spain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_ALHAMBRA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies."[NEWLINE]- Joseph Addison[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CN_TOWER_DESC">
+			<Text>At one time the tallest free-standing structure in the world, the CN Tower of Toronto, Canada still remains among the tallest structures in the world today. Constructed in 1976 as a communications tower by the Canadian National Railway Company (hence the CN moniker), the tower has become a hallmark of Toronto and a major tourist attraction for the city. The tower is still primarily used for television and radio broadcasting, and is now considered one of the "Seven Wonders of the Modern World," joined by several notable constructions of the 20th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CN_TOWER_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Nothing travels faster than the speed of light with the possible exception of bad news, which obeys its own special laws."[NEWLINE]- Douglas Adams[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HUBBLE_DESC">
+			<Text>Named for renowned American astronomer Edwin Hubble, the Hubble Space Telescope has proven to be among the most crucial astronomical research tools ever developed. Launched in 1990, the telescope has continually provided breathtaking images of far-off constellations and nebulas, attracting widespread attention from both scientists and the general public. As the only space telescope capable of being repaired by astronauts, the service life of the Hubble has been continually extended through a series of space walks. However, despite its notable legacy, the Hubble Space Telescope will be replaced in 2018 by the more advanced James Webb Space Telescope.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HUBBLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The wonder is, not that the field of stars is so vast, but that man has measured it."[NEWLINE]- Anatole France[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LEANING_TOWER_DESC">
+			<Text>Found in the Piazza del Duomo ("Cathedral Square") na cidade of Pisa, Italy, the famous bell tower commonly known as the Leaning Tower of Pisa has stood slightly off-kilter for centuries. Construction on the tower began in 1173, and it quickly became clear that the unstable soil and minimal foundation upon which the tower was built were not enough to prevent it from sinking.  After leaving the tower incomplete for nearly a century, construction resumed in the late 13th century, with the final level completed in 1372. The tower is home to seven bells, each comprising a different note on the musical scale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LEANING_TOWER_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Don't clap too hard - it's a very old building."[NEWLINE]- John Osborne[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_DESC">
+			<Text>The largest mud-brick structure in the world, the Great Mesquita of Djenne is found in the African Republic of Mali. Thought to have first been constructed sometime in the 13th Century by the sultan Koi Kunboro, the mosque has since been destroyed and rebuilt several times. The incarnation that stands today, assembled from mud bricks and mortar, was built in 1906 through the combined efforts of the surrounding community. Today, the mosque is maintained by the people of Djenne during an annual festival created specifically to ensure its longevity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness."[NEWLINE]- Thomas Chalmers[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_DESC">
+			<Text>Commissioned by the "Mad King" Ludwig II of Bavaria in the late 19th century, the Neuschwanstein Castle has since become the symbol of iconic "fairy tale" castles commonly found in children's literature and fables. Built into a hillside near the town of Füssen in Germany, Ludwig had intended the castle to be his retreat from public view, as he was known for his reclusive nature. Following his death, the castle became a popular tourist attraction, and eventually served as the inspiration for the famous Sleeping Beauty Castle created by Walt Disney.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world."[NEWLINE]- King Ludwig II of Bavaria[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_PETRA_DESC">
+			<Text>Constructed sometime around 1000 BC, the site of Petra in Jordan is among the most famous examples of rock-cut architecture in the world. Numerous intricately carved structures were cut into the sandstone walls of the desert canyons surrounding the area, as Petra came to serve as the capital city for the once-nomadic Nabataen people. The most famous of these structures, the Al Khazneh or "The Treasury," has been featured in numerous major motion pictures, notably a prominent role in "Indiana Jones and the Last Crusade" when the Al Khazneh was used to represent the location of the Holy Grail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_PETRA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon..."[NEWLINE]- Indiana Jones[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TERRACOTTA_ARMY_DESC">
+			<Text>Unearthed by Chinese farmers in 1974, the Terracotta Army of Emperor Qin Shi Huang was assembled to accompany the emperor in his burial tomb. Constructed during the 3rd century BC, workers created thousands of life-sized earthen figures, with each soldier having unique characteristics added during their construction. Positioned in proper military formation along deep pits carved within the tomb, the soldiers of the Terracotta Army are joined by horses, chariots, and cavalry which were also replicated in great detail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TERRACOTTA_ARMY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death."[NEWLINE]- Sun Tzu[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GREAT_FIREWALL_TEXT">
+			<Text>The Great Firewall is a restrictive internet monitoring and censorship program used to control the flow of information available to a civilization's people through the internet. By limiting the public's access to potentially volatile information available online, government agencies can limit potential backlash and other dissension regarding unpopular policies and government programs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GREAT_FIREWALL_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Distrust and caution are the parents of security."[NEWLINE]- Benjamin Franklin[NEWLINE][TAB]</Text>
+		</Row>
+		<!-- NATIONAL WONDERS -->
+		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_TEXT">
+			<Text>A National Intelligence Agency provides government resources for the acquisition of information and intelligence data key to providing security and national defense. Everything from covert operations, including espionage and infiltration, to the assessment of national security risks and response recommendations are made by these agencies. The Central Intelligence Agency of the United States is perhaps the most famous (or notorious) of the world's intelligence agencies, as the program has continually influenced global affairs through various means for decades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_TEXT">
+			<Text>A Grand Temple is a revered holy site held sacred among the followers of a given religion. These temples often feature grand architecture and ornate inscriptions that stand for centuries as a testament to the faith of the religion's adherents. Although there is no clear consensus as to which of the many temples found throughout the world today is the oldest, many believe the Göbekli Tepe - found in modern Turkey and assembled over 12,000 years ago - to be the earliest man-made religious structure ever discovered.</Text>
+		</Row>
+		<!-- BUILDINGS -->
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
+			<Text>An amphitheater is an outdoor arena designed for open-air theatrical performances, as well as sporting events and concerts. The ancient Romans in particular are known for the hundreds of amphitheatres they constructed, in which gladiatorial combat, exhibitions, and public executions were conducted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
+			<Text>Shrines are sacred monuments typically built to memorialize revered cultural icons or religious figures. Represented in nearly every religious denomination found throughout the world, shrines play an important role in religious ceremonies in both public and private worship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_RECYCLING_CENTER_TEXT">
+			<Text>A recycling center is a collection point for commonly found recyclable materials used in homes and businesses. In many communities, recyclables are collected alongside trash, and dropped off at the recycling center for sorting. In most cases, the materials are broken down or shredded, then baled and shipped to other sites for further processing into a variety of new products.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BOMB_SHELTER_TEXT">
+			<Text>As the name implies, a bomb shelter is a structure designed to withstand damage from bombs and other explosive weapons. While some bomb shelters were meant for protection from aerial bombardment, others were constructed underground in the hopes of surviving a nuclear attack. Depending on the intended purpose of the shelter, various materials could be used, with the most common component being reinforced concrete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CONSTABLE_TEXT">
+			<Text>One of the first known descriptions of the role of a constable comes from Bracton, a jurist in England writing between 1220 and 1250. "In whatever way they come and on whatever day, it is the duty of the constable to enroll everything in order, for he has record as to the things he sees; but he cannot judge, because there is no judgment at the Tower, since there the third element of a judicial proceeding is lacking, namely a judge and jurisdiction. He has record as to matters of fact, not matters of judgment and law."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_POLICE_STATION_TEXT">
+			<Text>A police station provides the base of operations for local police and detectives, typically housing office space, in addition to a small jail, interrogation rooms, and evidence storage areas. In some regions, a larger central office may contribute many of these facilities while smaller sub-stations serve as the primary post for local police departments.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CATHEDRAL_TEXT">
+			<Text>The Cathedral is a form of Christian church differentiated by the presence of the Bishop's throne. The Latin term "Cathedra" means "chair," in reference to the throne itself - the cathedral then being the building containing this throne. Most cathedrals feature a unique architectural style when compared to other surrounding structures, frequently becoming noted landmarks within the area.  While primarily used as places of worship, cathedrals are also host to varying social functions within the community.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MOSQUE_TEXT">
+			<Text>The mosque serves as the traditional place of worship for the followers of Islam. The largest mosque in the world, the Madjid al-Haram was built na cidade of Mecca, in Saudi Arabia, around 638 AD. Also known as the Grand Mesquita, the Madjid al-Haram encompasses the holy site of the Kaaba, the most sacred of all locations in the Islamic religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PAGODA_TEXT">
+			<Text>Commonly found throughout Asia, the Pagoda is an architectural style consisting of a multi-tiered tower typically featuring oversized eaves and a prominent finial at its peak. Most pagodas are associated with the Buddhist religion, as they were frequently constructed on or near Buddhist temple compounds in order to house sacred relics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_STRATEGY">
+			<Text>Can only be built in cities following a religion with the Cathedrals belief. Construct this building by purchasing it with [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOSQUE_STRATEGY">
+			<Text>Can only be built in cities following a religion with the Mosques belief. Construct this building by purchasing it with [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAGODA_STRATEGY">
+			<Text>Can only be built in cities following a religion with the Pagodas belief. Construct this building by purchasing it with [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STELE_TEXT">
+			<Text>A Stele is a large, upright slab of stone or wood used as a monument to commemorate great leaders, victories in battle, or occasionally to mark territorial boundaries. Found throughout Ethiopia and the surrounding regions, the stelae were often intricately inscribed with the details of the person or event being memorialized. The Obelisk of Axum, one such stele, was constructed in the mid-4th century AD in the Ethiopian city of Axum, but was later broken down and shipped to Italy during the occupation of Ethiopia by Mussolini's forces. Standing over 75 feet tall and weighing 150 tons, the great stele was returned to Ethiopia and reassembled in 2008 as part of an effort by the United Nations Educational, Scientific, and Cultural Organization.</Text>
+		</Row>
+		<!-- NATURAL WONDERS -->
+		<Row Tag="TXT_KEY_CIV5_FEATURES_SRI_PADA_TEXT">
+			<Text>Towering above Sri Lanka, Sri Pada is a large mountain peak with an unusually conical shape that is held sacred by a number of religions for the "footprint" found at its peak. The footprint, a large depression found in a rock formation on the mountain's summit, has been attributed to Buddha, Shiva, and the biblical figure Adam, leading to the mountain's reverence among followers of Buddhism, Hinduism, and Islam. Each year, thousands of pilgrims trek for hours up the mountain to pay their respects at the holy site.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_MT_SINAI_TEXT">
+			<Text>Found on the Sinai Peninsula of Egypt, Mount Sinai is among the most revered holy sites recognized by the followers of Judaism, Christianity, and Islam. Mount Sinai is believed to be the location where Moses first received the Ten Commandments from God during the Israelites' exodus from Egypt, making the peak an important site for religious pilgrims from around the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_MT_KAILASH_TEXT">
+			<Text>The sacred peak of Mount Kailash, found in the Himalayas of Tibet, is cherished by a number of religions, particularly the followers of Hinduism. It is believed to be the home of Lord Shiva, who dwells on the mountain in a state of eternal bliss. Mount Kailash is said to be among the most difficult of all religious pilgrimages, as the harsh conditions dissuade many would-be pilgrims, and the mountain is not accessible by any forms of modern transportation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_ULURU_TEXT">
+			<Text>Commonly referred to as "Ayers Rock," the massive red sandstone formation in central Australia has, over the past century, become one of Australia's most recognizable landmarks. Long before it was discovered by English explorers in the late 1800s, the mountain was known as "Uluru," a name given by the indigenous tribesmen of the area who share varying legends as to its creation and significance. Designated as a UNESCO World Heritage Site in 1987, this led to an immediate upsurge in tourism, with several hundred thousand visitors exploring the site each year.</Text>
+		</Row>
+		<!-- UNITS -->
+		<Row Tag="TXT_KEY_UNIT_FRIGATE_STRATEGY">
+			<Text>The Frigate is the first naval unit since the Caravel. Its Movement, Combat and Ranged Combat strengths are all enhanced when compared to the older naval unit. The Frigate can clear the seas of any Caravels, Triremes, and Barbarian units still afloat. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER_STRATEGY">
+			<Text>The Panzer is the German unique unit, replacing the tank. It is both stronger and faster than the tank. It also can move after combat, allowing it to blow huge holes in enemy lines and then barrel through before the enemy can repair the gap. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANCER_STRATEGY">
+			<Text>The Lancer is the Renaissance horse unit that comes between the Knight and the Cavalry unit. It's faster and more powerful than the Knight, able to sweep those once-mighty units from the map. The Lancer can even take on the powerful Cavalry unit once it appears.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN_STRATEGY">
+			<Text>The Longswordsman is the standard medieval infantry combat unit. It is more powerful than the Knight, but much slower. It also outclasses the Pikeman, but doesn't receive that unit's bonus versus mounted units. Use Longswordsmen and Catapults to attack enemy cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR_STRATEGY">
+			<Text>Modern Armor is just like its predecessor, the Tank, only more-so. Modern Armor is much stronger than the Tank unit and possesses all the Tank's abilities, such as moving after combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
+			<Text>This is a Songhai unique unit, replacing the Knight. This unit has the same statistics as the Knight, but it is significantly better at attacking cities. The Mandekalu Cavalry can move after attacking. Its speed makes it difficult for an enemy to build a defensive line before the Mandekalu Cavalry reaches the target.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TANK_STRATEGY">
+			<Text>The Tank is an extremely powerful and mobile land unit. It can move after combat, allowing it to blow holes in enemy lines and then move into the now-vacant hexes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_SIEGE">
+			<Text>Bonus vs Cities (200)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_ASSUALT">
+			<Text>Bonus vs Cities (300)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_DEFENSE_PENALTY">
+			<Text>Penalty on Defense (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MOUNTED_PENALTY">
+			<Text>Penalty vs Mounted (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_PENALTY">
+			<Text>Penalty Attacking Cities (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_AIR">
+			<Text>Bonus vs Aircraft/Helicopters (150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_HELICOPTER">
+			<Text>Bonus vs Helicopters (150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_FIGHTER">
+			<Text>Bonus vs Fighters (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_I">
+			<Text>Bonus vs Submarines (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK">
+			<Text>Bonus vs Tanks (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_HEAL_IF_DESTROY_ENEMY">
+			<Text>Heals 50 Damage If Kills a Unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY">
+			<Text>Heals 25 Damage If Kills a Unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MOHAWK">
+			<Text>Combat Bonus in Forest/Jungle (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_JAGUAR">
+			<Text>Combat Bonus in Forest/Jungle (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HOLY_SITE_TEXT">
+			<Text>A place of religious significance, holy sites are locations held sacred as a testament to the gods, prophets, and traditions of a given religion. Often the destination for religious pilgrims, these sites are often visited by the faithful in the hopes of strengthening their connection to God, while also paying their respects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MEHAL_SEFARI_TEXT">
+			<Text>The Mehal Sefari was an elite unit of Imperial guardsmen who protected the emperors of Ethiopia in the 19th and 20th centuries. Originally serving as the personal bodyguards for the emperors of Ethiopia, the Mehal Sefari grew to become a formidable brigade of the Ethiopian military. Consisting of specialized units of infantry, cavalry, artillery and marksmen, the Mehal Sefari's status as the elite force of Ethiopia was ensured by the rigorous training and modern equipment provided to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MISSIONARY_TEXT">
+			<Text>Missionários are members of a religious group or sect sent abroad to spread the message of their chosen religion. While their primary goal is to share their religious views and hopefully gain new followers, missionaries typically provide other beneficial services to the areas they visit. By setting up clinics, schools, and other social welfare programs, missionaries help those in need while also serving in their evangelical role. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COMPOSITE_BOWMAN_TEXT">
+			<Text>Widely considered the most sophisticated of all bow designs, the composite bow differs from other traditional models in that they are constructed of layered strips of bone, horn, or other materials glued together to form an extremely strong and powerful bow. The composite bow is thought to have originated with the tribal nomads of Asia sometime in the first or second millennia BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GATLINGGUN_TEXT">
+			<Text>The Gatling gun, forerunner to the machine gun, was invented in 1861 AD by the American Dr. Richard Gatling in the hope of reducing the size of armies and displaying how futile war is. Operation of a Gatling gun involved a revolving multi-barrel design, in which a hand crank turned the mechanism. As each barrel cycled, the spent cartridge was ejected, a new one loaded, and the muzzle barrel cooled. In this manner, a high rate of fire could be maintained without overheating. What the Gatling gun lacked in accuracy was made up for by its lethality.[NEWLINE][NEWLINE]Although not officially adopted by the United States Army until 1866, it was used for the first time in combat during the American Civil War by Union forces. It next saw use during the Peru-Chile War of the Pacific (1879-1883), which convinced European armies of its utility against massed enemies. Within a decade, the Gatling gun was adopted by most of the major powers; it was used most effectively to expand their colonial empires against the likes of the Ndebele, Zulu, Bedouins, Turkmen, Boxers, and other native peoples. In the first decade of the 1900s, designs for gas-operated "machine" guns made the weapon obsolete; the U.S. Army withdrew all models of the Gatling gun from service in 1911, followed soon after by the European armies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GALLEASS_TEXT">
+			<Text>The Galleass was a class of naval warship that grew in popularity during the 16th century, when designs based on the traditional galley were modified to include heavier armaments. A typical galleass began life as a merchant ship powered by oars, which was then upgraded to include masts for sails. With two forms of propulsion available, the galleass design allowed the ship to maintain much of the traditional galley's renowned speed, while also carrying heavy guns to fend off would-be attackers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GREAT_WAR_INFANTRY_TEXT">
+			<Text>As the 20th century opened, the world experienced two of the deadliest and most destructive wars in human history. It was a time of remarkable advancement in the technology of killing, and the infantrymen of World War I faced every conceivable terror the world's scientists and engineers could throw at them. Typically armed with little more than a bolt-action rifle and a simple uniform, these troops braved the horrors of trench warfare to defend their homes and families.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MARINE_TEXT">
+			<Text>Originally intended to serve as a class of infantry specializing in amphibious assaults, the stalwart marines have since grown to serve in a number of important roles within the military. Typically working in close collaboration with the navy, marines' diverse capabilities have allowed them to be utilized in conflicts throughout the world for decades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TRIPLANE_TEXT">
+			<Text>Deriving its name from the unique three-tiered wing system utilized in its design, the triplane was used with varying degrees of success during World War I.  The most famous triplane of the war, the Fokker Dr.I, was used extensively by the German air force, gaining particular notoriety as the legendary Red Baron's craft of choice. Although engineers developed many variations on the triplane design, advancements in the traditional biplane rendered the triplane obsolete within a decade of its introduction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WWI_BOMBER_TEXT">
+			<Text>By the outbreak of World War I, several nations, including Great Britain, France, and Germany, had all experimented with the concept of explosive bombardment via plane. In the earliest days of the war, bombs were dropped from all types of aircraft, including reconnaissance and fighter planes. One of the first genuine bombers introduced during the war, the Voisin III, was designed by the French aircraft manufacturer Gabriel Voisin. Featuring a standard biplane design reinforced with a steel frame, the Voisin III was capable of carrying payloads of over 300 lbs. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WWI_TANK_TEXT">
+			<Text>Conceptualized by British engineers during World War I as a solution to the constant stalemates afforded by the proliferation of trench warfare, the tank grew to become a crucial component of land-based warfare. Although the earliest tank designs proved to be cumbersome, both allied and opposition forces experimented with tank concepts throughout the war. Reliability, weight, and maneuverability were all major hurdles overcome only through continued trial and error.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MACHINE_GUN_TEXT">
+			<Text>Machine gun crews make use of powerful, fully-automatic firearms capable of laying down heavy suppression fire, typically at a rate of several hundred rounds per minute. The Gatling gun, predecessor to many modern machine gun designs, was first developed during the 19th century in the United States.  This concept later evolved into the Maxim gun, the first of many self-powered machine guns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PRIVATEER_TEXT">
+			<Text>With letters of marque in hand, privateer captains were given free reign over the seas during times of war, attacking foreign trade vessels at will. Predominantly sailing from the 16th to 19th centuries, privateers were utilized by all of the major colonial powers, particularly Britain and Spain. As the privateer captains and crew were not typically paid by the government who authorized their mission, they were given a share of the spoils captured from the opposing fleets, sometimes creating a murky distinction between privateers and their unauthorized pirate counterparts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEA_BEGGAR_TEXT">
+			<Text>The Sea Beggars, or Watergeuzen, were a collective of privateers opposed to the Spanish control of the Netherlands, active during the Eighty Years' War.  The name originates with a group of Dutch nobles, who marched to the Duchess of Parma's palace with a list of grievances and requests.  Councillors of the Duchess referred to the mass as "beggars", and the name stuck.[NEWLINE][NEWLINE]In 1569, the Beggars were given official letters of operation from William of Orange, and a total of 84 ships were equipped for action.  These Sea Beggars at first limited themselves to basic looting and plundering, but in a time of desperation took a Spanish town and garrison by force.  Inspired by their victory, they began a more offensive campaign, capturing other cities along the coast.  The success of the Sea Beggars was a rally cry to the rest of the Netherlands, and the entire nation began to revolt.  The Sea Beggars' capturing of the Spanish garrison at Brielle is now seen as the beginning of the war for Dutch independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GREAT_ADMIRAL_TEXT">
+			<Text>"Great Admirals" provide the leadership necessary to guide powerful navies to victory on the open sea. They plan, implement, and execute the complex maneuvers necessary to maintain naval superiority, providing the coastal security that every civilization needs. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INQUISITOR_TEXT">
+			<Text>Inquisitors were widely utilized throughout Europe as part of a broad effort to eliminate enemies of the Catholic Church. Those branded as heretics by the Inquisition were oftentimes tortured and executed for their alleged crimes, and there was typically little room for defense against the inquisitor's accusations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
+			<Text>The Helicopter Gunship is a deadly air unit that in most respects acts like any ground unit, except that it cannot capture cities. Its movement of 6 makes it extremely quick, and it can move over all terrain types including mountains as if they were clear, but it must embark to cross water. Gunships receive a hefty combat bonus when fighting tanks.</Text>
+		</Row>
+		<!-- Tecnologia related text -->
+		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Anfiteatro[ENDCOLOR], which provides a boost to [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"What is drama but life with the dull bits cut out."[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DRAMA_DESC">
+			<Text>Drama and poetry are both forms of artistic expression, the former expressed through the use of visual performance, the latter through the written word. Drama is most commonly associated with theatrical performances - plays, musicals, and operas - although in modern times these traditional forms have been surpassed by television and movie productions. Poetry focuses on the use of written language to express both a literal meaning, and often a thought-provoking underlying message.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GUILDS_HELP">
+			<Text>Allows Trabalhadores to construct the [COLOR_POSITIVE_TEXT]Trading Post[ENDCOLOR], which increases the [ICON_GOLD] Gold output of map tiles. Also allows your cities to convert [ICON_PRODUCTION] Production into [ICON_GOLD] Gold instead of working on units or buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GUILDS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The merchants and the traders have come; their profits are pre-ordained..."[NEWLINE] - Sri Guru Granth Sahib[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GUILDS_DESC">
+			<Text>In pre-industrial cities, craftsmen tended to form associations - or trade guilds - based upon their profession; these guilds were intended to both protect craft secrets as well as promote the influence and income of the craftsmen. Predecessors of the trade guilds were found as early as the 3rd Century BC in Rome and Han China. By 300 AD, the practice of craftsmen banding together had spread into Gupta India and Ptolemaic Egypt. In the Middle Ages, guild organizations spread rapidly from Italy throughout Europe; 12th Century records in Paris and London each list over 100 guilds chartered by the cities. In some cases, so powerful were some guilds that they became the governing body of cities, indicated by the guildhalls found in Germany, Switzerland and Holland.[NEWLINE][NEWLINE]Over time, the guilds took on the task of safeguarding quality and of instruction in the craft, with a life-long progression from apprentice to grandmaster. To insure product quality, the system of trademarks indicating that the item had passed both guild and government standards evolved. However, over time the influence and power of the guilds declined as they fragmented with the coming of new trades, government concerns, and mass production methods. In France, for instance, the guilds were abolished in 1791 AD by the Le Chapelier Law; other countries followed soon did the same. Although largely supplanted by unions in the Industrial Age, there are still examples of guilds in existence, notably in the realms of film, literature and other artistic professions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_HELP">
+			<Text>Allows you to construct multiple Wonders that can boost [ICON_CULTURE] Culture, [ICON_RESEARCH] Science and [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Architecture begins where engineering ends."[NEWLINE] - Walter Gropius[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_DESC">
+			<Text>Architecture can be considered both an art and a science. Encompassing everything from the initial planning and design of a structure, to the actual construction process, architecture has been a crucial element of the building process since ancient times. One of the earliest known discussions of architecture and its principles, "De Architectura," was written by the Roman architect Vitruvius in the first century BC. A ten volume set comprising all of the most intricate details of Roman construction methods, Vitruvius's work is widely recognized today as a crucial development in the evolution of the architectural design process.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP">
+			<Text>Reveals [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Coal[ENDCOLOR] and allows you to build the [COLOR_POSITIVE_TEXT]Factory[ENDCOLOR], a building which greatly improves the [ICON_PRODUCTION] Production of a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology."[NEWLINE] - Emily Greene Balch[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_DESC">
+			<Text>Industrialization is viewed as the transition from an agrarian society into an industrial one, which is typically accompanied by widespread social and economic change throughout the community. The Industrial Revolution, beginning in Europe during the 18th century, brought about immense changes in the way people lived their daily lives. With increasingly complex machinery and tools available, many trades that were once left to talented craftsmen became obsolete with the advent of assembly lines operated by droves of unskilled factory laborers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BALLISTICS_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Anti-Aircraft Guns[ENDCOLOR], useful for thwarting enemy aircraft, and the [COLOR_POSITIVE_TEXT]Machine Gun[ENDCOLOR], a powerful single-hex ranged Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BALLISTICS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Men, like bullets, go farthest when they are smoothest."[NEWLINE] - Jean Paul[NEWLINE][TAB]</Text>
+		</Row>
+		<!-- exists in the main game civilopedia file although it wasn't used
+		<Row Tag="TXT_KEY_TECH_BALLISTICS_DESC">
+			<Text>TEMP Description text: BALLISTICS</Text>
+		</Row> -->
+		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tank[ENDCOLOR], a fast and deadly armor Unit, and the [COLOR_POSITIVE_TEXT]Anti-Tank Gun[ENDCOLOR], a weapon specialized in defeating enemy Tanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest."[NEWLINE] - Ludwig von Mises[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_DESC">
+			<Text>Combined arms is a military doctrine first adopted more than a thousand years ago, which involves the combination of different-but complimentary-unit types in an effort to improve the overall efficiency of the force as a whole. In ancient times, the combined arms tactic was utilized by many of the major powers, particularly the Greeks and Romans, who carefully coordinated light and heavy infantry, cavalry, and ranged weapons to create cohesive formations that played off each others' strengths and weaknesses. In the present day, the rise of aircraft-based weaponry has led to even more complex variations on the traditional concept of combined arms. Drone aircraft, satellite-guided missiles, and high-altitude bombers are just a few examples of the expanding toolset available to modern military commanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TELECOM_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Nuclear Submarine[ENDCOLOR], a Naval Unit invisible to most other Units and capable of carrying 2 Missiles. Also allows the construction of the [COLOR_POSITIVE_TEXT]Bomb Shelter[ENDCOLOR], which significantly reduces population loss from a nuclear attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TELECOM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The more we elaborate our means of communication, the less we communicate."[NEWLINE] - J.B. Priestly[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TELECOM_DESC">
+			<Text>Telecommunication allows for the transmission of data and information over long distances using various types of signaling devices. Early forms of primitive ranged communication, including the use of smoke and signal flags, eventually gave way to telegraphs, and later, the telephone. Scientific research and engineering, particularly in the last 30 years, has led to breakthroughs in our ability to communicate globally. Orbiting satellites now provide a means for the transmission of data even to the most remote areas on Earth. Television, internet, cellular telephones, and GPS are now fully integrated into the daily lives of millions across the world because of telecommunications research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Mechanized Infantry[ENDCOLOR], a fast and versatile late game Unit that doesn't require any resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved."[NEWLINE] - Sun Tzu[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_DESC">
+			<Text>Mobile tactics are strategies implemented by military forces to allow for quick, highly maneuverable units to get in and out of battle without becoming mired in an ongoing engagement. Mobile tactics are often used by irregular or guerilla units who specialize in hit-and-run attacks aimed at disorienting larger forces.</Text>
+		</Row>
+		<!--CITY-STATES-->
+		<Row Tag="TXT_KEY_CIV5_ANTWERP_TEXT">
+			<Text>The city of Antwerp is located in the central European nation of Belgium, in what is known as the Low Countries. Settled by the Franks in the 4th century, Antwerp is believed to be situated on the same land as an early Roman encampment founded in the previous century. Built up over the years through the efforts of several ruling kingdoms, by the 16th century Antwerp had grown to become the wealthiest city in Europe, serving as an economic hub for traders from across the world.[NEWLINE][NEWLINE]During Antwerp's height as a thriving financial center, the city was home to international traders, merchants, and bankers who flocked to the growing city, bringing with them art and culture from abroad. Although the city enjoyed a period of calm and prosperity, the tumult of the Protestant Reformation, along with the increasing influence of nearby Amsterdam, led to a swift decline in Antwerp's economy and population by the 18th century.[NEWLINE][NEWLINE]In the 20th century, Antwerp was occupied by Germany during World War II, only to be liberated by the Allied forces after several years of conflict. Unfortunately for the people of Antwerp, Germany battered the city with V-2 rockets in an attempt to disrupt the flow of supplies arriving in Antwerp's port. Much of the city was ravaged, and it would be several decades before Antwerp again rose to its former place of prominence within Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CAHOKIA_TEXT">
+			<Text>Found in the southern region of the U.S. state of Illinois, Cahokia was once an ancient city comprised of more than one hundred earthwork mounds, constructed around 700 AD by the Native American Mississippian culture. Covering more than 2,200 acres, Cahokia is the largest native city north of Mexico. Throughout the city's early history, it served as an important economic hub along the Mississippi river, joining far off settlements in the exchange of goods and services.[NEWLINE][NEWLINE]Of the approximately 70 to 80 mounds remaining today, the largest is that of "Monks Mound," which covers an area nearly as big as the Great Pyramid at Giza. Although the site is thought to have been abandoned some 600 years ago, European settlers, including a group of French monks, inhabited the area during the early 1800s (the monks providing the mound's namesake).[NEWLINE][NEWLINE]Today, Cahokia is recognized as a UNESCO World Heritage Site.  Several hundred thousand tourists from around the world visit the site each year, while archeologists working in the area expand on their research and continue to make new discoveries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLOMBO_TEXT">
+			<Text>The largest city on the island nation of Sri Lanka, Colombo, has long been a vibrant trade center due in no small part to its strategic location along the rotas comerciais connecting Asia, Africa, and the Middle East. Beginning in ancient times, traders sailing from Greece, Rome, and China all stopped within Colombo's naturally formed harbor while sailing to distant ports.[NEWLINE][NEWLINE]Sometime around the 8th century AD, Arab settlers and traders hoping to profit from the port made permanent residence in the area of Colombo. However, it wasn't until nearly 600 years later with the arrival of Portuguese explorers that Colombo saw a vast expansion in its economic influence. From the early 1500s on, Colombo was of strategic and economic importance to a number of empires, as control of the city changed hands from the Portuguese to the Dutch, and later still, the English.[NEWLINE][NEWLINE]In the present-day, Colombo and its port are integral to the overall economy of Sri Lanka, as much of the nation's imports and exports pass through the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HONG_KONG_TEXT">
+			<Text>A city-state in its truest form, Hong Kong is a massive city residing along the southern coast of China. Home to more than seven million residents in the present-day, the island of Hong Kong and its surrounding territories were once home to numerous small settlements, including those constructed by foreign explorers. During the reign of the Chinese Qing Dynasty in the 19th century, trade relations with England dissolved amidst growing concern over the importation of Indian Opium into China. Britain had hoped to offset its increasing expensive tea imports from China by exporting greater amounts of Opium from its Indian colonies to China. However, the Qing rulers objected, and attempted to seize incoming opium shipments, inciting the First Opium War in 1839.[NEWLINE][NEWLINE]As one of the premier naval powers of the era, Britain had little trouble defeating the Chinese forces and occupying the island of Hong Kong. After nearly 3 years of conflict, the signing of the Treaty of Nanking in 1842 provided Britain with various spoils, including control of Hong Kong. After growing as a British colony for more than 150 years, Hong Kong was finally returned to China in 1997, after a peaceful transfer of power led to the creation of the Hong Kong special administrative region. Modern Hong Kong is distinguished by its highly dense, urban landscape with a distinctive skyline marked by dozens of skyscrapers and brightly lit structures. Despite the communist system utilized by the People's Republic of China, Hong Kong maintains an autonomous system of government that firmly supports free trade, and the city is now considered one of the world's premier financial hubs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JERUSALEM_TEXT">
+			<Text>The often contentious debate over Jerusalem, holy city to the followers of Islam, Judaism, and Christianity, has raged for decades since the city's establishment as the capital of Israel. With portions of the city having been constructed over 6,000 years ago, Jerusalem is one of the oldest known cities in the world. Throughout its tumultuous history, Jerusalem has come under siege numerous times, as far-reaching empires and local kingdoms alike struggled to wrest control of the city from one another.[NEWLINE][NEWLINE]The oldest area in Jerusalem, the City of David, is said to have been founded by the legendary King David sometime during the 1st millennium BC. Over the centuries that followed, immigrants and refugees toiling under a number of kings and emperors worked to expand the city. By the time the Islamic Caliphates rose to power in the 6th century AD, Jerusalem had already been controlled by the Macedonians, the Romans, and the Byzantine Empire.[NEWLINE][NEWLINE]The past century has arguably been the most controversial in Jerusalem's history, following the establishment of the Jewish state of Israel and Israel's subsequent annexation of Jerusalem following the Six-Day War. In the time since, Israel's control of Jerusalem has been one of the major hurdles preventing a resolution to the longstanding Israeli-Palestinian conflict.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LA_VENTA_TEXT">
+			<Text>The ancient Olmec settlement of La Venta, found in central Mexico, is thought by archeologists to have been an important cultural center that also contributed greatly to trade in the region. The structures of La Venta are unique in that the surrounding region had no stone available for construction, leaving the Olmec to build everything from clay and fill dirt. Although large portions of the site have been lost to present-day construction, what has been excavated indicates that La Venta held ceremonial significance for the Olmec. Numerous monuments and sculptures adorn the complex, with burial tombs and altars having also been discovered. Of the iconic "Colossal Heads" carved by the Olmec, La Venta features four of the most famous. Weighing several tons each, archeologists can only theorize as to how the Olmec managed to acquire the stone for these massive carvings. Unfortunately, due to ongoing construction taking place in the area, it appears unlikely that further excavations will take place at La Venta in the near future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MANILA_TEXT">
+			<Text>Although accurate historical records of Manila's early history are limited, sometime around the 10th century AD, the site of the Philippine's future capital city was settled in its earliest incarnation. It wasn't until 1571 however, with the arrival of Spanish Conquistador Miguel Lopez de Legazpi, that the existing settlements were destroyed, and the reconstructed city first came to be known as Manila. For the next 300 years, Manila and the Philippine islands remained under Spanish control. In 1898, Spain relinquished the Philippine territories to the United States after the Spanish-American War.[NEWLINE][NEWLINE]Manila's port, simply known as the Port of Manila, is one of the busiest seaports in the world, and the primary means of import and export within the Philippines. With a diverse variety of exported products, ranging from food and local commodities, to chemicals and industrial products, the Philippines rely heavily on Manila's port to maintain their flourishing economy. Tourism is also a major component of the local economy in Manila, as visitors come from around the world to see the historic walled district within Manila known as the Intramuros.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MILAN_TEXT">
+			<Text>Founded in the 4th century BC by the Celtic Insubres people, the city of Milan in northern Italy grew over time to become one of the greatest cultural centers of the Italian Renaissance period.[NEWLINE][NEWLINE]After being conquered by the Romans in approximately 222 BC, Milan later became one of the three capitals of the Roman Empire during the Tetrarchy of Emperor Diocletian. Passing through the hands of a number of kings and empires following Rome's decline, Milan's prosperity continued to climb as the city became an increasingly important bastion in northern Italy.[NEWLINE][NEWLINE]Of the many notable aspects of Milan's history, none have a greater renown than the city's cultural contributions to the world. As an integral part of the Italian Renaissance movement, Milan was home to many great artists, who produced some of the greatest works of the era. Perhaps the most famous of Milan's residents was the painter Leonardo Da Vinci, who spent much of his life working and studying na cidade.[NEWLINE][NEWLINE]In the present day, Milan is still recognized as one of the world's leading cultural centers, with much of the current focus being on fashion and modern design.  Milan is also one of Italy's most important commercial business centers, as much of the country's transportation infrastructure leads through the city. Numerous multinational corporations also have offices in Milan, with industries ranging from telecommunications to manufacturing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MOMBASA_TEXT">
+			<Text>Although the founding of Mombasa is shrouded in conflicting historical records, it is believed the city, now the second largest in Kenya, was settled sometime around the 10th century AD. By the Middle Ages, Mombasa had grown into a flourishing city with an economy primarily based on the export of Ivory. Mombasa was also known for its vast network of plantations producing coconuts, cashews, and millet, which were then shipped out along the rotas comerciais crossing the Indian Ocean. Mombasa's port, known as the Kilindini Harbor, is the only international seaport in Kenya, which has allowed the city to become a major center of commerce and trade for the entire nation. In the present day, Mombasa's largest exports continue to be agricultural in nature, particularly coffee, tea, and grain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PRAGUE_TEXT">
+			<Text>Widely recognized for its cultural contributions to Europe over the past millennium, the city of Prague, capital of the Czech Republic, grew from a minor settlement of the mid-8th century to a major metropolitan area of more than one million people as it stands today.[NEWLINE][NEWLINE]During the 14th century, Prague flourished as the seat of power for the Holy Roman Emperor Charles IV. Many of the city's most notable landmarks were constructed during his reign, including the famous St. Vitus Cathedral built in the Gothic architectural style. Prague also expanded as an economic center during this period, receiving traders and financiers from across Europe as the city's population greatly increased.[NEWLINE][NEWLINE]Home to a number of renowned museums, theaters, and other cultural attractions, Prague is an extremely popular tourist destination in the present day. By current estimates, more than three million visitors come to Prague each year to enjoy the sights of the historic city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALLETTA_TEXT">
+			<Text>The capital city of the Republic of Malta, located south of Sicily in the Mediterranean Sea, Valletta was founded by Jean Parisot de la Valette, Grandmaster of the Order of Malta. The island of Malta was given to the Knights Hospitaller, a Christian military order, by Spanish King Charles V in 1530 during the height of the Islamic Ottoman Empire's power. This eventually led to the famous Siege of Malta in 1565, when the Ottomans moved to invade the island and conquer the Knights. In successfully repelling the invasion, the Order of Malta decided to construct a new, fortified city to ensure their position would be secure from future attacks. Valetta was founded along the Maltese coastline, an ideal location that provided easy access to two major harbors. The Grand Harbor, as it's known today, is the most crucial port on Malta, handling much of the republic's import and export duties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VATICAN_CITY_TEXT">
+			<Text>The walled Vatican city-state, officially established in 1929, serves as the epicenter for the Catholic Church and its millions of followers throughout the world today. Founded as a means of resolving the ongoing conflicts between the Pope and the Kingdom of Italy over land ownership and control of Rome, the Lateran Treaty laid the groundwork for an independently governed city-state within the boundaries of Rome itself. As the sovereign of Vatican City, the Pope is the only absolute monarch left in Europe, and he holds supreme authority over all branches of the Vatican's government. The city itself is known for the many incredible works of art housed in its museums and cathedrals. St. Peter's Basilica and the Sistine Chapel are perhaps the best known sites within the Vatican, featuring works by Michelangelo, Raphael, and Botticelli.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WITTENBERG_TEXT">
+			<Text>
+        The city of Wittenberg, a small settlement in central Germany, claims a unique stature in history as the birthplace of the Protestant Reformation incited by Martin Luther in the 16th century. Although the city was well-established within the Holy Roman Empire as the seat of power for the Elector of Saxony, it was Martin Luther's revolt that put Wittenberg on the map.[NEWLINE][NEWLINE]While teaching theology at the Universidade of Wittenberg, Martin Luther first expressed his distaste for the selling of indulgences - the process of paying the Catholic Church for the forgiveness of sin. In 1517, Martin Luther famously nailed his Ninety-Five Theses to the door of the Castle Church in Wittenberg, sparking the Protestant Reformation across Europe. Although it would take more than a century before the religious wars spurred by the Reformation were resolved, Wittenberg was always remembered as the wellspring for Martin Luther's dissidence.[NEWLINE][NEWLINE]More recently, Wittenberg was consumed by the conflicts of World War II, although much of the city's historic center was spared from the devastation of the allied bombing campaign. Following the conclusion of the war, Wittenberg was occupied by the Soviets and became part of East Germany in 1949, where it remained until the reunification of Germany in 1990.
+      </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YEREVAN_TEXT">
+			<Text>Standing among the oldest cities in the world, Yerevan, the present-day capital of Armenia, traces its founding to the construction of the Erebuni fortress in 782 BC by King Argishti I of Urartu. Since that time, Yerevan has fallen under the rule of a number of powerful empires, having been conquered during the Arab invasions of the 7th century AD. It was during this period that Yerevan became an important stopover along the caravan routes connecting Europe to Asia. In the present-day, Yerevan is known for the many industries based na cidade, which account for more than 50% of Armenia's total industrial output. Industries producing heavy machinery, chemicals, raw materials, and textiles, have all contributed to the city's growing economy. Yerevan also plays an important role in Armenia's reputation for producing high quality alcohol, as a number of manufacturers are based within the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ZANZIBAR_TEXT">
+			<Text>As part of the region once known as the "Spice Islands," Zanzibar, found in Tanzania in East Africa, has long captured the eye of traders sailing from around the world. At one time, Zanzibar was the world's leading producer of cloves, in addition to a number of other spices including nutmeg and cinnamon. In the modern day, Zanzibar is also heavily reliant on the tourism industry, which provides a steady income in addition to the agricultural industries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ZURICH_TEXT">
+			<Text>Zurich, the largest city in modern Switzerland, traces its early history to the Romans, who are thought to have founded the city some 2,000 years ago as a minor fortress. Zurich's growth into a major international center of trade and business wouldn't come until the 18th century, when vast expansions took place and the city grew exponentially.[NEWLINE][NEWLINE]Zurich is presently a crucial economic center for Switzerland and Europe as a whole, with many of the world's largest banks and financial institutions having central offices within the City. The Swiss Stock Exchange, having existed for more than 150 years, is also based in Zurich.</Text>
+		</Row>
+		<!--RELIGION-->
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_15_LABEL">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_PAGE_LABEL">
+			<Text>Religion Home Page</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_HOMEPAGE_BLURB">
+			<Text>"A faith is a necessity to a man. Woe to him who believes in nothing."[NEWLINE] - Victor Hugo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_HOMEPAGE_LABEL1">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_HOMEPAGE_TEXT1">
+			<Text>Religion - as embodied in the great faiths of the world - has been one of the most significant factors in the progress of Man's culture and history. Religion has been the foundation for great art, wonders, and unity, but also has been the source of wars and intolerance. In Civilization V, religion brings your people advantages in the form of "Beliefs" that will further distinguish your civilization from others.[NEWLINE][NEWLINE]From the selection of the simple, single tenet of a "Pantheon" through the development of a sophisticated "Enhanced Religion," it is important for your success to make wise choices in the faith your civilization will follow. As rendered by "Faith" points, Great Prophets, Missionários, Inquisitors, Holy Sites, and religious buildings in your cities can greatly aid your progress towards victory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_CATEGORY_1">
+			<Text>Religions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_CATEGORY_2">
+			<Text>Pantheon Beliefs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_CATEGORY_3">
+			<Text>Founder Beliefs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_CATEGORY_4">
+			<Text>Follower Beliefs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BELIEFS_CATEGORY_5">
+			<Text>Enhancer Beliefs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_JUDAISM_PEDIA">
+			<Text>Judaism is the religion of the Jews, who were originally a tribal people concentrated in the Middle East region surrounding Jerusalem. As one of the oldest religions still in practice today, it is believed that Judaism first appeared some 3500 years ago, as one of the earliest Monotheistic religions. Despite their inherent differences, many aspects of Judaism are closely tied with both Christianity and Islam, as they are all considered "Abrahamic" religions, meaning they are descended from Abraham.[NEWLINE][NEWLINE]Central to Judaism is the Torah, the name given by the Jews to the first five books of the Bible. Said to have been given to Moses at Mt. Sinai, the Torah outlines the means by which the Jews can live according to God's will. Although Judaism's core doctrines have been debated by scholars for centuries, the Jews believe they are the Chosen People, selected by God to be in covenant with him, and that God will send a messiah to bring all of the chosen back to Israel.[NEWLINE][NEWLINE]Although the Jews have been persecuted throughout history and scattered across the world, Judaism as a religion has prevailed, and the Jews' continued faith in God has not been broken despite the atrocities committed against them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SIKHISM_PEDIA">
+			<Text>Founded in the 15th century AD by the Guru Nunak Dev, Sikhism has grown through the efforts of successive Sikh Gurus who espoused the virtues of peace, equality, and selfless service. Sikhism has over 20 million followers in the present-day, based primarily in the Punjab region of India. The Sikhs believe in only one god, who has no physical form, but every Sikh has the ability to speak to God, and all are equal in God's eyes.[NEWLINE][NEWLINE]Sikhs are known for their generosity towards others, as one of the primary tenets of their religion is the idea that all people are created equal, regardless of religion, race, or sex. In differing from other major religions, Sikhism supports that belief that acts of good in service to others are more important than any form of ritual. Sikhs are also bound to defend against injustices, supporting all who are oppressed, as truth and peace should prevail above all else. The Sikhs believe that to attain salvation, every Sikh must practice disciplined meditation, as only through personal observance and focus on God can salvation be reached.[NEWLINE][NEWLINE]There are a number of restrictions placed on the followers of the Sikh faith, including the requirement that they not cut their hair, not consume any intoxicating substances, and notably, not perform any ritual, superstition, or pilgrimage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BUDDHISM_PEDIA">
+			<Text>Followed by more than 350 million people throughout the world today, Buddhism is based on the teachings of revered spiritual leader Siddhattha Gotama, known as the "Supreme Buddha," meaning "the enlightened one." As the central figure of Buddhism, Buddha was not recognized as a god, nor did he presume to claim a connection to God. Rather, Buddha taught his followers a path to enlightenment based on his own life experience, a distinction that differentiates Buddhism from many of the world's major religions.[NEWLINE][NEWLINE]Buddhism's primary tenets, the Four Noble Truths and the Noble Eightfold Path, lay out the means by which one can achieve Nirvana, or peace from unending suffering. In their simplest form, the Four Noble Truths tell us that life is suffering, that suffering arises from our attachment to desires, that suffering ceases when attachment to desire ceases, and that freedom from suffering is possible by practicing the eightfold path. As the name implies, there are eight aspects to the Eightfold Path, each describing the practice required to fully understand the Four Noble Truths.[NEWLINE][NEWLINE]In the present-day, there are three major schools of Buddhism. The largest, Theravada and Mahayana, are known as sutric schools, and they believe that the primary means of attaining enlightenment is through the careful study of Buddha's teachings. The third, Vajrayana, is a tantric school, meaning they believe they can accelerate the process of enlightenment through the use of yoga, mantras, and other rituals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TENGRIISM_PEDIA">
+			<Text>The ancient religion of Tengriism is notably tied to the tribal peoples of Central Asia, including the Huns and Mongols. Based primarily on the belief in Tengri, the Sky God, and Eje, the Earth Mother, Tengriism is known to have been loosely collaborated, with no priests or clerics, and no attempts to convert others. By focusing on maintaining harmony with the surrounding environment, worshippers of Tengrii held the Earth's resources sacred, particularly water, which was scarce in the steppes of Central Asia where much of Tengriism's following was found. Although it is believed there are still adherents to Tengriism in parts of Asia in the present-day, an accurate count of their numbers has not been taken.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HINDUISM_PEDIA">
+			<Text>Widely considered the oldest religion still in practice today, Hinduism is based upon a series of ancient manuscripts known as the Vedas. This collection of Sanskrit texts, encompassing four main scriptures, is thought to have been written over 3,500 years ago. With over one billion followers throughout the world today (most being concentrated in India), Hinduism also has one of the largest followings of any major religion.[NEWLINE][NEWLINE]Although Hinduism cannot be attributed to a single founder, the religion has grown on the basis of the writings found in the Vedas, which focus on a single, unifying force that governs all aspects of our existence. Although there are a number of widely recognizable gods within Hinduism, notably Shiva, Vishnu, and Brahma, these deities are all but a small part of the greater God. Dharma, or the "Ultimate Reality," is the universal power or law by which all things that exist are bound. Through endless cycles of death and rebirth, Hindus believe that the only means of breaking free from unending reincarnation is through meditation and the realization that God is in all things. Hindus also believe in Karma, by which our deeds, both good and bad, have a cause and effect relationship on how our lives progress.[NEWLINE][NEWLINE]Although there are a number of competing sects within Hinduism and the schools may differ in their interpretation of the ancient manuscripts, they do not view each other as rivals, and in fact share ideas and opinions openly amongst one another.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TAOISM_PEDIA">
+			<Text>Taoism is a unique religion, founded on the basis of the ancient beliefs and philosophies of the Chinese kingdoms of the 2nd century AD. Although not attributed directly to a single founding figure, Taoism grew based on the writings of the philosopher Lao-Tsu, who wrote the "Tao Te Ching" in the 4th century BC. Zhang Daoling, the first "Celestial Master," founded the first school of Tao based on the works of Lao-Tsu.[NEWLINE][NEWLINE]Quickly gaining converts as he preached the philosophies of Lao-Tsu, Zhang Daoling spread the basic doctrine of Tao. One of the religion's best known aspects, Yin and Yang, represent the world filled with complimentary forces in harmony and balance, a common example being light and dark. Followers of Taoism are encouraged to exercise humility, kindness, and compassion in their daily lives in order to maintain this balance.[NEWLINE][NEWLINE]Throughout its history, Taoism has had many sects and branches split from the original school, as elements of Chinese tradition crept into the philosophy. Magic, alchemy, and other mystical forces have all been included in some forms of Taoist thought since its early days. Although estimates of the total number of Taoist followers vary widely, it is believed that there are still several million believers living in China and the surrounding regions today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CONFUCIANISM_PEDIA">
+			<Text>Confucianism is a religion based on the teachings of the Chinese philosopher Confucius, who was born in 551 BC. Originally introduced as an ethical and social philosophy, Confucianism has grown to a following of several million in the present-day, mainly concentrated in the regions of East Asia. During his life, Confucius hoped to instill a strong belief in personal morality, social responsibility, and family loyalty, as each person served their role in society. As a humanist philosophy, Confucianism focuses on the ability of every human being to learn, grow, and improve through ethical behavior and consideration for others.[NEWLINE][NEWLINE]Following Confucius' death in approximately 479 BC, his teachings saw widespread growth for nearly 200 years until attempts at suppressing the philosophy were undertaken in earnest by the Qin Dynasty. The Qin rulers believed that Confucianism was a direct threat to their authority, and, as a result, they had most Confucian books burned, including many of Confucius' original writings. Temples were also destroyed across the country, leaving little sanctuary for the followers of Confucianism. Despite these attempts to wipe out the Confucian belief system, a hidden store of Confucian manuscripts was discovered in the walls of a scholar's home, and the religion found new life after the fall of the Qin in 206 BC.[NEWLINE][NEWLINE]In the present-day, the works of Confucianism are studied by scholars throughout the world. Although they approach Confucianism as more of a philosophy than as a traditional religion, the distinction between these two interpretations is hazy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SHINTO_PEDIA">
+			<Text>With no founding figure, and no central doctrine, Shinto is a spiritual belief of the Japanese people based on an individual's connection to the world, and to Japan itself. One of the central aspects of Shintoism is the worship of spirits, known as Kami, who are acknowledged through the visiting of shrines. Although the Kami are not considered gods, they are spirits or entities with close ties to humans, and they can have a beneficial effect on the course of one's existence. However, Shinto is not focused on the belief in Kami, but on the ritual of devotion itself. By paying your respects to the Kami at shrines, you are showing your interest and as such the Kami may bring positive benefits to your life. Although Shinto has been central to Japanese life for centuries, with over 100 million adherents found in Japan today, Shinto is not a religion in the traditional sense, but an ingrained faith unique to the Japanese people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ZOROASTRIANISM_PEDIA">
+			<Text>Zoroastrianism, an ancient religion based on the teachings of the prophet Zoroaster, is believed to have been founded some 3,500 years ago in the region surrounding modern Iran. At one time one of the largest religions in the world, Zoroastrian is only followed today by an estimated 200,000 adherents, living primarily in India, Pakistan, and Iran. Zoroastrianism is considered by some to be the oldest monotheistic religion in the world, although this is a point of contention among scholars. Zoroastrian beliefs are centered on the creator god Ahura Mazda, who is the focal point of all Zoroastrian tradition and worship. It is said that Ahura Mazda revealed his wisdom to Zoroaster, who then spread the teachings across the region. The sacred texts of Zoroastrianism, known collectively as the Avesta, contain hymns said to have been written by Zoroaster himself.[NEWLINE][NEWLINE]As with many religions, Zoroastrianism outlines the ways in which we can live in harmony with the surrounding world, in this case through good thoughts and good actions. Zoroastrians are often mischaracterized as fire worshippers, in part because of the prevalence of fire as a symbol in Zoroastrian rituals. In Zoroastrianism, fire represents the light of Ahura Mazda, and believers will always pray in the direction of the light, rather than worshipping the fire itself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CHRISTIANITY_PEDIA">
+			<Text>As the world's largest religion, Christianity is followed by more than two billion people across the globe today. Although Christianity is primarily centered in Europe and the Americas, there are believers living in nearly all parts of the world. The belief system of Christianity is based upon the teachings of Jesus Christ, who lived from approximately 6 BC to 30 AD.[NEWLINE][NEWLINE]Adherents of Christianity believe that Jesus was the Son of God, who was brought to the world to teach mankind the way to salvation. Jesus' birth to the Virgin Mary in Bethlehem is recorded in the New Testament of the Bible, as are the details of his early life, living and teaching in the area of present-day Israel and Palestine. During his time spreading the word of God, Jesus is said to have performed miracles as he taught his followers how to purify themselves of sin. Giving sight to the blind, curing the sick, and turning water into wine were all miracles said to have been performed by Jesus. His eventual betrayal by Judas and his crucifixion by the Romans served only to spread his renown, as his disciples claimed that he appeared before them three days after his death, rising from the grave and ascending to heaven.[NEWLINE][NEWLINE]The largest schools of Christianity are Roman Catholicism, the Eastern Orthodox Church, and Protestantism. Although these denominations differ in their interpretation of the bible and Jesus' teachings, they are all bound by their common belief in the Christian doctrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ISLAM_PEDIA">
+			<Text>The second largest religion in the world, Islam, is based on the belief that there is only one true God, Allah, and he has made his will known through a number of prophets on Earth. The most important of these prophets, Muhammad, recorded God's words in the Muslim holy book, the Koran.[NEWLINE][NEWLINE]Born na cidade of Mecca (in modern Saudi Arabia) in 570 AD, Muhammad was raised as a merchant and later worked as a shepherd. However, at age 40, he experienced visions from God, and recorded God's word verbatim in the Koran. From this point forward, Muhammad preached the word of God and instructed his followers that the only true path to salvation was to devote themselves entirely to God through daily prayer, and the strict adherence to the laws set forth by God. The Five Pillars of Islam, the framework through which salvation can be attained, state in their most basic form that there is no god but God, and Muhammad is his prophet; one must pray daily to God at the five established times; one must give to the needy to support them; one must fast from dawn until dusk during the month of Ramadan; and one must make a pilgrimage to Mecca, at least once, during the holy month of Dhu al-Hijjah.[NEWLINE][NEWLINE]As was the case with the founding of many religions, Muhammad and his followers were met by staunch resistance from other faiths. Despite this, Muhammad's message spread across the Middle East following his death in 632 AD. Since that time, Islam has splintered into a number of competing branches, the largest being the Sunni and Shia denominations. Although bound by their overarching beliefs, these sects differed in their interpretation of who should lead Islam's following since the time of Muhammad's death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PANTHEON_PEDIA">
+			<Text>Placeholder</Text>
+		</Row>
+		<!--RESOURCES-->
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JEWELRY_TEXT">
+			<Text>Jewelry is a term used to refer to articles of gold, silver, gems, and other precious materials, worn with no other purpose in mind aside from personal adornment. Ancient forms of jewelry discovered in Africa indicate that these adornments were used more than 50,000 years ago, when beads, shells, and bone were worn in a decorative fashion. In the past 5,000 years, gold has been the primary material used in jewelry, as its malleable nature and distinctive styling allowed for increasingly complex designs that spoke to the wealth of its owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JEWELRY_HELP">
+			<Text>Jewelry is only available through a Mercantile City-State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PORCELAIN_TEXT">
+			<Text>First created in China nearly 3,000 years ago, porcelain is a type of ceramic material formed by heating clay to create semi-translucent vessels of varying shapes and sizes. Artists and craftsmen spent centuries developing the techniques that allowed for control of both the aesthetic qualities as well as the physical strength and usability of porcelain objects. Having originated in China, porcelain dinnerware was often referred to simply as "China" during the height of its popularity in Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PORCELAIN_HELP">
+			<Text>Porcelain is only available through a Mercantile City-State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COPPER_TEXT">
+			<Text>The soft, orange-hued metal known as copper has been used for thousands of years for everything from weapons, to currency, to circuits and electrical wiring in the modern day. Copper has a number of unique qualities, not the least of which are its antimicrobial abilities. Copper is naturally resistant to many forms of bacteria, leading to its use in plumbing and other applications where human contact is frequent, for example in doorknobs. Copper is also valuable for the alloys produced when it is combined with other metals. When mixed with tin, copper forms the alloy known as bronze. When combined with zinc, brass is produced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SALT_TEXT">
+			<Text>One of the necessities of human life, salt, is found throughout the world in both natural and man-made environments. Used for thousands of years as a means of preserving meat, salt was crucial in efforts to store food prior to the invention of artificial refrigeration. A common method of producing and harvesting salt for consumption is through the use of evaporation. By creating large ponds or pools of saltwater, over time the natural evaporation process will remove the water and leave behind the salt residue for collection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CRAB_TEXT">
+			<Text>Dwelling at the bottom of the sea, the claw-bearing crustaceans known as Crabs are omnivores that will most often consume whatever comes their way. With over 800 species of crabs known to exist throughout the world, they are a staple food in some areas and one of the largest sea commodities in the present day. Among the most popular varieties, the blue crab, for which the Chesapeake Bay of Maryland is famous for producing, is consumed at a rate of over one hundred million pounds per year.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TRUFFLES_TEXT">
+			<Text>A rare and expensive delicacy, truffles are the fruit of a family of mushrooms that grow underground. With a pungent aroma and powerful taste, truffles are used primarily for seasoning dishes in a variety of international cuisines. One of the more unusual aspects of truffles are the means by which they are acquired, that is via "truffle hog." These pigs, domesticated and used specially for the purposes of finding underground truffles, are naturally gifted in the hunt. With an uncanny sense of smell, truffle hogs are said to have been in use since the Roman era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CITRUS_TEXT">
+			<Text>Citrus fruits - particularly Oranges, Limes, and Grapefruit - have been a common part of the human diet since ancient times. First cultivated in the regions surrounding Southeast Asia, the various flowering plants of the Citrus genus have since flourished in countries throughout the world. Scurvy, a Vitamin C deficiency rampant among sailors, began to become a serious problem in the 15th century. It continued to plague ships throughout the Age of Discovery, until the introduction of lime juice and sauerkraut treatments in the 18th century. Although most sailors believed it was the acid in citrus that prevented the disease, it was actually the Vitamin C, but the end result was a healthy crew in either case.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Public School[ENDCOLOR], which increases [ICON_RESEARCH] Science in Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Composite Bowman[ENDCOLOR], a powerful ranged unit, and the [COLOR_POSITIVE_TEXT]Colosseum[ENDCOLOR], which improves [ICON_HAPPINESS_1] Happiness in the empire, which in turn helps your city growth and makes [ICON_GOLDEN_AGE] Golden Ages more likely. Also allows Trabalhadores to construct [COLOR_POSITIVE_TEXT]Lumbermills[ENDCOLOR] on forested map tiles, increasing their [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Temple[ENDCOLOR], which increases the [ICON_PEACE]Fé output of a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EDUCATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], which boosts [ICON_RESEARCH] Science. Também fornece new [ICON_RESEARCH] Science-related abilities, like the [COLOR_POSITIVE_TEXT]Research Agreement[ENDCOLOR], which is a special deal that may be made with other players in the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Celeiro[ENDCOLOR] que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais. Também permite que você construa o [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], a primeira construção que produz [ICON_PEACE]Fé no jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Chariot Archer[ENDCOLOR], a fast and powerful ranged unit which requires [ICON_RES_HORSE] Horses, and the [COLOR_POSITIVE_TEXT]Water Mill[ENDCOLOR], which gives your city a [ICON_FOOD] Food and [ICON_PRODUCTION] Production boost if it's next to a river. Also allows Trabalhadores to construct [COLOR_POSITIVE_TEXT]Roads[ENDCOLOR], which allow units to move across the map faster and provide extra [ICON_GOLD] Gold when connecting cities to your capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
+			<Text>Allows you to build various [ICON_GOLD] Gold-boosting buildings like the [COLOR_POSITIVE_TEXT]Mint[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Market[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ENGINEERING_HELP">
+			<Text>Allows your cities to build [COLOR_POSITIVE_TEXT]Aqueducts[ENDCOLOR], increasing the [ICON_FOOD] Food that is carried over as your city grows. Also allows Trabalhadores to construct [COLOR_POSITIVE_TEXT]Forts[ENDCOLOR] on map tiles, increasing the defense of units stationed there. Additionally, bridges are automatically added to roads which cross rivers, allowing units to pass over them without slowing down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THEOLOGY_HELP">
+			<Text>Allows you to build a handful of specialized buildings and Wonders which improve your [ICON_PEACE]Fé output and ability to create new [ICON_GREAT_PEOPLE] Great People.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Knight[ENDCOLOR], a fast and powerful mounted unit. Also allows you to build the [COLOR_POSITIVE_TEXT]Castle[ENDCOLOR] to improve the [ICON_STRENGTH] Defense of your cities. Additionally, this also allows for Defensive Pact treaties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Longswordsman[ENDCOLOR], a deadly medieval melee unit, and the [COLOR_POSITIVE_TEXT]Armory[ENDCOLOR], which gives all your Units an experience boost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Caravel[ENDCOLOR], the first Naval Unit capable of exploring the world's oceans, and the [COLOR_POSITIVE_TEXT]Observatory[ENDCOLOR], which provides a significant [ICON_RESEARCH] Science boost. Also allows embarked land units to cross ocean tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Bank[ENDCOLOR], a building which increases the [ICON_GOLD] Gold produced by a city, as well as the [COLOR_POSITIVE_TEXT]Constabulary[ENDCOLOR], which hinders a spies' ability to steal your technology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NAVIGATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Frigate[ENDCOLOR], a powerful Renaissance-era warship, and the [COLOR_POSITIVE_TEXT]Privateer[ENDCOLOR], a unique Naval Unit that can earn [ICON_GOLD] Gold from attacking coastal cities as well as capture enemy ships. Also allows coastal cities to build the [COLOR_POSITIVE_TEXT]Seaport[ENDCOLOR], which provides [ICON_PRODUCTION] Production from sea resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], a fast mounted unit designed to hunt down other mounted units, and the [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], which boosts City defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Cavalry[ENDCOLOR], a mounted unit which can hold its own against strong infantry units, and the [COLOR_POSITIVE_TEXT]Military Academy[ENDCOLOR], which gives all your Units an experience boost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
+			<Text>Reveals [ICON_RES_ALUMINUM] Aluminum, a resource used for many late-game units. Also allows Cities to build the [COLOR_POSITIVE_TEXT]Stock Exchange[ENDCOLOR], a building which boosts [ICON_GOLD] Gold. Also allows you to build the [COLOR_POSITIVE_TEXT]Hydro Plant[ENDCOLOR], which increases [ICON_PRODUCTION] Production from tiles next to a River, and the [COLOR_POSITIVE_TEXT]Police Station[ENDCOLOR], which hinders a spies' ability to steal your technology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STEAM_POWER_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Ironclad[ENDCOLOR], a powerful warship especially suited to combat in coastal waters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Submarine[ENDCOLOR], a ship invisible to all units except Destroyers and other Submarines, and [COLOR_POSITIVE_TEXT]Stadiums[ENDCOLOR], which increases [ICON_HAPPINESS_1] Happiness within the City. Also allows Work Boats to construct an Offshore Platform.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Broadcast Tower[ENDCOLOR], a building which greatly increases the [ICON_CULTURE] Cultural output of a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
+			<Text>Allows you to build the basic land unit [COLOR_POSITIVE_TEXT]Great War Infantry[ENDCOLOR], and the [COLOR_POSITIVE_TEXT]Military Base[ENDCOLOR], which boosts City defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FLIGHT_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Triplane[ENDCOLOR], an Air Unit designed to gain control of the skies, and the [COLOR_POSITIVE_TEXT]Great War Bomber[ENDCOLOR], which can devastate Land Units and Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PLASTICS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Research Lab[ENDCOLOR], a building which improves [ICON_RESEARCH] Science in a City, and [COLOR_POSITIVE_TEXT]Infantry[ENDCOLOR], a basic late-game Land Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ELECTRONICS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Carrier[ENDCOLOR], a ship capable of carrying aircraft, and the [COLOR_POSITIVE_TEXT]Battleship[ENDCOLOR], a powerful late-game ranged Naval Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMBUSTION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Landship[ENDCOLOR], an incredibly powerful armored Unit that can move after attacking.  Also allows the training of the [COLOR_POSITIVE_TEXT]Destroyer[ENDCOLOR], a fast ship capable of hunting down Submarines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PENICILIN_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Marine[ENDCOLOR], a Unit that specializes in amphibious assaults. Also allows you to build the [COLOR_POSITIVE_TEXT]Medical Lab[ENDCOLOR], a building which speeds the [ICON_FOOD] growth of your Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RADAR_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Bomber[ENDCOLOR], a deadly air Unit capable of delivering death from afar, and the [COLOR_POSITIVE_TEXT]Fighter[ENDCOLOR], an air Unit designed to wrest control of the skies from enemy aircraft. Also allows you to build the [COLOR_POSITIVE_TEXT]Paratrooper[ENDCOLOR], a late-game infantry unit capable of paradropping behind enemy lines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Solar Plant[ENDCOLOR], a building which may only be built in Cities on or next to Desert, and increases [ICON_PRODUCTION] Production. Also allows you to build the [COLOR_POSITIVE_TEXT]Recycling Center[ENDCOLOR], which provides bonus [ICON_RES_ALUMINUM] Aluminum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ROCKETRY_HELP">
+			<Text>An important technology, Rocketry allows you to build the [COLOR_POSITIVE_TEXT]Apollo Program[ENDCOLOR], a project necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR]. Also allows you to build the [COLOR_POSITIVE_TEXT]Rocket Artillery[ENDCOLOR] military unit, and the [COLOR_POSITIVE_TEXT]Mobile SAM[ENDCOLOR], a fast unit specialized in thwarting enemy aircraft.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMPUTERS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Helicopter Gunship[ENDCOLOR], a unit specialized in fighting enemy tanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Nuclear Missile[ENDCOLOR], a frightening weapon that requires [ICON_RES_URANIUM] Uranium, and is capable of destroying units and cities. Also allows you to build the [COLOR_POSITIVE_TEXT]Guided Missile[ENDCOLOR], an inexpensive single-use Unit that can damage enemy Units, and the [COLOR_POSITIVE_TEXT]SS Booster[ENDCOLOR], one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ROBOTICS_HELP">
+			<Text>An important technology for the Space Race, Robotics allows you to build the [COLOR_POSITIVE_TEXT]Spaceship Factory[ENDCOLOR], a building which speeds the construction of Spaceship parts. It also allows you to build the [COLOR_POSITIVE_TEXT]Missile Cruiser[ENDCOLOR], a Naval Unit capable of carrying 3 Missiles and spotting enemy Submarines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LASERS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Modern Armor[ENDCOLOR], an incredibly fast and powerful Armored Unit, and the [COLOR_POSITIVE_TEXT]Jet Fighter[ENDCOLOR], the most powerful fighter Unit in the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STEALTH_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Stealth Bomber[ENDCOLOR], the most powerful Ranged Unit in the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPEOPLE_HEADING2_BODY">
+			<Text>There are nine types of Great People: Great Artists, Great Musicians, Great Writers, Great Engenheiros, Great Merchants, Great Cientistas, Great Generals, Great Admirals, and Great Prophets. The first six types are quite similar in functionality, each having abilities related to their areas of expertise, while Great Generals, Great Admirals, and Great Prophets are rather different: they are generated differently and they have different effects upon play. Great Generals and Great Admirals provide bonuses related to land and naval combat, and Great Prophets allow you to found a religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_MULTIPLECOMBAT_HEADING3_BODY">
+			<Text>Units receive a "flanking" attack bonus of 10% for each unit adjacent to the target unit. Some promotions and social policies give an attacking unit additional bonuses beyond the basic flanking bonus. These bonuses can be incredibly powerful when enough units are involved. In general, the more units "ganged up" on the target unit, the better!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_SPECIALCITYCAPTURE_HEADING4_BODY">
+			<Text>Ranged units (naval, ground, or missiles) cannot capture a city - although they certainly can soften one up a good deal before a melee unit strolls right in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
+			<Text>Like land units, there are military and non-military naval units, as well as ranged, and melee naval units. Work boats are destroyed when attacked by barbarians and other civs or city-states, and any "embarked" land units are weak, although they can absorb a hit or two.[NEWLINE][NEWLINE]Ranged naval combat units may attack other naval units and any land units within range that they can see.[NEWLINE][NEWLINE]Melee naval combat units may directly attack other naval units, as well as coastal cities. There are however certain late-era naval units that merit special attention: the carrier, missile cruiser and the submarines. For more detail, you can view these units by clicking the "Units" tab in the Civilopedia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITS_COMBATSTRENGTH_HEADING3_BODY">
+			<Text> A unit's Combat Strength (CS) determines how powerful it is in combat. The warrior, the earliest combat unit available, has a CS of 8. Non-combat units like settlers and workers have CS's of 0 (zero). They are defeated (captured or destroyed) when attacked by any military unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITS_NAVAL_HEADING3_BODY">
+			<Text>Naval units are units that can move in water hexes. They cannot enter land hexes, except for coastal cities. Depending upon its type, a naval unit may be limited to travel in coastal waters, or it may be able to enter deep water Ocean hexes. Naval units can be either Melee or Ranged Combat Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMACY_RESEARCHAGREE_HEADING3_BODY">
+			<Text>Once you have acquired the Education tech, you may engage in a Research Agreement with another civ, as long as you both have an Embassy and a Declaration of Friendship. A Research Agreement costs each side Gold (if you don't have the required Gold, you can't be part of an agreement).[NEWLINE][NEWLINE]The Research Agreement lasts 30 turns on Standard speed. When it is finished, you gain Research based on the total Research you and your partner produced during the agreement. However, you cannot get more Research from your partner than what you produced yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_INFLUENCELEVELS_HEADING3_BODY">
+			<Text>There are four influence levels with city-states: war, neutral, friends, and allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FRIENDS_HEADING4_BODY">
+			<Text>
+        If you're "friends" with a city-state, the city-state will periodically give you gifts - a cultured city-state will give you culture; a maritime city-state will give you food; a militaristic city-state will give you military units; a mercantile city-state will give you happiness; and a religious city-state will give you faith.
+      </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALLIES_HEADING4_BODY">
+			<Text>If you're allied with a city-state, you'll get a stronger version of the benefits of friendship. In addition, the city-state will give you all of their luxury and strategic resources. Only one civilization can be allied with a city-state at a time - if multiple are eligible, whichever has the highest IPs gets the position.[NEWLINE][NEWLINE]Additionally, if you're allied with a City-State you can pay them to improve a resource, which makes the resource available to you. To do this, click on "Give a Gift" within the City-State screen, then click on "200 [ICON_GOLD] Gold - Improve a Resource". Select the resource tile you would like to have improved, and the improvement is placed immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_STRATEGY">
+			<Text>The Mughal Fort is a Medieval-era building that increases the city's Defense Strength by 7, Hit Points by 25, and provides some [ICON_CULTURE] Culture every turn. It is the Indian unique building, replacing the Castle. After Flight is learned, it provides +2 [ICON_TOURISM] Tourism as well.  Building Walls is a prerequisite for building the Mughal Fort.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_NAVALUNITS_HEADING3_BODY">
+			<Text>Barbarian encampments on the coastline can create naval units (again, equal to those that can be created by the civilization with the most advanced tech). These units will menace your coastline, destroy naval improvements and attack hapless land units which stray too near the coastline. It's important to maintain a navy to keep them off your back, but the best way to stop these attacks is to destroy the coastal encampments nearby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE_STRATEGY">
+			<Text>The Submarine is a specialized ship-killing vessel. It is invisible to most units - except for Destroyers, Missile Cruisers, and other Submarines - until it attacks, or is adjacent to another unit. The Submarine can enter ice hexes. Use the Submarine to patrol enemy waters and sink enemy ships, and to guard your own ships against attacks from enemy subs. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE_STRATEGY">
+			<Text>The Nuclear Submarine is tougher and stronger than the earlier model. It too is invisible to most units and can see other submarines. Most importantly, Nuclear Submarines can carry guided missiles and nuclear missiles. Like submarines, Nuclear Subs are vulnerable to enemy Destroyers, Missile Cruisers, and Subs, so send units of your own out ahead to make sure the coast is clear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TEXT">
+			<Text>Fishing boats allow a civilization to harvest the valuable crab, fish, whale and pearl resources. To construct fishing boats, you must build a work boat em uma cidade costeira (after your civilization has learned the requisite technology). Work boats are consumed when they construct fishing boats.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CAMP_TEXT">
+			<Text>Hunting wild animals is one of the first ways in which ancient Man harvested the resources of the world around him. A hunting camp allows access to deer, fur, truffles, and ivory resources. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SOCIALPOLICY_FREEDOM_HEADING3_BODY">
+			<Text>The Freedom ideology provides bonuses for Culture, Tourism, Specialist production, and more. Freedom becomes available upon completing 3 factories or entering the Modern Era, and cannot be active at the same time as Autocracy or Order.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDRO_PLANT_STRATEGY">
+			<Text>The Hydro Plant is a mid-game building which can only be constructed in a city which is adjacent to a river. The Hydro Plant increases the [ICON_PRODUCTION] Production output of every tile the city works which is also adjacent to the river. Constructing the Hydro Plant consumes 1 [ICON_RES_ALUMINUM] Aluminum. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RELIGIOUS">
+			<Text>Religious</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GENERATING_HEADING3_BODY">
+			<Text>
+        Great Artists, Engenheiros, Merchants and Cientistas are created in cities by specialists and Wonders which generate "Great People" (GP)  points. A city may generate no Great People points, or it may generate a single kind of GP points or it may generate multiple kinds of GP points. Each city's GP points are kept track of separately. (For example, Kyoto might generate 1 Artist and 2 Engineer GP pts each turn. After 3 turns it would have 3 Artist points and 6 Engineer GP pts. The two types of points are not pooled.)[NEWLINE][NEWLINE]When a city has enough of a specific type of GP points, the points are expended to generate a Great Person of that type. Once a Great Person is generated, the amount required for the next Great Person increases in all of that player's cities.[NEWLINE][NEWLINE]For instance, let's say that a player needs to acquire 10 GP pts to get a Great Person. From the previous example, in five turns Kyoto would have enough Engineer GP pts. to create a Great Engineer. After the Great Engineer was created, Kyoto would have 0 Great Engineer points and 5 Grande Artista points left, and the amount required for the next Great Person would increase to say 15 points. Eight turns later Kyoto would have 13 Grande Artista points and 16 Great Engineer points, and it would generate another Great Engineer.[NEWLINE][NEWLINE]Note that a Jardim building increases the rate at which you generate Great People, and that the "Warrior Code" social policy immediately generates a Great General.[NEWLINE][NEWLINE]Additionally, once you advance into the Industrial Age, you will be able to expend unused Faith to purchase Great People, depending on what Política Social branches you have open.
+      </Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_GREATGENERALS_HEADING2_BODY">
+			<Text>Great Generals are "Great People" skilled in the art of warfare. They provide combat bonuses - offensive and defensive bonuses both - to any friendly land units within two tiles of their location. A Great General itself is a non-combat unit, so it may be stacked with a combat unit for protection. If an enemy unit ever enters the tile containing a Great General, the General is destroyed.[NEWLINE][NEWLINE]A Great General gives a combat bonus of 15% to units in the General's tile and all friendly land units within 2 tiles of the General.[NEWLINE][NEWLINE]Great Generals are created when your units have been in battle and also can be acquired when you unlock the "Warrior Code" social policy. See the section on "Great People" for more details.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WRITING_HELP">
+			<Text>Allows you to build the first [ICON_RESEARCH] Science building, the [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], helping your empire research new technologies more quickly. Also allows you to establish Embassies in other civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_FUTURE">
+			<Text>Information Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_FUTURE_STRATEGY">
+			<Text>The Information Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_A_OR_B">
+			<Text>{@1_a} or {@2_b}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_ENTERTERRITORY_HEADING3_BODY">
+			<Text>It is also an act of war to enter a civ's territory (unless doing so with a Missionary or Great Prophet) if you don't have an "open borders" agreement with that civ. A pop-up will appear and ask you to confirm your move. Note that it isn't an act of war to cross a city-state's borders, so no pop-up will appear in that case.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_ATTACKINGRANGEDUNITS_HEADING3_BODY">
+			<Text>
+        Although you can attack a city and wear it down with ranged units, you cannot capture the city with a ranged unit; you must move a melee unit into the city to take it. Similarly, air units and ranged water units cannot capture a city, though they can wear its defenses down to nothing.
+      </Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_GIFT_GOLD">
+			<Text>Give a Gift</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT">
+			<Text>Hills provide increased productivity to a nearby city. They also provide important combat bonuses to units stationed on the hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TEXT">
+			<Text>Generally, grassland produces the most food of any terrain type. Cities constructed near to grasslands will tend to grow faster than cities built elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TEXT">
+			<Text>In general, desert hexes are remarkably unuseful. They provide no benefits to cities (unless the desert contains an oasis or resource, of course, or if it has access to fresh water).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
+			<Text>The Cavalry mounted units are devastating against melee, ranged and siege weapons. Use them to destroy Musketmen and then break through the enemy's lines with their ability to move after attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
+			<Text>Mountains are impassable, except to air units, and Carthaginian units (after earning a Great General). They provide nothing to cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_DEFENSE_HITPOINTS">
+			<Text>+{1_DefenseHP} HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITADEL_TEXT">
+			<Text>A Citadel is a mighty fortification that can only be constructed by a Great General, usually near a city or on a particularly defensible piece of terrain. The Acropolis in Athens, Greece, is an example of an early powerful Citadel. Such structures were almost impossible to take by direct attack, and they were capable of withstanding protracted sieges before they fell. You can construct a Citadel anywhere within your territory, or directly adjacent to your territory. Upon constructing the Citadel, your Culture borders will also expand to surround the Citadel on all sides by one hex. If the new Culture border claims hexes already owned by another civilization, you will incur a diplomatic penalty as a result. Any unit stationed within a Citadel receives a 100% defensive strength bonus. Additionally, any enemy unit which ends its turn next to a Citadel takes 30 damage (damage does not stack with other Citadels).</Text>
+		</Row>
+		<!-- UNITS-->
+		<Row Tag="TXT_KEY_UNIT_MUSKETMAN_STRATEGY">
+			<Text>The Musketman is the first gunpowder unit in the game, and it replaces all of the older foot-soldier types - Longswordsmen, Pikemen, and the like. It is not a ranged unit, however, and cannot attack an enemy that is more than one hex away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY_PEDIA">
+			<Text>Roman Catholicism refers to the theology and doctrine of the Christian church under the auspices of the Holy See, the papacy based in Rome. According to ecclesiastical scholars, Catholicism is distinguished from other branches of Christianity by its commitment to the church's traditions, to the sacraments, and its priesthood as interpreters of the Bible.[NEWLINE][NEWLINE]The earliest known use of the term "Catholic Church" is by Ignatius of Antioch around 107 AD. The early church was organized based on the rule of three patriarchs, those of Rome, Alexandria and Antioch - to which were later added the patriarchs of Constantinople and Jerusalem. The patriarch of Rome claimed special authority based on the connection between St. Peter and the city. For 1000 years, Roman Catholicism dominated Europe, until the Great Schism of 1054 AD that gave rise to Eastern Orthodoxy. Some 500 years later another major division in Christianity occurred with the Protestant Reformation, which saw many in Europe reject the teachings and practices of Catholicism in favor of more personal expressions of belief.[NEWLINE][NEWLINE]Presently, the Roman Catholic Church considers those not in communion with the Vatican to be "non-Catholics" but tolerates differing interpretations of the Bible. Roman Catholicism remains the largest Christian church, with over a billion members worldwide.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

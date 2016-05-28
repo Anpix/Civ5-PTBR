@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2">
+			<Text>Certo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3">
+			<Text>Certamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4">
+			<Text>De acordo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5">
+			<Text>Oh, Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6">
+			<Text>Eu suponho que eu deva.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7">
+			<Text>Excelente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1">
+			<Text>Você confundiu minha paixão por fraqueza. Irá se arrepender por isso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2">
+			<Text>Você nos subestimou - A sagrada Rússia irá te comer vivo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3">
+			<Text>Seu tolo idiota. Você irá pagar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4">
+			<Text>Seu camponês estúpido. Iremos enterrar você!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1">
+			<Text>Eu não te acho mais divertido. Prepare-se para a guerra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2">
+			<Text>Você se comportou muito mal, sabe disso. Agora você precisa pagar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3">
+			<Text>Sua patética nação está no caminho da grandeza da Rússia. Você deve perecer!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1">
+			<Text>De fato jogou bem. Parabéns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2">
+			<Text>Você é um oponente mais esperto do que eu pensei. Parabéns!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3">
+			<Text>Fomos derrotados. Isso me faz sua refém. Há destino pior, eu acho.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY">
+			<Text>Se você quiser sobreviver, deveria dar o que queremos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY">
+			<Text>Meu caro amigo, pode nos ceder o seguinte?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Você se importaria em fazer um pequeno presente para garantir uma continuada relação pacífica entre nossas duas grandes nações?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1">
+			<Text>Não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2">
+			<Text>Certamente não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3">
+			<Text>Recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4">
+			<Text>Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5">
+			<Text>Isso é inaceitável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6">
+			<Text>Não pode estar falando sério!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7">
+			<Text>Você está falando sério?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1">
+			<Text>É bom encontrar outro jogador no mundo. Bajulações de súditos podem ser tão cansativas, não concorda?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2">
+			<Text>Bem-vindo! Eu sempre me divirto encontrando líderes de nações menores!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3">
+			<Text>Olá, estranho! Se você é inteligente e sensível como é atraente iremos conviver bem!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1">
+			<Text>Bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3">
+			<Text>Tchau.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4">
+			<Text>Até o próximo encontro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5">
+			<Text>Vá embora agora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6">
+			<Text>Oh - Ainda está aqui?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7">
+			<Text>Isso é tudo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8">
+			<Text>Nossos negócios aqui estão feitos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1">
+			<Text>Bem-vindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2">
+			<Text>Olá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3">
+			<Text>Saudações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4">
+			<Text>Bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5">
+			<Text>Oh, é você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6">
+			<Text>Bem?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7">
+			<Text>O que deseja?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1">
+			<Text>Vá em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3">
+			<Text>Estou ouvindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4">
+			<Text>Sim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5">
+			<Text>O que está dizendo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6">
+			<Text>E?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7">
+			<Text>Continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1">
+			<Text>Eu o parabenizo pelo seu sucesso. Fui superada pela sua valentia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2">
+			<Text>Agora vamos aproveitar os frutos da paz.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3">
+			<Text>Eu agradeço pela sua paciência. Você não vai me achar ingrata.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_1">
+			<Text>O soberano é absoluto; pois não há nenhuma outra autoridade, exceto a que está no centro de sua única pessoa, que possa atuar com um vigor proporcional à extensão desse vasto domínio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_2">
+			<Text>Eu vou ser uma ditadora, é meu trabalho, e o bom Deus que me perdoe, porque essa sou eu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_3">
+			<Text>Eu gosto de elogiar e recompensar abertamente, mas culpar sempre de forma discreta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Sua óbvia ganância é divertida, mas eu recuso. Por favor, melhore a sua oferta ou vá embora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Isso não é bom o bastante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Você tem que fazer melhor que isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Eu estaria extremamente gratificada se melhorasse sua oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_2">
+			<Text>É o melhor que pode fazer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Está quase lá...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Quer nos levar à ruína? Falando sério: faça uma oferta justa!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Você pode fazer um pouquinho melhor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Isso não é bom o bastante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Quase!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY">
+			<Text>Meu marido faleceu, você sabe. A Rússia não é mais governada por um idiota. Recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY">
+			<Text>Quer se aproveitar de nossas boas relações? Comporte-se, ou terei que tomar medidas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL">
+			<Text>Meras palavras não podem descrever nosso desinteresse por essa oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY">
+			<Text>Oh, tudo bem. Qualquer coisa para acabar com essas negociações entediantes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY">
+			<Text>Excelente. Concordamos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL">
+			<Text>A Rússia aceita seus termos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY">
+			<Text>Estamos fazendo a você uma oferta. Você aceitará se souber o que é bom para você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY">
+			<Text>Posso tentá-lo com essa troca?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL">
+			<Text>Está interessado em uma troca?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY">
+			<Text>Você, valentão presunçoso! Como você se atreve? Eu deveria cortá-lo e dar aos porcos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY">
+			<Text>Como você é mau. Sua sorte é que eu gosto de você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL">
+			<Text>Você não está em posição de nos exigir nada. Recusamos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY">
+			<Text>Vai se arrepender disto, posso te assegurar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY">
+			<Text>Mas com certeza! Não posso te recusar nada -- Nada mesmo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL">
+			<Text>Parece-me que eu não tenho outra escolha além de aceitar. Por enquanto...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1">
+			<Text>Como é desagradável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2">
+			<Text>Que decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3">
+			<Text>Sério? Espero que não se arrependa de sua falta de visão.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4">
+			<Text>Quanta tolice sua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5">
+			<Text>Muito bem. Que seja em sua cabeça.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1">
+			<Text>Está feito. Você se comportou muito mal, você sabe. Espero que tenha aprendido com o erro de seus caminhos.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

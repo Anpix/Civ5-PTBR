@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_DENMARK_ADJECTIVE">
+			<Text>Dinamarquês|Dinamarquesa|Dinamarqueses|Dinamarquesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DENMARK_DESC">
+			<Text>Império Dinamarquês</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DENMARK_SHORT_DESC">
+			<Text>Dinamarca</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+	</Language_en_US>
+</GameData>

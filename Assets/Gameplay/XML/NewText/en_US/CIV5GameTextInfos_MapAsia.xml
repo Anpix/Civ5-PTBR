@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_MAP_ASIA_HELP">
+      <Text>Um mapa dominado pela Cordilheira do Himalaia e pelas selvas do Sudeste Asiático.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ASIA_TITLE">
+      <Text>Ásia</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

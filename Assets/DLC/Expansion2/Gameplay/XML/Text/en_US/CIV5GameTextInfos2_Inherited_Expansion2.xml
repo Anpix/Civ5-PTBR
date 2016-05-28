@@ -1,0 +1,1674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text - New -->
+<GameData>
+	<Language_en_US>
+		<!-- Religion -->
+		<Row Tag="TXT_KEY_MISSION_FOUND_RELIGION">
+			<Text>Fundar uma Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_SPREAD_RELIGION">
+			<Text>Disseminar Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_ENHANCE_RELIGION">
+			<Text>Aperfeiçoar Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_REMOVE_HERESY">
+			<Text>Remover Heresia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_REPAIR_FLEET">
+			<Text>Reparar Frota</Text>
+		</Row>
+		<!-- Diplomacy-->
+		<Row Tag="TXT_KEY_MISC_MINOR_ALLIES_DECLARED_WAR_ON_YOU">
+			<Text>[COLOR_NEGATIVE_TEXT]As Cidades-Estado aliadas de {1_CivName:textkey} declararam guerra contra você![ENDCOLOR][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_MINOR_ALLIES_DECLARED_WAR_ON_YOU_SUMMARY">
+			<Text>Cidades-Estado declararam guerra contra você!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_DECLARED_WAR">
+			<Text>Suas Cidades-Estados aliadas declararam guerra contra {1_CivName:textkey}:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_DECLARED_WAR_SUMMARY">
+			<Text>Suas Cidades-Estado aliadas declararam guerra!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_MADE_PEACE_WITH_MINOR_ALLIES">
+			<Text>{1_CivName:textkey} {1: plural 2?negociaram; other?negociou;} a paz com as Cidades-Estado:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_MADE_PEACE_WITH_MINOR_ALLIES_SUMMARY">
+			<Text>{1_CivName:textkey} fez as pazes com Cidades-Estado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_MADE_PEACE">
+			<Text>Suas Cidades-Estado aliadas fizeram as pazes com {1_CivName:textkey}:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_MADE_PEACE_SUMMARY">
+			<Text>Suas Cidades-Estado fizeram as pazes.</Text>
+		</Row>
+		<!-- City-States -->
+		<Row Tag="TXT_KEY_INTERFACEMODE_GIFT_TILE_IMPROVEMENT">
+			<Text>Modo Presente da Melhoria do Hexágono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_OVERVIEW_DISPLAY">
+			<Text>Esta é a visão geral da Religião!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_OVERVIEW_BODY">
+			<Text>Este resumo possui três seções. A primeira é dedicada a sua Religião. Você pode verificar a sua situação religiosa, escolher Crenças e até mesmo automatizar a compra de [ICON_PEACE]Fé, se você assim quiser. A segunda seção lhe dá uma visão geral das outras religiões mundiais e a terceira exibe quais Crenças já foram escolhidas e por quem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_OVERVIEW_DISPLAY">
+			<Text>Esta é a visão geral da Espionagem!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_OVERVIEW_BODY">
+			<Text>A tela de Espionagem lhe dá uma visão geral da sua rede de inteligência. Você pode usá-la para verificar a atual situação dos seus espiões. Mas ela também é [COLOR_ADVISOR_HIGHLIGHT_TEXT]o local central de onde você dá ordens aos seus espiões[/COLOR]: seja para movê-los para uma cidade diferente, para realizar uma avaliação ou para roubar uma tecnologia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_PANTHEON_DISPLAY">
+			<Text>Escolha um Panteão!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_PANTHEON_BODY">
+			<Text>O seu povo está alegre! Você acumulou [ICON_PEACE]Fé suficiente [COLOR_ADVISOR_HIGHLIGHT_TEXT]para fundar um Panteão[/COLOR], o primeiro passo rumo à criação de uma Religião.[NEWLINE][NEWLINE]Após clicar na Notificação abaixo, as Crenças disponíveis para você será exibida. Geralmente, elas são baseadas no terreno, então, escolha alguma que você pense que vai ajudá-lo dependendo do terreno que você possua a sua volta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_RELIGION_DISPLAY">
+			<Text>Você pode fundar uma Religião!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_RELIGION_BODY">
+			<Text>Os sermões do seu Grande Profeta foram ouvidos e você agora pode [COLOR_ADVISOR_HIGHLIGHT_TEXT]fundar uma Religião[/COLOR]. Escolha um símbolo e um nome para ela. Em seguida, você deverá escolher duas Crenças para a sua nova Religião: uma Crença de Fundação (bônus de jogador a quem fundar a religião) e uma Crença de Devoção (Crença baseada em cidades que se aplica a qualquer uma em que sua Religião se disseminar).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_TECH_TO_STEAL_DISPLAY">
+			<Text>Você pode roubar uma Tecnologia!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_TECH_TO_STEAL_BODY">
+			<Text>Seu espião está reportando que ele colheu informações suficientes para [COLOR_ADVISOR_HIGHLIGHT_TEXT]roubar uma tecnologia[/COLOR]. Ele está aguardando por sua decisão sobre qual tecnologia você quer roubar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PROPHET_SPAWN_DISPLAY">
+			<Text>Um Grande Profeta surgiu!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PROPHET_SPAWN_BODY">
+			<Text>Grandes Profetas podem ser usados para fundar uma Religião (se você já tiver fundado um Panteão), para aperfeiçoar uma religião existente, para disseminar a religião a outras cidades ou para construir melhorias que produzem [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SPY_SPAWN_DISPLAY">
+			<Text>Você tem um espião!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SPY_SPAWN_BODY">
+			<Text>Você pode usar a tela de Espionagem (encontrada no botão Informações Adicionais do canto superior direito da tela) para colocar seus espiões ou na ofensiva (para espionar e roubar civilizações estrangeiras) ou na defensiva (para proteger suas cidades e tecnologias).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_FAITH_POINT_BODY">
+			<Text>Você obteve seu primeiro ponto de [ICON_PEACE]Fé. A [ICON_PEACE]Fé pode ser usada para fundar um Panteão, para produzir Grandes Profetas e, quando você tiver fundado uma religião, para comprar Missionários, Inquisidores e edifícios religiosos. Coloque o mouse sobre o ícone da [ICON_PEACE]Fé, na barra de menu superior, para ver o quanto de [ICON_PEACE]Fé você precisa para a próxima ação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_FAITH_POINT_DISPLAY">
+			<Text>Você tem Fé!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_SPY_BODY">
+			<Text>Espiões podem ser usados tanto na ofensiva quanto na defensiva. Para dar instruções aos seus espiões, abra a tela de Espionagem (localizada no botão Informações Adicionais, no canto superior direito da tela).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_SPY_DISPLAY">
+			<Text>Você tem um espião!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_GREAT_PROPHET_BODY">
+			<Text>A forte Fé do seu povo inspirou o surgimento de um Grande Profeta![NEWLINE][NEWLINE]Já que este é o seu primeiro Grande Profeta, eu recomendo que você o use para [COLOR_ADVISOR_HIGHLIGHT_TEXT]fundar uma Religião[/COLOR]. Assim, você possuirá total controle sobre Crenças que a Religião lhe dará. Há uma quantidade máxima de Religiões permitidas em cada jogo, então pegue a sua o mais rápido que puder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_GREAT_PROPHET_DISPLAY">
+			<Text>Um Grande Profeta nasceu!</Text>
+		</Row>
+		<!-- WONDERS -->
+		<Row Tag="TXT_KEY_WONDER_ALHAMBRA_HELP">
+			<Text>Todas as novas unidades não aéreas produzidas nesta cidade recebem a Promoção [COLOR_POSITIVE_TEXT]Broca I[ENDCOLOR], melhorando sua [ICON_STRENGTH]Força de Combate ao combater em [COLOR_POSITIVE_TEXT]Terreno Acidentado[ENDCOLOR]. Fornece um Castelo gratuito na cidade em que for construída. Aumenta a produção de [ICON_CULTURE]Cultura da cidade em 20%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CN_TOWER_HELP">
+			<Text>Fornece uma Torre de Transmissão gratuita em todas as cidades. +1 de [ICON_CITIZEN]População em cada cidade e +1 de [ICON_HAPPINESS_1]Felicidade por cada cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HUBBLE_HELP">
+			<Text>2 Grandes Cientistas aparecem próximo à cidade onde a maravilha for construída. Fornece uma Indústria Aeroespacial na cidade em que for construído. +25% de [ICON_PRODUCTION]Produção quando estiver construindo partes da Espaçonave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LEANING_TOWER_HELP">
+			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas em todas as cidades. Uma Grande Pessoa de sua escolha aparece próximo à [ICON_CAPITAL]Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_HELP">
+			<Text>+3 de [ICON_GOLD]Ouro, +2 de [ICON_CULTURE]Cultura e +1 de [ICON_HAPPINESS_1]Felicidade de cada Castelo.[NEWLINE][NEWLINE]A cidade deve estar construída a, no máximo, 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
+			<Text>Um Grande Profeta aparece. Fornece um Templo gratuito na cidade em que for construída.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL_HELP">
+			<Text>99.9% de redução na eficiência dos espiões inimigos na cidade em que for instalado. Todas as outras cidades da civilização têm uma redução de 25% na efetividade das atividades espiãs inimigas.</Text>
+		</Row>
+		<!-- NATIONAL WONDERS -->
+		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_STRATEGY">
+			<Text>Uma importante Maravilha Nacional defensiva para civilizações focadas em tecnologia. A Agência Nacional de Inteligência fornece um espião adicional, promove todos os seus espiões existentes e reduz em 15% a efetividade das atividades espiãs inimigas. A civilização precisa de um Distrito Policial em todas as cidades para poder construí-la.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_HELP">
+			<Text>Fornece um espião adicional e promove todos os seus espiões existentes. Além disso, reduz em 15% a efetividade das ações espiãs inimigas. Precisa de um Distrito Policial em todas as cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_STRATEGY">
+		  <Text>Um edifício importante para uma civilização com poucas e populosas cidades tentar espalhar sua religião pelo mundo. Deve ser construído em uma Cidade Santa. Dobra a pressão religiosa emanada desta cidade. A civilização deve possuir um Templo em todas as cidades antes de poder construir o Grande Templo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_HELP">
+		  <Text>Dobra a pressão religiosa emanada desta cidade.[NEWLINE][NEWLINE]Deve ser construído em uma Cidade Santa. Um Templo deve existir em todas as cidades. O custo é proporcional à quantidade de cidades no Império.</Text>
+		</Row>		
+		<!-- BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_SHRINE_STRATEGY">
+			<Text>O Santuário é o primeiro edifício que aumenta a [ICON_PEACE]Fé produzida por uma cidade, o que lhe permite fundar e disseminar religiões.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER_STRATEGY">
+			<Text>Cada Centro de Reciclagem fornece 2 de [ICON_RES_ALUMINUM]Alumínio. Pode haver no máximo 5 desse edifício em seu império.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER_HELP">
+			<Text>Fornece 2 de [ICON_RES_ALUMINUM]Alumínio. Pode haver no máximo 5 desse edifício em seu império.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_STRATEGY">
+			<Text>Abrigos Antiaéreos reduzem em 75% a perda de população nesta cidade, em caso de ataque nuclear. Esconda-se e sobreviva!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_HELP">
+			<Text>Reduz em 75% a perda de população em um ataque nuclear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_STRATEGY">
+			<Text>A Guarda Policial diminui a taxa de roubo de tecnologias de sua cidade por espiões inimigos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_HELP">
+			<Text>Reduz em 25% a taxa de roubo por espiões.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION_STRATEGY">
+			<Text>Distritos Policiais reduzem a taxa de roubo de tecnologias de sua cidade por espiões inimigos. A cidade precisa possuir uma Guarda Policial para poder construir um Distrito Policial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION_HELP">
+			<Text>Reduz em 25% a taxa de roubo por espiões.[NEWLINE][NEWLINE]A cidade precisa possuir uma Guarda Policial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONASTERY_HELP">
+			<Text>Cada fonte de [ICON_RES_INCENSE]Incenso e [ICON_RES_WINE]Vinho explorada por esta cidade produz +1 de [ICON_PEACE]Fé e +1 de [ICON_CULTURE]Cultura.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONASTERY_STRATEGY">
+			<Text>Monastérios aumentam a produção de [ICON_PEACE]Fé e de [ICON_CULTURE]Cultura da cidade, especialmente se ela estiver próxima a fontes exploradas de [ICON_RES_INCENSE]Incenso e/ou [ICON_RES_WINE]Vinho. Somente podem ser construídos em cidades que seguem uma religião com a Crença Monastérios. Você pode comprar este edifício com [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLE_STRATEGY">
+			<Text>O Templo aumenta a produção de [ICON_PEACE]Fé de uma cidade, acelerando a taxa em que você pode fundar e disseminar religiões. A cidade precisa possuir um Santuário (ou uma Pirâmide) para poder construir um Templo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
+			<Text>A Muralha aumenta em 5 a [ICON_STRENGTH]Força de Defesa e em 50 os Pontos de Vida (HP) da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>		
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MILITARY_BASE_STRATEGY">
+			<Text>A Base Militar é um edifício da fase mediana do jogo que aumenta em 12 a [ICON_STRENGTH]Força de Defesa e em 25 os Pontos de Vida (HP) da cidade, que deve possuir um Arsenal para poder construí-la.</Text>		
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CASTLE_STRATEGY">
+			<Text>O Castelo é um edifício da Era Medieval que aumenta em 7 a [ICON_STRENGTH]Força Defensiva e em 25 os Pontos de Vida (HP) da cidade, que deve possuir a Muralha para poder construí-lo.</Text>		
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARSENAL_STRATEGY">
+			<Text>O Arsenal é um edifício da fase mediana do jogo que aumenta em 9 a [ICON_STRENGTH]Força de Defesa e em 25 os Pontos de Vida (HP) da cidade, o que a torna mais difícil de ser capturada. A cidade deve possuir um Castelo para que possa construir um Arsenal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_STRATEGY">
+			<Text>As Muralhas da Babilônia são exclusivas da Babilônia, em substituição às Muralhas normais da cidade. As Muralhas da Babilônia aumentam em 6 a [ICON_STRENGTH]Força Defensiva e em 100 os Pontos de Vida (HP) da cidade (muito mais do que as Muralhas normais).</Text>		
+		</Row>
+		<!-- UNIQUE BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_STELE_STRATEGY">
+			<Text>A Estela é um edifício da Era Antiga exclusivo da Etiópia e substitui o Monumento. Ela aumenta a [ICON_CULTURE]Cultura e a [ICON_PEACE]Fé de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais e Religiões.</Text>
+		</Row>
+		<!--UNITS-->
+		<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY">
+			<Text>O Grande Profeta é a única unidade que pode fundar e aperfeiçoar uma religião. Ele também pode construir a melhoria especial Local Santo que, quando explorado, produz grande quantidade de [ICON_PEACE]Fé. Alternadamente, o Grande Profeta pode disseminar religião 4 vezes (substituindo qualquer religião existente na cidade). O Grande Profeta é consumido quando usado em qualquer uma dessas formas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MISSIONARY_STRATEGY">
+			<Text>Pode ser comprado com [ICON_PEACE]Fé em qualquer cidade com uma Religião predominante. Uma vez adjacente a uma cidade, ele pode disseminar sua religião a ela (consumindo o Missionário após o segundo uso). Se um Missionário entrar em território de outra civilização sem o acordo de Abertura de Fronteiras, sua Força Religiosa é reduzida a cada turno. Se a Força Religiosa do Missionário chegar a zero, ele será destruído.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MISSIONARY">
+			<Text>Usado para disseminar uma religião em cidades. Somente pode ser obtido por meio de compra com [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INQUISITOR_STRATEGY">
+			<Text>Pode ser comprado com [ICON_PEACE]Fé em qualquer cidade com uma Religião predominante que tenha sido aperfeiçoada. Ele pode remover outras religiões de suas cidades (consumindo o Inquisidor) ou ser colocado dentro de uma cidade para protegê-la contra Missionários e Profetas que tentam disseminar outras religiões nela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INQUISITOR">
+			<Text>Usado para remover outras Religiões de cidades. Somente pode ser obtido por meio de compra com [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEHAL_SEFARI_STRATEGY">
+			<Text>Mehal Sefaris são a espinha dorsal do exército Etíope. Eles começam com promoções que lhes dão bônus no combate em terreno acidentado e próximo a sua Capital. São ligeiramente mais baratos para treinar que a unidade que eles substituem, o Fuzileiro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MEHAL_SEFARI">
+			<Text>Forte unidade de infantaria, especializada no combate em terreno acidentado e na defesa da capital Etíope. Somente a civilização da Etiópia pode treiná-la.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COMPOSITE_BOWMAN">
+			<Text>Unidade de infantaria da Era Clássica que ataca a distância.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN_STRATEGY">
+			<Text>O Arqueiro de Arco Composto é mais poderoso que o Arqueiro. Sendo uma unidade de ataque a distância, ele pode causar danos significativos a outras unidades até dois hexágonos de distância, mas é vulnerável a ataques corpo-a-corpo. Coloque Arqueiros de Arcos Compostos em suas cidades para defendê-las e proteja-os com unidades de ataque corpo-a-corpo quando precisarem se movimentar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GATLINGGUN">
+			<Text>Unidade de infantaria com ataque a distância da fase mediana do jogo. Precisa estar adjacente ao inimigo para atacá-lo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GATLINGGUN_STRATEGY">
+			<Text>A Metralhadora Gatling é uma unidade de ataque a distância, sem uso para cercos, da fase mediana do jogo. Ela é muito mais poderosa do que as unidades de ataque a distância anteriores, como o Besteiro. Possui o alcance de apenas um hexágono, mas, ainda assim, pode causar um significativo dano a outras unidades sem se comprometer. Coloque Metralhadoras Gatling em suas cidades para defendê-las.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GALLEASS">
+			<Text>Unidade naval da Era Medieval, usada para tomar o controle dos mares com seu ataque a distância.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEASS_STRATEGY">
+			<Text>A Galeaça é a primeira unidade naval com ataque a distância a ficar disponível à civilização no jogo. É muito mais poderosa do que as unidades navais anteriores, mas é um pouco mais lenta. Não pode iniciar um ataque corpo-a-corpo. A Galeaça é útil para eliminar embarcações inimigas das águas costeiras. Ela não pode navegar em águas oceânicas, a não ser que seja da Polinésia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GREAT_WAR_INFANTRY">
+			<Text>Unidade de infantaria básica da Era Moderna.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MARINE">
+			<Text>Unidade da Era Atômica, especialmente útil para embarcar e invadir pelo mar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE_STRATEGY">
+			<Text>O Fuzileiro Naval é uma alternativa à Infantaria. Ele custa um pouco mais que a Infantaria, mas possui promoções que melhoram sua visão e força de combate quando embarcado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TRIPLANE">
+			<Text>Primeira unidade aérea, projetada para interceptar investidas de aeronaves inimigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRIPLANE_STRATEGY">
+			<Text>O Triplano é a primeira unidade aérea do jogo. Pode ter como base qualquer cidade da sua civilização ou a bordo de Porta-Aviões. Pode se mover de cidade para cidade (ou porta-aviões) e realizar "missões" dentro do seu alcance de 5 hexágonos. Use Triplanos para atacar aeronaves e unidades terrestres inimigas, para verificar posições inimigas e para se defender contra ataques aéreos. Veja as regras na seção "Aeronaves" para maiores informações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WWI_BOMBER">
+			<Text>Primeira unidade aérea que pode bombardear unidades e cidades inimigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER_STRATEGY">
+			<Text>O Bombardeiro Voisin é uma das primeiras unidades aéreas. É efetivo contra alvos terrenos, um pouco menos contra alvos navais e bastante vulnerável a ataques de aeronaves inimigas. O Bombardeiro Voisin pode ter como base uma cidade pertencente à civilização do jogador ou a bordo de um Porta-Aviões. Pode se movimentar de base para base e executar missões em um alcance de 6 hexágonos. Use-o para atacar unidades e cidades inimigas. Quando possível, envie Triplanos ou Aviões primeiro para acionar as armas antiaéreas do inimigo no turno. Veja as regras na seção "Aeronaves" para mais informações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WWI_TANK">
+			<Text>O primeiro do seu gênero, esta unidade da fase avançada do jogo pode se movimentar após atacar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_TANK_STRATEGY">
+			<Text>O Tanque Ultrapesado é uma unidade terrestre poderosa e ágil. Pode se movimentar após atacar, permitindo-lhe abrir buracos nas linhas inimigas e, então, ocupar o agora espaço vago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MACHINE_GUN">
+			<Text>Unidade de ataque a distância da fase avançada do jogo. Precisa estar adjacente ao inimigo para atacá-lo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PRIVATEER">
+			<Text>Unidade naval especializada em atacar cidades costeiras para obter ouro e capturar embarcações inimigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRIVATEER_STRATEGY">
+			<Text>Unidade naval que realiza ataques corpo-a-corpo. Começa com a promoção Viajante Costeiro I, que lhe permite obter ouro em ataques contra cidades costeiras. Pode capturar qualquer unidade naval inimiga que derrotar como embarcação prêmio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SEA_BEGGAR">
+			<Text>Unidade naval especializada em atacar cidades costeiras para obter ouro e capturar embarcações inimigas. Somente os Holandeses podem construí-la.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_BEGGAR_STRATEGY">
+			<Text>Unidade naval especializada em atacar cidades costeiras para obter ouro e capturar embarcações inimigas. Somente os Holandeses podem construí-la. Repara-se fora de território amigo. Começa com a promoção Viajante Costeiro I, permitindo-lhe obter ouro em ataques contra cidades costeiras. Pode capturar qualquer unidade naval inimiga que derrotar como embarcação prêmio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL_STRATEGY">
+			<Text>O Grande Almirante possui a habilidade de reparar instantaneamente toda unidade naval e embarcada que estiver no mesmo hexágono e nos adjacentes. O Grande Almirante é consumido quando realiza esta ação. O Grande Almirante também fornece um bônus de 15% a todas as unidades navais do jogador em uma distância de 2 hexágonos. O Grande Almirante NÃO é consumido quando fornece este bônus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
+			<Text>O Grande General pode construir a melhoria especial Cidadela que dá um grande bônus defensivo para qualquer unidade que a ocupe, causa dano a unidades que se movimentam próximo a ela e trás os hexágonos adjacentes para dentro do seu território. Ele é consumido quando constrói a Cidadela. O Grande General fornece um bônus de 15% de combate para todas as unidades terrestres do jogador num raio de 2 hexágonos e NÃO é consumido quando ele fornece este bônus.</Text>		
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
+			<Text>Grandes Engenheiros podem construir a melhoria especial Indústria, que, quando explorada, fornece uma grande quantidade de [ICON_PRODUCTION]Produção para a cidade. Eles também podem acelerar a produção/treinamento de uma unidade, edificação ou Maravilha em uma cidade. Os Grandes Engenheiros são consumidos quando utilizados para qualquer um desses objetivos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY">
+			<Text>O Grande Mercador pode construir a melhoria especial Alfândega que, quando explorada, produz muito [ICON_GOLD]Ouro. Ele também pode viajar até Cidades-Estado e realizar uma Missão Comercial que produz um bocado de [ICON_GOLD]Ouro e obtém muitos Pontos de Influência com a Cidade-Estado. O Grande Mercador é consumido quando utilizado para qualquer um desses objetivos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY">
+			<Text>O Grande Cientista pode construir a melhoria especial Academia que, quando explorada, produz muitos pontos de [ICON_RESEARCH]Ciência. Além disso, ele pode lhe dar imediatamente uma grande quantidade de pontos de ciência, baseados na produção científica da sua civilização. O Grande Cientista é consumido quando utilizado para qualquer um desses objetivos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
+			<Text>O Infante é a unidade de combate terrestre básica da Era Moderna. É significativamente mais forte que o seu predecessor, o Fuzileiro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER">
+			<Text>Unidade naval especializada em repelir aeronaves inimigas. Pode carregar 3 mísseis. Usada para caçar e destruir Submarinos inimigos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE">
+			<Text>Invisível a todas as unidades, exceto aos Destróiers, Cruzadores de Mísseis Guiados e a outros Submarinos ou até que ataque ou fique adjacente à outra unidade. Pode carregar 2 Mísseis e é especializado em atacar outras unidades navais.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
+			<Text>Invisível a todas as unidades, exceto aos Destróiers, Cruzadores de Mísseis Guiados e a outros Submarinos ou até que ataque ou fique adjacente à outra unidade. Pode causar danos maiores a outras embarcações quando entram no campo de alcance do Submarino sem que este seja detectado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MECH">
+			<Text>Não se beneficia de nenhum bônus defensivo fornecido pelo terreno, mas é a unidade militar mais forte de todo o jogo.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MODERN_ARMOR">
+			<Text>Unidade rápida e poderosa da fase avançada do jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TANK">
+			<Text>Unidade rápida e poderosa da fase avançada do jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PANZER">
+			<Text>Unidade rápida e poderosa da fase avançada do jogo.[NEWLINE][NEWLINE]Apenas os Alemães podem construí-la. Esta unidade possui 1 ponto de movimento adicional, comparada ao Tanque que ela substitui.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAVALRY">
+			<Text>Unidade de Montaria capaz de enfrentar de igual para igual unidades de infantaria contemporâneas.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COSSACK">
+			<Text>Unidade de Montaria capaz de enfrentar de igual para igual unidades de infantaria contemporâneas.[NEWLINE][NEWLINE]Apenas os Russos podem treiná-la. Esta unidade ganha um bônus de combate ao atacar inimigos já feridos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LANCER">
+			<Text>Unidade de montaria especializada em derrotar outras unidades de montaria inimigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SIPAHI">
+			<Text>Unidade de montaria especializada em derrotar outras unidades de montaria inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e possui um campo de alcance visual maior que a unidade que ela substitui, o {TXT_KEY_UNIT_LANCER}.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
+			<Text>Poderosa unidade de montaria da Era Medieval. Fraca contra Piqueiros. Apenas os Songhais podem treiná-la. Esta unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
+			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
+			<Text>Uma rápida unidade de ataque a distância. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário do Biga Arqueira, unidade que ela substitui.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN_STRATEGY">
+			<Text>O Besteiro é mais poderoso que o Arqueiro de Arco Composto. Sendo uma unidade de ataque a distância, ele pode causar dano significativo a outras unidades da Era Medieval até dois hexágonos de distância, mas é vulnerável a ataques corpo-a-corpo. Coloque Besteiros em sua cidade para defendê-la e os proteja com unidades de ataque corpo-a-corpo quando se movimentarem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INFANTRY">
+			<Text>Unidade de infantaria mais poderosa no jogo, até a Infantaria Mecanizada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INFANTRY_STRATEGY">
+			<Text>A Infantaria é significativamente mais forte que seu predecessor, o Infante. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, devem ser auxiliadas por Artilharias, Tanques e unidades aéreas (ou antiaéreas).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
+			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque corpo-a-corpo que avança sobre unidades no mar ou cidades (mas sem ser por ataque a distância). O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TRIREME">
+			<Text>Unidade naval da Era Antiga, usada para arrebatar o controle dos mares por meio de ataques corpo-a-corpo contra unidades e cidades inimigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEY_STRATEGY">
+			<Text>A Galé é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Sendo uma unidade de ataque corpo-a-corpo, a Galé pode importunar cidades costeiras e unidades embarcadas (não com ataque a distância).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARAVEL_STRATEGY">
+			<Text>A Caravela é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque corpo-a-corpo, é mais forte e mais rápida que o Trirreme e pode navegar em águas oceânicas profundas. Ela possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo-a-corpo possa ocorrer. A Caravela possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na fase mediana do jogo. Esse raio de visão é perdido se a Caravela for atualizada para um Destróier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CARAVEL">
+			<Text>Rápida unidade de exploração da Renascença com um grande campo de visão e que pode navegar em águas oceânicas. Combate como uma unidade naval de ataque corpo-a-corpo.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DESTROYER_STRATEGY">
+			<Text>O Destróier é uma unidade naval de ataque corpo-a-corpo preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades embarcáveis, Super Couraçado e Porta-Aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Destróier possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo-a-corpo possa ocorrer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
+			<Text>Rápida embarcação da fase avançada do jogo, muito efetiva em reconhecimento. Também usada para caçar e destruir Submarinos inimigos. Combate como uma unidade naval de ataque corpo-a-corpo.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRONCLAD_STRATEGY">
+			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo-a-corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
+			<Text>Uma unidade naval de ataque corpo-a-corpo muito poderosa, o Couraçado paga o preço por ser muito forte: é mais lento no oceano.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
+			<Text>Unidade especializada em combater Tanques e Tanques Blindados. É capaz de pairar sobre montanhas, mas recebe dano se terminar o turno sobre uma.</Text>		
+		</Row>
+		<!--PROMOTIONS-->
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Curar esta unidade[ENDCOLOR] em 50 pontos de vida (HP). Ao fazer isto, esta oportunidade de promoção será [COLOR_POSITIVE_TEXT]consumida[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate se lutar em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_HELP">
+			<Text>+50% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_HELP">
+			<Text>+1 de Alcance Visual.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_HELP">
+			<Text>Todas as unidades adjacentes [COLOR_POSITIVE_TEXT]se curam 5 pontos de vida adicionais[ENDCOLOR] por turno.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_II_HELP">
+			<Text>Todas as unidades adjacentes [COLOR_POSITIVE_TEXT]se curam 5 pontos de vida adicionais[ENDCOLOR] por turno. Esta unidade [COLOR_POSITIVE_TEXT]se cura 5 pontos de vida adicionais[ENDCOLOR] por turno quando estiver [COLOR_POSITIVE_TEXT]fora de território amigo[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHARGE_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Feridas[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VOLLEY_HELP">
+			<Text>+50% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Fortificadas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR].</Text>	
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_1_HELP">
+			<Text>+33% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_2_HELP">
+			<Text>+33% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades de Montaria[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades de Montaria[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLITZ_HELP">
+			<Text>1 ataque adicional por turno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPLY_HELP">
+			<Text>Pode se curar [COLOR_POSITIVE_TEXT]fora de território amigo[ENDCOLOR]. 15 pontos de vida por turno.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2_HELP">
+			<Text>+25% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3_HELP">
+			<Text>+34% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3_HELP">
+			<Text>+34% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3_HELP">
+			<Text>+34% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3_HELP">
+			<Text>+34% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR].</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_2_HELP">
+			<Text>+1 de Alcance Visual.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_3_HELP">
+			<Text>+1 de Movimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_1_HELP">
+			<Text>+5 pontos de vida curados fora de território amigo e mais 25% de Defesa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_2_HELP">
+			<Text>+5 pontos de vida curados fora de território amigo e mais 25% de Defesa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_3_HELP">
+			<Text>A unidade irá [COLOR_POSITIVE_TEXT]se curar em todos os turnos[ENDCOLOR], mesmo se fizer alguma ação. A unidade irá tentar recuar ao se deparar com um ataque corpo-a-corpo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate quando possuir uma unidade amiga adjacente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM_HELP">
+			<Text>+15% de bônus de ataque em território amigo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_HELP">
+			<Text>+200% de bônus contra Cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT_HELP">
+			<Text>+300% de bônus contra Cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY_HELP">
+			<Text>Cura 50 pontos de vida se destruir uma unidade não bárbara.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION_HELP">
+			<Text>Pode embarcar em [COLOR_POSITIVE_TEXT]hexágonos aquáticos[ENDCOLOR]. Unidades embarcadas possuem o dobro de Força de Defesa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_BONUS_HELP">
+			<Text>Bônus vs unidades navais (50).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FEARED_ELEPHANT_HELP">
+			<Text>Unidades inimigas recebem -10% de [ICON_STRENGTH]Força de Combate quando adjacentes a qualquer unidade com esta promoção.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK_ATTACK_BONUS_HELP">
+			<Text>Bônus de ataque de flanco aumenta em 50%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFEND_NEAR_CAPITAL_HELP">
+			<Text>30% mais forte quando combate na [ICON_CAPITAL]Capital; o bônus cai à medida que a unidade se afasta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKED_SIGHT_HELP">
+			<Text>Alcance visual superior ao de uma unidade embarcada normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_HELP">
+			<Text>O Grande General possuirá a taxa se movimentos desta unidade se começarem o turno empilhados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GENERAL_STACKING_HELP">
+			<Text>15% de bônus de combate com um Grande General no mesmo hexágono.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ONLY_ATTACKS_CITIES_HELP">
+			<Text>A unidade não pode atacar outras unidades, somente cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_1_HELP">
+			<Text>+20% de [ICON_STRENGTH]Força de Combate ao atacar [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR]. Rouba ouro igual a 33% do dano causado em uma cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_2_HELP">
+			<Text>+20% de [ICON_STRENGTH]Força de Combate ao atacar [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR]. Rouba ouro igual a 33% do dano causado em uma cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_3_HELP">
+			<Text>+20% de [ICON_STRENGTH]Força de Combate ao atacar [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR]. Rouba ouro igual a 34% do dano causado em uma cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_1_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo-a-corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_2_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo-a-corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_3_HELP">
+			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo-a-corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WAR_CANOES_HELP">
+			<Text>Unidades embarcadas possuem o dobro da [ICON_STRENGTH]Força de Defesa usual e um alcance visual maior que uma unidade embarcada normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRIZE_SHIPS_HELP">
+			<Text>A unidade naval derrotada pode passar a fazer parte da sua frota.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_ADMIRAL_HELP">
+			<Text>Melhora a efetividade do combate de unidades navais próximas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL_HELP">
+			<Text>+2 de [ICON_MOVES]Movimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNWELCOME_EVANGELIST_HELP">
+			<Text>Pode entrar em território rival sem Acordo de Abertura de Fronteiras, mas perde 25% da Força Religiosa original a cada turno que terminar dentro da fronteira. A unidade é eliminada quando sua Força Religiosa chegar a 0.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BATTLESHIP">
+			<Text>Unidade Naval com ataque a distância mais poderosa do jogo até a chegada do Cruzador de Mísseis Guiados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION_HELP">
+			<Text>Pode embarcar nos [COLOR_POSITIVE_TEXT]hexágonos aquáticos[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_1">
+			<Text>Alvo Aéreo I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra Unidades [COLOR_POSITIVE_TEXT]Navais[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_2">
+			<Text>Alvo Aéreo II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_AMBUSH_1">
+			<Text>Emboscada Aérea I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_AMBUSH_1_HELP">
+			<Text>+33% de [ICON_STRENGTH]Força de Combate contra Unidades [COLOR_POSITIVE_TEXT]Blindadas[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_AMBUSH_2">
+			<Text>Emboscada Aérea II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HELI_AMBUSH_1">
+			<Text>Bônus vs Blindados (25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HELI_AMBUSH_2">
+			<Text>Bônus vs Blindados (25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_II">
+			<Text>Médico II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_REPAIR">
+			<Text>Reparo Aéreo</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE">
+			<Text>Bônus vs Cidades (200)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT">
+			<Text>Bônus vs Cidades (300)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_PENALTY">
+			<Text>Penalidade na defesa (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_PENALTY_HELP">
+			<Text>33% de penalidade quando na defesa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOUNTED_PENALTY">
+			<Text>Penalidade vs Unidades de Montaria (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR">
+			<Text>Bônus vs Aeronaves/Helicópteros (150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR_II">
+			<Text>Bônus vs Bombardeiros/Helicópteros (150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_FIGHTER">
+			<Text>Bônus vs Aviões de Combate (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I">
+			<Text>Bônus vs Submarinos (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II">
+			<Text>Bônus vs Submarinos (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
+			<Text>Bônus vs Tanques (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_PENALTY">
+			<Text>Penalidade vs Unidades Navais (50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_PAYLOAD">
+			<Text>Bônus vs Cidades (50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIRE_SUPPORT">
+			<Text>Bônus vs Cidades (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SILENT_HUNTER">
+			<Text>Bônus ao atacar (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STEAM_POWERED">
+			<Text>Movimentos em dobro na Costa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY">
+			<Text>Cura 50 pontos de vida se eliminar uma unidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY">
+			<Text>Cura 25 pontos de vida se eliminar uma unidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOHAWK">
+			<Text>Bônus de combate em Floresta/Selva (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOHAWK_HELP">
+			<Text>+33% de bônus de combate em Floresta/Selva.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JAGUAR">
+			<Text>Bônus de combate em Floresta/Selva (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JAGUAR_HELP">
+			<Text>+33% de bônus de combate em Floresta/Selva.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED">
+			<Text>Bônus vs inimigo ferido/avariado (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL_HELP">
+			<Text>Melhora a efetividade do combate de unidades terrestres próximas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_BONUS">
+			<Text>Bônus vs Unidades Navais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FEARED_ELEPHANT">
+			<Text>Elefante Temido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK_ATTACK_BONUS">
+			<Text>Ataque de Flanco Avançado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFEND_NEAR_CAPITAL">
+			<Text>Bônus de Proximidade da Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKED_SIGHT">
+			<Text>Visão Extra Ao Embarcar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL">
+			<Text>Transferir Movimentos ao Grande General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GENERAL_STACKING">
+			<Text>Bônus de Combate do Grande General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ONLY_ATTACKS_CITIES">
+			<Text>Atacar Somente Cidades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_1">
+			<Text>Pirata Costeiro I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_2">
+			<Text>Pirata Costeiro II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_3">
+			<Text>Pirata Costeiro III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_1">
+			<Text>Grupo de Embarque I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_2">
+			<Text>Grupo de Embarque II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_3">
+			<Text>Grupo de Embarque III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WAR_CANOES">
+			<Text>Canoas de Guerra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRIZE_SHIPS">
+			<Text>Embarcações Prêmio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_ADMIRAL">
+			<Text>Liderança Naval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_GENERAL">
+			<Text>General Móvel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL">
+			<Text>Almirante Móvel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNWELCOME_EVANGELIST">
+			<Text>Evangelizador Indesejável</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT_HELP">
+			<Text>A unidade pode sobrevoar Montanhas, mas recebe dano se terminar o turno sobre uma.</Text>
+		</Row>
+		<!-- New Concepts and Advisor messages-->
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC">
+			<Text>Espiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_SUMMARY">
+			<Text>Você ganhará seu primeiro espião quando alguma civilização do jogo entrar na Renascença. Espiões podem ser enviados a uma cidade em outra civilização com o objetivo de roubar tecnologia e colher informações. Você também pode enviar um espião a uma de suas cidades para descobrir, eliminar ou diminuir as ações de um espião inimigo. Para designar o seu primeiro espião, escolha a opção "Espionagem" no botão "Informação Adicional".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_ADVISOR_QUESTION">
+			<Text>O que é um espião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC">
+			<Text>Movendo Espiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_SUMMARY">
+			<Text>Para mover um espião, abra a tela "Espionagem" e clique no botão "Mover" próximo a um espião que você queira realocar. Após clicar no botão "Mover", clique no nome da cidade destino, no lado direito da tela (sua ou de outra civilização). A "Atividade" de um espião será alterada para "Viajando" e indicará em quanto tempo ele irá chegar ao destino.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_ADVISOR_QUESTION">
+			<Text>Como movimento meus espiões?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_TOPIC">
+			<Text>Civilizações Menos Avançadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_DISPLAY">
+			<Text>Eles não possuem nada que precisamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_ACTIVATE_BUTTON">
+			<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_BODY">
+			<Text>Nossos espiões informam que a civilização alvo não possui tecnologia que nós precisamos. Nós deveríamos enviar nosso espião a uma cidade mais promissora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_QUESTION">
+			<Text>E se não houver mais tecnologias a serem roubadas?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_SUMMARY">
+			<Text>Após seu espião realizar uma avaliação na civilização alvo, ele automaticamente começará a colher informações. Se ele descobrir que não há tecnologias que você precisa, então você receberá uma notificação sobre isso. Você, então, pode escolher mover seu espião a um local mais promissor ou deixar seu espião na civilização alvo em busca de intrigas. Intrigas são informações interceptadas que você pode entrar a outras civilizações. Por exemplo, você pode possuir um espião na Arábia e descobrir que eles planejam invadir o Egito. Você pode informar o Egito sobre a trama e receber um avanço na relação diplomática como resultado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_TOPIC">
+			<Text>Roubando Tecnologia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_DISPLAY">
+			<Text>Traição!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_ACTIVATE_BUTTON">
+			<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_BODY">
+			<Text>Um espião roubou tecnologia de você! Você deveria considerar construir edifícios defensivos, como a Guarda Policial ou Distrito Policial ou, ainda, usar um dos seus espiões para trabalhar em contrainteligência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_QUESTION">
+			<Text>Como usar espiões para roubar tecnologia?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_SUMMARY">
+			<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edifícios defensivos, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_STEALING_TECHS_SUMMARY">
+			<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edifícios defensivos, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC">
+			<Text>Espiões e Cidades-Estado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_SUMMARY">
+			<Text>Espiões podem ser usados para aumentar sua influência sobre Cidades-Estado "fraudando" suas eleições locais ou realizando um golpe de estado. Para interagir com uma Cidade-Estado, primeiro envie um espião a uma Cidade-Estado alvo. Assim que o espião chegar, haverá um período de tempo onde ele fará uma avaliação (veja na coluna "Atividade"). Terminada a avaliação, suas opções de espionagem ficarão disponíveis. Fraudar uma eleição, uma habilidade passiva, ocorre a cada 15 turnos enquanto seu espião estiver na Cidade-Estado alvo. Se o único espião na Cidade-Estado for o seu, sua influência sobre ela irá aumentar, enquanto a dos outros irá diminuir. A presença de um espião inimigo, especialmente um de maior graduação, poderá fazer com que esta missão falhe. Entretanto, você não precisa se preocupar, pois falhar na tentativa de fraudar uma eleição não trás riscos ao seu espião.[NEWLINE][NEWLINE]Realizar um golpe de estado trás mais benefícios que fraudar uma eleição, mas é bem mais arriscado. Um golpe de estado bem sucedido permite que você "roube" a posição de aliança de outra civilização. Para dar um golpe de estado, envie um espião para uma Cidade-Estado aliada à outra civilização, da mesma forma que você faria para fraudar uma eleição. Assim que a avaliação estiver realizada, você terá um novo botão disponível chamado "Golpe". Ao clicar nele, uma mensagem de aviso aparecerá exibindo a probabilidade de sucesso do seu golpe. Quanto mais influência você possuir sobre a civilização alvo, maiores serão suas chances. O problema? Se seu espião falhar, ele será executado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_ADVISOR_QUESTION">
+			<Text>Como usar espiões com Cidades-Estado?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC">
+			<Text>Fazendo Avaliação</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_SUMMARY">
+			<Text>Para fazer uma avaliação, envie um espião para uma cidade alvo. Assim que o espião chegar, haverá um período de tempo em que ele realizará uma avaliação (veja na coluna "Atividade"). Quando a avaliação terminar, você saberá se a cidade alvo possui tecnologias que você possa roubar. Você também será capaz de ver a tela da cidade inimiga e ter uma chance de interceptar importantes informações (como preparações para uma invasão).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_ADVISOR_QUESTION">
+			<Text>Como realizar uma avaliação?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC">
+			<Text>Contrainteligência</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_SUMMARY">
+			<Text>Você pode se defender contra espiões inimigos criando uma contrainteligência. Para fazer isso, envie um espião para uma de suas cidades que você suspeita ser alvo (normalmente uma cidade com uma grande produção de ciência). Assim que ele estiver lá, ele terá uma chance de detectar espiões inimigos. Quanto maior a graduação do espião, melhores serão as chances de sucesso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_ADVISOR_QUESTION">
+			<Text>Como parar outros espiões?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC">
+			<Text>Guarda e Distrito Policial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_SUMMARY">
+			<Text>Você também poderá diminuir a atividade espiã inimiga ao construir Guardas Policiais e Distritos Policiais em suas cidades. Se uma cidade possuir uma Guarda Policial ou um Distrito Policial, o tempo necessário para se roubar uma tecnologia aumenta em 25% para cada um dos edifícios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_ADVISOR_QUESTION">
+			<Text>Como atrasar o progresso de um espião inimigo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC">
+			<Text>{TXT_KEY_BUILDING_INTELLIGENCE_AGENCY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_SUMMARY">
+			<Text>A Maravilha "Agência Nacional de Inteligência" fornece a sua civilização um espião adicional e promoverá todos os espiões existentes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_ADVISOR_QUESTION">
+			<Text>Como conseguir espiões adicionais?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC">
+			<Text>{TXT_KEY_BUILDING_GREAT_FIREWALL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_SUMMARY">
+			<Text>A Maravilha "O Grande Firewall" reduz a efetividade dos espiões inimigos em 99.9% na cidade em que for construída e em 25% em todas as cidades da sua civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_ADVISOR_QUESTION">
+			<Text>Como atrasar o progresso de um espião inimigo?</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC">
+			<Text>Detectando um Espião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_SUMMARY">
+			<Text>Espiões possuem uma pequena chance de serem detectados ao tentarem roubar tecnologias. Se a cidade alvo não possuir um espião na contrainteligência, as possíveis situações do seu espião serão: Não Detectado, Detectado mas não Identificado e Identificado. Se houver um contraespião na cidade, as possíveis situações do seu espião serão: Detectado mas Não Identificado, Identificado e Identificado e Eliminado. Ao ter seu espião seja como Identificado ou Identificado e Eliminado, sua relação com a civilização alvo sofrerá um efeito negativo. Se o seu espião for eliminado, você receberá um substituto, mas somente em alguns turnos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_ADVISOR_QUESTION">
+			<Text>Como descobrir se alguém está me espionando?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC">
+			<Text>Obtendo Mais Espiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_SUMMARY">
+			<Text>Embora você comece com apenas um espião, você irá obter um novo espião à medida que você entrar em uma nova Era. Além disso, você pode obter um espião adicional ao construir a Maravilha "Agência Nacional de Inteligência".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_ADVISOR_QUESTION">
+			<Text>Como obter mais espiões?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC">
+			<Text>Experiência Espiã</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_SUMMARY">
+			<Text>A cada missão bem sucedida, seus espiões ganham experiência e promoções, além de realizarem suas missões mais rapidamente e com mais confiança.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_ADVISOR_QUESTION">
+			<Text>Meus espiões ganham experiência?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC">
+			<Text>Obtendo Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_SUMMARY">
+			<Text>[ICON_PEACE]Fé é a moeda que lhe permite fundar um Panteão, criar um Grande Profeta e pode ser usada para comprar unidades e edifícios religiosos.[NEWLINE][NEWLINE]Há várias fontes para pontos de [ICON_PEACE]Fé. Há edifícios e maravilhas que fornecem certa quantidade de [ICON_PEACE]Fé por turno, se você construí-los em suas cidades. Algumas Maravilhas Naturais também podem gerá-la quando estão sendo exploradas. Você pode encontrar [ICON_PEACE]Fé em uma Ruína Antiga. Se você for amigo de uma Cidade-Estado religiosa, ela também irá contribuir regularmente com presentes. E a última fonte de [ICON_PEACE]Fé é a melhoria Local Santo, que Grandes Profetas podem construir em seu território.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_ADVISOR_QUESTION">
+			<Text>Como posso obter Fé?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC">
+			<Text>Panteões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_SUMMARY">
+			<Text>Panteões são o primeiro passo rumo à fundação de uma Religião verdadeira. Assim que você tiver acumulado certa quantidade de [ICON_PEACE]Fé, você será capaz de selecionar a Crença do seu Panteão, que será a base para qualquer Religião que você venha a fundar, portanto, escolha sabiamente, já que ela poderá permanecer com você por todo o jogo. A quantidade de [ICON_PEACE]Fé necessária para fundar um Panteão aumentará à medida que cada Panteão for fundado no mapa.[NEWLINE][NEWLINE]Panteões são o acesso inicial à Religião. Consequentemente, somente é possível fundar um Panteão nas eras iniciais, dependendo do progresso religioso a sua volta. Assim que você escolher a Crença do seu Panteão, ela ficará imediatamente disponível em toda a sua civilização e se espalhará para novas cidades até que você funde uma verdadeira Religião.[NEWLINE][NEWLINE]Perceba que os jogadores não poderão mais fundar um novo Panteão se outro jogador já tiver aperfeiçoado a sua Religião; ou se o número de Panteões alcançar ou exceder o número de Religiões permitidas no atual jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_ADVISOR_QUESTION">
+			<Text>O que é um Panteão?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC">
+			<Text>Fundando uma Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_SUMMARY">
+			<Text>Assim que você possuir um Grande Profeta, e já tiver fundado um Panteão, você poderá usá-lo fundar uma verdadeira Religião. Isso é feito ao selecionar o Grande Profeta (assegure-se de que ele esteja em uma cidade) e clicar no ícone "Fundar Religião" no painel da unidade. Você será apresentado às opções para escolher que tipo de Religião você quer para sua civilização. Selecione um símbolo e um nome para sua Religião, assim como as Crenças de Fundação e de Devoção, que determinam quais crenças serão obtidas. Você confirma essas opções ao clicar no botão [ICON_RELIGION]Fundar Religião, na parte inferior direita da tela de seleção.[NEWLINE][NEWLINE]Há um limite de religiões que podem ser fundadas em cada jogo e este número é baseado no tamanho do mapa. Este limite sempre será inferior ao número padrão de civilizações no jogo, então, nem todos poderão fundar sua própria religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_ADVISOR_QUESTION">
+			<Text>Como fundar uma Religião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC">
+			<Text>Usando Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_SUMMARY">
+			<Text>A [ICON_PEACE]Fé pode ser usada de várias formas: pode ser usada para comprar unidades e edifícios religiosos; para criar um Grande Profeta; ou, assim que você entrar na Era Industrial, comprar outras Grandes Pessoas.[NEWLINE][NEWLINE]A [ICON_PEACE]Fé que você acumular será automaticamente usada na criação de um Grande Profeta quando você alcançar certo marco (para ver detalhes, paire o mouse sobre o ícone [ICON_PEACE] na barra de status). Assim que você entrar na Era Industrial, você poderá usar [ICON_PEACE]Fé em outras Grandes Pessoas também, dependendo de quais Políticas Sociais você tenha desbloqueado.[NEWLINE][NEWLINE]Você também pode escolher usar sua [ICON_PEACE]Fé acumulada em unidades e edifícios. Isso pode ser feito no menu Comprar da tela da cidade. Missionários e Inquisidores estão disponíveis em toda cidade devota de uma Religião, enquanto que os respectivos edifícios ficam disponíveis apenas se a Religião predominante possuir uma Crença que desbloqueie a compra de um edifício religioso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_ADVISOR_QUESTION">
+			<Text>O que pode ser feito com a Fé?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC">
+			<Text>Crenças</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_SUMMARY">
+			<Text>Quando você funda um Panteão ou, mais tarde no jogo, funda ou aperfeiçoa uma Religião, há uma quantidade de diferentes espaços que você pode preencher com uma seleção de Crenças. Os tipos de Crenças que você recebe para selecionar são: Crença do Panteão, Crença de Fundação, Crença de Devoção e Crenças Aperfeiçoadoras. Há civilizações que, devido à sua característica única, podem escolher uma Crença Bônus.[NEWLINE][NEWLINE]Crenças são escolhidas no sistema "quem escolher primeiro leva", ou seja, quando uma Crença for escolhida, dali em diante ela ficará indisponível às outras civilizações que estiverem fundando ou aperfeiçoando suas próprias Religiões. Isso torna bastante importante o fato de ser o primeiro a poder escolher uma Crença.[NEWLINE][NEWLINE]Uma lista completa de todas as diferentes Crenças que podem ser escolhidas pode ser encontrada na seção Religião da Civilopédia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_ADVISOR_QUESTION">
+			<Text>O que são Crenças?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC">
+			<Text>Crenças do Panteão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_SUMMARY">
+			<Text>Este é um tipo especial de benefício de devotos, especialmente útil no início do jogo (normalmente para melhorar a produção dos hexágonos). Ele afeta qualquer cidade cuja maioria dos cidadãos pratica este Panteão ou Religião. Essas Crenças se tornarão religiões plenas mais tarde no jogo, à medida que as civilizações escolherem ir além de um mero Panteão e fundar uma Religião. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_ADVISOR_QUESTION">
+			<Text>O que são Crenças do Panteão?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC">
+			<Text>Crenças de Devoção</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_SUMMARY">
+			<Text>Esses atributos estão relacionados às cidades. Eles influenciam qualquer cidade onde esta Religião for praticada pela maioria dos cidadãos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_ADVISOR_QUESTION">
+			<Text>O que são Crenças de Devoção?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC">
+			<Text>Crenças de Fundação</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_SUMMARY">
+			<Text>Esses são bônus relacionados ao jogador. Esses efeitos positivos são obtidos pelo jogador que fundar uma Religião, enquanto ele controlar a Cidade Santa onde a Religião se originar. A maioria deles está ligada à disseminação da Religião pelo mapa, dando ao fundador da Religião um forte incentivo para espalhá-la o máximo possível.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_ADVISOR_QUESTION">
+			<Text>O que são Crenças de Fundação?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_TOPIC">
+			<Text>Crenças Aperfeiçoadoras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_ENHANCER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_SUMMARY">
+			<Text>Esses benefícios melhoram a disseminação da Religião. Dependendo das Crenças individuais escolhidas, eles podem melhorar o poder de unidades religiosas ou fortalecer a disseminação natural da Religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_ADVISOR_QUESTION">
+			<Text>O que são Crenças Aperfeiçoadoras?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_TOPIC">
+			<Text>Disseminando a Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_SUMMARY">
+			<Text>Há duas formas de disseminar uma Religião: a natural, que a cidade santa e qualquer cidade religiosa geram, e a proposital, que são ações que um jogador pode realizar para converter outras cidades.[NEWLINE][NEWLINE]A propagação natural da Religião é bastante simples: toda cidade que possui uma Religião predominante (mais da metade de seus cidadãos devotos desta Religião) exerce uma pressão nos hexágonos próximos a ela (no máximo 10). Se outra cidade estiver no mesmo raio de alcance e ela ainda não possuir uma religião predominante, então a pressão lentamente começará a converter cidadãos. Se a cidade já possuir uma religião predominante, então será necessário duas ou mais cidades exercendo pressão para que os cidadãos comecem a ser convertidos. Quanto mais cidades exercerem pressão sobre a cidade alvo, mais rápido os cidadãos serão convertidos. Você pode ver a pressão exercida por você, bem como a pressão que você está sofrendo, ao colocar o mouse sobre o ícone da Religião no título da cidade (se ela já possuir um Panteão ou Religião). [NEWLINE][NEWLINE]Para acelerar a disseminação de sua Religião, as seguintes opções estão disponíveis: você pode comprar Missionários, gastando [ICON_PEACE]Fé em qualquer cidade que já possua uma Religião que você queira disseminar como sua predominante. Para comprar um, entre na tela da cidade e você poderá clicar no menu de compra, no canto inferior esquerdo da tela. O Missionário ficará cinza se você não possuir [ICON_PEACE]Fé suficiente para adquiri-lo. Assim que você possuir um Missionário, você poderá enviá-lo para dentro ou próximo a uma cidade que você queira converter e clicar no botão Disseminar Religião, que normalmente irá consumi-lo após dois usos.[NEWLINE][NEWLINE]Grandes Profetas podem disseminar Religião de um modo similar, mas, além disso, eles podem abolir qualquer outra Religião que possa estar presente em sua cidade alvo. Eles podem realizar esta ação várias vezes antes de serem consumidos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_ADVISOR_QUESTION">
+			<Text>Como a Religião é disseminada?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_TOPIC">
+			<Text>Aperfeiçoando uma Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_SUMMARY">
+			<Text>Assim que você tiver fundado uma Religião, você poderá usar o seu próximo Grande Profeta para aperfeiçoá-la. Isso é feito da mesma forma utilizada para fundar uma, porém desta vez você deverá escolher uma Crença de Devoção adicional e uma Crença Aperfeiçoadora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_ADVISOR_QUESTION">
+			<Text>Como aperfeiçoar uma Religião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_TOPIC">
+			<Text>Edifícios Religiosos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_BUILDINGS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_SUMMARY">
+			<Text>Há dois diferentes tipos de edifícios que afetam a Religião. Primeiro, há os edifícios que geram [ICON_PEACE]Fé e que você pode construir da forma normal na cidade, assim que você tiver pesquisado as suas tecnologias necessárias. Porém, há o segundo conjunto de edifícios que você precisa desbloquear por meio de Crenças de Devoção. Eles podem ser comprados com [ICON_PEACE]Fé em qualquer cidade onde a maioria dos cidadãos é devota da Religião associada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_ADVISOR_QUESTION">
+			<Text>Edifícios afetam a Religião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_TOPIC">
+			<Text>Unidades Religiosas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_UNITS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_SUMMARY">
+			<Text>Há 3 unidades que possuem impacto na Religião: Grandes Profetas, Missionários e Inquisidores. Enquanto Grandes Profetas e Missionários são úteis para aperfeiçoar e disseminar a Religião, Inquisidores defendem suas cidades contra outras Religiões não desejadas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_ADVISOR_QUESTION">
+			<Text>Unidades afetam a Religião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_TOPIC">
+			<Text>Religião Predominante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_MAJORITY_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_SUMMARY">
+			<Text>Cada cidadão em uma cidade ou é um ateu ou devoto de uma Religião. A disseminação natural ou deliberada de uma Religião pode convertê-lo e, quando uma Religião possuir a maioria dos cidadãos como devotos, a cidade será considerada devota daquela Religião. A partir deste ponto, unidades e edifícios daquela Religião poderão ser comprados na tela da cidade.[NEWLINE][NEWLINE]Se a maioria dos cidadãos for devota de uma Religião, o símbolo dela será exibido no título da cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_ADVISOR_QUESTION">
+			<Text>Como uma Religião se torna predominante?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_TOPIC">
+			<Text>Defendendo contra uma Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_DEFENDING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_SUMMARY">
+			<Text>Para defender suas cidades contra Missionários ou Grandes Profetas inimigos tentando convertê-las, compre um Inquisidor. Essas unidades podem ser colocadas em uma cidade para protegê-la contra conversão. Além dessa habilidade passiva, Inquisidores podem ser consumidos quando estiverem adjacentes a uma de suas cidades para remover a presença de todas as outras Religiões presentes ali.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_ADVISOR_QUESTION">
+			<Text>Como se defender de uma Religião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_TOPIC">
+			<Text>Exigindo Tributo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_BULLYING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_SUMMARY">
+			<Text>Você pode escolher intimidar uma Cidade-Estado ao lhe exigir tributos, que podem ser em forma de um Trabalhador ou de um bocado de ouro. Uma forma de intimidar uma Cidade-Estado é por meio do seu poderio militar, comparado ao de outras civilizações, ou possuir unidades militares próximas à Cidade-Estado.[NEWLINE][NEWLINE]Se você quiser exigir tributo, abra o painel diplomático da Cidade-Estado e clique na opção "Exigir Tributo". Se a opção estiver em vermelho, a Cidade-Estado não teme você e não cederá às suas exigências. Se você obtiver sucesso, você ganhará o tributo, mas perderá influência com a Cidade-Estado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_ADVISOR_QUESTION">
+			<Text>Como exigir tributo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC">
+			<Text>Religião e Influência de Cidades-Estado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_SUMMARY">
+			<Text>Se uma Religião que você tenha fundado se tornar predominante em uma Cidade-Estado, a taxa na qual sua [ICON_INFLUENCE]Influência sobre eles cai diminuirá em 25%. Da mesma forma, se sua [ICON_INFLUENCE]Influência estiver negativa, a taxa na qual ela se recupera aumentará em 50%.[NEWLINE][NEWLINE]Além disso, Cidades-Estado ocasionalmente pedirão que uma Religião específica seja disseminada a eles. Se você obtiver sucesso em atender este pedido, você receberá uma significativa recompensa em [ICON_INFLUENCE]Influência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_ADVISOR_QUESTION">
+			<Text>Há algum benefício em disseminar Religião a uma Cidade-Estado?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATES_GREATPROPHET_TITLE">
+			<Text>Grande Profeta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATES_GREATPROPHET_ADV_QUEST">
+			<Text>O que é um Grande Profeta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATES_GREATPROPHET_BODY">
+			<Text>Grandes Profetas são obtidos como resultado da geração de [ICON_PEACE]Fé e são as únicas unidades que podem fundar ou aperfeiçoar uma Religião. Assim que você tiver acumulado [ICON_PEACE]Fé suficiente (ao menos 200 em um jogo com velocidade normal), você terá a chance de gerar um Grande Profeta. Tão logo o Grande Profeta apareça, você poderá usar sua habilidade "Fundar Religião" para criar sua própria Religião personalizada. Como outras Grandes Pessoas, o Grande Profeta possui outras habilidades adicionais, incluindo a de iniciar uma Era Dourada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_TOPIC">
+			<Text>Religiosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_SUMMARY">
+			<Text>Uma Cidade-Estado religiosa pode fornecer Fé para sua civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_ADVISOR_QUESTION">
+			<Text>O que significa uma Cidade-Estado ser religiosa?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_TOPIC">
+			<Text>Mercante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_SUMMARY">
+			<Text>Uma Cidade-Estado mercante pode fornecer um item de luxo único para sua civilização e ajudar a sua felicidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_ADVISOR_QUESTION">
+			<Text>O que significa uma Cidade-Estado ser mercante?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON">
+			<Text>Espionagem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ISLANDS_HELP">
+			<Text>O mundo é formado por uma mistura de ilhas grandes e pequenas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYPES_HEADING2_BODY">
+			<Text>Existem cinco tipos diferentes de Cidades-Estado. Cada uma lhe fornece diferentes benefícios caso se torne amigo ou aliado delas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_HITPOINTS_HEADING3_BODY">
+			<Text>A "saúde" de uma unidade é medida em "Pontos de Vida" ou HP's. Quando totalmente saudável, todas as unidades de combate possuem 100 pontos de vida. Quando a unidade sofre dano, ela perde pontos de vida. Se os pontos de uma unidade atingir 0, ela é eliminada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_COMBATDAMAGE_HEADING2_BODY">
+			<Text>Uma unidade totalmente saudável tem 100 "pontos de vida" (HP's). Quando uma unidade sofre dano durante o combate ela perde HP's e se ela chegar a 0 HP, ela é eliminada.[NEWLINE][NEWLINE]Uma unidade que recebe dano fica mais fraca do que uma unidade saudável e fica mais perto da eliminação. Sempre que possível, é uma boa ideia retirar unidades danificadas da batalha, para que elas possam se curar antes de entrar novamente na briga. Isso, naturalmente, nem sempre é possível.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_CITYHITPOINTS_HEADING4_BODY">
+			<Text>Uma cidade totalmente saudável possui 200 pontos de vida (HP). À medida que ela recebe dano, pontos da cidade são reduzidos. Se os pontos de vida de uma cidade chegar a 0, uma unidade inimiga poderá capturá-la.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_HEALTINGDAMAGE_HEADING3_BODY">
+			<Text>Para curar os danos, uma unidade deve permanecer inativa por um turno. A quantidade de dano que uma unidade pode curar depende da localização da unidade.[NEWLINE][NEWLINE]Em uma cidade: a unidade cura 25 HP's por turno.[NEWLINE]Em território amigo: 20 HP's por turno.[NEWLINE]Em território neutro ou inimigo: 10 HP's por turno.[NEWLINE]Note que certas promoções irão acelerar a taxa de cura.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_NAVALDAMAGE_HEADING3_BODY">
+			<Text>As unidades navais não podem se curar, a não ser que estejam em território amigo, onde 20 pontos de vida são recuperados por turno.</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_HEADING4_BODY">
+			<Text>Um Grande General fornece um bônus de combate de 15% para todas as unidades aliadas num espaço de 2 hexágonos. Este bônus aplica-se a todas as formas de combate: corpo-a-corpo, a distância, defesa e assim por diante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_TITLE">
+			<Text>Grande Almirante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ADV_QUEST">
+			<Text>O que é um Grande Almirante?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_BODY">
+			<Text>O Grande Almirante segue o mesmo princípio do Grande General. Ao invés de ser gerado em cidades por especialistas, um Grande Almirante é produzido pelos combates navais. Sempre que uma de suas unidades navais ganhar XP, sua civilização gera pontos para um Grande Almirante (exceto quando se combate contra bárbaros). Quando você possuir pontos suficientes, você obterá um Grande Almirante. Neste ponto, a quantidade necessária para a geração do próximo Grande Almirante aumentará.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_TITLE">
+			<Text>Habilidade Especial: Bônus de Combate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_BODY">
+			<Text>Um Grande Almirante fornece um bônus de combate de 15% a todas as unidades navais amigas num raio de 2 hexágonos. Este bônus de combate se aplica a todas as formas de combate: corpo-a-corpo, a distância, defesa e assim por diante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_ADV_QUEST">
+			<Text>Quais são as habilidades do Grande Almirante?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_TITLE">
+			<Text>Habilidade Especial: Reparar Frota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_BODY">
+			<Text>{TXT_KEY_MISSION_REPAIR_FLEET_HELP}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_ADV_QUEST">
+			<Text>{TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_ADV_QUEST}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_TITLE">
+			<Text>Grande Profeta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ADV_QUEST">
+			<Text>O que é um Grande Profeta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_BODY">
+			<Text>Grandes Profetas são obtidos como resultado da geração de [ICON_PEACE]Fé e são as únicas unidades que podem fundar ou aperfeiçoar uma Religião. Assim que você tiver acumulado [ICON_PEACE]Fé suficiente (ao menos 200 em um jogo com velocidade normal), você terá a chance de gerar um Grande Profeta. Tão logo o Grande Profeta apareça, você poderá usar sua habilidade "Fundar Religião" para criar sua própria Religião personalizada. Como outras Grandes Pessoas, o Grande Profeta possui outras habilidades adicionais, incluindo a de construir uma melhoria especial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_TOPIC">
+			<Text>Estabelecendo Embaixadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_SUMMARY">
+			<Text>Estabelecer uma Embaixada é uma das primeiras ações diplomáticas disponíveis após conhecer outra civilização e estará acessível após pesquisar a tecnologia "Escrita". Embaixadas são necessárias para propor tratados para abertura de fronteiras, realizar pactos defensivos ou acordos de pesquisa e, assim que estabelecida, mostrar-lhe-á a localização da Capital do outro jogador. Se você tiver pesquisado "Escrita", mas o outro jogador não, ainda assim você poderá estabelecer uma Embaixada na civilização dele sem reciprocidade, entretanto, eles podem lhe pedir uma pequena quantidade de ouro em compensação. Se você for à guerra, as embaixadas na civilização inimiga serão fechadas imediatamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_ADVISOR_QUESTION">
+			<Text>Como estabelecer uma Embaixada?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ABILITY_TITLE">
+			<Text>Hab. Especial: Disseminar Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ABILITY_BODY">
+			<Text>O Grande Profeta pode disseminar religião 4 vezes, substituindo quaisquer religiões anteriormente presentes nas cidades alvo. O Grande Profeta é consumido quando usado desta forma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ABILITY_ADV_QUEST">
+			<Text>Quais são as habilidades especiais do Grande Profeta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_TITLE">
+			<Text>Melhoria Especial: Local Santo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_BODY">
+			<Text>Um Grande Profeta pode construir a melhoria especial Local Santo que, quando explorado, produz [ICON_PEACE]Fé adicional. O Grande Profeta é consumido quando usado desta forma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_ADV_QUEST">
+			<Text>O Grande Profeta pode criar uma melhoria?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ABILITIES_HEADING3_BODY">
+			<Text>Cada Grande Pessoa possui duas habilidades (porém, veja o Grande Almirante abaixo).[NEWLINE]- Eles podem ser consumidos na construção de uma Melhoria Especial.[NEWLINE]- Eles possuem outra habilidade especial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_BODY">
+			<Text>Construir uma Cidadela faz de você proprietário de todos os hexágonos adjacentes a ela, já que sua fronteira aumentará para englobar a Cidadela. Adicionalmente, a Cidadela fornece um grande bônus defensivo para qualquer unidade que ocupá-la e, além disso, causa dano a qualquer unidade inimiga que terminar seu turno próxima a ela (o dano não se acumula com outras Cidadelas). Perceba que a Cidadela somente funciona quando está em seu território. Se ela mudar de lado, em razão de uma cidade próxima ser conquistada pelo inimigo, ela será eficaz apenas ao novo dono. Se a nova fronteira reclamar hexágonos já pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_BODY">
+			<Text>Um Grande Artista pode iniciar uma "Era Dourada". Este é um período de especial produtividade para uma civilização. Durante a Era Dourada, qualquer hexágono que produz ouro, produzirá 1 ouro extra, a produção (martelos) em cidades aumentará em 20% e a cultura em todo o império aumentará em 20%. A duração de uma Era Dourada depende da dificuldade e velocidade do jogo. O Grande Artista é consumido quando inicia uma Era Dourada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_TITLE">
+			<Text>Habilidade Especial: Era Dourada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_CAUSES_HEADING2_BODY">
+			<Text>Os itens seguintes aumentam a felicidade de sua população:[NEWLINEW][NEWLINE]Maravilhas Naturais: cada Maravilha Natural que você descobre aumenta permanentemente a felicidade de sua população.[NEWLINE][NEWLINE]Recursos de Luxo: explore esses recursos dentro do seu território ou os negocie com outras civilizações. Cada tipo de recurso aumenta a felicidade de sua população (mas você não ganha felicidade extra por ter muitas fontes de um mesmo recurso).[NEWLINE][NELINE]Edifícios: certos edifícios aumentam a felicidade de sua população. Dentre eles, estão o Coliseu, o Circo, o Teatro e outros. Cada edifício construído em qualquer lugar de sua civilização aumenta sua felicidade geral (assim, dois Coliseus produzem o dobro de felicidade que um único Coliseu produz, diferentemente dos Recursos de Luxo).[NEWLINE][NEWLINE]Maravilhas: certas Maravilhas, como a Catedral de Notre Dame e a Torre Eiffel podem lhe dar um grande bônus na felicidade.[NEWLINE][NEWLINE]Políticas Sociais: embora não haja um ramo político focado em felicidade, algumas políticas em cada ramo ou aumentam a felicidade ou diminuem a infelicidade.[NEWLINE][NEWLINE]Tecnologias: por si só, elas não fornecem felicidade, mas desbloqueiam edifícios, maravilhas, recursos e políticas sociais que o fazem.[NEWLINE][NEWLINE]Religião: Certas crenças religiosas fornecem felicidade, assim como alguns edifícios religiosos que podem ser comprados com Fé.</Text>
+		</Row>
+		<!-- BELIEFS -->
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT">
+			<Text>+1 de [ICON_FOOD]Alimento de Campos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES">
+			<Text>Taxa de [ICON_FOOD]Crescimento 10% mais rápida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN">
+			<Text>+1 de [ICON_PRODUCTION]Produção em cidades com população superior a 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SEA">
+			<Text>+1 de [ICON_PRODUCTION]Produção de Barcos Pesqueiros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_OPEN_SKY">
+			<Text>+1 de [ICON_CULTURE]Cultura de Pastos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE">
+			<Text>+4 de [ICON_PEACE]Fé de Maravilhas Naturais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEED_WORLD">
+			<Text>Santuários e Templos fornecem, cada um, +1 de [ICON_FOOD]Alimento em cidades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FORMAL_LITURGY">
+			<Text>+1 de [ICON_CULTURE]Cultura e +1 de [ICON_PEACE]Fé para cada Ouro e Prata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES">
+			<Text>+2 de [ICON_PEACE]Fé de Minas a Céu Aberto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_WAR">
+			<Text>Obtenha [ICON_PEACE]Fé se você vencer uma batalha a 4 hexágonos de distância de sua cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES">
+			<Text>Taxa de [ICON_FOOD]Crescimento 15% mais rápida na cidade, se não estiver em guerra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_ANIMALS">
+			<Text>Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HARVEST_FESTIVAL">
+			<Text>Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS">
+			<Text>+1 de [ICON_HAPPINESS_1]Felicidade de cidades em rios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_LOVE">
+			<Text>+1 de [ICON_HAPPINESS_1]Felicidade de cidades com população superior a 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS">
+			<Text>Crescimento das fronteiras 15% mais rápido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FESTIVALS">
+			<Text>+1 de [ICON_CULTURE]Cultura e +1 [ICON_PEACE]Fé por cada Vinho e Incenso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION">
+			<Text>+1 de [ICON_CULTURE]Cultura de Plantações</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP">
+			<Text>+1 de [ICON_CULTURE]Cultura de Santuários</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE">
+			<Text>+1 de [ICON_PEACE]Fé de hexágonos desérticos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH">
+			<Text>+1 de [ICON_CULTURE]Cultura de hexágonos com Selva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY">
+			<Text>+30% de aumento na [ICON_RANGE_STRENGTH]Força de Combate a Distância da cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALERS">
+			<Text>+30 HP's curados por turno se estiver adjacente a uma cidade amiga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MONUMENT_GODS">
+			<Text>+15% de [ICON_PRODUCTION]Produção de Maravilhas Antigas/Clássicas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIQUARY">
+			<Text>Ganhe 50 de [ICON_PEACE]Fé cada vez que uma Grande Pessoa for consumida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING">
+			<Text>+1 de [ICON_HAPPINESS_1]Felicidade Global para cada 5 devotos desta religião em cidades estrangeiras não inimigas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FLOURISHING_OF_ARTS">
+			<Text>+10% de [ICON_CULTURE]Cultura se não estiver em guerra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CEREMONIAL_BURIAL">
+			<Text>+1 de [ICON_HAPPINESS_1]Felicidade Global para cada cidade devota desta religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_PROPERTY">
+			<Text>+2 de [ICON_GOLD]Ouro para cada cidade devota desta religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE">
+			<Text>+1 de [ICON_GOLD]Ouro para cada 4 devotos desta religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INITIATION_RITES">
+			<Text>+100 de [ICON_GOLD]Ouro de cada cidade que se converter para esta religião pela primeira vez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_JUST_WAR">
+			<Text>+20% de [ICON_STRENGTH]Força de Combate quando próximo a cidades inimigas devotas desta religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DEFENDER_FAITH">
+			<Text>+20% de [ICON_STRENGTH]Força de Combate quando próximo a cidades amigas devotas desta religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS">
+			<Text>Religião é disseminada a cidades 30% mais distantes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MESSIAH">
+			<Text>Profetas 25% mais fortes e custam 25% menos [ICON_PEACE]Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MISSIONARY_ZEAL">
+			<Text>+25% de força de conversão do Missionário</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ORDER">
+			<Text>Missionários e Inquisidores custam 30% menos [ICON_PEACE]Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_UNITY">
+			<Text>Religião é disseminada a Cidades-Estado amigas no dobro da velocidade normal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MOSQUES">
+			<Text>Use [ICON_PEACE]Fé para comprar Mesquitas (+3 de [ICON_PEACE]Fé, +2 de [ICON_CULTURE]Cultura, +1 de [ICON_HAPPINESS_1]Felicidade)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PAGODAS">
+			<Text>Use [ICON_PEACE]Fé para comprar Pagodes (+2 de [ICON_PEACE]Fé, +2 de [ICON_CULTURE]Cultura, +2 de [ICON_HAPPINESS_1]Felicidade)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MONASTERIES">
+			<Text>Use [ICON_PEACE]Fé para comprar Monastérios (+2 de [ICON_PEACE]Fé, +2 de [ICON_CULTURE]Cultura, mais com [ICON_RES_WINE]Vinho ou [ICON_RES_INCENSE]Incenso)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PEACE_GARDENS">
+			<Text>Jardins fornecem +2 de [ICON_HAPPINESS_1]Felicidade na cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHORAL_MUSIC">
+			<Text>Templos fornecem +2 de [ICON_CULTURE]Cultura em cidades com 5 devotos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
+			<Text>Anfiteatros fornecem +1 de [ICON_PEACE]Fé em cidades com 3 devotos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ASCETISM">
+			<Text>Santuários fornecem +1 de [ICON_HAPPINESS_1]Felicidade em cidades com 3 devotos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER">
+			<Text>Templos fornecem +2 de [ICON_HAPPINESS_1]Felicidade em cidades com 5 devotos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PAPAL_PRIMACY">
+			<Text>+15 na [ICON_INFLUENCE]Influência base com Cidades-Estado devotas desta religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA">
+			<Text>+1 de [ICON_PEACE]Fé de hexágonos com Tundra sem Floresta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH">
+			<Text>+1 de [ICON_CULTURE]Cultura de cada 5 devotos desta religião em outras civilizações</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIMAGE">
+			<Text>+2 de [ICON_PEACE]Fé de cada cidade estrangeira devota desta religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTERFAITH_DIALOGUE">
+			<Text>Obtenha [ICON_RESEARCH]Ciência quando um Missionário ou um Profeta dissemina esta religião a cidades de outras religiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_WARRIORS">
+			<Text>Use [ICON_PEACE]Fé para comprar unidades terrestres pré-industriais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_COMMUNITY">
+			<Text>+1% de [ICON_PRODUCTION]Produção de cada devoto (máximo: +15%)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DIVINE_INSPIRATION">
+			<Text>Cada Maravilha Mundial fornece +2 de [ICON_PEACE]Fé na cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURUSHIP">
+			<Text>+2 de [ICON_PRODUCTION]Produção se a cidade possuir um Especialista</Text>
+		</Row>
+		<!-- RELIGION related notifications -->
+		<Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>Você possui fé suficiente para fundar um panteão!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>FUNDAR UM PANTEÃO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_FAITH_FOR_MISSIONARY">
+			<Text>Você acumulou [ICON_PEACE]Fé suficiente para comprar uma unidade ou edifício. Compre um na cidade devota da religião apropriada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_FAITH_FOR_MISSIONARY">
+			<Text>Minhas Compras Com Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEED_NEW_AUTOMATIC_FAITH_SELECTION">
+			<Text>Sua seleção anterior para compra automática com fé ({1_SelectionText}) não é mais válida. Vá até a seção Religião se você quiser alterá-la para um novo item.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NEED_NEW_AUTOMATIC_FAITH_SELECTION">
+			<Text>Nova Seleção Automática Para Fé Necessária</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_AUTOMATIC_FAITH_PURCHASE">
+			<Text>{1: gender feminine?Uma; other?Um;} {1_Name} foi {1: gender feminine?comprada; other?comprado;} {2: gender *:noart?em; feminine?{2: plural 2?nas; other?na;}; masculine?{2: plural 2?nos; other?no;}; other?em;} {2_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_AUTOMATIC_FAITH_PURCHASE">
+			<Text>Compra Automática com Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_RELIGION">
+			<Text>Você pode fundar uma religião agora!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_RELIGION">
+			<Text>FUNDAR UMA RELIGIÃO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENHANCE_RELIGION">
+			<Text>Você pode adicionar mais crenças a sua religião agora!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENHANCE_RELIGION">
+			<Text>APERFEIÇOAR UMA RELIGIÃO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_BELIEF_IN_USE">
+			<Text>Outro jogador pegou a crença que você escolheu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PANTHEON_BELIEF_IN_USE">
+			<Text>Crença já escolhida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_IN_USE">
+			<Text>Outro jogador pegou a religião que você escolheu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RELIGION_IN_USE">
+			<Text>Religião já escolhida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NOT_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>Você já não possui fé suficiente para fundar um panteão.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NOT_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>Sem fé suficiente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NO_RELIGIONS_AVAILABLE">
+			<Text>Não há mais religiões suficientes disponíveis para este jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NO_RELIGIONS_AVAILABLE">
+			<Text>Nenhuma religião disponível</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ALREADY_CREATED_RELIGION">
+			<Text>Você já fundou uma religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ALREADY_CREATED_RELIGION">
+			<Text>RELIGIÃO JÁ FUNDADA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ALREADY_CREATED_PANTHEON">
+			<Text>Você já fundou um panteão.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ALREADY_CREATED_PANTHEON">
+			<Text>Panteão já fundado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_NAME_IN_USE">
+			<Text>Uma religião com este nome já foi criada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RELIGION_NAME_IN_USE">
+			<Text>Nome de religião já em uso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENHANCED_RELIGION_IN_USE">
+			<Text>Uma religião foi aperfeiçoada por outro jogador.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENHANCED_RELIGION_IN_USE">
+			<Text>Religião aperfeiçoada existe</Text>
+		</Row>
+		<!-- Other notifications -->
+		<Row Tag="TXT_KEY_NOTIFICATION_DISCOVER_FREE_TECH">
+			<Text>Você pode escolher uma tecnologia gratuita!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DISCOVER_FREE_TECH">
+			<Text>ESCOLHA UMA TECNOLOGIA GRATUITA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED">
+			<Text>{1_PlayerName} conquistou {2_CityName} e restaurou a soberania {3_CivAdj[2]}. A chama de {4_CivName}, outrora apagada, queima novamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED_SHORT">
+			<Text>{1_PlayerName} foi {1: gender feminine?libertada; other?libertado;} por {2_PlayerName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_LIBERATED">
+			<Text>{1_PlayerName} conquistou {2_CityName} e restaurou a soberania {3_CivAdj[2]}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CIV_LIBERATED_SHORT">
+			<Text>{1_CityName} retornou a {2_PlayerName}</Text>
+		</Row>		
+		<!-- RELIGION related UI elements -->
+		<Row Tag="TXT_KEY_CONFIRM_PANTHEON">
+			<Text>Tem certeza que deseja adotar a crença [COLOR_GREEN]{1_BeliefName}[ENDCOLOR]?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GREATPROPHETS_TEXT">
+			<Text>"Grandes Profetas" exploram as fronteiras da crença religiosa, transmitindo seu discernimento único para guiar a moral e a ética de uma civilização. Eles fundam religiões, espalham a palavra de Deus e alimentam a fé do povo. Eles trazem esperança às nações mesmo nos tempos mais difíceis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TOOLTIP_LINE">
+			<Text>{1_ReligionIcon} {2_NumFollowers} Devotos {3_PressureString}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGIOUS_PRESSURE_STRING">
+			<Text>(+{1_Pressure} Pressionando)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_CITY_TOOLTIP_LINE">
+			<Text>Cidade Santa do {1_ReligionIcon} {2_ReligionName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_NO_FOLLOWERS">
+			<Text>Nenhum devoto religioso nesta cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GREATSCIENTIST_HEADING4_BODY">
+			<Text>Um Grande Cientista pode lhe dar um avanço considerável rumo a sua próxima tecnologia ou você pode consumi-lo para construir a melhoria Academia, que proporciona pontos de ciência por turno quando o hexágono é explorado. Veja a seção sobre "Grandes Pessoas" para mais detalhes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_RANGESTAT_HEADING3_BODY">
+			<Text>O "alcance" de uma unidade determina a distância que ela pode lançar um ataque a distância. Um alcance de "2" significa que o alvo pode estar no hexágono adjacente ou em um hexágono de distância. Um alcance de "1" significa que o alvo deve estar do lado do atacante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_DESERT_HEADING3_BODY">
+			<Text>Em geral, terrenos desérticos são notadamente inúteis. Eles não fornecem nenhum benefício às cidades (a não ser que o deserto possua um oásis ou algum recurso, claro, ou acesso à água fresca).[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_HEADING3_BODY">
+			<Text>Geralmente, pradarias produzem mais alimento que qualquer outro tipo de terreno. Cidades construídas próximas às pradarias tendem a crescer mais rapidamente que outras edificadas em outro lugar.[NEWLINE][NEWLINE]Rendimento: 2 de alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_BODY">
+			<Text>Planícies fornecem uma mistura de alimento e produção para uma cidade próxima. Uma cidade cercada de planícies crescerá mais lentamente que uma na pradaria, mas será bem mais produtiva.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento, 1 de Produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_BODY">
+			<Text>A neve é bastante improdutiva, sem nenhum benefício de alimento ou produção para a cidade próxima. Claro que um terreno com neve pode possuir um recurso útil, mas, caso contrário, ele será apenas frio e inaproveitável.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_TUNDRA_HEADING3_BODY">
+			<Text>A tundra é a terra semicongelada dos climas mais frios do mundo. É menos útil que as planícies ou pradarias, mas um pouco melhor que os desertos. Ninguém constrói cidades na tundra, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
+			<Text>Há seis tipos de unidades não combatentes: Colonizadores, Trabalhadores, Barcos Operários, Grandes Pessoas, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_NARROW_CONTINENTS_HELP">
+			<Text>O mundo é formado por continentes grandes e estreitos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_WIDE_CONTINENTS_HELP">
+			<Text>O mundo é formado por continentes largos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_SMALL_ISLANDS_HELP">
+			<Text>O mundo é formado por pequenas ilhas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GA_PROGRESS">
+			<Text>Progresso do Grande Almirante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMACY_OPENBORDERS_HEADING3_BODY">
+			<Text>Quando você ou outra civilização pesquisar a tecnologia Cargos Públicos, você pode realizar um acordo de Abertura de Fronteiras com qualquer civilização em que você tenha estabelecido uma Embaixada (Cidades-Estado não fazem acordos de Abertura de Fronteiras). Enquanto um acordo de Abertura de Fronteiras estiver ativo, as unidades da outra civilização podem entrar em seu território sem que automaticamente declarem guerra. Se o acordo é mútuo, as unidades de qualquer uma das civilizações poderão entrar no território da outra livremente; entretanto, o acordo não precisa ser recíproco: uma civilização pode concedê-lo à outra sem receber um automaticamente em troca. [NEWLINE][NEWLINE]Um acordo de Abertura de Fronteiras dura 20 turnos. Quando 20 turnos se passaram, o acordo deve ser renegociado ou ele acabará.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITS_MOVEMENT_HEADING2_BODY">
+			<Text>Geralmente, unidades se movem de um hexágono a outro, pagando o "Custo de Movimento" requerido para entrar no novo hexágono. Unidades estão sujeitas às limitações de pilhagem - duas unidades militares ou não militares não podem terminar o turno no mesmo hexágono, mas uma militar e outra não militar podem. Note que unidades militares embarcadas, assim como Grandes Generais e Grandes Almirantes, são todas consideradas unidades não militares e podem ser empilhadas com uma unidade militar para proteção.[NEWLINE][NEWLINE]A maioria das unidades é limitada pelos lugares onde podem ir - unidades terrestres não podem entrar em hexágonos montanhosos e unidades navais não podem transitar por hexágonos terrestres (exceto nas cidades portuárias). Melhorias, como estradas e ferrovias aceleram a velocidade das unidades pelos hexágonos do mapa.[NEWLINE][NEWLINE]Dê uma olhada na seção "Movimento" para detalhes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVEMENT_EMBARKING_HEADING3_BODY">
+			<Text>No início do jogo, suas unidades terrestres não podem entrar em nenhum hexágono aquático. Entretanto, assim que você aprender a tecnologia Ótica, você poderá conseguir a promoção que permite às unidades terrestres "embarcarem" e se moverem por hexágonos aquáticos costeiros. Para embarcar uma unidade, mova-a para um hexágono adjacente à costa e clique no botão "Embarcar". Quando embarcada, a unidade deverá se mover pela água. (A tecnologia Ótica permite movimentos somente em áreas costeiras. Depois, a tecnologia Astronomia permitirá às unidades embarcadas entrarem em hexágonos oceânicos.)[NEWLINE][NEWLINE]Na água, a unidade embarcada é bastante lenta e quase indefesa. É capaz de se defender até certo ponto, mas não pode atacar, e não deve ser deixada sozinha por muito tempo no mar. É crucial acompanhar unidades terrestres embarcadas com uma defesa naval forte.[NEWLINE][NEWLINE]Quando a unidade estiver adjacente a um hexágono terrestre, você pode selecionar a ação "Desembarcar". A unidade então será capaz de voltar à terra seca. Você pode também clicar com o botão direito num hexágono terrestre e a unidade desembarcará automaticamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PERMANENTWAR_HEADING4_BODY">
+			<Text>Você enfureceu tanto uma Cidade-Estado que ela nunca aceitará fazer as pazes com você. Isto ocorre quando você declara guerra a muitas Cidades-Estado a seu redor - a notícia se espalha e o seu nível de influência mínima com grandes grupos de Cidades-Estado cai permanentemente de 0 para -20 (o que quer dizer que sua influência pode ficar abaixo de 0).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PERMANENTWAR_HEADING4_TITLE">
+			<Text>Cauteloso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WAR_HEADING4_BODY">
+			<Text>Quando está em guerra com uma Cidade-Estado, sua influência continuará negativa e ela não lhe dará nada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WAROFTHE_HEADING2_BODY">
+			<Text>Você pode declarar guerra a uma Cidade-Estado a qualquer momento. Você pode fazer isso através do Painel de Diplomacia ou ordenando a uma de suas unidades que ataque uma unidade dela ou a própria Cidade-Estado. Você pode propor a paz a uma Cidade-Estado clicando no Painel de Diplomacia ou clicando sobre a cidade.[NEWLINE][NEWLINE]É importante lembrar que, se atacar muitas Cidades-Estado, muitas ficarão irritadas com você, causando o nível de sua influência mínima cair permanentemente de 0 para -20.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_HEADING4_TITLE">
+			<Text>Habilidade Especial: Ciência Gratuita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_HEADING4_BODY">
+			<Text>Você pode consumir seu Grande Cientista para obter um bocado de pontos de ciência, equivalente à média de produção de ciência da sua civilização nos últimos oito turnos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
+			<Text>Nós não possuímos nenhuma fonte de {1_ResourceName:textkey} e há uma próxima {2: gender *:noart?a; feminine?{2: plural 2?às; other?à;}; masculine?{2: plural 2?aos; other?ao;}; other?a;} {2_CityName:textkey}. Envie um Trabalhador (terra) ou um Barco Operário (mar) para explorar aquele hexágono e, assim, termos acesso àquele recurso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMACY_DISCUSS_HEADING3_BODY">
+			<Text>Este botão lhe permite abrir um diálogo em uma variedade de tópicos. Dependendo de certas circunstâncias você pode fazer uma das seguintes ações: (a resposta do líder irá depender da sua relação com você e dos seus próprios interesses) [NEWLINE]- Pedir a um líder que assine uma Declaração de Amizade.[NEWLINE]- Pedir a um líder que vá à guerra contra outra civilização.[NEWLINE]- Compartilhar intrigras com um líder.[NEWLINE]- Pedir que um líder não construa mais cidades próximas a você.[NEWLINE]- Denunciar um líder com o qual você não esteja feliz.[NEWLINE]- Pedir a um líder que pare de espionar você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_BODY">
+			<Text>Montanhas são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las (a exceção é o Império Cartaginês). Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável (exceto por unidades aéreas e aos Cartagineses)[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_CITYBANNER_HEADING2_BODY">
+			<Text>O título da cidade aparece no Mapa Principal. Ele fornece uma visão útil sobre o que está acontecendo na cidade.[NEWLINE][TAB][TAB][TAB][TAB] Nome[NEWLINE][TAB][TAB][TAB][TAB] Força Defensiva [NEWLINE][TAB][TAB][TAB][TAB] Unidade alojada na cidade[NEWLINE][TAB][TAB][TAB][TAB] Item sendo construído na cidade*[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para completar a construção*[NEWLINE][TAB][TAB][TAB][TAB] Tamanho da cidade[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para cidade crescer*[NEWLINE][TAB][TAB][TAB][TAB] Religião da cidade**[NEWLINE][TAB][TAB][TAB][TAB] * Não é exibido nas cidades estrangeiras.[NEWLINE][TAB][TAB][TAB][TAB] ** Não é exibida até que um Panteão ou Religião esteja presente na cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDINGS_PREREQUISITES_HEADING2_BODY">
+			<Text>À exceção única do Monumento, que não possui pré-requisitos e está disponível para construção no início do jogo, você precisa de conhecimento de uma tecnologia específica para construir um edifício. Por exemplo, você precisa pesquisar o Bronze para poder construir um Quartel.[NEWLINE][NEWLINE]Alguns edifícios possuem pré-requisitos de recursos também - por exemplo: uma cidade precisa possuir um recurso explorado de Cavalos ou Marfim próximo para construir um Circo.[NEWLINE][NEWLINE]Além disso, alguns edifícios possuem pré-requisitos de outros edifícios. Você não pode construir um Templo em uma cidade sem construir um Santuário nela antes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_SPECIALISTS_HEADING2_BODY">
+			<Text>Especialistas são cidadãos que foram designados para trabalhar em um edifício construído em suas cidades. Há quatro tipos de especialistas em Civilization V: Cientistas, Mercadores, Artistas e Engenheiros. Um Museu, por exemplo, permite que um ou dois cidadãos sejam designados para trabalhar como Artistas neste edifício. Nem todos os edifícios permitem que especialistas sejam designados a eles. Veja os dados de cada edifício para mais detalhes.</Text>		
+		</Row>			
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MOVINGGREATPEOPLE_HEADING2_BODY">
+			<Text>Grandes Pessoas podem se mover como qualquer outra unidade. Não são unidades de combate, ou seja, não podem ficar empilhadas em um hexágono com outra unidade não combatente (Trabalhadores, Colonizadores etc.), mas podem se empilhar com uma unidade militar. Se uma unidade inimiga entrar no hexágono de uma Grande Pessoa, esta será automaticamente destruída (o inimigo não a captura). A exceção desta regra é o Grande Profeta, que pode ser capturado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_GARRISONINCITIES_HEADING3_BODY">
+			<Text>O dono de uma cidade pode estacionar uma unidade militar dentro da cidade para apoiar sua defesa. Parte da força de combate da unidade alojada é adicionada à força da cidade. A unidade alojada não receberá dano quando a cidade for atacada. Entretanto, se a cidade for capturada, a unidade será destruída.[NEWLINE][NEWLINE]Uma unidade alojada pode atacar unidades inimigas próximas sem que a cidade perca o bônus de alojamento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
+		  <Text>Recuar Antes de Ataque Corpo-a-Corpo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
+		  <Text>A unidade irá recuar quando for sofrer um ataque corpo-a-corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
+		</Row>		
+	</Language_en_US>
+</GameData>

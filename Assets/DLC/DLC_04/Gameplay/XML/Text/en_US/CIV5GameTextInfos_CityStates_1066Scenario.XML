@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_POWYS">
+			<Text>Powys</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_POWYS_ADJ">
+			<Text>Powysiense|Powysiense</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_POWYS_DESC">
+			<Text>O Império Romano conquistou um território na Grã-Bretanha entre as montanhas Cambrianas e Midlands Ocidental e construiu uma capital,  chamada de Cornoviorum Viroconium, no local onde hoje fica a moderna Wroxeter. Como o poder romano na Grã-Bretanha desapareceu na Idade das Trevas, um novo estado surgiu nas terras tradicionais dos Ordovices e Cornoviis, estendendo-se desde as montanhas Cambrianas até Midlands Ocidental. Na metade do século V d.C., Powys foi solidamente estabelecido como um reino da Grã-Bretanha.[NEWLINE][NEWLINE] A primeira e maior casa reinante de Powys foi a Gwerthrynion, que reivindica o legendário Vortigern como seu fundador. O histórico senhor da guerra Vortigern se tornaria mais tarde o modelo para o literário Rei Arthur e o embelezamento literário de Arthur também fez algo para mitificar o reino de Powys. [NEWLINE][NEWLINE] No início do século VI, Powys foi devastado pelos Northumbrianos e teve porções de terra anexadas por seus antigos aliados, os Mercians, mas Powys reinvadiram as terras, reconquistando territórios da Inglaterra até que um acordo mútuo estabelecesse uma fronteira em Dique de Offa, na metade do século VII. Dique de Offa permanece até hoje a fronteira entre o País de Gales e Inglaterra.[NEWLINE][NEWLINE] Powys foi finalmente incluído pelo Reino de Gwynedd com a morte do último rei Gwerthyrnion, em 855. Quando Howell - O Bom, tornou-se rei de Gwynedd em 942, ele já governava a maior parte das terras que compunham o moderno País de Gales. Por meio de políticas habilidosas e reformas legais, ele fez seu reino muito poderoso, codificando a Lei de Gales e criando a primeira moeda indígena gaulesa, desde a Idade do Bronze. Após a morte de Howell, Powys foi dado a um de seus filhos, mas o maior reino de Gales foi remontado por seu neto Maredudd ab Owain. [NEWLINE][NEWLINE] Ao longo do tempo, o poder das grandes famílias de Gales diminuiu e os invasores da Irlanda e os Vikings tomaram o trono de Powys. Até o momento da invasão normanda, as guerras constantes destruíram o reino e William - O Conquistador estava contente em deixar o País de Gales para que seus barões lidassem com os problemas. Eles, por sua vez, fizeram picadinho dele.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_GWYNEDD">
+			<Text>Gwynedd</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_GWYNEDD_ADJ">
+			<Text>Gwyneddiano|Gwyneddiana</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_GWYNEDD_DESC">
+			<Text>Os romanos chamavam as terras de Ordovices, Gangani e Deceangli "Venedotia", mas o terreno montanhoso no mar da Irlanda não era uma terra sob seu controle. Como o poder romano havia desaparecido na Grã-Bretanha, o Reino de Gwynedd surgiu, fundado pelo lendário Cunedda de Lothia. O nome tem sido interpretado no sentido de "Terra dos Anfitriões da Guerra", embora o significado exato tenha se perdido no tempo. [NEWLINE][NEWLINE] Gwynedd rapidamente se tornou proeminente entre os pequenos reinos de Gales. Maelgwyn - O Alto, em particular, tornou-se objeto de muitos mitos e lendas e foi descrito por Gildas como um dos cinco maiores reis Britânicos. Gildas também deu a Maelgwyn um apelido curioso: "Dragão da Ilha", que pode ter sido transformado, ao longo do tempo, para "Pendragon" da literatura. Mas a morte de Maelgwyn em 547 deixou um vácuo e em seguida uma série de guerras de sucessão ocorreu. Gwynedd fez alianças com Powys para lutarem contra os anglos, no início do século VI, e Cadwallon ap Cadfan lançou um ataque furioso sobre os Northumbrianos, saqueando York em 633 e devastando as suas terras. Ele e seu filho Cadwaladr Fendigad se tornaram os últimos dois Grandes Reis da Grã-Bretanha.[NEWLINE][NEWLINE]A casa de Cunedda acabou no início do século VIII e a casa de Aberffraw (distantemente relacionados por ascendência) teve de lidar com incursões dos vikings e Irlandeses, além de governar o seu reino subsidiário em Powys e lutar com as outras famílias galesas até ser derrubada por Howell - O Bom, que aproveitou a oportunidade para arrumar o local e modernizá-lo, como o reino de Wessex que possuía coisas modernas, como as leis codificadas e seu próprio dinheiro.[NEWLINE][NEWLINE] Com a invasão normanda, Gwynedd voltou a ter novas disputas internas entre os seus nobres e William - O Conquistador deixou seus barões subjugarem Gales da forma que quisessem. Porém, a autoridade Normanda somente se mantinha fragilmente nas altas montanhas de Gwynedd e nos corações do seu povo, que ainda se lembrava de quando eles eram reis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_NORTHUMBRIA">
+			<Text>Nortúmbria</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_NORTHUMBRIA_ADJ">
+			<Text>Nortumbriano|Nortumbriana</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_NORTHUMBRIA_DESC">
+			<Text>Os reinos vizinhos de Deira e Bernecia estavam unidos pela força quando o rei Aethelfrith de Bernicia conquistou Deira, em 604. Mas essa vitória durou pouco tempo e quando Aethelfrith foi morto em 616, o filho do antigo rei de Deira, Edwin, foi proclamado rei das terras unificadas. Entretanto, somente após o governo do rei Oswald, em 634, é que Nortúmbria foi consolidada em um reino anglo único. Oswald expandiu rapidamente seu reino e o cristianizou com a ajuda de Saint Aidan de Iona. [NEWLINE][NEWLINE]Nortúmbria estava frequentemente em guerra contra Mercia. Oswald foi morto em batalha contra os Mercians em 650 e os Pictos se levantaram e derrotaram os Nortumbrianos em 685. Houve um breve período de estabilidade sob o reinado de Aldfrith, mas Nortúmbria havia perdido o seu prestígio e poder e foi conquistada pelos irmãos dinamarqueses Halfdan Ragnarsson e Ivar - O Sem Ossos. Houve um levante breve em Aella de Nortúmbria, que foi brutalmente reprimido. Sujeitos às leis dinamarquesas, uma série de reis marionetes governou Nortúmbria até a chegada de Erik Bloodaxe, em 954. A partir de então, Nortúmbria deixou de ser um reino e se tornou um mero condado.[NEWLINE][NEWLINE]William - O Conquistador rapidamente voltou seus  olhos para Nortúmbria, reconhecendo-a como uma base valiosa contra o Norte e como um símbolo de resistência ao seu governo. Ele tentou instalar um dos seus barões como um regente, mas o barão e 700 de seus empregados foram mortos na cidade de Durham. Isso levou William a empreender uma campanha punitiva em Nortúmbria, particionando-a em um condado de Durham. Os Normandos construíram a cidade de Newcastle para garantirem seu domínio sobre esse novo território, mas a espera foi hesitante. As terras de Nortúmbria foram por muito tempo local de fronteira, rebelando-se contra o governo do Sul e combatendo na guerra da fronteira com os Escoceses, ao Norte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_GALLOWAY">
+			<Text>Galloway</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_GALLOWAY_ADJ">
+			<Text>Gallowayano|Gallowayana</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_GALLOWAY_DESC">
+			<Text>Na ponta sudoeste da Escócia está Gall-Ghaidhealaibh - a terra dos galeses estrangeiros. Isolada por sua costa acidentada e fronteira montanhosa com o norte, foi, no entanto, desenhada no mapa da Grã-Bretanha, de Ptolomeu. Os romanos chamavam os habitantes de Novantes e o missionário Saint Ninian construiu uma igreja naquele local, mas muito de sua história está envolta em lenda. Os poetas galeses acreditavam que um dos três tronos do Rei Arthur, da Grã-Bretanha, ficava em Galloway, chamado Pen Rhionydd. [NEWLINE][NEWLINE]Em algum momento no final do século VII, Galloway foi arrancada do controle dos Britânicos pelo Reino de Bernícia, que forçou o deslocamento dos nativos, da terra plana e arável para as montanhas. Mas o afastamento da região significava que era uma presa fácil para os Vikings e os Irlandeses (especialmente os Vikings da Irlanda), para quem o território era apenas um pequeno salto através do Mar da Irlanda.[NEWLINE][NEWLINE]Os Galeses Nórdicos (Gall-Gaedhil), são os habitantes mais conhecidos de Galloway. Os Nórdicos controlavam o mar da Irlanda e seus assentamentos apontavam suas extremidades. Embora compartilhassem a "Gaulência" com os Escoceses, eram indiscutivelmente um povo único, navegando de suas terras isoladas para causar estragos na costa da Grã-Bretanha. Este isolamento significava que os senhores de Galloway foram efetivamente reis até o final da Idade Média, iniciando com Suibne mac Cináeda no início do século X e estendendo até o XII. Embora nominalmente sob o domínio do Alto Rei da Escócia, eles poderiam ignorar ou pagar o tributo a ele como o seu poder permitia.[NEWLINE][NEWLINE]A Lei de Galloway durou mais de dois séculos após os seus senhores perderem o poder, uma homenagem ao esplêndido isolamento e o povo de Galloway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_SCOTLAND">
+			<Text>Escócia</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_SCOTLAND_ADJ">
+			<Text>Escocês|Escocesa</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_SCOTLAND_DESC">
+			<Text>Há pessoas vivendo no norte da Grã-Bretanha desde o final da última era glacial, cerca de 8.500 anos antes dos Romanos aparecerem na ilha. Ruínas neolíticas na Escócia antecedem o famoso Skara Brae dos Órcades e evidências arqueológicas revelam a existência de comunidades rivais que viviam em aldeias fortificadas durante a Idade do Ferro.[NEWLINE][NEWLINE] Os Caledônios lutaram muito e, muitas vezes com sucesso, contra os Romanos na Grã-Bretanha, obrigando-os a recuar de seus fortes e postos para trás das Muralhas de Adriano. A terra foi ocupada pelos Pictos e Bretões posteriormente, até a Idade das Trevas, quando os Irlandeses, os Anglo-saxões e, em seguida, os Vikings invadiram e criaram assentamentos permanentes na Escócia. A missão de Saint Ninian trouxe o Cristianismo para a região, por volta de 450 d.C., embora os Pictos aparentemente o tenham recusado até a chegada de Saint Columba, em 563.[NEWLINE][NEWLINE]Diz a lenda que os Pictos foram traídos pelo rei Escocês Kenneth Mac Alpin, que convidou o rei Picto Drest e os seus nobres para uma festa, embriagou todos e, e em seguida, puxou os pinos de suas bancadas, enviando-os a poços com lanças escondidos embaixo da mesa. A verdade é um pouco menos fantasiosa: Alpin Mac reclamou a coroa de ambos os reinos e conseguiu combiná-los no que viria a ser o Reino de Alba.[NEWLINE][NEWLINE]O Reino de Alba se tornou o núcleo do que é reconhecido como Escócia. Por meio de conquista e expansão, o reino de Strathclyde foi adicionado e a fronteira sul empurrada para o rio Tweed - a atual fronteira sudeste da Escócia.[NEWLINE][NEWLINE]O Rei Duncan liderou uma expedição para tentar saquear as terras de seu rival Macbeth, por volta de 1039. A expedição foi um desastre completo para Duncan, que foi morto em batalha, e Macbeth, em seguida, se tornou o rei dos Escoceses. Note-se que o conflito entre Macbeth e Duncan foi a base para a peça de Shakespeare, e é historicamente preciso se você ignorar detalhes tão simples como a idade de Duncan e Macbeth, a relação declarada entre os dois homens e toda a cronologia dada na peça. O filho de Duncan, Malcolm, seguiu Macbeth como rei da Escócia (pelo menos isso Shakespeare conseguiu entender direito). E como o rei James foi patrono de Shakespeare, uma reinterpretação colorida da história que lisonjeava o homem que pagava as contas, talvez seja compreensível.[NEWLINE][NEWLINE]Quando William - O Conquistador invadiu a Grã-Bretanha, Edgar - O Nobre buscou refúgio na Escócia, com um olho para reivindicar a seu realeza para o sul, mas em 1072, William tinha invadido com sucesso na Escócia e forçou Malcolm (que havia se tornado rei em 1057) a pagar-lhe tributos e reféns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_MUNSTER">
+			<Text>Munster</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_MUNSTER_ADJ">
+			<Text>Munsteriano|Munsteriana</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_MUNSTER_DESC">
+			<Text>Munster, no sudoeste da Irlanda, é um dos cinco grandes reinos da Irlanda. No segundo século, Ptolomeu registrou a terra como pertencente à tribo Iverni. Segundo a lenda, Bodb Derg foi o segundo rei dos Tuatha De Danann e o primeiro dos reis de Munster. A Dinastia Eoganachta  governou a partir do século VII, após as conquistas de Failbe Flann mac Aedo Duib. A Eoganachta se tornaria um dos clãs mais importantes da Irlanda, embora nunca tenha se tornado reis soberanos.[NEWLINE][NEWLINE]Os Vikings invadiram a partir do século VIII e fundariam as cidades de Cork, Waterford e Limerick.[NEWLINE][NEWLINE]O último rei soberano da Irlanda, Brian Boru, primeiro se proclamou rei de Munster antes que ele fosse capaz de lutar pelo controle da realeza de Neill Ui. Seus descendentes, os O'Brians, foram governantes hereditários de Munster também, até a dissolução do reino no início do século XII.[NEWLINE][NEWLINE]Em 1118, Munster se partiu em três reinos menores: Thomond, Desmond e Omond.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_MEATH">
+			<Text>Meath</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_MEATH_ADJ">
+			<Text>Meathiano|Meathiana</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_MEATH_DESC">
+			<Text>Por 1.000 anos, Mide, ou Meath, foi o Reino central da Irlanda, tanto geográfica como espiritualmente. A tradição data a fundação de Meath no primeiro século d.C., por Tuathal Techtmar, ancestral do grande Niall dos Nove Reféns. Tuathal criou para si um reino das terras saqueadas de Ulster, Leinster, Connacht e Munster, nomeando Meath o território resultante. Os reis Ui Neill do Sul eram os governantes tradicionais de Meath.[NEWLINE][NEWLINE]A importância de Meath para os reis soberanos da Irlanda foi ainda mais reforçada porque a Colina de Tara estava situada lá. Hill of Tara é um complexo túmulos e montes terraplanados que remonta à Idade do Ferro, e tradicionalmente era o lugar onde o Rei Soberano era coroado. Hill of Tara tem sido utilizado como um local de ritual desde o Neolítico e foi o coração espiritual da Irlanda até o século XII, embora a sua importância tenha diminuído com a ascensão dos Britânicos e da expansão do Cristianismo.[NEWLINE][NEWLINE]Independentemente de os reis soberanos Irlandeses estabelecerem suas cortes em Hill of Tara ou não, a localização central de Meath na Irlanda e sua proximidade com os assentamentos Nórdico-Irlandeses tornou-a um reino de grande importância. A Batalha de Clontarf foi travada em seu território, onde o último Rei Soberano da Irlanda, Brian Boru, caiu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_CONNACHT">
+			<Text>Connacht</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_CONNACHT_ADJ">
+			<Text>Connachtiano|Connachtiana</Text>
+			<Text>Munsteriano|Munsteriana</Text>
+            <Gender>masculine|feminine</Gender>
+            <Plurality>1|1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_CONNACHT_DESC">
+			<Text>Grandes complexos de túmulos no noroeste da Irlanda mexem com a presença de pessoas lá desde a retração das geleiras, no fim da última era glacial. Lendas irlandesas dizem que quando os Tuatha De Dannan invadiram a região e lutaram contra os Fir Bolg, eles ficaram tão impressionados com os Fir Bolg que lhes deram um quarto da ilha - a área que viria a ser o reino de Connacht.[NEWLINE][NEWLINE]Referências ambíguas à região começaram por volta do século VI na revista Anais de Ulster, marcando a morte dos senhores de destaque daquele reino. Os Vikings chegaram a Connacht no início do século IX e neste período a casa governante de Connacht foi fundada por Conchobar mac Taidg Mor, e Conchobair governou Connacht até meados do século XV. Os governantes de Connacht guerreavam frequentemente contra os outros reinos Irlandeses, bem como os Britânicos e os Vikings que estavam se estabelecendo na Irlanda.[NEWLINE][NEWLINE]Em Connacht, há dois megálitos misteriosos: a Pedra Turoe e a Pedra Castlestrange, que estão cobertas com esculturas de um estilo e data comumente associados à Europa continental da Idade do Ferro. As pedras provavelmente foram trazidas para a Irlanda e movidas ao longo do tempo, longe das sucessivas ondas de invasores que vieram para a região.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

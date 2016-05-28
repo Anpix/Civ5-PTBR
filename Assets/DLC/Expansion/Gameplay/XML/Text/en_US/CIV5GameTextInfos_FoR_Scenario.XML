@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>SCENARIO DESCRIPTION[NEWLINE]The Roman Empire, now split into West and East, has ruled the known world for nearly a millennium. But in this 4th century AD, the empire's borders are being overrun by barbarian leaders carving out their own kingdoms as Rome's might falters. Meanwhile a great storm gathers to the northeast as Attila and his Huns begin an overpowering wave of pillage and conquest. Choose your side, gather your courage, and fight to decide the next thousand years of history.[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory revolves around controlling cities of the three empires: Western Rome, Eastern Rome, and Sassanid Persia. Empires gain victory points each turn for control of each imperial city (the Sassanids get 50% more). Barbarian civs gain victory points for capturing cities controlled by an empire. Larger cities are worth more points. Victory goes to the civilization with the most victory points at the end of 70 turns.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units under Barbarian civ control have no unit maintenance. The Roman Empires may not sell buildings. There are three separate Social Policy trees available in the game. One is only available to the Eastern and Western Roman Empires, one only for the Sassanids, and one for the Barbarian powers. The Roman policy tree works backwards, in that you receive penalties instead of benefits for each policy chosen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TITLE">
+			<Text>Fall of Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_DESC">
+			<Text>Defend Rome from the attack of the barbarian tribes, or try to take it down yourself and establish a new kingdom!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_TEXT_1">
+			<Text>After decades of warfare along the borders and economic crises, in 293 AD Emperor Diocletian created a new administrative system for the Roman Empire. He created a dual emperorship, selecting Maximian to oversee the western portion. Upon the abdication of Diocletian and Maximian, in 330 Constantine the Great founded Constantinople as a "second Rome." Theodosius I was the last to rule over an undivided empire; upon his death in 395, he bequeathed imperial rule to both his sons, Arcadius in the East and Honorius in the West.[NEWLINE][NEWLINE]Compared to the Eastern Empire, Rome in the West was less populous, fragmented culturally and politically, its economy in a shambles due to heavy taxation to maintain its frontier, and beset by barbarians. In 402 AD its administrative capital was transferred to Ravenna, although the economic and cultural center remained Rome itself. Until the 4th Century, its military had concentrated in northern Gaul and along the Rhine, but increasingly military resources had to be diverted to secure Italy, which led to further revolts and civil wars in Britain, Gaul, north Africa and Germania.[NEWLINE][NEWLINE]In a cycle of usurpers and mediocre emperors following Honorius, central power eroded and Rome gradually lost control of its provinces. Roman institutions collapsed in regions of Iberia and Gaul as the migration of barbarian tribes such as the Goths and Vandals brought new client kingdoms into being. With the Vandal conquest of Africa, the empire lost control of the western Mediterranean, accelerating the decline of trade and, more significantly, the vital grain shipments to Italy. Meanwhile, the Huns were unified under Attila in 444 AD, who promptly invaded Western Rome, wreaking havoc until his death in 453.[NEWLINE][NEWLINE]For the next 20 years Rome suffered a series of civil wars, culminating when the Germanic-born Roman general Odoacer deposed Romulus Augustus, the last emperor of Western Rome in 476 AD. Although the Emperor of the East Zeno recognized Odoacer's "Kingdom of Italy," the Byzantines sponsored an invasion by the Ostrogoths in 489. Theodoric, leader of the Ostrogoths, led his force into Rome in March 493 and slew Odoacer while they dined together. The fall of Rome in the west was complete. Despite a brief period of reconquest by Byzantium in the 6th Century, the Western Roman Empire would not return.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_NAME">
+			<Text>Honorius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_SUBTITLE">
+			<Text>Emperor of the Western Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_LIVED">
+			<Text>384 - 423 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_TEXT_1">
+			<Text>Honorius (384-423 AD) was the younger son of Roman Emperor Theodosius I. When Theodosius died in 395, he divided the empire between his son Arcadius in the east and the eight-year-old Honorius in the west. His reign was chaotic, although the support of the able general Stilicho - initially Honorius's guardian, later his father-in-law - brought some measure of stability. The reign of Honorius is now seen as the beginning of the end of Western Rome, which would collapse completely within a century.[NEWLINE][NEWLINE]Honorius was plagued by almost constant barbarian incursions and revolts - in Gaul, Iberia, North Africa and Italy itself. The first crisis was a two-year revolt in Africa, eventually subdued by Stilicho. It was quickly followed by the Visigoth invasion of Italy under their king Alaric I. Stilicho returned and summoned the legions of Britain to defeat them in 406 AD. That same year an enormous horde composed of Ostrogoths, Alans and Vandals crossed the frozen Rhine into Gaul. In response, by 410 Britain was abandoned entirely and the legions formerly there were used to hold the Rhine against further invasions. Meanwhile Honorius fled Rome as the Visigoths approached, sacking the city in 410 before withdrawing.[NEWLINE][NEWLINE]In the last years of his reign, Honorius was forced to grant Roman lands to various barbarian tribes. A treaty signed in 418 allowed the Visigoths to establish a kingdom in southwestern Gaul, from which they would spread into Roman holdings in Iberia. A Frankish client-state was created in northern Gaul, ostensibly under the rule of Honorius but in actuality governed by the Salian Frank Chlodio. By Honorius's death, large portions of the Western Roman Empire were under barbarian control, laying the foundations for the medieval kingdoms of Britain, France and Spain. But he had managed to keep the core of the empire intact. Honorius died of edema in August 423, leaving no heir. The following year, the Eastern Roman Emperor Theodosius II appointed his cousin, Valentinian III, the new emperor in the west.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_TEXT_1">
+			<Text>In 293 AD Emperor Diocletian created a new administrative system for the unwieldy Roman Empire. He created a co-Augustus, selecting Maximian to oversee the eastern portion. Upon the abdication of Diocletian and Maximian, Constantine I formally divided the Roman holdings, and in 330 AD founded Constantinople as a "second Rome." So firmly established was the principle of two Romes that Theodosius I, upon his death in 395, bequeathed imperial rule to both his sons, Arcadius in the East and Honorius in the West. Theodosius the Great was the last to rule over an undivided empire.[NEWLINE][NEWLINE]Eastern Rome, often termed the Byzantine Empire, encompassed the southern Balkans, all of Anatolia and Egypt, and much of the Levant. It was spared much of the upheaval and warfare that plagued Western Rome in the 3rd and 4th centuries AD, due in large part to a succession of able emperors, a more established urban culture, and greater financial resources. The latter allowed the Byzantine emperors to placate barbarian invaders with tribute and hire mercenaries in large numbers.[NEWLINE][NEWLINE]The riches and skills brought by extensive trade permitted Theodosius II to extend and further fortify the walls of Constantinople during the first decades of the 400s, making the city virtually impervious (the walls were not breached until 1204 AD). Byzantine wealth also allowed Theodosius to buy off Attila, deflecting him to the west. Theodosius's successor Marcian refused to pay the exorbitant annual tribute and the Hunnic Empire soon collapsed with Attila's death in 453. Indeed, many of the surviving Huns would serve as mercenaries in Eastern Rome's subsequent wars with the Sassanids and Arabs.[NEWLINE][NEWLINE]After the death of Attila, the eastern empire enjoyed a long period of peace and internal stability, while the western empire collapsed in invasion and chaos. The end of Rome in the west is generally dated in 476 AD when Odoacer deposed Romulus Augustus. The Byzantine Emperor Zeno hired the Ostrogoths under their king Theodoric to reclaim the west. Theodoric led his forces into Italy and deposed Odoacer, establishing his own Kingdom of Italy. By urging the Ostrogoths to conquer Italy and Rome, and maintaining amiable relations with Theodoric, Zeno had both rid Eastern Rome of an unruly threat and gained nominal supremacy over Western Rome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_TEXT_1">
+			<Text>The last pre-Islamic Persian empire, the Sassanids ruled from 224 to 651 AD. Founded by Ardashir I, at its peak their empire encompassed all of modern Iraq, Iran, Afghanistan, Syria, the Caucusus, parts of Arabia and Pakistan, the Persian Gulf and part of Turkey. It rivaled Rome and Byzantium in power and influence during its first golden age under Bahram V (421-438 AD) and his immediate successors. The empire endured until a series of Arab invasions toppled the last emperor Yazdegerd III.[NEWLINE][NEWLINE]Myth and conflicting historical accounts shroud the fall of the Parthian empire and the rise of the Sassanid empire. Sassanid rule appears to have begun in Istakhr, capital of the province of Persis under the governorship of Ardashir, reputed a descendant of a line of priests. In the general collapse of Parthian rule, the ruthless Ardashir murdered his rivals (including his brothers), declared himself Shahanshah ("King of Kings"), and quelled rebellions in neighboring provinces. His son Shapur I continued the expansion, overrunning Armenia, Bactria, much of the fledgling Kushan empire and even mounted several campaigns against Rome.[NEWLINE][NEWLINE]From Shapur's death to Bahram V, the empire gradually grew to the east and south, although a series of inconclusive wars with Eastern Rome blocked Sassanid expansion to the west. Favoring more peaceful pursuits, Bahram V ushered in a golden age of literature, music, and sport. During the century following his death, however, his heirs were forced to spend their reigns fending off barbarian tribes, Byzantine and Arab invasions, and provincial revolts.[NEWLINE][NEWLINE]A second Sassanid golden age began under Kavadh I (488-531 AD). But incessant warfare with Byzantium drained the treasury and weakened Sassanid authority in the western provinces. Nonetheless, Sassanid armies managed to capture Jerusalem (614 AD), Alexandria (619) and the rest of Egypt by 621. However, the sudden expansion overextended their military, an overtaxed populace grew restless, and religious fervor gripped the Muslims to the south. In three decades, by 651, the Sassanid Empire was no more, replaced by the Abbasid Caliphate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_NAME">
+			<Text>Bahram V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_SUBTITLE">
+			<Text>King of the Sassanids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_LIVED">
+			<Text>421 - 438 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_TEXT_1">
+			<Text>Bahram was the 14th Sassanid king (421-438 AD), gaining the throne after the sudden death (or assassination) of his father Yazdegerd I. Bahram opened his reign with systematic persecution of Christians within his wide-flung lands, a policy that promptly led to war with Eastern Rome. After inconclusive battles and maneuvers, the Persians and Romans signed a treaty in 422 that marked a return to the status quo. However, Bahram shortly thereafter (428 AD) annexed Armenia over the protests of its Christian patriarch Isaac, once again straining Byzantine-Sassanid relations.[NEWLINE][NEWLINE]Despite the occasional raid or skirmish, peace with Eastern Rome lasted for some years, and gave Bahram the opportunity to indulge himself - and coincidently launch a new Persian golden age. He came to embody royal prosperity, amusing himself with hunting, court parties and sexual pursuits. Under his patronage, some of the great pieces of Sassanid literature, for instance the Karnamag-i Pabagan, and music were created. Sports such as polo became a royal pastime. His adventures in war, hunting and love became myth and legend, and figure even in modern tales such as the famous Rubaiyat of Omar Khayyam (quatrain 17).[NEWLINE][NEWLINE]The last stage of Bahram's reign is marked by his conflict with the Huns. The Hephthalite horde of the Huns invaded from the northeast and ravaged much of northern Iran. They crossed into Khorasan and advanced as far as the city of Rei. Unprepared for war, Bahram made an offer of peace and submission which was accepted by the Huns. But gathering a large force, Bahram crossed the province of Tabaristan by night, took the encamped Huns unaware and massacred them, even taking the chieftain's wife captive. The surviving Huns were pursued and slaughtered as far as the Oxus River. Although Bahram was now fatally ill, one of his generals pushed into the horde's homeland to the north and plundered it, ending the Hunnic threat to the Sassanids.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_NAME">
+			<Text>Genseric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_SUBTITLE">
+			<Text>King of the Vandals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_LIVED">
+			<Text>389 - 477 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_TEXT_1">
+			<Text>Genseric, born around 389 AD, assumed kingship of the Vandals upon the death of his half-brother Gunderic in 428. Beset by the Visigoths, Genseric quickly determined to lead his people out of Iberia to the less populous shores of Africa. Building a fleet at the straits, in 429 AD some 80,000 warriors, women and children crossed into Roman Africa.[NEWLINE][NEWLINE]Taking advantage of their squabbles, the Vandals quickly overwhelmed the divided Roman garrisons. Within months, they had conquered what is now Morocco and Algeria, and the Emperor Valentinian III signed a peace treaty recognizing Genseric's sovereignty. Genseric however, looked for more, and in 439 broke the treaty and invaded the lands around Roman Carthage. Taken unaware, the city, along with the massive fleet moored there, fell. With this fleet, the equivalent of Rome's and Byzantium's combined, the Vandals raided Roman commerce and coasts, and seized the islands in the western Mediterranean, including Sicily.[NEWLINE][NEWLINE]Now undisputed master of a vast kingdom, Genseric turned his attention to crafting a code of laws and to securing trade routes to and through Eastern Rome. This led to an arrangement with Valentinian to marry the emperor's daughter to Genseric's son. But in 455 Valentinian III was assassinated. Genseric believed this voided his treaty, landed in Italy, brushed aside the small forces that challenged him, and entered Rome. Pope Leo I implored him not to destroy the city, and Genseric withdrew ... but not before his men plundered Rome.[NEWLINE][NEWLINE]In 468 he was the target of the last combined campaign of the two halves of the old Roman Empire. Against all odds, Genseric defeated the larger Byzantine fleet off Cap Bon. Following the defeat, Genseric invaded Greece but the Vandals were driven back with heavy losses. Genseric negotiated peace with Byzantium in 474, and died peacefully in his palace in 477 AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_TEXT_1">
+			<Text>The Franks were a tenuous confederation of Germanic tribes settled in a strip of land along the right bank of the Lower Rhine, the border of Rome in Germania. In the 3rd Century AD, some Franks raided Roman territories along the river, while others migrated into the empire and settled in Gaul. This brought a split in the Franks into the Ripuarian Franks (the first group) and the Salian Franks (the second).[NEWLINE][NEWLINE]Primarily a pastoral people, the Ripuarian Franks lived in small settlements and homesteads along the west bank of the Rhine, supporting themselves by fishing and hunting along with the occasional raid on Roman holdings. Beyond being an annoyance, the Ripuarians were among the most peaceful of Rome's neighbors. In 310 AD, the Emperor Constantine had a bridge built across the Rhine at Cologne to facilitate trade with them. The Ripuarians, given an impetus towards social unity by the Roman-administered city, were increasingly relied upon to provide protection for the empire, serving as a buffer against the more warlike tribes to the east. The last chieftain of the Ripuarian Franks, Sigobert the Lame, joined forces with Clovis I, who rallied the Franks against the Alemanni and reunited the Frankish tribes.[NEWLINE][NEWLINE]The Salian Franks meanwhile, displaced by the onslaught of barbarians from the north, migrated into the Roman territory of Toxandria (the region of modern-day Antwerp). This "insolent" settlement of Roman lands was rejected by Emperor Julian the Apostate, who attacked. In 358 AD, the Salians surrendered to Roman forces in exchange for citizenship. Under the emperor Honorius's patronage, the Salian Franks expanded their holdings considerably under Chlodio beginning in the 420. The Salians proved loyal friends of Rome. In 451, Flavius Aetius called upon his Germanic allies to fight off the invasion by Attila's Huns. The Salians fought alongside the Romans at the Battle of Chalons, which effectively ended the Hunnic threat to Western Europe. As a reward, the Romans allowed further Salian expansion. In 486, Clovis became absolute ruler of a mixed Roman-Germanic kingdom. He unified the Franks and defeated the Visigoths and Alemanni. Clovis established his new capital at Paris, laying the foundation for the nation of France.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_NAME">
+			<Text>Chlodio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_SUBTITLE">
+			<Text>King of the Salian Franks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_LIVED">
+			<Text>392 - 448 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_TEXT_1">
+			<Text>Chlodio was king - or more accurately chieftain - of the Salian Franks from 414 until his death, and considered by some historians to be the founder of the Merovingian dynasty that created France. Controlling the region of what is now Thérouanne from his fortress in Duisburg, Chlodio looked to lead his people away from the growing threat posed by migrating Germanic tribes from the east that had been displaced by the advancing Huns.[NEWLINE][NEWLINE]In 428 Chlodio challenged Roman limits on the territories held by the Salian Franks, defeated a Roman force at Cambrai, and settled his family and retainers in northern Gaul. In 431, he extended his borders south to the Somme River. By 432 AD the Salian Franks formed a semi-autonomous kingdom within the Roman Empire with the city of Tornacum (Tournai) as capital.[NEWLINE][NEWLINE]The Salian expansion did not end until 448, when Chlodio was defeated by a Romano-Gallic force under Flavius Aetius. The resulting treaty recognized his family's rule in the region, and pledged that the Franks would support Rome's interests in perpetuity. A few years later, the Salian Franks under his son Childeric would join Aetius in halting the advance of the Huns into Europe. His grandson Clovis would unite the Frankish tribes and found the Frankish kingdom that spanned Gaul after his defeats of the Alemanni in 496 and the Visigoths in 507 AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_TEXT_1">
+			<Text>The Goths were an east European tribe of Scandinavian origins whose two branches, Visigoths and Ostrogoths, played a significant role in the fall of the Roman Empire. Although sharing common language, customs and beliefs, the Visigoths and Ostrogoths followed divergent paths and each founded a medieval kingdom.[NEWLINE][NEWLINE]The Visigoths settled in Dacia, where they remained peacefully co-existing with the Romans until 376 AD, when their leader appealed to the Byzantine Emperor Valens to move his people south of the Danube to find refuge from the Huns. The treaty lasted until 395, the year that Alaric I took the Visigoth throne. In 408, Roman troops massacred the families of approximately 30,000 barbarian soldiers serving as mercenaries under Roman command. Alaric promptly declared war and invaded Italy, with Byzantine approval. After military victories and three sieges of Rome itself, Alaric's Visigoths captured the city in August 410. Rome was plundered and sacked, and Alaric set up a Visigoth kingdom in Italy. Over the next century, the Visigoths expanded their borders at a steady pace, eventually controlling southern Gaul and all of Iberia. With the capital at Toulouse, the Visigoths forced the Vandals from Iberia, but lost Italy. In 507 the Franks under Clovis decisively defeated the Visigoths at the Battle of Vouille and wrested control of Gaul from them. It was the beginning of a slow decline. The last king of the Visigoths, Roderic, was killed facing the Ummayad onslaught in 711 which marked the opening of the Muslim conquest of Iberia.[NEWLINE][NEWLINE]The history of the Ostrogoths is somewhat less tangled. After the southern migration they established a vast but thinly populated kingdom between the Danube and Dneipr rivers. It was a multi-tribal empire, ruled by Gothic nobility and included Sarmatians, Gepids, Dacians as well as smaller Celtic and Slavic tribes. The rise of the Huns overwhelmed the polyglot kingdom, and the Ostrogoths accepted Hunnic rule and joined forces. The Ostrogoths were one of Attila's principle vassals fighting in Europe, as at the Battle of Chalons in 451 AD. But in revolt upon Attila's death, the Ostrogoths under Theodemir shattered the power of Attila's heirs at Nedao three years later. The year 454 also saw the birth of Theodoric the Great. In 471 he became king of the Ostrogoths. Within 20 years Theodoric ruled all of Italy, as well as much of the Balkans. But the weakness of the Ostrogoth rule quickly showed itself upon his death. The Byzantines took the offensive and forced the Ostrogoth king Totila to abandon Rome. In 553, at the Battle of Mons Lactarius, the remaining supporters of Totila were killed, captured or executed. The Ostrogoth remnants retreated and resettled in Austria. And the Ostrogoths disappeared from history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_NAME">
+			<Text>Alaric I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_SUBTITLE">
+			<Text>King of the Visigoths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_LIVED">
+			<Text>370 - 410 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_TEXT_1">
+			<Text>In the face of the Huns' advance, the Visigoths entered Byzantine service as auxiliaries for the right to settle in Roman lands. As a young man, Alaric joined the legions. In 394 he led a Gothic force to aid the empire in defeating the rebel Arbogast. The next year Alaric was elected chief of the Visigoths.[NEWLINE][NEWLINE]That same year, Theodosius, emperor of Byzantium and Alaric's patron, died. Despite his service to the empire and role as the king of the Visigoths, Alaric was ignored and dismissed in the shuffling of imperial offices that followed. Soon after Theodosius' death Alaric struck at Eastern Rome. Ravaging Greece, he reached the walls of Constantinople in 397 AD, whereupon the emperor appointed Alaric magister militum, who had autonomous military authority.[NEWLINE][NEWLINE]In 407 AD, after estrangement between the two halves of the empire threatened civil war, Alaric led a Visigoth army across the Julian Alps to the outskirts of Rome. Starvation eventually led the Roman Senate to negotiate. Alaric kept his forces in the region, and when the Senate reneged on its treaty, he besieged Rome again. Following this siege, and another settlement with the Senate in 409, in which Alaric set up a puppet emperor in Rome, the Visigoths marched north.[NEWLINE][NEWLINE]But it was not long before Alaric was forced to return to dethrone his puppet and declare himself king in Italy. In August 410, the Visigoths burst through the Porto Salaria into the city. Alaric showed amazing clemency to the people of Rome; Christian churches were not pillaged, and protection was afforded the thousands of pagans and Christians who took refuge there. Alaric now marched south into Calabria in preparation for invading Africa and securing lost Roman provinces there. But he died suddenly, probably of fever, in the port of Cosenza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_TEXT_1">
+			<Text>The Vandals were an East Germanic tribe, their original homeland in Scandinavia. The Vandals crossed the Baltic into Poland at some point in the 2nd Century BC. By 406 AD, the Vandals had reached the Rhine. Attempting to cross it, they met fierce resistance from the Franks, who had settled the Romanized regions of northern Gaul. The Vandals decisively defeated the Frankish army, and then proceeded to plunder their way southward. After sacking Frankish and Roman cities, they reached and crossed the Pyrenees in 409 AD and marched into Iberia.[NEWLINE][NEWLINE]Under pressure from the Visigoths there, Genseric led the Vandals across the straits into North Africa in 429. There Genseric established a Vandal kingdom in 435 when a treaty with Rome gave them control of the province of Numidia. Genseric broke the treaty in 439 and seized Carthage, along with its extensive shipyards and fleet. Over the next decade, along with unrelenting piracy and raids against the Romans and Byzantines, the Vandals overran Sardinia, Sicily, Corsica and the Balearic Islands.[NEWLINE][NEWLINE]With the death of Attila, the Roman emperor felt free to end the Vandal incursions and sought to return the lost lands to Rome through his daughter's marriage to Genseric's son. However, through a convoluted series of events and distrust, the effort ended in 455 AD with the landing of a Vandal army in Italy and its capture of Rome.[NEWLINE][NEWLINE]The sack of Rome proved the highpoint of Vandal power. The death of Genseric in 477, religious tensions, revolts in former Roman provinces, and lack of trade brought a slow decline. In a final costly war, the Byzantine Belisarius crushed the Vandal armies, killed the Vandal general Tzazo and captured most of the Vandal cities. In 534 AD Gelimer, the last Vandal king, surrendered Carthage to the Roman conquerors, ending the Vandal reign forever.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT_SHORT">
+			<Text>Regal Bloodline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT">
+			<Text>Units ignore terrain costs when moving into any tile with Hills and move faster along rivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS_SHORT">
+			<Text>Theodosian Walls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS">
+			<Text>+10% [ICON_STRENGTH] Combat Strength bonus if within 2 tiles of a Fort. Great Generals spawn 50% faster and provide an additional 10% combat bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST_SHORT">
+			<Text>Healthy Plundering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST">
+			<Text>Combat units heal completely after pillaging a non-road improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BARBARIAN_RECRUITMENT_SHORT">
+			<Text>Barbarian Enrollment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BARBARIAN_RECRUITMENT">
+			<Text>Western Roman Empire Legions will recruit defeated enemies to their side.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES_SHORT">
+			<Text>Mediterranean Pirates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES">
+			<Text>Naval units will "recruit" defeated ships to fight on their side.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_SCOURGE_OF_GOD_SHORT">
+			<Text>Scourge of God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_SCOURGE_OF_GOD">
+			<Text>+2 [ICON_MOVES] Movement for all land combat units. Starts with Attila, the Scourge of God. 2 Battering Rams awarded after capturing city for the first time.  +2 [ICON_PRODUCTION] Production per Pasture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS_SHORT">
+			<Text>Painted Rebels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS">
+			<Text>Combat bonus (+50%) when fighting against a civilization with more cities. Treats forests in friendly territory as roads. Embarked units have +1 [ICON_MOVES] Movement and pay 1 movement point to move from sea to land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLIBANARII_TEXT">
+			<Text>The Clibanarii were the Sassanid equivalent of the Byzantine cataphracti, although more heavily armored. Both the horse and the riders themselves were fully encased in iron mail, and were used in battle in wedges to shatter enemy infantry and archer formations. The Sassanids employed the Clibanarii primarily in their western armies, mainly against the Eastern Roman empire's forces which were more likely to engage in pitched battles than the barbarian tribesmen along the northern and eastern borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLIBANARII_STRATEGY">
+			<Text>The Clibanarii is the Sassanid unique unit and replaces the Horseman. While its Combat Strength, Defense and efficiency against cities are higher than that of the Horseman, it can not move as far. As a Mounted Unit it is vulnerable to attacks by Spearmen, Pikemen and the like. It starts with the Blitz promotion, allowing it to attack twice in the same turn, and like other mounted units, it can move after attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLIBANARII_HELP">
+			<Text>Fast and powerful Mounted Unit. Only the Sassanids may build it. This Unit has a higher [ICON_STRENGTH] Combat Strength, defends better, and attacks cities more effectively than the Horseman, which it replaces. Starts with the Blitz promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FRANK_SEAXMAN_TEXT">
+			<Text>The seax is a large knife or short, curved sword with a notched blade and favored by many warriors of Celtic and Frankish tribes. Equally useful as both a tool and a weapon, the seax was particularly effective in close-range, melee combat. Over the decades of the barbarian migrations, various versions were developed, including the schmalsax (narrow seax) and the breitsax (broad seax) as well as long and short versions of each. In the epic poem Beowulf, the hero uses a seax to chop apart a dragon and Grendel's mother uses one when fighting Beowulf.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN_STRATEGY">
+			<Text>The Seaxman is the Frankish unique unit. It has a slightly higher Combat Strength than the Swordsman, which it replaces. Additionally it does not require any Iron resources. It starts with the Amphibious promotion, allowing it to attack from the ocean and across rivers without penalty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FRANK_SEAXMAN">
+			<Text>Strong, front-line land Unit, which can only be built by the Franks. This Unit has a higher [ICON_STRENGTH] Combat Strength than the Swordsman, which it replaces. It starts with the Amphibious promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_VANDAL_AXEMAN_TEXT">
+			<Text>Although there were many types of axes used as weapons by the barbarian tribes that beset Rome, the Vandals tended to favor the throwing axe, used as a missile weapon in battle as they closed with the foe. A variant of the francisca, a light-weight axe developed by the Franks in the 3rd Century AD, the Vandal version was thrown with an overhand motion that caused the axe to rotate in flight and so increased accuracy. Heavier than arrows and more accurate than spears, the throwing axe proved even more effective in naval combat after the Vandals conquered Roman Carthage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_AXEMAN_STRATEGY">
+			<Text>The Axeman is the Vandal unique unit. It has a slightly higher Combat Strength than the Swordsman, which it replaces. Additionally it does not require any Iron resources. It starts with the Charge promotion, giving it a combat bonus against damaged units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VANDAL_AXEMAN">
+			<Text>Strong, front-line land Unit, which can only be built by the Vandals. It has a higher [ICON_STRENGTH] Combat Strength than the Swordsman, which it replaces. It starts with the Charge promotion, giving it a combat bonus against damaged units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_VANDAL_TRIHEMIOLLA_TEXT">
+			<Text>The Trihemiolia, based on a Greek design and the most common warship in the Vandal navies, was a 40-ton vessel with two-and-a-half banks of oarsmen on each side. More maneuverable and faster than the Trireme, these ships were used both for ramming and boarding actions. Used primarily as commerce and coastal raiders, the Vandal Trihemiolia had reinforced decks to counter the increasing use of catapults mounted on Roman and Byzantine warships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA_STRATEGY">
+			<Text>The Trihemiolia is the Vandal unique naval unit. It has a higher Combat Strength than the Trireme, which it replaces, and is restricted to coastal tiles. It also comes with the promotion Supply, which enables it to heal outside of friendly territory, and is able to capture enemy ships. The Trihemiolias and the sum of its abilities make the Vandals a naval force to be reckoned with in the Mediterranean.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VANDAL_TRIHEMIOLLA">
+			<Text>Strong Naval Unit used to dominate the seas through melee attacks on naval units and cities. Can capture enemy ships. Only the Vandals may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_GOTH_GADRAUHT_TEXT">
+			<Text>The Gothic tribes had no standing army, instead relying on Gadrauhts, or short-term militia. Generally armed with thrusting spears, throwing spears and shields, although some had swords and bows, these unarmored levies were particularly effective in melee in rough terrain where the rigid military formations the Romans favored proved unwieldy. Commonly organized in hundafabs, literally "hundred armed men," along tribal lines, the Gadrauhts were unreliable in pitched battle, as likely to fight to the last man as to flee when the tide turned against them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOTH_GADRAUHT_STRATEGY">
+			<Text>The Gadrauht is the Gothic unique unit. It has a slightly higher Combat Strength than the Swordsman, which it replaces. Additionally it does not require any Iron resources. The Gadrauht may move along enemy roads as if they were friendly roads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GOTH_GADRAUHT">
+			<Text>Strong, front-line land Unit, which can only be built by the Goths. This Unit has a higher [ICON_STRENGTH] Combat Strength than the Swordsman, which it replaces. It moves along enemy roads as if they were friendly roads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_HUN_SCOURGE_OF_GOD_TEXT">
+			<Text>The "Scourge of God" is the nickname given to Attila. These units represent his leadership on the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD_STRATEGY">
+			<Text>The Scourge of God is a Hun Unique Great Person, replacing the standard Great General.  The same combat bonuses apply, but the Scourge moves at a faster rate and can heal adjacent units for an additional 20 HP per turn. This enhanced General ensures that his cavalry units will always be in a battle-ready state. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HUN_SCOURGE_OF_GOD">
+			<Text>This Hun Great Person replaces the Great General. While providing the same combat bonus as a Great General, the Scourge of God also moves at a faster rate and heals adjacent units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOR_CEILIDH_HALL_STRATEGY">
+			<Text>The Ceilidh Hall is a Classical-era building unique to the Celts. It increases the city's [ICON_CULTURE] Culture and [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOR_SATRAPS_COURT_STRATEGY">
+			<Text>The Satrap's Court is the Persian unique building. The Satrap's Court increases the city's output of wealth. However, the Satrap's Court also increases the civilization's [ICON_HAPPINESS_1] Happiness. The city must have a Market before the Satrap's Court may be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEAD_HALL_TEXT">
+			<Text>In ancient Scandinavian and Germanic regions the Mead Hall was a large building with a single room, which served both as the feast hall of the chieftain as well as the center of the cultural and religious life of the settlement. Guarded by the chieftain's retainers, it was also the final refuge for the tribe's women, children and elders in times of crisis. Constructed of stone and wood, 40 to 50 meters long, decorated with carvings, it was usually the most prominent building in the town. Beginning in the 4th Century AD, Mead Halls were often fortified as well, and as such were the forerunner of the keep found in medieval castles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL_STRATEGY">
+			<Text>The Mead Hall increases [ICON_HAPPINESS_1] Happiness and [ICON_CULTURE] Culture by 2.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL_HELP">
+			<Text>+2 [ICON_HAPPINESS_1] Happiness and [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HOV_TEXT">
+			<Text>A Hov was a structure, sometimes no more than a roofless palisade but far more substantial in large Goth settlements, where the pagan "blot" (ritual animal sacrifice) took place. Amid great fanfare, the blot was conducted by the Germanic druids to insure good harvests, hunting or victory in war. The sacrifice was usually by means of decapitation; Agathias of Myrina wrote during the Gothic War (535-554 AD) that the Goths would "sacrifice horses, cattle and countless other animals by beheading them, and imagine that they are performing an act of piety thereby." If the tribe was under extreme threat, it was not unknown for the druids to even conduct human sacrifice of captives or slaves in the Hov.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOV_STRATEGY">
+			<Text>The Hov increases [ICON_HAPPINESS_1] Happiness by 1 and [ICON_GOLD] Gold by 2.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOV_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness and +2 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_HELP_CELT_PICTISH_WARRIOR">
+			<Text>Only the Celts may build this unit. It has a combat bonus outside of friendly territory and can pillage enemy improvements at no additional movement cost. It also receives a 50% bonus to flank attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_CELT_PICTISH_WARRIOR_STRATEGY">
+			<Text>The Pictish Warrior is the Celt unique unit. Perfectly suited for early rushes, a Pictish Warrior can lay waste to an opponents' lands, quickly pillaging and moving within the same turn. They are best when fighting in groups because of their Brothers in Arms promotion, which gives them a 50% bonus to flank attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_VP_TECH">
+			<Text>Imperial City Control</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_VP_FUTURE_TECH">
+			<Text>Imperial City Capture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_CANNOT_UNLOCK">
+			<Text>[COLOR_NEGATIVE_TEXT]You may not adopt other policy branches in the Fall of Rome scenario.[/ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Roman Atrophy[ENDCOLOR] reflects the fading glory of the Roman empire and how its society unravels as time passes.[NEWLINE][NEWLINE]The Roman empires start with Roman Heritage which provides +1 [ICON_HAPPINESS_1] Happiness for each City you own [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital and -5% [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Citizens in non-occupied Cities.[NEWLINE][NEWLINE]When a barbarian enemy captures your city, you will gain 20 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_SASSANID_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Sassanid Legacy[ENDCOLOR] shines through the continuing greatness of Persia. The Sassanids have a large starting army, few barbarian invaders, and the desire to finish the centuries-long conflict with Rome.[NEWLINE][NEWLINE]Adopting all policies in the Sassanid tree will convert all future [ICON_CULTURE] Culture into [ICON_GOLD] Gold at a rate of 3 to 1.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_BARBARIAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Barbarian Zeal[ENDCOLOR] gives the outsiders hope that they can capture and claim some of Rome's immense glory for themselves.[NEWLINE][NEWLINE]The barbarian kingdoms have a bonus +20 [ICON_HAPPINESS_1] Happiness. Receive 15 [ICON_CULTURE] Culture as plunder for each point of [ICON_CULTURE] Culture produced in the captured city. They do not have to pay unit maintenance.[NEWLINE][NEWLINE]Adopting all policies in the Barbarian tree will convert all future [ICON_CULTURE] Culture into [ICON_GOLD] Gold at a rate of 3 to 1.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN">
+			<Text>Roman Atrophy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_SASSANID">
+			<Text>Sassanid Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_BARBARIAN">
+			<Text>Barbarian Zeal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN_CAP">
+			<Text>ROMAN</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_SASSANID_CAP">
+			<Text>SASSANID</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_BARBARIAN_CAP">
+			<Text>BARBARIAN</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ROMAN">
+			<Text>Roman Atrophy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ROMAN_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Roman Atrophy[ENDCOLOR][NEWLINE]Each city of yours captured by a barbarian enemy generates +20 [ICON_CULTURE] Culture for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN_DESC">
+			<Text>Roman Decay Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_ROMAN_TITLE">
+			<Text>{@1: gender feminine?Empress; other?Emperor;} {1_PlayerName:textkey} of{@2: plural 1? the ; other? ;}{2_CivName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_CONSCRIPTION">
+			<Text>Barbarian Conscription</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_CONSCRIPTION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Barbarian Conscription[ENDCOLOR][NEWLINE]-10% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_CONSCRIPTION_DESC">
+			<Text>Barbarian Conscription Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SERFDOM">
+			<Text>Rise of Serfdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SERFDOM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Rise of Serfdom[ENDCOLOR][NEWLINE]Cities with Walls suffer -2 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SERFDOM_DESC">
+			<Text>Rise of Serfdom Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_USURPER">
+			<Text>Usurper General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_USURPER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Usurper General[ENDCOLOR][NEWLINE]+1 [ICON_CULTURE] Culture for each barracks and a hostile army appears outside one of your non-capital cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_USURPER_DESC">
+			<Text>Usurper General Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NEGLECT">
+			<Text>Neglected Infrastructure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NEGLECT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Neglected Infrastructure[ENDCOLOR][NEWLINE][ICON_GOLD] Gold from city connections reduced by 50%. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NEGLECT_DESC">
+			<Text>Neglected Infrastructure Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ENNUI">
+			<Text>Popular Ennui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ENNUI_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Popular Ennui[ENDCOLOR][NEWLINE]-1 [ICON_HAPPINESS_1] Happiness from each luxury resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ENNUI_DESC">
+			<Text>Popular Ennui Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DEBASEMENT">
+			<Text>Coin Debasement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DEBASEMENT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Coin Debasement[ENDCOLOR][NEWLINE]+10% unit maintenance cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DEBASEMENT_DESC">
+			<Text>Imperial Patronage Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DARK_AGE">
+			<Text>Dark Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DARK_AGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Dark Age[ENDCOLOR][NEWLINE]-20 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DARK_AGE_DESC">
+			<Text>Dark Age Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID">
+			<Text>Sassanid Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Sassanid Legacy[ENDCOLOR][NEWLINE]benefits</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_SASSANID_TITLE">
+			<Text>{@1: gender feminine?Queen; other?King;} {1_PlayerName:textkey} of{@2: plural 1? the ; other? ;}{2_CivName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SACRED_FIRE">
+			<Text>Sacred Fire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SACRED_FIRE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Sacred Fire[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness per city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SACRED_FIRE_DESC">
+			<Text>Sacred Fire Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_PAHLAVI_LITERATURE">
+			<Text>Pahlavi Literature</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_PAHLAVI_LITERATURE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Pahlavi Literature[ENDCOLOR][NEWLINE]+1 [ICON_CULTURE] Culture per city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_PAHLAVI_LITERATURE_DESC">
+			<Text>Pahlavi Literature Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_MERCANTILISM">
+			<Text>Mercantilism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_MERCANTILISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Mercantilism[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] Gold per city. Great People born 25% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_MERCANTILISM_DESC">
+			<Text>Mercantilism Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD">
+			<Text>Silk Road</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Silk Road[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold for each trading post. [ICON_GOLDEN_AGE] Golden Ages last 50% longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_DESC">
+			<Text>Silk Road Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA">
+			<Text>Shahnama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Shahnama[ENDCOLOR][NEWLINE]Starts a [ICON_GOLDEN_AGE] Golden Age and a Great Engineer appears outside the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA_DESC">
+			<Text>Shahnama Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_STANDING_ARMY">
+			<Text>Standing Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_STANDING_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Standing Army[ENDCOLOR][NEWLINE]+2 [ICON_PRODUCTION] Production per Barracks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_STANDING_ARMY_DESC">
+			<Text>Standing Army Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID_FINISHER">
+			<Text>Sassanid tree finisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID_FINISHER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Sassanid tree finisher[ENDCOLOR][NEWLINE]Converts all future [ICON_CULTURE] Culture into [ICON_GOLD] Gold at a rate of 3 to 1.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TURNS_REMAINING">
+			<Text>Turns Left: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_HUN_FIRST_CITY_CAPTURE">
+			<Text>Upon capturing your first city, your army assembles two battering rams out of parts of the city to add to your army! Go forth and conquer!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_ROMAN_CITY_CAPTURE_CULTURE">
+			<Text>Cities lost to Barbarian civilizations last turn: {1_NUM}[NEWLINE]Penalty: {2_NUM} [ICON_CULTURE] Culture[NEWLINE][NEWLINE]Every city you lose to the Barbarians sends your society into further decay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN">
+			<Text>Barbarian Zeal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Barbarian Zeal[ENDCOLOR][NEWLINE]benefits</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_BARBARIAN_TITLE">
+			<Text>{@1: gender feminine?Queen; other?King;} {1_PlayerName:textkey} of{@2: plural 1? the ; other? ;}{2_CivName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILLING_RECRUITS">
+			<Text>Willing Recruits</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILLING_RECRUITS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Willing Recruits[ENDCOLOR][NEWLINE]+50% [ICON_PRODUCTION] Production when training combat units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILLING_RECRUITS_DESC">
+			<Text>Willing Recruits Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NATIVE_COERCION">
+			<Text>Native Coercion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NATIVE_COERCION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Native Coercion[ENDCOLOR][NEWLINE]Build Courthouses 150% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NATIVE_COERCION_DESC">
+			<Text>Native Coercion Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILY_VETERANS">
+			<Text>Wily Veterans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILY_VETERANS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Wily Veterans[ENDCOLOR][NEWLINE]Military Units gain 100% more Experience from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILY_VETERANS_DESC">
+			<Text>Wily Veterans Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_TRIBAL_BLOOM">
+			<Text>Tribal Bloom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_TRIBAL_BLOOM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Tribal Bloom[ENDCOLOR][NEWLINE]+5 [ICON_PRODUCTION] Production in every City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_TRIBAL_BLOOM_DESC">
+			<Text>Tribal Bloom Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DESTINYS_ARMY">
+			<Text>Destiny's Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DESTINYS_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Destiny's Army[ENDCOLOR][NEWLINE]+50% [ICON_STRENGTH] combat strength for military Units which have another military Unit in an adjacent tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DESTINYS_ARMY_DESC">
+			<Text>Destiny's Army Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_KINGDOM_COME">
+			<Text>Kingdom Come</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_KINGDOM_COME_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Kingdom Come[ENDCOLOR][NEWLINE]+2 [ICON_FOOD] Food, [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture per city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_KINGDOM_COME_DESC">
+			<Text>Kingdom Come Civilopedia help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_FINISHER">
+			<Text>Barbarian tree finisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_FINISHER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Barbarian tree finisher[ENDCOLOR][NEWLINE]Converts all future [ICON_CULTURE] Culture into [ICON_GOLD] Gold at a rate of 3 to 1.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_DESTINYS_ARMY">
+			<Text>Destiny's Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_DESTINYS_ARMY_HELP">
+			<Text>+50% [ICON_STRENGTH] Combat Strength when adjacent to a friendly Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HEAL_ON_PILLAGE">
+			<Text>Healthy Plundering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HEAL_ON_PILLAGE_HELP">
+			<Text>This unit [COLOR_POSITIVE_TEXT]heals completely[ENDCOLOR] when it pillages an enemy improvement that is not a road.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_SPEED">
+			<Text>Attila's Spurs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_SPEED_HELP">
+			<Text>2 extra movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_MEDIC_GENERAL">
+			<Text>Enhanced Medic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_MEDIC_GENERAL_HELP">
+			<Text>This unit and all others in adjacent tiles [COLOR_POSITIVE_TEXT]Heal 20 Additional HP[ENDCOLOR] per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARBARIAN_CONSCRIPT">
+			<Text>Barbarian Conscript</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARBARIAN_CONSCRIPT_HELP">
+			<Text>-10% [ICON_STRENGTH] Combat Strength</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT_OFFICER">
+			<Text>Recruitment Officer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT_OFFICER_HELP">
+			<Text>Recruits defeated enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENEMY_ROUTE">
+			<Text>Familiar Pathways</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENEMY_ROUTE_HELP">
+			<Text>Move along enemy roads as if they were your own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK">
+			<Text>Brothers in Arms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK_HELP">
+			<Text>+50% modifier on flanking bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TP_GOLD_FROM_CULTURE">
+			<Text>{1_Num} from the finisher policy converting every 3  [ICON_CULTURE] culture into 1 [ICON_GOLD] gold.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

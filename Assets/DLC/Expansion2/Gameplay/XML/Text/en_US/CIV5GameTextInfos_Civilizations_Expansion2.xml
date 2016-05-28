@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<GameData>
+    <Language_en_US>
+        <Row Tag="TXT_KEY_CIV_ASSYRIA_ADJECTIVE">
+            <Text>Assírio|Assíria|Assírios|Assírias</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ASSYRIA_DESC">
+            <Text>Império Assírio</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ASSYRIA_SHORT_DESC">
+            <Text>Assíria</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_BRAZIL_ADJECTIVE">
+            <Text>Brasileiro|Brasileira|Brasileiros|Brasileiras</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_BRAZIL_DESC">
+            <Text>Império Brasileiro</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_BRAZIL_SHORT_DESC">
+            <Text>Brasil</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_INDONESIA_ADJECTIVE">
+            <Text>Indonésio|Indonésia|Indonésios|Indonésias</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_INDONESIA_DESC">
+            <Text>Império Indonésio</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_INDONESIA_SHORT_DESC">
+            <Text>Indonésia</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MOROCCO_ADJECTIVE">
+            <Text>Marroquino|Marroquina|Marroquinos|Marroquinas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MOROCCO_DESC">
+            <Text>Império Marroquino</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MOROCCO_SHORT_DESC">
+            <Text>Marrocos</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_PORTUGAL_ADJECTIVE">
+            <Text>Português|Portuguesa|Portugueses|Portuguesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_PORTUGAL_DESC">
+            <Text>Império Português</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_PORTUGAL_SHORT_DESC">
+            <Text>Portugal</Text>
+            <Gender>masculine:noart</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_POLAND_ADJECTIVE">
+            <Text>Polonês|Polonesa|Poloneses|Polonesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_POLAND_DESC">
+            <Text>Império Polonês</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_POLAND_SHORT_DESC">
+            <Text>Polônia</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE">
+            <Text>Shoshone|Shoshone|Shoshones|Shoshones</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SHOSHONE_DESC">
+            <Text>Shoshones</Text>
+            <Gender>masculine</Gender>
+            <Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC">
+            <Text>Shoshones</Text>
+            <Gender>masculine</Gender>
+            <Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_VENICE_ADJECTIVE">
+            <Text>Veneziano|Veneziana|Venezianos|Venezianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_VENICE_DESC">
+            <Text>República de Veneza</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_VENICE_SHORT_DESC">
+            <Text>Veneza</Text>
+            <Gender>feminine:noart</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ZULU_ADJECTIVE">
+            <Text>Zulu|Zulu|Zulus|Zulus</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ZULU_DESC">
+            <Text>Reino dos Zulus</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ZULU_SHORT_DESC">
+            <Text>Zulus</Text>
+            <Gender>masculine</Gender>
+            <Plurality>2</Plurality>
+        </Row>
+    </Language_en_US>
+</GameData>

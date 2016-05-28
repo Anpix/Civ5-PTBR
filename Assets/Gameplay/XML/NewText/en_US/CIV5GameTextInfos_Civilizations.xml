@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <Language_en_US>
+        <Row Tag="TXT_KEY_CIV_AMERICA_ADJECTIVE">
+            <Text>Americano|Americana|Americanos|Americanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_AMERICA_DESC">
+            <Text>Império Americano</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_AMERICA_SHORT_DESC">
+            <Text>Estados Unidos</Text>
+            <Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ARABIA_ADJECTIVE">
+            <Text>Árabe|Árabe|Árabes|Árabes</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ARABIA_DESC">
+            <Text>Império Árabe</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ARABIA_SHORT_DESC">
+            <Text>Arábia</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_AZTEC_ADJECTIVE">
+            <Text>Asteca|Asteca|Astecas|Astecas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_AZTEC_DESC">
+            <Text>Império Asteca</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_AZTEC_SHORT_DESC">
+            <Text>Império Asteca</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_BARBARIAN_ADJECTIVE">
+            <Text>Bárbaro|Bárbara|Bárbaros|Bárbaras</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_BARBARIAN_DESC">
+            <Text>Acampamento Bárbaro</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_BARBARIAN_SHORT_DESC">
+            <Text>Bárbaros</Text>
+            <Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_CHINA_ADJECTIVE">
+            <Text>Chinês|Chinesa|Chineses|Chinesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_CHINA_DESC">
+            <Text>Império Chinês</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_CHINA_SHORT_DESC">
+            <Text>China</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_EGYPT_ADJECTIVE">
+            <Text>Egípcio|Egípcia|Egípcios|Egípcias</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_EGYPT_DESC">
+            <Text>Império Egípcio</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_EGYPT_SHORT_DESC">
+            <Text>Egito</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE">
+            <Text>Britânico|Britânica|Britânicos|Britânicas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ENGLAND_DESC">
+            <Text>Império Britânico</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC">
+            <Text>Grã-Bretanha</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_FRANCE_ADJECTIVE">
+            <Text>Francês|Francesa|Franceses|Francesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_FRANCE_DESC">
+            <Text>Império Francês</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_FRANCE_SHORT_DESC">
+            <Text>França</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE">
+            <Text>Alemão|Alemã|Alemães|Alemãs</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_GERMANY_DESC">
+            <Text>Império Alemão</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC">
+            <Text>Alemanha</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_GREECE_ADJECTIVE">
+            <Text>Grego|Grega|Gregos|Gregas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_GREECE_DESC">
+            <Text>Império Grego</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_GREECE_SHORT_DESC">
+            <Text>Grécia</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_INDIA_ADJECTIVE">
+            <Text>Indiano|Indiana|Indianos|Indianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_INDIA_DESC">
+            <Text>Império Indiano</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_INDIA_SHORT_DESC">
+            <Text>Índia</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_IROQUOIS_ADJECTIVE">
+            <Text>Iroquês|Iroquesa|Iroqueses|Iroquesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_IROQUOIS_DESC">
+            <Text>Império Iroquês</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_IROQUOIS_SHORT_DESC">
+            <Text>Império Iroquês</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_JAPAN_ADJECTIVE">
+            <Text>Japonês|Japonesa|Japoneses|Japonesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_JAPAN_DESC">
+            <Text>Império Japonês</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_JAPAN_SHORT_DESC">
+            <Text>Japão</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MINOR_ADJECTIVE">
+            <Text>Cidade-Estado|Cidades-Estado</Text>
+            <Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MINOR_DESC">
+            <Text>Cidade-Estado</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MINOR_SHORT_DESC">
+            <Text>Cidade-Estado</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_CIV_OTTOMAN_ADJECTIVE">
+            <Text>Otomano|Otomana|Otomanos|Otomanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_OTTOMAN_DESC">
+            <Text>Império Otomano</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_OTTOMAN_SHORT_DESC">
+            <Text>Império Otomano</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_PERSIA_ADJECTIVE">
+            <Text>Persa|Persa|Persas|Persas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_PERSIA_DESC">
+            <Text>Império Persa</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_PERSIA_SHORT_DESC">
+            <Text>Pérsia</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ROME_ADJECTIVE">
+			<Text>Romano|Romana|Romanos|Romanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ROME_DESC">
+            <Text>Império Romano</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ROME_SHORT_DESC">
+            <Text>Roma</Text>
+            <Gender>feminine:noart</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE">
+            <Text>Russo|Russa|Russos|Russas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_RUSSIA_DESC">
+            <Text>Império Russo</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC">
+            <Text>Rússia</Text>
+            <Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SIAM_ADJECTIVE">
+            <Text>Siamês|Siamesa|Siameses|Siamesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SIAM_DESC">
+            <Text>Império de Sião</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SIAM_SHORT_DESC">
+            <Text>Sião</Text>
+            <Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SONGHAI_ADJECTIVE">
+            <Text>Songhai|Songhai|Songhais|Songhais</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SONGHAI_DESC">
+            <Text>Império Songhai</Text>
+            <Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SONGHAI_SHORT_DESC">
+            <Text>Songhai</Text>
+            <Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIVILIZATION_SECTION_1">
+            <Text>Civilizações</Text>
+           <Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIVILIZATION_SECTION_2">
+            <Text>Líderes</Text>
+           <Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+        </Row>
+    </Language_en_US>
+</GameData>

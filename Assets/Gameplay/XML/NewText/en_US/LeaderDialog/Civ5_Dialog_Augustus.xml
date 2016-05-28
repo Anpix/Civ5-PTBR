@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_1">
+			<Text>Muito Bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_2">
+			<Text>De acordo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_3">
+			<Text>Certamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_4">
+			<Text>Trato feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_5">
+			<Text>Oh, muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_6">
+			<Text>Suponho que devo aceitar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_7">
+			<Text>Excelente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_1">
+			<Text>Que desperdício de vidas e riquezas... Vocês lamentarão.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_2">
+			<Text>Você cometeu um grave erro... Sua condenação está assegurada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_3">
+			<Text>Tão valente, mas tão estúpido. Veremos se seu cérebro está à altura da sua audácia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_1">
+			<Text>Por Zeus, você pagará por seus insultos à poderosa Roma! Prepare-se para morrer!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_2">
+			<Text>Meus cofres estão vazios e meus soldados, nervosos. Por isso você deve morrer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_3">
+			<Text>Juro pelo espírito do meu pai, e por Deus Júlio, que os seus dias estão contados. Prepare-se para a guerra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_1">
+			<Text>Parabéns por sua vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_2">
+			<Text>Você nos liquidou. Fomos derrotados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_3">
+			<Text>Os deuses abandonaram Roma. Fomos derrotados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_ANGRY">
+			<Text>Se você deseja sobreviver, dê-nos o seguinte agora mesmo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_HAPPY">
+			<Text>Por favor, nos dê o que pedimos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Dê-nos o que queremos ou sofra as consequências.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_1">
+			<Text>Não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_2">
+			<Text>Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_3">
+			<Text>Recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_4">
+			<Text>Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_5">
+			<Text>Isso é inaceitável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_6">
+			<Text>Você não está falando sério!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_7">
+			<Text>Você está falando sério?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_1">
+			<Text>Saudações. Sou Augusto, Imperador e Pontífice Máximo de Roma. Se for amigo de Roma, eu lhe dou boas vindas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_2">
+			<Text>Saudações. Roma é justa com seus aliados e implacável com seus inimigos. De que lado você está?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_3">
+			<Text>Bem-vindo. Roma fica honrada com a sua presença.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_1">
+			<Text>Tenha um bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_2">
+			<Text>Até mais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_3">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_4">
+			<Text>Até à próxima.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_5">
+			<Text>Vá embora já.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_6">
+			<Text>Isso é tudo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_1">
+			<Text>Bem-vindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_2">
+			<Text>Olá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_3">
+			<Text>Saudações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_4">
+			<Text>Tenha um bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_5">
+			<Text>Ah, é você!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_6">
+			<Text>Tudo bem?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_7">
+			<Text>O que você quer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_1">
+			<Text>Vá em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_2">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_3">
+			<Text>Nós te escutaremos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_4">
+			<Text>Sim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_5">
+			<Text>O que estava dizendo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_6">
+			<Text>E?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_7">
+			<Text>Continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LOSEWAR_1">
+			<Text>Seus soldados combateram bem. Dou-lhe os parabéns pela vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_1">
+			<Text>Eu encontrei uma Roma de tijolos e a fiz de mármore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_2">
+			<Text>Apressa-te lentamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_3">
+			<Text>Eu prefiro um comandante descarado a um cauteloso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Isso não basta. Quer melhorá-lo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Isso não basta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Tem que melhorar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Você é tão cauteloso como minha esposa, Lívia. Não podeis oferecer mais?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_2">
+			<Text>É a sua melhor oferta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Você está quase lá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Isso não basta. Quer melhorá-la?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Você pode se esforçar um pouco mais?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Isto não é o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_ANGRY">
+			<Text>Pelo sangue imortal de Ares, sua oferta é um insulto à Roma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_HAPPY">
+			<Text>Lamentavelmente, os presságios desaconselham esse curso de ação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_NEUTRAL">
+			<Text>Creio que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_ANGRY">
+			<Text>Trato feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_HAPPY">
+			<Text>Esplêndido. Trato feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_NEUTRAL">
+			<Text>Acordo feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_ANGRY">
+			<Text>Pense sobre isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_HAPPY">
+			<Text>Eu os apresento esta oferta para que a analisem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_NEUTRAL">
+			<Text>Eis aqui a nossa oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_ANGRY">
+			<Text>Prefiro morrer primeiro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_HAPPY">
+			<Text>Eu não posso dar os tesouros de Roma tão alegremente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_NEUTRAL">
+			<Text>Suponho que terá um último desejo, verdade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_ANGRY">
+			<Text>Aceito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_HAPPY">
+			<Text>Certamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_NEUTRAL">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_1">
+			<Text>Hah. Você tem coragem. Eu duvidava de você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_2">
+			<Text>Você me capturou. Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_3">
+			<Text>Que decepção.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_4">
+			<Text>Que decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_5">
+			<Text>Mesmo? Espero que não viva para lamentar sua falta de estratégia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_6">
+			<Text>Que estupidez a sua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_7">
+			<Text>Muito bem. Está em sua consciência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WINWAR_1">
+			<Text>O deus Ares voltou a sorrir para mim. Ajoelhem-se todos os inimigos de Roma!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- edited with Programmer's Notepad 2 by Michelle Menard (Firaxis Games) -->
+<!-- Babylon DLC Civilopedia Entries -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TITLE">
+			<Text>Mongólia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_2">
+			<Text>Geografia e Clima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_3">
+			<Text>Primeiros anos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_4">
+			<Text>Chega Temujin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_5">
+			<Text>A vida no Império Mongol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_6">
+			<Text>Uma Superpotência Mundial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_7">
+			<Text>Guerra Civil e o fim de uma Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_8">
+			<Text>Dominado pela China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_9">
+			<Text>Uma nova Mongólia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_HEADING_10">
+			<Text>O presente e o futuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_STATBOX">
+			<Text>[NEWLINE]        Líder: GENGHIS[NEWLINE]        Unidade Exclusiva: Keshik[NEWLINE]        Unidade Exclusiva: Khan[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_1">
+			<Text>O Império Mongol foi o maior império contíguo da história, abrangendo desde o Danúbio até o Mar do Japão e desde a Sibéria até o Camboja - aproximadamente 22% do território terrestre. Do seu humilde início como tribos nômades desordenadas, os Mongóis mudaram a face do mundo antigo e se tornaram uma das forças mais efetivas e temidas que já andaram sobre a terra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_2">
+			<Text>Alastrando-se pelo leste da Ásia, a geografia da Mongólia é rigorosa e variada, com altas cordilheiras ao norte e ao oeste, verdes estepes na parte central do país e o Deserto de Gobi na parte sul. Apesar de as lindas estepes terem condições de ser utilizadas como pastos, o clima severo da Mongólia comanda. Os verões são curtos e quentes, enquanto os longos invernos gelados cobrem o país em nevascas devastadoras (conhecidas como zud), tornando o pasto praticamente inutilizável durante grande parte do ano. Temperaturas de -30ºC durante o inverno não são incomuns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_3">
+			<Text>Desde os tempos Paleolíticos, tribos nômades dominavam o território da Mongólia. Essas tribos eram agricultores e caçadores habilidosos, sempre se movimentando para terem vantagens dos severos invernos e dos verões secos. Eram cavaleiros e arqueiros talentosos, particularmente competentes nos combates em montarias. Ocasionalmente, algumas tribos formavam confederações, como a aliança Xiongnu de 209 a.C. Apesar de serem ameaça suficiente para forçar a Dinastia Qin a construir a Grande Muralha da China, essas aglomerações de certa forma desorganizadas de tribos não possuíam poder duradouro. Por vários séculos seguintes, muitas tribos tentaram se unir, mas essas breves alianças geralmente eram destruídas por intrigas internas e por disputas pela liderança, cavalos, mulheres ou direitos sobre o pasto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_4">
+			<Text>Durante um episódio particularmente caótico, o filho mais novo de um chefe Mongol, chamado Temujin, derrotou uma terrível tribo de Merkits. Impressionado com a vitória e seu controle sobre o exército (ele proibiu roubos e estupros, que eram inéditos naquela época), alguns chefes lhe deram o título "Khan" e o controle da tribo.[NEWLINE][NEWLINE]Seus tios e primeiros, entretanto, não ficaram necessariamente felizes em verem o trono passar para o rapaz e tentaram tomar o controle da tribo à força. Porém, em uma brilhante campanha militar, que durou de 1203 a 1205 a.C., Temujin não só destruiu os rivais em sua família mas também colocou as demais tribos sob seu comando. Ninguém havia conseguido ganhar a sujeição de todas as tribos mongóis até então. Em 1206, ele assumiu o título "Genghis Khan", o Soberano Universal. Com este acontecimento monumental, o Império Mongol estava oficialmente criado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_5">
+			<Text>Genghis é principalmente conhecido por suas proezas e conquistas militares, mas ele só manteve controle do seu império por meio de rígida disciplina e ordem civil. Ele criou um código de leis chamado Yassa, que governou todos no Império, do nobre ao cidadão comum. O Yassa impôs severas penalidades a qualquer um que fosse flagrado não cumprindo a lei (normalmente a morte), a liberdade religiosa era garantida para todos, qualquer forma de vandalismo era proibida e os oficiais do governo eram escolhidos por mérito, não a linhagem. Apesar de seu enorme tamanho e variedade de grupos de pessoas, o Império Mongol foi incrivelmente bem organizado e um dos lugares mais seguros do planeta, se você seguisse as regras. Cidades apanhadas não cumprindo os decretos de Khan, eram sistematicamente e completamente destruídas.[NEWLINE][NEWLINE]Extensas rotas comerciais foram criadas, o que aumentou o tamanho do Império e permitiu a passagem segura da Europa para a China. Um sistema eficiente de mensagens, chamado Yam, também foi instituído - posteriormente, sua estrutura fora copiada pela Pony Express dos Estados Unidos. Estradas eram construídas, taxas justas eram cobradas e a linguagem escrita era ensinada a todos os cidadãos do Império. A vida era surpreendentemente boa, desde que obedecidas as normas de Khan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_6">
+			<Text>Com um sistema de governo tão eficiente funcionando, combinado com poderosos arqueiros mongóis montados, os países iam caindo sob a bandeira da Mongólia. No tempo da morte de Genghis, em 1227, o Império Mongol já havia se espalhado desde o Pacífico até o Mar Cáspio - duas vezes o tamanho do Império Romano em seu auge. Seus sucessores continuaram a subjulgar as nações vizinhas pelas próximas quatro décadas.[NEWLINE][NEWLINE]Por volta de 1258, os exércitos mongóis capturaram Bagdá, matando o califa após a recusa de rendição pacífica, o que abriu caminho para a Síria e o resto da Europa. Algumas pequenas expedições foram enviadas mais ao norte, como Ucrânia e Polônia, mas a maioria do exército não chegou a passar pela Síria. Tratados e cartas foram enviadas a Khan por muitas nações europeias, buscando alianças pacíficas em lugar da subjugação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_7">
+			<Text>A inevitável expansão dos Mongóis continuou a caminho do Atlântico, mas uma morte na família real de Khan forçou o general do norte e o filho de Kublai Khan, Hulegu, a se recuar para o Irã. A Síria e os novos territórios ocidentais foram rapidamente perdidos.[NEWLINE][NEWLINE]Hulegu e seu primo Berke (um general do leste) começaram a se enfrentar energicamente em razão de mortes suspeitas dos seus comandados, dividindo internamente o exército e territórios pela disputa. Kublai rapidamente acabou com o desconforto interno e enviou os exércitos de volta à conquista e à expansão. Entretanto, a lealdade do exército Mongol e do governo foi enfraquecida, definindo a base para a queda do Império.[NEWLINE][NEWLINE]Vários conflitos internos entre a família de Khan e seus generais aconteceram durante os próximos cem anos, enfraquecendo ainda mais o Império. Com a morte então Khan, em 1335, a Pérsia rapidamente entrou em anarquia. A chegada da Peste Negra também matou a maioria dos oficiais do governo, cortou laços comerciais com aliados do Império e levou milhões de mongóis à morte. Não é necessário dizer que o caos estava instalado.[NEWLINE][NEWLINE]Logo, as províncias ocidentais caíram, seguidas pela perda da China em 1368. Os mongóis restantes rapidamente voltaram a sua terra natal na Mongólia, dividindo-se novamente em pequenas tribos. Em trinta anos, o Império que um dia havia dominado o mundo foi reduzido a entulhos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_8">
+			<Text>Pelos próximos três séculos os Mongóis lentamente encolheram-se em poder e a maioria retornou ao seu modo tribal de viver, com o último Khan morrendo em 1634. Em 1691, a área que hoje circunda a Mongólia foi trazida ao domínio da China e permaneceu assim até 1911. Durante este tempo, a irresponsabilidade dos nobres, combinada com práticas inescrupulosas da China na cobrança de impostos, causou uma pobreza desenfreada pela região.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_9">
+			<Text>Com a queda da Dinastia Qing em 1911, a Mongólia declarou a independência, mas com poucas vantagens. Em 1919, ela foi capturada por Xu Shuzheng. NO entanto a Rússia veio ao socorro da Mongólia e derrotou os chineses ocupantes três anos depois. Em 1924, guiados pela URRS, a República Popular da Mongólia nasceu.[NEWLINE][NEWLINE]A vida sob o regime comunista foi difícil. Todos os suprimentos tornaram-se propriedade do governo, monastérios budistas foram destruídos e seus monges massacrados. Constantes guerras dentro e fora das fronteiras do país levaram o povo à revolta. A pobreza se tornou um problema ainda maior.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_10">
+			<Text>Em 1992, influenciada pela campanha perestroika de Mikhail Gorbachev na URRS, a Mongólia viu uma revolução democrática pacífica, introduzindo um sistema multipartidário e economia capitalista no processo. Uma nova constituição foi aprovada e o país foi renomeado para "Mongólia". Os primeiros anos foram difíceis, mas o país, desde então, se tornou uma economia industrial importante, graças aos seus recursos minerais valiosos. Apesar de nova, a Mongólia já formou várias alianças positivas com líderes mundiais, incluindo Japão, Estados Unidos e China, além de estar em contínuo trabalho em busca de um modo de vida melhor para o seu povo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_FACTOID_HEADING">
+			<Text>Fatos Curiosos Mongóis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_FACTOID_TEXT">
+			<Text>O sistema de mensagens do Império Mongol formou a base da famosa Pony Express.[NEWLINE][NEWLINE]O conhecimento europeu do mundo deve-se, em muito, as rotas comerciais mantidas pelo Império Mongol.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_HEADING">
+			<Text>Keshik Mongol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_TEXT">
+			<Text>No século XII, os Mongóis estavam fervendo na Ásia Central, conquistando a maioria do continente, Europa Oriental e uma grande porção do Oriente Médio em um século. A principal arma dos Mongóis era seus incomparáveis arqueiros montados, os Keshiks. Os Mongóis eram tribos nômades e suas crianças eram praticamente "criadas sobre a sela". Cavalgando em seus pequenos e fortes pôneis, os protegidos e armados mongóis podiam cobrir um enorme espaço de terras em um dia, ultrapassando em muito a capacidade de patrulhamento de infantarias e cavalarias pesadas da Europa.[NEWLINE][NEWLINE]Em batalha, os Keshiks Mongóis atiravam da montaria com precisão mortal, desorganizando e desmoralizando as formações inimigas. Assim que o oponente estava adequadamente enfraquecido, as unidades de cavalaria pesada mongóis se encarregavam de dar o golpe de misericórdia. Quando enfrentavam Cavaleiros europeus com armaduras, os Mongóis simplesmente atiravam em seus cavalos e, então, ignoravam ou destruíam o inimigo desmontado quando queriam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_HEADING">
+			<Text>Khan Mongol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_TEXT">
+			<Text>Originalmente os Khans eram chefes tribais do povo Mongol, comandando de uma simples tribo até uma confederação de algumas. Na época em que Genghis subiu ao poder, o título geralmente era reservado aos líderes militares, mas depois foi utilizado também para denotar líderes civis do Império Mongol. Os Khans eram os soberanos eleitos de províncias do Império, mantendo seus títulos pelo mérito e lealdade, ao invés laços sanguíneos. Esses líderes muitas vezes também serviam como generais, liderando o exército Mongol em suas eficazes conquistas. Depois, uma extensão da palavra foi criada, "Khagan", para denotar um grande soberano, o Khan dos Khans, por assim dizer, mas este termo não foi utilizado antes da morte de Genghis Khan, em 1227 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_LIVED">
+			<Text>1162-1227 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_NAME">
+			<Text>Genghis Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_SUBTITLE">
+			<Text>Líder da Mongólia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TITLES_1">
+			<Text>Líder da Mongólia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_HEADING_2">
+			<Text>Nascimento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_HEADING_3">
+			<Text>Primeiros anos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_HEADING_4">
+			<Text>Começa a unificação</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_HEADING_5">
+			<Text>Expansão exterior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_HEADING_6">
+			<Text>Sucessão e Morte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_HEADING_7">
+			<Text>Julgamento da História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TEXT_1">
+			<Text>Genghis Khan é um dos mais conhecidos e mais temidos líderes de toda história humana. Centenas de estátuas, edificações e produtos comerciais usam sua imagem e uma grande quantidade de trabalhos de entretenimento foi criada em honra a sua vida. Ele se tornou o primeiro a unir as tribos nômades e rivais do nordeste da Ásia e fundou o maior Império contíguo que o homem já conheceu. Talvez, menos conhecidos são as melhorias e avanços que ele fez em infraestrutura, comércio e tolerância religiosa. Mais que apenas um guerreiro, ele também foi um líder civil muito capaz e astuto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TEXT_2">
+			<Text>Nascido como Borjigin Temujin, em 1162 d.C., foi criado em uma tribo Mongol que habitava as terras próximas a atual Ulaanbaatar. Terceiro filho de um chefe tribal, diz-se que foi nomeado Genghis Khan após a captura de um chefe Tatar. Muito dos primeiros anos da vida de Temujin são cercados de mistérios e as poucas fontes de informações que existem frequentemente são conflitantes. Hoje não há imagens precisas da sua existência, mas muitas fontes o descrevem como um "brilhante" homem, com um longo cabelo vermelho e olhos azul-esverdeados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TEXT_3">
+			<Text>Como muitos dos tribais da região, os primeiros anos da vida de Temujin foram bem difíceis, apesar de ter nascido na nobreza. Aos nove anos ele foi prometido em casamento a uma filha de um chefe tribal vizinho e enviado para viver com sua família. Seu pai foi morto no caminho de volta para casa e a tribo de Temujin o abandonou, assim como o resto de sua família. A família ficou destituída até seu casamento com sua prometida, aos 16 anos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TEXT_4">
+			<Text>Temujin começou suas apostas por poder se oferecendo como vassalo do seu irmão consanguíneo mais velho, Toghrul, o Khan da tribo de Kerait. Durante esse tempo, a esposa de Temujin foi capturada pela tribo Merkit e Toghrul emprestou ao jovem guerreiro 20.000 homens para que lutasse com eles. Temujin não só resgatou sua esposa, mas ele também derrotou completamente os Merkits, colocando-os sob seu controle. Ele se tornou um Khan e começou a conquistar mais das tribos vizinhas.[NEWLINE][NEWLINE]Durante as suas conquistas, o jovem Khan fundamentalmente rompeu com as tradições Mongóis - ele criou um novo conjunto de leis e incorporou suas conquistas ao seu crescente Império, ao invés de destruí-las ou saqueá-las. Suas leis, o Yassa, prometiam aos soldados um pagamento justo, proibiam o roubo e qualquer tipo de saque e prometiam proteção e liberdade religiosa a todas as tribos conquistadas. As inovações políticas de Temujin lhe trouxeram muita lealdade e uniu fortemente sua nação sempre crescente.[NEWLINE][NEWLINE]O resto de sua expansão exterior e unificação das tribos Mongóis são repletos de contos de traição, intrigas, vitórias esmagadoras, conspirações, disputas familiares e mais traições, incluindo rixas entre seu outrora aliado Toghrul e seu filho mais velho, Jochi. Entretanto, apesar desses reveses, ele conseguiu subjulgar e unir todas as tribos nômades da Mongólia em 1206, o primeiro homem que foi capaz de fazer isso. Em um conselho de chefes tribais, ele recebeu o título de "Genghis Khan", o eterno e universal soberano do povo Mongol.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TEXT_5">
+			<Text>Após a unificação da Mongólia, Genghis logo começou uma série de campanhas militares bem sucedidas para conquistar áreas vizinhas, criando um maciço Império sob seu comando. Em 1209, ele forçou o rendimento das províncias Xia e logo após, em 1211, ele concluiu a conquista da Dinastia Jin.[NEWLINE][NEWLINE]Em seguida, ele virou sua atenção ao ocidente, Pérsia. Em uma hábil manobra, com apenas dois exércitos de 20.000 homens cada, Genghis desferiu um eficaz ataque contra Kara-Khitan Khanate, colocando seu controle bem na porta da Pérsia.[NEWLINE][NEWLINE]Ao invés de conquistar o império vizinho de Khwarezmia, Genghis ofereceu uma aliança política, enviando uma caravana comercial de 500 homens para a capital - ele esperava criar um poderoso aliado comercial ao utilizar a Rota da Seda. No entanto, Khwarezmian Shah ignorou o jovem líder e massacrou a caravana. Tentando mais uma vez, Gengis enviou um grupo de embaixadores diretamente a Shah, que respondeu com a decapitação de um deles. Irado, Genghis reuniu quase 20.000 homens e pessoalmente comandou um banho de sangue e conseguiu a subjugação do Império Khwarezmian, em 1220, e prosseguiu com suas bem-sucedidas capturas das muitas regiões em seu caminho de volta à Mongólia, incluindo Geórgia, Afeganistão e o restante das cidades ocidentais de Xia.[NEWLINE][NEWLINE]Sua vitoriosa jornada continuou, com o Império de Genghis crescendo desde o Mar Cáspio, no ocidente, até o Mar do Japão, no oriente, duas vezes o tamanho do Império Romano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TEXT_6">
+			<Text>Agora um adulto, o tópico sobre a sucessão de Genghis é inflamado e altamente contestável. Seu primogênito, Jochi, é suspeito de ser filho de outro homem (em razão da captura de sua esposa) e muitos se recusaram completamente a segui-lo. Entretanto, o embate terminou em 1226 quando Jochi morreu misteriosamente. Alguns alegam que o próprio Genghis ordenou que o filho fosse envenenado. Seu filho do meio, Ogedei, foi nomeado herdeiro, por Genghis achar que ele era o mais talentoso e estável de todas as suas crianças.[NEWLINE][NEWLINE]Logo em seguida Genghis morreu, em 1227. A razão disso ainda é debatida. Alguns alegam que ele caiu de seu cavalo durante uma batalha contra o povo Tangut; outros asseguram que ele foi afetado por uma enfermidade prolongada; alguns ainda afirmam que uma princesa Tangut capturada o matou com um alicate. Independente da forma ou razões, Genghis Khan foi enterrado em uma sepultura não identificada, da forma que ele queria. Sua localização é um segredo guardado pela família. Alguns contos dizem que um rio foi desviado sobre o local do sepultamento para protegê-lo; outras histórias descrevem um bosque que foi plantado sobre a tumba para escondê-la. Em 2004, um arqueologista escavou o que ele pensou serem as ruínas do palácio de Genghis. Ainda há esperanças de que sua sepultura possa ser encontrada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_TEXT_7">
+			<Text>Dependendo a quem você perguntar, Genghis Khan é tido como um líder notável e excelente governante ou, ao contrário, como um assassino sangrento. Atualmente na Mongólia, ele é lembrado como o pai da nação e suas muitas inovações políticas são acolhidas e anunciadas. Em antigas terras, outrora conquistadas, como o Iraque e Irã, ele é visto quase que universalmente como um genocida, tirano maníaco que causou destruição nunca vista. Independentemente dos seus contos de grandeza ou brutalidade serem contestados ou exagerados, ele é, sem dúvidas, um dos mais importantes e influentes líderes do mundo antigo. Seu legado continua forte e visível ainda nos dias atuais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_FACTOID_HEADING">
+			<Text>Fatos Curiosos de Genghis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GENGHIS_FACTOID_TEXT">
+			<Text>Descobertas recentes em mapeamento genealógico sugerem que cerca de 8% dos homens na Ásia (cerca de 0.5% do mundo) podem ser rastreados diretamente até Genghis Khan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_HELP">
+			<Text>Esta unidade Mongol exclusiva substitui o Cavaleiro padrão. Ela possui um forte ataque a distância, mais pontos de movimento e recebe promoções 50% mais rápido. Suas batalhas contribuem com o dobro de pontos para a geração de um Grande General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_INFO">
+			<Text>O Keshik é uma unidade exclusiva Mongol, disponível na Era Medieval. Este substituto para o Cavaleiro padrão possui mais pontos de movimento, recebe promoções no dobro da velocidade e contribui em dobro para a geração de Grandes Generais. O Keshik também pode atacar inimigos de longe, utilizando seu poderoso ataque a distância.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_STRATEGY">
+			<Text>O Keshik é a substituição exclusiva para o Cavaleiro, disponível aos Mongóis no início da Era Medieval. O Keshik possui um poderoso ataque a distância e mais pontos de movimento (5 no total), permitindo que ele possa atacar e se proteger de forma muito mais eficaz. Se isso não fosse suficiente, o Keshik também recebe promoções no dobro da velocidade, se comparado com outras unidades, além de contribuir com o dobro de quantidade de pontos necessários para a geração de Grandes Generais. Esses guerreiros montados garantem a Genghis o controle de planícies abertas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_HELP">
+			<Text>Esta Grande Pessoa Mongol exclusiva substitui o Grande General. Apesar de fornecer os mesmos bônus de combate que um Grande General comum, o Khan se move mais e pode curar unidades adjacentes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_INFO">
+			<Text>O Khan é a Grande Pessoa exclusiva disponível aos Mongóis, fornecendo maior poder de cura às unidades próximas. Para poder acompanhar as unidades montadas Mongóis, Khans também possuem um número maior de pontos de movimento.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_STRATEGY">
+			<Text>O Khan é a Grande Pessoa exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o Khan se move na mesma taxa que o Keshik (5 pontos por turno) e pode curar unidades adjacentes (2HP extra por turno). Este musculoso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

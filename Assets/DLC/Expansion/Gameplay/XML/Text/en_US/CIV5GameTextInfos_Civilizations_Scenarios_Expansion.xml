@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<!-- FALL OF ROME SCENARIO -->
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_DESC">
+			<Text>Roma Oeste</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_SHORT_DESC">
+			<Text>Roma Oeste</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_ADJECTIVE">
+			<Text>de Roma Oeste|de Roma Oeste|de Roma Oeste |de Roma Oeste</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_DESC">
+			<Text>Roma Leste</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_SHORT_DESC">
+			<Text>Roma Leste</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_ADJECTIVE">
+			<Text>de Roma Leste|de Roma Leste|de Roma Leste |de Roma Leste</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>					
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_DESC">
+			<Text>Império Sassânida</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_SHORT_DESC">
+			<Text>Império Sassânida</Text>			
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_ADJECTIVE">
+			<Text>Sassânido|Sassânida|Sassânidos|Sassânidas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_DESC">
+			<Text>Reino Franco</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>Império Francos</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>Franco|Franca|Francos|Francas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_DESC">
+			<Text>Reino Godo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>Reino Godo</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>Godo|Goda|Godos|Godas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_DESC">
+			<Text>Reino Vândalo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_SHORT_DESC">
+			<Text>Império Vândalo</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_ADJECTIVE">
+			<Text>Vândalo|Vândala|Vândalos|Vândalas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_DESC">
+			<Text>Império Eruco</Text>            
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>Império Eruco</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>Eruco|Eruca|Erucos|Erucas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>            
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_DESC">
+			<Text>Império Orlino</Text>            
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_SHORT_DESC">
+			<Text>Orlina</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_ADJECTIVE">
+			<Text>Orlino|Orlina|Orlinos|Orlinas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>            
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>Império Pulias</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_SHORT_DESC">
+			<Text>Império Pulias</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_ADJECTIVE">
+			<Text>Puliano|Puliana|Pulianos|Pulianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_DESC">
+			<Text>Império Vedria</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_SHORT_DESC">
+			<Text>Império Vedria</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_ADJECTIVE">
+			<Text>Vedriano|Vedriana|Vedrianos|Vedrianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_DESC">
+			<Text>Império Dalmace</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>Dalmace</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>Dalmaciano|Dalmaciana|Dalmacianos|Dalmacianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_ADJECTIVE">
+			<Text>Ludite|Ludite|Ludites|Ludites</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_DESC">
+			<Text>Horda Ludite</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_SHORT_DESC">
+			<Text>Horda Ludite</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_DESC">
+			<Text>Dinastia Aiúbida</Text>            
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_SHORT_DESC">
+			<Text>Dinastia Aiúbida</Text>
+            <Gender>feminine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_ADJECTIVE">
+			<Text>Aiúbido|Aiúbida|Aiúbidos|Aiúbidas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>            
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_SHORT_DESC">
+			<Text>Califado Almôada</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_DESC">
+			<Text>Califado Almôada</Text>            
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_ADJECTIVE">
+			<Text>Almôada|Almôada|Almôadas|Almôadas</Text>            
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_SHORT_DESC">
+			<Text>Império Turco</Text>
+            <Gender>masculine</Gender>			
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_DESC">
+			<Text>Império Turco</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_ADJECTIVE">
+			<Text>Turco|Turca|Turcos|Turcas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+	</Language_en_US>
+</GameData>

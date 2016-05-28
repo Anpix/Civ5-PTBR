@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE">
+			<Text>Livro do Juízo|Livros do Juízo</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE">
+			<Text>Tribunal Distrital|Tribunais Distritais</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+		</Row>
+	</Language_en_US>
+</GameData>

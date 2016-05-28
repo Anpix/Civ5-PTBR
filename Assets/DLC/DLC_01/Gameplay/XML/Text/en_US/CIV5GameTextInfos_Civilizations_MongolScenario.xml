@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_ADJECTIVE">
+			<Text>Jin|Jin</Text>
+			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_DESC">
+			<Text>Dinastia Jin</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_SHORT_DESC">
+			<Text>Jin</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_ADJECTIVE">
+			<Text>Bizante|Bizante</Text>
+			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_DESC">
+			<Text>Império Bizâncio</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_SHORT_DESC">
+			<Text>Bizante|Bizante</Text>
+			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>			
+		</Row>
+	</Language_en_US>
+</GameData>

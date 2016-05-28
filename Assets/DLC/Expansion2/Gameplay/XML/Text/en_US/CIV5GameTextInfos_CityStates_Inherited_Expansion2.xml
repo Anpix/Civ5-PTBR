@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <Language_en_US>
+        <Row Tag="TXT_KEY_CITYSTATE_ANTWERP">
+            <Text>Antuérpia</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJ">
+            <Text>Antuerpiano|Antuerpiana|Antuerpianos|Antuerpianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_CAHOKIA">
+            <Text>Cahokia</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_ADJ">
+            <Text>Cahokiano|Cahokiana|Cahokianos|Cahokianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_COLOMBO">
+            <Text>Colombo</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJ">
+            <Text>Colombo</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG">
+            <Text>Hong Kong</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
+            <Text>de Hong Kong|de Hong Kong</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
+            <Text>Jerusalem</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJ">
+            <Text>Jerosolomita|Jerosolomitas</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_LA_VENTA">
+            <Text>La Venta</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJ">
+            <Text>de La Venta|de La Venta</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MANILA">
+            <Text>Manila</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJ">
+            <Text>de Manila|de Manila</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MILAN">
+            <Text>Milão</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MILAN_ADJ">
+            <Text>Milanês|Milanesa|Milaneses|Milanesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MOMBASA">
+            <Text>Mombasa</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJ">
+            <Text>de Mombasa|de Mombasa</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_PRAGUE">
+            <Text>Praga</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJ">
+            <Text>de Praga|de Praga</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_VALLETTA">
+            <Text>Valeta</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJ">
+            <Text>de Valeta|de Valeta</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY">
+            <Text>Cidade do Vaticano</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJ">
+            <Text>da Cidade do Vaticano|da Cidade do Vaticano</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
+            <Text>Wittenberg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
+            <Text>de Wittenberg|de Wittenberg</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_YEREVAN">
+            <Text>Yerevan</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJ">
+            <Text>de Yerevan|de Yerevan</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR">
+            <Text>Zanzibar</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ">
+            <Text>de Zanzibar|de Zanzibar</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ZURICH">
+            <Text>Zurique</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
+            <Text>Zuriquenho|Zuriquenha|Zuriquenhos|Zuriquenhas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+    </Language_en_US>
+</GameData>

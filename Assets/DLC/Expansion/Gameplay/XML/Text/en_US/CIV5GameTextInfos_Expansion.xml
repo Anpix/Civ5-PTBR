@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT">
+			<Text>ESCOLHER BÔNUS DA CONTA LONGA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT_TT">
+			<Text>Você pode escolher um bônus grátis para celebrar o fim do atual b'ak'tun da Conta Longa (calendário vigesimal) Maia!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON">
+			<Text>ESCOLHER GRANDE PESSOA PELA FÉ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON_TT">
+			<Text>Você pode escolher uma das seguintes Grandes Pessoas como benefício por sua Fé acumulada!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SELECTED_EARLIER_BAKTUN">
+			<Text>Já escolhido como o bônus para celebrar o fim do B'ak'tun {1_Num}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAYA_CALENDAR_LONG_STRING">
+			<Text> {1_Num} b'ak'tun, {2_Num} k'atun, {3_Num} tun, {4_Num} winal, {5_Num} k'in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAYA_DATE_TOOLTIP">
+			<Text>Seus cientistas e teólogos introduziram as maravilhas do calendário Maia. Quando o atual b'ak'tun terminar, você receberá uma Grande Pessoa à escolha, como parte da celebração.[NEWLINE][NEWLINE]A atual data na Conta Longa Maia é:[NEWLINE]{1_LongMayaCalendarString}[NEWLINE][NEWLINE]({2_TraditionalDateString} no resto do mundo).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_MERCHANT_FROM_FAITH">
+			<Text>Um Grande Mercador somente pode ser selecionado se você tiver iniciado o ramo da Política Social Comércio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_SCIENTIST_FROM_FAITH">
+			<Text>Um Grande Cientista somente pode ser selecionado se você tiver iniciado o ramo da Política Social Racionalismo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ARTIST_FROM_FAITH">
+			<Text>Um Grande Artista somente pode ser selecionado se você tiver iniciado o ramo da Política Social Independência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_GENERAL_FROM_FAITH">
+			<Text>Um Grande General somente pode ser selecionado se você tiver iniciado o ramo da Política Social Autocracia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ADMIRAL_FROM_FAITH">
+			<Text>Um Grande Almirante somente pode ser selecionado se você tiver iniciado o ramo da Política Social Autocracia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ENGINEER_FROM_FAITH">
+			<Text>Um Grande Engenheiro somente pode ser selecionado se você tiver iniciado o ramo da Política Social Ordem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_PROPHET_FROM_FAITH">
+			<Text>Um Grande Profeta não pode ser selecionado, pois você ainda não fundou uma religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION">
+			<Text>Sem Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION_HELP">
+			<Text>Desabilita o sistema religioso. Fé não é gerada. Panteões e Religiões não podem ser fundados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_PUPPET">
+			<Text>[NEWLINE][ICON_BULLET]Modificador por Fantoche: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_BELIEF">
+			<Text>[NEWLINE][ICON_BULLET]Modificador pela Religião: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
+			<Text>Você saqueou {1_Num} de [ICON_GOLD]Ouro e {2_Num} de [ICON_CULTURE]Cultura pela captura {@3: gender *:noart?de; feminine?{@3: plural 2?das; other?da;}; masculine?{@3: plural 2?dos; other?do;}; other?de;} {@3_CityName}!!!</Text>
+		</Row>
+
+		<!-- Faith Info -->
+		<Row Tag="TXT_KEY_BUILD_CULTURE_STRING">
+			<Text>{1_Num}[ENDCOLOR] [ICON_CULTURE]Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FAITH_STRING">
+			<Text>{1_Num}[ENDCOLOR] [ICON_PEACE]Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FAITH">
+			<Text>[ICON_PEACE]Fé: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_HELP_INFO">
+			<Text>A [ICON_PEACE]Fé é gasta ao fundar e melhorar [COLOR_POSITIVE_TEXT]Religiões[ENDCOLOR] em nível de Império. A [ICON_PEACE]Fé também pode ser consumida para comprar Missionários, Inquisidores e Edifícios Religiosos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_RELIGION">
+			<Text>{1_Num} de [ICON_CULTURE]Cultura pela Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_BUILDINGS">
+			<Text>{1_Num} de [ICON_PEACE]Fé dos Edifícios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_TERRAIN">
+			<Text>{1_Num} de [ICON_PEACE]Fé do Terreno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_POLICIES">
+			<Text>{1_Num} de [ICON_PEACE]Fé das Políticas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_TRAITS">
+			<Text>{1_Num} de [ICON_PEACE]Fé da Característica Única</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_RELIGION">
+			<Text>{1_Num} de [ICON_PEACE]Fé da Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_FAVORED_RELIGION">
+			<Text>{2_Num} {2: plural 1?Cidadão; other?Cidadãos;}: {1_ReligionString}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_HOLY_CITY">
+			<Text>(Cidade Santa)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_RELIGION_SPREADING">
+			<Text>(espalhando agora para cidades adjacentes)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_OTHER_FOLLOWERS">
+			<Text>{1_Num} {1: plural 1?Cidadão; other?Cidadãos;}: Outras Religiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ATHEISTS">
+			<Text>{1_Num} {1: plural 1?Cidadão: Ateísta; other?Cidadãos: Ateístas;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NO_RELIGION">
+			<Text>Não há religiões presentes nesta cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CANNOT_PURCHASE_NO_FAITH">
+			<Text>[NEWLINE]Você não possui [ICON_PEACE]Fé suficiente para comprar isso.</Text>
+		</Row>
+		<!-- City-States-->
+		<Row Tag="TXT_KEY_POPUP_MINOR_GIFT_TILE_IMPROVEMENT">
+			<Text>{1_NumGold} de [ICON_GOLD]Ouro - Melhorar o Recurso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_BULLY_GOLD_AMOUNT">
+			<Text>Pegar {1_NumGold} de [ICON_GOLD]Ouro - perderá {2_NumInfluence} de [ICON_INFLUENCE]Influência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_BULLY_UNIT_AMOUNT">
+			<Text>Escravizar {@1: gender feminine?uma; other?um;} {@1_Unit} - perderá {2_NumInfluence} de [ICON_INFLUENCE]Influência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_ESPIONAGE">
+			<Text>Sem espionagem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_ESPIONAGE_HELP">
+			<Text>Desabilitar o sistema de espionagem. Nenhum espião será gerado.</Text>
+		</Row>
+		<!--EMBASSIES-->
+		<Row Tag="TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING">
+			<Text>Permite que embaixadas sejam estabelecidas nas capitais de outras civilizações.</Text>
+		</Row>
+		<!--STRING REPLACEMENTS-->
+		<Row Tag="TXT_KEY_ABLTY_DEFENSIVE_EMBARK_STRING">
+			<Text>Dobra a força de defesa de unidades embarcadas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HITPOINTS">
+			<Text>[ICON_STRENGTH] Pontos de Vida: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CULTURE_BOMB">
+			<Text>[COLOR_NEGATIVE_TEXT]Você roubou o território deles com um Grande General![ENDCOLOR]</Text>
+		</Row>
+		<!-- =====================================-->
+		<!-- == BEGIN new Diplomacy Victory text keys ==-->
+		<!-- =====================================-->
+		<Row Tag="TXT_KEY_POP_UNITED_NATIONS_VOTE_NOT_SELF_ALT">
+			<Text>(Não é possível votar em si mesmo.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_ELEC_VOTE_TT_CIV_ALT">
+			<Text>{@1_VotingCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName}, civilização com a qual {@1: plural 2?possuem; other?possui;} melhor relação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_ELEC_VOTE_TT_CITYSTATE_ALT">
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_MinorCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName}, porque {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_RecipientCivName} os {@2: plural 2?libertaram ou são aliados}; other?libertou ou é aliado;} deles atualmente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_ELEC_PRELIMINARY_ALT">
+			<Text>Esta pesquisa preliminar mostra quais potências mundiais são apoiadas pelos jogadores nas Nações Unidas. Os jogadores não podem votar em si. A partir do próximo voto, a Vitória Diplomática será possível.</Text>
+		</Row>
+		<!-- ===================================-->
+		<!-- == END new Diplomacy Victory text keys ==-->
+		<!-- ===================================-->
+	</Language_en_US>
+</GameData>

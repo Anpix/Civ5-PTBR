@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA">
+			<Text>Hotu Matua</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>									
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_KAMEHAMEHA_NAME">
+			<Text>Hotu Matua</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>									
+		</Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_MONTEZUMA">
+      <Text>'Aho'eitu</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>						      
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MONTEZUMA_NAME">
+      <Text>'Aho'eitu</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>						      
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI">
+      <Text>Malietoa Savea</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>						      
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_GANDHI_NAME">
+      <Text>Malietoa Savea</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>						      
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA">
+      <Text>Pomare I</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>						      
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HIAWATHA_NAME">
+      <Text>Pomare I</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>						      
+    </Row>
+	</Language_en_US>
+</GameData>

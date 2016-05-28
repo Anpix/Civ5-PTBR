@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_1">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_2">
+			<Text>Tudo bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_3">
+			<Text>Certamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_4">
+			<Text>Está combinado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_5">
+			<Text>Oh, muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_6">
+			<Text>Acho que eu devo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_7">
+			<Text>Excelente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_1">
+			<Text>Muito bem - fica na sua consciência!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_3">
+			<Text>Como se atreve?! Você vai sofrer pela sua monstruosa arrogância!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_1">
+			<Text>Seus muitos insultos a nós e aos nossos leais súditos não ficarão impunes. Prepare-se para a guerra!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_2">
+			<Text>Pela graça de Deus, seus dias estão contados. Prepare-se para a guerra!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_3">
+			<Text>O tempo para discursos educados e gestos bonitos terminou - vamos nos encontrar no campo de batalha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_1">
+			<Text>Você nos superou no campo de batalha. Parabéns pela sua vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_2">
+			<Text>Você nos derrotou, por enquanto. Mas a Inglaterra ressuscitará um dia, ainda mais poderosa do que antes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_3">
+			<Text>Você triunfou sobre nós. O dia é seu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_ANGRY">
+			<Text>Dê-nos o que queremos ou sofra as consequências.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_HAPPY">
+			<Text>Meu querido amigo, você pode nos ajudar na nossa hora de necessidade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_NEUTRAL">
+			<Text>A Inglaterra tem necessidades... Necessidades que só você pode satisfazer. Espero que você esteja à altura.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_1">
+			<Text>Não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_2">
+			<Text>Certamente não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_3">
+			<Text>Nós recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_4">
+			<Text>Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_5">
+			<Text>Isso é inaceitável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_6">
+			<Text>Você não pode estar falando sério!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_7">
+			<Text>Perdão?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_1">
+			<Text>Saudações. Esperamos que os nossos dois povos sejam amigos, ao invés de inimigos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_2">
+			<Text>Seja bem-vindo. Rezo para que bons ventos o tenham trazido aqui.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_3">
+			<Text>Temos o prazer de te conhecer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_4">
+			<Text>Bem-vindo à Inglaterra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_1">
+			<Text>Bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_2">
+			<Text>Até breve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_3">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_4">
+			<Text>Até à próxima.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_5">
+			<Text>Vá embora agora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_6">
+			<Text>Isso é tudo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_7">
+			<Text>Vá embora!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_1">
+			<Text>É bom rever você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_2">
+			<Text>Olá, novamente!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_3">
+			<Text>Saudações!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_4">
+			<Text>Bem-vindo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_5">
+			<Text>Oh, é você!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_6">
+			<Text>Bem?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_7">
+			<Text>O que você quer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_1">
+			<Text>Vamos ouvi-lo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_2">
+			<Text>Vá em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_3">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_4">
+			<Text>Eu estou ouvindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_5">
+			<Text>Sim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_6">
+			<Text>O que você está dizendo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_7">
+			<Text>E?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_8">
+			<Text>Vá em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LOSEWAR_1">
+			<Text>Bem, está resolvido. Só espero que as nossas relações permaneçam tranquilas e amigáveis no futuro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_QUOTE_1">
+			<Text>Amado povo, temos sido persuadidos por alguns, que se preocupam com a nossa segurança, para ter cuidado no momento da apresentação para as multidões armadas, por medo de traição. Mas eu vos asseguro que não quero viver se eu tiver que desconfiar do meu fiel e querido povo. Deixe os tiranos tremer, Deus sabe que eu sempre coloco a minha força e segurança nos corações leais e na boa vontade dos meus súditos. E assim venho a vocês nesta ocasião, não por capricho ou prazer, mas resolvida a viver ou morrer no meio de todos vocês para entregar a minha honra ao meu Deus, ao meu Reino e ao meu povo. Eu sei que tenho o corpo de uma mulher frágil, mas também tenho o coração de um rei, rei da Inglaterra. E não duvidem que, se Parma, Espanha ou qualquer outro príncipe da Europa se atrever a invadir as fronteiras do meu reino, antes de perder a minha honra, eu mesma vou pegar em armas. Eu mesma serei vosso general, juiz e a recompensadora de cada uma de vossas virtudes no campo de batalha. Eu sei também, que o seu zelo já tem merecido prêmios e coroas; e eu vos prometo, pelo meu sangue real, que eles deverão lhes ser devidamente pagos. Entretanto, meu tenente-general vai assumir o meu lugar, pois um príncipe nunca comandou uma causa de forma tão digna e nobre; eu sei que com a vossa obediência ao meu general, pela sua disciplina e sua coragem no campo de batalha, dentro em breve iremos ter uma lendária vitória sobre os inimigos do meu Deus, do meu reino, e do meu povo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_QUOTE_2">
+			<Text>Meu amado povo, venho a vocês nesta ocasião, não por capricho ou prazer, mas resolvida a viver ou morrer no meio de todos vocês no centro de uma batalha, disposta a viver ou morrer por vocês, para entregar a minha honra e meu sangue para o meu Deus, para o meu reino e meu povo. Eu sei que tenho o corpo de uma mulher frágil, mas também tenho o coração de um rei, rei da Inglaterra. E não duvidem que, se Parma, Espanha ou qualquer outro príncipe da Europa se atrever a invadir as fronteiras do meu reino, antes de perder a minha honra, eu mesma vou pegar em armas. [...] Eu sei que com a vossa obediência ao meu general, com sua disciplina e sua coragem no campo de batalha, teremos em breve uma lendária vitória contra os inimigos de Deus, do meu reino e do meu povo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_1">
+			<Text>A Inglaterra não é tão generosa. Você vai ter que fazer melhor que isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Isso não é bom o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Você deve fazer melhor que isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Por favor! A Inglaterra não pode se dar ao luxo de ser tão generosa, mesmo com seus amigos! Não vai mesmo melhorar a oferta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Essa é a sua melhor oferta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Você está quase lá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Por favor! Tal diligência não é tomada por um líder da sua estatura! Com certeza você pode melhorar a sua oferta insignificante!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Você pode fazer melhor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Isso não é suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Quase.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_ANGRY">
+			<Text>Sua proposta é um insulto para a Inglaterra. Nós recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_HAPPY">
+			<Text>Meu querido amigo, pessoalmente gostaria de lhe dar tudo que possuímos, até o nosso último centavo. Nossos consultores são um pouco menos generosos. Por isso, devo lamentavelmente recusar sua oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_NEUTRAL">
+			<Text>Nós lhe imploramos para não desperdiçar o nosso tempo com idiotices.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_ANGRY">
+			<Text>Ah, muito bem. Acho que eu devo aceitar. Estamos de acordo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_HAPPY">
+			<Text>Felicitamos você pela sua habilidade de negociação e perspicácia! Aceitamos a sua oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_NEUTRAL">
+			<Text>A sua oferta nos agrada. Nós aceitamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_ANGRY">
+			<Text>Esta é a nossa oferta - e é de longe melhor do que você merece.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_HAPPY">
+			<Text>Meu querido amigo, você estaria interessado em um acordo de comércio com a Inglaterra?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_NEUTRAL">
+			<Text>Relações comerciais são a alma da civilização, você não concorda?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_ANGRY">
+			<Text>Você presume que pode exigir algo de NÓS? Vá embora, seu vilão detestável!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_HAPPY">
+			<Text>Os amigos não devem tratar uns aos outros desta forma. Estamos surpresos com a sua temeridade!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_NEUTRAL">
+			<Text>Você é muito engraçado! Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_ANGRY">
+			<Text>Você nos tem em desvantagem agora, mas pode não ser sempre assim. Vamos nos lembrar disso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_HAPPY">
+			<Text>É nosso prazer ajudar o nosso amigo e aliado na hora da necessidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_NEUTRAL">
+			<Text>Ah, muito bem, eu suponho que nós não temos escolha.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_1">
+			<Text>Que decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_2">
+			<Text>Realmente muito decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_3">
+			<Text>É mesmo? Eu acredito que você não viverá para se arrepender da sua falta de visão.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_4">
+			<Text>Quanta tolice a sua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_5">
+			<Text>Seu orgulho sem sentido será a sua morte se você não tomar cuidado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_6">
+			<Text>Muito bem. Está na sua consciência</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_WINWAR_1">
+			<Text>A Inglaterra sempre se levantará triunfante sobre seus inimigos! Faria bem a você se pudesse se lembrar disso no futuro.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

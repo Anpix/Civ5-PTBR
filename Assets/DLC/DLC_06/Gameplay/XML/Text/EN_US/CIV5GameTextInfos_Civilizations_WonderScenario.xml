@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_DESC">
+			<Text>Império Sumério</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_SHORT_DESC">
+			<Text>Suméria</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_ADJECTIVE">
+			<Text>Sumério|Suméria|Sumérios|Sumérias</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_DESC">
+			<Text>Império Hitita</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_SHORT_DESC">
+			<Text>Os Hititas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_ADJECTIVE">
+			<Text>Hitita|Hitita|Hititas|Hititas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>			
+		</Row>
+	</Language_en_US>
+</GameData>
