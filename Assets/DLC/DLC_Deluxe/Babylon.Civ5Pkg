@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Civ5Package>
+	<GUID>{7459BA32-5764-44ae-8E95-01AD0E0EFD48}</GUID>
+	<SteamApp>16864</SteamApp>
+	<SteamApp>16868</SteamApp>
+	<Version>1</Version>
+	<Key>d977e19d8432900ac5fb564da06be1be</Key>
+	<PTags>
+		<Tag>Version</Tag>
+	</PTags>
+	<Name>
+		<Value language="en_US">Babilônia</Value>
+	</Name>
+	<Description>
+		<Value language="en_US">Babilônia de Nabucodonosor</Value>
+	</Description>
+	<TextData>CIV5GameTextInfos_Leaders_Nebuchadnezzar.xml</TextData>
+	<TextData>CIV5GameTextInfos_Civilizations_Babylon.xml</TextData>
+	<TextData>Civ5_Dialog_Nebuchadnezzar.xml</TextData>
+	<TextData>CIV5GameText_Cities_Babylon.xml</TextData>	
+	<TextData>CIV5GameTextInfos_Buildings_Babylon.xml</TextData>	
+	<TextData>CIV5GameTextInfos_Babylon.xml</TextData>
+	<TextData>CIV5GameTextInfos_Units_Babylon.xml</TextData>
+	<TextData>Civ5CivlopediaDLC_Babylon.xml</TextData>	
+	<GameData>CIV5Leader_Nebuchadnezzar.xml</GameData>
+	<GameData>CIV5Civilization_Babylon.xml</GameData>
+	<GameData>CIV5Traits_Babylon.xml</GameData>
+	<GameData>CIV5Units_Babylon.xml</GameData>
+	<GameData>CIV5Buildings_Babylon.xml</GameData>
+	<GameData>UnitUISounds_Babylon.xml</GameData>
+	<GameData>CIV5Diplomacy_Responses_Nebuchadnezzar.xml</GameData>
+
+	<AudioDefines>NebuchadnezzarAudioDefines.xml</AudioDefines>
+    <AudioDefines>DawnOfMan_Speech_Babylon_AudioDefines.xml</AudioDefines>
+	<AudioScripts2D>NebuchadnezzarAudio2DScripts.xml</AudioScripts2D>
+    <AudioScripts2D>BabylonAudio2DScripts.xml</AudioScripts2D>
+    <AudioScripts2D>DawnOfMan_Speech_Babylon_Audio2DScripts.xml</AudioScripts2D>
+    <AudioScripts3D>U_Babylonian_Bowman3DScripts.xml</AudioScripts3D>
+
+	<UnitArtDefines>Civ5ArtDefines_Babylonian_Units.xml</UnitArtDefines>
+	<UnitArtDefines>Civ5ArtDefines_Babylonian_UnitMembers.xml</UnitArtDefines>
+	<VisEffectInfoDefines>Civ5ArtDefines_VisEffects_DLC_Deluxe.xml</VisEffectInfoDefines>
+	<VisEffectParticleDefines>Civ5ArtDefines_VisEffectParticles_DLC_Deluxe.xml</VisEffectParticleDefines>
+	<VisEffectModelDefines>Civ5ArtDefines_VisEffectModels_DLC_Deluxe.xml</VisEffectModelDefines>
+	
+	<Paks>
+		<File>BabylonianModels.fpk</File>
+		<File>BabylonianNebuchadnezzarTextures.fpk</File>
+	</Paks>
+	
+</Civ5Package>
