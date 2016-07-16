@@ -1,8 +1,11 @@
 # Civ5-PTBR
-Tradução do jogo Civilization V para Português Brasil
+## Tradução do jogo Civilization V para Português Brasil
 
-Projeto inicial:
+## Versão
+1.0.3.279
+
+## Projeto inicial:
 - Rubio (Robson)
 
-Continuação:
+## Continuação:
 - Anpix (Rafael Tavares)
