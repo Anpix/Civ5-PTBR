@@ -85,7 +85,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERCHANGEABLE_PARTS">
-			<Text>Produção em Série</Text>
+			<Text>Peças Substituíveis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -145,7 +145,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RAILROAD">
-			<Text>Ferrovia</Text>
+			<Text>Ferrovias</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -240,7 +240,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALCULUS_TITLE">
-			<Text>Cálculos</Text>
+			<Text>Cálculo</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -330,12 +330,12 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_TITLE">
-			<Text>Voo</Text>
+			<Text>Aeronáutica</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">
-			<Text>Tecnologia Futura</Text>
+			<Text>Tecnologia do Futuro</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -485,7 +485,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RAILROAD_TITLE">
-			<Text>Ferrovia</Text>
+			<Text>Ferrovias</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
