@@ -9,3 +9,4 @@
 
 ## Continuação:
 - Anpix (Rafael Tavares)
+- passarinhu (Tales Viana)
