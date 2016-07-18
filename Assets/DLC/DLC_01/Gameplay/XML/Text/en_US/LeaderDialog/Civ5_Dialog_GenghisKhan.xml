@@ -14,7 +14,7 @@
 			<Text>Sim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_1">
-			<Text>Você deve estar louco. Eu vou fazer um favor ao mundo em destruí-lo.</Text>
+			<Text>Você deve estar louco. Farei um favor ao mundo te destruindo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_2">
 			<Text>Você pagará por sua insolência.</Text>
@@ -32,10 +32,10 @@
 			<Text>A hora chegou para sua destruição.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_1">
-			<Text>Você é mais forte que eu. Eu te dou os parabéns.</Text>
+			<Text>Você é mais forte que eu. Eu parabenizo-o.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_2">
-			<Text>Eu falhei e devo pagar o preço. Vou aguardar minha execução.</Text>
+			<Text>Eu falhei e devo pagar o preço. Aguardarei minha execução.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_3">
 			<Text>Com a minha destruição, nada mais estará em seu caminho. Lembre-se de mim enquanto esmaga seus inimigos e conquista o mundo!</Text>
@@ -74,7 +74,7 @@
 			<Text>O guerreiro e orgulhoso povo Mongol o saúda. Trate-nos com respeito e você viverá para ver um novo amanhecer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_2">
-			<Text>Eu sou Temujin, mestre das estepes e conquistador de cidades. Você pode se rastejar de medo, se quiser.</Text>
+			<Text>Eu sou Temujin, mestre das estepes e conquistador de cidades. Você pode rastejar de medo, se quiser.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_3">
 			<Text>Saudações. Eu sou Temujin. Eu espero que você prove ser um amigo leal ou um valioso adversário.</Text>
@@ -131,7 +131,7 @@
 			<Text>Sim?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_LOSEWAR_1">
-			<Text>Eu te subestimei. Não farei isso novamente.</Text>
+			<Text>Eu lhe subestimei. Não farei isso novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_1">
 			<Text>Não desperdice meu tempo, cão. Melhore sua oferta ou suma daqui.</Text>
@@ -173,7 +173,7 @@
 			<Text>Sua sorte é que somos amigos, senão eu estaria extremamente insultado com sua oferta ridícula.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NO_NEUTRAL">
-			<Text>Você deve estar louco ao me insultar com uma oferta como esta. Nós recusamos.</Text>
+			<Text>Você deve estar louco em me insultar com uma oferta como esta. Nós recusamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_YES_ANGRY">
 			<Text>Por que não? Nós podemos sempre pegar de volta se mudarmos nosso entendimento.</Text>
@@ -188,10 +188,10 @@
 			<Text>Faria bem a você em aceitar nossa justa e bem razoável oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_HAPPY">
-			<Text>Esta troca interessa te interessa?</Text>
+			<Text>Esta troca lhe interessa?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_NEUTRAL">
-			<Text>Eu recomendo que você aceite esta troca. Raramente eu sou tão generoso.</Text>
+			<Text>Recomendo que você aceite esta troca. Raramente sou tão generoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_NO_ANGRY">
 			<Text>Você é um idiota suicida. Vá embora!</Text>

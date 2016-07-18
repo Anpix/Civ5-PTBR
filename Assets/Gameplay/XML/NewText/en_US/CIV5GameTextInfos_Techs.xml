@@ -85,9 +85,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERCHANGEABLE_PARTS">
-			<Text>Produção em Série</Text>
+			<Text>Peças Substituíveis</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING">
 			<Text>Ferro</Text>
@@ -267,7 +267,7 @@
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_TITLE">
 			<Text>Combustão</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_TITLE">
 			<Text>Bússola</Text>
@@ -330,12 +330,12 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_TITLE">
-			<Text>Voo</Text>
+			<Text>Aeronáutica</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">
-			<Text>Tecnologia Futura</Text>
+			<Text>Tecnologia do Futuro</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
