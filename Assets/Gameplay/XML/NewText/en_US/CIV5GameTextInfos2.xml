@@ -25,10 +25,10 @@
             <Text>Lançar unidades</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP">
-            <Text>Dentro de território amigável, esta unidade pode lançar unidades em outro hexágono. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>
+            <Text>Dentro de território amigável, esta unidade pode lançar unidades em outro hexágono. Feito isso, essas unidades ainda terão pontos de movimento para realizar outras ações.</Text>
         </Row>
 		<Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP_WITH_RANGE">
-            <Text>Dentro de território amigável, esta unidade pode lançar unidades até {1_NumTiles} à frente. Feito isso, essas unidades ainda terão movimentos para realizar suas outras ações.</Text>				  
+            <Text>Dentro de território amigável, esta unidade pode lançar unidades até {1_NumTiles} à frente. Feito isso, Feito isso, essas unidades ainda terão pontos de movimento para realizar outras ações.</Text>				  
 		</Row>		
         <Row Tag="TXT_KEY_INTERFACEMODE_AIR_SWEEP">
             <Text>Varredura aérea</Text>
