@@ -92,7 +92,7 @@
             <Text>Com pelo menos {1_NumGold} de [ICON_GOLD]Ouro, você poderá dar {@2_CivName: gender feminine?à; other?ao;} {2_CivName:textkey} um presente.</Text>
         </Row>
         <Row Tag="TXT_KEY_RANSOM_POPUP_ABANDON">
-            <Text>Não valem à pena. Deixe-os.</Text>
+            <Text>Não valem a pena. Deixe-os.</Text>
         </Row>
         <Row Tag="TXT_KEY_RANSOM_POPUP_INFO">
             <Text>Os bárbaros capturaram uma unidade civil! Eles estão solicitando {1_Num} de Ouro em troca da vida dos seus compatriotas. Qual é a sua resposta?</Text>
@@ -125,7 +125,7 @@
             <Text>Zoroastrismo</Text>
         </Row>
         <Row Tag="TXT_KEY_SMALL_AWARD_CITY">
-            <Text>Recompensa por Cidades!</Text>
+            <Text>Recompensa por Cidades</Text>
         </Row>
         <Row Tag="TXT_KEY_SMALL_AWARD_CITY_NOTIFICATION">
             <Text>Seu Império possui {1_Num} {1_Num: plural 1?cidade; other?cidades;}! Por esta realização, você ganhou {2_Num} {2_Num: plural 1?Ponto; other?Pontos;} de Civilização!</Text>
@@ -188,7 +188,7 @@
             <Text>PULAR TURNO DA UNIDADE</Text>
         </Row>
         <Row Tag="TXT_KEY_SKIP_TURN_TT">
-            <Text>Diz a unidade selecionada para não fazer nada neste turno.</Text>
+            <Text>Diz à unidade selecionada para não fazer nada neste turno.</Text>
         </Row>
         <Row Tag="TXT_KEY_MOVE_STACKED_UNIT">
             <Text>MOVER UNIDADE EMPILHADA</Text>
@@ -206,7 +206,7 @@
             <Text>CIDADE PODE ATACAR</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_RANGE_ATTACK_TT">
-            <Text>Execute um ataque a distância contra inimigos nas proximidades.</Text>
+            <Text>Execute um ataque à distância contra inimigos nas proximidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_VOTE">
             <Text>UM VOTO</Text>
@@ -221,7 +221,7 @@
             <Text>Clique com [COLOR_POSITIVE_TEXT]BOTÃO DIREITO[ENDCOLOR] para descartar.</Text>
         </Row>
         <Row Tag="TXT_KEY_WAITING_FOR_PLAYERS">
-            <Text>AGUARDE OS JOGADORES</Text>
+            <Text>AGUARDANDO JOGADORES</Text>
         </Row>
         <Row Tag="TXT_KEY_WAITING_FOR_PLAYERS_TT">
             <Text>O jogo está aguardando outros jogadores terminarem seus turnos.</Text>
@@ -269,7 +269,7 @@
             <Text>SELECIONAR CIVILIZAÇÃO</Text>
         </Row>
         <Row Tag="TXT_KEY_OPEN_TECH_TREE">
-            <Text>Abrir Árvore Tecnológica</Text>
+            <Text>Abrir Árvore de Tecnologias</Text>
         </Row>
         <Row Tag="TXT_KEY_TECH_POPUP_HEADER">
             <Text>Por favor, escolha uma nova tecnologia para pesquisar.</Text>
@@ -284,7 +284,7 @@
             <Text>Desconhecido</Text>
         </Row>
         <Row Tag="TXT_KEY_RAZED_CITY">
-            <Text>Cidade Eliminada</Text>
+            <Text>Cidade Destruída</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_ITEMS_OTHER_PLAYERS">
             <Text>OUTROS JOGADORES</Text>
@@ -296,10 +296,10 @@
             <Text>RECURSOS DE LUXO</Text>
         </Row>
         <Row Tag="TXT_KEY_NAME_CITY_TITLE">
-            <Text>Nomeie sua cidade!</Text>
+            <Text>Nomeie sua cidade</Text>
         </Row>
 		<Row Tag="TXT_KEY_NAME_UNIT_TITLE">
-			<Text>Nomeie sua unidade!</Text>
+			<Text>Nomeie sua unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERACTION_TEXT">
             <Text>Ações de construção</Text>
@@ -341,7 +341,7 @@
             <Text>Permite realizar Acordos Comerciais</Text>
         </Row>
         <Row Tag="TXT_KEY_ABLTY_BRIDGE_STRING">
-            <Text>Permite pontes sobre os rios.</Text>
+            <Text>Permite construir pontes sobre rios.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_ITEMS_LABEL">
             <Text>Itens de {1_PlayerName}</Text>
@@ -473,17 +473,17 @@
             <Text>[COLOR_XP_BLUE]+{1_Num} de XP[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_TALK_TO_PLAYER">
-            <Text>Clique aqui para falar com o dirigente desta Cidade!</Text>
+            <Text>Clique aqui para falar com o dirigente desta Cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_HAVENT_MET">
-            <Text>Você ainda não encontrou este jogador!</Text>
+            <Text>Você ainda não encontrou este jogador</Text>
         </Row>
 	<Row Tag="TXT_KEY_ALWAYS_AT_WAR_WITH_CITY">
 		<Text>Você está sempre em guerra com o dirigente desta cidade!</Text>
 	</Row>
       <!-- Disabled City Builds -->
         <Row Tag="TXT_KEY_NO_ACTION_VERY_UNHAPPY_SETTLERS">
-            <Text>[NEWLINE]Não poderá ser construído, enquanto o Império estiver [ICON_HAPPINESS_4]Muito Infeliz.</Text>
+            <Text>[NEWLINE]Não poderá ser construído enquanto o Império estiver [ICON_HAPPINESS_4]Muito Infeliz.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ACTION_UNIT_PROJECT_REQUIRED">
             <Text>[NEWLINE]O projeto {1_ProjectName:textkey} é necessário para treinar esta unidade.</Text>
@@ -831,7 +831,7 @@
             <Text>MARAVILHAS</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_UNITED_NATIONS_VOTE">
-            <Text>Votação das Nações Unidas!</Text>
+            <Text>Votação das Nações Unidas</Text>
         </Row>
         <Row Tag="TXT_KEY_GOLDEN_AGE_FLAVOR">
             <Text>Parabéns! Seus cidadãos estão felizes com o seu governo por tanto tempo que o Império entrou na Era Dourada!</Text>
@@ -858,7 +858,7 @@
             <Text>Alterna entre visualização estratégica e visualização normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_QUEST_DESTROY_BARBARIANS_NEAR">
-            <Text>Missão: destrua bárbaros nas proximidades de {1_Name}.</Text>
+            <Text>Missão: elimine bárbaros nas proximidades de {1_Name}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATE_QUEST_DEFEAT_UNITS">
             <Text>Missão: derrote {1_Num} {1_Num: plural 1?unidade; other?unidades;} de {2_PlayerName}.[NEWLINE]</Text>
