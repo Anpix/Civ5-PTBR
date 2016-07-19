@@ -2250,7 +2250,7 @@
 			<Text>25% de penalidade ao atacar cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ATOMIC_BOMB">
-			<Text>Libera uma destruição nuclear sobre seus inimigos. Causa enorme dano às cidades e qualquer unidade alcançada pelo raio da explosão. Pode ser guardada em Porta-Aviões.[NEWLINE][NEWLINE]Requer o Projeto Manhattan e um recurso de Urânio.</Text>
+			<Text>Libera uma destruição nuclear sobre seus inimigos. Causa enorme dano a cidades e a qualquer unidade alcançada pelo raio da explosão. Pode ser guardada em Porta-Aviões.[NEWLINE][NEWLINE]Requer o Projeto Manhattan e um recurso de Urânio.</Text>
 		</Row>
 	</Language_en_US>
 </GameData>
