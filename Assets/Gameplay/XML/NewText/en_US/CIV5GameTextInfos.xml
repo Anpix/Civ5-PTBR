@@ -158,7 +158,7 @@
             <Text>AGUARDE</Text>
         </Row>
         <Row Tag="TXT_KEY_PLEASE_WAIT_TT">
-            <Text>O jogo está processando os turnos dos outros jogadores neste momento.</Text>
+            <Text>O jogo está processando o turno dos outros jogadores neste momento.</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_POLICY">
             <Text>ADOTAR POLÍTICA</Text>
@@ -455,7 +455,7 @@
             <Text>O jogador {1_PlayerName:textkey} se desconectou. A Inteligência Artificial irá controlá-lo.</Text>
         </Row>
 		<Row Tag="TXT_KEY_PLAYER_DISCONNECTED_PITBOSS">
-		  <Text>{1_PlayerName:textkey} disconectado.</Text>
+		  <Text>{1_PlayerName:textkey} desconectado.</Text>
 		</Row>		
         <Row Tag="TXT_KEY_PLAYER_RECONNECTED">
             <Text>O jogador {1_PlayerName:textkey} se conectou.</Text>
@@ -624,10 +624,10 @@
             <Text>Progresso: {1_Num}/{2_Num} [ICON_FOOD]</Text>
         </Row>
         <Row Tag="TXT_KEY_FOOD_HELP_INFO">
-            <Text>[ICON_FOOD]Alimento é o que determina o quão rápido ocorre o crescimento da sua cidade e o aumento da população. [ICON_CITIZEN]Cidadãos trabalham nas terras e coletam [ICON_FOOD], [ICON_PRODUCTION] e [ICON_GOLD] para a cidade. Geralmente quanto maior a cidade, melhor!</Text>
+            <Text>[ICON_FOOD]Alimento é o que determina o quão rápido ocorre o crescimento de sua cidade e de sua população. [ICON_CITIZEN]Cidadãos trabalham nas terras e coletam [ICON_FOOD], [ICON_PRODUCTION] e [ICON_GOLD] para a cidade. Geralmente quanto maior a cidade, melhor!</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_HELP_INFO">
-            <Text>[ICON_PRODUCTION]Produção é o que determina o quão rápido a cidade treina suas unidades e constrói seus edifícios etc. É coletada a partir de terrenos, edifícios e muito mais.</Text>
+            <Text>[ICON_PRODUCTION]Produção é o que determina o quão rápido uma cidade treina suas unidades e constrói seus edifícios etc. É coletada a partir de terrenos, edifícios e muito mais.</Text>
         </Row>
         <Row Tag="TXT_KEY_GOLD_HELP_INFO">
             <Text>[ICON_GOLD]Ouro é estocado no Tesouro Nacional e pode ser usado para expandir seus territórios, comprar itens nas cidades e influenciar a Diplomacia.</Text>
@@ -834,10 +834,10 @@
             <Text>Votação das Nações Unidas</Text>
         </Row>
         <Row Tag="TXT_KEY_GOLDEN_AGE_FLAVOR">
-            <Text>Parabéns! Seus cidadãos estão felizes com o seu governo por tanto tempo que o Império entrou na Era Dourada!</Text>
+            <Text>Parabéns! Seus cidadãos estão felizes com o seu governo a tanto tempo que o Império entrou em um Era Dourada!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_GOLDEN_AGE_BEGIN">
-            <Text>A Era Dourada raiou!</Text>
+            <Text>Uma Era Dourada raiou!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_RUINS_EXPLORED">
             <Text>Ruínas exploradas!</Text>
@@ -1192,7 +1192,7 @@
         </Row>
 		<!-- new text -->
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON">
-		  <Text>ESCOLHER GRANDE PESSOA</Text>
+		  <Text>ESCOLHER GRANDE PESSOA GRATUITA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON_TT">
 		  <Text>Você pode escolher uma Grande Pessoa gratuitamente para o seu Império!</Text>
