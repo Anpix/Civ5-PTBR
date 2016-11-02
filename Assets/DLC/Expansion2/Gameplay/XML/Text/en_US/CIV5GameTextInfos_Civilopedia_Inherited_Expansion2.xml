@@ -10,34 +10,34 @@
 		</Row>
 		<!-- CIVILIZATION TEXT -->
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TITLE">
-			<Text>Ethiopia</Text>
+			<Text>Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING">
 			<Text>Factoids</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT">
-			<Text>The calendar used in Ethiopia, known as the Ge'ez, is based on the Coptic Calendar developed in ancient Egypt. Thanks to the Ge'ez, Ethiopia is the only nation in the world with a 13th month.[NEWLINE][NEWLINE]Legend has it that the stimulating effects of coffee were first discovered in Ethiopia, when a goatherd named Kaldi observed his goats bucking wildly after eating the berries of a coffee plant.[NEWLINE][NEWLINE]Ethiopia's capital city of Addis Ababa is one of the highest capitals in the world, sitting at an elevation nearly 8000 ft (2400m) above sea level.</Text>
+			<Text>O calendário utilizado na Etiópia, conhecido com Ge'ez, é baseado no Calendário Alexandrino desenvolvido no antigo Egito. Graças ao Ge'ez, a Etiópia é a única nação no mundo com um 13º mês.[NEWLINE][NEWLINE]A lenda conta que os efeitos estimulantes do café foram primeiramente descobertos na Etiópia, quando um pastor chamado Kaldi observou suas cabras coiceando de maneira selvagem após comerem os frutos de um cafeeiro.[NEWLINE][NEWLINE]A capital da Etiópia, Addis ABABA, é uma das capitais mais altas do mundo, localizada numa elevação a quase 2400 metros acima do nível do mar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_2">
-			<Text>Geography and Climate</Text>
+			<Text>Geografia e Clima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_3">
-			<Text>Origins of Human Development</Text>
+			<Text>Origens do Desenvolvimento Humano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_4">
-			<Text>Pre-History</Text>
+			<Text>Pré-História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_5">
-			<Text>Early Kingdoms</Text>
+			<Text>Primeiros Reinos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_6">
-			<Text>Return of the Solomonic Dynasty</Text>
+			<Text>Retorno da Dinastia Salomônica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_7">
-			<Text>Islamic Invasion</Text>
+			<Text>Invasão Islâmica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_8">
 			<Text>Age of Princes</Text>
@@ -46,22 +46,22 @@
 			<Text>Haile Selassie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_10">
-			<Text>Italian Occupation</Text>
+			<Text>Ocupação Italiana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_11">
-			<Text>The Derg</Text>
+			<Text>O Derg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_12">
-			<Text>Present-day Ethiopia</Text>
+			<Text>Etiópia Contemporânea</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_1">
-			<Text>Home to ancient empires dating back to the waning centuries of the first millennium BC, Ethiopia has a storied history driven by the rule of great kings and emperors. As one of the few African nations to avoid the colonial ambitions of Europe, Ethiopia maintained its sovereignty well into the 20th century, remaining independent until the invasion of Italian forces led by Mussolini in 1935. It was during this period that noted Emperor Haile Selassie brought Ethiopia to the forefront of global affairs, as his nation endured the conflicts of World War II, and he strove to set Ethiopia on a path of modernization and progressive reform.</Text>
+			<Text>Lar de impérios antigos que datam aos minguantes séculos do primeiro milênio antes de Cristo, a Etiópia viveu uma história dirigida pelo governo de grandes reis e imperadores. Como uma das poucas nações africanas a escapar das ambições coloniais da Europa, a Etiópia manteve bem sua soberania até o Século XX, permanecendo independente até a invasão das forças italianas lideradas por Mussolini em 1935. Foi durante este período que o notável Imperador Haile Selassie trouxe a Etiópia para a linha de frente dos assuntos Globais, enquanto sua nação suportava os conflitos da Segunda Guerra Mundial, e procurava arduamente levar a Etiópia num caminho de modernização e reforma progressiva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_2">
-			<Text>Ethiopia, Africa's tenth largest nation, covers the majority of the Horn of Africa, nestled along the continent's northeastern coast. Bisected by the Great Rift Valley, Ethiopia's geography is dominated by highly elevated plateaus and disjointed mountain ranges. Sitting atop the African tectonic plate, which has been in the process of splitting apart for millions of years, Ethiopia has found itself on the receiving end of frequent earthquakes throughout history. The country is also home to several dozen active and dormant volcanoes, including Erta Ale, one of the few volcanoes in the world with an ever-present lake of lava on its summit. The climate of Ethiopia varies greatly, although the nation as a whole is part of a tropical zone with heavy rainfall during the summer monsoon season followed by a dry, moderate winter.</Text>
+			<Text>Etiópia, décima mais extensa nação africana, cobre a maior parte do Chifre da África, aninhada ao longo da costa Nordeste do continente. Cortada pelo Grande Vale do Rift, a geografia da Etiópia é dominada por planaltos altamente elevados e cadeias de montanhas desconexas. Localizada em cima da placa tectônica Africana, a qual tem estado em processo de separação por milhões de anos, a Etiópia encontrou-se no caminho de frequentes terremotos através da história. O país também é lar de diversos vulcões ativos e inativos, incluindo o Erta Ale, um dos poucos vulcões no mundo com um lago permanente de lava em seu topo. O clima da Etiópia varia muito, apesar da nação em si ser parte de uma zona tropical com alta concentração de chuvas durante o monção de verão, seguido por um inverno seco e moderado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_3">
-			<Text>The Great Rift Valley cutting across central Ethiopia has long been considered the birthplace of human development. Numerous fossil remains have been discovered within the valley, in particular the famous skeleton known as "Lucy," which is estimated to be approximately three million years old. These early Hominids later developed into the earliest Homo sapiens, who lived throughout Ethiopia in small groups more than 100,000 years ago.</Text>
+			<Text>O Grande Vale do Rift que corta o Centro da Etiópia foi por muito tempo considerado o lar do desenvolvimento humano. Numerosos restos de fósseis foram descobertos ao longo do vale, em particular o famoso esqueleto conhecido como "Lucy", o qual estima-se ter aproximadamente 3 milhões de anos de idade. Esses primeiros hominídeos mais tarde evoluíram para os primeiros Homo sapiens, que viveram ao longo da Etiópia em pequenos grupos a mais de 100.000 anos atrás.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_4">
 			<Text>As early as the 10th millennium BC, Ethiopia was inhabited by tribal peoples who subsisted using early forms of agriculture and animal husbandry. Later during the height of the ancient Egyptian civilization, traders from both nations established routes for the exchange of gold, obsidian, ivory, and other precious materials. These early inhabitants of Ethiopia, who lived in what is known as the mysterious Land of Punt, developed many of the early agricultural practices that are still part of Ethiopian culture today.</Text>
@@ -95,16 +95,16 @@
 			<Text>Haile Selassie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TITLES_1">
-			<Text>Emperor of Ethiopia</Text>
+			<Text>Imperador da Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_SUBTITLE">
-			<Text>Leader of Ethiopia</Text>
+			<Text>Líder da Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_LIVED">
-			<Text>1892 - 1975 AD</Text>
+			<Text>1892 - 1975 DC</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_FACT_1">
-			<Text>Haile Selassie was the first person of African descent to ever appear on the cover of Time magazine, when he was featured shortly after his coronation in 1930. He was also named "Time Man of the Year" in 1935.</Text>
+			<Text>Haile Selassie foi a primeira pessoa de descendência africana a aparecer na capa da revista Time, quando foi destaque pouco tempo após sua coroação em 1930. Foi também nomeado "Homem do Ano" pela revista em 1935.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_FACT_2">
 			<Text>Of the many rumors surrounding Selassie's death, a consistently reoccurring report states that his bones were discovered buried in the Imperial palace underneath a lavatory.</Text>
