@@ -34,7 +34,7 @@
             <Text>Varredura aérea</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_AIR_SWEEP_HELP">
-            <Text>Mandar a unidade varrer uma área em busca de interceptadores aéreos e baseados em terra, limpando o caminho para futuros ataques aéreos.</Text>
+            <Text>Mandar a unidade varrer uma área em busca de interceptadores aéreos e terrestres, limpando o caminho para futuros ataques aéreos.</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_RANGE_ATTACK">
             <Text>Ataque a distância</Text>
@@ -152,7 +152,7 @@
             <Text>Charles Darwin</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_CHRISTOPHER_COLUMBUS">
-            <Text>Cristovão Colombo</Text>
+            <Text>Cristóvão Colombo</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_CLAUDE_MONET">
             <Text>Claude Monet</Text>
@@ -647,7 +647,7 @@
             <Text>Tecla Pause</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_RIGHT_ALT_KEY">
-            <Text>Tecla Alt Direito</Text>
+            <Text>Tecla Alt Direita</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_RIGHT_ARROW">
             <Text>Seta p/ Direita</Text>
@@ -734,7 +734,7 @@
             <Text>Os turnos são limitados por um temporizador que se adapta de acordo o tamanho da civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE">
-            <Text>Você está certo disso?</Text>
+            <Text>Você tem certeza?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_GAME_DETAILS">
             <Text>Detalhes do jogo</Text>
@@ -1064,10 +1064,10 @@
             <Text>A taxa na qual os Bárbaros se procriam é gigantescamente aumentada.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES">
-            <Text>Grandes Pessoas aleatórias</Text>
+            <Text>Personalidades de Líderes aleatórias</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES_HELP">
-            <Text>Em vez de agir como eles normalmente fazem, uma Grande Pessoa aleatória será escolhida de cada líder da IA (Inteligência Artificial), fazendo o jogo mais imprevisível.</Text>
+            <Text>Ao invés de agir como normalmente fazem, uma personalidade aleatória será escolhida para cada Líder da IA (Inteligência Artificial), tornando o jogo mais imprevisível.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_DISABLE_START_BIAS">
             <Text>Desabilitar tendência inicial</Text>
@@ -1100,7 +1100,7 @@
             <Text>Você descobriu segredos de uma avançada tecnologia nas ruínas!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_WARRIOR">
-            <Text>Você encontrou um grupo de guerreiros dispostos a se unir a sua Civilização!</Text>
+            <Text>Você encontrou um grupo de guerreiros dispostos a se unir à sua Civilização!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_WORKER">
             <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como Trabalhadores!</Text>
@@ -1280,16 +1280,16 @@
             <Text>{@1_PlyrName} adotou {@2_PolicyName}</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_CONVERT_RELIGION">
-            <Text>{1_PlyrName} se converteu para o [COLOR_HIGHLIGHT_TEXT]{2_RelName}[ENDCOLOR]!</Text>
+            <Text>{1_PlyrName} se converteu ao [COLOR_HIGHLIGHT_TEXT]{2_RelName}[ENDCOLOR]!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_BEGINS">
-            <Text>{1_PlyrName}: começou a Era Dourada</Text>
+            <Text>{1_PlyrName}: começou uma Era Dourada</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_ENDED">
             <Text>{1_PlyrName}: a Era Dourada acabou...</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_HAS_BEGUN">
-            <Text>{1_PlyrName}: a Era Dourada começou!!!</Text>
+            <Text>{1_PlyrName}: uma Era Dourada começou!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_PLAYER_PERMANENT_ALLIANCE">
             <Text>{1_PlyrName} fez uma aliança permanente com {2_TeamName}!</Text>
@@ -1493,7 +1493,7 @@
             <Text>Construir</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK">
-            <Text>Criar Grande Trabalhador</Text>
+            <Text>Criar Grande Trabalho</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_DISCOVER_TECH">
             <Text>Descobrir Tecnologia</Text>
@@ -1589,7 +1589,7 @@
             <Text>Movimentos rápidos</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_SHOW_ENEMY_MOVES">
-            <Text>Mostrar movimentos do inimigo</Text>
+            <Text>Mostrar movimentos dos inimigos</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_SHOW_FRIENDLY_MOVES">
             <Text>Mostrar movimentos dos amigos</Text>
@@ -1598,10 +1598,10 @@
             <Text>Esperar no fim do turno</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_WORKERS_LEAVE_OLD_IMPS">
-            <Text>Trabalhadores automáticos deixam velhas melhorias</Text>
+            <Text>Trabalhadores no modo automático mantém velhas melhorias intactas</Text>
         </Row>
         <Row Tag="TXT_KEY_PLAYER_OPTION_WORKERS_START_AUTO">
-            <Text>Trabalhadores começam no automático</Text>
+            <Text>Trabalhadores começam no modo automático</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_ACTION">
             <Text>Você está certo de que quer {@1_ActionName}?</Text>
@@ -1628,13 +1628,13 @@
             <Text>{@1_VoteName} (Requer {2_ReqNum} de {3_TotNum} votos totais)</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_LANDS_WAR">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] irá despertar GUERRA! Você está certo disso?</Text>
+            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] irá despertar uma GUERRA! Você tem certeza disso?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_CITY_STATE_WAR">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] despertará a GUERRA! Você está certo disso?</Text>
+            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] despertará uma GUERRA! Você tem certeza disso?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_MINOR_CIV_LANDS">
-            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] é um ato nada amigável de intimidação! Você está certo disso?</Text>
+            <Text>Entrar em terreno [COLOR_HIGHLIGHT_TEXT]{1_CivAdj}[ENDCOLOR] é um ato nada amigável de intimidação! Você tem certeza disso?</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ENTER_WITH_OPEN_BORDERS">
             <Text>(Você pode pacificamente entrar se assinar um Tratado de Fronteiras Abertas)</Text>
@@ -1707,13 +1707,13 @@
             <Text>Isso irá restaurar funcionalmente a melhoria saqueada neste hexágono.</Text>
         </Row>
         <Row Tag="TXT_KEY_REPAIR_IMPROVEMENT_HELP">
-            <Text>Se uma melhoria no hexágono foi saqueada, um trabalhador pode repará-la.</Text>
+            <Text>Se uma melhoria num hexágono foi saqueada, um trabalhador pode repará-la.</Text>
         </Row>
         <Row Tag="TXT_KEY_REMOVE_ROUTE">
             <Text>Remover uma estrada</Text>
         </Row>
         <Row Tag="TXT_KEY_REMOVE_ROUTE_REC">
-            <Text>Não é necessário conectar nossas cidades. E isso está custando a nós [ICON_GOLD] de manutenção.</Text>
+            <Text>Não é necessário conectar nossas cidades. E isso está custando-nos [ICON_GOLD] Ouro de manutenção.</Text>
         </Row>
         <Row Tag="TXT_KEY_REMOVE_ROUTE_HELP">
             <Text>Você pode remover uma estrada ou via férrea que foi construída em um hexágono.</Text>
@@ -1743,10 +1743,10 @@
             <Text>Turno: {1_TurnNum}</Text>
         </Row>
         <Row Tag="TXT_KEY_TIME_WEEK">
-            <Text>Semana {1_WeekNum}</Text>
+            <Text>Semana: {1_WeekNum}</Text>
         </Row>
         <Row Tag="TXT_KEY_WORKER_BUILD_PROGRESS">
-            <Text>{1_Num} {1_Num: plural 1?turno; other?turnos;} para ter [COLOR_POSITIVE_TEXT]{2_WorkerBuildName}[ENDCOLOR]</Text>
+            <Text>{1_Num} {1_Num: plural 1?turno; other?turnos;} para finalizar [COLOR_POSITIVE_TEXT]{2_WorkerBuildName}[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_YES">
             <Text>Sim</Text>
@@ -1780,7 +1780,7 @@
 			<Text>Permitir salvar política</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_POLICY_SAVING_HELP">
-			<Text>Os jogadores podem escolher uma Política Social em momento posterior, ao invés de decidir por uma imediamente.</Text>
+			<Text>Os jogadores podem escolher uma Política Social em momento posterior, ao invés de decidir imediamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_PROMOTION_SAVING">
 			<Text>Permitir salvar promoção</Text>
@@ -1825,7 +1825,7 @@
 			<Text>{@1: gender masculine?{@1: plural 1?Um; other?Uns;}; feminine?{@1: plural 1?Uma; other?Umas;};} {@1_Num} {@1: gender masculine?{@1: plural 1?inimigo fugiu; other?inimigos fugiram;}; feminine?{@1: plural 1?inimiga fugiu; other?inimigas fugiram;};} do seu ataque corpo-a-corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PROTECTED_CITY_STATE">
-      <Text>Isso significa GUERRA contra {1_Team}?!? Eles estão sob proteção de: </Text>
+      <Text>Isso significa GUERRA contra {1_Team}? Eles estão sob proteção de: </Text>
     </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_ANNEX">
             <Text>[COLOR_POSITIVE_TEXT]Anexar[ENDCOLOR] a cidade ao seu Império faz com que ela se torne uma cidade normal, que produz uma quantidade significativa de [ICON_HAPPINESS_4]infelicidade extra.[NEWLINE][NEWLINE]Anexar esta cidade aumentará a [ICON_HAPPINESS_4]infelicidade em {1_Num}.</Text>
@@ -1837,7 +1837,7 @@
 			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4]infelicidade extra durante a destruição.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Eliminar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4]infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4]infelicidade diminuirá em 1 a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY_DETAILS">
-			<Text>Vá para a tela da cidadea. Você não pode puder nada enquanto estiver dentro.</Text>
+			<Text>Vá para a tela da cidade. Não é possível executar ações enquanto nela.</Text>
          </Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY">
 			<Text>Exibir cidade</Text>
@@ -1877,7 +1877,7 @@
 			<Text>Ilha Japonesa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_JAPAN_DESC">
-			<Text>Este mapa foca exclusivamente o Japão, sem nenhum país a sua volta.</Text>
+			<Text>Este mapa foca exclusivamente o Japão, sem nenhum país à sua volta.</Text>
 		</Row>
 		<!-- 348 -->
 		<Row Tag="TXT_KEY_MP_ENTER_PASSWORD">
@@ -1903,7 +1903,7 @@
 		</Row>
 		<!-- GREAT PERSON UI PANEL TEXT -->
 		<Row Tag="TXT_KEY_IC_GP">
-			<Text>Lista de Grades Pessoas</Text>
+			<Text>Lista de Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GP_CITY">
 			<Text>Nome da Cidade</Text>
@@ -1954,7 +1954,7 @@
 			<Text>{1_Progress}/{2_Threshold}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_CHECKBOX">
-			<Text>Habilitar Autosalvamento no Fim do Turno</Text>
+			<Text>Habilitar autosalvamento ao fim de turnos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_CHECKBOX_PBEM">
 			<Text>Habilitar Modo Jogar Por Email</Text>
