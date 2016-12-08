@@ -3,7 +3,7 @@
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI">
 			<Text>Fiji</Text>
 			<Gender>feminine</Gender>
@@ -84,5 +84,5 @@
 			<Gender>masculine|feminine</Gender> 
 			<Plurality>1|1</Plurality>			
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

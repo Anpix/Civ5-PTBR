@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Cities Polynesia -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CITY_NAME_SAMOA">
 			<Text>Samoa</Text>
 		</Row>
@@ -123,5 +123,5 @@
 		<Row Tag="TXT_KEY_CITY_NAME_NUKUMANU">
 			<Text>Nukumanu</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

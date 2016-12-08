@@ -2,7 +2,7 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_ADJECTIVE">
 			<Text>Hivano|Hivana|Hivanos|Hivanas</Text>
       <Gender>masculine|feminine|masculine|feminine</Gender> 
@@ -63,5 +63,5 @@
       <Gender>masculine</Gender> 
 			<Plurality>1</Plurality>									
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

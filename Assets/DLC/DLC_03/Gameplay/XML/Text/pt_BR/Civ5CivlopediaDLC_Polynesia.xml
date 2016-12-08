@@ -2,7 +2,7 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <!-- DLC Civilopedia Entries -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV5_DAWN_POLYNESIA_TEXT">
 			<Text>Saudações e graças sejam dadas a vós, Kamehameha - O Grande, escolhido pelos céus para unir vosso povo disperso. Ó poderoso Rei, vós fostes o primeiro a trazer a Grande Ilha do Havaí sob um só governo, em 1791 d.C. Isso foi seguido pela união de todas as ilhas restantes sob sua bandeira, em 1810. Como o primeiro Rei do Havaí, vós padronizastes o Mamalahoe Kanawai, um decreto que tratava os sistemas legal e tributário, visando proteger os civis em tempos de guerra. Assegurastes a continuidade da unificação e soberania das ilhas por meio das vossas leis e ações rigorosas, mesmo após a vossa morte, em 1819.[NEWLINE][NEWLINE]Ó sábio e exaltado Rei, vosso povo deseja um reino só deles e exigem um líder de grandeza incomparável! Respondereis ao chamado deles e vestireis o manto do Leão do Pacífico? Construireis um reino que possa resistir ao teste do tempo?</Text>
 		</Row>
@@ -150,5 +150,5 @@
 		<Row Tag="TXT_KEY_BUILD_MOAI_REC">
 			<Text>Permitirá que o hexágono gere [ICON_CULTURE]Cultura (e [ICON_GOLD]Ouro após o Voo ser pesquisado).</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>
