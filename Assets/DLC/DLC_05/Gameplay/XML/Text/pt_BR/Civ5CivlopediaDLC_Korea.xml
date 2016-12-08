@@ -2,7 +2,7 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <!-- DLC Civilopedia Entries -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV5_DAWN_KOREA_TEXT">
 			<Text>Saudações, nobre Rei Sejong, o Grande, servo do povo e protetor da Dinastia Choson. Vossa gloriosa visão de prosperidade e irresistível benevolência para com os homens comuns vos transformaram no mais amado de todos os reis Coreanos. Desde os primeiros dias do vosso reinado, os esforços que vós tomastes - para oferecer uma sociedade justa e honesta para todos - foram superados apenas pelos avanços tecnológicos impulsionados por vossa sede de conhecimento. Guiados por vossa sabedoria, os Estudiosos do Salão de Jade desenvolveram a primeira linguagem escrita da Coreia, Hangul, trazendo a luz da literatura e ciência às massas, após séculos de escuridão literária.[NEWLINE][NEWLINE]Honorável Sejong, mais uma vez o povo busca em vós a liderança! Estareis à altura das circunstâncias para transmitir harmonia e conhecimento ao povo? Podereis mais uma vez elevar a posição do vosso reino a extraordinárias alturas? Podereis construir uma civilização que resista ao teste do tempo?</Text>
 		</Row>
@@ -162,5 +162,5 @@
 		<Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_STRATEGY">
 			<Text>O Veículo de Fogo é extremamente eficaz contra unidades terrestres inimigas. É lenta e vulnerável a ataques corpo-a-corpo inimigos; sempre deve ser apoiado por outras unidades quando estiver no campo de batalha. O Veículo de Fogo deve ser "preparado" (1 Ponto de Movimento) antes de atacar.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

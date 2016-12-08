@@ -2,7 +2,7 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <!-- DLC Civilopedia Entries -->
 <GameData>
-  <Language_en_US>
+  <Language_pt_BR>
       <Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING">
           <Text>Barco Tartaruga|Barcos Tartaruga</Text>
 			<Gender>masculine|masculine</Gender>
@@ -13,5 +13,5 @@
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
       </Row>
-  </Language_en_US>
+  </Language_pt_BR>
 </GameData>

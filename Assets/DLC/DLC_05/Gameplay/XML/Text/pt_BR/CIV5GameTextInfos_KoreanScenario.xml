@@ -2,7 +2,7 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <!-- DLC Civilopedia Entries -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_TITLE">
 			<Text>A Invasão Samurai da Coreia</Text>
 		</Row>
@@ -177,5 +177,5 @@
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_MAP_TITLE">
 			<Text>Ásia Oriental</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

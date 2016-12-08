@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Cities Denmark-->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CITY_NAME_BUSAN">
 			<Text>Busan</Text>
 		</Row>
@@ -90,5 +90,5 @@
 		<Row Tag="TXT_KEY_CITY_NAME_ANJU">
 			<Text>Anju</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

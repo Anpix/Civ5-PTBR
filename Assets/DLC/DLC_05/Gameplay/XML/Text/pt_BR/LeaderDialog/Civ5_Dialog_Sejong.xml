@@ -3,7 +3,7 @@
 <!--Copyright Firaxis Games 2010 -->
 
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 		<Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_1">
@@ -282,5 +282,5 @@
 		<Row Tag="TXT_KEY_LEADER_SEJONG_ATTACKED_3">
 		  <Text>Excelente! Excelente! Eu tenho procurado uma razão para testar o meu renovado exército e você forneceu a perfeita ocasião.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>
