@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Cities -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CITY_NAME_BABYLON">
 			<Text>Babilônia</Text>
 		</Row>
@@ -126,5 +126,5 @@
 		<Row Tag="TXT_KEY_CITY_NAME_TAYMA">
 			<Text>Tayma</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

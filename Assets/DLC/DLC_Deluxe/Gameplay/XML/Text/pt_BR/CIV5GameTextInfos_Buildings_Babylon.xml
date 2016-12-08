@@ -5,11 +5,11 @@
 <!-- -->
 <!-- Game Text Objects -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_BUILDING_WALLS_OF_BABYLON_DESC">
 			<Text>Muralhas da Babilônia</Text> 
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

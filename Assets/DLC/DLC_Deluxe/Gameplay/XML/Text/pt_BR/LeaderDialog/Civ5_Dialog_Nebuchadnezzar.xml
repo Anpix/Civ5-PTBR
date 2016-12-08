@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_1">
 			<Text>Qual é a frequência, Kenneth?</Text>
 		</Row>
@@ -250,5 +250,5 @@
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WINWAR_1">
 			<Text> Isso foi refrescante. Se os demônios estão saciados, talvez eles nos dê em uma pequena trégua agora.</Text>
 		</Row>		
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

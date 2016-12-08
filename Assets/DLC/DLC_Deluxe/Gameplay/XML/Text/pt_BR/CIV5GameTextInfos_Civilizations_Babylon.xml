@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV_BABYLON_ADJECTIVE">
 			<Text>Babilônio|Babilônia|Babilônios|Babilônias</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
@@ -17,5 +17,5 @@
 			<Gender>feminine:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>
