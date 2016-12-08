@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Objects -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_BUILDING_STATUE_ZEUS">
 			<Text>Estátua de Zeus|Estátuas de Zeus</Text>
 			<Gender>feminine|feminine</Gender>
@@ -56,5 +56,5 @@
 		<Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS_HELP">
 			<Text>+15% de [ICON_STRENGTH]Força de Combate quando estiver atacando cidades.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

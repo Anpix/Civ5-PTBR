@@ -2,7 +2,7 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
 <GameData>
 	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_TITLE">
 			<Text>Maravilhas do Mundo Antigo</Text>
 		</Row>
@@ -280,5 +280,5 @@
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_WONDER_ORACLE_HELP">
 			<Text>1 Política Social gratuita.[NEWLINE]Ao trazer uma Grande Pessoa próxima à cidade com o Oráculo, será revelado o progresso de outros jogadores na construção das Maravilhas. A consulta ao Oráculo desta maneira pode ser feita por qualquer jogador.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

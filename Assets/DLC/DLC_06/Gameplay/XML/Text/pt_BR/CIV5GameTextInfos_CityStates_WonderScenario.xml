@@ -3,7 +3,7 @@
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY">
 			<Text>Troia</Text>
 			<Gender>feminine</Gender>
@@ -138,5 +138,5 @@
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_DESC">
 			<Text>A antiga cidade de Sharuhen, encontrada no Deserto Negev ao sul de Israel, foi certa vez o refúgio para o povo Hicso, que foram expulsos do Egito, no século XVI a.C. O assentamento foi depois destruído pelo Faraó Egípcio Ahmose I.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>
