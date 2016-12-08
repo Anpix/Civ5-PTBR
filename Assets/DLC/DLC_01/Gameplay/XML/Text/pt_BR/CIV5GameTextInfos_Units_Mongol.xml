@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Objects -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_MONGOL_KESHIK">
 			<Text>Keshik</Text>
 		</Row>
@@ -54,5 +54,5 @@
 		<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE_HELP">
 			<Text>Recebe experiência, em busca de promoções, 50% mais rápido.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_AGREE_SHORT_1">
 			<Text>Tudo bem.</Text>
 		</Row>
@@ -223,5 +223,5 @@
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_WINWAR_1">
 			<Text>Considere-se com sorte por eu te deixar sobreviver.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

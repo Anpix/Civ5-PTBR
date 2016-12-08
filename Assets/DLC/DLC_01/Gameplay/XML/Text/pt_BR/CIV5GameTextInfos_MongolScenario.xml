@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_TITLE">
 			<Text>Ascensão dos Mongóis</Text>
 		</Row>
@@ -128,5 +128,5 @@
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_LIVED">
 			<Text>1224 - 1282 d.C.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

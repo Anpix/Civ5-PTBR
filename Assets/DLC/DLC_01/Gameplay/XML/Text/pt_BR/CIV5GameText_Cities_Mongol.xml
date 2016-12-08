@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Cities -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CITY_NAME_KARAKORUM">
 			<Text>Karakorum</Text>
 		</Row>
@@ -105,5 +105,5 @@
 		<Row Tag="TXT_KEY_CITY_NAME_TES">
 			<Text>Tes</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

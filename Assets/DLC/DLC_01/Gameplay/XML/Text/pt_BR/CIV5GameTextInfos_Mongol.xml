@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-  <Language_en_US>
+  <Language_pt_BR>
     <Row Tag="TXT_KEY_TRAIT_TERROR_SHORT">
       <Text>Terror Mongol</Text>
     </Row>
@@ -14,5 +14,5 @@
     <Row Tag="TXT_KEY_CIV5_DAWN_MONGOLIA_TEXT">
       <Text>Saudações, ó Grande Temujin, Imperador imortal do poderoso Império Mongol! Os vossos punhos despedaçam as muralhas das cidades e vossa voz traz desespero aos vossos inimigos. Ó Khan, vós unistes as tribos guerreiras do norte da Ásia em um vigoroso povo, criando a maior força montada que o mundo jamais testemunhou! A habilidade diplomática do vosso povo dividiu vossos inimigos, tornando-os fracos e indefesos ante os exércitos conquistadores Mongóis. Em poucos anos, vossos soldados conquistaram a maioria da China e da Ásia Oriental. E o Império continuou a crescer, até que ele chegou ao ocidente, na Europa, e ao sul, na Coreia. De fato, foi o maior Império jamais visto, tornando pequenas aquelas patéticas conquistas dos Romanos ou dos Gregos.[NEWLINE][NEWLINE]Temujin, vosso povo vos chama mais uma vez para liderá-los na batalha e na conquista! Irá o mundo tremer novamente frente ao som estrondoso da vossa cavalaria varrendo as estepes? Ireis construir um Império que possa resistir ao teste do tempo?</Text>
     </Row>
-  </Language_en_US>
+  </Language_pt_BR>
 </GameData>
