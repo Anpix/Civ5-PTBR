@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_DESC">
 			<Text>Ducado da Normandia</Text>
             <Gender>masculine</Gender>
@@ -36,5 +36,5 @@
             <Gender>feminine</Gender>
             <Plurality>1</Plurality>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

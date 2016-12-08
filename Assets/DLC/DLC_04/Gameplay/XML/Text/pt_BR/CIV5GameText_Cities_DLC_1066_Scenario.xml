@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Cities -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CITY_NAME_BIRSAY">
 			<Text>Birsay</Text>
             <Gender>neuter</Gender>
@@ -81,5 +81,5 @@
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

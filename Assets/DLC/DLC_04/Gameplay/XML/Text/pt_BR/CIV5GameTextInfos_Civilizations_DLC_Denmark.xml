@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV_DENMARK_ADJECTIVE">
 			<Text>Dinamarquês|Dinamarquesa|Dinamarqueses|Dinamarquesas</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
@@ -16,5 +16,5 @@
             <Gender>feminine</Gender>
             <Plurality>1</Plurality>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

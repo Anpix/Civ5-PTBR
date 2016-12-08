@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Game Text Objects -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE">
 			<Text>Livro do Juízo|Livros do Juízo</Text>
             <Gender>masculine|masculine</Gender>
@@ -12,5 +12,5 @@
             <Gender>masculine|masculine</Gender>
             <Plurality>1|2</Plurality>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

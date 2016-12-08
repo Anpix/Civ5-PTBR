@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--  Denmark DLC Civilopedia Entries -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV5_DENMARK_TITLE">
 			<Text>Dinamarca</Text>
 		</Row>
@@ -150,5 +150,5 @@
 		<Row Tag="TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_STRATEGY">
 			<Text>A Infantaria Ski é uma das duas unidades Dinamarquesas exclusivas, substituindo o Fuzileiro. Esta unidade se move pela neve, tundra ou colinas no dobro de velocidade. Ela também possui um bônus de combate de +25% na neve, savana ou colina, se não houver selva ou floresta.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

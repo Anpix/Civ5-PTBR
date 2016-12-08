@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_TRAIT_VIKING_FURY_SHORT">
 			<Text>Fúria Viking</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_VIKING_FURY">
 			<Text>Unidades embarcadas possuem +1 de [ICON_MOVES]Movimento e gastam apenas 1 ponto de movimento para se moverem da água para a terra. Unidades de ataque corpo-a-corpo não gastam pontos de movimento para realizarem saques.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

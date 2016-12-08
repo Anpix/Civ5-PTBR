@@ -3,7 +3,7 @@
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_POWYS">
 			<Text>Powys</Text>
             <Gender>neuter</Gender>
@@ -109,5 +109,5 @@
 		<Row Tag="TXT_KEY_VIKING_SCENARIO_CITYSTATE_CONNACHT_DESC">
 			<Text>Grandes complexos de túmulos no noroeste da Irlanda mexem com a presença de pessoas lá desde a retração das geleiras, no fim da última era glacial. Lendas irlandesas dizem que quando os Tuatha De Dannan invadiram a região e lutaram contra os Fir Bolg, eles ficaram tão impressionados com os Fir Bolg que lhes deram um quarto da ilha - a área que viria a ser o reino de Connacht.[NEWLINE][NEWLINE]Referências ambíguas à região começaram por volta do século VI na revista Anais de Ulster, marcando a morte dos senhores de destaque daquele reino. Os Vikings chegaram a Connacht no início do século IX e neste período a casa governante de Connacht foi fundada por Conchobar mac Taidg Mor, e Conchobair governou Connacht até meados do século XV. Os governantes de Connacht guerreavam frequentemente contra os outros reinos Irlandeses, bem como os Britânicos e os Vikings que estavam se estabelecendo na Irlanda.[NEWLINE][NEWLINE]Em Connacht, há dois megálitos misteriosos: a Pedra Turoe e a Pedra Castlestrange, que estão cobertas com esculturas de um estilo e data comumente associados à Europa continental da Idade do Ferro. As pedras provavelmente foram trazidas para a Irlanda e movidas ao longo do tempo, longe das sucessivas ondas de invasores que vieram para a região.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

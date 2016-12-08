@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_1066_SCENARIO_TITLE">
 			<Text>1066: Ano do Destino Viking</Text>
 		</Row>
@@ -187,5 +187,5 @@
 		<Row Tag="TXT_KEY_1066_SCENARIO_SHIRE_COURT_STATUS">
 			<Text>Tribunais Distritais {1: plural 1?construído; 0?construído; other?construídos;}: {1_NumBuildings}/6</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Objects -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT">
 			<Text>Cavaleiro|Cavaleiros</Text>
             <Gender>masculine|masculine</Gender>
@@ -16,5 +16,5 @@
             <Gender>masculine|masculine</Gender>
             <Plurality>1|2</Plurality>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>
