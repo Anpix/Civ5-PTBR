@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_LEADER_SELASSIE">
+			<Text>Haile Selassie</Text>
+			<Plurality>1</Plurality>
+			<Gender>masculine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>

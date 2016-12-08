@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+    <Language_pt_BR>
+        <!-- American Civil War -->
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS">
+            <Text>Quartel</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE">
+            <Text>Base Militar</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL">
+            <Text>Arsenal</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS">
+            <Text>Siderúrgica</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD">
+            <Text>Arsenal de Marinha</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE">
+            <Text>Estábulo</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS">
+            <Text>Defesas da Capital</Text>
+            <Gender>feminine</Gender>            			
+            <Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_STRATEGY">
+            <Text>Cada Quartel fornece 1 de [ICON_RES_MANPOWER]Força de Trabalho. Não pode ser construído. Capture cidades inimigas para aumentar o seu nível de [ICON_RES_MANPOWER]Força de Trabalho.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_STRATEGY">
+            <Text>Cada Base Militar fornece 2 de [ICON_RES_MANPOWER]Força de Trabalho. Não pode ser construído. Capture cidades inimigas para aumentar o seu nível de [ICON_RES_MANPOWER]Força de Trabalho.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_STRATEGY">
+            <Text>Permite que unidades de Infantaria possam ser construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS_STRATEGY">
+            <Text>Permite que unidades de Artilharia possam ser construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD_STRATEGY">
+            <Text>Permite que unidades navais possam ser construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_STRATEGY">
+            <Text>Permite que unidades de montaria possam ser construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_HELP">
+            <Text>Fornece 1 de [ICON_RES_MANPOWER]Força de Trabalho.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_HELP">
+            <Text>Fornece 2 de [ICON_RES_MANPOWER]Força de Trabalho.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_HELP">
+            <Text>Permite que unidades de Infantaria possam ser construídas nesta cidade.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS_HELP">
+            <Text>Permite que unidades de Artilharia possam ser construídas nesta cidade.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD_HELP">
+            <Text>Permite que unidades navais possam ser construídas nesta cidade.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_HELP">
+            <Text>Permite que unidades de montaria possam ser construídas nesta cidade.</Text>
+        </Row>
+                
+        <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS_STRATEGY">
+            <Text>As Defesas da Capital são um anel de barro forte que aumentam a Força de Defesa de uma cidade em 10 e em 100 HPs, tornando a cidade muito mais difícil de capturar.</Text>
+        </Row>
+        <!-- Scramble for Africa -->
+        <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_FEATURE_FOUNTAIN_YOUTH">
+            <Text>Fonte do Nilo</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM">
+            <Text>Museu Estatal</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_DESC">
+            <Text>Banho Turco</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+        <Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL">
+            <Text>Canal de Suez</Text>
+            <Gender>masculine</Gender>
+            <Plurality>1</Plurality>			
+        </Row>
+    </Language_pt_BR>
+</GameData>
