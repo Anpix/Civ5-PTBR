@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_CITY_STATE_FRIENDSHIP">
+			<Text>{1_Num} de Cidades-Estado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_TT">
+			<Text>Quando você possuir [ICON_GOLD]Ouro ou [ICON_PEACE]Fé suficiente, compre uma unidade ou edifício imediatamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FAITH_TEXT">
+			<Text>Foco em [ICON_PEACE]Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FAITH_TT">
+			<Text>Clique aqui para que esta cidade a geração de [ICON_PEACE]Fé.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_GG_STACKED">
+			<Text>Empilhada com Grande General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_ACCUMULATED">
+			<Text>{1_Num} de [ICON_PEACE]Fé {1: plural 1?foi acumulado; other?foram acumulados;} por todo o Império.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_FROM_CITIES">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_FROM_MINORS">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Cidades-Estado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_FROM_RELIGION">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} pelas Crenças.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_RELIGIONS_LEFT">
+			<Text>Religiões que ainda podem ser fundadas: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_NEXT_PROPHET">
+			<Text>Ao menos {1_Num} de [ICON_PEACE]Fé {1: plural 1?é necessário; other?são necessários;} para você ter uma chance com um Novo Profeta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_NEXT_GREAT_PERSON">
+			<Text>Você está qualificado a comprar, utilizando [ICON_PEACE]Fé, uma dessas Grandes Pessoas: </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_NEXT_PANTHEON">
+			<Text>Ao menos {1_Num} de [ICON_PEACE]Fé {1: plural 1?é necessário; other?são necessários;} para fundar o próximo Panteão religioso. Se você deseja fundar um Panteão, você precisa fazê-lo antes que exista uma Religião aperfeiçoada no jogo (embora você sempre possa formar um desde que já não tenha sido criado o número máximo permitido de religiões).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_PANTHEONS_LOCKED">
+			<Text>Uma religião foi aperfeiçoada e o número de panteões formados é pelo menos igual ao número máximo de religiões. Com essas condições, você não pode mais fundar um Panteão. Use sua [ICON_PEACE]Fé acumulada para comprar unidades e edifícios religiosos se uma religião foi disseminada para uma de suas cidades. Ou, guarde-a para a Era Industrial, ou ainda mais tarde, visando obter Grandes Pessoas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_RELIGION">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de Religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_GOLDEN_AGE">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {1: plural 1?produzido; other?produzidos;} de sua Era Dourada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_PANTHEON_DESCRIPTION">
+			<Text>adorando panteão com crença:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_RELIGION_DESCRIPTION">
+			<Text>fundou a religião:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_RELIGION">
+			<Text>{1_Num} de Religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_CAPITAL_DEFENSE_BONUS">
+			<Text>Bônus de Defesa da Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_TRAIT_LOW_TECH_BONUS">
+			<Text>Bônus vs Tecnologia Avançada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_TRAIT_SMALL_SIZE_BONUS">
+			<Text>Bônus vs Grandes Civilizações</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_ENEMY_CITY_BELIEF_BONUS">
+			<Text>Apenas Guerra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_FRIENDLY_CITY_BELIEF_BONUS">
+			<Text>Defensor da Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_GA_NEAR">
+			<Text>Próximo a Grande Almirante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_REVERSE_GG_NEAR">
+			<Text>Próximo a Oponente Apavorante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_SPREAD_RELIGION_USES">
+			<Text>Disseminações</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_SPREAD_RELIGION_USES_TT">
+			<Text>Isso indica o número restante de vezes que esta unidade pode disseminar sua religião a uma cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_REMOVE_HERESY_USES">
+			<Text>{TXT_KEY_MISSION_REMOVE_HERESY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_REMOVE_HERESY_USES_TT">
+			<Text>Isso indica o número restante de vezes que esta unidade pode remover heresia de uma cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_RELIGIOUS_STRENGTH_TT">
+			<Text>Isso indica a força da unidade religiosa (1000 é a média).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RETURN_TO_ESPIONAGE">
+			<Text>Retornar à Espionagem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_CITIES">
+			<Text>{1_Num} pela felicidade local.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_TEAMMATE">
+			<Text>Esta cidade é de um parceiro de time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_POLICIES">
+			<Text>{1_Num} pela felicidade global por políticas sociais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_BUILDINGS">
+			<Text>{1_Num} pela felicidade global por edifícios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
+			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE]Era Dourada, cada hexágono do seu império que produz ao menos 1 de [ICON_GOLD]Ouro produzirá 1 extra. As cidades ganham +20% de [ICON_PRODUCTION]Produção e a [ICON_CULTURE]Cultura por todo o império é aumentada em 20%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_ADJACENT_TERRITORY">
+			<Text>{@1_ImprovementName} {@1: gender feminine?{@1: plural 2?devem ser construídas; other?deve ser construída;}; other?{@1: plural 2?devem ser construídos; other?deve ser construído;};} dentro ou adjacente ao seu território.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_OF">
+			<Text>A Cidade-Estado {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_RELIGION">
+			<Text>Mapa Religioso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_IGG">
+			<Text>Ignora Grande General</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE">
+			<Text>[COLOR_CYAN]Chance de Captura se afundar: {1_Percent}%[ENDCOLOR]</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
+			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE]Era Dourada, todo hexágono em seu Império que produz ao menos 1 de [ICON_GOLD]Ouro produzirá 1 extra. Cidades ganham +20% de [ICON_PRODUCTION]Produção.</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
+			<Text>[COLOR_YELLOW]Interceptação por avião ou[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING2">
+			<Text>[COLOR_YELLOW]antiaéreo aumentará o dano[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_VISIBLE_AA_UNITS">
+			<Text>[COLOR_WARNING_TEXT]Unidades Inimigas Antiaéreas Conhecidas: {1_Number}[ENDCOLOR]</Text>
+		</Row>		
+	</Language_pt_BR>
+</GameData>

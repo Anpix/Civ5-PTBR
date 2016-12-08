@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<!-- FALL OF ROME -->
+		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL">
+			<Text>Salão Hidromel</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOV">
+			<Text>Hov</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<!-- Unique Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_GRANDSTAND">
+			<Text>Arquibancada</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY">
+			<Text>Fábrica Lubórica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO">
+			<Text>Dínamo Toroide</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY">
+			<Text>Fábrica de Aeterium</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AERODROME">
+			<Text>Aeródromo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- Normal Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE">
+			<Text>Máquina Diferencial|Máquinas Diferenciais</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION">
+			<Text>Grande Mansão|Grandes Mansões</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE">
+			<Text>Faculdade de Negócios|Faculdades de Negócios</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE">
+			<Text>Escritório de Patentes|Escritórios de Patentes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY">
+			<Text>Refinaria Lubórica</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM">
+			<Text>Salão Filantrópico|Salões Filantrópicos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TESLA_COIL">
+			<Text>Bobina de Tesla|Bobinas de Tesla</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR">
+			<Text>Usina de Aeterium|Usinas de Aeterium</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR">
+			<Text>Hangar|Hangares</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY">
+			<Text>Fábrica Automatizada|Fábricas Automatizadas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST">
+			<Text>Posto Avançado Subterrâneo|Postos Avançados Subterrâneos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<!-- National Wonders -->
+		<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE">
+			<Text>Engenho Analítico|Engenhos Analíticos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE">
+			<Text>Casa Comercial Biltmore|Casas Comerciais Biltmore</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL">
+			<Text>Salão dos Inventores|Salões dos Inventores</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL">
+			<Text>Carnegie Hall</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY">
+			<Text>Colônia Subterrânea|Colônias Subterrâneas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE">
+			<Text>Máquina de Movimento Contínuo|Máquinas de Movimento Contínuo</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BUILDING_UNITED_NATIONS">
+			<Text>Basílica de São Pedro|Basílicas de São Pedro</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH">
+			<Text>Igreja de Madeira|Igrejas de Madeira</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHATEAU">
+			<Text>Mansão|Mansões</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MADRASAH">
+			<Text>Madraçal|Madraçais</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+	</Language_pt_BR>
+</GameData>

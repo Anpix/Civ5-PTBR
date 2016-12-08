@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Michelle Menard-->
+<GameData>
+	<Language_pt_BR>
+		<!-- Old city-state names to be used in new major civs -->
+		<!--
+		<Delete Tag="TXT_KEY_CITYSTATE_DUBLIN"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_VIENNA"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_HELSINKI"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ"/>
+		-->
+		<!-- New city-state names -->
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP">
+			<Text>Antuérpia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJ">
+			<Text>Antuerpiano|Antuerpiana</Text>
+			<Gender>masculine|feminine</Gender>			
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA">
+			<Text>Cahokia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_ADJ">
+			<Text>Cahokiano|Cahokiana</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO">
+			<Text>Colombo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJ">
+			<Text>Colombense|Colombense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG">
+			<Text>Hong Kong</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
+			<Text>Honcongonês|Honcongonesa</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JAKARTA">
+			<Text>Jacarta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JAKARTA_ADJ">
+			<Text>Jacartês|Jacartesa</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
+			<Text>Jerusalém</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJ">
+			<Text>Hierosolomita|Hierosolomita</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA">
+			<Text>La Venta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJ">
+			<Text>Laventano|Laventana</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LISBON">
+			<Text>Lisboa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LISBON_ADJ">
+			<Text>Lisboano|Lisboana</Text>
+			<Gender>masculine|feminine</Gender>			
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA">
+			<Text>Manila</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJ">
+			<Text>Manilense|Manilense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MARRAKECH">
+			<Text>Marrakech</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MARRAKECH_ADJ">
+			<Text>Marrakechi|Marrakechi</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN">
+			<Text>Milão</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_ADJ">
+			<Text>Milanês|Milanesa</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA">
+			<Text>Mombaça</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJ">
+			<Text>Mombacense|Mombacense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE">
+			<Text>Praga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJ">
+			<Text>Praguense|Praguense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA">
+			<Text>Valeta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJ">
+			<Text>Valetense|Valetense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY">
+			<Text>Vaticano</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJ">
+			<Text>Vaticano|Vaticana</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
+			<Text>Wittenberg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
+			<Text>Wittenberguiado|Wittenberguiana</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN">
+			<Text>Erevan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJ">
+			<Text>Erevaniano|Erevaniana</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR">
+			<Text>Zanzibar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ">
+			<Text>Zanzibarita|Zanzibarita</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH">
+			<Text>Zurique</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
+			<Text>Zuriquenho|Zuriquenha</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<!-- Old city-state names used in DLC civs -->
+		<!--
+		<Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_OSLO"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_OSLO_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_SEOUL"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ"/>
+		-->
+		<!-- Replacement names for old city-state names used in DLC civs -->
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY">
+			<Text>Sydney</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJ">
+			<Text>Sydneyense|Sydneyense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY">
+			<Text>Quebeque</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_ADJ">
+			<Text>Quebequense|Quebequense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU">
+			<Text>Catmandu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJ">
+			<Text>Catmanduense|Catmanduense</Text>
+			<Gender>masculine|feminine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>

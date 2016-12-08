@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_LEADER_ATTILA">
+			<Text>Átila</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA">
+			<Text>Boudicca</Text>
+     		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO">
+			<Text>Dido</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>Gustavus Adolphus</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA">
+			<Text>Maria Theresa</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL">
+			<Text>Pacal</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELASSIE">
+			<Text>Haile Selassie</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA">
+			<Text>Theodora</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM">
+			<Text>William</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA">
+			<Text>Isabella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>
