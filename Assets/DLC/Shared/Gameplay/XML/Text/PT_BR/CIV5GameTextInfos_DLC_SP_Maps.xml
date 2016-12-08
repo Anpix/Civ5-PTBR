@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_MAP_FOLDER_DLC_1_TITLE">
 			<Text>Exploradores</Text>
 		</Row>
     <Row Tag="TXT_KEY_MAP_FOLDER_DLC_1_DESC">
       <Text>Pacote de Mapa Exploradores</Text>
     </Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

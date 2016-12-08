@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-    <Language_en_US>
+    <Language_pt_BR>
         <Row Tag="TXT_KEY_FEATURE_FOUNTAIN_YOUTH">
             <Text>Fonte da Juventude|Fontes da Juventude</Text>
 			<Gender>feminine|feminine</Gender>
@@ -17,5 +17,5 @@
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>						
         </Row>
-    </Language_en_US>
+    </Language_pt_BR>
 </GameData>
