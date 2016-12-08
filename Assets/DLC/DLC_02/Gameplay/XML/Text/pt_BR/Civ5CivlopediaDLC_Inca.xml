@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- DLC Civilopedia Entries -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV5_INCA_TITLE">
 			<Text>Incas</Text>
 		</Row>
@@ -118,5 +118,5 @@
 		<Row Tag="TXT_KEY_BUILD_TERRACE_FARM">
 			<Text>Construir [LINK=IMPROVEMENT_TERRACE_FARM]Fazenda em Plataforma[\LINK]</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

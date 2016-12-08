@@ -2,7 +2,7 @@
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_1">
@@ -268,5 +268,5 @@
     <Row Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_3">
       <Text>Seu verme desesperado. Como você se atreve a desafiar o invencível Império Inca!</Text>
     </Row>
-  </Language_en_US>
+  </Language_pt_BR>
 </GameData>

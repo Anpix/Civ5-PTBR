@@ -3,7 +3,7 @@
 <!-- edited with Programmer's Notepad 2 by Michelle Menard (Firaxis Games) -->
 <!-- Babylon DLC Civilopedia Entries -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV5_SPAIN_TITLE">
 			<Text>Espanha</Text>
 		</Row>
@@ -163,5 +163,5 @@
 		<Row Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
 			<Text>O Conquistador é uma unidade multitarefa que é forte tanto na terra quanto no mar. Substitui o Cavaleiro e é um explorador excepcional em terra com visibilidade extra. Também possui a habilidade de fundar novas cidades, mas somente em um continente diferente daquele que possui a capital Espanhola. Na água, o Conquistador possui a promoção Embarque Defensivo que lhe permite se defender de unidades navais. Além disso, não sofre penalidade quando ataca cidades, ao contrário do Cavaleiro.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

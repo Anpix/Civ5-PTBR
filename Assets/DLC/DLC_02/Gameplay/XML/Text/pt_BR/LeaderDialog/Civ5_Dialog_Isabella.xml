@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_AGREE_SHORT_1">
 			<Text>Muito bem.</Text>
 		</Row>
@@ -217,5 +217,5 @@
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WINWAR_1">
 			<Text>Você tem sorte pelo Céu ter nos pedido para sermos misericordiosos, senão eu teria destruído você.</Text>
 		</Row>		
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

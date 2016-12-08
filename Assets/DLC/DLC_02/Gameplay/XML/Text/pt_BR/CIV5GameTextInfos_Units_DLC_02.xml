@@ -5,7 +5,7 @@
 <!-- -->
 <!-- Game Text Objects -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_INCAN_SLINGER">
 			<Text>Fundista|Fundistas</Text>
 			<Gender>masculine|masculine</Gender>
@@ -29,5 +29,5 @@
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
 			<Text>A unidade irá se afastar quando enfrentar um ataque corpo-a-corpo. A chance do recuo cai contra unidades inimigas rápidas ou se houver pouca área aberta atrás da unidade.</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

@@ -3,7 +3,7 @@
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
 			<Text>Inuit</Text>
 			<Gender>feminine</Gender>
@@ -132,5 +132,5 @@
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
 			<Text>Anasazi</Text>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>
