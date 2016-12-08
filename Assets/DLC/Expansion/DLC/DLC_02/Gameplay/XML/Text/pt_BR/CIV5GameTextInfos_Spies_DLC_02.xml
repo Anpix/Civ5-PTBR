@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
-	<Language_en_US>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_0">
 			<Text>Amaru</Text>
 			<Gender>masculine</Gender>
@@ -82,5 +82,5 @@
 			<Text>El Lobo</Text>
 			<Gender>masculine</Gender>
 		</Row>
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>

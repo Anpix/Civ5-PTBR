@@ -4,7 +4,7 @@
 <!-- -->
 <!-- Game Text Objects -->
 <GameData>
-	<Language_en_US>	
+	<Language_pt_BR>	
 	<!--
 		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
 			<Text>This unit and all others in adjacent tiles [COLOR_POSITIVE_TEXT]Heal 15 Additional HP[ENDCOLOR] per turn.</Text>
@@ -19,5 +19,5 @@
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_STRATEGY">
 			<Text>O Khan é a Grande Pessoa exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o Khan se move na mesma taxa que o Keshik (5 pontos por turno) e pode curar unidades adjacentes (15 HP's adicionais por turno). Este vigoroso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
 		</Row>		
-	</Language_en_US>
+	</Language_pt_BR>
 </GameData>
