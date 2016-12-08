@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<GameData>
+  <Language_pt_BR>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TITLE">
+      <Text>Vitória por conquista</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TEXT">
+      <Text>Você triunfou por meio da Conquista, derrotando todos os seus inimigos em campo de batalha! Você eliminou seus exércitos e capturou suas cidades! O povo se lembrará de sua vitória por muito tempo!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TITLE">
+      <Text>Vitória alternativa por conquista</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TEXT">
+      <Text>O mundo esteve perturbado pela guerra. Muitas civilizações grandes e poderosas caíram, mas você sobreviveu - e se tornou vitorioso! O mundo sempre se lembrará de seu glorioso triunfo!</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TITLE">
+      <Text>Vitória Científica</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TEXT">
+      <Text>Você conquistou a vitória graças ao domínio da ciência! Você dominou todos os mistérios da natureza e levou seu povo a uma viagem por um magnífico novo mundo! Seu triunfo será lembrado enquanto as estrelas brilharem nos céus!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TITLE">
+      <Text>Vitória Diplomática</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TEXT">
+      <Text>Você triunfou sobre seus inimigos através da arte da Diplomacia! Sua astúcia e sabedoria te trouxeram muitos amigos - e dividiram seus inimigos lançando confusão sobre eles! Você será para sempre lembrado como o líder que trouxe paz a um mundo perturbado!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TITLE">
+      <Text>Vitória Cultural</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TEXT">
+      <Text>Você conquistou a vitória através do poder Cultural. A grandeza da sua Civilização, o esplendor dos seus monumentos e o poder dos seus artistas surpreenderam o mundo! Poetas honrarão você por trazer alegria aos corações perturbados!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TITLE">
+      <Text>Derrota</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TEXT">
+      <Text>Você foi derrotado. Sua civilização foi dominada pelos seus muitos inimigos. Mas seu povo não se desesperou, pois sabem que um dia você há de voltar e os levará para uma grande vitória!</Text>
+    </Row>
+	<Row Tag="TXT_KEY_EXTENDED_GAME_YES">
+		<Text>Espere! Só mais um turno...</Text>
+	</Row>	
+	<Row Tag="TXT_KEY_EXTENDED_GAME_DEMO">
+		<Text>COMPRE O JOGO COMPLETO</Text>
+	</Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_TEXT">
+      <Text>Sua civilização está indo bem, porém seu tempo aqui chegou ao fim. Seu povo não está desesperado, pois sabem que um dia você voltará e os guiará até a vitória!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_BULLET_TEXT">
+      <Text>[ICON_BULLET]Experimente jogar Civilization V completo.[NEWLINE][NEWLINE][ICON_BULLET]Lidere 18 civilizações desde a Idade da Pedra até a Era Espacial.[NEWLINE][NEWLINE][ICON_BULLET]Faça download de conteúdos e mods exclusivos e compita com jogadores do mundo inteiro.[NEWLINE][NEWLINE][ICON_BULLET]O que você está esperando para comprar o seu Civilization V?</Text>
+    </Row>
+  </Language_pt_BR>
+</GameData>

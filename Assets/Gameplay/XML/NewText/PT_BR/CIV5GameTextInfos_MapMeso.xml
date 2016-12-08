@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+    <Language_pt_BR>
+		<Row Tag="TXT_KEY_MAP_MESO_TITLE">
+            <Text>Mesopotâmia</Text>
+        </Row>
+		<Row Tag="TXT_KEY_MAP_MESO_HELP">
+			<Text>Um mapa abrangendo o vale do Rio Nilo até o Oeste e extendendo-se até o Leste, região dos Rios Tigres e Eufrátes.</Text>
+		</Row>
+    </Language_pt_BR>
+</GameData>

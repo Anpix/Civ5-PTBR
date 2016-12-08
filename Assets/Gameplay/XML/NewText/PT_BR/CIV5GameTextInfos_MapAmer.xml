@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+    <Language_pt_BR>
+		<Row Tag="TXT_KEY_MAP_AMER_TITLE">
+            <Text>Américas</Text>
+        </Row>
+		<Row Tag="TXT_KEY_MAP_AMER_HELP">
+			<Text>Um mapa abrangendo desde o Peru, ao sul, até a América do Norte</Text>
+		</Row>
+    </Language_pt_BR>
+</GameData>

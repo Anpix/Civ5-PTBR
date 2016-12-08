@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_pt_BR>
+    <Row Tag="TXT_KEY_MAP_MED_HELP">
+      <Text>Um grande mapa que cobre toda a Bacia do Mediterrâneo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MED_TITLE">
+      <Text>Mediterrâneo</Text>
+    </Row>
+  </Language_pt_BR>
+</GameData>

@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_1">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_2">
+			<Text>Está certo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_3">
+			<Text>Certamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_4">
+			<Text>De acordo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_5">
+			<Text>Oh, muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_6">
+			<Text>Eu suponho que devo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_7">
+			<Text>Excelente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_ATTACKED_1">
+			<Text>Que assim seja. O povo Indiano não resistirá ao seu ataque. Exceto, talvez, por aqueles com todas as armas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_ATTACKED_2">
+			<Text>Infelizmente, nem todos em meu país são tão comedidos quanto eu para a não violência, então, por favor, deixe-me pedir perdão com antecedência se suas forças forem destruídas até ao último homem. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_1">
+			<Text>Eu acabei de ser informado que um grande número de nossos soldados acabou de entrar em seu território. Eu recomendo fortemente uma campanha de resistência passiva como a melhor forma de derrotá-los.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_2">
+			<Text>Estou mandando um contingente de soldados Indianos numa excursão de boa-fé as suas principais cidades. Eu acredito que eles serão recebidos de braços abertos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_3">
+			<Text>Parece que nossos soldados admiram tanto a sua civilização que um grande número deles decidiu mudar-se para ela, permanentemente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_1">
+			<Text>Você pode ter vencido nossas tropas, mas jamais irá vencer o espírito do povo Indiano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_2">
+			<Text>Você conquistou um inocente e desamparado povo. Eu o parabenizo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_3">
+			<Text>Você nos conquistou. Se você deseja facilitar seu terrível fardo kármico e não quiser retornar na próxima vida como um escaravelho, insisto que seja misericordioso com a vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_ANGRY">
+			<Text>A Índia de coração agradece pela seguinte doação pelos interesses de um mundo pacífico e tranquilo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_HAPPY">
+			<Text>Meu amigo, pode nos poupar disso?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_NEUTRAL">
+			<Text>A Índia é pobre; você é rico. Talvez seus consideráveis fardos kármicos pudessem ser facilitados nos oferecendo isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_1">
+			<Text>Não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_2">
+			<Text>Certamente que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_3">
+			<Text>Nós recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_4">
+			<Text>É claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_5">
+			<Text>Isto é inaceitável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_6">
+			<Text>Você não pode estar falando sério!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_7">
+			<Text>Perdão?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_1">
+			<Text>Em nome do pacífico povo Indiano, eu o saúdo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_2">
+			<Text>Bem-vindo! Eu acredito que nossos povos poderão compartilhar as riquezas deste mundo em pacífica harmonia!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_3">
+			<Text>Em nome do povo Indiano, eu lhe ofereço meus sinceros votos de amizade!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_1">
+			<Text>Bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_2">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_3">
+			<Text>Até logo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_4">
+			<Text>Até o nosso próximo encontro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_5">
+			<Text>Vá embora agora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_6">
+			<Text>Isso é tudo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_7">
+			<Text>Nossos negócios aqui acabaram.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_1">
+			<Text>Bem-vindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_2">
+			<Text>Olá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_3">
+			<Text>Que a paz esteja contigo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_4">
+			<Text>Bom dia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_5">
+			<Text>Ah, é você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_6">
+			<Text>Bem?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_7">
+			<Text>O que você quer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_1">
+			<Text>Vá em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_2">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_3">
+			<Text>Estou ouvindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_4">
+			<Text>Sim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_5">
+			<Text>Você estava dizendo...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_6">
+			<Text>E?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_7">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LOSEWAR_1">
+			<Text>Estou feliz de nos encontrarmos novamente em paz, não importa o custo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_1">
+			<Text>É errado aceitar certezas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_2">
+			<Text>Eu me considero como um soldado, embora um soldado da paz.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_3">
+			<Text>O ideal Estado não violento será uma anarquia ordenada. O Estado é mais bem governado quando é minimamente governado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Eu sou um pacifista - não um tolo. Você terá que fazer melhor que isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Isso não é bom o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Você deve fazer melhor que isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Embora me doa muito, eu não consigo ver como aceitar esses termos; não pode fazer um pouco melhor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Isso é o melhor que pode fazer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Você está quase lá…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Isto não é justo para o povo indiano. Melhore graciosamente sua oferta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Você pode fazer um pouco melhor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Isso não é bom o bastante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Quase…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_ANGRY">
+			<Text>Para concordar com tais termos, eu deveria ser um tolo, de fato. Não, obrigado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_HAPPY">
+			<Text>Com pesar, eu sou incapaz de aceitar os seus termos dessa vez.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_NEUTRAL">
+			<Text>Tal acordo não seria do melhor interesse para o povo Indiano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_ANGRY">
+			<Text>Você é mais sábio do que aparenta. Eu concordo com seus termos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_HAPPY">
+			<Text>Aceito. Acredito que ambos iremos contribuir equitativamente nesta troca.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_NEUTRAL">
+			<Text>Isso parece justo; muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_ANGRY">
+			<Text>Certamente sua infortunada civilização poderia se beneficiar praticando o comércio com os melhores?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_HAPPY">
+			<Text>Meu amigo, você está interessado neste acordo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_NEUTRAL">
+			<Text>O comércio justo beneficia a todos, não concorda?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_ANGRY">
+			<Text>Meus generais me disseram que são incapazes de mandar os itens que requisitou. Contudo, eles o encorajam a "vir e pegar mais". Não estou exatamente certo do que quiseram dizer com isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_HAPPY">
+			<Text>De forma alguma isso parece razoável. Nós somos seus amigos, não seus escravos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_NEUTRAL">
+			<Text>Enquanto eu firmemente acredito na não violência, o povo indiano ainda não é tão iluminado. Eles riem sufocadamente das suas exigências.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_ANGRY">
+			<Text>A ganância cega não é uma boa característica num líder. Contudo, para manter a paz nós iremos ceder as suas exigências.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_HAPPY">
+			<Text>Certamente! Eu nada posso lhe negar!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_NEUTRAL">
+			<Text>Isso é válido para manter a paz. Nós aceitamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_1">
+			<Text>Que decepção.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_2">
+			<Text>Que grande decepção.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_3">
+			<Text>Que tolo você é.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_4">
+			<Text>Que curioso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WINWAR_1">
+			<Text>Eu lhe falei que a violência é fútil! Que isso seja uma lição: você certamente haveria triunfado se tivesse utilizado resistência pacífica contra as nossas forças!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WINWAR_2">
+			<Text>A não violência triunfa mais uma vez! Talvez agora você entenda o poder da resistência passiva!</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>
