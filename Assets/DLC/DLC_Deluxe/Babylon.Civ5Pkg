@@ -9,10 +9,10 @@
 		<Tag>Version</Tag>
 	</PTags>
 	<Name>
-		<Value language="en_US">Babilônia</Value>
+		<Value language="pt_BR">Babilônia</Value>
 	</Name>
 	<Description>
-		<Value language="en_US">Babilônia de Nabucodonosor</Value>
+		<Value language="pt_BR">Babilônia de Nabucodonosor</Value>
 	</Description>
 	<TextData>CIV5GameTextInfos_Leaders_Nebuchadnezzar.xml</TextData>
 	<TextData>CIV5GameTextInfos_Civilizations_Babylon.xml</TextData>
