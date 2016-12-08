@@ -514,6 +514,7 @@ function OnCountdownYes()
 		--apply language, reload UI
 		Locale.SetCurrentLanguage( g_Languages[g_chosenLanguage].Type );
 		--Events.SystemUpdateUI( SystemUpdateUIType.ReloadUI );
+		Locale.SetCurrentLanguage( Locale.GetCurrentLanguage().Type )
 	end
 	--turn off timer
 	ContextPtr:ClearUpdate();
