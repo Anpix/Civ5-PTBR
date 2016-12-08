@@ -1573,7 +1573,8 @@
             <Text>Você deseja manter esta resolução? (Será resetado ao esgotar o tempo)</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_LANGUAGE_TIMER">
-            <Text>Alterar o idioma irá recarregar toda interface. De acordo? </Text>
+            <!--Text>Para alterar o idioma irá recarregar toda interface. De acordo? </Text-->
+            <Text>Para alterar o idioma, você precisa reiniciar o jogo. Salvar alterações? </Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MUSIC_SLIDER">
             <Text>Volume da música: {1_Num}</Text>
