@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+    <Language_pt_BR>
+        <!--General phrases -->
+        <!--Greeting (first time meeting) -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_1">
+            <Text>Saudações de Marrocos! Eu sou Ahmad Al-Mansur. Como eu posso ser útil?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_2">
+            <Text>Eu sou o Sultão Ahmad Al-Mansur de Marrocos, eu o recebo em nome do meu povo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_3">
+            <Text>Bem-vindo ao Marrocos! Espero que nossa relação seja longa e próspera.</Text>
+        </Row>
+        <!--Reacts to his bluff being called -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_1">
+            <Text>Eu não posso levar a sério tais comentários.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_2">
+            <Text>Você está jogando perigosamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_3">
+            <Text>Escolha as suas palavras com cuidado.</Text>
+        </Row>
+        <!--Gloats after winning a war -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_1">
+            <Text>Depois de muitas negociações cuidadosas, este conflito chegou ao fim.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_2">
+            <Text>Depois de muitas negociações cuidadosas, este conflito chegou ao fim.</Text>
+        </Row>
+        <!--Submissive after losing a war -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_1">
+            <Text>Talvez agora possamos voltar às relações diplomáticas adequadas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_2">
+            <Text>Talvez agora possamos voltar às relações diplomáticas adequadas.</Text>
+        </Row>
+        <!--Defeated and removed from game -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_1">
+            <Text>É por isso que eu prefiro a mesa de negociações ao campo de batalha!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_2">
+            <Text>Talvez as minhas expectativas tenham sido um pouco altas demais.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_3">
+            <Text>Vejo que superestimei as habilidades dos meus soldados.</Text>
+        </Row>
+
+        <!--Neutral -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_1">
+            <Text>Bem-vindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_2">
+            <Text>Salve!</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_1">
+            <Text>Vá.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_2">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_NEUTRAL">
+            <Text>Concordo.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Existe mais alguma coisa que você poderia fazer para adoçar a sua oferta?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Você não pode fazer um pouco melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Quase...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Isso não é bom o bastante.</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_NEUTRAL">
+            <Text>Não, não dessa vez.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_NEUTRAL">
+            <Text>Cabe-nos a todos ajudar aqueles em necessidade.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_NEUTRAL">
+            <Text>Minha agenda está cheia demais para esta discussão.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_NEUTRAL">
+            <Text>Venho a você na esperança de um acordo.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Minha proposta é justa, leve isso em consideração.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_1">
+            <Text>Está certo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_2">
+            <Text>Muito bem.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_1">
+            <Text>Eu devo recusar.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_2">
+            <Text>Não, claro que não.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_1">
+            <Text>Vamos ouvir.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_2">
+            <Text>Vá em frente.</Text>
+        </Row>
+
+        <!--Happy -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_3">
+            <Text>Saudações.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_4">
+            <Text>Bem...</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_3">
+            <Text>Nossos negócios aqui estão feitos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_4">
+            <Text>Adeus.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_HAPPY">
+            <Text>Isso deve trazer estabilidade para os nossos reinos.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Suas condições poderiam ser um pouco mais favoráveis.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Isso é o melhor que você pode fazer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Você está quase lá...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_HAPPY">
+            <Text>Sinto muito, mas não posso concordar com isso.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_HAPPY">
+            <Text>Tudo o que você precisa, você terá.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_HAPPY">
+            <Text>Você pede muito de mim amigo.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_HAPPY">
+            <Text>Eu vejo o potencial de grandes benefícios para ambos os nossos povos.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_HAPPY">
+            <Text>Você pode providenciar isso? Somos amigos, afinal de contas.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_3">
+            <Text>Certamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_4">
+            <Text>De acordo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_5">
+            <Text>Excelente.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_3">
+            <Text>Certamente não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_4">
+            <Text>Devemos rejeitar.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_3">
+            <Text>Estou ouvindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_4">
+            <Text>Sim?</Text>
+        </Row>
+
+        <!--Angry -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_5">
+            <Text>O que você quer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_6">
+            <Text>Oh, é você.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_ANGRY">
+            <Text>Contra o meu melhor julgamento, vou concordar com este acordo.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Sua oferta é pequena para atrair os interesses do meu povo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Isso não será o bastante.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Você deve fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Que proposta ofensiva.</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_ANGRY">
+            <Text>Não tenho nenhum interesse em discutir isso com você.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_ANGRY">
+            <Text>Todo o Marrocos se lembrará dessa afronta.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_ANGRY">
+            <Text>Não temos nenhum interesse em ajudá-lo.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_ANGRY">
+            <Text>Talvez, se você concordar com isso, vou apresentá-lo aos meus muitos aliados...</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_ANGRY">
+            <Text>Seu fracasso em nos fornecer agora certamente terá consequências no futuro!</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_5">
+            <Text>Desculpe-me?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_7">
+            <Text>Você não pode estar falando sério!</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_5">
+            <Text>O que você estava dizendo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_1">
+            <Text>Parece que a uma guerra total é a única solução para a nossa disputa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_2">
+            <Text>...E assim vem a guerra ... prepare-se!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_3">
+            <Text>Há um tempo para a diplomacia, e um tempo para a guerra ... este é o segundo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_1">
+            <Text>É uma pena que você tenha que recorrer à violência sem sentido tão depressa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_2">
+            <Text>Certamente a negociação teria sido a melhor escolha.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_3">
+            <Text>Você vai pagar caro por essa decisão imprudente.</Text>
+        </Row>
+    </Language_pt_BR>
+</GameData>

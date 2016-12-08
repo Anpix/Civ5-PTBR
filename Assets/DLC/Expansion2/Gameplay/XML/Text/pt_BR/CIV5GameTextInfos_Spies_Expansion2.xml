@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<!-- Assyria - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_0">
+			<Text>Adapa</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_1">
+			<Text>Kubaba</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_2">
+			<Text>Nabu</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_3">
+			<Text>Nergal</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_4">
+			<Text>Ninlil</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_5">
+			<Text>Ninurta</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_6">
+			<Text>Nisroch</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_7">
+			<Text>Shamash</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_8">
+			<Text>Pazuzu</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_9">
+			<Text>Qingu</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<!-- Brazil - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_0">
+			<Text>Antônio</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_1">
+			<Text>Bartolomeu</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_2">
+			<Text>Domingos</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_3">
+			<Text>Estevão</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_4">
+			<Text>Fernando</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_5">
+			<Text>Francisco</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_6">
+			<Text>Pascoal</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_7">
+			<Text>Salvador</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_8">
+			<Text>Tomé</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_9">
+			<Text>Bianca</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Indonesia - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_0">
+			<Text>Adityawarman</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_1">
+			<Text>Airlangga</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_2">
+			<Text>Citra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_3">
+			<Text>Halayudha</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_4">
+			<Text>Jayakatwang</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_5">
+			<Text>Lingga</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_6">
+			<Text>Mahendradatta</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_7">
+			<Text>Prapana</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_8">
+			<Text>Raden</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_9">
+			<Text>Devi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Morocco - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_0">
+			<Text>el-Krim</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_1">
+			<Text>ibn-Battuta</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_2">
+			<Text>al-Jazzar</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_3">
+			<Text>al-Kahina</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_4">
+			<Text>Hayyuj</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_5">
+			<Text>Kusayla</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_6">
+			<Text>al-Idrisi</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_7">
+			<Text>Salih</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_8">
+			<Text>Tariq</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_9">
+			<Text>Dihya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Poland - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_0">
+			<Text>Wincenty</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_1">
+			<Text>Roman</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_2">
+			<Text>Benita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_3">
+			<Text>Jan</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_4">
+			<Text>Kazimierz</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_5">
+			<Text>Josef</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_6">
+			<Text>Krystyna Skarbek</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_7">
+			<Text>Tarnowski</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_8">
+			<Text>Marian</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_9">
+			<Text>Alenka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Portugal - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_0">
+			<Text>Francisco</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_1">
+			<Text>Gaspar</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_2">
+			<Text>Álvaro</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_3">
+			<Text>Bento</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_4">
+			<Text>Roberto</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_5">
+			<Text>Afonso</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_6">
+			<Text>Galeote</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_7">
+			<Text>Diogo</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_8">
+			<Text>Eliana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_9">
+			<Text>Oriana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Shoshone - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_0">
+			<Text>Cameahwait</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_1">
+			<Text>Ondongarte</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_2">
+			<Text>Queenah</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_3">
+			<Text>Pugweenee</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_4">
+			<Text>Sacajawea</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_5">
+			<Text>Sagwitch</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_6">
+			<Text>Sanpitch</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_7">
+			<Text>Tetoharsky</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_8">
+			<Text>Tuziyammo</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_9">
+			<Text>Mugwayan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Venice - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_0">
+			<Text>Gasparo</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_1">
+			<Text>Giosafat</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_2">
+			<Text>Ambrogio</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_3">
+			<Text>Niccolo</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_4">
+			<Text>Marino</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_5">
+			<Text>Cesare</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_6">
+			<Text>Francesco</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_7">
+			<Text>Giovanni</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_8">
+			<Text>Bertolome</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_9">
+			<Text>Filomena</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Zulu - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_0">
+			<Text>Gumede</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_1">
+			<Text>Jama</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_2">
+			<Text>Mageba</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_3">
+			<Text>Malanda</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_4">
+			<Text>Mnguni</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_5">
+			<Text>Ndaba</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_6">
+			<Text>Phunga</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_7">
+			<Text>Senzangakhona</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_8">
+			<Text>Balungile</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_9">
+			<Text>Samkelisiwe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<GameData>
+	<Language_pt_BR>
+		<!-- FALL OF ROME SCENARIO -->
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_AUGUSTUS">
+			<Text>Honorius</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_DARIUS">
+			<Text>Bahram V</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ASKIA">
+			<Text>Genseric</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_NAPOLEON">
+			<Text>Chlodio</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BISMARCK">
+			<Text>Alaric I</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK">
+			<Text>Cyrus Rotheram</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE">
+			<Text>Ignace Curnow</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH">
+			<Text>Octavius Cutler</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>Luther Griggs</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON">
+			<Text>Clinton Alderdice</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BARBARIAN">
+			<Text>Luddite</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA">
+			<Text>Saladin</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN">
+			<Text>Ya'qub al-Mansur</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON">
+			<Text>Francis I</Text>
+			<Gender>masculine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>

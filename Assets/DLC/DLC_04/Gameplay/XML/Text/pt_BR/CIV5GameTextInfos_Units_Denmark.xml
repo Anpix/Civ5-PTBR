@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_UNIT_DANISH_BERSERKER">
+			<Text>Furioso|Furiosos</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DANISH_SKI_INFANTRY">
+			<Text>Infantaria Ski|Infantarias Ski</Text>
+            <Gender>feminine|feminine</Gender>
+            <Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY">
+			<Text>Bônus em Neve, Tundra e Colinas</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY_HELP">
+			<Text>Em Neve, Tundra e Colinas: +25% de Bônus de Combate (se Floresta ou Selva não estiverem presentes) e Movimento Dobrado</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+	</Language_pt_BR>
+</GameData>

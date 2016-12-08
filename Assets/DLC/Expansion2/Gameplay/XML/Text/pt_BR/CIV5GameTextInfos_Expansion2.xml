@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy -->
+<GameData>
+    <Language_pt_BR>
+        <Row Tag="TXT_KEY_NO_WRITER_FROM_FAITH">
+            <Text>Um Grande Escritor só pode ser selecionado se você tiver iniciado a árvore política Estética.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NO_ARTIST_FROM_FAITH">
+            <Text>Um Grande Artista só pode ser selecionado se você tiver iniciado a árvore política Estética.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NO_MUSICIAN_FROM_FAITH">
+            <Text>Um Grande Músico só pode ser selecionado se você tiver iniciado a árvore política Estética.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NO_GENERAL_FROM_FAITH">
+            <Text>Um Grande General só pode ser selecionado se você tiver iniciado a árvore política Honra.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NO_ADMIRAL_FROM_FAITH">
+            <Text>Um Grande Almirante só pode ser selecionado se você tiver iniciado a árvore política Exploração.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NO_ENGINEER_FROM_FAITH">
+            <Text>Um Grande Engenheiro só pode ser selecionado se você tiver iniciado a árvore política Tradição.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CULTURE_FROM_GREAT_WORKS">
+            <Text>{1_Num} de [ICON_CULTURE] de Grandes Trabalhos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CULTURE_FROM_LEAGUES">
+            <Text>{1_Num} de [ICON_CULTURE] do Congresso Mundial</Text>
+        </Row>
+        <Row Tag="TXT_KEY_FOOD_FROM_TRADE_ROUTES">
+            <Text>{1_perTurn:number "#.##"} de [ICON_FOOD] das Rotas Comerciais estabelecidas com esta cidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PRODUCTION_FROM_TRADE_ROUTES">
+            <Text>{1_perTurn:number "#.##"} de [ICON_PRODUCTION] das Rotas Comerciais estabelecidas com esta cidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GOLD_FROM_TRADE_ROUTES">
+            <Text>{1_perTurn:number "#.##"} de [ICON_GOLD] das Rotas Comerciais estabelecidas com esta cidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SCIENCE_FROM_TRADE_ROUTES">
+            <Text>{1_perTurn:number "#.##"} de [ICON_RESEARCH] das Rotas Comerciais estabelecidas com esta cidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CULTURE_FROM_TRADE_ROUTES">
+            <Text>{1_perTurn:number "#.##"} de [ICON_CULTURE] das Rotas Comerciais estabelecidas com esta cidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_FAITH_FROM_TRADE_ROUTES">
+            <Text>{1_perTurn:number "#.##"} de [ICON_FAITH] das Rotas Comerciais estabelecidas com esta cidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NO_ACTION_NUKES_BY_RESOLUTION">
+            <Text>[NEWLINE]A construção de armas nucleares é proibida pela Resolução de Não Proliferação Nuclear do Congresso Mundial.</Text>
+        </Row>
+		<Row Tag="TXT_KEY_NO_ACTION_CITY_AT_AIR_CAPACITY">
+		  <Text>[NEWLINE]Cidade possui quantidade máxima de unidades aéreas.</Text>
+		</Row>		
+        <Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
+            <Text>Você saqueou {1_Num} de [ICON_GOLD], {2_Num} de [ICON_CULTURE], e {3_Num} de [ICON_GREAT_WORK] na captura de {@4: gender *:noart?de; feminine?{@4: plural 2?das; other?da;}; masculine?{@4: plural 2?dos; other?do;}; other?de;} {@4_CityName}!!!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_OPTION_NO_LEAGUES">
+            <Text>Desabilitar Congresso Mundial</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_OPTION_NO_LEAGUES_HELP">
+            <Text>Desabilita o sistema do Congresso Mundial. Nenhuma proposta ou sessão acontecerá e a Vitória Diplomática não será possível.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI">
+            <Text>Desabilitar Visão Cultural</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI_HELP">
+            <Text>Desabilita a tela de Visão Cultural. Isso afeta apenas a tela e não altera nenhum dos mecanismos centrais do jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOVE_SPY_INSTRUCTIONS">
+            <Text>Escolha uma cidade para enviar {2: gender feminine:a; other?o;} {1_SpyRank} {2_SpyName} para iniciar as operações.[NEWLINE][NEWLINE][NEWLINE]Quando você envia um espião para uma [ICON_CAPITAL]Capital de um oponente, você será capaz de designá-lo um diplomata.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_BE_DIPLOMAT">
+            <Text>Você quer que este espião seja um diplomata? Um espião pode ser um diplomata se for colocado na capital de outra civilização com a qual você não esteja em guerra. (Se a guerra for declarada, seu espião fugirá da cidade) Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário. Se vocês possuírem diferentes ideologias, Diplomatas irão realizar automaticamente propaganda, que fornece um impulso na produção de [ICON_TOURISM]Turismo para aquela civilização.
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS">
+            <Text>Apresentando-se</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS_TT">
+            <Text>{2: gender feminine:A; other?O;} {1_RankName} {2_SpyName} está tentando conseguir as conexões certas {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} como diplomata. Após as apresentações, {2: gender feminine?ela; other?ele;} poderá começar a fazer lóbi.[NEWLINE][NEWLINE]Um espião pode ser um diplomata se ele for enviado a uma capital de outra civilização com a qual você não esteja em guerra (Se a guerra for declarada, seu espião fugirá da cidade). Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING">
+            <Text>Fazendo Lóbi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING_TT">
+            <Text>{1_RankName} {2_SpyName} está fazendo lóbi {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName} como um diplomata.[NEWLINE][NEWLINE]Um espião pode ser um diplomata se ele for enviado a uma capital de outra civilização com a qual você não esteja em guerra (Se a guerra for declarada, seu espião fugirá da cidade). Um diplomata não tentará roubar tecnologias do outro jogador, mas ainda causará intriga. Uma vez que o Congresso Mundial se reúna, você será capaz de determinar o parecer deles sobre as propostas e negociar por apoio, se necessário. Diplomatas também podem realizar automaticamente propaganda, que fornece um impulso na produção de [ICON_TOURISM]Turismo para aquela civilização.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_DIPLOMAT_WAIT_TT">
+            <Text>Você não pode ver a tela da cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName}.[NEWLINE][NEWLINE]Você possui um diplomata nesta cidade, mas você precisa esperá-lo terminar de se apresentar antes que possa ver a tela da cidade.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_DIPOLOMAT_TT">
+            <Text>Clique para ver a tela da cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName}.[NEWLINE][NEWLINE]Você pode ver a tela da cidade de outros jogadores se seu espião for um diplomata e estiver fazendo lóbi na [ICON_CAPITAL]Capital.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_PUBLIC_OPINION_UNHAPPINESS">
+            <Text>Opinião Pública</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NOTIFICATION_REBELS">
+            <Text>Em razão do Império estar com pelo menos 10 de [ICON_HAPPINESS_4]Infelicidade, uma rebelião ocorreu em nosso território!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT_SUMMARY">
+            <Text>Uma Cidade Se Revoltou!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT">
+            <Text>Em razão do Império estar com pelo menos 20 de [ICON_HAPPINESS_4]Infelicidade e nossa opinião pública é Não Contente, a cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName} se {1: plural 2?revoltaram; other?revoltou;} e se {1: plural 2?juntaram; other?juntou;} {2: gender *:noart?a; feminine?{2: plural 2?às; other?à;}; masculine?{2: plural 2?aos; other?ao;}; other?a;} {2_CivName}!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_CITY_REVOLT">
+            <Text>A cidade {1_CivAdjective[2]} {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName} se {2: plural 2:revoltaram; other?revoltou;} e se {2: plural 2?juntaram; other?juntou;} {3: gender *:noart?a; feminine?{3: plural 2?às; other?à;}; masculine?{3: plural 2?aos; other?ao;}; other?a;} {3_CivName}!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT_SUMMARY">
+            <Text>Cidade Preparando Revolta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT">
+            <Text>Em razão do Império estar com pelo menos 20 de [ICON_HAPPINESS_4]Infelicidade e nossa opinião pública é Não Contente, uma cidade se revotará em {1_Turns} {1: plural 1:turno; other?turnos;}. Baseado nos níveis atuais de Infelicidade e pressão das ideologias próximas, a cidade mais propensa a se rebelar é {2_CityName} e ela se juntará {3: gender *:noart?a; feminine?{3: plural 2?às; other?à;}; masculine?{3: plural 2?aos; other?ao;}; other?a;} {3_CivName}. Tente melhorar o nível de Felicidade do seu Império o mais breve possível!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_0_SHORT">
+            <Text>Antiga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_1_SHORT">
+            <Text>Clássica</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_2_SHORT">
+            <Text>Medieval</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_3_SHORT">
+            <Text>Renascença</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_4_SHORT">
+            <Text>Industrial</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_5_SHORT">
+            <Text>Moderna</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_6_SHORT">
+            <Text>Era Atômica</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_7_SHORT">
+            <Text>Era da Informação</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_0_ABBREV">
+            <Text>I</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_1_ABBREV">
+            <Text>II</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_2_ABBREV">
+            <Text>III</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_3_ABBREV">
+            <Text>IV</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_4_ABBREV">
+            <Text>V</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_5_ABBREV">
+            <Text>VI</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_6_ABBREV">
+            <Text>VII</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_7_ABBREV">
+            <Text>VIII</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PRODUCTION_BUILDING_TOURISM">
+            <Text>[ICON_TOURISM]Turismo: +{1_Num}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VENETIAN_MERCHANT_BOUGHT_CITY_STATE">
+            <Text>Seu Mercador de Veneza comprou uma Cidade-Estado!</Text>
+        </Row>
+    </Language_pt_BR>
+</GameData>

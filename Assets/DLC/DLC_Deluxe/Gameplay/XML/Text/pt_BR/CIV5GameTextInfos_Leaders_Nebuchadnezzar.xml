@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR">
+			<Text>Nabucodonosor II</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_pt_BR>
+</GameData>

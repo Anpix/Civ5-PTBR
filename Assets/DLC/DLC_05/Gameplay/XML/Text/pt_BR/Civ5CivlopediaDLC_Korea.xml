@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- DLC Civilopedia Entries -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_CIV5_DAWN_KOREA_TEXT">
+			<Text>Saudações, nobre Rei Sejong, o Grande, servo do povo e protetor da Dinastia Choson. Vossa gloriosa visão de prosperidade e irresistível benevolência para com os homens comuns vos transformaram no mais amado de todos os reis Coreanos. Desde os primeiros dias do vosso reinado, os esforços que vós tomastes - para oferecer uma sociedade justa e honesta para todos - foram superados apenas pelos avanços tecnológicos impulsionados por vossa sede de conhecimento. Guiados por vossa sabedoria, os Estudiosos do Salão de Jade desenvolveram a primeira linguagem escrita da Coreia, Hangul, trazendo a luz da literatura e ciência às massas, após séculos de escuridão literária.[NEWLINE][NEWLINE]Honorável Sejong, mais uma vez o povo busca em vós a liderança! Estareis à altura das circunstâncias para transmitir harmonia e conhecimento ao povo? Podereis mais uma vez elevar a posição do vosso reino a extraordinárias alturas? Podereis construir uma civilização que resista ao teste do tempo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TITLE">
+			<Text>Coreia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_2">
+			<Text>Clima e Terreno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_3">
+			<Text>Pré-História e o Antigo Reino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_4">
+			<Text>A Ascensão dos Três</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_5">
+			<Text>Transformando Reinos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_6">
+			<Text>Dinastia Choson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_7">
+			<Text>Império Coreano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_8">
+			<Text>Ocupação Japonesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_9">
+			<Text>Guerra Coreana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_10">
+			<Text>Divisão da Coreia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HEADING_11">
+			<Text>Coreia Moderna </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_STATBOX">
+			<Text>[NEWLINE]        Líder: SEJONG[NEWLINE]        Unidade Exclusiva: Veículo de Fogo[NEWLINE]        Unidade Exclusiva: Barco Tartaruga[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_1">
+			<Text>A península Coreana, conhecida hoje por suas repúblicas divididas do Norte e do Sul, tem sido o lar de vários reinos ao longo dos tempos, alguns virtuosos, alguns mergulhados na infâmia. Às vezes rivalizando com seus poderosos estados vizinhos da China e do Japão, a Coreia foi unida sob o domínio da Dinastia Choson por mais de 500 anos. O tumulto da ocupação Japonesa no início do século XX, seguida pela Guerra da Coreia em 1950, iria quebrar essa unidade, outrora sagrada. A partir deste conflito, a Coreia do Sul surgiu como uma nação de crescente importância econômica e cultural em escala global. Em contraste, o regime opressivo e controlador do recluso Estado Norte Coreano é frequentemente alvo de condenações internacionais por sua manipulação dos direitos humanos e relações diplomáticas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_2">
+			<Text>Situada entre o Mar do Leste e o Mar Amarelo, a Península Coreana compartilha sua fronteira norte com a China e, em menor escala, com a Rússia, respectivamente, separadas pelos rios Amnok e Tumen. Embora a Coréia apresente uma geografia diversificada, o país é principalmente montanhoso, sendo a Montanha Baekdu o pico mais alto, com 2.744 metros de altura. Como seus vizinhos, a Coréia é afetada pelas Monções da Ásia Oriental em todos os verões, trazendo a possibilidade de chuva intensa e umidade opressiva para grande parte da região. Os meses de inverno também podem ser bastante duros, com temperaturas abaixo de zero, especialmente no norte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_3">
+			<Text>Desde pelo menos o Paleolítico Médio, a Coréia era habitada por seres humanos que vivem em cavernas ou sob afloramentos rochosos perto do mar. Ao longo de vários milhares de anos, as comunidades primitivas seriam formadas, principalmente à medida que esses coletores se tornavam mais adeptos à caça. Das numerosas comunidades encontradas no início em toda a península, uma em particular surgiria em destaque para se tornar a base para todos os reinos da Coréia que estavam por vir - "Ko Choson", também conhecida como "Old Choson".[NEWLINE][NEWLINE]Choson foi fundada em aproximadamente 2.000 a.C., pela lendária figura Tan'gun Wanggom, cujo pai é dito ter descido dos céus. Alguns historiadores modernos acreditam que o nome "Tan'gun Wanggom" pode ter sido realmente um título dado a figuras de autoridade antigas, representando tanto uma figura política quanto religiosa dentro da comunidade. Seja guiada pela mão de um único líder, ou um número de governantes antigos, Choson se tornaria o mais avançado dos primeiros reinos tribais Coreanos durante o advento da Idade do Ferro, no século IV a.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_4">
+			<Text>Por quase todo o 1º milênio d.C., a Coréia estava dividida pela regra de três monarquias distintas. Os "Três Reinos da Coréia" eram Koguryo, Paekche e Silla - cada um controlando um segmento da península, com Koguryo sendo o maior e, por um tempo, o mais poderoso. No entanto, as relações diplomáticas viriam a ser a ruína de Koguryo, já que sua rival ao sul, Silla, negociou uma aliança com a dinastia Tang da China. Esta aliança traria grande força para Silla, permitindo-lhe conquistar tanto Paekche quanto Koguryo, em 668, deixando Silla com controle incontestável da maioria da Península Coreana.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_5">
+			<Text>Tendo conquistado os reinos Koguryo e Paekche, o novo "Silla Unificado", muitas vezes referido como "Silla Posterior", continuaria a controlar a península por várias centenas de anos. Como frequentemente ocorre, após um período tão longo de domínio ininterrupto, a autoridade do rei começou a entrar em questionamento por volta do século IX. O "sistema ósseo", uma espécie de segregação hereditária baseada nos laços de uma pessoa de sangue com o rei, manteve o equilíbrio de poder entre o rei e a nobreza aristocrática por algum tempo. No entanto, este sistema acabaria por contribuir para a queda de Silla, já que a nobreza que desesperadamente era invocada à tributação e gestão se cansou do sistema de castas que limitava o seu papel no governo. [NEWLINE][NEWLINE]No final, disputas internas contínuas levariam à submissão do reino à Dinastia Koryo, emergentes por volta de 935. A Dinastia Koryo manteria um reino soberano na Coreia, apesar da pressão da Dinastia Mongol Yuan da China, até 1392.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_6">
+			<Text>A Dinastia Choson, amplamente considerada como o reino mais notável na história da Coréia, foi fundada pelo comandante rebelde Koryo Yi Song-gye, em 1392. Ordenado a invadir a província vizinha Chinesa de Liaotung (um ataque preventivo contra os Chineses da dinastia Ming), ao invés disso Yi aproveitou a oportunidade para controlar a Coréia ele mesmo, levando seu exército para a capital Koryo e destronando o rei em um golpe militar. Formando sua própria dinastia e se renomeando rei Taejo de Choson, nomeado em homenagem ao antigo reino Choson, Taejo criaria a primeira dinastia Coreana unificada na história do país. [NEWLINE][NEWLINE]O mais venerado dos líderes Choson, o Rei Sejong, o Grande, governou de 1418 até sua morte em 1450. As políticas de Sejong pavimentou o caminho para avanços enormes nas artes e ciências durante o seu reinado, incluindo a publicação do idioma Coreano escrito: "Hangul". Foi também durante este período que o Confucionismo Coreano, com suas raízes estabelecidas durante Dinastia Koryo precedente, tomaria a Coréia. Neo-Confucionismo, conhecido como "Seongnihak", tornar-se-ia a escola primária de pensamento para os estudiosos em toda a península. Estes valores Confucianos, enfatizando a moralidade e o autoaperfeiçoamento, tornaram-se a base para muitos dos valores tidos como sagrados pela sociedade Coreana atual. [NEWLINE][NEWLINE]A Dinastia Choson seria governada por 27 monarcas distintos durante seu domínio de 500 anos, terminando em 1897. Durante os anos de declínio da dinastia, a Coréia passou por um período de isolamento, limitando o contato com as nações vizinhas, em um esforço para enfraquecer a influência externa. Tendo sido o assunto da influência Chinesa e Japonesa, muitos historiadores acreditam que foi durante este período, quando a Coreia se tornou conhecida como o "Reino Eremita", que os primeiros indícios de uma identidade nacional moderna Coreana começaram a tomar forma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_7">
+			<Text>A primeira guerra Sino-Japonesa, travada entre a China e o Japão em grandes áreas da península Coreana, no início de 1894, daria o primeiro vislumbre de força emergente do Japão na Ásia Oriental. Tendo sido o assunto da influência Chinesa e com medo do poder emergente demonstrado pelo Japão, a liderança Choson achou por bem declarar a criação do Império Coreano em 1897. Esperando afirmar a independência da Coréia da China e do Japão, essas aspirações teriam vida curta. O Japão rapidamente se mudou para afirmar o controle sobre a Coréia, depois de derrotar a maior parte das forças da Dinastia Chinesa Qing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_8">
+			<Text>O Tratado do Japão-Coreia de 1910 (que os atuais historiadores Coreanos dizem que só foi assinado sob coação extrema) efetivamente anexou toda a Coréia ao Japão. Apesar de um movimento de resistência ativa entre o povo Coreano desde o início da ocupação, o Japão manteve o controle sobre a nação por quase 35 anos. O "Governo Provisório da República da Coréia", com sede em Xangai, China, serviria como o governo Coreano - exilado durante a ocupação. O controle Japonês sobre a Coréia finalmente chegou ao fim em 02 de setembro de 1945, após a derrota do Japão na Segunda Guerra Mundial. Hoje, muitos Coreanos ainda possuem um forte ressentimento para com o Japão em razão deste período negro da sua história.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_9">
+			<Text>A Guerra da Coréia, o grande conflito que dividiu a península Coreana tal como está hoje, surgiu a partir do vácuo de poder na sequência da derrota do Japão, na Segunda Guerra Mundial. Esperava-se que o Paralelo 38, uma linha divisória acordada pelos Estados Unidos e a União Soviética, marcasse uma separação temporária administrativa entre os países. Em 1948, a Coréia do Norte formou um governo comunista liderado por Kim II-Sung, enquanto a Coréia do Sul elegeu seu primeiro presidente, Syngman Rhee, através de eleições nacionais. Ambos os líderes insistiram que o povo Coreano deveria ser unido sob um único governo, mas cada um esperava que a unificação ocorresse sob o seu próprio sistema político. [NEWLINE][NEWLINE]Em junho de 1950, a Coréia do Norte invadiu a do Sul, auxiliada por equipamentos militares Soviéticas da Segunda Guerra Mundial. Pouco tempo depois, as Nações Unidas emitiu uma resolução condenando a invasão e recomendando a intervenção militar pelos seus estados membros. Na época, os Estados Unidos considerou a propagação do comunismo um resultado direto da influência Soviética e respondeu como a principal força militar na ajuda à Coreia do Sul. [NEWLINE][NEWLINE]Embora a Coréia do Norte tenha capturado grande parte do território sul no início da guerra, a chegada das forças Americanas, sob a liderança do general MacArthur, logo rebateu esses ganhos. Eventualmente, recuperando o território da Coréia do Sul até o Paralelo 38, as forças Americanas e Sul Coreanas lutariam contra o Norte até um eventual impasse. Negociações para um armistício, que serviria para acabar com o conflito - mas não oficialmente o fim da guerra - começou em 1951 e continuaria por vários anos. O acordo de armistício foi finalmente assinado pela República Popular Democrática da Coreia (do Norte) e a República da Coreia (do Sul) sob a orientação da Organização das Nações Unidas, em 1953.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_10">
+			<Text>Oficialmente, o acordo de armistício assinado pelas repúblicas Coreanas somente estipulou um fim aos combates, ou seja, teoricamente as duas ainda estão em guerra. Hoje, a Zona Desmilitarizada (DMZ) que as divide é a fronteira mais fortificada do mundo, com ambos os lados observando atentamente um ao outro. Ao longo dos anos, uma série de incursões incidentais e outras violações do armistício ocorreram, principalmente ações antagônicas pelo regime norte-coreano. Apesar destes incidentes, o cessar-fogo delicado permanece em vigor por mais de 50 anos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TEXT_11">
+			<Text>Hoje, a Coréia do Sul se tornou uma líder mundial em ciência e desenvolvimento tecnológico e é reconhecida como um dos "Quatro Tigres Asiáticos", um grupo de quatro economias industrializadas altamente desenvolvidas da Ásia (os outros três são Hong Kong, Cingapura e Taiwan). Lar de uma força de trabalho bem educada e altamente qualificada, a Coreia do Sul tem uma forte cultura de adoção tecnológica, apresentando algumas das mais rápidas conexões de internet residencial disponíveis e sendo o lar das indústrias líderes Samsung e LG, duas das maiores fabricantes de telefones celulares no mundo. [NEWLINE][NEWLINE]Por outro lado, o governo secreto da Coréia do Norte tem se esforçado para atender às necessidades da vida diária do seu povo, que são conhecidos por sofrer com a fome e a pobreza sob o regime comunista. Isolado do escrutínio público, o pouco que sabemos da Coréia do Norte vem de desertores que conseguiram escapar ou a partir da visita raramente permitida de jornalistas estrangeiros. Frequentemente sancionada pelo desenvolvimento de programas de armas consideradas perigosas pela comunidade internacional, a Coréia do Norte tem uma economia limitada e é apoiada pela ajuda constante da República Popular da China e os esforços humanitários iniciados pelos Estados membros das Nações Unidas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_FACTOID_HEADING">
+			<Text>Fatos Curiosos Coreanos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_FACTOID_TEXT">
+			<Text>A Coreia do Sul é famosa por sua cultura de vídeo games, especialmente um caso de amor com o título clássico da Blizzard "Starcraft". Jogos e torneios profissionais recebem atenção da mídia em todo o país, incluindo transmissões em várias redes de televisão. [NEWLINE][NEWLINE]Os caracteres chineses para Choson eram muitas vezes traduzidos em Inglês como "Alvorada Tranquila", que mais tarde evoluiu para o apelido de "A Terra da Alvorada Tranquila", referindo-se a toda a Coréia. [NEWLINE][NEWLINE]Kimchi, o prato nativo amplamente reconhecido da Coréia, em geral, acompanha todas as refeições da cozinha Coreana. Normalmente feito de repolho fermentado, rabanete, cebolinha ou pepinos, existem literalmente centenas de receitas originais e variedades de Kimchi disponíveis hoje. [NEWLINE][NEWLINE]O esporte nacional da Coréia do Sul, Tae Kwon Do, é atribuído aos nove "Kwans" originais, ou escolas de Tae Kwon Do, que se desenvolveram após o fim da ocupação Japonesa da Coreia. Acredita-se que o esporte em si tenha se originado com a arte marcial tradicional Coreana conhecida como "Taekkyeon".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_LIVED">
+			<Text>1397 - 1450 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_NAME">
+			<Text>Sejong - O Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_SUBTITLE">
+			<Text>Líder da Coreia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TITLES_1">
+			<Text>Rei da Dinastia Choson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_HEADING_2">
+			<Text>Primeiros Anos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_HEADING_3">
+			<Text>Idioma, Literatura e Ciência</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_HEADING_4">
+			<Text>O Líder Magnânimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_HEADING_5">
+			<Text>Lei e o Sistema Judiciário</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_HEADING_6">
+			<Text>Avanços Militares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_HEADING_7">
+			<Text>Julgamento da História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TEXT_1">
+			<Text>Sejong Daewang, conhecido na história como "Sejong, o Grande", foi o quarto rei da Dinastia Choson da Coréia, governando de 1418 até sua morte em 1450. Considerado por muitos como o maior rei na história Coreana, Sejong é conhecida por seu notável apreço e respeito pela vida humana, adotando inúmeras políticas cívicas e sociais para melhorar o bem-estar de seu povo. Sejong também encorajou os avanços em ciência e tecnologia e é creditado como  criador do idioma Coreano escrito, Hunminjeongeum, conhecida hoje como "Hangul".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TEXT_2">
+			<Text>Nascido em 7 de maio de 1397, Sejong foi o terceiro filho do rei Taejong, da Dinastia Choson. Acreditado ter sido um aluno excepcional e ávido leitor em uma idade adiantada, Sejong foi nomeado príncipe herdeiro, aos 16 anos. Aos 21 anos, Sejong subiu ao trono e seu impacto na vida da Coréia e da estrutura política do reino seria imediato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TEXT_3">
+			<Text>Sejong talvez seja mais conhecido pela sua criação do idioma Coreano escrito, Hangul. O "Chiphyonjon", ou "Hall da Fama", estabelecido em 1420, foi um coletivo de notáveis pesquisadores selecionados pelo próprio rei. Inicialmente criado como um instituto de pesquisa, o Chiphyonjon acabaria por ser encarregado da criação de um alfabeto Coreano, para ajudar as pessoas comuns em sua compreensão do idioma. Até este momento, a Coréia tinha contado com uma escrita "Hanja" Chinesa, incorporada ao dialeto Coreano, para todos os trabalhos escritos. No entanto, esta escrita não foi amplamente entendida pelas massas e Sejong procurou mudar esta tendência do analfabetismo. [NEWLINE][NEWLINE]Originalmente conhecido como "Hunminjeongeum", que significa literalmente "os sons corretos para a Instrução do Povo", esta escrita nativa Coreana daria início a uma nova era de alfabetização e de compreensão para o cidadão comum da Coréia. Publicado pela primeira vez em 1446, seria vários anos antes de a nova escrita encontrar ampla aceitação. Até hoje, 09 de outubro, a data original da publicação, é celebrado como "Dia Hangul" por toda a Coréia do Sul.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TEXT_4">
+			<Text>O legado de Sejong é de grande benevolência, liderado por sua forte crença de que todas as pessoas eram dignas de seu respeito, não só os que estavam em seu reino, mas até mesmo as chamadas "tribos bárbaras” espalhadas por toda a Ásia. O padrão pelo qual ele mediu o seu próprio sucesso como líder foi a felicidade e a prosperidade de seu povo, sendo o bem-estar sua maior prioridade. Como rei, Sejong forneceu reservas de alimentos para os pobres e idosos e, frequentemente, abolia os impostos sobre os agricultores e, ocasionalmente, províncias inteiras que experimentaram dificuldades devido às condições meteorológicas ou fraca produtividade agrícola. Sejong também era conhecido por convidar os idosos para banquetes em honra deles, independentemente da posição ou status social dos participantes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TEXT_5">
+			<Text>Sejong determinou uma série de melhorias ao Sistema de Justiça Coreano, a fim de proporcionar um julgamento justo e punições razoáveis para o condenado. Sejong acreditava que era injusto prender os cidadãos responsáveis por violar a lei, sem garantir que a eles fosse fornecido um meio para eles pudessem entender as leis que haviam quebrado. Apesar da relutância dos seus ministros, Sejong ordenou que a totalidade do código legal Coreano fosse colocada em exibição pública, para todos verem. [NEWLINE][NEWLINE]Sejong também se opôs à pena de morte e informou aos juízes que não era para ser usada, a menos que fosse absolutamente necessária. Sua implementação de "A Lei de Três Apelações" permitiu ao acusado até três apelos ao rei, assegurando a eles  a oportunidade de falar em seu próprio nome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TEXT_6">
+			<Text>No governo de Sejong, a Coréia começou o desenvolvimento de várias armas de pólvora, a mais famosa o "Hwach'a", ou "Veículo de Fogo". Especificamente concebido como uma arma anti-infantaria, o Veículo de Fogo era uma plataforma com rodas, capaz de lançar dezenas flechas propelidas por pólvora em todo o campo de batalha. Embora limitado em uso durante o tempo de Sejong, o Veículo de Fogo se tornaria uma arma defensiva crucial em toda a península Coreana pelos séculos vindouros. Durante a Batalha de Haengju, em 1593, três mil soldados da Coréia repeliram com sucesso uma força invasora Japonesa, de mais de 30.000, utilizando o Veículo de Fogo, causando mais de 10.000 mortes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_TEXT_7">
+			<Text>Na velhice, diz-se que Sejong continuou o seu envolvimento na rotina diária dos assuntos do governo, apesar de ficar cego e desenvolver diabetes, o que seria a causa final de sua morte, em 18 de maio de 1450. Sejong é lembrado na história por sua sabedoria, nobreza e liderança compassiva, que estimulou incríveis avanços em ciência e tecnologia e levou a uma revolução no desenvolvimento cultural do povo Coreano durante séculos por vir.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_FACTOID_HEADING">
+			<Text>Fatos Curiosos de Sejong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEJONG_FACTOID_TEXT">
+			<Text>A Marinha da República da Coreia emprega uma classe de Destróier de mísseis guiados conhecida como "Rei Sejong, o Grande", desenvolvida no programa "Destróier Coreano Experimental (KDX)". [NEWLINE][NEWLINE]A gravura do Rei Sejong - o Grande, aparece na nota (moeda) Coreana de 10.000 Won.[NEWLINE][NEWLINE]Um drama de televisão Coreana, produzida em 2008, intitulado "Daewang Sejong", narrou a vida de Sejong - o Grande, durante o seu reinado. [NEWLINE][NEWLINE]Designado um Patrimônio Mundial da UNESCO em 2009, o túmulo do rei Sejong, conhecido como Yeongneung, está localizado em Gyeonggi-do na atual Coréia do Sul.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_TEXT">
+			<Text>Estes grandes barcos encouraçados da Dinastia Choson desempenharam um papel crucial na defesa da Coreia durante as invasões Japonesas do século XVI. Normalmente tripulados por igualmente elogiados soldados e remadores, o Barco Tartaruga ofereceu um agressivo assalto naval para a marinha da Coréia. Projetado para causar medo no inimigo, cada Barco Tartaruga apresentava uma figura de dragão esculpida na proa, que, dizem, emitia uma nuvem de fumaça sulfurosa para disfarçar abordagem da embarcação. Ao contrário dos projetos familiares usados pelos navios do período, o Barco Tartaruga não tinha convés superior. O nível superior do navio foi coberto de espinhos de ferro para impedir o embarque, com os remadores e soldados segregados em decks separados abaixo. Armado com até duas dezenas de canhões e outras armas de projétil de pequeno porte, o Barco Tartaruga era um inimigo perigoso para as marinhas despreparadas dos inimigos da Coréia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_HELP">
+			<Text>Unidade naval altamente blindada da Renascença, que é extremamente difícil de ser destruída. Entretanto, o Barco Tartaruga não pode entrar em hexágonos oceânicos fora dos limites da cidade. Somente a Coreia pode construí-lo. Substitui a Caravela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_STRATEGY">
+			<Text>O Barco Tartaruga é a unidade exclusiva Coreana. Esta unidade substitui a Caravela. O Barco Tartaruga possui um maior poder de ataque que a Caravela e é extremamente difícil de ser destruído. Entretanto, não pode entrar em hexágonos oceânicos fora dos limites da cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_TEXT">
+			<Text>O Veículo de Fogo, lendária arma anti-infantaria Coreana, foi uma inovação exclusiva no desenvolvimento de antigas armas baseadas na pólvora. Criado durante o século XV, sob a supervisão do Rei Sejong - O Grande, o Veículo de Fogo consistia em um carrinho de duas grandes rodas carregando um tipo de habitação "favo de mel", não diferente de uma bateria de mísseis modernos, capaz de armazenar centenas flechas propelidas à pólvora. O peso leve destes antigos foguetes, conhecido como "Singijeon", fornecia ao Veículo de Fogo uma vantagem notável, permitindo uma excelente manobrabilidade, em comparação com um canhão tradicional. O Veículo de Fogo provaria ser uma arma formidável para a defesa da península Coreana durante as invasões Japonesas do século XVI.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_HELP">
+			<Text>Unidade de foguetes anti-infantaria da Era Medieval. Forte contra unidades terrestres, mas fraca contra cidades. Somente a Coreia pode construí-la. Substitui o Trabuco.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_STRATEGY">
+			<Text>O Veículo de Fogo é extremamente eficaz contra unidades terrestres inimigas. É lenta e vulnerável a ataques corpo-a-corpo inimigos; sempre deve ser apoiado por outras unidades quando estiver no campo de batalha. O Veículo de Fogo deve ser "preparado" (1 Ponto de Movimento) antes de atacar.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

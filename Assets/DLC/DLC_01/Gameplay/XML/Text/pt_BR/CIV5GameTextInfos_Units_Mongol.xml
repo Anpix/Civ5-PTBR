@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_KESHIK">
+			<Text>Keshik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_KHAN">
+			<Text>Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GENGHIS">
+			<Text>Genghis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_BATU">
+			<Text>Batu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_OGEDEI">
+			<Text>Ogedei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GUYUK">
+			<Text>Guyuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE">
+			<Text>Mongke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_KUBLAI">
+			<Text>Kublai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_HULEGU">
+			<Text>Hulegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_BERKE">
+			<Text>Berke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE_TEMUR">
+			<Text>Mongke Temur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_TEMUR_KHAGAN">
+			<Text>Temur Khagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL">
+			<Text>Médico Avançado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+			<Text>Esta unidade e todas as outras em hexágonos adjacentes se [COLOR_POSITIVE_TEXT]curam 2 HP's adicionais[ENDCOLOR] por turno.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE">
+			<Text>Ganho Rápido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE_HELP">
+			<Text>Recebe experiência, em busca de promoções, 50% mais rápido.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

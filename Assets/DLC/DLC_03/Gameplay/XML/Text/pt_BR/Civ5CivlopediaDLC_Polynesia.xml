@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- DLC Civilopedia Entries -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_CIV5_DAWN_POLYNESIA_TEXT">
+			<Text>Saudações e graças sejam dadas a vós, Kamehameha - O Grande, escolhido pelos céus para unir vosso povo disperso. Ó poderoso Rei, vós fostes o primeiro a trazer a Grande Ilha do Havaí sob um só governo, em 1791 d.C. Isso foi seguido pela união de todas as ilhas restantes sob sua bandeira, em 1810. Como o primeiro Rei do Havaí, vós padronizastes o Mamalahoe Kanawai, um decreto que tratava os sistemas legal e tributário, visando proteger os civis em tempos de guerra. Assegurastes a continuidade da unificação e soberania das ilhas por meio das vossas leis e ações rigorosas, mesmo após a vossa morte, em 1819.[NEWLINE][NEWLINE]Ó sábio e exaltado Rei, vosso povo deseja um reino só deles e exigem um líder de grandeza incomparável! Respondereis ao chamado deles e vestireis o manto do Leão do Pacífico? Construireis um reino que possa resistir ao teste do tempo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TITLE">
+			<Text>Polinésia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_2">
+			<Text>Geografia e Clima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_3">
+			<Text>Primeiros anos: Colonizadores Iniciais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_4">
+			<Text>Navegação dos Mares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_5">
+			<Text>Ligação com as Américas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_6">
+			<Text>Chegada dos Europeus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_7">
+			<Text>O Presente e Futuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_STATBOX">
+			<Text>[NEWLINE]        Líder: Kamehameha[NEWLINE]        Unidade Exclusiva: Guerreiro Maori[NEWLINE]        Unidade Exclusiva: Moai[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_1">
+			<Text>Mais uma coleção de ilhas dispersas que uma civilização unificada, a Polinésia possui uma rica cultura e uma história fascinante. Quando a maioria dos Europeus estava atolada na idade das trevas, os Polinésios estavam aperfeiçoando a arte de viajar através do poderoso Pacífico em pequenas canoas de madeira, orietando-se pels estrelas, tempo e vida selvagem. Por fim, a maioria das ilhas foram colonizadas pelas potências Europeias, mas muito da cultura e língua nativa ainda se mantém vigorosamente preservada para as futuras gerações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_2">
+			<Text>A Polinésia é o nome comum dado ao grupo de ilhas da região centro-sul do Oceano Pacífico, também conhecida como Triângulo Polinésio. Rodeada pela Nova Zelândia ao Oeste, Havaí ao Norte e pela Ilha de Páscoa ao Leste, a região inclui mais de 1000 ilhas habitadas. O nome foi originalmente intruduzido pelo escritor Francês Charles de Brosses, em 1756, para descrever todas as ilhas do Pacífico, mas posteriormente foi limitado a sua atual definição.[NEWLINE][NEWLINE]As ilhas como um todo são de natureza vulcânica, muitas com brancas praias idílicas, palmeiras e lagoas cristalinas - um paraíso. O clima da Polinésia é tropical e quente, mas fortes rajadas de vento tendem a manter muitas das ilhas em temperaturas mais amenas. Às vezes, as ilhas são afligidas por tufões, que são ativos na região entre janeiro e março.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_3">
+			<Text>A história antiga do povo Polinésio ainda é envolta em mistério, mas atualmente arqueólogos e antropólogos concordam que uma das três teorias explicam como as ilhas foram originalmente colonizadas.[NEWLINE][NEWLINE]A primeira teoria, a do modelo do Trem Expresso, sugere que por volta de 3000 anos atrás colonizadores se expandiram do lado ocidental de Taiwan, por um período de 1000 anos. Eles se misturaram pouco com os nativos que encontram, explicando as atuais características genéticas e linguísticas dos Polinésios. As outras duas teorias, os modelos do Banco Emaranhado e Barcos Lentos, descrevem um padrão de longa migração, em que incluía a mistura e interação com todas as populações nativas, especialmente os Melanésios.[NEWLINE][NEWLINE]Independente de quanto tempo levou para os primeiros colonizadores chegarem à Polinésia ocidental, o caminho que eles seguiram foram mapeados com um considerável grau de acerto. O ponto mais ao Norte, Havaí, foi colonizado por volta de 500 d.C., seguido pela Nova Zelândia, em 1000 d.C. A data exata em que os Polinésios descobriram a Ilha de Páscoa ainda é debatida. Algumas evidências arqueológicas sugerem que a ilha foi habitada primeiramente entre 300 e 500 d.C., mas recentemente o período de 800 d.C. ganhou força. Outros cientistas acreditam que a ilha não foi habidata até o final de 1200 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_4">
+			<Text>O Triângulo Polinésio é grande, com cada lado medindo quase 6500 quilômetros. Para navegar esta distância em mar aberto, era necessário um impressionante nível em tecnologia naval, aptidão para a navegação e bravura. Usando a tecnologia de descoberta do caminho, navegadores memorizavam o movimento de estrelas conhecidas, o clima, os padrões da vida selvagem local e a direção das ondas no oceano. Eles passavam essa informação oralmente para as novas gerações de navegadores, segredos guardados a sete chaves por essas famílias de elite. Para judar nas travessias perigosas, eles também desenvolveram guias de suporte para suas canoas, que lhes permitiam atravessar o vasto oceano em segurança. Muitas dessas técnicas e auxílio naval ainda estão são ensinados e utilizados por navegadores Polinésios atuais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_5">
+			<Text>Os colonizadores Polinésios chegaram às atuais margens do Havaí por volta de 500 d.C., embora algumas evidências sugiram que isso ocorreu antes, aproximadamente em 300 d.C. Esses primeiros habitantes provavelmente eram do Arquipélago das Marquesas, situado a quase 6500 quilômetros ao Sul do Havaí. A segunda onda de imigrantes chegaram de Raiatea e Bora Bora, ou mesmo do Taiti, no século XI. Alguns arqueólogos defendem a Teoria Taitiana, já que um conto do folclore Havaiano fala sobre um homem chamado Pa'ao, reconhecidamente original do Taiti. Esses historiadores acreditam que a onda dos colonizadores Taitianos trouxe com ela uma linhagem de grandes chefes, o código de leis Kapu e as práticas religiosas com sacrifício humano.[NEWLINE][NEWLINE]Também há evidências que os Polinésios navegaram de volta, quando encontraram essas novas ilhas, espalhando a fauna e a flora Americanas pelas ilhas. Por exemplo, o doce tomate - um fluto nativo Americano - foi encontrado por todas as ilhas Polinésias quando os primeiros viajantes Europeus encontraram os acampamentos Polinésios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_6">
+			<Text>Os Polinésios viveram em relativo isolamento até a chegada das potências Europeias, procurando por novas terras e rotas comerciais. Muitas as ilhas começaram a estabelecer contatos com os Europeus no meio dos anos 1500 - alguns vieram como exploradors e outros como missionários religiosos. Porém, nos anos 1800, muitas nações coloniais, como a França, Grã-Bretanha e Estados Unidos, começaram a colonizar à força os habitantes das ilhas, declarando-as protetorados e territórios dos seus respectivos impérios. Apenas algumas poucas ilhas, como o Havaí, permaneceram independentes neste período.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_7">
+			<Text>Embora haja um enorme oceano separando as diferentes ilhas, os Polinésios nativos ainda compartilham características culturais similares, crenças religiosas e o mesmo idioma. Infelizmente, muito dos povos indíngenas, como os Maori, agora são minorias nas ilhas, com pessoas descententes dos europeus compondo a maioria da população. Porém, grande parte da população nativa lutam para manter sua língua e cultura vivas, com um ativo e efetivo processo de revitalição e imersão sendo buscado em quase todas as áreas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_FACTOID_HEADING">
+			<Text>Fatos Curiosos Polinésios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_FACTOID_TEXT">
+			<Text>A palavra "tatoo" foi originada no Taiti e foi derivada do deus local Tohu, mestre da pintura das cores e padrões de todos os peixes do oceano.[NEWLINE][NEWLINE]O autor Robert Louis Stevenson se apaixonou pela ilha de Samoa e se estabeleceu lá durante seus últimos anos.[NEWLINE][NEWLINE]O arquipélago Havaiano é a maior cadeia de ilhas no mundo, medindo certa de 2500 quilômetros de ponta a ponta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_LIVED">
+			<Text>1758 - 1819 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_NAME">
+			<Text>Kamehameha I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_SUBTITLE">
+			<Text>Líder da Polinésia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TITLES_1">
+			<Text>Rei do Havaí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_HEADING_2">
+			<Text>Primeiros anos, Uma das Profecias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_HEADING_3">
+			<Text>Primeira Parada: A Grande Ilha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_HEADING_4">
+			<Text>Mais Profecias, Mais Conquistas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_HEADING_5">
+			<Text>O Napoleão do Pacífico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_HEADING_6">
+			<Text>Morte de uma Lenda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_HEADING_7">
+			<Text>Julgamento da História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TEXT_1">
+			<Text>Um dos mais respeitados líderes da história Havaiana, Kamehameha I foi o primeiro homem a unificar todas as ilhas da região, estabelecendo o reino independente do Havaí. Seu nascimento e primeiros anos de vida são cobertos por muitas das antigas profecias Havaianas e ele se tornou um dos maiores guerreiros da história registrada do Havaí. Além das suas proezas militares, Kamehameha também foi um grande estadista, estabelecendo vários decretos importantes nos tempos de guerra que se tornaram a base para muitas leis humanitárias por todo o mundo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TEXT_2">
+			<Text>Uma antiga fábula dizia que um dia um grande rei iria nascer e iria unificar todas as ilhas Havaianas. E que uma chama nos seus iria anunciar sua chegada. Em 1758, o cometa Halley riscou o céu do Havaí - muitas histórias falam que Kamehameha nasceu pouco tempo depois. Conhecimento originalmente como Pai'ea (a "casca dura do caranguejo"), Kamehameha nasceu do chefe da Ilha Grande Keōua Nui. Keōua foi apenas un dos muitos chefes menores na ilha, que foi dividida em muitos distritos durante a guerra de sucessão nas gerações anteriores. Alapa'inuiakauaua, um chefe rival da área tomou grande parte da ilha para si e foi seu governante.[NEWLINE][NEWLINE]Com o nascimento de Pai'ea, Alapa'i ficou alarmado, já que o rei das fábulas, em outros registros, também era conhecido como o "assassino de chefes" - um Havaí unido não precisaria mais de chefes tribais. Alapa'i ordenou a morte da criança. Keōua, entretanto, estava bem ciente do nascimento ameaçador do seu filho e o escondeu junto de uma outra família nobre.[NEWLINE][NEWLINE]Por cinco anos Pai'ea viveu em segredo, até que Alapa'i (por razões desconhecidas) convidou a criança para retornar à corte, sob sua proteção. Durante este tempo na corte, Pai'ea aprendeu as disciplinas monárquica da diplomacia e guerra, bem como ganhou seu mais famoso nome, Kamehameha, que significa "o solitário".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TEXT_3">
+			<Text>Após a morte de Alapa'i, Kamehameha se tornou um assessor na nova corte do chefe. Isso durou até 1782, quando o reinado foi transferido para um novo soberano e Kamehameha promovido a uma importante posição religiosa. Com esta nova influência, Kamehameha começou a construir para si uma base de suporte entre os chefes menores do distrito de Kona, na Grande Ilha. Eventualmente ganhando a adesão de cinco chefes, Kamehameha desafiou a corte local. Na batalha de Moku'ohai, as forças de Kamehameha derrotou o chefe governante e ele se tornou o novo soberano dos distritos de Khala, Kona e Kamukua.[NEWLINE][NEWLINE]Daí em diante, Kamehameha conquistou com sucesso o distrito vizinho de Puna, em 1790, mas logo teve que lidar com uma revolta em Ka'u, liberada pelo rival Keōua Kuahu'ula. Sendo um homem religioso, Kamehameha construiu um grande templo na tentativa de ganhar favores dos seus deuses para acabar com a rebelião. Em 1791, o tempo foi finalizado e Kamehameha convidou Keōua para uma reunião. Os registros diferem quanto o que realmente ocorreu naquele fatídico encontro na praia, mas, ao final, Keōua foi morto por um mosquete e Kamehameha se tornou rei toda a Grande Ilha.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TEXT_4">
+			<Text>Kamehameha foi impelido a unir não só a Grande Ilha - ele tinha a visão de governar todas as ilhas Havaianas sob uma só bandeira.  Aumentar a sua ganância era uma outra antiga lenda, uma que ele supostamente deveria cumprir. Na Ilha Grande uma enorme pedra arredondada foi colocada pelos deuses - a Rocha Naha de 1,3 toneladas. A lenda dizia que um poderoso guerreiro iria surgir, capaz de levantar a rocha, e ele seria conhecido como o grande rei e unificador de todas as ilhas. Aos 14 anos, Kamehameha foi a única pessoa a ser capaz de cumprir tal feito, segundo registros. Confiante em suas vitórias e muitas profecias cumpridas, ele começou a traçar planos para o resto das ilhas.[NEWLINE][NEWLINE]Em uma feliz coincidência para Hamehameha, comerciantes Britânicos e Americanos começaram a chegar à ilha e alegremente lhe venderam armas e munições. Com suas armas tecnologicamente superiores, ele rapidamente se moveu para tomar Maui e O'ahu, em 1795. Com apenas 10.000 soldados, ele dizimou com rapidez as forças de Maui e prosseguiu para O'ahu. Ele se encontrou com a feroz resistência nos penhascos de Pali e derrotou os soldados inimigos, enviando muitos deles à morte nas escarpas.[NEWLINE][NEWLINE]Apenas duas ilhas resistiam agora - as terras ocidentais de Kaua'i e Ni'ihau. Da sua capital em Honolulu, ele construiu um enorme barco de guerra e tentou sua primeira invasão de Kaua'i, em 1796. Uma rebelião na Ilha Grande, liderada por seu irmão, forçou-lhe a retornar e reposicionar seus homens. Não muito contente, ele tentou novamente tomar Kaua'i em 1803, mas então uma doença mortal caiu sobre seus homens. Cansado dos contratempos, Kamehameha construiu a maior armada da história Havaiana, cheia de escunas Europeias, enormes canoas de guerra e canhões mortais. O chefe de Kaua'i, Kaumuali'i, viu a armada se aproximando e, talvez com uma pontada de tremura, percebeu que ele teria melhor chances de sobrevivência se negociasse. Em 1810, Kuamuali'i se tornou vassalo de Kamehameha, que então passou a ser o único governante de todo o Havai.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TEXT_5">
+			<Text>Não apenas um herói de guerra conquistador, Kamehameha imediatamente começou a trabalhar para melhorar a vida nas ilhas e solidificar a unificação. Ele criou um sistema legal único, estabeleceu taxas e abriu comércio oficial com a Europa e os Estados Unidos. Kamehameha também criou a base para eventual constituição estatal do Havai, a Lei do Remo Rachado (o Mamalahoe Kanawai). Esta lei teve um início tímido, durante um dos primeiros combates militares de Kamehameha. Durante uma incursão, Kamehameha prendeu seu pé sob uma rocha e foi emboscado por dois pescadores locais, que eram bastante temerosos quanto ao legendário guerreiro. Com medo que ele os matasse, eles o acertaram na cabeça com seu remo, rachando-o ao meio. Enquanto ele estava atordoado, eles correram e o deixaram para morrer. Vinte anos depois, os dois pescadores foram encontrados e trazidos à justiça - ao menos eles achavam que seriam julgados. Ao invés disso, Kamehameha se desculpou por ter atacado inocentes e deu terras aos dois homens, proclamando que, a partir de então, todos os não combatentes deveriam ser protegidos durante a guerra. Sua Lei do Remo Rachado influenciou, a partir daí, várias leis humanitárias por todo o mundo.[NEWLINE][NEWLINE]Durante o seu reinado, ele também conseguiu manter o Havai como uma nação independente, enquanto todas as outras ilhas Polinésias foram engolidas pelas nações coloniais famintas. Esse legado de independência deu-lhe o apelido de "Napoleão do Pacífico".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TEXT_6">
+			<Text>Em 8 de maio de 1819, Kamehameha morreu como um respeitado rei, guerreiro lendário e pai de sete filhos. No costume sagrado da religião Havaiana, seu corpo foi escondido pelos seus amigos mais próximos, para que ninguém mais o encontrasse e roubasse seu poder, ou mana, para uso pessoal. O local da sua sepultura continua um mistério até hoje.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_TEXT_7">
+			<Text>Kamehameha permanece um das pessoas mais importantes da história Havaiana e um dos seus líderes mais importantes. Ele aboliu a prática de sacrifício humano, protegeu os inocentes durante a guerra e estabeleceu uma das poucas nações independentes de toda a Polinésia. Independente se seu nascimento foi divinamente inspirado ou não, ninguém pode negar que ele cumpriu o papel de grande rei, previsto por antigas profecias séculos antes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_FACTOID_HEADING">
+			<Text>Fatos Curiosos sobre Kamehameha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KAMEHAMEHA_FACTOID_TEXT">
+			<Text>Muitas construções e fundações foram nomeadas em honra a Kamehameha, como as Escola Kamehameha, o Dia de Kamehameha e a Ordem Real de Kamehameha I.[NEWLINE][NEWLINE]Akira Toriyama, o criador do popular mangá Dragonball, nomeou o ataque de Goku em homenagem a Kamehameha, após sua visita ao Havai.[NEWLINE][NEWLINE]Kamehameha é o único monarca real já estampado em uma moeda dos Estados Unidos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_MAORI_HEADING">
+			<Text>Guerreiro Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_TEXT">
+			<Text>Os Maoris eram alguns dos guerreiros mais temidos em toda a Polinésia. Eles decoravam suas faces com umas intricadas tatuagens assustadoras, descrevendo em detalhes suas conquistas em batalhas. Antes que um conflito realmente começasse, cada lado teria parte em uma elaborada dança de guerra, chamada Haka, que expressavam teatralmente o destino que aguardava os soldados inimigos que iriam ser derrotados. Esperava-se que a dança intimidasse seus oponentes, fazendo-os desistir da luta e admitir a derrota, o que economizaria aos dois lados muito tempo e energia.[NEWLINE][NEWLINE]Os Maoris também era bem conhecidos por suas tendências canibalescas - guerreiros assassinados eram comidos, para capturar seus espírito de luta e força. Não só porque esta era a única fonte de proteína na ilha, mas isso também era feito em respeito aos guerreiros derrotados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_HELP">
+			<Text>Unidade da Era Antiga que causa medo nos inimigos próximos, tornando-os menos efetivos em combate. Apenas os Polinésios podem treiná-la. Substitui o Guerreiro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_STRATEGY">
+			<Text>O Guerreiro Maori é similar ao Grande General, entretanto, ao invés de aumentar a força de unidades amigas, ele diminui a força de unidades inimigas adjacentes. Treine várias dessas unidades no início do jogo, pois sua promoção continua com elas quando são atualizadas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MOAI">
+			<Text>Moai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_HELP">
+			<Text>O Moai só pode ser construído no litoral. Se construído próximo a outro Moai, ele oferece [ICON_CULTURE]Cultura adicional. Após a pesquisa da tecnologia Voo, ele também oferece [ICON_GOLD]Ouro extra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_TEXT">
+			<Text>Talvez mais conhecido como as "Estátuas da Ilha de Páscoa", o Moai são grandes figuras humanoides esculpidas, em sua grande maioria, em rocha vulcânica, como tufo. 887 dessas estátuas ponteiam a Ilha de Páscoa e acredita-se que foram criadas entre 1250 e 1500 d.C., aproximadamente. Quase metade continua na pedreira original, mas o resto foi transportado e levantado próximo à costa da ilha. Facilmente reconhecido por suas grandes cabeças e forma alongada, acredita-se que eles eram representações de ancestrais mortos e poderosos chefes.[NEWLINE][NEWLINE]Enquanto a maioria dos estudiosos concorde na razão e como as estátuas foram criadas, o método de transporte empregado continua um mistério. Pesando de 9 a 86 toneladas cada, eles teriam exigido uma habilidade de engenharia extraordinária para movê-los da mina até o local de descanço final.[NEWLINE][NEWLINE]Em 1994, às estátuas Moai foi dada a proteção oficial da UNESCO, como Patrimônio Mundial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOAI">
+			<Text>Construir um [LINK=IMPROVEMENT_MOAI]Moai[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOAI_HELP">
+			<Text>Adiciona um Moai (+1 de [ICON_CULTURE]Cultura) ao hexágono. Crie uma linha de Moais ao longo do litoral para Cultura adicional. Também oferece +1 de [ICON_GOLD]Ouro, após o Voo ser pesquisado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOAI_REC">
+			<Text>Permitirá que o hexágono gere [ICON_CULTURE]Cultura (e [ICON_GOLD]Ouro após o Voo ser pesquisado).</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+    <Language_pt_BR>
+        <!--General phrases -->
+        <!--Greeting (first time meeting) -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1">
+            <Text>Eu sou Pocatello dos Shoshones. Eu o saúdo na esperança de um relacionamento pacífico e próspero.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2">
+            <Text>Eu sou Chefe Pocatello dos Shoshones. O que o traz às terras de meu povo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3">
+            <Text>Bem-vindo! Vamos nos lembrar deste dia, quando nós nos conhecemos em paz.</Text>
+        </Row>
+        <!--Reacts to his bluff being called -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1">
+            <Text>Suas palavras são sem sentido.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2">
+            <Text>Muito decepcionante.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3">
+            <Text>Ridículo.</Text>
+        </Row>
+        <!--Gloats after winning a war -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1">
+            <Text>Agrada-me ver esse conflito resolvido.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2">
+            <Text>Agrada-me ver esse conflito resolvido.</Text>
+        </Row>
+        <!--Submissive after losing a war -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1">
+            <Text>Essa derrota fará pouco para diminuir o nosso espírito.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2">
+            <Text>Essa derrota fará pouco para diminuir o nosso espírito.</Text>
+        </Row>
+        <!--Defeated and removed from game -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1">
+            <Text>Estou humilhado pela sua vitória.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2">
+            <Text>Esse não será o fim do meu povo, eu lhe garanto.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3">
+            <Text>Isso não acabou! Vou encontrar uma maneira!</Text>
+        </Row>
+        <!--Neutral -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1">
+            <Text>Bem-vindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2">
+            <Text>Salve!</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1">
+            <Text>Vá.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL">
+            <Text>Nós temos um acordo.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Você ainda pede muito de mim.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Você não pode fazer um pouco melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Quase...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Isso não é bom o bastante. </Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL">
+            <Text>Não posso.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL">
+            <Text>É uma honra para meu povo ajudar os necessitados.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL">
+            <Text>Meu povo tem maiores preocupações do que essa insignificância.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL">
+            <Text>Poderia ouvir a minha proposta?</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Pense na sua resposta com cuidado.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1">
+            <Text>Está certo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2">
+            <Text>Muito bem.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1">
+            <Text>Nós recusamos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2">
+            <Text>Não, claro que não.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1">
+            <Text>Vá em frente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2">
+            <Text>Continue.</Text>
+        </Row>
+        <!--Happy -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3">
+            <Text>Saudações.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4">
+            <Text>Bem...</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3">
+            <Text>Nossos negócios aqui estão feitos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4">
+            <Text>Adeus.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY">
+            <Text>Tenho certeza que isso vai beneficiar a ambos.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Eu gosto de ajudar os meus amigos, mas você pede demais.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Isso é o melhor que você pode fazer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Você está quase lá...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY">
+            <Text>Não posso concordar, mesmo para você.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY">
+            <Text>Pegue o que você precisa, amigo.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY">
+            <Text>Até a minha generosidade tem seus limites.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY">
+            <Text>Um acordo certamente trará grande honra para ambos.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY">
+            <Text>Isso certamente fortaleceria a nossa amizade em progresso.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3">
+            <Text>Certamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4">
+            <Text>De acordo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5">
+            <Text>Excelente.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3">
+            <Text>Certamente não.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4">
+            <Text>Devemos rejeitar.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3">
+            <Text>Estou ouvindo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4">
+            <Text>Sim?</Text>
+        </Row>
+        <!--Angry -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5">
+            <Text>O que você quer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6">
+            <Text>Terminamos aqui.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY">
+            <Text>Não tenho outras opções.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Você acha que essa é a primeira vez que eu negocio com estrangeiros?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Isso não será o bastante.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Você deve fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Que proposta ofensiva.</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY">
+            <Text>Não tenho paciência com pessoas como você!</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY">
+            <Text>Eu vou conceder, mas eu nunca vou esquecer desse seu menosprezo contra o meu povo.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY">
+            <Text>Essas são coisas que o meu povo precisa. Eu nunca consideraria tal pedido.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY">
+            <Text>Ainda que me doa, eu sou obrigado a pedir esse acordo a você.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY">
+            <Text>Dê-me o que eu quero ou eu tirarei de você à força!</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5">
+            <Text>Desculpe-me?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7">
+            <Text>Você não pode estar falando sério!</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5">
+            <Text>O que você estava dizendo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1">
+            <Text>Prepare-se... a guerra está chegando.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2">
+            <Text>A próxima vez que nos encontrarmos, será no campo de batalha!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3">
+            <Text>Eu acho que é tempo de resolver isso de uma vez por todas!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1">
+            <Text>Eu não vou me ajoelhar à uma agressão injustificada!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2">
+            <Text>Meu povo se levantará para enfrentar qualquer desafio!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3">
+            <Text>Lutarei contra você até meu último suspiro!</Text>
+        </Row>
+    </Language_pt_BR>
+</GameData>

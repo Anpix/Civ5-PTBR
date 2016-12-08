@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET">
+			<Text>Grande Profeta|Grandes Profetas</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MISSIONARY">
+			<Text>Missionário|Missionários</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INQUISITOR">
+			<Text>Inquisidor|Inquisidores</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CELT_PICTISH_WARRIOR">
+			<Text>Guerreiro Picto|Guerreiros Pictos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST">
+			<Text>Atlatlist|Atlatlists</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BYZANTINE_DROMON">
+			<Text>Dromon|Dromons</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BYZANTINE_CATAPHRACT">
+			<Text>Catafractário|Catafractários</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_FOREST_ELEPHANT">
+			<Text>Elefante de Floresta Africano</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME">
+			<Text>Quinquerreme|Quinquerremes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HUN_HORSE_ARCHER">
+			<Text>Arqueiro Montado|Arqueiros Montados</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HUN_BATTERING_RAM">
+			<Text>Aríete|Aríetes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AUSTRIAN_HUSSAR">
+			<Text>Hussardo|Hussardos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEHAL_SEFARI">
+			<Text>Mehal Sefari|Mehal Sefaris</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SWEDISH_CAROLEAN">
+			<Text>Carolino|Carolinos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA">
+			<Text>Hakapeliita|Hakapeliitas</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN">
+			<Text>Arqueiro de Arco Composto|Arqueiros de Arcos Compostos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GATLINGGUN">
+			<Text>Metralhadora Gatling|Metralhadoras Gatling</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEASS">
+			<Text>Galeaça|Galeaças</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY">
+			<Text>Infante|Infantes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE">
+			<Text>Fuzileiro Naval|Fuzileiros Navais</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRIPLANE">
+			<Text>Triplano|Triplanos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER">
+			<Text>Bombardeiro Voisin|Bombardeiros Voisin</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_TANK">
+			<Text>Tanque Ultrapesado|Tanques Ultrapesados</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MACHINE_GUN">
+			<Text>Metralhadora Pesada|Metralhadoras Pesadas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRIVATEER">
+			<Text>Corsário|Corsários</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_BEGGAR">
+			<Text>Mendigo do Mar|Mendigos do Mar</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL">
+			<Text>Grande Almirante|Grandes Almirantes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
+			<Text>Corpo-a-Corpo - Naval</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">
+			<Text>A Distância - Naval</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPANISH_TERCIO">
+			<Text>Terço|Terços</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPANISH_CONQUISTADOR">
+			<Text>Conquistador|Conquistadores</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+	<!-- Great Admirals -->	
+		<Row Tag="TXT_KEY_GREAT_PERSON_MATTHEW_PERRY">
+			<Text>Matthew Perry</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_FARRAGUT">
+			<Text>David Farragut</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_DEWEY">
+			<Text>George Dewey</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHESTER_NIMITZ">
+			<Text>John Hawkins</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCIS_DRAKE">
+			<Text>Francis Drake</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREW_CUNNINGHAM">
+			<Text>Andrew Cunningham</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_COMTE_DE_GRASSE">
+			<Text>Comte. de Grasse</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALFRED_VON_TIRPITZ">
+			<Text>Alfred von Tirpitz</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROGER_OF_LAURIA">
+			<Text>Roger de Lauria</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALVARO_DE_BAZAN">
+			<Text>Alvaro de Bazan</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DON_JOHN_OF_AUSTRIA">
+			<Text>Dom João da Áustria</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERNANDO_VILLAAMIL">
+			<Text>Fernando Villaamil</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETER_TORDENSKJOLD">
+			<Text>Peter Tordenskjold</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FYODOR_USHAKOV">
+			<Text>Fyodor Ushakov</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_PAUL_JONES">
+			<Text>John Paul Jones</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZINOVY_ROZHESTVENSKI">
+			<Text>Zinovy Rozhestvenski</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YI_SUN_SIN">
+			<Text>Yi Sun-sin</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERIK_THORVALDSSON">
+			<Text>Erik Thorvaldsson</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEIF_ERICSON">
+			<Text>Leif Ericson</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAYREDDIN_BARBAROSSA">
+			<Text>Hayreddin Barbarossa</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TURGUT_REIS">
+			<Text>Turgut Reis</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MURAT_REIS">
+			<Text>Murat Reis</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_THE_NAVIGATOR">
+			<Text>Henry, O Navegador</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AFONSO_DE_ALBUQUERQUE">
+			<Text>Afonso de Albuquerque</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANREA_DORIA">
+			<Text>Andrea Doria</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHORMIO">
+			<Text>Phormio</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_ATILLIUS_REGULUS">
+			<Text>Marcus Atilius Regulus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_VIPSANIUS_AGRIPPA">
+			<Text>Marcus Vipsanius Agrippa</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HIMILCO">
+			<Text>Himilco</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CALONYMUS_OF_ALEXANDRIA">
+			<Text>Calonymus de Alexandria</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_DOUKAS">
+			<Text>John Doukas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOGO_HEIHACHIRO">
+			<Text>Togo Heihachiro</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHI_LANG">
+			<Text>Shi Lang</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- Great Artists -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANSEL_ADAMS">
+			<Text>Ansel Adams</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BARTOLOME_DE_LAS_CASAS">
+			<Text>Bartolomé de las Casas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SALVADOR_DALI">
+			<Text>Salvador Dali</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARTHUR_CONAN_DOYLE">
+			<Text>Arthur Conan Doyle</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONI_GAUDI">
+			<Text>Antoni Gaudi</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNEST_HEMMINGWAY">
+			<Text>Ernest Hemingway</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDENSREICH_HUNDERTWASSER">
+			<Text>Friedensreich Hundertwasser</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OMAR_KHAYYAM">
+			<Text>Omar Khayyam</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_STANLEY_KUBRICK">
+			<Text>Stanley Kubrick</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PABLO_NERUDA">
+			<Text>Pablo Neruda</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUMI">
+			<Text>Rumi</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_SCHILLER">
+			<Text>Friedrich Schiller</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEO_TOLSTOY">
+			<Text>Leo Tolstoy</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANK_LLOYD_WRIGHT">
+			<Text>Frank Lloyd Wright</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BUTLER_YEATS">
+			<Text>William Butler Yeats</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- Great Scientists -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_DIN_AL_TUSI">
+			<Text>Al-Din al-Tusi</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_QASIM_AL_ZAHRAWI">
+			<Text>Al-Qasim Al-Zahrawi</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEONARD_EULER">
+			<Text>Leonard Euler</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_FEYNMAN">
+			<Text>Richard Feynman</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDER_VON_HUMBOLDT">
+			<Text>Alexander von Humboldt</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREY_KOLMOGOROV">
+			<Text>Andrey Kolmogorov</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARY_LEAKEY">
+			<Text>Mary Leakey</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_LINNAEUS">
+			<Text>Carl Linnaeus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHEN_KUO">
+			<Text>Shen Kuo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GREGOR_MENDEL">
+			<Text>Gregor Mendel</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DMITRY_MENDELEEV">
+			<Text>Dmitry Mendeleev</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_VON_NEUMANN">
+			<Text>John von Neumann</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLAUDE_SHANNON">
+			<Text>Claude Shannon</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALAN_TURING">
+			<Text>Alan Turing</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- GREAT MERCHANTS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_LICINIUS_CRASSUS">
+			<Text>Marcus Licinius Crassus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDWARD_HARRIMAN">
+			<Text>Edward Harriman</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MILTON_S_HERSHEY">
+			<Text>Milton S. Hershey</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SIR_JAMES_LANCASTER">
+			<Text>Sir James Lancaster</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_NESTLE">
+			<Text>Henri Nestle</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEVI_STRAUSS">
+			<Text>Levi Strauss</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_TWINING">
+			<Text>Thomas Twining</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_STEVE_JOBS">
+			<Text>Steve Jobs</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAKOB_FUGGER">
+			<Text>Jakob Fugger</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>		
+		<!-- GREAT ENGINEERS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_BENZ">
+			<Text>Carl Benz</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GOTTLIEB_DAIMLER">
+			<Text>Gottlieb Daimler</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_STARK_DRAPER">
+			<Text>Charles Stark Draper</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_EASTMAN">
+			<Text>George Eastman</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_GODDARD">
+			<Text>Robert Goddard</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- GREAT GENERALS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_EPAMINONDAS">
+			<Text>Epaminondas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAURICE_OF_NASSAU">
+			<Text>Maurício de Nassau</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_POMPEY">
+			<Text>Pompey</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PYRRHUS">
+			<Text>Pyrrhus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WINFIELD_SCOTT">
+			<Text>Winfield Scott</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SITTING_BULL">
+			<Text>Sitting Bull</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SPARTACUS">
+			<Text>Spartacus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_TSERCLAES">
+			<Text>Johann Tserclaes</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WALLENSTEIN">
+			<Text>Wallenstein</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HANNIBAL">
+			<Text>Hannibal</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>		
+	</Language_pt_BR>
+</GameData>

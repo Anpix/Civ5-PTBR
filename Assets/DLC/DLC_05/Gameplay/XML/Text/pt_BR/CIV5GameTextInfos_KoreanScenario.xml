@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- DLC Civilopedia Entries -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_TITLE">
+			<Text>A Invasão Samurai da Coreia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_DESC">
+			<Text>O grande senhor da guerra Toyotomi Hideyoshi unificou o Japão. Para manter seus Samurais ocupados, ele voltou suas atenções para a Coreia. Ele será capaz de expandir seu império? Ou os aliados da Coreia Chinesa chegarão a tempo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_KOREA_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Que as bênçãos estejam com você, ó grande! Que o poder divino seja seu guia por estes tempos difíceis, pois os ventos da mudança estão sobre nós, pairando sobre a Ásia Oriental. As vitórias do grande guerreiro Japonês Toyotomi Hideyoshi finalmente unificaram a nação insular. Confiante no novo armamento à base de pólvora do Japão, Hideyoshi agora lança seu olhar para o oeste. Tanto a venerável Dinastia Ming na China e seus aliados da Dinastia Choson na Coréia devem estar vigilantes! E há notícias de um novo poder tomando forma ao norte, na Planície da Manchúria. Apronte seus soldados, sua cavalaria e sua marinha: todas as formas de armas e tecnologia devem ser utilizadas na luta que está por vir, buscando o controle das terras em torno do Mar Amarelo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Japão ou Manchu vencem se conquistarem tanto Seul quanto Pequim. China e Coréia vencem se controlarem todas as suas cidades originais a qualquer momento após o ano 1600. Se nenhuma dessas condições ocorrer, a vencedora será a civilização com mais pontos quando 100 turnos se completarem. Note que existem pontos extras ganhos por cada unidade inimiga destruída e pelo controle de Seul e Pequim.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Adquira Políticas no início para balancear sua Felicidade e Ouro. A única civilização que pode fundar novas cidades é Manchu. Coreia e China são aliadas que iniciam o jogo em guerra contra o Japão. O sistema de ciências está desligado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_JAPAN_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Que as bênçãos estejam com você, ó grande! Que o poder divino seja seu guia por estes tempos difíceis, pois os ventos da mudança estão sobre nós, pairando sobre a Ásia Oriental. As vitórias do grande guerreiro Japonês Toyotomi Hideyoshi finalmente unificaram a nação insular. Confiante no novo armamento à base de pólvora do Japão, Hideyoshi agora lança seu olhar para o oeste. Tanto a venerável Dinastia Ming na China e seus aliados da Dinastia Choson na Coréia devem estar vigilantes! E há notícias de um novo poder tomando forma ao norte, na Planície da Manchúria. Apronte seus soldados, sua cavalaria e sua marinha: todas as formas de armas e tecnologia devem ser utilizadas na luta que está por vir, buscando o controle das terras em torno do Mar Amarelo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Japão ou Manchu vencem se conquistarem tanto Seul quanto Pequim. China e Coréia vencem se controlarem todas as suas cidades originais a qualquer momento após o ano 1600. Se nenhuma dessas condições ocorrer, a vencedora será a civilização com mais pontos quando 100 turnos se completarem. Note que existem pontos extras ganhos por cada unidade inimiga destruída e pelo controle de Seul e Pequim.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Adquira Políticas no início para balancear sua Felicidade e Ouro. A única civilização que pode fundar novas cidades é Manchu. Coreia e China são aliadas que iniciam o jogo em guerra contra o Japão. O sistema de ciências está desligado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_CHINA_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Que as bênçãos estejam com você, ó grande! Que o poder divino seja seu guia por estes tempos difíceis, pois os ventos da mudança estão sobre nós, pairando sobre a Ásia Oriental. As vitórias do grande guerreiro Japonês Toyotomi Hideyoshi finalmente unificaram a nação insular. Confiante no novo armamento à base de pólvora do Japão, Hideyoshi agora lança seu olhar para o oeste. Tanto a venerável Dinastia Ming na China e seus aliados da Dinastia Choson na Coréia devem estar vigilantes! E há notícias de um novo poder tomando forma ao norte, na Planície da Manchúria. Apronte seus soldados, sua cavalaria e sua marinha: todas as formas de armas e tecnologia devem ser utilizadas na luta que está por vir, buscando o controle das terras em torno do Mar Amarelo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Japão ou Manchu vencem se conquistarem tanto Seul quanto Pequim. China e Coréia vencem se controlarem todas as suas cidades originais a qualquer momento após o ano 1600. Se nenhuma dessas condições ocorrer, a vencedora será a civilização com mais pontos quando 100 turnos se completarem. Note que existem pontos extras ganhos por cada unidade inimiga destruída e pelo controle de Seul e Pequim.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Adquira Políticas no início para balancear sua Felicidade e Ouro. A única civilização que pode fundar novas cidades é Manchu. Coreia e China são aliadas que iniciam o jogo em guerra contra o Japão. O sistema de ciências está desligado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_MONGOLIA_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Que as bênçãos estejam com você, ó grande! Que o poder divino seja seu guia por estes tempos difíceis, pois os ventos da mudança estão sobre nós, pairando sobre a Ásia Oriental. As vitórias do grande guerreiro Japonês Toyotomi Hideyoshi finalmente unificaram a nação insular. Confiante no novo armamento à base de pólvora do Japão, Hideyoshi agora lança seu olhar para o oeste. Tanto a venerável Dinastia Ming na China e seus aliados da Dinastia Choson na Coréia devem estar vigilantes! E há notícias de um novo poder tomando forma ao norte, na Planície da Manchúria. Apronte seus soldados, sua cavalaria e sua marinha: todas as formas de armas e tecnologia devem ser utilizadas na luta que está por vir, buscando o controle das terras em torno do Mar Amarelo![NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Japão ou Manchu vencem se conquistarem tanto Seul quanto Pequim. China e Coréia vencem se controlarem todas as suas cidades originais a qualquer momento após o ano 1600. Se nenhuma dessas condições ocorrer, a vencedora será a civilização com mais pontos quando 100 turnos se completarem. Note que existem pontos extras ganhos por cada unidade inimiga destruída e pelo controle de Seul e Pequim.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Adquira Políticas no início para balancear sua Felicidade e Ouro. A única civilização que pode fundar novas cidades é Manchu. Coreia e China são aliadas que iniciam o jogo em guerra contra o Japão. O sistema de ciências está desligado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_GENGHIS_FIRSTGREETING_1">
+			<Text>O orgulhoso e guerreiro povo de Manchu o saúda. Trate-nos respeitosamente e talvez você viva para ver outro nascer do sol.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BRIEFING">
+			<Text>Instruções</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_TURNSREMAINING">
+			<Text>{1: plural 0?Turno Restante; 1?Turno Restante; other?Turnos Restantes;}: {1_TurnsRemaining}[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NEED_TO_CONQUER">
+			<Text>Precisa Conquistar:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NEED_TO_REGAIN">
+			<Text>{1: plural 0?Cidade; 1?Cidade; other?Cidades;} a Reconquistar: {1_CitiesToRegain}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_HOLD_CITIES">
+			<Text>Deve Controlar Cidades Até 1600</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_DESC">
+			<Text>Império Manchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_ADJECTIVE">
+			<Text>Manchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS_SHORT">
+			<Text>Oito Bandeiras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS">
+			<Text>Após destruir um acampamento Bárbaro, o antigo guarda do local se junta ao seu exército. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY_SHORT">
+			<Text>Exército Honrado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY">
+			<Text>Não são eliminados do jogo, mesmo se perderem sua última cidade. Periodicamente ganham unidades para retomarem cidades capturadas, como Barcos Tartaruga e Arqueiros capazes de recuar antes de um ataque corpo-a-corpo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_UNIT_HELP_SETTLER">
+			<Text>Funde novas cidades para expandir seu império. Cada nova cidade iniciará com um Monumento, um Celeiro e um Mercado.[NEWLINE][NEWLINE]O [ICON_FOOD]Crescimento da cidade é interrompido quando esta unidade está sendo treinada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_ANTIQUITY_SETTLER_TEXT">
+			<Text>Os clãs tribais Jurchen, antecessores da Dinastia Manchu e seu povo, habitavam a região conhecida como Manchúria, agora no atual norte da China. Antes da ascensão da Dinastia Manchu, no século XVII, os Jurchen se uniram brevemente sob a bandeira da Dinastia Jin, no século XII. Ao longo de sua história, os Jurchen eram conhecidos como hábeis caçadores e igualmente cavaleiros, orgulhando-se dos talentos de sua cavalaria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED">
+			<Text>[NEWLINE]Clans só podem ser treinados em cidades com pelo menos 2 [ICON_CITIZEN]Cidadãos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HEADING">
+			<Text>Cavalaria Bandeira Manchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_TEXT">
+			<Text>Os Oito Bandeiras, criado pelo fundador Manchu Nurhaci no início do século XVII, eram um sistema de administração que pretendia organizar a força militar da Dinastia. Inicialmente criado para dividir os soldados em companhias diferentes, o sistema de bandeira mais tarde veio a utilizar unidades etnicamente segregadas, já que os militares Manchu eram compostos de tropas Manchus, Hans e Mongóis, que normalmente não se misturavam. As Companhias Bandeira Manchus e Mongóis eram constituídas de excelentes cavaleiros, com sua longa história de hipismo nômade criando formidáveis tropas montadas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HELP">
+			<Text>A unidade exclusiva Manchu substitui o Cavaleiro padrão. Ela possui um forte ataque a distância, mais pontos de movimento e obtém promoções no dobro da velocidade. As batalhas da unidade também contribuem com o dobro da quantidade de pontos para a obtenção de um Grande General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_INFO">
+			<Text>A Cavalaria Bandeira é a unidade exclusiva Manchu, disponível na Era Medieval. Esta substituta ao Cavaleiro padrão se move com maior velocidade, obtém promoções no dobro da taxa normal e contribui duas vezes mais com a quantidade de pontos para obter Grandes Generais. A Cavalaria Bandeira também pode combater inimigos usando seu poderoso ataque a distância.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_STRATEGY">
+			<Text>A Cavalaria Bandeira é a substituta exclusiva para o Cavaleiro, disponível aos Manchu na Era Medieval. A Cavalaria Bandeira possui um forte ataque a distância e uma taxa maior de movimentos (5 pontos no total), permitindo-lhe executar ataques e retiradas extremamente eficazes. Se isso não fosse suficiente, a Cavalaria Bandeira também adquire as promoções no dobro da taxa normal de outras unidades e contribui duas vezes com a quantidade de pontos para ganhar Grandes Generais. Estes guerreiros montados arcam sozinhos com o controle Manchu das planícies abertas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_TEXT_1">
+			<Text>A Dinastia Manchu da China, também conhecida como a Dinastia Qing, traça as suas bases para as tribos Jurchen que habitavam a região, historicamente conhecida como Manchúria. Estabelecidos pela primeira vez no século XVII pelo líder tribal Jurchen Nurhaci, os Manchus, sob o comando de Nurhaci, embarcaram em uma campanha de expansão e conquista contra a poderosa Dinastia Ming. Eventualmente, derrubaram os Ming, reivindicando as vastas áreas do território. A Dinastia Manchu governou a China por quase 300 anos e foi a última dinastia da China antes da formação da República Popular.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_NAME">
+			<Text>Nurhaci dos Jurchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_SUBTITLE">
+			<Text>Khan da Antiga Dinastia Jin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_LIVED">
+			<Text>1558 - 1626 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_TEXT_1">
+			<Text>Nurhaci, chefe estimado dos Jurchen, é creditado pela união das tribos nômades Jurchen da China e pela criação das bases da Dinastia Manchu. Líder durante a segunda metade do século XVI, Nurhaci foi o primeiro Khan da Dinastia Jin, que mais tarde veio a ser conhecida como Qing ou a Dinastia Manchu após a sua morte. Durante seu reinado, Nurhaci colocou o seu povo em uma missão para ultrapassar a rival Dinastia Ming da China e, eventualmente, a Dinastia Choson da Coréia. Nurhaci é notavelmente creditado pela criação dos Oito Bandeiras, um sistema organizacional para seus militares, que dividiu as tropas em companhias bandeiras de tamanho variável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_STRATEGY">
+			<Text>O Papeleiro é o edifício exclusivo dos Chineses e substitui o Banco. O Papeleiro aumenta a entrada de [ICON_GOLD]Ouro da cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_HELP">
+			<Text>+4 de [ICON_GOLD]Ouro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO">
+			<Text>Wajo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO">
+			<Text>Construir um [LINK=IMPROVEMENT_WAJO]Wajo[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_REC">
+			<Text>Ele aumentará a [ICON_STRENGTH]Defesa de qualquer unidade militar estacionada neste hexágono.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_HELP">
+			<Text>+50% de [ICON_STRENGTH]Força de Defesa para qualquer unidade militar estacionada neste hexágono. Só pode ser construído pelo Japão e em um hexágono costeiro. Qualquer unidade inimiga que terminar seu turno próximo ao Wajo, recebe 2 pontos de dano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_HELP">
+			<Text>O Wajo é a melhoria exclusiva dos Japoneses, substituindo Fortes neste cenário. Ele deve ser construído em hexágonos costeiros. O Wajo melhora em 50% a Força de Defesa de qualquer unidade militar estacionada ali e qualquer unidade inimiga que terminar seu turno próximo ao Wajo recebe 2 pontos de dano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_TEXT">
+			<Text>O Wajo é uma melhoria especial que não aumenta a produtividade de um hexágono ou fornece acesso a um recurso. Em vez disso, um Wajo inflige 2 de dano em unidades inimigas que terminam seu turno adjacentes a ele e melhora o bônus defensivo em 50% para as unidades estacionadas naquele hexágono. No entanto, Wajos não fornecem um bônus de defesa para as unidades em território inimigo. [NEWLINE][NEWLINE]Durante a invasão Japonesa da Coréia, conhecida como a Guerra Imjin, os militares Japoneses construíram numerosos castelos às pressas, conhecidos como Wajos, ao longo da costa. Utilizados como postos e guarnições, principalmente ao longo da costa sul da Coréia, os militares normalmente construíam colinas artificiais ou platôs em que eles colocavam paredes de madeira, torres e estruturas internas que alinhavam ao estilo característico dos tradicionais castelos Japoneses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_VP_FUTURE_TECH">
+			<Text>Mortos em Combate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_VP_TECH">
+			<Text>Seul e Pequim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+			<Text>{1_Num} de Mortos em Combate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_DIPLO_MY_SCORE_TECH">
+			<Text>{1_Num} de Seul e Pequim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW">
+			<Text>Guerrilha se retira antes do combate corpo-a-corpo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW_HELP">
+			<Text>A unidade se retirará quando encontrar um combate corpo-a-corpo. A chance de retirada cai contra unidades inimigas rápidas ou se houver hexágonos abertos limitados atrás da unidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PORCELAIN_TOWER_STRATEGY">
+			<Text>A Torre de Porcelana aumenta a velocidade de produção de unidades de ataque corpo-a-corpo e navais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_WONDER_PORCELAIN_TOWER_HELP">
+			<Text>+15% de [ICON_PRODUCTION]Produção quando estiver construindo unidades de ataque corpo-a-corpo ou navais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_GUERILLAS_SPAWNED">
+			<Text>Coreia recebeu novas unidades de guerrilha em razão de característica "Exército Honrado".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_TECH_SPREAD">
+			<Text>Ao derrotar {1: gender masculine?este; feminine?esta;} {1_UnitName} a tecnologia {2_TechName} foi liberada! Você agora pode construir {3_UnitName} em suas cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_MANCHU_DOW">
+			<Text>As recentes tribos unidas Manchus viram como a China e a Coreia se enfraqueceram pela constante guerra contra o Japão. Eles aproveitaram a oportunidade para declararem guerra!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NINGXIA_REBELLION_OVER">
+			<Text>O exército Chinês derrotou uma rebelião na província Ningxia, ao norte. Novos reforços Chineses estão a caminho.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_WAJO_REINFORCEMENTS">
+			<Text>Reforços Japoneses desembarcaram nas fortificações Wajo que eles construíram na península Coreana.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_JAPANESE_REINFORCEMENTS">
+			<Text>Reforços Japoneses desembarcaram na península Coreana.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_EXTRA_MANCHU_UNITS">
+			<Text>Mais uma tribo Jurchen ficou sabendo do crescimento da força Manchu e se juntou à causa deles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_POLICY_COLLECTIVE_RULE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Controle Coletivo[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD]Ouro para comprar unidades é reduzido em 33%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_MAP_TITLE">
+			<Text>Ásia Oriental</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON">
+			<Text>Francis I</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_NAME">
+			<Text>Francis I</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+	</Language_pt_BR>
+</GameData>

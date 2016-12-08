@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Michelle Menard -->
+<GameData>
+    <Language_pt_BR>
+        <!-- Old city-state names to be used in new major civs -->
+        <!--
+            <Delete Tag="TXT_KEY_CITYSTATE_DUBLIN"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_VIENNA"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_HELSINKI"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ"/>
+        -->
+        <!-- New city-state names -->
+        <Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO">
+            <Text>Antananarivo</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_ADJ">
+            <Text>Antananarivo|Antananariva|Antananarivos|Antananarivas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA">
+			<Text>Bogotá</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_ADJ">
+			<Text>Bogotano|Bogotana|Bogotanos|Bogotanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>			
+		</Row>		
+        <Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA">
+            <Text>Bratislava</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_ADJ">
+            <Text>Bratislavano|Bratislavana|Bratislavanos|Bratislavanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES">
+            <Text>Buenos Aires</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJ">
+            <Text>Bonaerense|Bonaerenses</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_BYBLOS">
+            <Text>Biblos</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_BYBLOS_ADJ">
+            <Text>Giblita|Giblitas</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_IFE">
+            <Text>Ifé</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_IFE_ADJ">
+            <Text>de Ifé|de Ifé</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KABUL">
+            <Text>Cabul</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KABUL_ADJ">
+            <Text>de Cabul|de Cabul</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KIEV">
+            <Text>Kiev</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KIEV_ADJ">
+            <Text>Kievano|Kievana|Kievanos|Kievanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KYZYL">
+            <Text>Kyzyl</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KYZYL_ADJ">
+            <Text>de Kyzyl|de Kyzyl</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MALACCA">
+            <Text>Malaca</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MALACCA_ADJ">
+            <Text>Malaquês|Malaqueses</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO">
+            <Text>Cidade do Congo</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJ">
+            <Text>Congolense|Consgolenses</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MELBOURNE">
+            <Text>Melbourne</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_ADJ">
+            <Text>Melburniano|Melburniana|Melburnianos|Melburnianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MOGADISHU">
+            <Text>Mogadíscio</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_ADJ">
+            <Text>Mogadisciano|Mogadisciana|Mogadiscianos|Mogadiscianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ORMUS">
+            <Text>Ormuz</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_ORMUS_ADJ">
+            <Text>de Ormus|de Ormus</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY">
+            <Text>Cidade do Panamá</Text>
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_ADJ">
+            <Text>Panamenho|Panamenha|Panamenhos|Panamenhas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_RIGA">
+            <Text>Riga</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_RIGA_ADJ">
+            <Text>Rigano|Rigana|Riganos|Riganas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_SAMARKAND">
+            <Text>Samarcanda</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_ADJ">
+            <Text>de Samarcanda|de Samarcanda</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_SOFIA">
+            <Text>Sófia</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_SOFIA_ADJ">
+            <Text>Sofiano|Sofiana|Sofianos|Sofianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_UR">
+            <Text>Ur</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_UR_ADJ">
+            <Text>de Ur|de Ur</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_VANCOUVER">
+            <Text>Vancouver</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_ADJ">
+            <Text>de Vancouver|de Vancouver</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS">
+			<Text>Vilnius</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_ADJ">
+			<Text>Vilniano|Vilniana|Vilnianos|Vilnianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON">
+			<Text>Wellington</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_ADJ">
+			<Text>Wellingtoniano|Wellingtoniana|Wellingtonianos|Wellingtonianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>						
+		</Row>		
+        <!-- Old city-state names used in DLC civs -->
+        <!--
+            <Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_OSLO"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_OSLO_ADJ"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_SEOUL"/>
+            <Delete Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ"/>
+        -->
+        <!-- Replacement names for old city-state names used in DLC civs -->
+        <Row Tag="TXT_KEY_CITYSTATE_SYDNEY">
+            <Text>Sydney</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJ">
+            <Text>de Sydney|de Sydney</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY">
+            <Text>Quebec</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_ADJ">
+            <Text>Quebequense|Quebequenses</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KATHMANDU">
+            <Text>Catmandu</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJ">
+            <Text>de Catmandu|de Catmandu</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
+        </Row>
+    </Language_pt_BR>
+</GameData>

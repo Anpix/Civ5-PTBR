@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_BUILDING_NILOMETER">
+			<Text>Nilômetro|Nilômetros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ZIGGURAT">
+			<Text>Zigurate|Zigurates</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LIONS_GATE">
+			<Text>Portão dos Leões|Portões dos Leões</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+	</Language_pt_BR>
+</GameData>

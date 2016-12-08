@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL_SHORT">
+			<Text>Estudiosos do Salão de Jade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL">
+			<Text>+2 de [ICON_RESEARCH]Ciência para todos os Especialistas e para todas as melhorias de [ICON_GREAT_PEOPLE]Grandes Pessoas. Recebe um impulso tecnológico toda vez que um Edifício ou Maravilha científica for construída na capital Coreana.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

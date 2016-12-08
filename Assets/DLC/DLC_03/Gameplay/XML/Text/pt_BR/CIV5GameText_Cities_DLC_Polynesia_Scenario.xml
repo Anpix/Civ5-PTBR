@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKU_HIVA">
+			<Text>Nuku Hiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIVA_OA">
+			<Text>Hiva Oa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EIAO">
+			<Text>Eiao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HATUTU">
+			<Text>Hatutu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_ONE">
+			<Text>Motu One</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_ITI">
+			<Text>Motu Iti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UA_PU">
+			<Text>Ua Pu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_OA">
+			<Text>Motu Oa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UA_HUKA">
+			<Text>Ua Huka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FATU_UKU">
+			<Text>Fatu Uku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAHUATA">
+			<Text>Tahuata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOHO_TANI">
+			<Text>Moho Tani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TERIHI">
+			<Text>Terihi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FATU_HIVA">
+			<Text>Fatu Hiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_NAO">
+			<Text>Motu Nao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKU_ALOFA">
+			<Text>Nuku'alofa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEIAFU">
+			<Text>Neiafu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAVELULOTO">
+			<Text>Haveluloto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HA_ATEIHO">
+			<Text>Ha'ateiho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANGAI_HIHIFO">
+			<Text>Pangai-Hihifo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PEA">
+			<Text>Pea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOFOA_KOLOUA">
+			<Text>Tofoa-Koloua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAINI">
+			<Text>Vaini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUA_AMOTU">
+			<Text>Fua'amotu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOUMA">
+			<Text>Houma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOLONGA">
+			<Text>Kolonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAPAHA">
+			<Text>Lapaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEIMATU_A">
+			<Text>Leimatu'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKUNUKU">
+			<Text>Nukunuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POPUA">
+			<Text>Popua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TATAKAMOTONGA">
+			<Text>Tatakamotonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APIA">
+			<Text>Apia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAGO_PAGO">
+			<Text>Pago Pago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAFUNA">
+			<Text>Tafuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NU_UULI">
+			<Text>Nu'uuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALELOLOGA">
+			<Text>Salelologa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAITELE">
+			<Text>Vaitele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FALEASI_U">
+			<Text>Faleasi'u</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAILELE">
+			<Text>Vailele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LE_AUVA_A">
+			<Text>Le'auva'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FALE_ULA">
+			<Text>Fale'ula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALIE">
+			<Text>Malie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIUSEGA">
+			<Text>Siusega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEONE">
+			<Text>Leone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ILI_ILI">
+			<Text>Ili'Ili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAVA_IA_I">
+			<Text>Pava'ia'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUA">
+			<Text>Aua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAPEETE">
+			<Text>Papeete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FAA_A">
+			<Text>Faa'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEHETIA">
+			<Text>Mehetia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TETIAROA">
+			<Text>Tetiaroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOOREA">
+			<Text>Moorea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAIAO">
+			<Text>Maiao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUAHINE">
+			<Text>Huahine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAHAA">
+			<Text>Tahaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUPAI">
+			<Text>Tupai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAUPITI">
+			<Text>Maupiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOPELIA">
+			<Text>Mopelia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANUAE">
+			<Text>Manuae</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

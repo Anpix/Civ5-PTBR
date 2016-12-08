@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<!-- FALL OF ROME SCENARIO -->
+		<Row Tag="TXT_KEY_CITY_NAME_NEAPOLI">
+			<Text>Nápolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALONAE">
+			<Text>Salonae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARNUNTUM">
+			<Text>Carnuntum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CASTAREGINA">
+			<Text>Casta Regina</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MILAN">
+			<Text>Milão</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GENUA">
+			<Text>Genua</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASSILIA">
+			<Text>Massilia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRIER">
+			<Text>Trier</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUTETIA">
+			<Text>Lutetia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GESORIACUM">
+			<Text>Gesoriacum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORIALLUM">
+			<Text>Coriallum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTUSNAMNETUM">
+			<Text>Portus Namnetum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NARBO">
+			<Text>Narbo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRIGANTIUM">
+			<Text>Brigantium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TARRACO">
+			<Text>Tarraco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EMERITAAUGUSTA">
+			<Text>Emerita Augusta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLISIPO">
+			<Text>Olisipo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IOLCAESAREA">
+			<Text>Iol Caesarea</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THESSALONICA">
+			<Text>Thessalonica</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MISTRA">
+			<Text>Mistra</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CYRENE">
+			<Text>Cyrene</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMASTRIS">
+			<Text>Amastris</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORYLAEUM">
+			<Text>Dorylaeum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATTALIA">
+			<Text>Attalia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MYRA">
+			<Text>Myra</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINOPE">
+			<Text>Sinope</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMASIA">
+			<Text>Amaseia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELEUCIA">
+			<Text>Seleucia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MELITENE">
+			<Text>Melitene</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIUM">
+			<Text>Anium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THOSPIA">
+			<Text>Thospia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMIDA">
+			<Text>Amida</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NISIBIS">
+			<Text>Nisibis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINGARA">
+			<Text>Singara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CTESIPHON">
+			<Text>Ctesiphon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIEL">
+			<Text>Tiel</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEROUANNE">
+			<Text>Thérouanne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOURNAI">
+			<Text>Tournai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TONGRES">
+			<Text>Tongres</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAMBRAI">
+			<Text>Cambrai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAINZ">
+			<Text>Mainz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XANTEN">
+			<Text>Xanten</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOUILLE">
+			<Text>Vouillé</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VANNES">
+			<Text>Vannes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOLOSA">
+			<Text>Tolosa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOTHISCANDZA">
+			<Text>Gothiscandza</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RECCOPOLIS">
+			<Text>Reccopolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VICTORIACUM">
+			<Text>Victoriacum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLOGICUS">
+			<Text>Ologicus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAIYARA">
+			<Text>Baiyara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EBORA">
+			<Text>Ebora</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEGOVIA">
+			<Text>Segovia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BALSA">
+			<Text>Balsa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UXAMA">
+			<Text>Uxama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIERMES">
+			<Text>Tiermes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOLETUM">
+			<Text>Toletum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLBIA">
+			<Text>Olbia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TYRAS">
+			<Text>Tyras</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARHEIMAR">
+			<Text>Árheimar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TURDA">
+			<Text>Turda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APULON">
+			<Text>Apulon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BETUWE">
+			<Text>Betuwe</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- Vandal-->
+		<Row Tag="TXT_KEY_CITY_NAME_HIPPO_REGIUS">
+			<Text>Hippo Regius</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEPTUS_MAGNA">
+			<Text>Leptus Magna</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARTENNA">
+			<Text>Cartenna</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BULLA_REGIA">
+			<Text>Bulla Regia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CATANE">
+			<Text>Catane</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIRTA">
+			<Text>Cirta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARALIS">
+			<Text>Caralis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TACAPE">
+			<Text>Tacape</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAPUT_VADA">
+			<Text>Caput Vada</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRICAMERON">
+			<Text>Tricameron</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRIPOLIS">
+			<Text>Tripolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THAGASTE">
+			<Text>Thagaste</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!--Celts-->
+		<Row Tag="TXT_KEY_CITY_NAME_DINORWIG">
+			<Text>Dinorwig</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUGUVALION">
+			<Text>Luguvalion</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_CAIRO">
+			<Text>Cairo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_DVIN">
+			<Text>Dvin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BAALBEK">
+			<Text>Ba'albek</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BILBAIS">
+			<Text>Bilbais</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ASWAN">
+			<Text>Aswan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ZABID">
+			<Text>Zabid</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TAIZZ">
+			<Text>Ta'izz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SANAA">
+			<Text>Sana'a</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_YANBU">
+			<Text>Yanbu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HAMA">
+			<Text>Hama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HOMS">
+			<Text>Homs</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_AZAZ">
+			<Text>A'zaz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_QUS">
+			<Text>Qus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KAFR_SABT">
+			<Text>kafr Sabt</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_JAFFA">
+			<Text>Jaffa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_RABAT">
+			<Text>Rabat</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SAFI">
+			<Text>Safi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BEJAIA">
+			<Text>Bejaia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TINMEL">
+			<Text>Tinmel</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SIJILMASA">
+			<Text>Sijilmasa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BIDZAJA">
+			<Text>Bidzala</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KABIS">
+			<Text>Kabis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_MAHDIJA">
+			<Text>Mahdija</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_pt_BR>
+</GameData>

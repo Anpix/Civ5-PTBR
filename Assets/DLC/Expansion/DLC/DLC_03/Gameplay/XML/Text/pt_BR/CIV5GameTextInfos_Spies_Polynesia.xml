@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_0">
+			<Text>Tiki</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_1">
+			<Text>Hotu Matua</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_2">
+			<Text>Rongo-ma-tane</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_3">
+			<Text>Kupe</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_4">
+			<Text>Haloti</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_5">
+			<Text>Degei</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_6">
+			<Text>Babamik</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_7">
+			<Text>Kulu Lau</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_8">
+			<Text>Nangananga</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_9">
+			<Text>Turua</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>

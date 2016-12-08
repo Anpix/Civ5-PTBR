@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER">
+			<Text>Alexandre</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA">
+			<Text>Askia</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS">
+			<Text>César Augusto</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BARBARIAN">
+			<Text>Bárbaro</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK">
+			<Text>Bismarck</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE">
+			<Text>Catarina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS">
+			<Text>Dario I</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH">
+			<Text>Elizabeth</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI">
+			<Text>Gandhi</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN">
+			<Text>Harun al-Rashid</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA">
+			<Text>Hiawatha</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA">
+			<Text>Montezuma</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON">
+			<Text>Napoleão</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_NOBUNAGA">
+			<Text>Oda Nobunaga</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES">
+			<Text>Ramsés II</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG">
+			<Text>Ram Khamhaeng</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SULEIMAN">
+			<Text>Suleiman</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WASHINGTON">
+			<Text>George Washington</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WU_ZETIAN">
+			<Text>Wu Zetian</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>

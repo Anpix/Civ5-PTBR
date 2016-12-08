@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<GameData>
+	<Language_pt_BR>
+		<!-- FALL OF ROME - no techs in this scenario -->
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_TITLE">
+			<Text>Computação Analógica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_TITLE">
+			<Text>Máquina Analítica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_TITLE">
+			<Text>Imperialismo Econômico</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_TITLE">
+			<Text>Propulsão</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_TITLE">
+			<Text>Erupções</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_TITLE">
+			<Text>Expedição</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_TITLE">
+			<Text>Integração Vertical</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_TITLE">
+			<Text>Tanques Ultrapesados</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_TITLE">
+			<Text>Nobreza Opressora</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_TITLE">
+			<Text>Embarcações Aéreas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_TITLE">
+			<Text>Combustão Infernal</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_TITLE">
+			<Text>Evangelho da Prosperidade</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_TITLE">
+			<Text>Autômatos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_TITLE">
+			<Text>Uranografia</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_TITLE">
+			<Text>Galvanomagnetismo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_TITLE">
+			<Text>Defesa Civil</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_TITLE">
+			<Text>Terra Leviatã</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_TITLE">
+			<Text>Fortaleza Aérea</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_TITLE">
+			<Text>Movimento Contínuo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_TITLE">
+			<Text>Exploração Subterrânea</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_TITLE">
+			<Text>Tecnocracia</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_TITLE">
+			<Text>A Grande Ideia</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+	</Language_pt_BR>
+</GameData>

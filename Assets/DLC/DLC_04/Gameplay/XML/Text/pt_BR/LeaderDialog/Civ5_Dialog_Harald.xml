@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+	<Language_pt_BR>
+
+    <!--General phrases -->
+    <!--Greeting (first time meeting) -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_1">
+      <Text>Olá, estrangeiro! Sou Harald Bluetooth, governante dos Dinamarqueses. Gostastes do meu navio? Ele esmagou milhares de meus inimigos.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_2">
+      <Text>Salve, pequeno líder! Tu te encontras na presença do grande Harald Bluetooth. Hmm... com que conto de bravura devo satisfazer-te hoje?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_3">
+      <Text>Oh, fantástico! Um novo desafiante! Harald Bluetooth deseja-te boas vindas em suas terras. Talvez um dia teremos a honra de treinarmos juntos!</Text>
+    </Row>
+    <!--Reacts to his bluff being called -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_1">
+      <Text>Muito bem, meu caro. Espero ainda mais ansioso por nossa futura batalha!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_2">
+      <Text>Tu pareces ter sido feito de aço! Em breve vou testar o quão forte tu realmente fostes forjado.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_3">
+      <Text>Ugh, talvez meus conselheiros estivessem certos sobre ti. Por certo eu não os esteja pagando o suficiente.</Text>
+    </Row>
+    <!--Gloats after winning a war -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_WINWAR_1">
+      <Text>Oh, que som é este? Espere... Acredito que seja o choro de tuas mulheres! Ah! Mais uma vitória!</Text>
+    </Row>
+    <!--Gloats after winning a war -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_WINWAR_2">
+      <Text>Um belo dia e uma excelente batalha, não concordas? Devemos fazer isso novamente algum dia.</Text>
+    </Row>
+
+    <!--Submissive after losing a war -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_LOSEWAR_1">
+      <Text>Pelo martelo de Thor! Tu te mostrastes um adversário digno hoje. Eu saúdo-te!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LOSEWAR_2">
+      <Text>Te me deste uma bela cicatriz para cuidar. Talvez um dia eu retribua o favor. </Text>
+    </Row>
+    <!--Defeated and removed from game -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_1">
+      <Text>Ragnarok está sobre nós... é a única explicação para esta derrota. Desfrute o pouco tempo que resta-te neste mundo. Aguardo a tua chegada em Asgard.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_2">
+      <Text>Que traição é esta? Loki deve ter ajudado-te, pois um mero homem nunca poderia ter me derrotado.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_3">
+      <Text>Tu provaste ser um verdadeiro guerreiro! Como um ato final, gostaria de conceder-te o título honorário de Viking Jarl.</Text>
+    </Row>
+    
+    <!--Neutral -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_1">
+      <Text>Saudações.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_2">
+      <Text>Olá.</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_1">
+      <Text>Até nosso próximo encontro</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_2">
+      <Text>Adeus.</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_NEUTRAL">
+      <Text>Muito bem.</Text>
+    </Row>
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>Tu me interessas, mas precisas me interessar mais ainda.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>Tu podes fazer um pouco melhor?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>Isso não é bom o suficiente.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>Quase...</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_NEUTRAL">
+      <Text>Desculpe, não tenho interesse.</Text>
+    </Row>
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_NEUTRAL">
+      <Text>Tu me diverte, pequeno líder. Quero ver o que vais fazer com este generoso presente.</Text>
+    </Row> 
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_NEUTRAL">
+      <Text>Ah, tu és uma pessoa bem engraçada. Não estava ciente que tínhamos substituído o bobo da corte.</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_NEUTRAL">
+      <Text>Meus conselheiros me garantiram que este não é um mau acordo para ti.</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_NEUTRAL">
+      <Text>Estou momentaneamente farto de roubar. Dê-me o que quero agora.</Text>
+    </Row>  
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_1">
+      <Text>Tudo bem.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_2">
+      <Text>Muito bem.</Text>
+    </Row>
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_1">
+      <Text>Devo recusar.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_2">
+      <Text>Não.</Text>
+    </Row>
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_1">
+      <Text>Vamos ouvir-te</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_2">
+      <Text>Prossiga.</Text>
+    </Row>
+    
+    <!--Happy -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_3">
+      <Text>Seja bem-vindo novamente!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_4">
+      <Text>Ah, de volta...</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_3">
+      <Text>Adeus, amigo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_4">
+      <Text>Até mais</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_HAPPY">
+      <Text>Acordo feito!</Text>
+    </Row>
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_1">
+      <Text>Por mais que eu goste de ti, este tipo de oferta não irá nos satisfazer.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_2">
+      <Text>Isto é o melhor que podes fazer? Minha mãe negocia melhor que ti.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_3">
+      <Text>Hum, quase...</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_HAPPY">
+      <Text>Hmmm, talvez... Não.</Text>
+    </Row>
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_HAPPY">
+      <Text>Teu espírito me agrada. É justo que tenhas isto.</Text>
+    </Row>
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_HAPPY">
+      <Text>Ah, estás mal-humorado pequeno. Ainda assim, não.</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_HAPPY">
+      <Text>Venha, amigo. É hora de me mostrar o quão formidável tu achas que sou.</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_HAPPY">
+      <Text>Um bom negócio! Porque? Até um simples mendigo concordaria.</Text>
+    </Row> 
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_3">
+      <Text>Certamente, meu caro.</Text>
+    </Row> 
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_3">
+      <Text>Ah, não.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_4">
+      <Text>Hoje não, estou receoso.</Text>
+    </Row> 
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_3">
+      <Text>Prossiga.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_4">
+      <Text>Estou ouvindo.</Text>
+    </Row>
+    
+    <!--Angry -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_5">
+      <Text>Oh, és tu novamente?!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_6">
+      <Text>O que desejas?</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_5">
+      <Text>Isso é tudo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_6">
+      <Text>Vás embora.</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_ANGRY">
+      <Text>Muito bem, concordo.</Text>
+    </Row> 
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_1">
+      <Text>Eu rio de meu próprio irmão com este tipo de oferta.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_2">
+      <Text>Não é bom o suficiente.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_3">
+      <Text>Ah, deves fazer melhor que isso.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_4">
+      <Text>Quase...</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_ANGRY">
+      <Text>Não. Posso ver a traiçoeira mão de Loki nisto.</Text>
+    </Row>  
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_ANGRY">
+      <Text>Eu admiro teu espírito de luta, mas não creio que possas tão longe.</Text>
+    </Row>
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_ANGRY">
+      <Text>Maldição! Tu terias que roubar minha própria mãe.</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_ANGRY">
+      <Text>Aprecio as tuas últimas aquisições. Iriam decorar meu salão apropriadamente.</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_ANGRY">
+      <Text>Negociar parece um jeito pífio de conseguir o que quero, mas prometi aos meus conselheiros que tentaria.</Text>
+    </Row> 
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_4">
+      <Text>Oh, muito bem.</Text>
+    </Row>
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_5">
+      <Text>Não, idiota!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_6">
+      <Text>Isto é inaceitável.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_7">
+      <Text>Pelos deuses homenzinho! Não!</Text>
+    </Row>
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_5">
+      <Text>O que vem a ser isto?</Text>
+    </Row>
+
+    <Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_1">
+      <Text>Comecei a me entediar com esta conversa inútil. Decidiremos nossas diferenças no campo de combate, como homens!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_2">
+      <Text>Sinto que já é hora de outra gloriosa batalha e tu ganhastes a honra de ser meu próximo adversário! Que assim seja!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_3">
+      <Text>Meus homens estão entediados e nossos cofres vazios. Acho que um exercício leve vai lhes fazer bem, não concordas?</Text>
+    </Row>
+
+    <Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_1">
+      <Text>Ah, então tua determinação cresceu; ainda há esperança para ti! Vejamos o que podes fazer.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_2">
+      <Text>O ratinho se imagina um leão atacando. Porém, mesmo leões podem ser feridos por minha lâmina. Venha experimentar.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_3">
+      <Text>Tu mostrastes como faz um verdadeiro Viking! Pena que provavelmente terei que matar-te. </Text>
+    </Row>
+
+
+  </Language_pt_BR>
+</GameData>

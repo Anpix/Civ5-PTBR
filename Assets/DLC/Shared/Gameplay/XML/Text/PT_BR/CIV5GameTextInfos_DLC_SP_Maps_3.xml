@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_pt_BR>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_3_TITLE">
+		<Text>Nações Misturadas</Text>
+	</Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_3_DESC">
+      <Text>Pacote de Mapas Nações Misturadas</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA">
+      <Text>Austrália</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DESC">
+      <Text>Um mapa da Austrália, com terreno aleatório e locais de início na costa.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DUEL">
+      <Text>Austrália - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_TINY">
+      <Text>Austrália - Minúsculo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_SMALL">
+      <Text>Austrália - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_STANDARD">
+      <Text>Austrália - Padrão</Text>
+    </Row>	
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA">
+      <Text>Canadá</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DESC">
+      <Text>Um mapa do Canadá com a parte norte repleta de tundra e neve, fileias aleatórias de planícies, pastos e florestas.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DUEL">
+      <Text>Canadá - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_TINY">
+      <Text>Canadá - Minúsculo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_SMALL">
+      <Text>Canadá - Pequeno</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_STANDARD">
+      <Text>Canadá - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_LARGE">
+      <Text>Canadá - Grande</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SCAN">
+      <Text>Escandinávia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_DESC">
+      <Text>Um mapa aleatório da Escandinávia, exceto por algumas características chave.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_LARGE">
+      <Text>Escandinávia - Grande</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_STANDARD">
+      <Text>Escandinávia - Padrão</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_SMALL">
+      <Text>Escandinávia - Pequeno</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN">
+		<Text>Japão</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_DESC">
+		<Text>Um mapa do Japão, onde o relevo e montanhas principais são constantes e demais terrenos aleatórios.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_DUEL">
+		<Text>Japão - Duelo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_TINY">
+		<Text>Japão - Minúsculo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_SMALL">
+		<Text>Japão - Pequeno</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_STANDARD">
+		<Text>Japão - Padrão</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_LARGE">
+		<Text>Japão - Grande</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_ITALY">
+      <Text>Itália</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_DESC">
+      <Text>Um mapa da Itália, onde o relevo e os Alpes são constantes e demais terrenos aleatórios.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_SMALL">
+      <Text>Itália - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_STANDARD">
+      <Text>Itália - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK">
+      <Text>Reino Unido</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_DESC">
+      <Text>Um mapa do Reino Unido, incluindo a Inglaterra, Escócia e Irlanda do Norte, com todo o terreno aleatório.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_DUEL">
+      <Text>Reino Unido - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_TINY">
+      <Text>Reino Unido - Minúsculo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_SMALL">
+      <Text>Reino Unido - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_STANDARD">
+      <Text>Reino Unido - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_LARGE">
+      <Text>Reino Unido - Grande</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA">
+      <Text>China</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_DESC">
+      <Text>Um mapa gerenciado por script que se parece com a forma e terreno da China. Completamente aleatório.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_DUEL">
+      <Text>China - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_TINY">
+      <Text>China - Minúsculo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_SMALL">
+      <Text>China - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_STANDARD">
+      <Text>China - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_LARGE">
+      <Text>China - Grande</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA">
+      <Text>Rússia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_DESC">
+      <Text>Um mapa da Rússia, onde o relevo é constante e todos os terrenos internos são aleatórios.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_DUEL">
+      <Text>Rússia - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_TINY">
+      <Text>Rússia - Minúsculo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_SMALL">
+      <Text>Rússia - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_STANDARD">
+      <Text>Rússia - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_LARGE">
+      <Text>Rússia - Grande</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_HUGE">
+      <Text>Rússia - Enorme</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY">
+      <Text>Turquia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_DESC">
+      <Text>Um mapa da Turquia, onde o relevo é constante e todos os terrenos internos são montanhosos e aleatórios.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_DUEL">
+      <Text>Turquia - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_TINY">
+      <Text>Turquia - Minúsculo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_SMALL">
+      <Text>Turquia - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_STANDARD">
+      <Text>Turquia - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_LARGE">
+      <Text>Turquia - Grande</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_HUGE">
+      <Text>Turquia - Enorme</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE">
+      <Text>Grécia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_DESC">
+      <Text>Um mapa da Grécia, onde o relevo é constante e todos os terrenos internos é aleatório.</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_DUEL">
+      <Text>Grécia - Duelo</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_TINY">
+      <Text>Grécia - Minúsculo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_SMALL">
+      <Text>Grécia - Pequeno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_STANDARD">
+      <Text>Grécia - Padrão</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_LARGE">
+      <Text>Grécia - Grande</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_GREECE_HUGE">
+      <Text>Grécia - Enorme</Text>
+    </Row>
+	</Language_pt_BR>
+</GameData>

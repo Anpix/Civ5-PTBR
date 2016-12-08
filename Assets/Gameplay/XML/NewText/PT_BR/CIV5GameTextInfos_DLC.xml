@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_pt_BR>
+		<!-- READ ME -->
+		<!-- DLC Package Names and Descriptions should only go here after they have been announced.-->
+		<Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_NAME">
+			<Text>Upgrade 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_DESCRIPTION">
+			<Text>Upgrade Data 1</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_7459BA32576444AE8E9501AD0E0EFD48_NAME">
+			<Text>Babilônia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_7459BA32576444AE8E9501AD0E0EFD48_DESCRIPTION">
+			<Text>Babilônia de Nabucodonosor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_293C1EE3117644F6AC1F59663826DE74_NAME">
+			<Text>Mongólia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_293C1EE3117644F6AC1F59663826DE74_DESCRIPTION">
+			<Text>Mongólia de Genghis Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B685D5DE7CCA4E7581B42F60754E6330_NAME">
+			<Text>Espanha e os Incas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B685D5DE7CCA4E7581B42F60754E6330_DESCRIPTION">
+			<Text>Espanha de Isabela e Império Inca de Pachacuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ECF7C605BA114CAC8D80D71306AAC471_NAME">
+			<Text>Polinésia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ECF7C605BA114CAC8D80D71306AAC471_DESCRIPTION">
+			<Text>Império Polinésio de Kamehameha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIA_DLC_AVAILABLE">
+			<Text>DLC POLINÉSIA DISPONÍVEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B3030D39C0D84BC791B17AD1CAF585AB_NAME">
+			<Text>Dinamarca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B3030D39C0D84BC791B17AD1CAF585AB_DESCRIPTION">
+			<Text>Dinamarca de Harald Bluetooth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EA67AED558594875BF3A360FE9E55D1B_NAME">
+			<Text>Conquista Deluxe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EA67AED558594875BF3A360FE9E55D1B_DESCRIPTION">
+			<Text>Conquista do Novo Mundo Deluxe</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_DENMARK_DLC_AVAILABLE">
+			<Text>DLC VIKING DISPONÍVEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPMAPPACK_DLC_AVAILABLE">
+			<Text>DLC MAPAS DISPONÍVEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVWORLD">
+			<Text>JOGAR CIVWORLD AGORA!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACE_PATROL_PROMO">
+			<Text>ACE PATROL NO STEAM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DLC_MAP_PACK_2_AVAILABLE">
+			<Text>CONTINENTES MISTURADOS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DLC_MAP_PACK_3_AVAILABLE">
+			<Text>NAÇÕES MISTURADAS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOW_AVAILABLE">
+			<Text>DISPONÍVEL AGORA</Text>
+		</Row>		
+		<!-- 383 -->
+		<Row Tag="TXT_KEY_112C22B2530842B6B734171CCAB3037B_NAME">
+			<Text>Coreia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_112C22B2530842B6B734171CCAB3037B_DESCRIPTION">
+			<Text>Sejong, O Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BBB0D085A0B14475B0073E549CF3ADC3_NAME">
+			<Text>Maravilhas Antigas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BBB0D085A0B14475B0073E549CF3ADC3_DESCRIPTION">
+			<Text>Maravilhas do Mundo Antigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_WONDERS_AVAILABLE">
+			<Text>COREIA E MARAVILHAS ANTIGAS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_WONDERS_SHORT_AVAILABLE">
+			<Text>COREIA E MARAVILHAS</Text>
+		</Row>
+		<!-- patch 674 -->
+		<Row Tag="TXT_KEY_0E3751A1F8404E1B9706519BF484E59D_NAME">
+			<Text>Expansão: Gods &amp; Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_0E3751A1F8404E1B9706519BF484E59D_DESCRIPTION">
+			<Text>Pacote de Expansão Gods &amp; Kings</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_6DA0763641234018B6436575B4EC336B_NAME">
+			<Text>Expansão: Brave New World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_6DA0763641234018B6436575B4EC336B_DESCRIPTION">
+			<Text>Pacote de Expansão Brave New World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_46EAEFFC7B1D443DBFC8F825DFEFB094_NAME">
+			<Text>Pacote de Mapa Continentes Misturados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_46EAEFFC7B1D443DBFC8F825DFEFB094_DESCRIPTION">
+			<Text>Pacote de Mapa Continentes Misturados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_4255F5F7D3AB4E55ACEE4670082040ED_NAME">
+			<Text>Pacote de Mapa Nações Misturadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_4255F5F7D3AB4E55ACEE4670082040ED_DESCRIPTION">
+			<Text>Pacote de Mapa Nações Misturadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_3F49DF5468B644D1A930A168628FAA59_NAME">
+			<Text>Pacote de Mapa Exploradores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_3F49DF5468B644D1A930A168628FAA59_DESCRIPTION">
+			<Text>Pacote de Mapa Exploradores</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_DLC_AVAILABLE">
+			<Text>PACOTE DE MAPA DISPONÍVEL</Text>
+		</Row>		
+	</Language_pt_BR>
+</GameData>

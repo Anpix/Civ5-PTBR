@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Michelle Menard-->
+<GameData>
+  <Language_pt_BR>
+    <Row Tag="TXT_KEY_CITYSTATE_WARSAW">
+		<Text>Varsóvia</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+	</Row>
+    <Row Tag="TXT_KEY_CITYSTATE_WARSAW_ADJ">
+		<Text>Varsoviano|Varsoviana|Varsovianos|Varsovianas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_EDINBURGH">
+		<Text>Edimburgo</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ">
+		<Text>Edimburguense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_DUBLIN">
+		<Text>Dublin</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ">
+		<Text>Dublinense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENEVA">
+		<Text>Genebra</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENEVA_ADJ">
+		<Text>Genebrense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VENICE">
+		<Text>Veneza</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VENICE_ADJ">
+		<Text>Veneziano|Veneziana|Venezianos|Venezianas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENOA">
+		<Text>Gênova</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENOA_ADJ">
+		<Text>Genovês|Genovesa|Genoveses|Genovesas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_FLORENCE">
+		<Text>Florença</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_FLORENCE_ADJ">
+		<Text>Florentino|Florentina|Florentinos|Florentinas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RAGUSA">
+		<Text>Ragusa</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RAGUSA_ADJ">
+		<Text>Ragusano|Ragusana|Ragusanos|Ragusanas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_COPENHAGEN">
+		<Text>Copenhague</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ">
+		<Text>Copenhaguense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_OSLO">
+		<Text>Oslo</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_OSLO_ADJ">
+		<Text>de Oslo</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM">
+		<Text>Estocolmo</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ">
+		<Text>Holmiense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HELSINKI">
+		<Text>Helsinque</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ">
+		<Text>Helsinquiano|Helsinquiana|Helsinquianos|Helsinquianas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUCHAREST">
+		<Text>Bucareste</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_ADJ">
+		<Text>Bucarestense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUDAPEST">
+		<Text>Budapeste</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_ADJ">
+		<Text>Budapestino|Budapestina|Budapestinos|Budapestinas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BELGRADE">
+		<Text>Belgrado</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BELGRADE_ADJ">
+		<Text>Belgradino|Belgradina|Belgradinos|Belgradinas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VIENNA">
+		<Text>Viena</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ">
+		<Text>Vienense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BRUSSELS">
+		<Text>Bruxelas</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_ADJ">
+		<Text>Bruxelês|Bruxelesa|Bruxeleses|Bruxelesas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_MONACO">
+		<Text>Mônaco</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_MONACO_ADJ">
+		<Text>Monegasco|Monegasca|Monegascos|Monegascas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SEOUL">
+		<Text>Seul</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ">
+		<Text>de Seul</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HANOI">
+		<Text>Hanói</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJ">
+		<Text>Vietnamita</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_LHASA">
+		<Text>Lhasa</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_LHASA_ADJ">
+		<Text>Lhasense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_ALMATY">
+		<Text>Almaty</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_ALMATY_ADJ">
+		<Text>Almatiense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR">
+		<Text>Kuala Lumpur</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJ">
+		<Text>Kuala Lumpurense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SINGAPORE">
+		<Text>Singapura</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_ADJ">
+		<Text>Singapurense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO">
+		<Text>Rio de Janeiro</Text>
+		<Gender>masculine</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO_ADJ">
+		<Text>Fluminense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN">
+		<Text>Cape Town</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_ADJ">
+		<Text>Capetoniano|Capetoniana|Capetonianos|Capetonianas</Text>
+		<Gender>masculine|feminine|masculine|feminine</Gender>
+		<Plurality>1|1|2|2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SIDON">
+		<Text>Sidão</Text>
+		<Gender>masculine</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SIDON_ADJ">
+		<Text>Sidonense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_TYRE">
+		<Text>Tyre</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_TYRE_ADJ">
+		<Text>Tyrense</Text>
+		<Gender>neuter:noart</Gender>
+		<Plurality>1</Plurality>
+    </Row>    
+  </Language_pt_BR>
+</GameData>

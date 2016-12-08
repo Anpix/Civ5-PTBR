@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TITLE">
+			<Text>1066: Ano do Destino Viking</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_DESC">
+			<Text>O Rei Eduardo - O Confessor - está morto. O trono da Inglaterra é de quem pegar. Você pode levar seus guerreiros à vitória derrotando os outros Vikings que buscam o trono?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV5_DAWN_VIKING_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]Salve, Grande Lorde Viking! O Rei Eduardo - O Confessor - da Inglaterra está morto. O saxão Harold Godwinson rapidamente tomou o trono. Mas o seu poder é tênue: William da Normandia, Harald Hardrada da Noruega e o Rei Sweyn da Dinamarca estão na fila para conquistar o trono também. Vós podeis vestir o manto de um desses senhores Vikings e vos tornar o próximo grande rei da Inglaterra? A bordo de vossos navios, deveis provar ao mundo o vossos direito de ser o guerreiro escolhido de Odin.[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Vós deveis completar a maravilha nacional Livro do Juízo em Londres, antes de decorrido o tempo para ganhar o cenário. Deveis construir 6 edifícios Tribunais Distritais em cidades originalmente controladas pela Inglaterra anglo-saxônica antes de iniciar a maravilha nacional Livro do Juízo. Estes tribunais distritais só podem ser construídos em cidades com 8 ou mais hexágonos de distância de Londres.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as 4 grandes potências estão permanentemente envolvidas em guerra umas com as outras por todo o cenário. Os sistemas de Ciência, Política e Felicidade estão todos desativados. Não ganhareis nenhuma nova tecnologia ou política social durante o jogo. Todas as cidades que controlardes ou conquistardes poderão crescer sem controle, sem se preocuparem com a felicidade. Se vós ganhardes a aliança de uma Cidade-Estado, as unidades militares dela serão colocadas sob vosso controle, enquanto durar a aliança. Todas as unidades possuem a promoção Embarque Defensivo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TURNSREMAINING">
+			<Text>{1 plural 1?Turno restante; other?Turnos restantes}: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_NAME">
+			<Text>Harald Hardrada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_SUBTITLE">
+			<Text>Rei da Noruega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_LIVED">
+			<Text>1015 - 1066 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_TEXT_1">
+			<Text>Harald Sigurdsson, também conhecido como Harald "Hardrada" ou Harald o Líder Severo, foi rei da Noruega de 1047 a 1066. Hardrada é lembrado principalmente por sua invasão à Inglaterra e sua subsequente derrota na Batalha de Stamford Bridge, em setembro de 1066, que não oficialmente marca o fim da Era Viking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_NAME">
+			<Text>Harold Godwinson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_SUBTITLE">
+			<Text>Rei da Inglaterra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_LIVED">
+			<Text>1022 - 1066 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_TEXT_1">
+			<Text>Harold Godwinson foi brevemente o rei da Inglaterra, governando de janeiro de 1066 até sua derrota na Batalha de Hastings, em outubro do mesmo ano, e foi o último dos reis anglo-saxões. Apesar de ter repelido com sucesso a invasão da Harald Hardrada no norte, Godwinson e seu exército foram destruídos em uma batalha de um dia inteiro, menos de um mês depois por William, o Conquistador. Godwinson, diz a lenda, caiu para uma flecha no olho.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_NAME">
+			<Text> William, o Conquistador </Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_SUBTITLE">
+			<Text> Duque da Normandia </Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_LIVED">
+			<Text>1028 - 1087 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_TEXT_1">
+			<Text> William, o Conquistador (também conhecido como William I), foi o líder da conquista normanda da Inglaterra e reinou como o primeiro rei normando da Inglaterra. Tendo derrotado o exército de Harold Godwinson na Batalha de Hastings, em outubro de 1066, William acabaria por esmagar a resistência inglesa e reinar por mais de 20 anos, até sua morte em 1087.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_NAME">
+			<Text>Sweyn II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_SUBTITLE">
+			<Text> Rei da Dinamarca </Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_LIVED">
+			<Text>1019 - 1075 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_TEXT_1">
+			<Text> Sweyn II foi rei da Dinamarca de 1047 até 1074. Durante seu reinado, uma rixa de longa data com Harald Hardrada da Noruega (que frequentemente tentou conquistar Sweyn) levaria a inúmeras batalhas entre os dois inimigos. Durante sua vida, Sweyn seria pai de mais de 20 crianças, incluindo cinco futuros reis da Dinamarca que se sucederam de forma pacífica pelos 60 anos seguintes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_TEXT_1">
+			<Text>Com a morte de Edward - O Confessor, em 1065, o trono Inglês foi rapidamente atribuído a Harold Godwinson pelo conselho de nobres Ingleses conhecido como o "Witenagemot". Pouco tempo depois, as invasões do rei norueguês Harald Hardrada e mais importante, William, duque da Normandia, mudaria o cenário político da Inglaterra para sempre. Godwinson teve sucesso ao derrotar Hardrada na batalha de Stamford Bridge, em setembro de 1066, mas teve que se reagrupar rapidamente e ir para o sul, a fim de enfrentar William apenas algumas semanas depois. No entanto, os exércitos Normandos liderados por William derrotaram Godwinson na Batalha de Hastings, em 14 de outubro. Harold morreu em batalha. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_TEXT_1">
+			<Text>O Ducado da Normandia, formado na região da França conhecida como Rouen, foi originalmente colonizado pelos Vikings da Escandinávia no final do século 9. Formalmente criado pela assinatura do Tratado de Saint-Clair-sur-Epte em 911, o rei Carlos III de França concederia o território para o líder Viking Rollo, criando as bases do que veio a ser conhecida como Normandia. William, o Conquistador, duque da Normandia, seria o seu líder mais famoso, capturando o trono da Inglaterra em 1066. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_TEXT_1">
+			<Text>A Noruega, sob o domínio do rei Harald "Líder Severo" Sigurdsson, iria embarcar em numerosas campanhas militares contra a Dinamarca, em uma tentativa de usurpar o trono dinamarquês durante o século 11. Após a morte de Magnus I, em 1047, Harald contestou a noção de que Sweyn II era o governante legítimo da Dinamarca e os dois se tornaram rivais notórios. Apesar de várias tentativas, Harald nunca conseguiu conquistar Sweyn e, em vez disso, mirou suas atenções para o trono Inglês. Em setembro de 1066, Harald invadiu a Inglaterra, só para ser morto na Batalha de Stamford Bridge pelos exércitos de Harold Godwinson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_DENMARK_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_DENMARK_TEXT_1">
+			<Text>O reino da Dinamarca, tendo prosperado durante os séculos 8 e 11 no auge da era Viking, teria se envolvido em uma guerra em curso com a Noruega no início do século 11. Harald Hardrada, o Rei da Noruega, que disputou com Sweyn o direito ao trono dinamarquês após a morte do Rei Magnus I, em 1047, se tornaria o principal rival do rei dinamarquês Sweyn II. Por anos os dois se envolveram em conflitos militares, até que finalmente se reconciliaram depois de quase 15 anos, quando se tornou claro que não haveria um vencedor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+			<Text>Aliados britânicos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS_SHORT">
+			<Text>Construtores de Castelos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS">
+			<Text>{TXT_KEY_UNIT_SWORDSMAN[2]} podem construir a melhoria exclusiva Motte e Bailey no mesmo tempo que um trabalhador leva para construir um Forte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_SAXON_HUSCARL_TEXT">
+			<Text>Os Guardiões anglo-saxões, o equivalente medieval da guarda moderna, foram profissionalmente treinados e soldados bem remunerados que serviram ao rei e à nobreza. Equipados com casacos de cota de malha, conhecidos como "Byrnies" e, normalmente, armados com machados de guerra, os Guardiões foram uma força defensiva intimidadora ao longo dos séculos 11 e 12.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL_STRATEGY">
+			<Text>O Guardião é a unidade exclusiva da Inglaterra anglo-saxã, que substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}. Esta unidade ganha as promoções Cobertura I e Bônus contra Montaria (50) por sua capacidade de criar muros de defesa, quando atacado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SAXON_HUSCARL">
+			<Text>Poderosa unidade medieval de ataque corpo-a-corpo. Fortes contra unidades de montaria e de ataque a distância. Possui as promoções Cobertura I e Bônus contra Montaria (50). Somente os Ingleses podem treiná-la. Substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_NORMAN_KNIGHT_TEXT">
+			<Text>Os Cavaleiros do exército Normando, que serviram durante a conquista da Inglaterra no século 11 eram equipados com camisas de cota de malha, conhecidas como "armaduras", e geralmente usavam um capacete de forma cônica, projetado (em teoria) para desviar flechas que o acertassem. Os Cavaleiros Normandos foram talvez mais conhecidos por carregarem os "Kites", escudos alongados, projetados para proteger a montaria e as pernas dos cavaleiros enquanto engajados em combate corpo-a-corpo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT_STRATEGY">
+			<Text>O Cavaleiro Normando é a unidade exclusiva normanda, substituindo o Cavaleiro padrão. Esta unidade é o Cavaleiro padrão com a adição da promoção Blitz, permitindo-lhe atacar mais de uma vez por turno.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NORMAN_KNIGHT">
+			<Text>Poderosa unidade de montaria medieval. Fraco contra {TXT_KEY_UNIT_LANCER[2]}. Possui a promoção Blitz. Apenas os normandos pode treiná-la. Substitui o Cavaleiro padrão.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_HELP">
+			<Text>Fornece 5 de [ICON_GOLD]Ouro por turno. Seis deste edifício devem ser construídos para que o Livro do Juízo possa ser construído em Londres. Só pode ser construído em uma cidade originalmente controlada pela Inglaterra anglo-saxã e com 8 ou mais hexágonos de distância de Londres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_STRATEGY">
+			<Text>Construa Tribunais Distritais para encomendar uma pesquisa deste condado da Inglaterra. Quando a construção estiver completa, você vai ganhar maiores receitas fiscais dos cidadãos desta região da Inglaterra. Quando você possuir 6 destes Tribunais concluídos, você estará pronto para construir o Livro do Juízo em Londres e completar a sua conquista da Inglaterra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_PEDIA">
+			<Text>O Tribunal Distrital, utilizado durante o reinado de William - O Conquistador, para efeitos de avaliação fiscal, foi uma assembleia de pessoas da cidade e senhores locais reunidos para a pesquisa do Livro do Juízo. O Tribunal Distrital era odiado pela população Inglesa, que relutantemente informou suas terras e explorações pecuárias aos oficiais da corte real.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_HELP">
+			<Text>Ganhe o cenário com a construção deste, em Londres. Não pode ser construído até que você possua 6 Tribunais Distritais em seu Império.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_STRATEGY">
+			<Text>A conclusão da maravilha O Livro do Juízo significa que você fez o grande levantamento da Inglaterra e se tornou mestre dessas terras. Construa-o para ganhar o cenário.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_PEDIA">
+			<Text>O Livro do Juízo , que documentou o gado e as propriedades de terra do povo da Inglaterra durante o reinado de William - O Conquistador, foi criado durante o levantamento fiscal de 1085 d.C. Concebido por William como um meio para avaliar a impostos não pagos sob o reinado de Eduardo - O Confessor, o Livro do Juízo viria a ser conhecido como "O Livro de Julgamento", já que todos os registros feitos pelos oficiais reais no livro eram decisivos. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HADRIANS_WALL">
+			<Text>Muralhas de Adriano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HADRIANS_WALL_TEXT">
+			<Text>As Muralhas de Adriano, nomeadas para o imperador romano Adriano, que ordenou a sua construção em 122 d.C., era uma fortificação defensiva maciça que dividia a fronteira norte da Inglaterra. Cerca de 73 milhas de comprimento (117 quilômetros), as muralhas se estendem desde Bowness-on-Solway, ao longo da costa ocidental, até Wallsend (local, certa vez, da fortificação romana Segedunum) na costa leste. Construídas principalmente a partir de calcário, ao longo de vários anos após a sua construção, as defesas proporcionadas pelas muralhas seriam reforçadas por mais de uma dúzia de fortes, com até 1.000 soldados romanos cada um.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MOTTE_BAILEY">
+			<Text>Motte e Bailey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_TEXT">
+			<Text>Um projeto primeiramente atribuído aos normandos, no século 10, o Motte e Bailey era um tipo de castelo elevado construído em cima de um monte terraplanado. O "Motte" era formado por escavações de trincheiras ao redor do local prospectado para o castelo. As porções de terra retiradas eram então utilizadas para a construção de uma colina ou monte artificiais, sobre os quais o castelo era construído. O "Bailey" se refere ao pátio inferior, normalmente cercado por um muro grande, contendo um quartel, ala dos serviçais e edifícios de armazenamento. Qualquer unidade estacionada dentro de um Motte e Bailey recebe um bônus de 100% de força defensiva. Além disso, qualquer unidade inimiga que terminar o turno próxima a um Motte e Bailey recebe 3 pontos de dano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_HELP">
+			<Text>Construído por {TXT_KEY_UNIT_SWORDSMAN[2]} normandos, o Motte e Bailey fornece 100% de [ICON_STRENGTH]Força Defensiva para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY">
+			<Text>Construir um Motte e Bailey </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_HELP">
+			<Text>+100% de [ICON_STRENGTH]Força defensiva para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano. Não consome a unidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_REC">
+			<Text>Vai melhorar a [ICON_STRENGTH]Defesa de qualquer unidade militar estacionada neste local e causará dano às unidades inimigas que terminarem seus turnos em hexágonos adjacentes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TAX_COLLECTION">
+			<Text>Cobradores de impostos retornaram dos condados da Inglaterra. {1_GoldCollected} de [ICON_GOLD] Ouro {1: plural 1?foi coletado; other?foram coletados} dos habitantes das cidades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_NEW_RECRUITS">
+			<Text>Novos recrutas ouviram contos de pilhagens em terras vagas da Inglaterra. Você pode encontrar {1_NumUnits} {1: plural 1?nova unidade próxima; other?novas unidades próximas} de sua Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_ALLY_GAINED">
+			<Text>Unidades militares da Cidade-Estado {1_CityStateName} juntaram-se ao seu exército!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_ALLY_LOST">
+			<Text>As unidades da Cidade-Estado {1_CityStateName} vão retornar para casa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BRIEFING">
+			<Text>Instruções </Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LONDON_STATUS">
+			<Text>Controle de Londres: {1_CivilizationName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_SHIRE_COURT_STATUS">
+			<Text>Tribunais Distritais {1: plural 1?construído; 0?construído; other?construídos;}: {1_NumBuildings}/6</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

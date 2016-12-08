@@ -1,0 +1,2111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <Language_pt_BR>
+        <Row Tag="TXT_KEY_TOP_PANEL_GOLD">
+            <Text>[ICON_GOLD][COLOR:255:235:0:255]{1_TotalGold: number "##"} {2_GoldPerTurn: number "'(+'##')';'[COLOR:255:60:60:255](-'##')'"}[/COLOR]</Text>
+        </Row>        
+        <!-- Military Overview -->
+        <Row Tag="TXT_KEY_UNIT_STATUS_FORTIFIED">
+            <Text>Fortificado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_STATUS_EMBARKED">
+            <Text>Embarcado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_TITLE">
+            <Text>Unidade de suprimento</Text>
+        </Row>
+        <Row Tag="TXT_KEY_HANDICAP_SUPPLY_TT">
+            <Text>Fornecido pelo nível de dificuldade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_HANDICAP_SUPPLY">
+            <Text>Base de suprimento</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITIES_SUPPLY_TT">
+            <Text>Fornecido pelo número de cidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITIES_SUPPLY">
+            <Text>Cidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_POPULATION_SUPPLY_TT">
+            <Text>Fornecido pela população total</Text>
+        </Row>
+        <Row Tag="TXT_KEY_POPULATION_SUPPLY">
+            <Text>População</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_CAP_TT">
+            <Text>Total de suprimentos gerado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_CAP">
+            <Text>Total de suprimentos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_USE_TT">
+            <Text>Suprimento usado pelas unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_USE">
+            <Text>Em uso</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_REMAINING_TT">
+            <Text>Suprimento disponível para novas unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_REMAINING">
+            <Text>Suprimentos restantes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_DEFICIT_TT">
+            <Text>Há mais unidades que suprimentos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_DEFICIT">
+            <Text>Fornecimento deficitário</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_DEFICIT_PENALTY_TT">
+            <Text>Penalidade pelo défice do fornecimento</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SUPPLY_DEFICIT_PENALTY">
+            <Text>Penalidade na produção</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MO_SORT_STRENGTH">
+            <Text>Ordenar por força</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MO_SORT_NAME">
+            <Text>Ordenar por nome</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MO_SORT_STATUS">
+            <Text>Ordenar por status</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MO_SORT_MOVEMENT">
+            <Text>Ordenar por movimentos restantes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MO_SORT_MAX_MOVES">
+            <Text>Ordenar por maiores movimentos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MO_SORT_RANGED">
+            <Text>Ordenar por ataque a distância</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MO_GENERAL_TT">
+            <Text>{1_current}/{2_needed}[NEWLINE]O progresso para chegar ao próximo Grande General é baseado do XP ganhados pelas unidades de combate.</Text>
+        </Row>
+        <!-- End Game Screen -->
+        <Row Tag="TXT_KEY_VICTORY_INFO">
+            <Text>INFORMAÇÃO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_FLAVOR_TECHNOLOGY">
+            <Text>Você conseguiu a Vitória pelo domínio da Ciência! Você conquistou os mistérios da natureza e levou seu povo a uma viagem ao um Novo Mundo! Seu triunfo será lembrado para sempre, como as estrelas que brilham no céu à noite!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_FLAVOR_DOMINATION">
+            <Text>O mundo está convulsionado com a guerra. Muitas Civilizações grandes e poderosas caíram, mas você sobreviveu - como vitorioso! O mundo lembrará para sempre do seu glorioso triunfo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_FLAVOR_CULTURE">
+            <Text>Você conseguiu a Vitória através da sua incrível e poderosa Cultura. A grandeza da sua Civilização - monumentos magníficos e os poderes dos Artistas - surpreendeu todo o mundo! Poetas te honrarão enquanto a beleza trouxer alegria aos corações cansados.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_FLAVOR_DIPLOMACY">
+            <Text>Você triunfou perante seus inimigos através da arte da Diplomacia! Sua astúcia e sabedoria conquistaram grandes amigos - e dividiu semeando confusão entre seus inimigos! Você sempre será lembrado como o líder que trouxe a paz para um mundo fadigado!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_FLAVOR_TIME">
+            <Text>O mundo está convulsionado com a guerra. Muitas Civilizações grandes e poderosas caíram, mas você sobreviveu - como vitorioso! O mundo lembrará para sempre do seu glorioso triunfo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_FLAVOR_LOSS">
+            <Text>Você foi derrotado. Sua Civilização foi dominada pelos seus inimigos. Mas seu povo não irá desaparecer, pois sabem que um dia você voltará - e os conduzirá à vitória!</Text>
+        </Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_DEMO">
+			<Text>Muitos anos se passaram desde a ascensão de sua grande e poderosa Civilização, mas infelizmente seu tempo chegou ao fim. Porem, o seu povo não irá desaparecer, pois sabem que um dia você voltará - e os conduzirá à Vitória!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMO_BANG">
+			<Text>DEMONSTRAÇÃO COMPLETA!</Text>
+		</Row>
+        <Row Tag="TXT_KEY_VICTORY_BANG">
+            <Text>VITÓRIA!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEFEAT_BANG">
+            <Text>DERROTA!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_TECHNOLOGY_BANG">
+            <Text>Vitória Tecnológica!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_DOMINATION_BANG">
+            <Text>Vitória por Dominação!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_CULTURE_BANG">
+            <Text>Vitória Cultural!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_ECONOMIC_BANG">
+            <Text>Vitória Diplomática!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VICTORY_TIME_BANG">
+            <Text>Vitória pelo Tempo!</Text>
+        </Row>
+        <!-- End Game Screen -->
+        <Row Tag="TXT_KEY_RANKING_TITLE">
+            <Text>RANKING</Text>
+        </Row>
+        <Row Tag="TXT_KEY_HALL_OF_FAME_EMPTY">
+            <Text>Você não completou todos os jogos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_RANKING_STATEMENT">
+            <Text>Você alcançou o nível de {1_GreatLeader}</Text>
+        </Row>
+        <!-- Demographics -->
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_TITLE">
+            <Text>DEMOGRAFIA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS">
+            <Text>Demografias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_TYPE">
+            <Text>Demografia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_VALUE">
+            <Text>Valor</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_RIVAL_BEST">
+            <Text>Melhor</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_RIVAL_AVERAGE">
+            <Text>Médio</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_RIVAL_WORST">
+            <Text>Pior</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_RANK">
+            <Text>Classificação</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_POPULATION">
+            <Text>População</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_POPULATION_MEASURE">
+            <Text>Pessoas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_FOOD">
+            <Text>Rendimento da colheita</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_FOOD_MEASURE">
+            <Text>Mil alqueires</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION">
+            <Text>Manufaturados</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_MEASURE">
+            <Text>Mil toneladas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_GOLD">
+            <Text>PIB</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_GOLD_MEASURE">
+            <Text>Mil ouros</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_LAND">
+            <Text>Terra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_LAND_MEASURE">
+            <Text>Quilômetro quadrado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_ARMY">
+            <Text>Soldados</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_ARMY_MEASURE">
+            <Text>Soldados</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_APPROVAL">
+            <Text>Aprovação</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DEMOGRAPHICS_LITERACY">
+            <Text>Alfabetização</Text>
+        </Row>
+        <!-- Victory Progress -->
+        <Row Tag="TXT_KEY_VP_TT">
+            <Text>Progresso para a vitória</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_TITLE">
+            <Text>PROGRESSO PARA A VITÓRIA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_SCORE">
+            <Text>PLACAR</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_TURNS">
+            <Text>Turnos restantes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_CITIES">
+            <Text>Cidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_POPULATION">
+            <Text>População</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_LAND">
+            <Text>Terra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_WONDERS">
+            <Text>Maravilhas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_TECH">
+            <Text>Tecnologias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_FUTURE_TECH">
+          <Text>Tecnologia Futura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_TURNS_TT">
+            <Text>Turnos antes do fim do jogo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_TECH_PROGRESS">
+            <Text>Progresso tecnológico</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_TECH_SS">
+            <Text>Peças da Espaçonave:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DOMINATION_PROGRESS">
+            <Text>Jogadores que possuem sua Capital:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_POLICIES_FINISHED">
+            <Text>Número de ramificações de políticas sociais completadas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_UTOPIA_PROGRESS">
+            <Text>Progresso do Projeto Utopia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_VOTES_NEEDED">
+            <Text>Votos necessários para a vitória:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_VOTES">
+            <Text>Total de votos diplomáticos válidos:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES">
+            <Text>Votos para você:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_PROJECT_BUILT_BY">
+            <Text>{1_player} completou as Nações Unidas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_PROJECT_PLAYERS_COMPLETE">
+            <Text>{1_NumPlayers} {1: plural 1?jogador completou; other?jogadores completaram;} o {2_apolloProgram}.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_REMAINING">
+            <Text>{1_NumPlayers} {1: plural 1?jogador ainda está; other?jogadores ainda estão;} no controle de {1: plural 1?sua [ICON_CAPITAL]Capital; other?suas [ICON_CAPITAL]Capitais;}.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_SOCIAL_POLICIES">
+            <Text>{1_player} completou {2_completedNum} das {3_totalNum} ramificações das políticas sociais.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_DETAILS">
+            <Text>Detalhes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TITLE">
+            <Text>Total de votos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_TITLE">
+            <Text>Seus votos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_TITLE">
+            <Text>Libertada</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TITLE">
+            <Text>[ICON_CAPITAL]Libertada</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VP_DIPLO_CIV_RANK">
+            <Text>Rank da Civilização</Text>
+        </Row>
+        <!-- Diplo Overview -->
+        <Row Tag="TXT_KEY_NO_DIPLO_ACTIONS">
+            <Text>Nenhuma ação diplomática</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PACT_OF_COOPERATION">
+            <Text>Pacto de cooperação</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PACT_OF_SECRECY">
+            <Text>Pacto secreto com {1_ally} contra {2_enemy}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AT_WAR_WITH">
+            <Text>Em guerra com {1_enemy}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLIED_WITH">
+            <Text>Aliado com {1_ally}</Text>
+        </Row>            
+        <Row Tag="TXT_KEY_DO_NO_MAJORS">
+            <Text>Você não encontrou nenhuma civilização.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_NO_MINORS">
+            <Text>Você não encontrou nenhuma Cidade-Estado.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_NO_DEALS">
+            <Text>Você não fez nenhum acordo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_NO_HISTORY">
+            <Text>Você não teve nenhum contato diplomático.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_PACT">
+            <Text>Pacto defensivo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_AT_WAR">
+            <Text>Em guerra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_RESEARCH_AGREEMENT">
+            <Text>Acordo de Pesquisas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_OPEN_BORDERS">
+            <Text>Abrir fronteiras</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_WORKING_WITH">
+            <Text>Trabalhando com</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_WORKING_AGAINST">
+            <Text>Trabalhando contra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_WE_PROVIDE">
+            <Text>Nós fornecemos {1_misc}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_THEY_PROVIDE">
+            <Text>Eles fornecem {1_misc}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_TURNS">
+            <Text>Turnos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_TURN">
+            <Text>Turno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_ON_TURN">
+            <Text>No turno {1_turn}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_ENDED_ON" >
+            <Text>Terminou no:[NEWLINE]Turno {1_turn}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_ENDS_ON" >
+            <Text>Termina no:[NEWLINE]Turno {1_turn}</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_DO_DEAL_BEGAN">
+            <Text>Acordo iniciado no turno {1_turn}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_DEAL_LASTED">
+            <Text>Acordo durou {1} {1: plural 1?turno; other?turnos;}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_DEAL_DURATION">
+            <Text>Duração do Acordo: {1_turn} {1: plural 1?turno; other?turnos;}</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_DO_MAJORS">
+            <Text>Poderes Principais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_CITY_STATES">
+            <Text>Cidades-Estado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_YOUR_RELATIONS">
+            <Text>Suas relações</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_GLOBAL_RELATIONS">
+            <Text>Políticas globais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_DIPLO_LOG">
+            <Text>Histórico diplomático</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_DEAL_HISTORY">
+            <Text>Histórico de acordos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_CURRENT_DEALS">
+            <Text>Acordo atual</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DO_COMPLETE_DEALS">
+            <Text>Acordos concluídos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ABSTAIN">
+            <Text>Abster-se</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DIPLO_STATUS_TT">
+            <Text>A sua relação atual com {1_cityName} é de {2_statusType} : {3_curNumber}/{4_maxNumber} de [ICON_INFLUENCE]Influência.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_YOUR_SCORE">
+            <Text>Seu placar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_NAME">
+            <Text>Nome do jogo:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SORT_BY_SERVER_NAME">
+            <Text>Ordenar por nome do servidor</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SORT_BY_MEMBERS">
+            <Text>Ordenar por quantidade de membros</Text>
+        </Row>
+		<Row Tag="TXT_KEY_CURRENT_ERA">
+			<Text>Era atual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICIES_ADOPTED">
+			<Text>Políticas adotadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDERS_CONSTRUCTED">
+			<Text>Maravilhas construídas</Text>
+		</Row>
+        <!-- Economic Overview -->
+        <Row Tag="TXT_KEY_EO_GPT">
+            <Text>[ICON_GOLD]Ouro por turno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_TOTAL_GOLD">
+            <Text>Tesouro</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_NET_PER_TURN">
+            <Text>[ICON_GOLD] líquido / turno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_PENALTY">
+            <Text>Pontos de ciência perdidos / turno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_PENALTY_TT">
+            <Text>Penalidade por défice de ouro</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_GROSS">
+            <Text>[ICON_GOLD] bruto / turno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_TOTAL_EXPENSE">
+            <Text>Despesas totais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_INCOME">
+            <Text>Renda</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_CITIES">
+            <Text>Cidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_INCOME_CITIES">
+            <Text>[ICON_PLUS]Rendimento das cidades</Text>
+        </Row>
+		<Row Tag="TXT_KEY_EO_INCOME_CITIES_COLLAPSE">
+			<Text>[ICON_MINUS]Receita da Cidade</Text>
+		</Row>
+        <Row Tag="TXT_KEY_EO_DIPLOMACY">
+            <Text>Diplomacia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_DIPLOMACY_AND_UN_VOTE">
+            <Text>Diplomacia[NEWLINE][NEWLINE]{1_Num} {1: plural 1?turno; other?turnos;} antes da votação nas Nações Unidas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_INCOME_DIPLOMACY">
+            <Text>Rendimentos diplomáticos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_TRADE">
+            <Text>Rotas comerciais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_INCOME_TRADE">
+            <Text>Rendimento das rotas comerciais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS">
+            <Text>[ICON_PLUS] Detalhes - Rotas comerciais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS_COLLAPSE">
+            <Text>[ICON_MINUS] Detalhes - Rotas comerciais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_EXPENSES">
+            <Text>Despesas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_UNITS">
+            <Text>Unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_EX_UNITS">
+			<Text>Custo total de manutenção das suas unidades (militares e civis). O custo para cada unidade atualmente é {1_Num} de [ICON_GOLD], que aumenta com o número total e com o tempo ({2_Num} {2: plural 1?unidade; other?unidades;} no total).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_UNITS_NO_MAINT">
+			<Text>Você possui {1_Num} {1: plural 1?Míssil; other?Mísseis;} que não {1: plural 1?requer; other?requerem;} manutenção.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_BUILDINGS">
+            <Text>[ICON_PLUS]Edifícios</Text>
+        </Row>
+		<Row Tag="TXT_KEY_EO_BUILDINGS_COLLAPSE">
+			<Text>[ICON_MINUS]Edifícios</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_EX_BUILDINGS">
+			<Text>Custo total de manutenção dos seus edifícios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_BASE_BUILDINGS">
+			<Text>Este seria o custo total em um nível de dificuldade muito difícil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_MAINTENANCE_MOD">
+			<Text>Você paga {1_Num}% do custo normal em razão do atual nível de dificuldade do jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_IMPROVEMENTS">
+            <Text>Melhorias nos hexágonos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_EX_IMPROVEMENTS">
+            <Text>Despesas com melhorias nos hexágonos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_EX_DIPLOMACY">
+            <Text>Despesas diplomáticas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_RANGED">
+            <Text>Ordenar por ataque a distância</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_POPULATION">
+            <Text>Ordenar por população</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_NAME">
+            <Text>Ordenar por nome</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_STRENGTH">
+            <Text>Ordenar por força</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_PRODUCTION">
+            <Text>Ordenar por produção</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_GOLD">
+            <Text>Ordenar por ouro</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_RESEARCH">
+            <Text>Ordenar por pesquisa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_CULTURE">
+            <Text>Ordenar por cultura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_EO_SORT_FOOD">
+            <Text>Ordenar por alimento</Text>
+        </Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS">
+			<Text>Infelicidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOTAL">
+			<Text>Total</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LUXURY_HAPPINESS">
+			<Text>[ICON_PLUS]Recursos de Luxo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LUXURY_HAPPINESS_COLLAPSE">
+			<Text>[ICON_MINUS]Recursos de Luxo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS">
+			<Text>[ICON_PLUS]Edifícios da cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS_COLLAPSE">
+			<Text>[ICON_MINUS]Edifícios da cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE_ROUTES">
+			<Text>[ICON_PLUS]Rotas comerciais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE_ROUTES_COLLAPSE">
+			<Text>[ICON_MINUS]Rotas comerciais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_GARRISON">
+			<Text>[ICON_PLUS]Unidades alojadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_GARRISON_COLLAPSE">
+			<Text>[ICON_MINUS]Unidades alojadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUXURY_VARIETY">
+			<Text>Variedade dos Recursos de Luxo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUXURY_BONUS">
+			<Text>Bônus por Recursos de Luxo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUXURY_MISC">
+			<Text>Recursos de Luxo - Diversos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FREE_HAPP_PER_CITY">
+			<Text>[ICON_HAPPINESS_1] grátis por cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES">
+			<Text># de cidades ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_TT">
+			<Text>Cada cidade (não ocupada) produz 3 de [ICON_HAPPINESS_4]Infelicidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NORMALLY">
+			<Text>(Normalmente)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_HANDICAP_TT">
+			<Text>Em razão do atual nível de dificuldade do jogo, elas produzem {1_Num}% menos que o normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_MAP">
+			<Text>Em razão do atual tamanho do mapa, elas produzem {1_Num}% menos que o normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_CAPITAL">
+			<Text>Em razão das suas políticas adotadas, os [ICON_CITIZEN]cidadãos em sua Capital produzem {1_Num}% da quantidade normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_TRAIT">
+			<Text>Em razão da característica da sua Civilização, elas produzem {1_Num}% da quantidade normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_PLAYER">
+			<Text>Em razão dos bônus que seu Império adquiriu, elas produzem {1_Num}% da quantidade normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_SPECIALIST">
+			<Text>Em razão dos bônus que se Império adquiriu, cidadãos Especialistas produzem metade da quantidade normal de [ICON_HAPPINESS_4]Infelicidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_OCCUPIED_CITIES">
+			<Text># de cidades ocupadas ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_OCCUPIED_CITIES_TT">
+			<Text>Cada cidade [ICON_OCCUPIED]ocupada produz 5 de [ICON_HAPPINESS_4]Infelicidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UNHAPPINESS">
+			<Text>Cidadãos ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UNHAPPINESS_TT">
+			<Text>Cada [ICON_CITIZEN]cidadão em uma cidade (não ocupada) produz 1 de [ICON_HAPPINESS_4]Infelicidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCCUPIED_POP_UNHAPPINESS">
+			<Text>Cidadãos em cidades ocupadas ({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCCUPIED_POP_UNHAPPINESS_TT">
+			<Text>Cada [ICON_CITIZEN]cidadão em uma cidade [ICON_OCCUPIED]ocupada produz 1.34 de [ICON_HAPPINESS_4]Infelicidade</Text>
+        </Row>
+		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS">
+			<Text>[ICON_PLUS]Colapso da cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS_COLLAPSE">
+			<Text>[ICON_MINUS]Colapso da cidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_IS_OCCUPIED">
+			<Text>Cidade está [ICON_OCCUPIED]ocupada!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RESOURCES_AVAILBLE">
+			<Text>Recursos disponíveis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RESOURCES_TRADED">
+			<Text>Recursos negociados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LOCAL_RESOURCES">
+			<Text>Recursos locais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCES_IMPORTED">
+			<Text>Recursos importados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCES_EXPORTED">
+			<Text>Recursos exportados</Text>
+		</Row>
+        <!-- Civilopedia Screen-->
+        <Row Tag="TXT_KEY_PEDIA_TECHNOLOGY_NAME">
+            <Text>Nome da tecnologia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNLOCKED_UNIT_NAME">
+            <Text>Nome da unidade desbloqueada</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_REQUIRED_BUILDING_NAME">
+            <Text>Nome do edifício requerido</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RESOURCE_NAME">
+            <Text>Nome do recurso</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_LOCAL_RESOURCE_NAME">
+            <Text>Nome do recurso local</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_WORKER_ACTION_NAME">
+            <Text>"Nome da ação do trabalhador"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNLKED_PROJECT_NAME">
+            <Text>Nome do projeto desbloqueado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PROMOTION_NAME">
+            <Text>Nome da promoção</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_SPEC_NAME">
+            <Text>Nome do especialista</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_POLICY_NAME">
+            <Text>Nome da política</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_LEADER_NAME">
+            <Text>Nome do líder</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CIVILIZATION_NAME">
+            <Text>Nome da Civilização</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CIVILIZATION_SHORT_NAME">
+            <Text>Nome resumido da civilização</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CIVILIZATION_ADJECTIVE">
+            <Text>Adjetivo-Pátrio da Civilização</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TRAIT_NAME">
+            <Text>Característica única</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNIQUEUNIT_NAME">
+            <Text>Nome da unidade exclusiva</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNIQUEBLDG_NAME">
+            <Text>Nome do edifício exclusivo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNIQUEIMPR_NAME">
+            <Text>Nome da melhoria exclusiva</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_REPLACE_NAME">
+            <Text>Substituir o nome</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_NAME">
+            <Text>Nome das melhorias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_FEATURE_NAME">
+            <Text>Nome da característica</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TERRAIN_NAME">
+            <Text>Nome do terreno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TECH_SECTION">
+            <Text>Seção de tecnologia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SEARCH_BUTTON">
+            <Text>Procurar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SEARCH_NOT_FOUND">
+            <Text>O texto "{1_stringEntered}" não foi encontrado.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RESEARCH_LABEL">
+            <Text>Pesquisa científica</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_BLURB_TEXT">
+            <Text>[NEWLINE][TAB][TAB]"Assim como um patriota orgulhoso, não importa por onde vagamos, o primeiro e melhor país será sempre o nosso."[NEWLINE][TAB][TAB]  - Oliver Goldsmith[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_VERSION_TEXT">
+            <Text>Você está jogando o Civilization V v.1.0.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_VERSION_LABEL">
+            <Text>Informação da versão</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_HELP_TEXT">
+            <Text>Bem-vindo à Civilopédia! Aqui você encontrará descrições mais detalhadas de todos os aspectos do jogo. Utilize o campo "Procurar" para encontrar artigos de qualquer assunto. Clicando em qualquer aba da borda superior da tela você será levado às principais seções da Civilopédia. A barra de navegação do lado esquerdo irá exibir várias entradas de uma seção. Clique nestas entradas para ir direto ao assunto.[NEWLINE][NEWLINE]Na parte superior esquerda da tela, você encontrará os botões de Avançar e Voltar, para ajudá-lo a navegar nas páginas exibidas. Clique no botão "X", na parte superior direita da tela, para voltar ao jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_HELP_LABEL">
+            <Text>Civilopédia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_LABEL">
+            <Text>Página inicial da Civilopédia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL">
+            <Text>Página inicial - Conceitos do jogo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_HELP_TEXT">
+            <Text>Civilization V pesquisou toda a história humana - desde o mais profundo passado até os dias de amanhã. O "Conceito do Jogo" é a parte da Civilopédia que explica as partes mais importantes do jogo - de como construir e gerenciar suas cidades, como combater em guerras, como pesquisar tecnologias e assim por diante. A Barra de Navegação a sua esquerda lista os principais conceitos; clique em uma das seções para visualizar as subseções dentro delas.[NEWLINE][NEWLINE]Você poderá ler os Conceitos do Jogo do início ao fim, se você for a mãe do autor, mas, se esse não for o caso, sugerimos que leia conforme vá jogando, segundo suas necessidades. Se fizemos um bom trabalho, o tutorial do jogo será tudo o que você precisará para compreender como navegar no início do jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TECHNOLOGIES_HELP_TEXT">
+            <Text>A Tecnologia é extremamente importante para o sucesso ou fracasso de sua civilização. São 70 tecnologias no jogo, e cada uma oferece vantagens importantes. Algumas tecnologias permitirão construir novos edifícios e maravilhas, outras aumentarão a produção dos seus terrenos e minas, outras permitirão a construção de ferrovias ou armamentos avançados.[NEWLINE][NEWLINE]É extremamente importante que sua civilização se mantenha competitiva na corrida tecnológica. Se ficar para trás um ou mais passos, poderá encarar o mesmo dilema dos Astecas que enfrentaram mosquetes e canhões espanhóis com espadas e estilingues. E como a própria história nos mostra, o aprimoramento avançado de tecnologias terá sempre sucesso nesses encontros.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNITS_HELP_TEXT">
+			<Text>As Unidades representam a parte móvel da sua Civilização, os trabalhadores em suas colheitas e mineração, os colonizadores que constroem cidades, as Grandes Pessoas que sozinhas podem mudar o rumo de um país, por meio de sua genialidade ou criatividade. E claro, as Unidades Militares do seu Império.[NEWLINE][NEWLINE]A maioria das unidades é construída ou treinada nas cidades. Use-as com sabedoria. Certifique-se sempre de possuir Unidades de Combate suficientes para realizar tarefas militares ou para defender suas cidades, mas não extrapole, senão você terá custos com mendigos em sua Civilização. Atualize sempre que puder suas Unidades Militares e não hesite em destruí-las caso fique sobrecarregado. Da mesma forma, tenha trabalhadores suficientes para o trabalho, mas cuidado pois são caros para manter. Fique de olho em suas finanças.[NEWLINE][NEWLINE]Sempre no início do jogo envie unidades para explorar o mundo! Se você não souber o que se passa ao seu redor, poderá ter surpresas desagradáveis de possíveis vizinhos gananciosos!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PROMOTIONS_HELP_TEXT">
+            <Text>Suas unidades ganharão promoções através de combates e também quando são treinadas em cidades com Quartéis ou outros edifícios militares. Estas promoções melhoram significativamente a capacidade de combate, aumentam a circulação ou a taxa de cura das suas unidades. Uma unidade que possui várias promoções é valiosíssima. Use-as com sabedoria nas batalhas e as atualize sempre que possível.</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PEDIA_BUILDINGS_HELP_TEXT">
+            <Text>Edifícios podem melhorar significativamente a riqueza, população, defesa ou produtividade de uma cidade. Alguns melhoram a qualidade de algumas unidades militares construídas ali, enquanto outros permitirão que uma cidade costeira produza alimentos a partir do oceano.[NEWLINE][NEWLINE]É importante a construção de edifícios. Se sua civilização está envolvido em alguma batalha, é natural que concentre toda sua produção em Unidades Militares, porém se insistir nesta ideia por muito tempo, suas cidades ficarão inferiores a outras de civilizações mais desenvolvidas, colocando você em grande desvantagem no decorrer do jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_WONDERS_HELP_TEXT">
+            <Text>Maravilhas são construções extraordinárias. Tão singulares que fazem uma Civilização ser lembrada por toda história. Maravilhas podem ocupar a mente e elevar o espírito.[NEWLINE][NEWLINE]As Pirâmides, Catedral de Notre Dame e Stonehenge são exemplos de Maravilhas. Maravilhas requerem bastante tempo e energia para serem construídas, porém uma vez concluídas, fornecem muitos benefícios a sua civilização.[NEWLINE][NEWLINE]Existem três tipos básicos de Maravilhas: do Mundo, Nacionais e Projeto de Maravilha. Somente uma cópia de uma Maravilha do Mundo poderá ser construída em qualquer lugar em um determinado jogo. Maravilhas Nacionais são menos exclusivas, podendo cada país construir uma (e apenas uma) cópia.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_SOCIAL_POL_HELP_TEXT">
+            <Text>Políticas Sociais representam a forma pela qual você escolheu governar seu povo. Você será um governante autoritário, sacrificando um pouco da liberdade em favor da disciplina e aumento da produtividade? Você guiará sua civilização para ter um exército forte ou concentrará seus esforços na expansão cultural? Será um monarca ou um democrata?[NEWLINE][NEWLINE]As Políticas Sociais possuem efeitos concretos no jogo. Algumas poderão aumentar a produção das suas cidades, outras gerar mais riquezas ou ainda criar unidades militares mais eficazes.[NEWLINE][NEWLINE]Não há certo ou errado em suas escolhas nas Políticas Sociais. Uma política pode ser circunstancialmente melhor que a outra (suponhamos que se você estiver rodeado de civilizações agressivas, poderá tomar um caminho diferente se estivesse relativamente isolado), podendo se adequar melhor ao seu estilo de jogo. Experimente-as e veja.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
+            <Text>Por vezes ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade colocava sua cabeça e ombros acima do resto. Neste jogo, esses visionários são chamados "Grandes Pessoas". [NEWLINE] [NEWLINE] Existem cinco tipos diferentes de Grandes Pessoas no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros e Grandes Generais. Cada um tem uma habilidade especial. [NEWLINE] [NEWLINE] Sua civilização adquire Grandes Pessoas por meio da construção de certos edifícios e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram e muito a chegada de Grandes Pessoas. Equilibrar a necessidade de alimentos e o desejo de Grandes Pessoas é um desafio importante da gestão da cidade.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CIVS_HELP_TEXT">
+            <Text>Há uma grande variedade de civilizações e líderes a serem escolhidos no jogo. Cada um possui suas próprias unidades especiais, edifícios e/ou habilidades - a América tem o Miliciano e o {TXT_KEY_UNIT_AMERICAN_B17}, Roma recebeu a Legião e a Balista, a Rússia o Cossaco e Krepost. Aprender os pontos fortes e fracos de cada civilização torna o jogo mais divertido, tornando-o diferente a cada vez. Se você jogar com o Egito, utilizando a mesma estratégia de quando joga com a Índia, você pode não ter entendido muito bem o sentido do jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CSTATES_HELP_TEXT">
+            <Text>Cidades-Estado representam as pequenas civilizações que ocupam o mundo. Cidades-Estado são exatamente isso: Estados centralizados em uma cidade. Não podem criar Colonizadores e, portanto, não podem construir novas cidades (seu território pode ser expandido, porém não pode possuir mais que uma cidade). A exceção para isso é pela conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]A exceção para isso é a conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]Se você se tornar amigo de uma Cidade-Estado, ela poderá fornecer alimentos, cultura ou mesmo unidades militares. Caso você ataque uma Cidade-Estado, poderá capturá-la, adicionando-a em seu Império. (Mas tenha cautela, você poderá fazer com que as outras Cidades-Estado declarem guerra a sua Civilização.)</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PEDIA_TERRAIN_HELP_TEXT">
+            <Text>Em Civilization V, o mundo é constituído por "hexágonos" hexagonais (chamados ocasionalmente de hexa ou espaço). Estes hexágonos possuem uma variedade de "Tipos de Terreno" - desertos, planícies, pradarias, montanhas e assim por diante - e muitos incluem também "características" como as florestas e selvas. Estes elementos ajudam a definir sua utilidade às cidades próximas assim como a facilidade ou dificuldade de se locomover entre elas. Além disso, poderão impactar em combates que lá ocorrem.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_HELP_TEXT">
+			<Text>As Características são elementos do terreno ou da vegetação sobre o hexágono. (Exemplo: os hexágonos de pasto poderão conter florestas ou pântanos sobre eles). Modificando essas características, você poderá alterar a produtividade e os "pontos de movimentos" (MP) que uma unidade gasta para passar pelo hexágono. As Características poderão fornecer também bônus de combate defensivo ou sanções a unidades inimigas ocupantes daquele hexágono.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_LABEL">
+            <Text>Características</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TERRAIN_LABEL">
+            <Text>Terreno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RESOURCES_HELP_TEXT">
+            <Text>O mundo está recheado de vários "recursos" que farão sua Civilização crescer e se desenvolver, por exemplo: o gado, trigo, carvão, ferro, baleias e petróleo. Durante o jogo, você vai querer construir suas cidades próximas a estes recursos e aproveitar as bonificações os mesmos. Alguns Recursos - peixe e ouro, por exemplo - são visíveis bem no início do jogo. Já outros - como alumínio, petróleo ou urânio - estarão ocultos até que sua Civilização domine a tecnologia apropriada.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_HELP_TEXT">
+            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, minas a céu aberto, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TECH_PAGE_LABEL">
+            <Text>Página Inicial - Tecnologias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNITS_PAGE_LABEL">
+            <Text>Página Inicial - Unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PROMOTIONS_PAGE_LABEL">
+            <Text>Página Inicial - Promoções</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_BUILDINGS_PAGE_LABEL">
+            <Text>Página Inicial - Edifícios</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_WONDERS_PAGE_LABEL">
+            <Text>Página Inicial - Maravilhas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_POLICIES_PAGE_LABEL">
+            <Text>Página Inicial - Políticas Sociais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PEOPLE_PAGE_LABEL">
+            <Text>Especialistas e Grandes Pessoas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CIVILIZATIONS_PAGE_LABEL">
+            <Text>Página Inicial - Civilizações e Líderes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CITY_STATES_PAGE_LABEL">
+            <Text>Página Inicial - Cidades-Estado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TERRAIN_PAGE_LABEL">
+            <Text>Página Inicial - Terrenos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RESOURCES_PAGE_LABEL">
+            <Text>Página Inicial - Recursos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_IMPROVEMENTS_PAGE_LABEL">
+            <Text>Página Inicial - Melhorias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_GCONCEPTS">
+            <Text>[NEWLINE][TAB][TAB]"O absurdo é o conceito essencial e a primeira verdade."[NEWLINE][TAB][TAB]  - Albert Camus [NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_TECHS">
+            <Text>[NEWLINE][TAB][TAB]"O cérebro é como um músculo. Quando está em uso, sentimos-nos muito bem. O saber é revigorante."[NEWLINE][TAB][TAB]  - Carl Sagan[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_UNITS">
+            <Text>[NEWLINE][TAB][TAB]"O destino de milhões que ainda irão nascer depende, abaixo de Deus, da coragem e conduta de um exército. [...] Temos, portanto, que decidir vencer ou morrer."[NEWLINE][TAB][TAB]  - George Washington[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_PROMOTIONS">
+            <Text>[NEWLINE][TAB][TAB]"Cada soldado francês carrega um bastão de marechal na mochila."[NEWLINE][TAB][TAB]  - Napoleão Bonaparte[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_BUILDINGS">
+            <Text>[NEWLINE][TAB][TAB]"O físico pode enterrar seus erros, já o arquiteto pode apenas aconselhar seu cliente a plantar videiras."[NEWLINE][TAB][TAB]  - Frank Lloyd Wright[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_WONDERS">
+            <Text>[NEWLINE][TAB][TAB]"Inúmeras são as maravilhas do mundo, mas nada é mais maravilhoso do que o homem."[NEWLINE][TAB][TAB]  - Sófocles [NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_POLICIES">
+            <Text>[NEWLINE][TAB][TAB]"Honestidade é a melhor política."[NEWLINE][TAB][TAB]  - Miguel de Cervantes[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_PEOPLE">
+            <Text>[NEWLINE][TAB][TAB]"Não tenha medo da grandeza: alguns nascem grandes, outros conseguem a grandeza e alguns a tem lançada sobre eles. "[NEWLINE][TAB][TAB]  - William Shakespeare[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_CIVS">
+            <Text>[NEWLINE][TAB][TAB]"O verdadeiro teste de uma civilização não é o censo, nem o tamanho das suas cidades, nem suas culturas, mas o tipo de homem que nasce naquele país."[NEWLINE][TAB][TAB]  - Ralph Waldo Emerson[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_CITYSTATES">
+            <Text>[NEWLINE][TAB][TAB]"A cidade é a professora do homem."[NEWLINE][TAB][TAB]  - Simonides[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_TERRAIN">
+            <Text>[NEWLINE][TAB][TAB]"Aguente firme. Não atire enquanto não atirarem, mas se quiserem guerra, iniciemos aqui"[NEWLINE][TAB][TAB]  - John Parker[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_RESOURCES">
+            <Text>[NEWLINE][TAB][TAB]"Não procure vida na imortalidade, mas desfrute ao máximo todos os recursos a sua volta"[NEWLINE][TAB][TAB]  - Pindar[NEWLINE][TAB]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_IMPROVEMENTS">
+            <Text>[NEWLINE][TAB][TAB]"Se eu puder de alguma forma contribuir com a diversão ou com a melhora do meu país, irei deixá-lo [...] com a secreta satisfação de não ter vivido em vão."[NEWLINE][TAB][TAB]  - Joseph Addison[NEWLINE][TAB]</Text>
+        </Row>
+        <!-- Pedia -->
+        <Row Tag="TXT_KEY_CIVILOPEDIA">
+            <Text>CIVILOPÉDIA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SEARCH">
+            <Text>Procurar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_1_LABEL">
+            <Text>Página da Civilopédia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_2_LABEL">
+            <Text>Conceitos do jogo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_3_LABEL">
+            <Text>Tecnologias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_4_LABEL">
+            <Text>Unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_5_LABEL">
+            <Text>Promoções</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_6_LABEL">
+            <Text>Edifícios</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_7_LABEL">
+            <Text>Maravilhas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_8_LABEL">
+            <Text>Políticas Sociais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_9_LABEL">
+            <Text>Especialistas e Grandes Pessoas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_10_LABEL">
+            <Text>Civilizações e Líderes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_11_LABEL">
+            <Text>Cidades-Estado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_12_LABEL">
+            <Text>Terrenos e Características</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_13_LABEL">
+            <Text>Recursos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CATEGORY_14_LABEL">
+            <Text>Melhorias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_COST_LABEL">
+            <Text>Custo:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_IMPASSABLE">
+            <Text>Intransitável</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_YIELD_LABEL">
+            <Text>Fornece:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_MOUNTAINADJYIELD_LABEL">
+            <Text>Bônus de montanhas próximas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_COMBATMOD_LABEL">
+            <Text>Modificador de combate:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_NO_YIELD">
+            <Text>Não fornece nada</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TITLES_LABEL">
+            <Text>Títulos:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_LIVED_LABEL">
+            <Text>Viveu em:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_FACTOID">
+            <Text>Fato Curioso</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_COMBAT_LABEL">
+            <Text>Combate:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RANGEDCOMBAT_LABEL">
+            <Text>Combate a Distância:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RANGE_LABEL">
+            <Text>Alcance:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_MOVEMENT_LABEL">
+            <Text>Movimento:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PREREQ_ERA_LABEL">
+            <Text>Somente na:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_LEADERS_LABEL">
+            <Text>Líderes:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CIVILIZATIONS_LABEL">
+            <Text>Civilização:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TRAITS_LABEL">
+            <Text>Características exclusivas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNIQUEUNIT_LABEL">
+            <Text>Unidades exclusivas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNIQUEBLDG_LABEL">
+            <Text>Edifícios exclusivos:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNIQUEIMPRV_LABEL">
+            <Text>Melhorias exclusivas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_POLICYBRANCH_LABEL">
+            <Text>Ramificação política:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PREREQ_POLICY_LABEL">
+            <Text>Políticas necessárias:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_FREEPROMOTIONS_LABEL">
+            <Text>Habilidades:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_REQ_PROMOTIONS_LABEL">
+            <Text>Promoções necessárias:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PREREQ_TECH_LABEL">
+            <Text>Tecnologias necessárias:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_OBSOLETE_TECH_LABEL">
+            <Text>Torna-se obsoleto com:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_REVEAL_TECH_LABEL">
+            <Text>Revelado por:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_LEADS_TO_TECH_LABEL">
+            <Text>Libera as tecnologias:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_UNIT_UNLOCK_LABEL">
+            <Text>Unidades desbloqueadas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_BLDG_UNLOCK_LABEL">
+            <Text>Edifícios desbloqueados:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PROJ_UNLOCK_LABEL">
+            <Text>Projetos desbloqueados:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RESRC_RVL_LABEL">
+            <Text>Recursos revelados:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_REQ_RESRC_LABEL">
+            <Text>Recursos necessários:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_IMPROVES_RESRC_LABEL">
+            <Text>Recursos explorados:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_LOCAL_RESRC_LABEL">
+            <Text>Recursos locais necessários:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_REQ_BLDG_LABEL">
+            <Text>Edifícios necessários:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_MAINT_LABEL">
+            <Text>Manutenção:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HAPPINESS_LABEL">
+            <Text>Felicidade:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_CULTURE_LABEL">
+            <Text>Cultura:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_DEFENSE_LABEL">
+            <Text>Defesa:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_FOOD_LABEL">
+            <Text>Alimento:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_GOLD_LABEL">
+            <Text>Ouro:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_SCIENCE_LABEL">
+            <Text>Ciência:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_PRODUCTION_LABEL">
+            <Text>Produção:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_GP_LABEL">
+            <Text>Grande Pessoa:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_COMBATTYPE_LABEL">
+            <Text>Tipo de combate:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_WORKER_ACTION_LABEL">
+            <Text>Ações permitidas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_REPLACES_LABEL">
+            <Text>Substitui:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_ALWAYS_VISIBLE">
+            <Text>Sempre visível</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_FEATURES_LABEL">
+            <Text>Características encontradas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_IMPROVEMENTS_LABEL">
+            <Text>Explorado por:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_TERRAINS_LABEL">
+            <Text>Encontrado em:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RESOURCESFOUND_LABEL">
+            <Text>Recursos Encontrados:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_FOUNDON_LABEL">
+            <Text>Pode ser construído em:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_SPEC_LABEL">
+            <Text>Especialistas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RELATED_ARTICLES_LABEL">
+            <Text>Artigos relacionados:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_GAME_INFO_LABEL">
+            <Text>Informações do jogo:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_QUOTE_LABEL">
+            <Text>Citação:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_SOUND_BITE_LABEL">
+            <Text>Reproduzir citação</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_ABILITIES_LABEL">
+            <Text>Habilidades especiais:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_HISTORICAL_LABEL">
+            <Text>Informações históricas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_STRATEGY_LABEL">
+            <Text>Estratégia:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_SUMMARY_LABEL">
+            <Text>Resumo:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_EXTENDED_LABEL">
+            <Text>Informação estendida:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_DNOTES_LABEL">
+            <Text>Notas do designer:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_MOVECOST_LABEL">
+            <Text>Custo de movimentação:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_RELATED_IMAGES_LABEL">
+            <Text>Imagens relacionadas:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_SECTION_1">
+            <Text>Maravilhas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_SECTION_2">
+            <Text>Maravilhas Nacionais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_SECTION_3">
+            <Text>Projetos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEOPLE_SECTION_1">
+            <Text>Especialistas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEOPLE_SECTION_2">
+            <Text>Grande Pessoa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIVILIZATIONS_SECTION_1">
+            <Text>Civilizações</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIVILIZATIONS_SECTION_2">
+            <Text>Líderes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MINOR_TRAIT_CULTURED">
+            <Text>Cidades-Estado Culturais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MINOR_TRAIT_MILITARISTIC">
+            <Text>Cidades-Estado Militarizadas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MINOR_TRAIT_MARITIME">
+            <Text>Cidades-Estado Marítimas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TERRAIN_SECTION_1">
+            <Text>Terrenos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TERRAIN_SECTION_2">
+            <Text>Características</Text>
+        </Row>
+        <Row Tag="TXT_KEY_RESOURCES_SECTION_0">
+            <Text>Recursos bônus</Text>
+        </Row>
+        <Row Tag="TXT_KEY_RESOURCES_SECTION_1">
+            <Text>Recursos Estratégicos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_RESOURCES_SECTION_2">
+            <Text>Recursos de Luxo</Text>
+        </Row>
+        <!-- Misc Pedia help text-->
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_1">
+            <Text>Cidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_2">
+            <Text>Regras de combate</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_3">
+            <Text>Terreno e Recursos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_4">
+            <Text>Recursos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_5">
+            <Text>Construindo melhorias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_6">
+            <Text>Alimento e Crescimento</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_7">
+            <Text>Tecnologia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_8">
+            <Text>Cultura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_9">
+            <Text>Diplomacia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_10">
+            <Text>Felicidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_11">
+            <Text>Névoa da guerra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_12">
+            <Text>Políticas Sociais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_13">
+            <Text>Ouro e a Economia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_14">
+            <Text>Assessores</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_15">
+            <Text>Grandes Pessoas e Especialistas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_16">
+            <Text>Cidades-Estado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_17">
+            <Text>Movimentação da unidade</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_18">
+            <Text>Regras de unidades aéreas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_19">
+            <Text>Ruínas e Bárbaros</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_20">
+            <Text>Unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_21">
+            <Text>Vitória</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_1">
+            <Text>Promoções de Combate (Físico)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_2">
+            <Text>Promoções de Combate (Distância)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_3">
+            <Text>Promoções navais</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_4">
+            <Text>Promoções na saúde</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_5">
+            <Text>Promoções de escolta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_6">
+            <Text>Promoções aéreas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_7">
+            <Text>Promoções compartilhadas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTIONS_SECTION_8">
+            <Text>Atributos da unidade</Text>
+        </Row>
+        <!-- Options Menu-->
+        <Row Tag="TXT_KEY_INTERFACE_OPTIONS">
+            <Text>OPÇÕES DE INTERFACE</Text>
+        </Row>
+        <Row Tag="TXT_KEY_VIDEO_OPTIONS">
+            <Text>OPÇÕES DE VÍDEO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AUDIO_OPTIONS">
+            <Text>OPÇÕES DE ÁUDIO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GAME_OPTIONS">
+            <Text>OPÇÕES DE JOGO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AUTO_UNIT_CYCLE">
+            <Text>Percorrer automaticamente unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AUTO_UNIT_CYCLE_TT">
+            <Text>Selecionar automaticamente a próxima unidade após ordens serem dadas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BIND_MOUSE">
+            <Text>Prender mouse</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BIND_MOUSE_TT">
+            <Text>Prender o mouse à janela do jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALWAYS">
+            <Text>Sempre</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEVER">
+            <Text>Nunca</Text>
+        </Row>
+        <Row Tag="TXT_KEY_FULLSCREEN_ONLY">
+            <Text>Só em tela cheia</Text>
+        </Row>        
+        <Row Tag="TXT_KEY_OPSCREEN_ONE_UNIT">
+            <Text>Modelos únicos de unidades</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_ONE_UNIT_TT">
+            <Text>Exibir uma unidade em cada grupo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_ADVISOR_COUNSEL">
+            <Text>Janela de consulta aos assessores</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_ADVISOR_COUNSEL_TT">
+            <Text>Conselhos periódicos dos seus assessores</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_QUICK_COMBAT">
+            <Text>Combate rápido</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_QUICK_COMBAT_TT">
+            <Text>Combate sem animações</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL">
+            <Text>Nível Assessores</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL_TT">
+            <Text>Quantidade de conselhos que você receberá dos seus assessores.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_RESET_TUTORIAL">
+            <Text>Resetar as mensagens dos assessores</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_RESET_TUTORIAL_TT">
+            <Text>Reinicia o sistema de assessoramento de modo que receberá todas as mensagens de seus assessores.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AUDIO_QUALITY">
+            <Text>Qualidade de áudio</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REPLACE">
+          <Text>Trabalhadores automáticos não substituem melhorias</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REPLACE_TT">
+          <Text>Trabalhadores automáticos não alteram melhorias existentes.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REMOVE_FEATURES">
+          <Text>Trabalhadores automáticos não removem características</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REMOVE_FEATURES_TT">
+          <Text>Trabalhadores em modo automático não removem características como florestas, selvas ou pântanos, exceto quando melhorando um recurso de luxo ou estratégico.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_NO_CITIZEN_WARNING">
+            <Text>Não exibir tela de atenção aos cidadãos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_NO_REWARD_POPUPS">
+            <Text>Não exibir tela de recompensas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_NO_REWARD_POPUPS_TT">
+            <Text>Desabilitar tela de recompensa (tecnologia, ruínas antigas etc.)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_NO_TILE_RECOMMENDATIONS">
+            <Text>Não recomendar hexágono</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_NO_TILE_RECOMMENDATIONS_TT">
+            <Text>Desabilitar no mapa recomendações aos Colonizadores e Trabalhadores selecionados.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_CIVILIAN_YIELDS">
+            <Text>Exibir rendimento de unidades civis</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_CIVILIAN_YIELDS_TT">
+            <Text>Exibir no mapa informações do rendimento quando unidades civis forem selecionadas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_NO_BASIC_HELP">
+            <Text>Não exibir dicas básicas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_NO_BASIC_HELP_TT">
+            <Text>Condensar muitas dicas em uma única informação, retirando ajuda explicativa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN">
+            <Text>Encerrar automaticamente o turno no modo multijogador</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN_TT">
+            <Text>Habilitar autoturnos cíclicos em jogos de multijogador.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN">
+            <Text>Encerrar automaticamente o turno no modo um jogador</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN_TT">
+            <Text>Habilitar autoturnos cíclicos no modo um jogador.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_END_TURN_TIMER_LENGTH">
+            <Text>Duração para o fim de um turno: 10 segundos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_1_TIMER_LENGTH">
+            <Text>Tempo de Info no Mapa: {1_Num} segundos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_1_TIMER_LENGTH_TT">
+            <Text>Número de segundos de exibição das dicas no mapa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_2_TIMER_LENGTH">
+            <Text>Duração da exibição de dicas nível 2: {1_Num} segundos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_2_TIMER_LENGTH_TT">
+            <Text>Número de segundos de exibição das dicas do nível 2 no mapa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES">
+            <Text>Turnos entre auto gravação:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES_TT">
+            <Text>A periodicidade em que o jogo salvará automaticamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT">
+            <Text>Número máximo de auto gravações:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT">
+            <Text>Número máximo de auto gravações mantidas até que o jogo comece apagar as antigas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI">
+            <Text>Tamanho automático da interface</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI_TT">
+            <Text>O jogo captura o tamanho que se encaixa na resolução da tela.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_USE_SMALL_UI">
+            <Text>Usar escala menor na interface</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_USE_SMALL_UI_TT">
+            <Text>Força o game a usar uma versão menor de interface.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_RELOAD_UI">
+            <Text>Atualizar interface</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_RELOAD_UI_TT">
+            <Text>Aplicar a mudança de escala na interface</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_HIGH_DETAIL_STRAT_VIEW">
+            <Text>Aumentar detalhes na visão estratégica</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_HIGH_DETAIL_STRAT_VIEW_TT">
+            <Text>A visão estratégia usará resolução com alta qualidade de textura, permitindo um zoom maior. Isso vai exigir mais do seu computador.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SCORE_LIST">
+            <Text>Lista de Pontuação em modo Um Jogador</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SCORE_LIST_TT">
+            <Text>Exibe a lista simples de classificação em jogos de um jogador.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_CAMERA_ZOOM">
+            <Text>Alternar modo de cursor de zoom</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_CAMERA_ZOOM_TT">
+            <Text>Quando aplicado o zoom, a câmera irá aproximar sem que o cursor fique ancorado na imagem.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SHOW_ALL_POLICY_INFO">
+            <Text>Exibir todas as informações políticas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SHOW_ALL_POLICY_INFO_TT">
+            <Text>Todas as políticas serão exibidas na tela de Políticas Sociais, independentemente da Era e das ramificações desbloqueadas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_LEADER_QUALITY">
+            <Text>Qualidade na cena do líder</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_RESOLUTION">
+            <Text>Resolução da tela</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_FULLSCREEN">
+            <Text>Tela cheia</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_RESTART_REQ_TT">
+            <Text>Você terá que reiniciar para que as alterações sejam aplicadas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_VSYNC">
+            <Text>VSync</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MINIMIZE_GRAY_TILES">
+            <Text>Minimizar Hexágonos Cinzas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MINIMIZE_GRAY_TILES_TT">
+            <Text>Minimiza hexágonos cinzas enquanto percorre o mapa. Isso pode causar sobressaltos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_FADE_SHADOWS">
+            <Text>Permitir Esmaecimento de Sombra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_FADE_SHADOWS_TT">
+            <Text>Permite que sombras desbotem em zooms distantes. Melhora o desempenho nestes níveis de zoom.</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_BLOCK_LOAD">
+            <Text>Aguardar carregamento total do terreno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_BLOCK_LOAD_TT">
+            <Text>O jogo ficará na tela de carregamento até que todo o terreno no mundo seja gerado graficamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_BORDERS">
+            <Text>Fronteiras culturais avançadas</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_BORDERS_TT">
+            <Text>Permite fronteiras culturais avançadas. Isso usará mais recursos do hardware de seu computador.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MSAA">
+            <Text>Anti-Aliasing</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MSAA_OFF">
+            <Text>DESL</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MSAA_2X">
+            <Text>2X MSAA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MSAA_4X">
+            <Text>4X MSAA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MSAA_8X">
+            <Text>8X MSAA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SKIP_INTRO_VIDEO">
+            <Text>Pular vídeo de introdução</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_OVERLAY_DETAIL">
+            <Text>Detalhe na sobreposição</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SHADOW_QUALITY">
+            <Text>Qualidade da sombra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_FOW_QUALITY">
+            <Text>Qualidade da névoa de guerra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_DETAIL_LEVEL">
+            <Text>Detalhes do terreno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_TESS_LEVEL">
+            <Text>Nível do mosaico do terreno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_SHADOW_QUALITY">
+            <Text>Qualidade do mosaico</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_WATER_QUALITY">
+            <Text>Qualidade da água</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TEXTURE_QUALITY">
+            <Text>Qualidade da textura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_VDOP_DISABLED">
+            <Text>Opções de vídeo não poderão ser alteradas durante o jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_VDOP_RESTART">
+            <Text>Opções de vídeo não terão efeito enquanto o jogo não for reiniciado.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_APPLY_RESOLUTION">
+            <Text>Aplicar resolução</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_APPLY_RESOLUTION_TT">
+            <Text>Aplicar alterações na resolução</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_DEFAULTS_BUTTON">
+            <Text>Padrão</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_VIDEO_VERIFY">
+            <Text>Você deseja manter as alterações?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_CONFIRM">
+            <Text>Você tem certeza?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_DEFAULTS_BUTTON_TT">
+            <Text>Resetar configurações para os valores padrões.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_CANCEL_BUTTON">
+            <Text>Cancelar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_CANCEL_BUTTON_TT">
+            <Text>Retornar para Menu Principal</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_APPLY_BUTTON">
+            <Text>Aplicar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_APPLY_BUTTON_TT">
+            <Text>Salvar opções</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SAVE_BUTTON">
+            <Text>Aceitar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SAVE_BUTTON_TT">
+            <Text>Salva as opções e retorna para o Menu.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_RESOLUTION_TIMER">
+            <Text>Você deseja manter esta resolução? (Será resetado ao esgotar o tempo)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_LANGUAGE_TIMER">
+            <Text>Alterar o idioma irá recarregar toda interface. De acordo? </Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MUSIC_SLIDER">
+            <Text>Volume da música: {1_Num}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SF_SLIDER">
+            <Text>Volume dos efeitos sonoros: {1_Num}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SPEECH_SLIDER">
+            <Text>Volume da fala: {1_Num}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_AMBIANCE_SLIDER">
+            <Text>Volume de ambiente: {1_Num}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_END_TURN_TIMER_SET">
+            <Text>Duração do turno:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SETTINGS_OFF">
+            <Text>Desligado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SETTINGS_LOW">
+            <Text>Baixo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SETTINGS_MEDIUM">
+            <Text>Médio</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SETTINGS_HIGH">
+            <Text>Alta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SETTINGS_MINIMUM">
+            <Text>Mínima</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_HIGH">
+            <Text>Jogador experiente</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_MEDIUM">
+            <Text>Novo em Civ 5</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LOW">
+            <Text>Novo em Civ.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_OFF">
+            <Text>Desligar conselhos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SELECT_LANG">
+            <Text>Linguagem escrita</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SELECT_SPOKEN_LANG">
+            <Text>Linguagem falada</Text>
+        </Row>
+        <!--Misc UI Text Overlay and  Help text-->
+        <Row Tag="TXT_KEY_RESEARCH_ONGOING">
+            <Text>PESQUISANDO:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_RESEARCH_FINISHED">
+            <Text>CONCLUÍDO:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ENABLE_PRODUCITON_CONVERSION">
+            <Text>Habilita a conversão de [ICON_PRODUCTION]Produção para {1_ResourceName:textkey}.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_FASTER_MOVEMENT">
+            <Text>Movimento rápido em {1_TerrainName:textkey}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_YIELD_IMPROVED">
+            <Text>{1: gender masculine?{1: plural 1?O; other?Os;}; feminine?{1: plural 1?A; other?As;};} {1_ImprovementName:textkey} {1: plural 1?melhora; other?melhoram;} o rendimento de {2_YieldType:textkey} em {3_Num}.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NO_FRESH_WATER">
+            <Text>{2_YieldType:textkey} {1: gender masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_ImprovementName:textkey} {2: plural 1?aumenta; other?aumentam;} em {3_Num} nos hexágonos SEM acesso a água.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_FRESH_WATER">
+            <Text>{2_YieldType:textkey} {1: gender masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_ImprovementName:textkey} {2: plural 1?aumenta; other?aumentam;} em {3_Num} nos hexágonos com acesso à água.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_FASTER_EMBARKED_MOVEMENT">
+            <Text>Movimento de embarque mais rápido.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLOWS_EMBARKING">
+            <Text>Todas as unidades terrestres poderão embarcar e se mover nos hexágonos aquáticos. Todas as unidades que entrarem em território amigo ganharão essa habilidade.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLOWS_CROSSING_OCEANS">
+            <Text>Permite unidades embarcadas se movimentarem em oceanos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLOWS_OPEN_BORDERS">
+            <Text>Permite realizar Tratados de Abertura de Fronteiras.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLOWS_DEFENSIVE_PACTS">
+            <Text>Permite realizar Pactos Defensivos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLOWS_RESEARCH_AGREEMENTS">
+            <Text>Permite realizar Acordos de Pesquisa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLOWS_TRADE_AGREEMENTS">
+            <Text>Permite realizar Acordos Comerciais.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ALLOWS_BRIDGES">
+            <Text>Permite pontes sobre rios.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_REVEALS_ENTIRE_MAP">
+            <Text>Revela o mapa inteiro.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_REVEALS_RESOURCE_ON_MAP">
+            <Text>Revela {@1_ResourceName} no mapa.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TECH_NOT_YET_AVAILABLE">
+            <Text>Ainda não disponível</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TECH_AVAILABLE">
+            <Text>Disponível</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TECH_CURR_RESEARCH">
+            <Text>Pesquisando</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TECH_RESEARCHED">
+            <Text>Pesquisado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROGRESS_TOWARDS">
+            <Text>Avance para conseguir {1_name}</Text>
+        </Row>
+        <!--In Game Strategic Options -->
+        <Row Tag="TXT_KEY_STRAT_ICON_MODE">
+            <Text>Modo ícone:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_STRAT_OVERLAY">
+            <Text>Sobreposição ativa: </Text>
+        </Row>
+        <Row Tag="TXT_KEY_STRAT_FEATURES">
+            <Text>Exibir características</Text>
+        </Row>
+        <Row Tag="TXT_KEY_STRAT_FOW">
+            <Text>Exibir névoa de guerra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_STRAT_MAP_OPTIONS_TT">
+            <Text>Liga/Desliga o menu de opções do mapa</Text>
+        </Row>
+        <!--In Game Menu Buttons -->
+        <Row Tag="TXT_KEY_MENU_QUICK_SAVE_BUTTON">
+            <Text>SALVAR JOGO RÁPIDO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_SAVE_BUTTON">
+            <Text>SALVAR JOGO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_LOAD_GAME_BUTTON">
+            <Text>CARREGAR JOGO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_SAVE_MAP_LOWER">
+            <Text>SALVAR MAPA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_SAVE_MAP_BUTTON">
+            <Text>SALVAR MAPA</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_OPTIONS_BUTTON">
+            <Text>OPÇÕES</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_EXIT_TO_MAIN">
+            <Text>SAIR PARA O MENU PRINCIPAL</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_EXIT_TO_WINDOWS">
+            <Text>SAIR PARA O WINDOWS</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_RETURN_TO_GAME">
+            <Text>RETORNAR AO JOGO</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_RETURN_MM_WARN">
+            <Text>Isto sairá para o Menu Principal sem salvar o jogo. Tem certeza disso?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_RETURN_EXIT_WARN">
+            <Text>Isto fechará o Civilization V sem salvar o jogo. Tem certeza disso?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_EXIT_WARN">
+            <Text>Isto fechará o Civilization V. Tem certeza disso?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_SAVE">
+            <Text>Salvar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MENU_SAVE_MAP_DESC">
+            <Text>Salvar um mapa irá preservar os dados do terreno do jogo que você está jogando atualmente, podendo ser aberto pelo World Builder Tool. Permitirá você ter um modelo para trabalhar na criação de seu próprio mapa ou retornar a este mapa para próximos jogos.</Text>
+        </Row>
+        <!-- Policies -->
+        <Row Tag="TXT_KEY_ADVANCED_VIEW">
+            <Text>Exibição avançada</Text>
+        </Row>
+        <Row Tag="TXT_KEY_ERA_AVAILALBE">
+            <Text>Era disponível</Text>
+        </Row>
+        <Row Tag="TXT_KEY_POP_ADOPT_BUTTON">
+            <Text>Adotar</Text>
+        </Row>
+		<!-- Choose Free Item Screen -->
+		<Row Tag="TXT_KEY_CHOOSE_FROM_FOLLOWING">
+			<Text>Escolher {1 : spellout} do seguinte:</Text>
+        </Row>
+		<!-- new text -->
+        <Row Tag="TXT_KEY_TOP_PANEL_SCIENCE_OFF">
+            <Text>Ciência: desabilitado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TOP_PANEL_SCIENCE_OFF_TOOLTIP">
+            <Text>O sistema de ciência está desabilitado neste cenário. Nenhuma nova tecnologia será descoberta.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TOP_PANEL_HAPPINESS_OFF">
+            <Text>Felicidade: desabilitado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TOP_PANEL_GOLDEN_AGES_OFF">
+            <Text>Eras Douradas: desligado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TOP_PANEL_HAPPINESS_OFF_TOOLTIP">
+            <Text>O sistema de felicidade está desabilitado neste cenário. Eras Douradas não ocorrerão. Todas as penalidades associadas à infelicidade estão, da mesma forma, desabilitadas.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TOP_PANEL_POLICIES_OFF">
+            <Text>Políticas: desabilitado</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TOP_PANEL_POLICIES_OFF_TOOLTIP">
+            <Text>O sistema de políticas sociais está desabilitado neste cenário. Nenhuma nova política será adquirida, apesar de a cultura atuar para a expansão das fronteiras da cidade.</Text>
+        </Row>
+		<!-- 348 -->
+		<!-- Replay Viewer  -->
+		<Row Tag="TXT_KEY_REPLAY_TITLE">
+			<Text>REPLAY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_PLAYPAUSE">
+			<Text>Executar/Pausar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_NOGRAPHDATA">
+			<Text>Sem Gráfico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MESSAGES_TITLE">
+			<Text>Mensagens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MESSAGES_TT">
+			<Text>Ver todas as mensagens importantes que ocorreram durante o jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_GRAPHS_TITLE">
+			<Text>Gráficos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_GRAPHS_TT">
+			<Text>Ver vários gráficos dos dados coletados de cada jogador.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MAP_TITLE">
+			<Text>Mapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MAP_TT">
+			<Text>Ver o mapa mundial e o crescimento territorial com o tempo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_GRAPHBY_SCORE">
+			<Text>Pontuação</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_PRODUCTIONPERTURN">
+			<Text>[ICON_PRODUCTION]Produção Por Turno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALGOLD">
+			<Text>[ICON_GOLD]Ouro Total</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GOLDPERTURN">
+			<Text>[ICON_GOLD]Ouro Por Turno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_CITYCOUNT">
+			<Text>Número de Cidades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TECHSKNOWN">
+			<Text>Número de Tec. Pesquisadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_SCIENCEPERTURN">
+			<Text>[ICON_RESEARCH]Ciência Por Turno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALCULTURE">
+			<Text>[ICON_CULTURE]Cultura Total</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_CULTUREPERTURN">
+			<Text>[ICON_CULTURE]Cultura Por Turno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_EXCESSHAPPINESS">
+			<Text>[ICON_HAPPINESS_1]Felicidade Excedente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_HAPPINESS">
+			<Text>[ICON_HAPPINESS_1]Felicidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_UNHAPPINESS">
+			<Text>[ICON_HAPPINESS_3]Infelicidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GOLDAGETURNS">
+			<Text>Turnos de [ICON_GOLDEN_AGE]Era Dourada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALPOPULATION">
+			<Text>[ICON_CITIZEN]População</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_FOODPERTURN">
+			<Text>[ICON_FOOD]Alimento Por Turno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALLAND">
+			<Text>Território Total</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GPTCITYCONNECTIONS">
+			<Text>[ICON_GOLD]Ouro/Turno - Conexões das Cidades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GPTDEALS">
+			<Text>[ICON_GOLD]Ouro/Turno - Acordos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_UNITMAINTENANCE">
+			<Text>Manutenção de Unidades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_BUILDINGMAINTENANCE">
+			<Text>Manutenção de Edifícios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_IMPROVEMENTMAINTENANCE">
+			<Text>Manutenção de Melhorias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_NUMBEROFPOLICIES">
+			<Text>Número de Políticas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_NUMBEROFWORKERS">
+			<Text>Número de Trabalhadores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_IMPROVEDTILES">
+			<Text>Ladrilhos Explorados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_WORKEDTILES">
+			<Text>Ladrilhos Trabalhados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_MILITARYMIGHT">
+			<Text>Poder Militar</Text>
+		</Row>
+		<!-- patch 674 -->
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_TT_NORMALLY">
+			<Text>Cada cidade (não ocupada) produz 3 [ICON_HAPPINESS_4]Infelicidade (Normalmente).</Text>
+		</Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_QUICK_MOVEMENT" >
+            <Text>Movimento rápido</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_QUICK_MOVEMENT_TT" >
+            <Text>Unidades se movem instanteneamente para o seu destino</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_COMBAT">
+            <Text>Combate rápido em "Multijogador"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_COMBAT_TT">
+            <Text>Habilita resolução rápida do combate em jogos "multijogador".</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_MOVEMENT">
+            <Text>Movimento rápido em "Multijogador"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_MOVEMENT_TT">
+            <Text>Habilita movimento rápido de unidades em jogos "multijogador".</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_COMBAT">
+            <Text>Combate rápido em "Um Jogador"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_COMBAT_TT">
+            <Text>Habilita resolução rápida do combate em jogos "um jogador".</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_MOVEMENT">
+            <Text>Movimento rápido em "Um Jogador"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_MOVEMENT_TT">
+            <Text>Habilita movimento rápido de unidades em jogos "um jogador".</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_SKIP_INTRO_VIDEO_TT">
+            <Text>Pula a exibição do vídeo de introdução.</Text>
+        </Row>		
+		<Row Tag="TXT_KEY_EO_SORT_FAITH">
+			<Text>Ordernar por Fé</Text>
+		</Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_GPU_TEXTURE_DECODE">
+            <Text>Decodificar Textura pela GPU</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_GPU_TEXTURE_DECODE_TT">
+            <Text>A GPU será usada para decodificar texturas comprimidas quando apropriado.</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_ENABLE_MAP_INERTIA">
+            <Text>Habilitar Inércia do Mapa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_ENABLE_MAP_INERTIA_TT">
+            <Text>Habilita a inércia quando estiver arrastando o mapa.</Text>
+        </Row>		
+		<Row Tag="TXT_KEY_MENU_RESTART_GAME_BUTTON">
+			<Text>REINICIAR JOGO</Text>
+		</Row>		
+      <Row Tag="TXT_KEY_VP_DOMINATION_VICTORY_DISABLED">
+        <Text>Vitória por Dominação está desabilitada.</Text>
+      </Row>
+      <Row Tag="TXT_KEY_VP_DIPLO_VICTORY_DISABLED">
+        <Text>Vitória Diplomática está desabilitada.</Text>
+      </Row>
+      <Row Tag="TXT_KEY_VP_SCIENCE_VICTORY_DISABLED">
+        <Text>Vitória Científica está desabilitada.</Text>
+      </Row>
+      <Row Tag="TXT_KEY_VP_CULTURE_VICTORY_DISABLED">
+        <Text>Vitória Cultural está desabilitada.</Text>
+      </Row>
+      <Row Tag="TXT_KEY_VP_TIME_VICTORY_DISABLED">
+        <Text>Vitória por Tempo está desabilitada.</Text>
+      </Row>		
+        <Row Tag="TXT_KEY_DIPLO_REQUEST_INCOMING" >
+          <Text>Uma proposta diplomática desta civilização que está aguardando sua resposta.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DIPLO_REQUEST_OUTGOING" >
+          <Text>Esta civilização ainda não respondeu sua proposta diplomática.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DIPLO_REQUEST_IN_PROGRESS" >
+          <Text>Você não pode fazer uma proposta diplomática com esta civilização, pois você possui uma proposta pendente com outra civilização.</Text>
+        </Row>      	  
+        <Row Tag="TXT_KEY_MULTIPLAYER_OPTIONS">
+          <Text>OPÇÕES MULTIJOGADOR</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_MP_SCORE_LIST">
+          <Text>Lista de Pontuação em modo Multijogador</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_MP_SCORE_LIST_TT">
+          <Text>Exibe uma lista simples de pontuação em jogos multijogador.</Text>
+        </Row>		
+        <Row Tag="TXT_KEY_OPSCREEN_QUICK_SELECTION_ADVANCE">
+            <Text>Avanço Rápido de Seleção</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_QUICK_SELECTION_ADVANCE_TT">
+            <Text>A próxima unidade será automaticamente selecionada assim que um comando for dado e não aguardará o término das animações.</Text>
+        </Row>
+
+        <!-- Multiplayer Options Text -->
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_OPTIONS">
+          <Text>Notificações de Turnos Pitboss</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_HOST_OPTIONS">
+          <Text>Notificações de Turnos Pitboss - Anfitrião</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE">
+          <Text>Convite Steam</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE_TT">
+          <Text>Receber um convite Steam quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o jogo for jogado na internet e você seja amigo do anfitrião do jogo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL">
+          <Text>Email</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_TT">
+          <Text>Receber um email quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o anfitrião tiver configurado o jogo para notificações por email.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_ADDRESS">
+          <Text>Endereço de Email</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_ADDRESS_TT">
+          <Text>Endereço de Email para receber notificações de turnos em jogos Pitboss.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_HOST">
+          <Text>Servidor de Email (SMTP)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_HOST_TT">
+          <Text>Servidor SMTP para enviar notificações de turnos como anfitrião.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_USERNAME">
+          <Text>Nome de Usuário</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_USERNAME_TT">
+          <Text>Nome de Usuário para o servidor SMTP.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORD">
+          <Text>Senha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORD_TT">
+          <Text>Senha para o servidor SMTP.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_RETYPE_PASSWORD">
+          <Text>Reinforme a Senha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_RETYPE_PASSWORD_TT">
+          <Text>Reinformar a Senha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_MATCH">
+          <Text>Senhas ok</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_MATCH_TT">
+          <Text>As senhas SMTP são iguais.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_NOT_MATCH">
+          <Text>Senhas não ok</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_NOT_MATCH_TT">
+          <Text>As senhas SMTP não são iguais.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_TLS">
+          <Text>Usar TLS</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_TLS_TT">
+          <Text>Usar criptografia TLS com este servidor SMTP.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PORT">
+          <Text>Porta:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PORT_TT">
+          <Text>Porta de rede usada pelo servidor SMTP.</Text>
+        </Row>
+
+      <!-- Confirm kick player popup -->
+      <Row Tag="TXT_KEY_CONFIRM_KICK_PLAYER_TITLE">
+        <Text>Confirmar Expulsão de Jogador</Text>
+      </Row>
+      <Row Tag="TXT_KEY_CONFIRM_KICK_PLAYER_DESC">
+        <Text>Tem certeza que quer expulsar {1_player} do jogo?</Text>
+      </Row>
+      
+      <!-- Turn Notification Emails -->
+      <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_SUBJECT">
+        <Text>Notificação de Turno Civilization 5:  Jogo "{1_GameName}" Turno {2_Turn}</Text>
+      </Row>
+      <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_GENERIC_RECIPENT">
+        <Text>Jogadores Pitboss</Text>
+      </Row>
+      <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_SENDER">
+        <Text>Pitboss Civilization 5</Text>
+      </Row>
+      <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_BODY_HEADER">
+        <Text>Olá!&lt;br&gt;&lt;br&gt;É a vez do seu turno no jogo "{1_GameName}".&lt;br&gt;&lt;br&gt;</Text>
+      </Row>
+      <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_STEAM_LINK">
+        <Text>&lt;a href="{1_SteamURL}"&gt;Clique aqui para entrar no jogo.&lt;/a&gt;</Text>
+      </Row>
+      <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_START_CIV5">
+        <Text>&lt;a href="{1_SteamURL}"&gt;Clique aqui para iniciar o Civilization 5&lt;/a&gt;</Text>
+      </Row>
+      <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_MANUAL_LINK">
+        <Text>&lt;br&gt;&lt;br&gt;Se o link acima não funcionar, copie e cole o seguinte endereço no seu navegador:&lt;br&gt;{1_SteamURL}</Text>
+      </Row>		
+      <Row Tag="TXT_KEY_RESEARCH_HALTED">
+        <Text>PARADO: {1_Name}</Text>
+      </Row>	  
+    <!-- Player List  -->
+    <Row Tag="TXT_KEY_MP_PLAYER_CONNECTED">
+      <Text>O jogador está atualmente em jogo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_PLAYER_NOTCONNECTED">
+      <Text>O jogador não está conectado.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_PLAYER_CONNECTING">
+      <Text>O jogador está entrando no jogo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_HOT_JOIN_NOTICE">
+      <Text>Os jogadores estão entrando no jogo. O jogo está pausado.</Text>
+    </Row>	  
+    </Language_pt_BR>
+</GameData>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+  <Language_pt_BR>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR">
+		  <Text>Uighur</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR_ADJ">
+		  <Text>Uighuriano|Uighuriana</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA">
+		  <Text>Geórgia</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA_ADJ">
+		  <Text>Georgiano|Georgiana</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY">
+		  <Text>Hungria</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY_ADJ">
+		  <Text>Húngaro|Húngara</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET">
+		  <Text>Dai Viet</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET_ADJ">
+		  <Text>Dai Vietano|Dai Vietana</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI">
+		  <Text>Dali</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI_ADJ">
+		  <Text>Daliano|Daliana</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS">
+		  <Text>Abbasids</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS_ADJ">
+		  <Text>Abbasidiano|Abbasidiana</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS">
+		  <Text>Estados Cruzados</Text>		  
+		  <Gender>masculine</Gender>
+		  <Plurality>2</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS_ADJ">
+		  <Text>Estado Cruzadense|Estado Cruzadense</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA">
+		  <Text>Xia Ocidental</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA_ADJ">
+		  <Text>Xiense|Xiense</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA">
+		  <Text>Coreia</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>1</Plurality>		  
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA_ADJ">
+		  <Text>Coreano|Coreana</Text>
+		  <Gender>masculine|feminine</Gender>
+		  <Plurality>1|1</Plurality>		  
+	  </Row>  
+  </Language_pt_BR>
+</GameData>

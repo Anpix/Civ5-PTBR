@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_TITLE">
+			<Text>Ascensão dos Mongóis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DESC">
+			<Text>Cavalgue com Genghis Khan e seus cavaleiros Mongóis para estabelecer o maior Império contíguo jamais visto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVSALIVE">
+			<Text>Principais Civilizações a Destruir: {1_CivsRemaining}[NEWLINE]{2: plural 1?Turno restante; other?Turnos restantes;}: {2_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_BRIEFING">
+			<Text>Resumo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_MARITIME_FALLEN">
+			<Text>Uma Cidade-Estado marítima caiu frente as nossas forças Mongóis. O povo daquela nação nos pagou um resgate generoso de ({1_NumGold} gold) para preservar suas vidas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CULTURED_FALLEN">
+			<Text>Uma Cidade-Estado culta caiu frente as nossas forças Mongóis. Nós conseguimos descobrir, do povo daquela nação, os segredos de uma nova Política Social. Escolha uma Política gratuita de sua preferência, Grande Khan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_MAJOR_FALLEN">
+			<Text>Parabéns, mais uma grande civilização caiu frente aos nossos cavaleiros. Nós conseguimos saqueamos grandes riquezas ({1_NumGold} gold) do tesouro deles. Nós também descobrimos uma nova revelação científica, após estudar sua forma de vida estrangeira. Escolha uma Tecnologia gratuita de sua preferência, Grande Líder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_MAJOR_FALLEN_TO_ALLY">
+			<Text>Com a ajuda de outra potência, mais uma grande civilização caiu. Nós conseguimos saquear uma moderada riqueza ({1_NumGold} gold) do tesouro deles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_ALMATY_FALLEN">
+			<Text>A Cidade-Estado de Almaty caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Homens a Cavalo para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DALI_FALLEN">
+			<Text>A Cidade-Estado de Dali caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Piqueiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_KOREA_FALLEN">
+			<Text>A Cidade-Estado da Coreia caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Besteiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_XIA_FALLEN">
+			<Text>A Cidade-Estado de Xia Ocidental caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Homens a Cavalo para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.[NEWLINE][NEWLINE]Aconselha-se que seja construída uma estrada, conectando esta cidade a sua Capital, para coletar recursos. Talvez você também queira alojar tropas mais fracas na cidade, para que os cidadãos fiquem um pouco mais felizes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_FREE_TECH">
+			<Text>Tecnologia gratuita por conquistar grande civilização</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DAWN_MONGOLIA_TEXT">
+			<Text>
+				DESCRIÇÃO DO CENÁRIO[NEWLINE]Todos saúdam o poderoso Khan, o novo soberano das tribos unificadas do Platô Central Asiático! Vós trouxestes os Merkits, Naimans, Keraits e Tatars sob o vosso domínio, juntando-os aos vossos próprios fiéis Keshiks Mongóis. Agora que comandais as 5 tribos de cavaleiros, é tempo de trazer o resto da Eurásia à submissão Mongol. Mas não penseis que esta é uma tarefa necessariamente fácil - vós deve manter os membros do vosso clã felizes. Eles prometeram permanecer fiéis ao vosso Yassa apenas se vós lhes fornecerdes adequados espólios de guerra. Portanto, não há tempo a perder: começai a jornada pelas estepes e que as conquistas comecem![NEWLINE][NEWLINE]CONDIÇÕES DE VITÓRIA[NEWLINE]A vitória é vossa se puderdes conquistar 4 ou mais civilizações principais em até 100 turnos (em níveis de dificuldade superiores a Príncipe, precisareis conquistar mais que 4). Demorai mais que o tempo definido e os vossos compatriotas ficarão impacientes, fazendo com que o vosso Império se dissolva em disputas internas.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Os espólios que recebereis pelas conquistas serão numerosos e variados. Eles fornecerão os recursos necessários para que continueis em frente. Por exemplo, as tropas das Cidades-Estado militaristas irão se juntar as vossas forças. Uma Cidade-Estado culta irá fornecer uma Política Social gratuita. E uma Cidade-Estado marítima fornecerá ouro extra para o vosso tesouro. Melhor de tudo, por conquistar uma civilização principal, recebereis uma Tecnologia gratuita e muito mais riqueza!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_1">
+			<Text>Bem-vindo ao Norte da China, forasteiro. Eu sou Zhangzong. Estamos muito honrados pela sua visita.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_2">
+			<Text>Eu estou honrado em conhecê-lo. Eu sou Zhangzong da Dinastia Jin, do Norte da China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_3">
+			<Text>Saudações! Eu sou Zhangzong, Imperador da Dinastia Jin. Você faz todo o Norte da China muito honrado com a sua visita.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_1">
+			<Text>Eu, Miguel VIII, soberano do restaurado Império Bizâncio, dou-lhe minhas saudações. Que você prove ser um firme aliado ou um valioso adversário!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_2">
+			<Text>Saudações e bem-vindo! Eu sou Miguel VIII Paleólogo, soberano dos Bizâncios. Trate nossas terras melhor que os cavaleiros da Quarta Cruzada!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_3">
+			<Text>Seja bem-vindo, forasteiro! Eu sou Miguel VIII, restaurador do Império Bizâncio. Damos-lhe saudações a nossa terra, recentemente recuperadas dos cavaleiros da Quarta Cruzada!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_UIGHUR_TEXT">
+			<Text>Fundado em 742 d.C., a Era Dourada do Império Uighur rapidamente começou e se prolongou até o final do século VIII. Entretanto, o jovem e fraco Império foi conquistado pelos Kyrgyz em 840, e se dividiu em três reinos: Gansu, Turpan e Karakhanids. Este cenário trata Uighur em Turpan, um reino tribal bem sucedido que se manteve até a invasão Mongol de 1389. Os Mongóis eventualmente adotaram o sistema de escrita Uighur após se tornarem seus vassalos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GEORGIA_TEXT">
+			<Text>Habitada desde o início da Era da Pedra, a unificação completa da área só ocorreu no século XI d.C., pelo Rei Bagrat V. O novo reino da Geórgia rapidamente floresceu e chegou ao seu apogeu apenas um pequeno século depois. Essa Renascença Georgiana trouxe uma grande quantidade de avanços à área, incluindo descobertas em filosofia, a escrita de épicas poesias e a construção de catedrais extraordinárias. Apesar de seu rápido e bem sucedido desenvolvimento, a Era Dourada Georgiana chegou ao fim com a invasão Mongol, em 1236; o reino entrou totalmente em colapso no final do século XV.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_HUNGARY_TEXT">
+			<Text>Fundado em 895 d.C., Hungria é um dos países mais antigos da Europa. Por séculos o reino repeliu muitos ataques contra suas fronteiras e abrigou os mais ricos reis do continente - a um ponto onde a receita do reino Húngaro ser o dobro da monarquia Inglesa. Em 1217, a coroa guiou a Quinta Cruzada à Terra Sagrada, criando no processo o maior exército real na história das Cruzadas. Porém, nem mesmo este poderoso exército pôde impedir a vasta tropa do Império Mongol. Em 1241, os Mongóis invadiram a Hungria e matou praticamente metade da população do país, quase 1 milhão de pessoas. O rei húngaro Béla V ordenou a construção de centenas de fortificações de pedra ao longo das fronteiras, impedindo algumas poucas forças, mas o maior dano já havia sido feito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DAI_VIET_TEXT">
+			<Text>O período da Era Dourada de Dai Viet do Vietnam começou com a fundação da Dinastia Ly, em 1009 d.C. Foi ali que o país ganhou uma visão estratégica formal e começou a focar mais em construir uma forte economia e completar projetos civis. Vendo uma joia tão valiosa perto de suas fronteiras, os Mongóis tentaram invadir Dai Viet em 1257, 1284 e 1288, sempre sem sucesso. Dai Viet fez o que a maioria das nações daquele tempo não puderam fazer: eles evitaram lugar com as forças Mongóis superiores em campo aberto e enfrentaram a cavalaria apenas quando tinham a vantagem, protegendo a independência da sua nação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DALI_TEXT">
+			<Text>Localizado na moderna Província Yhunnan da China, o reino de Dali foi fundado em 937 d.C., após um período de pequenas dinastias turbulentas. O território do reino naturalmente fornecia proteção e dizia-se que apenas alguns poucos homens poderiam proteger o vale durante anos. Isso parecia ser verdade, já que os Mongóis tentaram invadir o reino várias vezes, todas sem sucesso. Registros mostram que o exército Mongol eventualmente encontrou um traidor em Dali para levá-los por uma passagem secreta sobre as montanhas, dando-lhes finalmente os meios para sobrepujar as defesas impenetráveis. Em 1253, os Mongóis completaram sua invasão do Estado, criando a Província de Yunnan, em 1274.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_ABBASIDS_TEXT">
+			<Text>O terceiro dos califados Islâmicos, a Dinastia Abbasid governou o reino da capital Bagdá. O califado foi fundado por descendentes do profeta Muhammad, em 750 d.C. e floresceu por muitas centenas de anos.  Os Abbasids continuaram no poder por séculos, mas seu domínio sobre as províncias locais foi diminuindo durante o tempo. Em 1258, os Mongóis invadiram o califado e saquearam Bagdá, removendo os Abbasids do poder político. O Califado foi formalmente desestabilizado com os Abbasids conseguindo controlar apenas uma pequena parte da autoridade religiosa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_CRUSADERS_TEXT">
+			<Text>Durante as cruzadas norte europeias da Terra Santa, um número de pequenos estados feudais foram criados durante os séculos XII e XIII. Os primeiros quatro Estados Cruzados foram criados em Levante, uma área que abrange a costa leste do Mediterrâneo. Posteriormente, durante a Terceira Cruzada, o reino do Chipre foi fundado por Ricardo Coração de Leão, onde continuou sendo a base para as forças Cristãs até 1571. Os Mongóis nunca fizeram um ataque formal contra os Estados Cruzados e a maioria sobreviveu até a série de invasões lideradas pelos Otomanos no século XVI.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_WESTERN_XIA_TEXT">
+			<Text>A Dinastia XI Ocidental, ou Império Tangut, foi fundada em 1038 d.C. quando um chefe Tangut se auto proclamou Imperador da região Xia. Não muito depois, o reino sofreu uma massiva destruição pela série de invasões Mongóis, lideradas por Genghis Khan - seis diferentes ataques no período de vinte e dois anos. Genghis morreu durante a última série de ataques (a causa da morte continua a ser debatida) e as forças mongóis tomaram a capital em 1227, destruindo edifícios e registros escritos, matando o imperador e dezenas de milhares de pessoas no processo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_KOREA_TEXT">
+			<Text>No tempo do Império Mongol, o reino da Coreia era governado pela Dinastia Goryeo, que tomou o poder em 918 d.C. Durante este reinando, a nação floresceu: suas leis eram escritas, um sistema de serviço civil foi introduzido e foram feitos grandes avanços culturais com a criação da primeira prensa metálica de impressão móvel do mundo. Entretanto, em 1230, o reino começou a ser ameaçado pelas forças Mongóis, que continuaram a tentar a invasão pelas próximas décadas. Em 1259, a nação pediu a trégua e um tratado foi realizado entre a Coreia e os Mongóis. Aos Goryeos foi permitido manter sua soberania, enquanto o Império Mongol anexou uma grande parte das províncias do norte.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM">
+			<Text>Jin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM_TEXT_1">
+			<Text>A Dinastia Jin (também conhecida como a Dinastia Jurchen) foi estabelecida em 1115 d.C. na área nordeste da China, historicamente conhecida como Manchúria. Os Jurchens eram um povo tribal descendente das antigas tribos Mohe que habitavam aquela região, onde principalmente caçador-coletores viviam como vassalos da Dinastia Liao. Unificados sob a liderança de Wanyan Aguda, líder da tribo Wanyan, os Jurchens rapidamente conquistariam Liao e muito do nordeste da China. Wanyan pegou o nome "Jin" para sua nova Dinastia, que significava "Dourada".[NEWLINE][NEWLINE]Assim como os Mongóis, os Jurchens eram conhecidos por sua temida cavalaria, cujo talento, diziam, foi desenvolvido em razão das fortes tradições tribais de caça. Tendo devastado Liao com a assistência da Dinastia Song, os Jurchens invadiram o território Song, levando-os a quase 20 anos de guerra contínua. Em 1141, o Tratado de Shaoxing levou paz entre as duas Dinastias, criando a fronteira no Rio Huai.[NEWLINE][NEWLINE]No seu auge, a Dinastia Jin possuía mais de 30 milhões de pessoas e todo o nordeste da China. Porém, a ascensão de Genghis Khan trouxe nova liderança à tribo Mongol vizinha e logo os Mongóis começariam sua lendária conquista da Ásia, incluindo os Jin. Em 1227, o ano da morte de Genghis Khan, os Mongóis haviam dizimado grande parte das forças de Jin. No entanto, os valiosos guerreiros Jin foram capazes de resistir à dominação Mongol por mais 7 anos após a morte de Genghis, sucumbindo finalmente em 1234.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE">
+			<Text>Bizâncio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE_TEXT_1">
+			<Text>A antiga cidade grega de Bizâncio, destinada a se tornar a sede de poder de dois impérios distintos, foi fundada em 667 pelo colonizador grego chamado Byzas. Apesar de os primeiros anos de história de Bizâncio estarem misturados com as lendas da Mitologia Grega, historiadores são relativamente confiantes que esses colonizadores viajaram da cidade grega de Megara após saírem velejando pelo o Mar Egeu.[NEWLINE][NEWLINE]Estrategicamente posicionada próxima às rotas comerciais que conectavam a Europa à Ásia, Bizâncio rapidamente cresceu em tamanho e prosperidade. Em 324 d.C., o Imperador Romano Constantino escolheu reconstruir Bizâncio à imagem de Roma, formando uma nova capital para o Império Romano Oriental (atualmente conhecido como Império Bizantino). A cidade passou então a ser conhecida pelo povo como Constantinopla e permaneceu sendo a capital do Império Bizantino até sua queda, aproximadamente 1000 anos depois.[NEWLINE][NEWLINE]Em 1453, o Império Otomano capturou a cidade de Constantinopla, dobrando os sinos para a morte do Império Bizantino. Porém, o governante Otomano, Mehmed II, continuou o legado de Constantinopla ao declará-la a nova capital do Império Otomano. Apesar de ser conhecida pelos turcos como "Istambul", a cidade não foi oficialmente renomeada até 1930.[NEWLINE][NEWLINE]De Bizâncio a Constantinopla e depois a Istambul, a pequena colônia grega cresceu desde suas raízes até se tornar uma das maiores e mais prósperas cidades do mundo. A moderna Istambul é considerada uma metrópole, com uma população superior a 13 milhões de pessoas, tornando-se a maior cidade da Turquia. Como Patrimônio Mundial da UNESCO, Istambul perpetua as tradições do seu passado com vastos e variados eventos sociais e culturais que ocorrem todos os anos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_NAME">
+			<Text>Zhangzong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_SUBTITLE">
+			<Text>Líder da Dinastia Jin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_LIVED">
+			<Text>1168 - 1208 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_NAME">
+			<Text>Miguel VIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_SUBTITLE">
+			<Text>Líder do Império Bizantino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_LIVED">
+			<Text>1224 - 1282 d.C.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

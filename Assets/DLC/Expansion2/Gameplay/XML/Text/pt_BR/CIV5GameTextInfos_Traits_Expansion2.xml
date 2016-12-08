@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE_SHORT">
+			<Text>Sereníssima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
+			<Text>Não pode treinar {TXT_KEY_UNIT_SETTLER[2]} ou anexar cidades. O número de rotas comerciais disponíveis é dobrado. Um {TXT_KEY_UNIT_VENETIAN_MERCHANT[1]} aparece após descobrir {TXT_KEY_TECH_OPTICS_TITLE}. Pode realizar compras em cidades fantoches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT">
+			<Text>Azagaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS">
+			<Text>Unidades corpo-a-corpo custam 50% menos em manutenção. Todas as unidades requerem 25% menos experiência para ganharem sua próxima promoção.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT_SHORT">
+			<Text>Tesouros de Nínive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT">
+			<Text>Quando uma cidade é conquistada, uma tecnologia já descoberta pelo seu antigo dono é obtida gratuitamente. Obter uma cidade por acordo não conta e só pode ocorrer uma vez por cidade inimiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY_SHORT">
+			<Text>Solidariedade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY">
+			<Text>Uma Política Social gratuita é obtida quando avança para a próxima era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CARNIVAL_SHORT">
+			<Text>Carnaval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CARNIVAL">
+			<Text>A geração de [ICON_TOURISM]Turismo é de +100% durante as Eras Douradas. {TXT_KEY_CIV5_GREATARTISTS_HEADING}, {TXT_KEY_UNIT_GREAT_MUSICIAN[2]} e {TXT_KEY_UNIT_GREAT_WRITER[2]} são obtidos 50% mais rápido durante as Eras Douradas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SPICE_SHORT">
+			<Text>Insulanos Apimentados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SPICE">
+			<Text>As 3 primeiras cidades fundadas em continentes diferentes de onde a Indonésia iniciar fornecem, cada uma, 2 Recursos de Luxo únicos (e nunca podem ser eliminadas).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE_SHORT">
+			<Text>Mar Fechado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE">
+			<Text>A diversidade de recursos fornece o dobro de [ICON_GOLD]Ouro para Portugal em Rotas Comerciais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT">
+			<Text>Grande Expansão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE">
+			<Text>Cidades fundadas iniciam com território adicional. Unidades recebem um bônus de combate quando estão lutando dentro do seu próprio território.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT">
+			<Text>Passagem para África</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA">
+			<Text>Recebe +3 de [ICON_GOLD]Ouro e +1 de [ICON_CULTURE]Cultura por cada Rota Comercial com uma civilização ou Cidade-Estado diferentes. Os donos das Rotas Comerciais recebem +2 de [ICON_GOLD]Ouro por cada uma enviada ao Marrocos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2_SHORT">
+			<Text>Navios do Deserto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2">
+			<Text>As {TXT_KEY_UNIT_CARAVAN[2]} ganham +50% de alcance. Suas rotas comerciais disseminam a religião da cidade natal com eficiência dobrada. Recursos de [ICON_OIL]{TXT_KEY_CIV5_RESOURCE_OIL} são dobrados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT">
+			<Text>Cidade da Luz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
+			<Text>Os bônus temáticos de {TXT_KEY_BUILDING_MUSEUM} e Maravilha Mundial são dobrados em sua Capital.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

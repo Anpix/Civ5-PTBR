@@ -1,0 +1,941 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_DOMAIN_AIR">
+			<Text>Unidades Aéreas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DOMAIN_IMMOBILE">
+			<Text>Unidades Fixas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DOMAIN_LAND">
+			<Text>Unidades Terrestres</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_DOMAIN_SEA">
+			<Text>Unidades Aquáticas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ERA_0">
+			<Text>Era Antiga</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ERA_1">
+			<Text>Era Clássica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ERA_6">
+			<Text>Era Futura</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ERA_4">
+			<Text>Era Industrial</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ERA_2">
+			<Text>Era Medieval</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ERA_5">
+			<Text>Era Moderna</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ERA_3">
+			<Text>Renascença</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_FALLOUT">
+			<Text>Chuva Radioativa</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_FLOOD_PLAINS">
+			<Text>Planícies Inundadas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_FOREST">
+			<Text>Floresta</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ICE">
+			<Text>Gelo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_JUNGLE">
+			<Text>Selva</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MARSH">
+			<Text>Pântano</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_OASIS">
+			<Text>Oásis</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_EPIC">
+			<Text>Épico</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_MARATHON">
+			<Text>Maratona</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_STANDARD">
+			<Text>Padrão</Text>
+			<Gender>0</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_QUICK">
+			<Text>Rápido</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_GOLD">
+			<Text>Ouro</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_DEITY">
+			<Text>Divindade</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_IMMORTAL">
+			<Text>Imortal</Text>
+			<Gender>0</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_EMPEROR">
+			<Text>Imperador</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_KING">
+			<Text>Rei</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_PRINCE">
+			<Text>Príncipe</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_WARLORD">
+			<Text>Comandante</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_CHIEFTAIN">
+			<Text>Chefe</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_SETTLER">
+			<Text>Colonizador</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CAMP">
+			<Text>Campo de Caça|Campos de Caça</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CITY_RUINS">
+			<Text>Ruínas de uma cidade</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FARM">
+			<Text>Fazenda|Fazendas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FISHING_BOATS">
+			<Text>Barco Pesqueiro|Barcos Pesqueiros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FORT">
+			<Text>Forte|Fortes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT">
+			<Text>Ruínas antigas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ENCAMPMENT">
+			<Text>Acampamento|Acampamentos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LUMBERMILL">
+			<Text>Serraria|Serrarias</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MINE">
+			<Text>Mina|Minas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM">
+			<Text>Plataforma Costeira|Plataformas Costeiras</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PASTURE">
+			<Text>Pasto|Pastos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PLANTATION">
+			<Text>Plantação|Plantações</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_QUARRY">
+			<Text>Mina a Céu Aberto|Minas a Céu Aberto</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TRADING_POST">
+			<Text>Posto Comercial|Postos Comerciais</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_WELL">
+			<Text>Poço de Petróleo|Poços de Petróleo</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LANDMARK">
+			<Text>Ponto de Referência|Pontos de Referências</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ACADEMY">
+			<Text>Academia|Academias</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE">
+			<Text>Alfândega|Alfândegas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MANUFACTORY">
+			<Text>Indústria|Indústrias</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
+			<Text>Cidadela|Cidadelas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_INVISIBLE_SUBMARINE">
+			<Text>Submarinos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_RESEARCH">
+			<Text>Pesquisa</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WEALTH">
+			<Text>Riqueza</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM">
+			<Text>Programa Apolo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_MANHATTAN_PROJECT">
+			<Text>Projeto Manhattan</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_CASING">
+			<Text>Cápsula Espacial</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_COCKPIT">
+			<Text>Cabine Espacial</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_DOCKING_BAY">
+			<Text>Plataforma Espacial</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_ENGINE">
+			<Text>Motor Espacial</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_LIFE_SUPPORT">
+			<Text>Suporte de Vida Espacial</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_STASIS_CHAMBER">
+			<Text>Câmara Criogênica Espacial</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_THRUSTERS">
+			<Text>Propulsores Espaciais</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SS_BOOSTER">
+			<Text>Propulsor Espacial</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT1">
+			<Text>Combate I</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT2">
+			<Text>Combate II</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT3">
+			<Text>Combate III</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ALUMINUM">
+			<Text>Alumínio|Alumínios</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BANANAS">
+			<Text>Bananas|Bananas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COAL">
+			<Text>Carvão|Carvões</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CATTLE">
+			<Text>Gado|Gados</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SHEEP">
+			<Text>Ovelha|Ovelhas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_DEER">
+			<Text>Cervo|Cervos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_DYES">
+			<Text>Tintas|Tintas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FISH">
+			<Text>Peixe|Peixes</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GEMS">
+			<Text>Gemas|Gemas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GOLD">
+			<Text>Ouro|Ouros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HORSES">
+			<Text>Cavalo|Cavalos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_IRON">
+			<Text>Ferro|Ferros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_IVORY">
+			<Text>Marfim|Marfins</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MARBLE">
+			<Text>Mármore|Mármores</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OIL">
+			<Text>Petróleo|Petróleos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILK">
+			<Text>Seda|Sedas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>Especiarias|Especiarias</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SUGAR">
+			<Text>Açúcar|Açúcares</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_URANIUM">
+			<Text>Urânio|Urânios</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WHALES">
+			<Text>Baleias|Baleiras</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WHEAT">
+			<Text>Trigo|Trigos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WINE">
+			<Text>Vinho|Vinhos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COTTON">
+			<Text>Algodão|Algodões</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FURS">
+			<Text>Peles|Peles</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_INCENSE">
+			<Text>Incenso|Incensos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEARLS">
+			<Text>Pérolas|Pérolas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILVER">
+			<Text>Prata|Pratas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ROUTE_RAILROAD">
+			<Text>Ferrovia</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_ROUTE_ROAD">
+			<Text>Estrada</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST">
+			<Text>Artista|Artistas</Text>
+			<Gender>neuter|neuter</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_TITLE">
+			<Text>Pontos Grande Artista:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CITIZEN">
+			<Text>Cidadão Desempregado|Cidadãos Desempregados</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ENGINEER">
+			<Text>Engenheiro|Engenheiros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ENGINEER_TITLE">
+			<Text>Pontos Grande Engenheiro:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_ARTIST">
+			<Text>Grande Artista</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_ENGINEER">
+			<Text>Grande Engenheiro</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_MERCHANT">
+			<Text>Grande Mercador</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_PRIEST">
+			<Text>Grande Profeta</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_SCIENTIST">
+			<Text>Grande Cientista</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT">
+			<Text>Mercador</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT_TITLE">
+			<Text>Pontos Grande Mercador:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST">
+			<Text>Cientista|Cientistas</Text>
+			<Gender>neuter|neuter</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_TITLE">
+			<Text>Pontos Grande Cientista:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_DESERT">
+			<Text>Deserto</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_GRASS">
+			<Text>Pradaria</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_HILL">
+			<Text>Colina</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN">
+			<Text>Montanha</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_OCEAN">
+			<Text>Oceano</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_PLAINS">
+			<Text>Planície</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SNOW">
+			<Text>Neve</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_TUNDRA">
+			<Text>Tundra</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_CULTURE">
+			<Text>Cultura</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_RESEARCH">
+			<Text>Pesquisa</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TURNTIMER_FAST">
+			<Text>Rápido</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TURNTIMER_MEDIUM">
+			<Text>Médio</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_TURNTIMER_SLOW">
+			<Text>Lento</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_DOMINATION">
+			<Text>Dominação</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_CULTURAL">
+			<Text>Cultural</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_DIPLOMATIC">
+			<Text>Diplomática</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_SPACE_RACE">
+			<Text>Científica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_TIME">
+			<Text>Temporal</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_DEBUG">
+			<Text>Depurar</Text>
+			<Gender>0</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_DUEL">
+			<Text>Duelo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_TINY">
+			<Text>Minúsculo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_SMALL">
+			<Text>Pequeno</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_STANDARD">
+			<Text>Padrão</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_LARGE">
+			<Text>Grande</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_HUGE">
+			<Text>Enorme</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FOOD">
+			<Text>Alimento</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_PRODUCTION">
+			<Text>Produção</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_GOLD">
+			<Text>Ouro</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_CULTURED_ADJECTIVE">
+			<Text>Cultural</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_ADJECTIVE">
+			<Text>Militarista</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_MARITIME_ADJECTIVE">
+			<Text>Marítima</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_FRIENDLY">
+			<Text>Amigável</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_NEUTRAL">
+			<Text>Neutralidade</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_HOSTILE">
+			<Text>Hostil</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_IRRATIONAL">
+			<Text>Irracional</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_EVEREST">
+			<Text>Monte Everest</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CRATER">
+			<Text>Cratera de Barringer</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_LAKE_TITICACA">
+			<Text>Lago Titicaca</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_FUJI">
+			<Text>Monte Fuji</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MESA">
+			<Text>Grande Mesa</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_REEF">
+			<Text>Grande Barreira de Corais</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_VOLCANO">
+			<Text>Krakatoa</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_GIBRALTAR">
+			<Text>Rocha de Gibraltar</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_GEYSER">
+			<Text>Antigo Géiser</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_NATURAL_WONDER">
+			<Text>Maravilha Natural</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE">
+			<Text>Casa de Ópera de Sydney</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STADIUM_DESC">
+			<Text>Estádio|Estádios</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_DESC">
+			<Text>Maloca|Malocas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_DESC">
+			<Text>Jardins Flutuantes</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BAZAAR_DESC">
+			<Text>Bazar|Bazares</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_DESC">
+			<Text>Paço de Satrap|Paços de Satrap</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAPER_MAKER_DESC">
+			<Text>Papeleiro|Papeleiros</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONUMENT_DESC">
+			<Text>Monumento|Monumentos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC">
+			<Text>Mesquita Pirâmide de Barro|Mesquitas Pirâmides de Barro</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLE_DESC">
+			<Text>Templo|Templos</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WAT_DESC">
+			<Text>Wat|Wats</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BURIAL_TOMB_DESC">
+			<Text>Sepultura|Sepulturas</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONASTERY_DESC">
+			<Text>Monastério|Monastérios</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PROD_TEXT">
+			<Text>Produção</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_GOLD_TEXT">
+			<Text>Ouro</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RESEARCH_TEXT">
+			<Text>Ciência</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CULTURE_TEXT">
+			<Text>Cultura</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_GREAT_PEOPLE_TEXT">
+			<Text>Grandes Pessoas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_WONDERS_TEXT">
+			<Text>Maravilhas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_SPECIAL_TEXT">
+			<Text>Edifícios Especialistas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>						
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_REGULARBUILDING_TEXT">
+			<Text>Edifícios</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CITIZENS_TEXT">			
+			<Text>{1_NumCitizens: plural 1?Cidadão; other?Cidadãos;}</Text>
+			<Gender>masculine</Gender>
+			<Plurality>0</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIAN_UNIT">
+			<Text>Unidade Civil</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MILITARY_UNIT">
+			<Text>Unidade Militar</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<!-- new text -->
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_SLOTS">
+			<Text>Espaços para artistas:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>		
+		<Row Tag="TXT_KEY_SPECIALIST_ENGINEER_SLOTS">
+			<Text>Espaços para Engenheiros:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>		
+		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT_SLOTS">
+			<Text>Espaços para Mercadores:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_SLOTS">
+			<Text>Espaços para Cientistas:</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ATOLL">
+			<Text>Atol|Atóis</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STONE">
+			<Text>Pedra|Pedras</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_SCIENCE">
+			<Text>Ciência|Ciências</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+	</Language_pt_BR>
+</GameData>

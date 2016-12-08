@@ -1,0 +1,269 @@
+<?xml version = "1.0" encoding = "UTF-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+    <Language_pt_BR>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ODYSSEY">
+            <Text>"Os homens são tão rápidos em culpar os deuses: eles dizem [NEWLINE] que nós inventamos sua miséria. Mas eles próprios,[NEWLINE]em sua depravação,[NEWLINE]criam uma dor maior do que a dor que atribui ao destino."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FABLES">
+            <Text>"A tartaruga se arrastou e se arrastou. Quando a lebre acordou de sua soneca, ela viu a tartaruga perto da linha de chegada. Mas ela não podia correr rápido o suficiente, a tempo de salvar a corrida. Então, a tartaruga disse: 'Devagar e sempre vence a corrida.'"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_OEDIPUS">
+            <Text>"Édipo conhecia os famosos enigmas. Ele era um rei poderoso; Ele era invejado por todos. Agora, ele atingiu uma onda de terrível ruína. Enquanto você estiver vivo, você deve olhar para o seu dia final, e não fique feliz até você passar do limite da vida sem sofrer dor."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LYSISTRATA">
+            <Text>"Vocês, homens, são tolos o suficiente, ao que parece, para se atrever a guerrear com mulheres, quando para o seu fiel aliado vocês podem nos vencer facilmente."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_AENEID">
+            <Text>"É fácil ir para o Inferno;[NEWLINE]dia e noite as portas da morte negra ficam abertas;[NEWLINE]mas para subir de volta, para refazer os passos para o ar superior -[NEWLINE]há o esfregar, a tarefa ".</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_METAMORPHOSES">
+            <Text>"Feliz é o homem que quebrou as correntes que ferem a mente,[NEWLINE]e tenha se entregado preocupante de uma vez por todas.[NEWLINE]Seja paciente e resistente; Um dia esta dor vai lhe ser útil."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TRUE_STORY">
+            <Text>"Eu voltar à falsidade - mas a uma falsidade da mais consistente variedade; por ora, eu faço a única verdadeira afirmação que vocês esperam - que eu sou um mentiroso. Esta defesa é, considero, uma defesa completa contra todas as imputações."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RUBAIYAT">
+            <Text>"O Dedo Em Movimento escreve, e, tendo escrito, segue:[NEWLINE]nem toda a tua piedade nem sagacidade[NEWLINE]Poderá atraí-lo de volta para cancelar meia linha,[NEWLINE]nem todas as tuas lágrimas lavar uma palavra dele."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MASNAVI">
+            <Text>"Bata, e Ele vai abrir a porta.[NEWLINE]Desapareça, e Ele vai fazer você brilhar como o sol.[NEWLINE]Caia, e Ele vai levantá-lo aos céus.[NEWLINE]Torne-se nada, e Ele vai transformá-lo em tudo."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RAMAYAMA">
+            <Text>"Valmiki, o Poeta, segurou todo o mundo em movimento dentro de uma gota de água na sua mão.[NEWLINE]Os deuses e santos do céu olharam para baixo,[NEWLINE]e Valmiki olhou para os deuses na manhã do Tempo".</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MAHABHARATA">
+            <Text>"Para salvar a família, abandone um homem;[NEWLINE]Para salvar a aldeia, abandone uma família;[NEWLINE]Para salvar o país, abandone uma aldeia;[NEWLINE]Para salvar a alma, abandone a Terra."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_URUBHANGA">
+            <Text>"A doença da suspeita nunca está em meu ser.[NEWLINE]Porque eu sou um rei que pode respeitar a amizade[NEWLINE]que floresce entre um homem e uma mulher."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ABHIJNANASAKUTALAM">
+            <Text>"Ontem é apenas um sonho;[NEWLINE]Amanhã é apenas uma visão. Mas o hoje bem vivido faz de cada[NEWLINE]ontem um sonho de felicidade;[NEWLINE]e cada amanhã, uma visão de esperança."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CHU_CI">
+            <Text>"Dois monarcas então, que receberam alto renome,[NEWLINE]seguiram o caminho real, seus objetivos alcançados.[NEWLINE]Dois príncipes orgulhosos pela luxúria abusaram de seus reinados,[NEWLINE]procurando caminho mais fácil, e confundiram os seus próprios passos."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SHUIHU_ZHUAN">
+            <Text>
+                "Hoje, o nosso irmão mais novo, Chen Da, foi contra o nosso conselho. Ele ofendeu Vossa Excelência e foi trancado dentro de sua mansão honrosa. Já que nós não temos nenhuma maneira de salvá-lo, viemos morrer com ele."
+            </Texto>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JIN_PING_MEI">
+            <Text>"As paixões evocadas por nuvens e chuva,[NEWLINE]juntando suas cabeças e entrelaçando seus pescoços,[NEWLINE]dentro das cortinas da cama. Verdadeiramente:[NEWLINE]Quando os sentimentos convergem, um é capaz de esquecer[NEWLINE]o que acontece a um brocado cercado."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HONG_LOU_MENG">
+            <Text>"The astúcia desperdiça suas dores;[NEWLINE]Os homens sábios irritam seus cérebros;[NEWLINE]Mas o simplório, que não procura ganhos,[NEWLINE]Com a barriga cheia, ele vagueia livre,[NEWLINE]Com o barco à deriva sobre mar."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KOKIN_WAKASHU">
+            <Text>"Pérolas prateadas[NEWLINE]Será que minhas lágrimas pareciam[NEWLINE]No entanto, com o passar dos anos[NEWLINE]Carmesin chinês[NEWLINE]Tornaram-se."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GENJI_MONOGATARI">
+            <Text>"Não se deve ser indelicado com uma mulher apenas por causa de sua simplicidade, mais do que qualquer um tenha o direito de tomar liberdades com ela só porque ela era bonita."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TSUREZUREGUSA">
+            <Text>"A coisa mais preciosa na vida é a sua incerteza. Deixar algo incompleto a torna interessante e dá a sensação de que há espaço para crescimento."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SHINJUTEN_NO_AMIJIMA">
+            <Text>"Para os ouvidos de alguém possuído pelo Deus da Morte, a razão e as objeções mais parecem reclamações inúteis."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UGETSU_MONOGATARI">
+            <Text>"A lua brilha sobre o rio;[NEWLINE]Vento agita o pinheiro[NEWLINE]Longa noite, noite clara -[NEWLINE]Para que eles servem?"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WAGAHAI_WA_NEKO">
+            <Text>"Viver como eu faço com os seres humanos, quanto mais eu os observo, mais eu sou forçado a concluir que eles são egoístas."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EL_INGENIOSO">
+            <Text>"'Olha, vossa graça', disse Sancho, 'o que você vê ali não são gigantes, mas moinhos de vento, e aquilo que parece ser braços são apenas velas, que giram com do vento e movem a pedra'.[NEWLINE]'Obviamente,', respondeu Dom Quixote, 'você não sabe muito sobre aventuras.'"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MARIA">
+            <Text>"Adormeci triste, preenchido com um pressentimento vago de problemas por vir. Aquela mecha de cabelo retirada da cabeça de um menino, que a precaução de amor contra a morte, mesmo na presença de abundante vida, causou meus pensamentos a vagar durante toda a noite sobre as cenas em que eu presenciei, sem saber, as horas mais felizes da minha vida."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MARTIN_FIERRO">
+            <Text>"Eu sou um gaúcho, e tire isso de mim[NEWLINE]Como minha língua explica para você:[NEWLINE]Para mim, a terra é um lugar pequeno[NEWLINE]E poderia ser maior ainda."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_AZUL">
+            <Text>"Gaitas de Fole da Espanha, vós que podem cantar[NEWLINE]O que é mais doce para nós na Primavera![NEWLINE]Primeiro vocês cantam de alegria e, então, cantam de dor[NEWLINE]tão profunda e tão amargo como a onda principal."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GIRART_DE_VIENNE">
+            <Text>
+                "Que Deus não permita a ação![NEWLINE]Um rei da França não deve ser ferido por mim![NEWLINE]Se ele me perdoar, eu vou ser seu vassalo,[NEWLINE]E lhe assegurar todas as minhas terras em feudo."
+            </texto>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LA_VIE_DE_GARGANTUA">
+            <Text>"Vendo como a tristeza come você, derrota você,[NEWLINE]Eu prefiro escrever sobre risos do que choros,[NEWLINE]Pois o riso faz os homens humanos, e corajosos."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CANDIDE_OU_LOPTIMISME">
+            <Text>"Tolos têm o hábito de acreditar que tudo escrito por um autor famoso é admirável. Da minha parte, eu só leio para agradar a mim mesmo e só o que combina com o meu gosto."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LES_TROIS_MOUSQUETAIRES">
+            <Text>"Um por todos, todos por um, esse é o nosso lema."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LES_MISERABLES">
+            <Text>"A maior felicidade da vida é a convicção de que somos amados - amados por nós mesmos, ou melhor, amados, apesar de nós mesmos... Amar outra pessoa é ver a face de Deus."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_VIGNT_MILLE_LIEUES">
+            <Text>"Capitão Nemo apontou para este monte prodigioso de mariscos, e vi que estas minas eram verdadeiramente inesgotáveis, já que os poderes criativos da natureza são maiores que os instintos destrutivos do homem."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_LA_RECHERCHE">
+            <Text>"Não há nenhum homem, por mais sábio, que não tenha, em algum momento de sua juventude, dito coisas ou vivido uma vida, cuja lembrança seja tão desagradável que ele ficaria feliz em expurgá-la. Ainda assim, ele não deve se arrepender inteiramente, porque ele não pode ter certeza de que ele realmente se tornou um homem sábio."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DIVINA_COMMEDIA">
+            <Text>"Os lugares mais quentes no inferno estão reservados para aqueles que, em tempos de grande crise moral, mantiveram a sua neutralidade."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_IL_CANZONIERE">
+            <Text>"Como você sabe, pobre tolo? Talvez lá fora, em algum lugar, alguém está suspirando por sua ausência; e com esse pensamento, minha alma começa a respirar."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ORLANDO_FURIOSO">
+            <Text>"Nunca houve tanta beleza em outro homem. A natureza o fez, e, em seguida, quebrou o molde."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAUL">
+            <Text>
+                "Eles devem recordar de ti, que David aqui[NEWLINE]se entregou ao feroz Saul -[NEWLINE]Marche em frente, ó Israel, a partir de tuas tendas pacíficas;[NEWLINE]Marche em frente deles, ó Rei."
+            </Texto>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DIE_RAUBER">
+            <Text>"Não que eu tenha qualquer dúvida, mas aquela justiça iria me encontrar com rapidez suficiente, se os poderes acima assim ordenasse. Mas ela pode me surpreender no sono, ou atingir-me em vôo, ou capturar-me com violência, e, então, eu terei perdido o único mérito que me sobrou, o de fazer da minha morte uma penitência por livre arbítrio."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FAUST">
+            <Text>"Quando os sábios estudam uma coisa, eles se esforçam para matá-lo primeiro, se ele está vivo; Então, eles passam a ter as peças, perdido o todo, já que o elo que estava faltando era a alma vivente."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_REVIZOR">
+            <Text>"Não adianta culpar o espelho se o seu rosto é torto."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PRESTIPLENIYE">
+            <Text>"A dor e o sofrimento são sempre inevitáveis para uma grande inteligência e um profundo coração. Os homens realmente grandes, penso eu, devem ter tido grande tristeza sobre a terra."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_VOYNA_I_MIR">
+            <Text>"Você pode amar uma pessoa querida para você com um amor humano, mas um inimigo só pode ser amado com o amor divino."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CHAYKA">
+            <Text>"Por que eu ouço uma nota de tristeza que torce meu coração neste grito de uma alma pura? Se em algum momento você tiver necessidade da minha vida, venha e pegue-a."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NA_DNE">
+            <Text>"A felicidade sempre parece pequena quando você a segura em suas mãos, mas deixe-a ir e você aprende de uma vez o quão grande e preciosa ela é."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CANTERBURY_TALES">
+            <Text>"No entanto, não perca a moral, meus bons homens.[NEWLINE]Pois São Paulo diz que em tudo o que está bem escrito[NEWLINE]está escrito alguma verdade útil para dizer.[NEWLINE]Então, peguem o trigo e deixem a palha quieta."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LE_MORTE_DARTHUR">
+            <Text>"No entanto, alguns homens dizem em muitas partes da Inglaterra que o Rei Artur não está morto, mas está, pela vontade de nosso Senhor Jesus, em outro lugar; e os homens dizem que ele deve voltar."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_FAERIE_QUEENE">
+            <Text>"Pois não há nada perdido, que não possa ser encontrado, se procurado."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MACBETH">
+            <Text>"Vida... é uma fábula[NEWLINE]contada por um idiota, cheia de som e fúria,[NEWLINE]Nada significando."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PRIDE_AND_PREJUDICE">
+            <Text>"Eu não posso consertar na hora, ou o local, ou o olhar ou as palavras, onde a fundação repousa. Eu estava no meio antes de saber que eu tinha começado."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FRANKENSTEIN">
+            <Text>"Aprenda de mim, se não pelos meus preceitos, pelo menos por meu exemplo, o quão perigoso é a aquisição de conhecimento, e quão feliz é o homem que acredita que sua cidade natal seja o mundo, do que aquele que aspira a tornar-se maior do que a sua natureza o permite."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_CHRISTMAS_CAROL">
+            <Text>"Você pode ser um pedaço indigesto de carne, uma mancha de mostarda, uma migalha de queijo, um fragmento de batata mal passada. Há mais molho, seja o que você for!"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ALICES_ADVANTURES">
+            <Text>"'Mas eu não quero ir com povos loucos', observou Alice.[NEWLINE]'Oh, não há nada que você possa fazer.', disse o Gato. 'Nós somos todos loucos aqui. Eu sou louco. Você é louca.'.[NEWLINE]'Por que você diz que eu sou louca?', disse Alice.[NEWLINE]'Você deve ser,', disse o Gato, 'ou não teria vindo aqui'."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BARRACK_ROOM_BALLADS">
+            <Text>
+                "E o primeiro esboço grosseiro que o mundo já viu[NEWLINE]era alegria ao seu coração.[NEWLINE]Até o diabo sussurrou atrás das folhas,[NEWLINE]'É bonito, mas é arte?'"
+            </Texto>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_TIME_MACHINE">
+            .
+            <Text>"Eu acho que, naquela época, nenhum de nós acreditava muito na Máquina do Tempo. O fato é que o viajante do tempo era um daqueles homens demasiadamente inteligentes para ser acreditado: você nunca sentia que via tudo ao seu redor; você sempre suspeitava de alguma reserva sutil, alguma ingenuidade emboscada, por trás de sua franqueza lúcida."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SIGN_OF_THE_FOUR">
+            <Text>"Quando você elimina o impossível, aquilo que permanece, não importa o quão improvável, deve ser a verdade."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LADY_CHATTERLEYS_LOVER">
+            <Text>"Uma mulher tem que viver sua vida, ou viver para se arrepender de não tê-la vivido."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SKETCH_BOOK">
+            <Text>"E ele teria tido uma vida agradável, a despeito do diabo e todas as suas obras, se seu caminho não tivesse sido atravessado por um ser que causa mais perplexidade ao homem mortal que a fantasmas, globins, e toda raça de bruxas juntos, e que era - uma mulher."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_LAST_OF_THE_MOHICANS">
+            <Text>"Chingachgook agarrou a mão que, no calor do sentimento, o batedor havia estendido por toda a Terra fresca, e naquela atitude de amizade estes intrépidos lenhadores inclinaram suas cabeças juntas, enquanto as lágrimas escaldantes caíam a seus pés, regando o túmulo de Uncas como gotas de chuva caindo."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_RAVEN">
+            <Text>"Aberto aqui, joguei o obturador, quando, com muitos um flertar e agitação,[NEWLINE]De lá, saiu um corvo imponente dos dias santos de outrora[NEWLINE]Não menos reverência ele fez; não ficou ou parou um instante;[NEWLINE]Mas, com o semblante de senhor ou senhora, empoleirado em cima da minha porta da câmara."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TWICE_TOLD_TALE">
+            <Text>"Em meio à aparente confusão de nosso mundo misterioso, as pessoas estão tão bem ajustadas a um sistema, e sistemas a um outro e com o todo, que, afastando-se por um momento, um homem se expõe ao medo de arriscar perder seu lugar para sempre."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MOBY_DICK">
+            <Text>"Chame-me Ismael. Alguns anos atrás - não importa quanto tempo exatamente - com pouco ou nenhum dinheiro em minha bolsa, e nada de especial a interessar-me em terra, eu pensei que pudesse navegar um pouco e ver a parte aquosa do mundo."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UNCLE_TOMS_CABIN">
+            <Text>"Tom abriu os olhos e olhou para o seu senhor. 'Sua pobre criatura miserável!', ele disse, 'não há nada mais que você possa fazer. Perdoo-o, com toda a minha alma!'. E ele desmaiou completamente afastado."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WALDEN">
+            <Text>"Fui para os bosques porque pretendia viver deliberadamente, para enfrentar apenas os fatos essenciais da vida, e ver se eu poderia aprender o que ela tinha a ensinar, e não, quando eu vim para morrer, descobrir que eu não tinha vivido."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LEAVES_OF_GRASS">
+            <Text>"Oh Capitão! Meu Capitão! Nossa viagem temível foi feita,[NEWLINE]O barco venceu todas as tormentas; o prêmio que perseguimos foi ganho."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ADVENTURES_OF_HUCKLEBERRY">
+            <Text>"Mas eu acho que eu tenho que fugir para o Território à frente do resto, porque a tia Sally vai me adotar e me ensinar, e eu não posso suportar isso. Eu estive lá antes."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_POEMS">
+            <Text>"Porque eu não conseguia parar para a Morte -[NEWLINE]Ele gentilmente parou para mim -[NEWLINE]O transporte realizado, mas apenas a nós mesmos -[NEWLINE]E imortalidade."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RED_BADGE_OF_COURAGE">
+            <Text>"Ele vagamente desejou andar ao redor do corpo e olhar; o impulso dos vivos para tentar ler nos olhos mortos a resposta para a Pergunta."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WONDERFUL_WIZARD_OF_OZ">
+            <Text>"'Oh - você é um homem muito ruim!'[NEWLINE]'Não, minha querida. Eu sou um homem muito bom. Eu sou apenas um feiticeiro muito ruim.'"</Text>
+        </Row>
+        <Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_GREAT_GATSBY">
+            <Text>"Gatsby acreditava na luz verde, no futuro orgástico que ano após ano recua diante de nós. Ele nos enganou então, mas isso não importa - amanhã vamos correr mais rápido, esticar nossos braços mais longe, e numa bela manhã..."</Text>
+        </Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ROSETTA">
+			<Text>"...aqueles que habitam neles, e até cada um que possua qualquer dignidade em si, agora, eis que ele é semelhante a um deus...."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MAWANGDUI">
+			<Text>"Hemorroida sangrenta. Ferva bem um rato macho na urina. Faça compressa quente com o vapor."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DEAD_SEA">
+			<Text>"Diga-lhes isso: 'Esses deuses, que não fizeram os céus e a terra, desaparecerão da terra e de debaixo dos céus.'"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GILGAMESH">
+			<Text>"Vou escrever o meu nome no lugar onde os nomes de homens famosos são escritos e onde o nome de ninguém está escrito eu vou levantar um monumento aos deuses."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NAG_HAMMADI">
+			<Text>"Mas aqueles a quem ele ungiu são os que têm se tornado perfeito. Para frascos cheios são os que são ungidos. Mas quando a unção de um é dissolvida, ele é esvaziado."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LINEAR_B">
+			<Text>"Assim, viu Phugebris quando o rei nomeou Augewas do-mo-ko-ro... escravos mulheres trinta e dois... cinco meninas mais velhas... meninas menores quinze... quatro meninos mais novos."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PAPYRUS_ANI">
+			<Text>"Salve, ó vós que dais bolos e cervejas para aperfeiçoar almas na Casa de Osiris, dai bolos e cervejas duas vezes por dia para a alma de Osiris Ani, cuja palavra é verdade ante os deuses, os senhores de Abydos."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RUNESTONE">
+			<Text>"Digo isso ao próximo, que em nove gerações atrás perdeu a vida com as Hreidgoths e morreu com elas por sua culpa."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HAMMURABI">
+			<Text>"196. Se um homem arrancar o olho de outro homem, seu olho deve ser arrancado..."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BAKHSHALI">
+			<Text>"Cinco comerciantes juntos compram uma jóia. O seu preço é igual a metade do dinheiro possuído pelo primeiro somado com o dinheiro possuído pelos outros, ou um terço do dinheiro possuído pelo segundo somado com as importâncias possuídas pelos outros..."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CODEX_PEREZ">
+			<Text>"A profecia de Chilam Balam, o cantor, de Cabal-chen, Mani. Em 13 AHAU o katun terminará no tempo do Itza, no momento da Tancah."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JUSHICHIJO_KEMPO">
+			<Text>"Harmonia é para ser valorizada e evitar a devassa oposição para ser honrado... Então o que está lá que não pode ser realizado."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KELLS">
+			<Text>"No princípio era o Verbo... e o Verbo se fez carne e habitou entre nós."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CODEX_BORGIA">
+			<Text>"Tezcatlipoca: aquele por quem vivemos. Lorde do perto e do próximo."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KEDUKAN_BUKRIT">
+			<Text>"No ano 605 do calendário Saka, no décimo primeiro dia da lua cheia de Waisaka, Sua Majestade tomou um barco para fazer lucro."</Text>
+		</Row>		
+    </Language_pt_BR>
+</GameData>

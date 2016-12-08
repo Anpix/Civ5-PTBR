@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_CITY_NAME_BIRSAY">
+			<Text>Birsay</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THURSO">
+			<Text>Thurso</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORNOWAY">
+			<Text>Stornoway</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FISKAVAIG">
+			<Text>Fiskavaig</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IONA">
+			<Text>Iona</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAYEUX">
+			<Text>Bayeux</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAINT_VALERY">
+			<Text>Saint-Valery</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WAREHAM">
+			<Text>Wareham</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHICHESTER">
+			<Text>Chichester</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTHAMPTON">
+			<Text>Northampton</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THETFORD">
+			<Text>Thetford</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STAMFORD">
+			<Text>Stamford</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STAFFORD">
+			<Text>Stafford</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHESTER">
+			<Text>Chester</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LINCOLN">
+			<Text>Lincoln</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1</Plurality>
+		</Row>
+	</Language_pt_BR>
+</GameData>

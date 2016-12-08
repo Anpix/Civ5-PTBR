@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI">
+			<Text>Fiji</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI_ADJ">
+			<Text>Fijiano|Fijiana</Text>
+			<Gender>masculine|feminine</Gender>
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU">
+			<Text>Vanuatu</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU_ADJ">
+			<Text>Vanuatuense|Vanuatuense</Text>
+			<Gender>masculine|feminine</Gender> 
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI">
+			<Text>Kiribati</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI_ADJ">
+			<Text>Kiribatinense|Kiribatinense</Text>
+			<Gender>masculine|feminine</Gender> 
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU">
+			<Text>Nauru</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU_ADJ">
+			<Text>Nauruanense|Nauruanense</Text>
+			<Gender>masculine|feminine</Gender> 
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO">
+			<Text>Nendo</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO_ADJ">
+			<Text>Nendoense|Nendoense</Text>
+			<Gender>masculine|feminine</Gender> 
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL">
+			<Text>Guadalcanal</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL_ADJ">
+			<Text>Guadalcanalano|Guadalcanalana</Text>
+			<Gender>masculine|feminine</Gender> 
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI">
+			<Text>Pohnpei</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI_ADJ">
+			<Text>Pohnpeiense|Pohnpeiense</Text>
+			<Gender>masculine|feminine</Gender> 
+			<Plurality>1|1</Plurality>			
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO">
+			<Text>Majuro</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO_ADJ">
+			<Text>Majurense|Majurense</Text>
+			<Gender>masculine|feminine</Gender> 
+			<Plurality>1|1</Plurality>			
+		</Row>
+	</Language_pt_BR>
+</GameData>

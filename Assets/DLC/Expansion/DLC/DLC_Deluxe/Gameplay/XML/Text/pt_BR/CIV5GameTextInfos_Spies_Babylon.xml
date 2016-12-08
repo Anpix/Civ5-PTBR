@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_0">
+			<Text>Rim-Sin II</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_1">
+			<Text>Smerdis</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_2">
+			<Text>Ilum-ma-ili</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_3">
+			<Text>Peshgaldaramesh</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_4">
+			<Text>Ur-zigurumaš</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_5">
+			<Text>Semiramis</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_6">
+			<Text>Em</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_7">
+			<Text>Ishtar</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_8">
+			<Text>Bilit Taauth</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_9">
+			<Text>Aruru</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_pt_BR>
+</GameData>

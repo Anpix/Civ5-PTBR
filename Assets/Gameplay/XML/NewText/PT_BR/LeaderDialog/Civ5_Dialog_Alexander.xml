@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_1">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_2">
+			<Text>Tudo bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_3">
+			<Text>Com certeza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_4">
+			<Text>De acordo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_5">
+			<Text>Oh, muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_6">
+			<Text>Suponho que devo aceitar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_7">
+			<Text>Excelente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_1">
+			<Text>Excelente. Então, nos encontraremos no campo de batalha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_2">
+			<Text>Aplaudo a sua coragem, não o seu senso. Espero que demonstre mais dignidade do que aparenta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_3">
+			<Text>Ah, é? Eu também estou cansado de paz. Vamos em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_4">
+			<Text>Seu bárbaro idiota. Vou enterrá-lo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_1">
+			<Text>Sua utilidade chegou ao fim. Prepare-se para a aniquilação.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_2">
+			<Text>Você está no meu caminho. Você deve ser destruído.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_3">
+			<Text>Os deuses decretaram que vou conquistar o mundo. Portanto, você deve morrer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_1">
+			<Text>Eu, derrotado? Como isso pode acontecer? Eu... eu sou o herdeiro dos deuses!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_2">
+			<Text>Você me destruiu e com isso ganhou um lugar de honra entre os deuses. Eu o parabenizo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_3">
+			<Text>Você me destruiu? Isto é verdade? Que tipo de criatura é você?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_4">
+			<Text>Fui destruído. Eu o parabenizo pela vitória. Peço que trate com piedade os meus súditos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_ANGRY">
+			<Text>Se você quiser sobreviver, é melhor que aceite as nossas exigências.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_HAPPY">
+			<Text>Meu amigo, a Grécia precisa da sua ajuda. Peço para não nos decepcione!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Seria bom que nos desse imediatamente o seguinte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_1">
+			<Text>Devo recusar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_2">
+			<Text>Não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_3">
+			<Text>Certamente que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_4">
+			<Text>Nós recusamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_5">
+			<Text>Claro que não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_6">
+			<Text>Isso é inaceitável.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_7">
+			<Text>Você não pode estar falando sério!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_8">
+			<Text>Perdão, como disse?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_1">
+			<Text>Eu, Alexandre, descendente de Héracles e Zeus, o cumprimento. Espero que demonstre ser um aliado firme ou um adversário forte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_2">
+			<Text>Saudações e boas vindas! Eu sou Alexandre, filho de Reis e neto dos deuses! Você pode dizer o mesmo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_3">
+			<Text>Bem-vindo estrangeiro! Eu sou Alexandre, governante dessas terras. Busco amigos fortes e inimigos dignos da minha espada. Qual você prefere ser?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_1">
+			<Text>Até à próxima.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_2">
+			<Text>Adeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_3">
+			<Text>Até nos encontrarmos novamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_4">
+			<Text>Vá embora agora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_5">
+			<Text>Isso é tudo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_1">
+			<Text>Bem-vindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_2">
+			<Text>Salve!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_3">
+			<Text>Saudações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_4">
+			<Text>Oh, é você.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_5">
+			<Text>Então?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_6">
+			<Text>O que você quer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_1">
+			<Text>Vamos ouvir.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_2">
+			<Text>Prossiga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_3">
+			<Text>Continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_4">
+			<Text>Estou ouvindo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_5">
+			<Text>Sim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_6">
+			<Text>O que estava dizendo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_7">
+			<Text>E?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_8">
+			<Text>Vá em frente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LOSEWAR_1">
+			<Text>Quero felicitá-lo pela sua vitória temporária.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LOSEWAR_2">
+			<Text>Devo felicitá-lo pela sua vitoria notável. Você ensinou aos poderosos Gregos uma lição de valor!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_QUOTE_1">
+			<Text>Não será digno de lágrimas que, sendo o número de mundos infinito, nós ainda não sermos donos de nenhum?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_QUOTE_2">
+			<Text>O céu não pode admitir dois sóis, nem a Terra dois mestres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Você acha que sou ignorante? Eu aprendi matemática com o próprio Aristóteles. Você tem de fazer melhor que isso!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Isso não é bom o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Você tem que fazer melhor que isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Eu posso ser jovem meu amigo, mas não sou ingênuo nem estúpido. Você pode melhorar sua oferta?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Isso é o melhor que você pode fazer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Você está quase lá...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>A sua oferta é quase um insulto. Sugiro que a melhore ou então a retire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Você não pode fazer um pouco melhor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Isso não é bom o suficiente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Quase...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_ANGRY">
+			<Text>Sua oferta é uma afronta. É um insulto para mim - e para a Grécia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_HAPPY">
+			<Text>Obrigado, mas não.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_NEUTRAL">
+			<Text>Não estou interessado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_ANGRY">
+			<Text>Combinado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_HAPPY">
+			<Text>Excelente. Está combinado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_NEUTRAL">
+			<Text>Muito bem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_ANGRY">
+			<Text>Aqui está a minha oferta. Recuse e sofrerá as consequências.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_HAPPY">
+			<Text>Meu amigo, isso parece razoável para você?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_NEUTRAL">
+			<Text>Eu acredito que isso resultaria em benefícios para nós dois.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_ANGRY">
+			<Text>Seu verme! Esqueceu que você está falando com um rei e herdeiro dos deuses?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_HAPPY">
+			<Text>Apesar da minha grande admiração por você, devo recusar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_NEUTRAL">
+			<Text>Ha, ha, ha! Você deve estar brincando!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_ANGRY">
+			<Text>Muito bem. Parece que não tenho escolha. Mas um dia você pagará por isso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_HAPPY">
+			<Text>Certamente - leve o que lhe agradar! Eu sou a alma da generosidade!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_NEUTRAL">
+			<Text>Muito bem. Aproveite enquanto pode.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_1">
+			<Text>Sem problema. Iremos chegar e conquistar quando estivermos prontos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_2">
+			<Text>Que decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_3">
+			<Text>Mas que decepcionante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_4">
+			<Text>Sério? Eu admiro sua estúpida bravura.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_5">
+			<Text>Que estupidez a sua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_6">
+			<Text>Idiota! Você vai viver para lamentar isso, eu prometo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_1">
+			<Text>Isso foi interessante. Vamos fazer novamente algum dia!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_2">
+			<Text>Você lutou bem - para um bárbaro. Poetas vão escrever sobre a nossa luta épica!</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

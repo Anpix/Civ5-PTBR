@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA">
+			<Text>Kamehameha</Text>
+      <Gender>masculine</Gender> 
+			<Plurality>1</Plurality>									
+		</Row>
+	</Language_pt_BR>
+</GameData>

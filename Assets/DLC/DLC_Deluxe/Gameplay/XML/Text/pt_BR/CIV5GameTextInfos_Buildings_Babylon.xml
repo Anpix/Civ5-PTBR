@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_BUILDING_WALLS_OF_BABYLON_DESC">
+			<Text>Muralhas da Babilônia</Text> 
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+	</Language_pt_BR>
+</GameData>

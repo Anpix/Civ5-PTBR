@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TITLE">
+			<Text>Conquista do Novo Mundo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DESC">
+			<Text>Navegue para o Norte à procura de uma passagem ao Oriente e descubra o que você pode encontrar. Ou jogue como uma civilização nativa Americana, enfrentando uma ameaça inesperada vinda dos oceanos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_NEWWORLD_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles encontrarão uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TURNSREMAINING">
+			<Text>{1: plural 1?Turno restante; other?Turnos restantes;}: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BRIEFING">
+			<Text>Instruções</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_FUTURE_TECH">
+			<Text>Preciosidades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_WONDERS">
+			<Text>Maravilhas/China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+			<Text>{1_Num} de Preciosidades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_WONDERS">
+			<Text>{1_Num} de Maravilhas/China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MAY_NOT_ATTACK_MOD">
+			<Text>Não é possível atacar este jogar até que você pesquise a tecnologia Pirataria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_DESC">
+			<Text>Em sua mais básica forma, o Imperialismo descreve uma relação desigual entre duas nações, onde uma possui algum controle sobre a outra - normalmente na forma de algum tipo de império. As dinastias imperialistas podem ser encontradas em todas as histórias do mundo, da China e Roma a Grã-Bretanha, e o imperialismo é um conceito que existe por milhares de anos, em geral desde que existe o conceito de governo. O termo "imperialismo", porém, só foi cunhado no século XVI, quando foi utilizado para designar as políticas estrangeiras e procedimentos de nações como a Espanha, Bretanha, Bélgica e Holanda, já que elas rapidamente construíram laços imperiais com as Américas.[NEWLINE][NEWLINE]Embora o Imperialismo seja tradicionalmente ligado com grandes impérios militares, ela pode ser visto de uma maneira bem mais sutil. O controle formar de um governo estatal mais fraco nem sempre é necessário e uma civilização mais forte, às vezes, controlará o mais fraco indiretamente, por meio de expedientes econômicos, políticos ou religiosos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Conquistador[ENDCOLOR], uma unidade especialista em exploração e criação de cidades além-mar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Imperialismo é uma fanfarrice."[NEWLINE][TAB][TAB] - Mao Zedong[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_DESC">
+			<Text>Tradição Naval descreve tanto a dedicação de uma civilização à viagem naval, e sua capacidade de manter uma marinha permanente, quanto às tradições e costumes conservados por estas armadas. Muitas civilizações costeiras, como a Bretanha e Espanha, possuem grandes tradições navais, já que o oceano participou de forma importante em seu desenvolvimento econômico e político. Enquanto alguns países sem saída para o mar empregavam soldados profissionais para manterem a paz e promoverem a guerra, civilizações costeiras mantinham frotas e flotilhas, ao invés de exércitos terrestres, para percorrer os mares em busca de navios inimigos e piratas.[NEWLINE][NEWLINE]Muitas tradições nascidas nas primeiras armadas ainda são seguidas por marinheiros atuais e outros expandiram a forma de trabalhar nos navios às pessoas em terra. Algumas práticas, como usar calças boca de sino, usar botões decorativos nas mangas de camisas e algumas boas maneiras possuem suas raízes em tradições navais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_HELP">
+			<Text>Ascensão dos Novos Mundos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Não venha falar sobre tradição naval comigo. Isso nada mais é que esquisitice, sodomia e sarcasmo."[NEWLINE][TAB][TAB] - Winston Churchill[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_DESC">
+			<Text>Soldados profissionais são um avanço sobre as milícias maltrapilhas que a maioria das civilizações possuía. Esses soldados com dedicação em tempo integral são mais bem treinados e, em tudo, mais efetivos que a média dos camponeses com coletes de couro e uma forquilha. O Império Romano criou um dos primeiros exércitos personalizados com soldados profissionais, que eram a parte essencial para suas completas vitórias militares. Na Europa, alguns dos primeiros soldados profissionais eram empregados por Carlos VII, da França, em 1445 e, depois, pelo Rei James II da Bretanha, em 1685.[NEWLINE][NEWLINE]Soldados Profissionais são a parte mais importante do exército e sistema de defesa de uma civilização moderna e podem ser encontrados em muitos dos países desenvolvidos do mundo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Terço[ENDCOLOR], uma unidade dominante de ataque corpo-a-corpo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Apesar de ser um soldado por profissão, eu nunca gostei da guerra e nunca a defendi, exceto como uma forma de chegar à paz."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_DESC">
+			<Text>Invadindo, saqueando, criando indescritível violência no mar - a vida de um pirata é uma boa vida. Geralmente romantizada pela mídia popular, piratas são tudo, menos o engenhoso Capitão Jack Sparrow ou o Rei Pirata que entretém os jovens da atualidade. Esses criminosos navais pegavam cargas de outros navios pela força, invadiam cidades costeiras e eram, em geral, uma forma de ameaça a todas as formas de sociedade civilizada. A Pirataria provavelmente existe desde que as civilizações começaram a transportar bens e pessoas pelos mares - um dos primeiros registros de pirataria é datado do século XIII a.C.[NEWLINE][NEWLINE]Alguns dos contos piratas mais famosos são creditados aos Vikings Europeus, que aterrorizaram vilas e cidades costeiras, além dos Piratas Caribenhos, que geralmente gostavam de atacar navios espanhóis carregados com bastante ouro. Esta era "clássica" da pirataria é uma das mais retratadas em filmes e livros, durando desde 1560 e 1720. Apesar de esta ilustração pirata com espada e chapéu alegre agora estar restrita aos trabalhos de ficção, a pirataria continua sendo encontrada furiosamente em muitas águas, especialmente na costa da Península Árabe. Entretanto, a pirataria não deve ser confundida com o ato de guerra de corso, uma forma de invasão naval autorizada por um governo legítimo, usualmente utilizada em tempos de guerra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_HELP">
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR] e permite aos Europeus declarar guerra uns contra os outros.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"As únicas regras que realmente importam são estas: o que um homem pode ou não pode fazer... Eu, por exemplo, posso deixar você se afogar, mas não posso levar este navio até Tortuga, entende? Então, você pode navegar sob o comando de um pirata ou não pode?"[NEWLINE][TAB][TAB] - Capitão Jack Sparrow[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_DESC">
+			<Text>Embora a maioria das embarcações seja construída para cruzar os oceanos rapidamente ou carregar a maior quantidade de carga no menor espaço possível, navios de guerra são fabricados para somente uma razão: destruírem outras embarcações. Embora sejam obviamente armados com algum tipo de armamento (tradicionalmente coisas como canhões e aríetes), navios de guerra também podem suportar mais dano e são mais manobráveis que, por exemplo, embarcações comerciais ou de passageiros.[NEWLINE][NEWLINE]Assim como as tecnologias navais avançaram, os navios de guerra também. Galés e trirremes foram as primeiras formas de navios de guerra capazes de atacar embarcações inimigas, mas normalmente o combate era travado pelo exército que ficava a bordo. Porém, assim que o canhão se tornou capaz de ser recarregado com rapidez, grandes navios a vela foram equipados com linhas deste armamento em cada lado das embarcações. Naturalmente esses navios de madeira foram substituídos pelos de ferro e aço e as velas foram abandonadas em favor do vapor e da energia nuclear. Pesar de as modernas embarcações de guerra pouco lembrar os navios antigos, elas ainda mantêm os mesmo princípios básicos de desenho: serem capazes de destruir o outro primeiro, antes que ele faça o mesmo com elas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], a unidade naval mais poderosa da Renascença.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Que se danem os torpedos! Toda força à frente!"[NEWLINE][TAB][TAB] - Almirante David Glasgow Farragut[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_DESC">
+			<Text>Normalmente formada por um grupo de elite armado, a guarda real é a unidade militar tradicional ou cerimonial empregada na proteção da realeza ou do clero superior. Historicamente, esses membros de elite também serviram com objetivo político duplo, já que sua posição única lhes permitia influenciar a opinião dada por um monarca ou ser parte chave de qualquer tipo de golpe ou revolta.[NEWLINE][NEWLINE]Alguns regimentos de guarda real se tornaram célebres e bem conhecidos fora dos seus países de origem, como as Tropas da Casa Real da Espanha e os Mosqueteiros Franceses. Estes últimos foram tecnicamente apenas uma unidade iniciante da Guarda Real Francesa, abaixo da Guarda do Corpo, que era responsável pela proteção realmente dita. Porém, em parte graças ao trabalho de Alexandre Dumas, Os Três Mosqueteiros se tornaram uma das guardas reais mais populares e reconhecíveis de qualquer civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_HELP">
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Mosqueteiro[ENDCOLOR], uma versão avançada do Mosquete normal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Este mundo é um domínio incerto, cheio de perigos. A honra minada pela busca de poder e a liberdade sacrificada quando o mais fraco é oprimido pelo mais forte. Mas há aqueles que se opõem a essas poderosas forças, que dedicam suas vidas à verdade, honra e liberdade. Esses homens são conhecidos como Mosqueteiros."[NEWLINE][TAB][TAB] - Rei Luís[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_DESC">
+			<Text>Em muitas religiões do mundo, há comunidades e organizações especiais de devotos individuais que vivem à margem da maioria da sociedade, normalmente para se manter mais perfeitamente alinhadas com suas crenças religiosas específicas. Essas ordens religiosas frequentemente possuem a forma física de monastérios, um edifício ou complexo onde os piedosos podem trabalhar e ver.[NEWLINE][NEWLINE]Embora algumas ordens religiosas se satisfaçam em residir e rezar em seus países nativos, outras, porém, são fundadas para o único objetivo de se expandir e espalhar sua crença para novas pessoas. Os missionários Jesuítas nas Américas são um exemplo. Eles viajaram através do Atlântico, construíram monastérios e missões em solo Americano, onde ensinaram aos povos locais sobre sua fé e o básico da educação ocidental.
+      </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Monastério[ENDCOLOR], uma edificação que permite o rápido aumento das fronteiras culturais de uma cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Os Jesuítas que sei que já morreram e foram grandes mestres em suas vidas, são os menos lembrados."[NEWLINE][TAB][TAB] - Daniel Berrigan[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_DESC">
+			<Text>Assim que os Espanhóis chegaram às Américas e conheçeram a enviar seus novos achados e tesouros de volta à Europa, eles precisaram criar um novo e eficiente método de navegação para combater a crescente pressão de ataques piratas contra suas embarcações. A Fragata Preciosa Espanhola foi a resposta: um sistema especial de comboio de embarcações que eram rigorosamente reguladas tanto nas práticas de ancoragem quanto de navegação. Barcos que saíam das Américas com destino à Espanha eram instruídos a viajarem em grupo e em uma linha de navegação específica, o que lhes permitia serem facilmente protegidas por uma força armada pequena. Essas embarcações, portanto, somente navegavam para cidades portuárias protegidas (como Sevilha), para evitar o risco de ataques piratas.[NEWLINE][NEWLINE]A Fragata Preciosa foi empregada pela Espanha do século XVI até o XVIII com muito sucesso e ainda é contabilizada como uma das operações navais mais proveitosas e eficientes de toda a história. No entanto, a perda de importantes cidades costeiras, no início dos anos 1700, começou a ameaçar a continuidade da existência da frota. Na aposta para combater isso, o Rei Carlos III afrouxou o rigoroso sistema em 1765 e deu a várias colônias acesso a frota, em 1780. Porém, a última frota completa navegou em 1790 e viagens entre os dois continentes foram restritas a pequenos grupos de embarcações, somente quando necessário.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_HELP">
+			<Text>Concede a promoção [COLOR_POSITIVE_TEXT]Embarque Defensivo[ENDCOLOR] a todas as unidades terrestres, permitindo que elas se defendam contra ataques navais.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Ouro é um tesouro e quem o possuir terá todos os seus desejos realizados neste mundo, além de ajudar as almas no paraíso."[NEWLINE][TAB][TAB] - Cristóvão Colombo[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_HEADING">
+			<Text>Preciosidade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_TEXT">
+			<Text>A Unidade Preciosa engloba todo o sistema Espanhol de Fragata Preciosa no Novo Mundo, da mina ao destino. Após o ouro e a prata serem escavados em vários locais nas Américas, eles eram embarcados, juntamente com mulas e lhamas, em viagens por rotas bem documentadas a um porto específico da costa Espanhola nas Américas. Destes portos, o tesouro era então carregado em galeões e barcos mercantes, que navegavam juntos em comboios maciços através do Oceano Atlântico. Esses navios seguiam um caminho preciso toda vez que atravessavam o oceano rumo à Espanha, permitindo que pudessem se proteger contra piratas e ladrões. Essas unidades preciosas ajudaram fazer da Espanha a civilização mais rica do seu tempo e foram fundamentais na criação de uma das mais impressionantes operacionais navais do mundo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_TREASURE_STRATEGY">
+			<Text>Uma unidade civil exclusiva deste cenário que representa um comboio de mulas terrestres (ou uma Fragata Preciosa, quando embarcada) carregando ouro ou prata do Novo Mundo. Leve-a para sua Capital para ganhar ouro e pontos de vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_SPANISH_EXPLORER">
+			<Text>Colombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_FRENCH_EXPLORER">
+			<Text>Verrazano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_ENGLISH_EXPLORER">
+			<Text>Cabot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_HELP">
+			<Text>Unidade militar dominante da Renascença. Esta unidade possui uma grande [ICON_STRENGTH]Força de Combate, assim como a promoção Bônus x Montaria (100). Pode ser treinada por qualquer civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_STRATEGY">
+			<Text>Esta unidade é mais forte em combate que o Mosquete e luta com força em dobro contra unidades de montaria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_HELP">
+			<Text>Unidade da Renascença que é especialista em exploração e colonização além-mar. Pode ser treinada por qualquer civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_STRATEGY">
+			<Text>O Conquistador é uma unidade multitarefa que é forte tanto na terra quanto no mar. É um explorador excepcional em terra com visibilidade extra e a habilidade de fundar novas cidades. Na água, o Conquistador possui a promoção Embarque Defensivo que lhe permite se defender de unidades navais. Além disso, não sofre penalidade quando ataca cidades, ao contrário do Cavaleiro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_HELP">
+			<Text>Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do Mosquete, o que a torna a unidade de ataque corpo-a-corpo mais poderosa do jogo. Pode ser treinada por qualquer civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_STRATEGY">
+			<Text>O Mosqueteiro é significantemente mais forte que o Mosquete, o que o torna o soldado terrestre mais poderoso do jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_SPAIN_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles irão encontrar uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_ENGLAND_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles irão encontrar uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
+		</Row>      		    
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_FRANCE_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles irão encontrar uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_INCA_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles irão encontrar uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_AZTECS_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles irão encontrar uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_IROQUOIS_TEXT">
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles irão encontrar uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>Seja bem-vindo. Eu sou Francis I, o grande patrono da arte Renascentista!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>Seja bem-vindo, estrangeiro! Eu sou Francis I, Rei da França! Eu sou leal aos meus amigos e mortal aos meus inimigos. Qual deles você será?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>Ah. Enfim nos conhecemos. Eu sou Francis I, Rei da França. Venha: tratemos da divisão das terras além-mar entre as nossas duas grandes nações.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>Saudações. Eu sou Francis I, grande Rei da França. Está interessado em ver meu último castelo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_SUBTITLE">
+			<Text>Rei da França</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_LIVED">
+			<Text>1494 - 1547 d.C.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_HEADING_1">
+      <Text>História</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_1">
+      <Text>Francis I foi o rei da França, de 1515 até 1547, período em que ajudou os Franco-Otomanos a se unirem com Suleiman I. O Sagrado Imperador Romano Carlos V era o maior inimigo de Francis e foi o alvo de várias campanhas militares. Na Batalha de Pavia, em 1525, Francis teria sido capturado por Carlos e mantido assim por mais de um ano, até se virar contra seus dois filhos, Henry e Francis, em troca de sua liberdade.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+			<Text>Aliados Nativos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCURVY">
+			<Text>Escorbuto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCURVY_HELP">
+			<Text>65% de chance de sofrer 1 de dano se terminar o turno fora de território amigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SCURVY">
+			<Text>Perde saúde fora de território amigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MISC_YOU_UNIT_WAS_DESTROYED_ATTRITION">
+			<Text>{@1: gender masculine?{@1: plural 1?Seu; other?Seus;}; feminine{@1: plural 1?Sua; other?Suas;};} {@1_UnitName} {@1: gender masculine?{@1: plural 1?foi destruído; other?foram destruídos;}; feminine{@1: plural 1?foi destruída; other?foram destruídas;};} pelo Escorbuto!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MISC_YOU_UNIT_WAS_DAMAGED_ATTRITION">
+			<Text>Escorbuto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_CIRCUMNAVIGATION">
+			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais duas Caravelas podem ganhar recompensas por viajarem à China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_SECOND_CIRCUMNAVIGATION">
+			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta segunda façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais uma Caravela pode ganhar recompensas por viajar à China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_THIRD_CIRCUMNAVIGATION">
+			<Text>{@1: gender masculine?{@1: plural 1?O; other?Os;}; feminine{@1: plural 1?A; other?As;};} {@1_UnitName} {@1: plural 1?chegou; other?chegaram;} à China! Por esta terceira façanha de circum-navegação você recebe {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória. Mais nenhuma recompensa será dada por viajar à China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_OTHER_CIRCUMNAVIGATION">
+			<Text>Um explorador {@1: gender masculine?{@1: plural 1?do; other?dos;}; feminine{@1: plural 1?da; other?das;};} {@1_PlyrName} chegou à China. Mais {2_Num} {2: plural 0?Caravela; 1?Caravela; other?Caravelas;} podem receber ouro e pontos de vitória por {2: plural 0?fazer; 1?fazer; other?fazerem;} a viagem à China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_FOUND">
+			<Text>Tesouro Encontrado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RAZED_CITY">
+			<Text>Um tesouro foi gerado pela eliminação de {@1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_CAPTURED_CITY">
+			<Text>3 tesouros foram gerados pela captura de {@1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_NATURAL_WONDER">
+			<Text>Um tesouro foi encontrado próximo a {@1_NWName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RETURNED_SHORT">
+			<Text>Tesouro Retornado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RETURNED">
+			<Text>Um tesouro foi retornado a {@1_CityName}, fornecendo a você {2_GoldAmount} de [ICON_GOLD]Ouro e {3_VPAmount} {3: plural 1?Ponto; other?Pontos;} de Vitória.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_RESCH_AGREEMENT_NO_TECH">
+			<Text>Acordos de pesquisas não são permitidos neste cenário.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ABLTY_DECLARE_WAR_ALL">
+			<Text>Permite declarações de guerra contra qualquer civilização</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TRAPPING_HELP">
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campo de Caça[ENDCOLOR] em fontes de [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles[ENDCOLOR], que aumenta a geração de [ICON_GOLD]Ouro daqueles hexágonos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MATHEMATICS_HELP">
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Catapulta[ENDCOLOR], uma poderosa arma de cerco.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas. Também oferece uma variedade de outros benefícios à [ICON_RESEARCH]Ciência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVIGATION_HELP">
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR], um edifício que elimina o escorbuto de unidades navais. Também permite a construção, em cidades costeiras, do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que oferece [ICON_PRODUCTION]Produção de recursos marinhos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_HELP">
+			<Text>O custo de [ICON_CULTURE]Cultura para aquisição de novos hexágonos é reduzido em 75% na cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
+			<Text>O Monastério aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do seu território e a aquisição de Políticas Sociais. Além disso, ele quadriplica a taxa de crescimento das fronteiras culturais da cidade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
+			<Text>Corsário</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_STRATEGY">
+			<Text>O Corsário é a unidade disponibilizada pela tecnologia Pirataria, que deve ser pesquisada antes que as civilizações Europeias possam declarar guerra. Use Corsários para atacar embarcações inimigas e roubar unidades preciosas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_TEXT">
+			<Text>Rondando os mares à procura da sua próxima vítima, o Corsário é um pirata legal, entregando cartas com a marca do seu soberano para atacar embarcações inimigas em tempo de guerra. O principal objetivo de um Corsário é interromper as rotas comerciais do inimigo, enfraquecendo a sua economia ou a habilidade de guarnecer sua fragata e exército. Normalmente, o Corsário era um comerciante empreendedor que já possuía sua própria embarcação, tripulação e conhecia bem o mar e suas rotas comerciais. Em geral, o Corsário trabalhava sozinho, mas, às vezes, ele se juntava a outros para formarem uma grande frota, a fim de abater alguns dos grandes inimigos.[NEWLINE][NEWLINE]O Corsário não visava o naufrágio da embarcação inimiga - somente sua captura e seus bens. O espólio era normalmente leiloado, com os ganhos repartidos entre o Corsário, algum possível investidor financeiro e a coroa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_HELP">
+			<Text>Unidade naval da Renascença, usada para atacar civilizações Europeias e roubar tesouros.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
+			<Text>Escola de Navegação</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_HELP">
+			<Text>Remove escorbuto de todas as unidades navais construídas pelo Império.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_TEXT">
+			<Text>Cartógrafos, engenheiros navais e capitães experientes não vieram do nada - muitos desses homens estudados e trabalhadores foram treinados em institutos como Escolas de Navegação. Capitães e estudiosos compartilhava seus conhecimentos navais acumulados na escola, que transmitia essa sabedoria aos menos experientes. Padrões climáticos de novas rotas eram mapeados, cartográficos eram instruídos no uso dos melhores e mais atuais instrumentos e novos tipos de barcos eram desenhados e construídos.[NEWLINE][NEWLINE]Acredita-se que Henrique, o Navegador de Portugal,  começou a primeira Escola de Navegação em Sagres, sua vila. Embora ela tenha mantido um grande grupo de cartográficos para mapear a linha costeira de parte da África, ainda não há evidências definitivas de que havia uma escola central para navegadores e estudiosos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_STRATEGY">
+			<Text>Constrói a Maravilha Nacional Escola de Navegação, para assegurar que todas as futuras unidades navais não irão sofrer com a promoção Escorbuto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_LEON">
+			<Text>De Leon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_NARVAEZ">
+			<Text>Narvaez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_VACA">
+			<Text>De Vaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_MAGELLAN">
+			<Text>Magellan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_SOTO">
+			<Text>De Soto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ULLOA">
+			<Text>Ulloa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_VESPUCCI">
+			<Text>Vespucci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CARTIER">
+			<Text>Cartier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ROBERVAL">
+			<Text>Roberval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHAMPLAIN">
+			<Text>Champlain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_RUT">
+			<Text>Rut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHANCELLOR">
+			<Text>Chancellor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_WILLOUGHBY">
+			<Text>Willoughby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_GRENVILLE">
+			<Text>Grenville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_HUDSON">
+			<Text>Hudson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORTES">
+			<Text>Cortes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORDOVA">
+			<Text>Cordova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_PIZARRO">
+			<Text>Pizarro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_ORELLANA">
+			<Text>Orellana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORONADO">
+			<Text>Coronado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MONTEJO">
+			<Text>Montejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_BALBOA">
+			<Text>Balboa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_VILLEGAGNON">
+			<Text>Villegagnon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_LAUDONNIERRE">
+			<Text>Laudonnierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_RIBAULT">
+			<Text>Ribault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_DEVEREUX">
+			<Text>Devereux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_NORREYS">
+			<Text>Norreys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MOUNTJOY">
+			<Text>Mountjoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_SMITH">
+			<Text>Smith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_WINTHROP">
+			<Text>Winthrop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_MENENDEZ">
+			<Text>Menendez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_SANTA_CRUZ">
+			<Text>Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FLEURY">
+			<Text>Fleury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_CLERC">
+			<Text>Le Clerc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_TESTU">
+			<Text>Le Testu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DE_SORES">
+			<Text>De Sores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DRAKE">
+			<Text>Drake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_RALEIGH">
+			<Text>Raleigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_HAWKINS">
+			<Text>Hawkins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_CAVENDISH">
+			<Text>Cavendish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FROBISHER">
+			<Text>Frobisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_GILBERT">
+			<Text>Gilbert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INUIT_TEXT">
+			<Text>Os Inuítes eram um povo indígena que habitava as regiões árticas da Groelândia e América do Norte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SEMINOLE_TEXT">
+			<Text>Os Seminoles eram alguns dos povos indígenas da Flórida e tinham relação próxima com os Muscógui (ambos são povos Creek).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_LAKOTA_TEXT">
+			<Text>Os Lakotas eram um grupo de habitantes indígenas das planícies Norte Americanas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CARIB_TEXT">
+			<Text>Os Caraíbas eram alguns dos povos indígenas das Índias Ocidentais. Eles lutaram as primeiras batalhas contra os Espanhóis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CHEROKEE_TEXT">
+			<Text>Os Cherokees eram um grupo de habitantes indígenas do Sudoeste dos Estados Unidos. Eles tinham relação próxima com os Iroqueses, portanto, acredita-se que eles migraram dos Grandes Lagos para o Sul nos tempos pré-históricos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ALGONQUIN_TEXT">
+			<Text>Os Algonquins eram um grupo de habitantes indígenas de Quebec. Eles se tornaram arquirrivais dos Iroqueses, com quem competiam pelo comércio de peles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_HURON_TEXT">
+			<Text>Os Hurões eram alguns dos povos indígenas do Canadá, inicialmente vivendo na costa norte do Lago Ontário, nos tempos dos primeiros contatos dos Europeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MUSCOGEE_TEXT">
+			<Text>Os Muscógui eram alguns dos povos indígenas do Sudoeste dos Estados Unidos e descendiam da cultura Mississipiana.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_WABANAKI_TEXT">
+			<Text>Os Wabanaki eram o "povo do amanhecer" -- indígenas das províncias marítimas do leste do Canadá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAPUCHE_TEXT">
+			<Text>Os Mapuches são alguns dos povos indígenas do Chile e Argentina. Eles eram chamados de Araucanianos pelos colonizadores Espanhóis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ARAWAK_TEXT">
+			<Text>Os Aruaques eram um grupo de habitantes indígenas das Índias Ocidentais. Eles foram os primeiros nativos encontrados por Cristóvão Colombo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT">
+			<Text>Os Maias eram habitantes indígenas da Península Yucatã. Eles eram uma civilização qualificada em matemática, astronomia e eram construtores de elaboradas pirâmides de pedra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_YANOMAMI_TEXT">
+			<Text>Os Ianomâmis são uma tribo indígena da bacia Amazônica. Eles possuem uma cultura da idade da pedra que não teve contato com os Europeus até 1929.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MUISCA_TEXT">
+			<Text>Os Muíscas eram um grupo de habitantes indígenas do Planalto Colombiano. Eles tiveram seus primeiros contatos com os Espanhóis em 1537 e, provavelmente, são a fonte da lenda do El Dorado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_HOPI_TEXT">
+			<Text>Os Hopis são um dos povos indígenas do Sudoeste dos Estados Unidos. Eles foram os primeiros a serem encontrados pela expedição de Coronado, em 1540.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANASAZI_TEXT">
+			<Text>Os Anasazis eram uma antiga cultura indígena, precursores do moderno povo Pueblo. Os anasazis são conhecidos por terem construído as habitações em precipícios de Mesa Verde.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

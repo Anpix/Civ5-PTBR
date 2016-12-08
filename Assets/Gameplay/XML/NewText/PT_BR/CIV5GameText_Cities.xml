@@ -1,0 +1,4424 @@
+﻿<!-- Sid Meier's Civilization V -->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_CITY_NAME_AARHUS">
+			<Text>Aarhus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ABUSIR">
+			<Text>Abusir</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ABYDOS">
+			<Text>Abydos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ADANA">
+			<Text>Adana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ADEN">
+			<Text>Aden</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AFYON">
+			<Text>Afyon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGRA">
+			<Text>Agra</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGRIPPINA">
+			<Text>Agrippina</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AHMEDABAD">
+			<Text>Ahmedabad</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AINU">
+			<Text>Ainu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AIX_EN_PROVINCE">
+			<Text>Aix-en-Province</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKHETATEN">
+			<Text>Akhetaten</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKHMIN">
+			<Text>Akhmim</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKITA">
+			<Text>Akita</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKORIS">
+			<Text>Akoris</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALBAFUCENS">
+			<Text>Alba Fucens</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALBUQUERQUE">
+			<Text>Albuquerque</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALEMANNI">
+			<Text>Alemanni</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALEPPO">
+			<Text>Aleppo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALEXANDRIA">
+			<Text>Alexandria</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALGIERS">
+			<Text>Algiers</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALMATY">
+			<Text>Almaty</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALTINTEPE">
+			<Text>Altin Tepe</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMARA">
+			<Text>Amara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMARAVATI">
+			<Text>Amaravati</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMASYA">
+			<Text>Amasya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMIENS">
+			<Text>Amiens</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMRAH">
+			<Text>Amrah</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANASAZI">
+			<Text>Anasazi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCHORAGE">
+			<Text>Anchorage</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANGLE">
+			<Text>Angle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIBA">
+			<Text>Aniba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANJAR">
+			<Text>Anjar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANKARA">
+			<Text>Ankara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTALYA">
+			<Text>Antalya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTIUM">
+			<Text>Antium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTWERP">
+			<Text>Antwerp</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOMORI">
+			<Text>Aomori</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APACHE">
+			<Text>Apache</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APOLLONIA">
+			<Text>Apollonia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APOLYTON">
+			<Text>Apolyton</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AQUILEIA">
+			<Text>Aquileia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARDEA">
+			<Text>Ardea</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARGOS">
+			<Text>Argos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARKHANGELSK">
+			<Text>Arkhangel'sk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARMANT">
+			<Text>Armant</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARMINIUM">
+			<Text>Arminium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARPINUM">
+			<Text>Arpinum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARRETIUM">
+			<Text>Arretium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARSHADA">
+			<Text>Arshada</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARTAKOANA">
+			<Text>Artakoana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARTAXATA">
+			<Text>Artaxata</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARTUIN">
+			<Text>Artuin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARYAN">
+			<Text>Aryan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASPABOTA">
+			<Text>Aspabota</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASSYRIAN">
+			<Text>Assyrian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASTRAKHAN">
+			<Text>Astrakhan'</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASYUT">
+			<Text>Asyut</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS">
+			<Text>Atenas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHRIBIS">
+			<Text>Athribis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATLANTA">
+			<Text>Atlanta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATZCAPOTZALCO">
+			<Text>Atzcapotzalco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUGUSTADORUM">
+			<Text>Augustadorum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AURELIANORUM">
+			<Text>Aurelianorum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUTIYARA">
+			<Text>Autiyara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AVAR">
+			<Text>Avar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AVARIS">
+			<Text>Avaris</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AVIGNON">
+			<Text>Avignon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AYDAB">
+			<Text>Aydab</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AYODHYA">
+			<Text>Ayodhya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AYOTZINCO">
+			<Text>Ayotzinco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BACTRA">
+			<Text>Bactra</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BACTRIAN">
+			<Text>Bactrian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BADARI">
+			<Text>Badari</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAGACUM">
+			<Text>Bagacum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAGASTANA">
+			<Text>Bagastana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAGHDAD">
+			<Text>Bagdá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAI_BALIQ">
+			<Text>Bai Baliq</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BALAT">
+			<Text>Balat</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BALKH">
+			<Text>Balkh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BALTIMORE">
+			<Text>Baltimore</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAMPUR">
+			<Text>Bampur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BANGALORE">
+			<Text>Bangalore</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BANTU">
+			<Text>Bantu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAODING">
+			<Text>Baoding</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BASRA">
+			<Text>Basra</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BATH">
+			<Text>Bath</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BATTAMBANG">
+			<Text>Battambang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAXTRI">
+			<Text>Baxtri</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAYONNE">
+			<Text>Bayonne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAYT_RAS">
+			<Text>Bayt Ras</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BEHISTUN">
+			<Text>Behistun</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BEIJING">
+			<Text>Pequim</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELFAST">
+			<Text>Belfast</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELGIUM">
+			<Text>Belgium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELGRADE">
+			<Text>Belgrado</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIHASAN">
+			<Text>Beni Hasan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BERGEN">
+			<Text>Bergen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BERLIN">
+			<Text>Berlin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BERN">
+			<Text>Bern</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BERWICK">
+			<Text>Berwick</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BIELEFELD">
+			<Text>Bielefeld</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BIRMINGHAM">
+			<Text>Birmingham</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BITLIS">
+			<Text>Bitlis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BIZEN">
+			<Text>Bizen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKPOOL">
+			<Text>Blackpool</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOCHUM">
+			<Text>Bochum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BODHGAYA">
+			<Text>Bodhgaya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BODRUM">
+			<Text>Bodrum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOISE">
+			<Text>Boise</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUMBAI">
+			<Text>Mumbai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BONN">
+			<Text>Bonn</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORAZJAN">
+			<Text>Borazjan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDEAUX">
+			<Text>Bordeaux</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOSTON">
+			<Text>Boston</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOURGES">
+			<Text>Bourges</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRAUNSCHWEIG">
+			<Text>Braunschweig-Brunswik</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BREMEN">
+			<Text>Bremen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BREST">
+			<Text>Brest</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRIGHTON">
+			<Text>Brighton</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRISTOL">
+			<Text>Bristol</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRUNDISIUM">
+			<Text>Brundisium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRUSSELS">
+			<Text>Bruxelas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRYANSK">
+			<Text>Bryansk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUBASTIS">
+			<Text>Bubastis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCHAREST">
+			<Text>Bucareste</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUDAPEST">
+			<Text>Budapeste</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUFFALO">
+			<Text>Buffalo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUKHARA">
+			<Text>Bukhara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BULGAR">
+			<Text>Bulgar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUNYAN">
+			<Text>Bunyan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURGUNDIAN">
+			<Text>Burgundian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURSA">
+			<Text>Bursa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUSIRIS">
+			<Text>Busiris</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUTO">
+			<Text>Buto</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BYBLOS">
+			<Text>Byblos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAEN">
+			<Text>Caen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAESARAUGUSTA">
+			<Text>Caesaraugusta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAESAREA">
+			<Text>Caesarea</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALAIS">
+			<Text>Calais</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALCUTTA">
+			<Text>Calcutá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIXTLAHUACA">
+			<Text>Calixtlahuaca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAMBODIA">
+			<Text>Cambodia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAMBRIDGE">
+			<Text>Cambridge</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CANNES">
+			<Text>Cannes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CANTERBURY">
+			<Text>Canterbury</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAPISA">
+			<Text>Capisa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARCASSONNE">
+			<Text>Carcassonne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARIB">
+			<Text>Carib</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARLISLE">
+			<Text>Carlisle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CASABLANCA">
+			<Text>Casablanca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CASTRUMNOVUM">
+			<Text>Castrum Novum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CEMPOALA">
+			<Text>Cempoala</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CENTRALIA">
+			<Text>Centralia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHALCHIUITES">
+			<Text>Chalchiuites</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHALCO">
+			<Text>Chalco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAPULTEPEC">
+			<Text>Chapultepec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLESTON">
+			<Text>Charleston</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARSADDA">
+			<Text>Charsadda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARTRES">
+			<Text>Chartres</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHEHALIS">
+			<Text>Chehalis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHELYABINSK">
+			<Text>Chelyabinsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHEMNITZ">
+			<Text>Chemnitz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHENGDU">
+			<Text>Chengdu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHERBOURG">
+			<Text>Cherbourg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHEROKEE">
+			<Text>Cherokee</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHIAUHITA">
+			<Text>Chiauhita</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHICAGO">
+			<Text>Chicago</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHICONAUTLA">
+			<Text>Chiconautla</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHINOOK">
+			<Text>Chinook</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHITA">
+			<Text>Chita</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHONGQING">
+			<Text>Chongqing</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIMMERIAN">
+			<Text>Cimmerian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CINCINNATI">
+			<Text>Cincinnati</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIRCASSIAN">
+			<Text>Circassian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIRCEI">
+			<Text>Circei</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLEVELAN">
+			<Text>Cleveland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLUSIUM">
+			<Text>Clusium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COATEPEC">
+			<Text>Coatepec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLCHESTER">
+			<Text>Colchester</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLOGNE">
+			<Text>Colônia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLUMBUS">
+			<Text>Columbus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COPENHAGEN">
+			<Text>Copenhagen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORFINIUM">
+			<Text>Corfinium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORINTH">
+			<Text>Corinth</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COVENTRY">
+			<Text>Coventry</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COYOTEPEC">
+			<Text>Coyotepec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CREMONA">
+			<Text>Cremona</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CUMAE">
+			<Text>Cumae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CUMAN">
+			<Text>Cuman</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURIA">
+			<Text>Curia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAKYANUS">
+			<Text>Dakyanus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DALIAN">
+			<Text>Dairen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DALLAS">
+			<Text>Dallas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAMANHUR">
+			<Text>Damanhur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAMASCUS">
+			<Text>Damascus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAPHNAI">
+			<Text>Daphnai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DARIUSHKABIR">
+			<Text>Dariush Kabir</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DARMASA">
+			<Text>Darmasa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DARMSTADT">
+			<Text>Darmstadt</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DASHUR">
+			<Text>Dashur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEBRECEN">
+			<Text>Debrecen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DELHI">
+			<Text>Delhi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENIZLI">
+			<Text>Denizli</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENMARK">
+			<Text>Denmark</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENVER">
+			<Text>Denver</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DETROIT">
+			<Text>Detroit</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DIYARBAKIR">
+			<Text>Diyarbakir</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJENNE">
+			<Text>Djenne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJION">
+			<Text>Dijon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORTMUND">
+			<Text>Dortmund</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOVER">
+			<Text>Dover</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DRAPSAKA">
+			<Text>Drapsaka</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DRESDEN">
+			<Text>Dresden</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUBLIN">
+			<Text>Dublin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUISBURG">
+			<Text>Duisburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUNHUANG">
+			<Text>Dunhuang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURAEUROPOS">
+			<Text>Dura-Europos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUSSELDORF">
+			<Text>Dusseldorf</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EBURACUM">
+			<Text>Eburacum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ECATEPEC">
+			<Text>Ecatepec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ECBATANA">
+			<Text>Ecbatana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ECHIGO">
+			<Text>Echigo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ECHIZEN">
+			<Text>Echizen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EDFU">
+			<Text>Edfu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EDINBURGH">
+			<Text>Edinburgh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EDIRNE">
+			<Text>Edirne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EION">
+			<Text>Eion</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELASHMUNEIN">
+			<Text>El-Ashmunein</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELEPHANTINE">
+			<Text>Elephantine</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELKAB">
+			<Text>El-Kab</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELLAHUN">
+			<Text>El-Lahun</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EPHESUS">
+			<Text>Ephesus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EREGLI">
+			<Text>Eregli</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERETRIA">
+			<Text>Eretria</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERFURT">
+			<Text>Erfurt</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERGILI">
+			<Text>Ergili</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERLANGEN">
+			<Text>Erlangen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERZURUM">
+			<Text>Erzurum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESKISEHIR">
+			<Text>Eskisehir</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESPOO">
+			<Text>Espoo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESSEN">
+			<Text>Essen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESTRUSCAN">
+			<Text>Estruscan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EXETER">
+			<Text>Exeter</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FEZ">
+			<Text>Fez</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINLAND">
+			<Text>Finland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FRANKFURT">
+			<Text>Frankfurt</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FREGELLAE">
+			<Text>Fregellae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FREIBURG">
+			<Text>Freiburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUKUOKA">
+			<Text>Fukuoka</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUKUSHIMA">
+			<Text>Fukushima</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUSTAT">
+			<Text>Fustat</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GANDUTAVA">
+			<Text>Gandutava</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GANSU">
+			<Text>Gansu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GAOYU">
+			<Text>Gaoyu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GAUGAMELA">
+			<Text>Gaugamela</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GAUL">
+			<Text>Gaul</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GAUR">
+			<Text>Gaur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GAZIANTEP">
+			<Text>Gaziantep</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GELSENKIRCHEN">
+			<Text>Gelsenkirchen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GEPID">
+			<Text>Gepid</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GHULAMAN">
+			<Text>Ghulaman</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GHURAB">
+			<Text>Kom Medinet Ghurab</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GHUZZ">
+			<Text>Ghuzz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GIZA">
+			<Text>Giza</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GLASGOW">
+			<Text>Glasgow</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GLOUCESTER">
+			<Text>Gloucester</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GORDION">
+			<Text>Gordion</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GORDIUM">
+			<Text>Gordium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GORTYN">
+			<Text>Gortyn</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOTEBORG">
+			<Text>Goteborg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOTTINGEN">
+			<Text>Gottingen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRENOBLE">
+			<Text>Grenoble</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GUANGZHOU">
+			<Text>Guangzhou</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GULBARGA">
+			<Text>Gulbarga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GWALIOR">
+			<Text>Gwalior</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HADRIA">
+			<Text>Hadria</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAERBIN">
+			<Text>Haerbin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAGEN">
+			<Text>Hagen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAKODATE">
+			<Text>Hakodate</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALICARNASSUS">
+			<Text>Halicarnassus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALLE">
+			<Text>Halle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAMA">
+			<Text>Hama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAMBURG">
+			<Text>Hamburgo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAMM">
+			<Text>Hamm</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HANDAN">
+			<Text>Handan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HANGZHOU">
+			<Text>Hangzhou</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HANNOVER">
+			<Text>Hanover</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HANOI">
+			<Text>Hanoi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPAN">
+			<Text>Harappan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARMOZEIA">
+			<Text>Harmozeia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HASTINGS">
+			<Text>Hastings</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAWARA">
+			<Text>Hawara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HELIOPOLIS">
+			<Text>Heliopolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HELSINKI">
+			<Text>Helsinki</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HERAKLEIA">
+			<Text>Herakleia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HERAKLEOPOLIS">
+			<Text>Herakleopolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HERAT">
+			<Text>Herat</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HERMONTHIS">
+			<Text>Hermonthis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HERMOPOLIS">
+			<Text>Hermopolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HERNE">
+			<Text>Herne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HEYUAN">
+			<Text>Heyuan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIERACONPOLIS">
+			<Text>Hieraconpolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HILDESHEIM">
+			<Text>Hildesheim</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIROSHIMA">
+			<Text>Hiroshima</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HISPALIS">
+			<Text>Hispalis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE">
+			<Text>Hittite</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HONOLULU">
+			<Text>Honolulu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOUSTON">
+			<Text>Houston</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HSUNGNU">
+			<Text>Hsung-Nu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUANGSHI">
+			<Text>Huangshi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUBEI">
+			<Text>Hubei</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUEXOTLA">
+			<Text>Huexotla</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HULL">
+			<Text>Hull</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUN">
+			<Text>Hun</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY">
+			<Text>Hungary</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNT_VALLEY">
+			<Text>Hunt Valley</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HURRIAN">
+			<Text>Hurrian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HYDERABAD">
+			<Text>Hyderabad</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IASI">
+			<Text>Iasi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ILLINOIS">
+			<Text>Illinois</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDRAPRASTHA">
+			<Text>Indraprastha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INEBOLU">
+			<Text>Inebolu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INTERRAMA">
+			<Text>Interrama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IPSWICH">
+			<Text>Ipswich</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRELAND">
+			<Text>Ireland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRKUSTK">
+			<Text>Irkutsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISE">
+			<Text>Ise</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISTAKHR">
+			<Text>Istakhr</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISTANBUL">
+			<Text>Istanbul</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ITZAPALAPA">
+			<Text>Itzapalapa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IXTAPALUCA">
+			<Text>Ixtapaluca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IZATA">
+			<Text>Izata</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IZMIR">
+			<Text>Izmir</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IZMIT">
+			<Text>Izmit</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IZTAPAM">
+			<Text>Iztapam</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IZUMI">
+			<Text>Izumi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IZUMO">
+			<Text>Izumo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JACKSONVILLE">
+			<Text>Jacksonville</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAIPUR">
+			<Text>Jaipur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAUNPUR">
+			<Text>Jaunpur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JILOTZINGO">
+			<Text>Jilotzingo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JINJAN">
+			<Text>Jinjan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JUTE">
+			<Text>Jute</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KABUL">
+			<Text>Kabul</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAGOSHIMA">
+			<Text>Kagoshima</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAHUN">
+			<Text>Kahun</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAIFENG">
+			<Text>Kaifeng</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAIROUAN">
+			<Text>Kairouan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAMAKURO">
+			<Text>Kamakuro</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAMPADA">
+			<Text>Kampada</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KANDAHAR">
+			<Text>Kandahar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KANSAS_CITY">
+			<Text>Kansas City</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAPISA">
+			<Text>Kapisa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARACHI">
+			<Text>Karachi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARAGANDA">
+			<Text>Karaganda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARLSRUHE">
+			<Text>Karlsruhe</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARMANA">
+			<Text>Karmana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARNAK">
+			<Text>Karnak</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KASSEL">
+			<Text>Kassel</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KASSITE">
+			<Text>Kassite</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAYSERI">
+			<Text>Kayseri</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAZAKH">
+			<Text>Kazakh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHABAROVSK">
+			<Text>Khabarovsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHOISAN">
+			<Text>Khoisan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHURASAN">
+			<Text>Khurasan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEL">
+			<Text>Kiel</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KNOSSOS">
+			<Text>Knossos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBE">
+			<Text>Kobe</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBLENZ">
+			<Text>Koblenz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOCHI">
+			<Text>Kochi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOLHAPUR">
+			<Text>Kolhapur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KONYA">
+			<Text>Konya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOPTOS">
+			<Text>Koptos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOREA">
+			<Text>Korea</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOSTROMA">
+			<Text>Kostroma</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOUNAXA">
+			<Text>Kounaxa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOZUKE">
+			<Text>Kozuke</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KRAKOW">
+			<Text>Krakow</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KRASNOYARSK">
+			<Text>Krasnoyarsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KREFELD">
+			<Text>Krefeld</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUFAH">
+			<Text>Kufah</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUGANAKA">
+			<Text>Kuganaka</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUNMING">
+			<Text>Kunming</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KURSK">
+			<Text>Kursk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUSHANS">
+			<Text>Kushans</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUSHINAGAR">
+			<Text>Kushinagar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KYOTO">
+			<Text>Kyoto</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KYRESKHATA">
+			<Text>Kyreskhata</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LA_ROCHELLE">
+			<Text>La Rochelle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAHORE">
+			<Text>Lahore</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LANCASTER">
+			<Text>Lancaster</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAS_VEGAS">
+			<Text>Las Vegas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAURIACUM">
+			<Text>Lauriacum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LE_BAM">
+			<Text>Le Bam</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LE_HAVRE">
+			<Text>Le Havre</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LE_MANS">
+			<Text>Le Mans</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEEDS">
+			<Text>Leeds</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEICESTER">
+			<Text>Leicester</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEIPZIG">
+			<Text>Leipzig</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEVERKUSEN">
+			<Text>Leverkusen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LHASA">
+			<Text>Lhasa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIAONING">
+			<Text>Liaoning</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIBYAN">
+			<Text>Libyan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIGURIAN">
+			<Text>Ligurian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIJIANG">
+			<Text>Lijiang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LILLE">
+			<Text>Lille</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIMOGES">
+			<Text>Limoges</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LISBON">
+			<Text>Lisbon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LISHT">
+			<Text>Lisht</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITTLE_ROCK">
+			<Text>Little Rock</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIVERPOOL">
+			<Text>Liverpool</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LONDINIUM">
+			<Text>Londinium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LONDON">
+			<Text>London</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOS_ANGELES">
+			<Text>Los Angeles</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOURDES">
+			<Text>Lourdes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOYANG">
+			<Text>Loyang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUCERIA">
+			<Text>Luceria</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUDWIGSHAFEN">
+			<Text>Ludwigshafen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUGDUNUM">
+			<Text>Lugdunum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUXOR">
+			<Text>Luxor</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LYONS">
+			<Text>Lyon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACAU">
+			<Text>Macau</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADURAI">
+			<Text>Madurai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAGADAN">
+			<Text>Magadan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAGNITOGORSK">
+			<Text>Magnitogorsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAGYAR">
+			<Text>Magyar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALATYA">
+			<Text>Malatya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALI">
+			<Text>Mali</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALINALCO">
+			<Text>Malinalco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANCHESTER">
+			<Text>Manchester</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANSURA">
+			<Text>Mansura</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAOMING">
+			<Text>Maoming</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARAKANDA">
+			<Text>Marakanda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARMARIS">
+			<Text>Marmaris</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARRAKECH">
+			<Text>Marrakech</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARSEILLES">
+			<Text>Marseille</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARSIN">
+			<Text>Marsin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHURA">
+			<Text>Mathura</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATSUYAMA">
+			<Text>Matsuyama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYAN">
+			<Text>Mauryan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAYA">
+			<Text>Maya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MECCA">
+			<Text>Mecca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEDINA">
+			<Text>Medina</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEDIOLANUM">
+			<Text>Mediolanum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEGARA">
+			<Text>Megara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEMPHIS">
+			<Text>Memphis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MENDES">
+			<Text>Mendes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MERIMDE">
+			<Text>Merimde</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MERV">
+			<Text>Merv</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MERW">
+			<Text>Merw</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MIAMI">
+			<Text>Miami</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MILETOS">
+			<Text>Miletos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MILWAUKEE">
+			<Text>Milwaukee</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINNEAPOLIS">
+			<Text>Minneapolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN">
+			<Text>Minoan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MONCHENGLADBACH">
+			<Text>Monchengladbach</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MONTEREY">
+			<Text>Monterey</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MONTPELLIER">
+			<Text>Montpellier</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOSCOW">
+			<Text>Moscou</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOSUL">
+			<Text>Mosul</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGLA">
+			<Text>Mugla</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MULHEIM">
+			<Text>Mulheim</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUMBLES">
+			<Text>Mumbles</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUNICH">
+			<Text>Munique</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUNSTER">
+			<Text>Munster</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MURMANSK">
+			<Text>Murmansk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUSCAT">
+			<Text>Muscat</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MYCENAE">
+			<Text>Mycenae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MYCENIAN">
+			<Text>Mycenian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MYTILENE">
+			<Text>Mytilene</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGANO">
+			<Text>Nagano</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGASAKI">
+			<Text>Nagasaki</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAGOYA">
+			<Text>Nagoya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAHA">
+			<Text>Naha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAJRAN">
+			<Text>Najran</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NANCY">
+			<Text>Nancy</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NANJING">
+			<Text>Nanjing</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NANTES">
+			<Text>Nantes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NANTONG">
+			<Text>Nantong</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NARA">
+			<Text>Nara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAUTAKA">
+			<Text>Nautaka</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAVAJO">
+			<Text>Navajo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEAPOLIS">
+			<Text>Neapolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEGADE">
+			<Text>Negade</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUSS">
+			<Text>Neuss</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEW_ORLEANS">
+			<Text>New Orleans</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEW_YORK">
+			<Text>New York</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEWCASTLE">
+			<Text>Newcastle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NICE">
+			<Text>Nice</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NICOPOLIS">
+			<Text>Nicopolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIMES">
+			<Text>Nimes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NINGBO">
+			<Text>Ningbo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIZHNIYNOVGOROD">
+			<Text>Nizhniy Novgorod</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORWAY">
+			<Text>Norway</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORWICH">
+			<Text>Norwich</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOTTHINGHAM">
+			<Text>Nottingham</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOVGOROD">
+			<Text>Novgorod</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOVOSIBIRSK">
+			<Text>Novosibirsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUBIAN">
+			<Text>Nubian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUMIDIAN">
+			<Text>Numidian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OAKLAND">
+			<Text>Oakland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OBERHAUSEN">
+			<Text>Oberhausen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OIDU">
+			<Text>Oidu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLDENBURG">
+			<Text>Oldenburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC">
+			<Text>Olmec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLYMPIA">
+			<Text>Olympia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAHA">
+			<Text>Omaha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMBOS">
+			<Text>Ombos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMI">
+			<Text>Omi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMSK">
+			<Text>Omsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OPORTO">
+			<Text>Oporto</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORAN">
+			<Text>Oran</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORDU_BALIQ">
+			<Text>Ordu Baliq</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORENBURG">
+			<Text>Orenburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORLANDO">
+			<Text>Orlando</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORLEANS">
+			<Text>Orleans</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORYX">
+			<Text>Oryx</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OSAKA">
+			<Text>Osaka</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OSLO">
+			<Text>Oslo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OSNABRUCK">
+			<Text>Osnabruck</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OSTIA">
+			<Text>Ostia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OXFORD">
+			<Text>Oxford</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAISHIYAUVADA">
+			<Text>Paishiyauvada</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PALENQUE">
+			<Text>Palenque</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PALMYRA">
+			<Text>Palmyra</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PALO_ALTO">
+			<Text>Palo Alto</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARIS">
+			<Text>Paris</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIAN">
+			<Text>Parthian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASARGADAE">
+			<Text>Pasargadae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PATALIPUTRA">
+			<Text>Pataliputra</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PATIGRBANA">
+			<Text>Patigrbana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERGAMON">
+			<Text>Pergamon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERM">
+			<Text>Perm'</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERSEPOLIS">
+			<Text>Persépolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHARSALOS">
+			<Text>Pharsalos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHEONICIAN">
+			<Text>Phoenician</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHILADELPHIA">
+			<Text>Philadelphia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHNOM_PENH">
+			<Text>Phnom Penh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHOCAEA">
+			<Text>Phocaea</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHOENIX">
+			<Text>Phoenix</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHRADA">
+			<Text>Phrada</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PHRYGIAN">
+			<Text>Phrygian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PIRAMESSES">
+			<Text>Pi-Ramesses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PITHOM">
+			<Text>Pithom</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PITTSBURGH">
+			<Text>Pittsburgh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PLACENTIA">
+			<Text>Placentia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH">
+			<Text>Plymouth</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POITIERS">
+			<Text>Poitiers</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POLAND">
+			<Text>Poland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POLYNESIAN">
+			<Text>Polynesian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTLAND">
+			<Text>Portland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTSMOUTH">
+			<Text>Portsmouth</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTUGAL">
+			<Text>Portugal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POTSDAM">
+			<Text>Potsdam</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAYAGA">
+			<Text>Prayaga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRISTINA">
+			<Text>Pristina</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PSKOV">
+			<Text>Pskov</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PTEIRA">
+			<Text>Pteira</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PUSAN">
+			<Text>Pusan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QATNA">
+			<Text>Qatna</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAJAGRIHA">
+			<Text>Rajagriha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAQOTE">
+			<Text>Raqote</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAVENNA">
+			<Text>Ravenna</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_READING">
+			<Text>Reading</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RECKLINGHAUSEN">
+			<Text>Recklinghausen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_REIMS">
+			<Text>Reims</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RENNES">
+			<Text>Rennes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RENO">
+			<Text>Reno</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHEIMS">
+			<Text>Troyes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RHODES">
+			<Text>Rhodes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RICHMOND">
+			<Text>Richmond</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROMANIA">
+			<Text>Romênia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROME">
+			<Text>Roma</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROSTOCK">
+			<Text>Rostock</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROSTOV">
+			<Text>Rostov</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROUEN">
+			<Text>Rouen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAARBRUCKEN">
+			<Text>Saarbrucken</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SACRAMENTO">
+			<Text>Sacramento</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SADO">
+			<Text>Sado</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAIGON">
+			<Text>Saigon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAINT_ETIENNE">
+			<Text>Saint-Etienne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAKAE">
+			<Text>Sakae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALISBURY">
+			<Text>Salisbury</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALT_LAKE_CITY">
+			<Text>Salt Lake City</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMARA">
+			<Text>Samara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMSUN">
+			<Text>Samsun</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_ANTONIO">
+			<Text>San Antonio</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_DIEGO">
+			<Text>San Diego</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_FRANCISCO">
+			<Text>San Francisco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANAA">
+			<Text>Sana'a</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTA_CRUZ">
+			<Text>Santa Cruz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTA_FE">
+			<Text>Santa Fe</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTA_MONICA">
+			<Text>Santa Monica</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAPPORO">
+			<Text>Sapporo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARATOV">
+			<Text>Saratov</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARDIS">
+			<Text>Sardis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARMATIAN">
+			<Text>Sarmatian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SATICULA">
+			<Text>Saticula</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SATRICUM">
+			<Text>Satricum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SATSUMA">
+			<Text>Satsuma</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAVANNAH">
+			<Text>Savannah</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAXON">
+			<Text>Saxon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND">
+			<Text>Scotland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCYTHIAN">
+			<Text>Scythian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEATTLE">
+			<Text>Seattle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEBENNYTUS">
+			<Text>Sebennytus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEMNA">
+			<Text>Semna</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENAGALLICA">
+			<Text>Sena Gallica</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEOUL">
+			<Text>Seoul</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SERBIA">
+			<Text>Serbia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SETIA">
+			<Text>Setia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHANDONG">
+			<Text>Shandong</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHANGHAI">
+			<Text>Shanghai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHANGIAN">
+			<Text>Shangian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHAOGUAN">
+			<Text>Shaoguan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHEFFIELD">
+			<Text>Sheffield</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHENYANG">
+			<Text>Shenyang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHIGATSE">
+			<Text>Shigatse</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHIHR">
+			<Text>Shihr</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHIMONOSEKI">
+			<Text>Shimonoseki</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHIRAZ">
+			<Text>Shiraz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SICYON">
+			<Text>Sicyon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIGNIA">
+			<Text>Signia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SILIFKE">
+			<Text>Silifke</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINOP">
+			<Text>Sinop</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIRMIUM">
+			<Text>Sirmium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIVAS">
+			<Text>Sivas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SMOLENSK">
+			<Text>Smolensk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SOLEB">
+			<Text>Soleb</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SOLINGEN">
+			<Text>Solingen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SORA">
+			<Text>Sora</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SOUTHAMPTON">
+			<Text>Southampton</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SPARTA">
+			<Text>Sparta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SPOKANE">
+			<Text>Spokane</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SPRINGFIELD">
+			<Text>Springfield</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRAVASTI">
+			<Text>Sravasti</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_LOUIS">
+			<Text>St. Louis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STARAYARUSSA">
+			<Text>Staraya Russa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STOCKHOLM">
+			<Text>Stockholm</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STPETERSBURG">
+			<Text>St. Petersburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STRASBOURG">
+			<Text>Strasbourg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STUTTGART">
+			<Text>Stuttgart</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUESSA">
+			<Text>Suessa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUHAR">
+			<Text>Suhar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUO">
+			<Text>Suo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUSA">
+			<Text>Susa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUTRIUM">
+			<Text>Sutrium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZDAL">
+			<Text>Suzdal'</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUZHOU">
+			<Text>Suzhou</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SWEDEN">
+			<Text>Sweden</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SWITZERLAND">
+			<Text>Switzerland</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SYRACUSE">
+			<Text>Syracuse</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TABUK">
+			<Text>Tabuk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TACOMA">
+			<Text>Tacoma</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAIF">
+			<Text>Taif</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAINAN">
+			<Text>Tainan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAIPEI">
+			<Text>Taipei</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAIYUAN">
+			<Text>Taiyuan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAKAYAMA">
+			<Text>Takayama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAMPA_BAY">
+			<Text>Tampa Bay</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAMUIN">
+			<Text>Tamuin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TANGIER">
+			<Text>Tangier</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TANIS">
+			<Text>Tanis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TARENTUM">
+			<Text>Tarentum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TARSUS">
+			<Text>Tarsus</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TARTAR">
+			<Text>Tartar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TASA">
+			<Text>Tasa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEAYO">
+			<Text>Teayo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEGEA">
+			<Text>Tegea</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TENOCHTITLAN">
+			<Text>Tenochtitlan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEOIHUACAN">
+			<Text>Teoihuacan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEOTIHUACAN">
+			<Text>Teotihuacan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEPETLAOXTOC">
+			<Text>Tepetlaoxtoc</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEPEXPAN">
+			<Text>Tepexpan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEQUIXQUIAC">
+			<Text>Tequixquiac</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEURNIA">
+			<Text>Teurnia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXCOCO">
+			<Text>Texcoco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THANJAVUR">
+			<Text>Thanjavur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES">
+			<Text>Tebas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THIS">
+			<Text>This</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THRACIAN">
+			<Text>Thracian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIANJIN">
+			<Text>Tianjin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET">
+			<Text>Tibet</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIKAL">
+			<Text>Tikal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMBUKTU">
+			<Text>Timbuktu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIRUCHIRAPALLI">
+			<Text>Tiruchirapalli</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TLACOPAN">
+			<Text>Tlacopan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TLALMANALCO">
+			<Text>Tlalmanalco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TLAPANALOYA">
+			<Text>Tlapanaloya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TLATELOLCO">
+			<Text>Tlatelolco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TLAXCALA">
+			<Text>Tlaxcala</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOBOLSK">
+			<Text>Tobol'sk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOKYO">
+			<Text>Tokyo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOULON">
+			<Text>Toulon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOULOUSE">
+			<Text>Toulouse</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOURS">
+			<Text>Tours</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOYAMA">
+			<Text>Toyama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRABZON">
+			<Text>Trabzon</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRES_ZAPOTES">
+			<Text>Tres Zapotes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TREVERI">
+			<Text>Treveri</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRIPOLI">
+			<Text>Tripoli</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TULA">
+			<Text>Tula</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TULTITAN">
+			<Text>Tultitan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNIS">
+			<Text>Tunis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TURENGTEPE">
+			<Text>Tureng Tepe</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TVER">
+			<Text>Tver'</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TZINTZUNTZEN">
+			<Text>Tzintzuntzen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UIGHUR">
+			<Text>Uighur</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UJJAIN">
+			<Text>Ujjain</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULUNDI">
+			<Text>Ulundi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UMGUNGUNDLOVU">
+			<Text>Umgungundlovu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URATYUBE">
+			<Text>Ura Tyube</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URFA">
+			<Text>Urfa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UZBEK">
+			<Text>Uzbek</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAN">
+			<Text>Van</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VANDAL">
+			<Text>Vandal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VARANASI">
+			<Text>Varanasi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VELITRAE">
+			<Text>Velitrae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VERONA">
+			<Text>Verona</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIETNAM">
+			<Text>Vietnam</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIJAYANAGARA">
+			<Text>Vijayanagara</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIROCONIUM">
+			<Text>Viroconium</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTH">
+			<Text>Visigoth</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VLADIMIR">
+			<Text>Vladimir</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VLADIVOSTOK">
+			<Text>Vladivostok</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOLOGDA">
+			<Text>Vologda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VORONEZH">
+			<Text>Voronezh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WARSAW">
+			<Text>Warsaw</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WARWICK">
+			<Text>Warwick</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WASHINGTON">
+			<Text>Washington</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WEIFANG">
+			<Text>Weifang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WIESBADEN">
+			<Text>Wiesbaden</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINCHESTER">
+			<Text>Winchester</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WOLFSBURG">
+			<Text>Wolfsburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WUPPERTAL">
+			<Text>Wuppertal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WURZBURG">
+			<Text>Wurzburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WUXI">
+			<Text>Wuxi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIAN">
+			<Text>Xian</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIKANG">
+			<Text>Xikang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINYU">
+			<Text>Xinyu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINZHENG">
+			<Text>Xinzheng</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XOCHICALCO">
+			<Text>Xochicalco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAKUTSK">
+			<Text>Yakutsk</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAMAMA">
+			<Text>Yamama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YANGJIANG">
+			<Text>Yangjiang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YANGZHOU">
+			<Text>Yangzhou</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAROSLAVI">
+			<Text>Yaroslavl'</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAYOI">
+			<Text>Yayoi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YEKATERINBURG">
+			<Text>Yekaterinburg</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YICHANG">
+			<Text>Yichang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YINGTAN">
+			<Text>Yingtan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YOKOHAMA">
+			<Text>Yokohama</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YORK">
+			<Text>York</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YUECHI">
+			<Text>Yue-Chi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZAPOTEC">
+			<Text>Zapotec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZHOU">
+			<Text>Zhou</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZITLALTEPEC">
+			<Text>Zitlaltepec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZOHAK">
+			<Text>Zohak</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZONGULDAK">
+			<Text>Zonguldak</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZULU">
+			<Text>Zulu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZURICH">
+			<Text>Zurich</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_AKRON">
+			<Text>Akron</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_AKWESASNE">
+			<Text>Akwesasme</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_BAY_OF_QUINTE">
+			<Text>Bay of Quinte</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_BRANTFORD">
+			<Text>Brantford</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_BUFFALO">
+			<Text>Buffalo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_BUFFALO_CREEK">
+			<Text>Buffalo Creek</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_CANAJOHARIE">
+			<Text>Canajoharie</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_CANANDAIGUA_LAKE">
+			<Text>Canandaigua Lake</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_CAYUGA_CASTLE">
+			<Text>Cayuga Castle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_CHONDOTE">
+			<Text>Chondote</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_CUBA">
+			<Text>Cuba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_GANIENKEH">
+			<Text>Ganienkeh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_GENESSE_RIVER">
+			<Text>Genesse River</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_GOWANDA">
+			<Text>Gowanda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_GRAND_RIVER">
+			<Text>Grand River</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_GREEN_BAY">
+			<Text>Green Bay</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_HAHTA">
+			<Text>Hahta</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_KANATSIOKAREKE">
+			<Text>Kanatsiokareke</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_KANAWALE">
+			<Text>Kanawale</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_KANESATAKE">
+			<Text>Kanesatake</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_KANONWALOHALE">
+			<Text>Kanonwalohale</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_LAKE_SIMCOE">
+			<Text>Lake Simcoe</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_MOHAWK_VALLEY">
+			<Text>Mohawk Valley</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_MONTREAL">
+			<Text>Montreal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_NEDROW">
+			<Text>Nedrow</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_ONEIDA_LAKE">
+			<Text>Oneida Lake</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_ONONDAGA">
+			<Text>Onondaga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_OSININKA">
+			<Text>Osininka</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SALAMANCA">
+			<Text>Salamanca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SCHOHARIE">
+			<Text>Schoharie</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SOUTHWOLD">
+			<Text>Southwold</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SYRACUSE">
+			<Text>Syracuse</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_IROQ_CITY_NAME_TYENDINAGA">
+			<Text>Tyendinaga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_AYUTTHAYA">
+			<Text>Ayutthaya</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_BAN_PHAI">
+			<Text>Ban Phai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_CHAINAT">
+			<Text>Chainat</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_CHIANG_THONG">
+			<Text>Chiang Thong</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_HONGSAWADEE">
+			<Text>Hongsawadee</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_KAMPHAENG_PHET">
+			<Text>Kamphaeng Phet</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_KHAN_KAEN">
+			<Text>Khan Kaen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_LAMPANG">
+			<Text>Lampang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_LAP_BURI">
+			<Text>Lap Buri</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_LOCI">
+			<Text>Loci</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_LUANG_PRABANG">
+			<Text>Luang Prabang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_MARTABAN">
+			<Text>Martaban</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_MUANG_SALUANG">
+			<Text>Muang Saluang</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_NAKHON_CHUM">
+			<Text>Nakhon Chum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_NAKHON_SAWAN">
+			<Text>Nakhon Sawan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_NAKHON_SI_THAMMARAT">
+			<Text>Nakhon Si Thammarat</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_NAN">
+			<Text>Nan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_PHITSANULOK">
+			<Text>Phitsanulok</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_PHRAE">
+			<Text>Phrae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_RATCHASIMA">
+			<Text>Ratchasima</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_SI_SATCHANALAI">
+			<Text>Si Satchanalai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_SUKHOTHAI">
+			<Text>Sukhothai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_SUPHANBURI">
+			<Text>Suphanburi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_SURIN">
+			<Text>Surin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_TAK">
+			<Text>Tak</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_TAPHAN_HIN">
+			<Text>Taphan Hin</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_THAWAII">
+			<Text>Thawaii</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_UTHAI_THANI">
+			<Text>Uthai Thani</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_UTTARADIT">
+			<Text>Uttaradit</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIAM_CITY_NAME_VIENTIANE">
+			<Text>Vientiane</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_AGADEZ">
+			<Text>Agadez</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_ARGUNGU">
+			<Text>Argungu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_AWDAGHOST">
+			<Text>Awdaghost</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_BAMAKO">
+			<Text>Bamako</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_BAMBA">
+			<Text>Bamba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_BOUSSA">
+			<Text>Boussa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_DAKAR">
+			<Text>Dakar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_DORI">
+			<Text>Dori</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_GAO">
+			<Text>Gao</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_GWANDU">
+			<Text>Gwandu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_JENNE">
+			<Text>Jenne</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_KANO">
+			<Text>Kano</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_KAYES">
+			<Text>Kayes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_KEBBI">
+			<Text>Kebbi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_KUKIA">
+			<Text>Kukia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_KUMBI_SALEH">
+			<Text>Kumbi Saleh</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_MOPTI">
+			<Text>Mopti</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_NIAMEY">
+			<Text>Niamey</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_OUADANE">
+			<Text>Ouadane</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_OUATAGOUNA">
+			<Text>Ouatagouna</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_SEGOU">
+			<Text>Segou</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_TADMEKKET">
+			<Text>Tadmekket</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_TAGHAZA">
+			<Text>Taghaza</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_TEGDAOUST">
+			<Text>Tegdaoust</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_TEKEDDA">
+			<Text>Tekedda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_TOMBOUCTU">
+			<Text>Tombouctu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_TONDIBI">
+			<Text>Tondibi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_TORODI">
+			<Text>Torodi</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_WA">
+			<Text>Wa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SONG_CITY_NAME_WALATA">
+			<Text>Walata</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIRYNS">
+			<Text>Tiryns</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMOS">
+			<Text>Samos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHIOS">
+			<Text>Chios</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAROS">
+			<Text>Paros</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELIS">
+			<Text>Elis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHALKIS">
+			<Text>Chalkis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PYLOS">
+			<Text>Pylos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PELLA">
+			<Text>Pella</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAXOS">
+			<Text>Naxos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SMYRNA">
+			<Text>Smyrna</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LARISSA">
+			<Text>Larissa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MESSENE">
+			<Text>Messene</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ORCHOMENOS">
+			<Text>Orchomenos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMBRACIA">
+			<Text>Ambracia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOS">
+			<Text>Kos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KNIDOS">
+			<Text>Knidos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMPHIPOLIS">
+			<Text>Amphipolis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PATRAS">
+			<Text>Patras</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAMIA">
+			<Text>Lamia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAFPLION">
+			<Text>Nafplion</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_REY">
+			<Text>Rey</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUSHPA">
+			<Text>Tushpa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HASANLU">
+			<Text>Hasanlu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GABAE">
+			<Text>Gabae</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PESHAWAR">
+			<Text>Peshawar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EKATOMPYLOS">
+			<Text>Ekatompylos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOTH">
+			<Text>Goth</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAZAK">
+			<Text>Khazak</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_pt_BR>
+</GameData>
