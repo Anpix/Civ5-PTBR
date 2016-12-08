@@ -10,3 +10,6 @@
 ## Continuação:
 - Anpix (Rafael Tavares)
 - passarinhu (Tales Viana)
+
+## Como instalar:
+- Em breve
