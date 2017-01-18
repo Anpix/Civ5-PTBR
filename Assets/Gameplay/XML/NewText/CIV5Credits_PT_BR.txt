@@ -6,7 +6,7 @@
 [N]
 [N]
 [2]EQUIPE DE DESIGN
-[3]Criador original do Civilization
+[3]Criador Original do Civilization
 [4]Sid Meier
 [3]Progetado por
 [4]Jon Shafer
@@ -31,16 +31,16 @@
 [4]Brian Wade
 [3]Líder de Sistemas
 [4]Tim Kipp
-[3]Líder de AI/Gameplay
+[3]Líder de IA/Gameplay
 [4]Ed Beach
-[3]Lider Gráfico
+[3]Líder Gráfico
 [4]Dan Baker
-[3]Líder de Interface
+[3]Lider de Interface
 [4]Marc Meyer
 [3]Líder do Multiplayer
 [4]Justin Randall
 [4]Jonathan Tanner
-[3]Líder das Ferramentas
+[3]Líder de Ferramentas
 [4]Bart Muzzin
 [3]Programadores de IA/Gameplay
 [4]Scott Lewis
@@ -49,7 +49,7 @@
 [4]Ken Grey
 [4]Greg Osefo
 [4]Don Wuenschell
-[3]Programadores do Multiplayer
+[3]Programador do Multiplayer
 [4]Todd Smith
 [3]Programadores Gráficos
 [4]Joshua Barczak
@@ -57,7 +57,7 @@
 [4]Marc Olano
 [4]Kiran Sudhakara
 [4]Marek Vojtko
-[3]Programador de Mod
+[3]Programador de Mods
 [4]Shaun Seckman
 [3]Programadores de Ferramentas
 [4]Eric Jordan
@@ -77,17 +77,17 @@
 [2]EQUIPE ARTÍSTICA
 [3]Liderança de Arte
 [4]Dorian Newcomb
-[3]Lead Animator
+[3]Animador Principal
 [4]Chris Hickman
 [3]Liderança de Personagem
 [4]Brian Busatti
-[3]Structure Lead
+[3]Líder de Estrutura
 [4]Arne Schmidt
 [3]Liderança de Unidade
 [4]Tom Symonds
 [3]Liderança de Interface
 [4]Russell Vaccaro III
-[3]Effects Lead
+[3]Lider de Efeitos
 [4]Todd Bilger
 [3]Artista Principal de Terreno
 [4]Steve Egrie
@@ -111,7 +111,7 @@
 [4]Jason Pastrana
 [4]Dan Perry
 [4]Brian Theodore
-[3]Concept Artists
+[3]Artista Conceitual
 [4]Marc Hudgins
 [4]Sang Han
 [3]Arte Adicional
@@ -134,7 +134,7 @@
 [4]Geoff Knorr
 [4]Roland Rizzo
 [4]Ian Smith
-[3]Music
+[3]Musica
 [4]Michael Curran
 [4]Geoff Knorr
 [3]Musica Adicional
@@ -151,9 +151,9 @@
 [4]Scott Metcalfe
 [N]
 [2]EQUIPE GARANTIA DE QUALIDADE
-[3]GQ Diretor
+[3]Diretor de GQ
 [4]Scott Wittbecker
-[3]GQ Líder
+[3]Líder de GQ
 [4]Grant Frazier
 [3]Equipe de Teste
 [4]Michael Argo 
@@ -241,7 +241,7 @@
 [4]Steve Martin
 [3]Diretor Criativo
 [4]Sid Meier
-[3]Diretores Estúdio de Arte
+[3]Diretor Estúdio de Arte
 [4]Seth Spaulding
 [4]Steve Ogden
 [3]Diretor de Desenvolvimento de Software
@@ -312,7 +312,7 @@
 [N]
 [N]
 [N]
-[1]Publicação da 2K
+[1]Divulgação 2K
 [3]Presidente
 [4]Christoph Hartmann
 [3]C.O.O.
@@ -444,7 +444,7 @@
 [4]Jess Sparks
 [4]Dung Trinh
 [4]Luke Williams
-[3]Special Thanks
+[3]Agradecimento Especial a
 [4]Lori Durrant
 [4]Todd Ingram
 [4]Chris Jones
@@ -557,7 +557,7 @@
 [4]Wang Yi Min
 [N]
 [N]
-[3]Para ver a lista completa do crédito musical do Civilization V, por favor visite: 
+[3]Para ver a lista completa do crédito musical do Civilization V, por favor, visite: 
 [4]www.civilization5.com/musiccredits
 [N]
 [N]
@@ -750,23 +750,23 @@
 [4]Orientador Econômico - Nancy Linari
 [4]Orientador Militar - RF Daley
 [4]Orientador Científico - John Bentley 
-[4]Alexandre O Grande - Miró de Monteseppia
-[4]Askia Mohammad I - Mori Majid
-[4]Caesar Augusto - Émile Khordoc
-[4]Catarina A Grande - Svetlana Migdissova
-[4]Darius I - Yassin Alsalman
+[4]Alexandre - Miró de Monteseppia
+[4]Askia - Mori Majid
+[4]César Augusto - Émile Khordoc
+[4]Catarina - Svetlana Migdissova
+[4]Dario - Yassin Alsalman
 [4]Gandhi - Avtar Sandhu
 [4]George Washington - Marcel Jeanin
 [4]Harun Al-Rashid - Laith Marouf
 [4]Hiawatha - Kanentokon Hemlock
 [4]Montezuma - Alfredo Camacho
-[4]Napoleão Bonaparte - Greg Gobbi
+[4]Napoleão - Greg Gobbi
 [4]Oda Nobunaga - Ryosuke Aoike
-[4]Otto Van Bismark - Heinz Becker
-[4]Queen Elizabeth - Julia Lenardon
+[4]Bismark - Heinz Becker
+[4]Elizabeth - Julia Lenardon
 [4]Ramesses II - George Saad
 [4]Ramkhamhaeng - Thon Kongkaewpaisarn
-[4]Suleiman the Magnificent - Onur Aydemir
+[4]Suleiman - Onur Aydemir
 [4]Wu Zetian - Rachel Lei Xie
 [N]
 [3]Wave Generation, Inc.
@@ -785,7 +785,7 @@
 [4]Stephen Selvaggio
 [3]Editor de Diálogo
 [4]Garrett Montgomery
-[3]Original Dialog Mixers, Heavy Melody
+[3]Mixer de Diálogo Origina, Melodia Pesada
 [4]Dave Fraser
 [3]Fox Studios
 [4]Rick Fox 
@@ -868,6 +868,18 @@
 [N]
 [N]
 [4]Obrigado por jogar Civilization V!
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
 [N]
 [N]
 [N]
