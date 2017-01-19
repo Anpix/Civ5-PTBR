@@ -81,7 +81,7 @@
 [4]Chris Hickman
 [3]Lider de Personagem
 [4]Brian Busatti
-[3]Líder de Estrutura
+[3]Lider de Estrutura
 [4]Arne Schmidt
 [3]Lider de Unidade
 [4]Tom Symonds
