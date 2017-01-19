@@ -75,19 +75,19 @@
 [4]Ervin Hearn
 [N]
 [2]EQUIPE ARTÍSTICA
-[3]Liderança de Arte
+[3]Líder de Arte
 [4]Dorian Newcomb
 [3]Animador Principal
 [4]Chris Hickman
-[3]Liderança de Personagem
+[3]Líder de Personagem
 [4]Brian Busatti
 [3]Líder de Estrutura
 [4]Arne Schmidt
-[3]Liderança de Unidade
+[3]Líder de Unidade
 [4]Tom Symonds
-[3]Liderança de Interface
+[3]Líder de Interface
 [4]Russell Vaccaro III
-[3]Lider de Efeitos
+[3]Líder de Efeitos
 [4]Todd Bilger
 [3]Artista Principal de Terreno
 [4]Steve Egrie
@@ -147,7 +147,7 @@
 [4]Dom Cerquetti
 [4]Ken Grey
 [4]Don Wuenschell
-[3]Mixador de Musica e Engenheiro de Masterização
+[3]Mixador de Música e Engenheiro de Masterização
 [4]Scott Metcalfe
 [N]
 [2]EQUIPE GARANTIA DE QUALIDADE
@@ -288,7 +288,7 @@
 [4]Matt Whithed
 [4]Kirk Gilmore
 [3]Fork
-[4]VFX Provisionado pela Fork Particle
+[4]VFX Provisionado por Fork Particle
 [3]Microsoft Support
 [4]Chuck Walbourne
 [3]Aerial Photographer
@@ -338,19 +338,19 @@
 [4]Casey Cameron
 [4]Andrew Dutra
 [4]Shawn Martin
-[3]SVP Marketing
+[3]SVP de Marketing
 [4]Sarah Anderson
-[3]VP Marketing
+[3]VP de Marketing
 [4]Matt Gorman
-[3]VP Marketing Internacional
+[3]VP de Marketing Internacional
 [4]Matthias Wehner
 [3]Diretor de Marketing
 [4]Tom Bass
 [3]Diretor Global de Relações Públicas
 [4]Markus Wilding
-[3]Gerente RP Sênior
+[3]Gerente Sênior de RP
 [4]Charlie Sinhaseni
-[3]Gerente RP
+[3]Gerente de RP
 [4]Jennie Sue
 [3]RP Internacional e Assistente de Marketing
 [4]Erica Denning
@@ -372,9 +372,9 @@
 [4]Ham Nguyen
 [3]Diretor de Tecnologia
 [4]Jacob Hawley
-[3]VP Desenvolvimento de Negócios
+[3]VP de Desenvolvimento de Negócios
 [4]Kris Severson
-[3]VP Vendas e Licenciamento
+[3]VP de Vendas e Licenciamento
 [4]Steve Glickstein
 [3]Venda Estratégica e Diretor de Licença
 [4]Paul Crockett
@@ -388,7 +388,7 @@
 [4]J. Mateo Baker
 [3]Editor de Vídeo
 [4]Kenny Crosbie
-[3]Jr Editor de Vídeo
+[3]Editor de Vídeo Jr
 [4]Michael Howard
 [3]Licenciador/Especialista de Operações
 [4]Xenia Mul
@@ -495,9 +495,9 @@
 [4]Hugo Sieiro
 [3]Engenheiro de Masterização
 [4]Wayne Boyce
-[3]Condutor de Projeto e Localização da GQ
+[3]Condutor de Projeto e Localização de GQ
 [4]Lena Brenk
-[3]Localização de Técnicos da GQ
+[3]Localização de Técnicos de GQ
 [4]Anthony Busselier
 [4]Alba Loureiro
 [4]Andreas Strothmann
@@ -787,7 +787,7 @@
 [4]Garrett Montgomery
 [3]Mixer de Diálogo Original, Melodia Pesada
 [4]Dave Fraser
-[3]Estudios Fox
+[3]Estúdios Fox
 [4]Rick Fox 
 [4]Michael Weber 
 [4]Tim Schmidt
