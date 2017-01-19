@@ -746,10 +746,10 @@
 [2]ATORES
 [4]Narrador - Morgan Sheppard
 [4]Filho - Rick Pasqualone
-[4]Orientador Cultural - Vanessa Aspillaga
-[4]Orientador Econômico - Nancy Linari
-[4]Orientador Militar - RF Daley
-[4]Orientador Científico - John Bentley 
+[4]Assessor Cultural - Vanessa Aspillaga
+[4]Assessor Econômico - Nancy Linari
+[4]Assessor Militar - RF Daley
+[4]Assessor Científico - John Bentley 
 [4]Alexandre - Miró de Monteseppia
 [4]Askia - Mori Majid
 [4]César Augusto - Émile Khordoc
