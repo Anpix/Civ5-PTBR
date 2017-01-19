@@ -8,7 +8,7 @@
 [2]EQUIPE DE DESIGN
 [3]Criador Original do Civilization
 [4]Sid Meier
-[3]Progetado por
+[3]Projetado por
 [4]Jon Shafer
 [3]Designer Adicional e Gameplay
 [4]Ed Beach
