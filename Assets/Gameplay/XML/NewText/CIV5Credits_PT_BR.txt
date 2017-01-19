@@ -548,7 +548,7 @@
 [4]Qin Qi
 [4]Ning Xu
 [4]Lu Ting Ting
-[3]Líder Assistente de Projeto
+[3]Lider Assistente de Projeto
 [4]Zhu Jian
 [3]Testadores
 [4]Zheng Zhi
