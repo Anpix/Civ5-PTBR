@@ -29,11 +29,11 @@
 [2]EQUIPE DE PROGRAMADORES
 [3]Líder de Programação
 [4]Brian Wade
-[3]Líder de Sistemas
+[3]Lider de Sistemas
 [4]Tim Kipp
-[3]Líder de IA/Gameplay
+[3]Lider de IA/Gameplay
 [4]Ed Beach
-[3]Líder Gráfico
+[3]Lider Gráfico
 [4]Dan Baker
 [3]Lider de Interface
 [4]Marc Meyer
@@ -75,19 +75,19 @@
 [4]Ervin Hearn
 [N]
 [2]EQUIPE ARTÍSTICA
-[3]Líder de Arte
+[3]Lider de Arte
 [4]Dorian Newcomb
 [3]Animador Principal
 [4]Chris Hickman
-[3]Líder de Personagem
+[3]Lider de Personagem
 [4]Brian Busatti
 [3]Líder de Estrutura
 [4]Arne Schmidt
-[3]Líder de Unidade
+[3]Lider de Unidade
 [4]Tom Symonds
-[3]Líder de Interface
+[3]Lider de Interface
 [4]Russell Vaccaro III
-[3]Líder de Efeitos
+[3]Lider de Efeitos
 [4]Todd Bilger
 [3]Artista Principal de Terreno
 [4]Steve Egrie
@@ -153,7 +153,7 @@
 [2]EQUIPE GARANTIA DE QUALIDADE
 [3]Diretor de GQ
 [4]Scott Wittbecker
-[3]Líder de GQ
+[3]Lider de GQ
 [4]Grant Frazier
 [3]Equipe de Teste
 [4]Michael Argo 
@@ -404,9 +404,9 @@
 [4]Grant Bryson
 [3]Gerente de Conformidade
 [4]Alexis Ladd
-[3]Líder de Teste
+[3]Lider de Teste
 [4]Griffin Funk
-[3]Líder de Teste (Equipe de Apoio)
+[3]Lider de Teste (Equipe de Apoio)
 [4]Sean Manzano
 [4]Andrew Webster
 [3]Testador Sênior
@@ -542,7 +542,7 @@
 [4]Zhang Xi Kun
 [3]Supervisor de GQ
 [4]Steve Manners
-[3]Líder de Projeto
+[3]Lider de Projeto
 [4]Li Sheng Qiang
 [3]Localização de Testadores
 [4]Qin Qi
