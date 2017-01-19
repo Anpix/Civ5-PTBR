@@ -40,7 +40,7 @@
 [3]Líder do Multiplayer
 [4]Justin Randall
 [4]Jonathan Tanner
-[3]Líder de Ferramentas
+[3]Lider de Ferramentas
 [4]Bart Muzzin
 [3]Programadores de IA/Gameplay
 [4]Scott Lewis
