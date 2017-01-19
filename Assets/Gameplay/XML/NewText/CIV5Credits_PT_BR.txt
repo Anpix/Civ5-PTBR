@@ -71,7 +71,7 @@
 [4]Michelle Menard
 [4]Daniel Selnick, Blind Squirrel Games
 [4]Bob Thomas
-[3]Agradecimento Especial a
+[3]Agradecimento Especial 
 [4]Ervin Hearn
 [N]
 [2]EQUIPE ARTÍSTICA
@@ -122,11 +122,11 @@
 [4]Art Wiesen
 [3]Abertura Cinematográfica
 [4]Digic Pictures
-[3]Abertura Cinematográfica texto
+[3]Script da Abertura Cinematográfica
 [4]Paul Murphy
 [N]
-[2]EQUIPE DE AUDIO
-[3]Diretor Departamento de Audio
+[2]EQUIPE DE ÁUDIO
+[3]Diretor Departamento de Áudio
 [4]Michael Curran
 [3]Produtores de Som
 [4]Michael Curran
@@ -134,20 +134,20 @@
 [4]Geoff Knorr
 [4]Roland Rizzo
 [4]Ian Smith
-[3]Musica
+[3]Música
 [4]Michael Curran
 [4]Geoff Knorr
-[3]Musica Adicional
+[3]Música Adicional
 [4]Paul Heitsch
 [4]Roland Rizzo
 [4]Ian Smith
 [3]Compositor
 [4]Michelle Menard
-[3]Programador de Audio
+[3]Programador de Áudio
 [4]Dom Cerquetti
 [4]Ken Grey
 [4]Don Wuenschell
-[3]Mixador de Musica e Engenheiro Mestre
+[3]Mixador de Musica e Engenheiro de Masterização
 [4]Scott Metcalfe
 [N]
 [2]EQUIPE GARANTIA DE QUALIDADE
@@ -256,24 +256,24 @@
 [4]Shawn Kohn
 [3]Gerente de Serviço
 [4]Donna Milesky
-[3]Gerente de IT
+[3]Gerente de TI
 [4]Josh Scanlan
-[3]Técnico de IT
+[3]Técnico de TI
 [4]Matt Baros
 [3]Progetos Especiais
 [4]Susan Meier
-[3]APOIADORES DA AMD
+[3]SUPORTE DA AMD
 [4]Steve Bell
 [4]Bill Bilodeau
 [4]Thomas Fortier
-[3]APOIADORES DA NVIDIA
+[3]SUPORTE DA NVIDIA
 [4]Evan Hart
 [4]Brian Harvey
-[3]APOIADORES DA INTEL
+[3]SUPORTE DA INTEL
 [4]Yannis Minadakis
 [4]Michael Katz
 [4]Aaron Davies
-[3]APOIADORES DA VALVE
+[3]SUPORTE DA VALVE
 [4]John Bartkiw
 [4]Chris Boyd
 [4]Neil Kaethler
@@ -288,12 +288,12 @@
 [4]Matt Whithed
 [4]Kirk Gilmore
 [3]Fork
-[4]VFX Alimentado pela Fork Particle
+[4]VFX Provisionado pela Fork Particle
 [3]Microsoft Support
 [4]Chuck Walbourne
 [3]Aerial Photographer
 [4]Steve Lowther
-[2]Agradecimentos Especiais a
+[2]Agradecimento Especial
 [4]Joanne Miller
 [4]Maxwell Randall
 [4]Anastasia Randall
@@ -321,7 +321,7 @@
 [4]Greg Gobbi
 [3]Diretor de Desenvolvimento de Produto
 [4]John Chowanec
-[3]Diretor de Operações PD
+[3]Diretor de Operações DP
 [4]Kate Kellogg
 [3]Diretor de Produção Criativa
 [4]Jack Scalici
@@ -331,7 +331,7 @@
 [4]Lydia Jenner
 [3]Produtor
 [4]V. Garrett Bittner Jr.
-[3]Assistente de Produtor
+[3]Produtor Assistente
 [4]Tiffany Nagano
 [4]Ben Chang
 [3]Assistentes de Produção
@@ -362,7 +362,7 @@
 [4]Gabe Abarcar
 [3]Web Designer
 [4]Seth Jones
-[3]Gerente Senior, Marketing Interativo
+[3]Gerente Sênior, Marketing Interativo
 [4]Elizabeth Tobey
 [3]Gerente de Comunidade
 [4]Greg Laabs
@@ -384,11 +384,11 @@
 [4]Dorian Rehfield
 [3]Diretor de Análise e Planejamento
 [4]Phil Shpilberg
-[3]Gerente de Video e Produção
+[3]Gerente de Vídeo e Produção
 [4]J. Mateo Baker
-[3]Editor de Video
+[3]Editor de Vídeo
 [4]Kenny Crosbie
-[3]Jr Editor de Video
+[3]Jr Editor de Vídeo
 [4]Michael Howard
 [3]Licenciador/Especialista de Operações
 [4]Xenia Mul
@@ -400,16 +400,16 @@
 [2]2K GARANTIA DE QUALIDADE
 [3]VP de Garantia de Qualidade 
 [4]Alex Plachowski
-[3]Gerente de Teste de Garantia de Qualidade (Progetos)
+[3]Gerente de Teste de Garantia de Qualidade (Projetos)
 [4]Grant Bryson
 [3]Gerente de Conformidade
 [4]Alexis Ladd
-[3]Condutor de Teste
+[3]Líder de Teste
 [4]Griffin Funk
-[3]Condutor de Teste (Equipe de Apoio)
+[3]Líder de Teste (Equipe de Apoio)
 [4]Sean Manzano
 [4]Andrew Webster
-[3]Senior Tester
+[3]Testador Sênior
 [4]Ruben Gonzalez
 [4]Sara Lane
 [4]Justin Waller
@@ -444,7 +444,7 @@
 [4]Jess Sparks
 [4]Dung Trinh
 [4]Luke Williams
-[3]Agradecimento Especial a
+[3]Agradecimento Especial 
 [4]Lori Durrant
 [4]Todd Ingram
 [4]Chris Jones
@@ -481,10 +481,10 @@
 [3]Assistente de Gerente de Localização
 [4]Arsenio Formoso
 [3]Equipe de Localização Externa
-[4]Ao Redor do Mundo
-[4]Meios Eficazes
-[4]Síntese Internacional Srl
-[4]Síntese Iberia
+[4]Around the Word
+[4]Effective Media
+[4]Synthesis International Srl
+[4]Synthesis Iberia
 [4]Localização de ferramentas e apoio provido por XLOC Inc.
 [N]
 [2]2K GARANTIA DE QUALIDADE INTERNACIONAL
@@ -493,9 +493,9 @@
 [3]Supervisor de GQ
 [4]Sebastian Frank
 [4]Hugo Sieiro
-[3]Engenheiro Master
+[3]Engenheiro de Masterização
 [4]Wayne Boyce
-[3]Condutor de Progeto e Localização da GQ
+[3]Condutor de Projeto e Localização da GQ
 [4]Lena Brenk
 [3]Localização de Técnicos da GQ
 [4]Anthony Busselier
@@ -513,7 +513,7 @@
 [4]Oscar Pereira
 [4]Stefan Rossi
 [4]Tirdad Nosrati
-[3]Design Team
+[3]Equipe de Design
 [4]James Crocker
 [4]Tom Baker
 [3]2K Equipe Internacional
@@ -542,22 +542,22 @@
 [4]Zhang Xi Kun
 [3]Supervisor de GQ
 [4]Steve Manners
-[3]Condutor de Progeto
+[3]Líder de Projeto
 [4]Li Sheng Qiang
 [3]Localização de Testadores
 [4]Qin Qi
 [4]Ning Xu
 [4]Lu Ting Ting
-[3]Condutor Assistente de Progeto
+[3]Líder Assistente de Projeto
 [4]Zhu Jian
-[3]Testers
+[3]Testadores
 [4]Zheng Zhi
 [4]Zuo Jun
 [4]Kan Liang
 [4]Wang Yi Min
 [N]
 [N]
-[3]Para ver a lista completa do crédito musical do Civilization V, por favor, visite: 
+[3]Para ver a lista completa do crédito musical do Civilization V, por favor visite: 
 [4]www.civilization5.com/musiccredits
 [N]
 [N]
@@ -566,11 +566,11 @@
 [3]Regente - Andy Brick
 [N]
 [4]Concertmasters - Rita Cepurcenko & Milos Jahoda
-[4]Orchestral Music Contractor and Producer - Petr Pycha
-[4]Engenheiro Musical - Jan Kotzmann
-[4]Assistente de Engenheiro - Cenda Kotzmann
+[4]Contratante de Música Orquestral e Produtor - Petr Pycha
+[4]Engenheiro de Som  - Jan Kotzmann
+[4]Engenheiro Assistente - Cenda Kotzmann
 [4]Librarian - Tomas Kirschner
-[4]Chorus Master - Stanislav Mistr
+[4]Mestre de Coro - Stanislav Mistr
 [N]
 [3]Primeiro Violino
 [4]Rita Cepurcenko
@@ -653,7 +653,7 @@
 [4]Libena Sequardtova
 [4]Jan Hodanek
 [N]
-[3]Corne Inglês
+[3]Trompa Inglesa
 [4]Monika Bouskova
 [N]
 [3]Clarineta
@@ -732,7 +732,7 @@
 [4]Viktor Bycek
 [4]Michal Forst
 [N]
-[3]Contra Baixo
+[3]Baixos
 [4]Michal Krusek
 [4]Tomas Hanzl
 [4]Miroslav Vacha
@@ -785,9 +785,9 @@
 [4]Stephen Selvaggio
 [3]Editor de Diálogo
 [4]Garrett Montgomery
-[3]Mixer de Diálogo Origina, Melodia Pesada
+[3]Mixer de Diálogo Original, Melodia Pesada
 [4]Dave Fraser
-[3]Fox Studios
+[3]Estudios Fox
 [4]Rick Fox 
 [4]Michael Weber 
 [4]Tim Schmidt
@@ -795,7 +795,7 @@
 [4]Keith Fox
 [4]Dustin Smith
 [4]Joe Schmidt
-[3]AGRADECIMENTOS ESPECIAIS
+[3]AGRADECIMENTO ESPECIAL
 [4]Daniel Einzig
 [4]Christopher Fiumano
 [4]Jenn Kolbe 
@@ -854,7 +854,7 @@
 [4]Rafael Tavares (Anpix)
 [4]Rubio
 [4]passarinhu
-[4]gdcs321
+[4]Gabriel Simões (gdcs321)
 [N]
 [N]
 [N]
