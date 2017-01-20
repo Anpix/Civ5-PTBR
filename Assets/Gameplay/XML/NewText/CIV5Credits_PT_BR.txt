@@ -6,11 +6,11 @@
 [N]
 [N]
 [2]EQUIPE DE DESIGN
-[3]Original Creator of Civilization
+[3]Criador Original do Civilization
 [4]Sid Meier
-[3]Designed By
+[3]Projetado por
 [4]Jon Shafer
-[3]Additional Design and Gameplay
+[3]Designer Adicional e Gameplay
 [4]Ed Beach
 [4]Scott Lewis
 [N]
@@ -29,41 +29,41 @@
 [2]EQUIPE DE PROGRAMADORES
 [3]Líder de Programação
 [4]Brian Wade
-[3]Líder de Sistemas
+[3]Lider de Sistemas
 [4]Tim Kipp
-[3]Líder AI/Gameplay
+[3]Lider de IA/Gameplay
 [4]Ed Beach
 [3]Lider Gráfico
 [4]Dan Baker
-[3]Líder de Interface
+[3]Lider de Interface
 [4]Marc Meyer
 [3]Líder do Multiplayer
 [4]Justin Randall
 [4]Jonathan Tanner
-[3]Líder das Ferramentas
+[3]Lider de Ferramentas
 [4]Bart Muzzin
-[3]AI/Gameplay Programmers
+[3]Programadores de IA/Gameplay
 [4]Scott Lewis
-[3]Systems Programmers
+[3]Programadores de Sistema
 [4]Dom Cerquetti
 [4]Ken Grey
 [4]Greg Osefo
 [4]Don Wuenschell
-[3]Multiplayer Programmers
+[3]Programador do Multiplayer
 [4]Todd Smith
-[3]Graphics Programmers
+[3]Programadores Gráficos
 [4]Joshua Barczak
 [4]John Kloetzli
 [4]Marc Olano
 [4]Kiran Sudhakara
 [4]Marek Vojtko
-[3]Modding Programmers
+[3]Programador de Mods
 [4]Shaun Seckman
-[3]Tools Programmers
+[3]Programadores de Ferramentas
 [4]Eric Jordan
 [4]Scott Ramsey
 [4]Sergey Tiraspolsky
-[3]Additional Programmers
+[3]Programadores Adicionais
 [4]Justin Boswell
 [4]Dan Goodman, Blind Squirrel Games
 [4]Katie Hirsch
@@ -71,27 +71,27 @@
 [4]Michelle Menard
 [4]Daniel Selnick, Blind Squirrel Games
 [4]Bob Thomas
-[3]Special Thanks
+[3]Agradecimento Especial 
 [4]Ervin Hearn
 [N]
 [2]EQUIPE ARTÍSTICA
-[3]Art Lead
+[3]Lider de Arte
 [4]Dorian Newcomb
-[3]Lead Animator
+[3]Animador Principal
 [4]Chris Hickman
-[3]Character Lead
+[3]Lider de Personagem
 [4]Brian Busatti
-[3]Structure Lead
+[3]Lider de Estrutura
 [4]Arne Schmidt
-[3]Unit Lead
+[3]Lider de Unidade
 [4]Tom Symonds
-[3]Interface Lead
+[3]Lider de Interface
 [4]Russell Vaccaro III
-[3]Effects Lead
+[3]Lider de Efeitos
 [4]Todd Bilger
-[3]Principal Terrain Artist
+[3]Artista Principal de Terreno
 [4]Steve Egrie
-[3]Artists
+[3]Artistas
 [4]Aaron Andersen
 [4]Jerome J Atherholt
 [4]Michael R Bates
@@ -111,51 +111,51 @@
 [4]Jason Pastrana
 [4]Dan Perry
 [4]Brian Theodore
-[3]Concept Artists
+[3]Artista Conceitual
 [4]Marc Hudgins
 [4]Sang Han
-[3]Additional Art
+[3]Arte Adicional
 [4]Erik Ehoff
 [4]Ed Lynch
 [4]Piero Macgowan
 [4]Jack Snyder
 [4]Art Wiesen
-[3]Opening Cinematic
+[3]Abertura Cinematográfica
 [4]Digic Pictures
-[3]Opening Cinematic Script
+[3]Script da Abertura Cinematográfica
 [4]Paul Murphy
 [N]
-[2]AUDIO TEAM
-[3]Audio Department Manager
+[2]EQUIPE DE ÁUDIO
+[3]Diretor Departamento de Áudio
 [4]Michael Curran
-[3]Sound Designers
+[3]Produtores de Som
 [4]Michael Curran
 [4]Paul Heitsch
 [4]Geoff Knorr
 [4]Roland Rizzo
 [4]Ian Smith
-[3]Music
+[3]Música
 [4]Michael Curran
 [4]Geoff Knorr
-[3]Additional Music
+[3]Música Adicional
 [4]Paul Heitsch
 [4]Roland Rizzo
 [4]Ian Smith
-[3]Lyric Settings
+[3]Compositor
 [4]Michelle Menard
-[3]Audio Programmers
+[3]Programador de Áudio
 [4]Dom Cerquetti
 [4]Ken Grey
 [4]Don Wuenschell
-[3]Music Mixing and Mastering Engineer
+[3]Mixador de Música e Engenheiro de Masterização
 [4]Scott Metcalfe
 [N]
-[2]QUALITY ASSURANCE TEAM
-[3]QA Manager
+[2]EQUIPE GARANTIA DE QUALIDADE
+[3]Diretor de GQ
 [4]Scott Wittbecker
-[3]QA Lead
+[3]Lider de GQ
 [4]Grant Frazier
-[3]Testers
+[3]Equipe de Teste
 [4]Michael Argo 
 [4]Justice Avery
 [4]Matthew Beach
@@ -166,7 +166,7 @@
 [4]Mike Lemon
 [4]Patrick Miller
 [N]
-[3]FRANKENSTEIN TEST GROUP
+[3]GRUPO DE TESTE FRANKENSTEIN
 [4]bernie14
 [4]Bob Thomas
 [4]bobT
@@ -236,44 +236,44 @@
 [4]Frithjof "Nikolai" Wilborn
 [4]Xavier Wynns
 [N]
-[2]FIRAXIS MANAGEMENT
-[3]CEO / President
+[2]DIREÇÃO FIRAXIS
+[3]CEO / Presidente
 [4]Steve Martin
-[3]Creative Director
+[3]Diretor Criativo
 [4]Sid Meier
-[3]Studio Art Directors
+[3]Diretor Estúdio de Arte
 [4]Seth Spaulding
 [4]Steve Ogden
-[3]Director of Software Development
+[3]Diretor de Desenvolvimento de Software
 [4]Steve Meyer
-[3]Executive Producer
+[3]Produtor Executivo
 [4]Barry Caudill
-[3]Director of Marketing
+[3]Diretor de Marketing
 [4]Kelley Gilmore
-[3]Marketing Associate
+[3]Associado de Marketing
 [4]Peter Murray
-[3]Human Resources Director
+[3]Diretor de Recursos Humanos
 [4]Shawn Kohn
-[3]Office Manager
+[3]Gerente de Serviço
 [4]Donna Milesky
-[3]IT Manager
+[3]Gerente de TI
 [4]Josh Scanlan
-[3]IT Technician
+[3]Técnico de TI
 [4]Matt Baros
-[3]Special Projects
+[3]Progetos Especiais
 [4]Susan Meier
-[3]AMD SUPPORT
+[3]SUPORTE DA AMD
 [4]Steve Bell
 [4]Bill Bilodeau
 [4]Thomas Fortier
-[3]NVIDIA SUPPORT
+[3]SUPORTE DA NVIDIA
 [4]Evan Hart
 [4]Brian Harvey
-[3]INTEL SUPPORT
+[3]SUPORTE DA INTEL
 [4]Yannis Minadakis
 [4]Michael Katz
 [4]Aaron Davies
-[3]VALVE SUPPORT
+[3]SUPORTE DA VALVE
 [4]John Bartkiw
 [4]Chris Boyd
 [4]Neil Kaethler
@@ -288,12 +288,12 @@
 [4]Matt Whithed
 [4]Kirk Gilmore
 [3]Fork
-[4]VFX Powered by Fork Particle
+[4]VFX Provisionado por Fork Particle
 [3]Microsoft Support
 [4]Chuck Walbourne
 [3]Aerial Photographer
 [4]Steve Lowther
-[2]Special Thanks
+[2]Agradecimento Especial
 [4]Joanne Miller
 [4]Maxwell Randall
 [4]Anastasia Randall
@@ -301,119 +301,119 @@
 [N]
 [N]
 [N]
-[4]To all of our families and loved ones! Thank you for your patience and support!
+[4]Para todos os nossos familiares e entes queridos! Obrigado pela sua paciência e seu apoio!
 [N]
 [N]
 [N]
 [N]
-[4]Published by 2K Games.
-[4]2K Games is a Division of 2K, a publishing label of Take-Two Interactive Software.
+[4]Publicado pela 2K Games.
+[4]2K Games é uma divisão da 2K, um selo de publicação pela Take-Two Interactive Software.
 [N]
 [N]
 [N]
 [N]
-[1]2K Publishing
-[3]President
+[1]Divulgação 2K
+[3]Presidente
 [4]Christoph Hartmann
 [3]C.O.O.
 [4]David Ismailer
-[3]VP, Product Development
+[3]VP, Desenvolvimento de Produto
 [4]Greg Gobbi
-[3]Director of Product Development
+[3]Diretor de Desenvolvimento de Produto
 [4]John Chowanec
-[3]Director of PD Operations
+[3]Diretor de Operações DP
 [4]Kate Kellogg
-[3]Director of Creative Production
+[3]Diretor de Produção Criativa
 [4]Jack Scalici
-[3]Senior Manager of Creative Production
+[3]Gerente Sênior da Produção Criativa
 [4]Chad Rocco
-[3]Manager Music & Talent Licensing
+[3]Gerente Musical e Licenciamento de Talento
 [4]Lydia Jenner
-[3]Producer
+[3]Produtor
 [4]V. Garrett Bittner Jr.
-[3]Assistant Producer
+[3]Produtor Assistente
 [4]Tiffany Nagano
 [4]Ben Chang
-[3]Production Assistants
+[3]Assistentes de Produção
 [4]Casey Cameron
 [4]Andrew Dutra
 [4]Shawn Martin
-[3]SVP Marketing
+[3]SVP de Marketing
 [4]Sarah Anderson
-[3]VP Marketing
+[3]VP de Marketing
 [4]Matt Gorman
-[3]VP International Marketing
+[3]VP de Marketing Internacional
 [4]Matthias Wehner
-[3]Director of Marketing
+[3]Diretor de Marketing
 [4]Tom Bass
-[3]Global Director of Public Relations
+[3]Diretor Global de Relações Públicas
 [4]Markus Wilding
-[3]Senior PR Manager
+[3]Gerente Sênior de RP
 [4]Charlie Sinhaseni
-[3]PR Manager
+[3]Gerente de RP
 [4]Jennie Sue
-[3]International PR & Marketing Assistant
+[3]RP Internacional e Assistente de Marketing
 [4]Erica Denning
-[3]Global Events Manager
+[3]Gerente de Eventos Globais
 [4]Karl Unterholzner
-[3]Art Director, Creative Services
+[3]Diretor de Arte, Serviço Criativo
 [4]Lesley Zinn
-[3]Web Director
+[3]Diretor de Web
 [4]Gabe Abarcar
 [3]Web Designer
 [4]Seth Jones
-[3]Senior Manager, Interactive Marketing
+[3]Gerente Sênior, Marketing Interativo
 [4]Elizabeth Tobey
-[3]Community Manager
+[3]Gerente de Comunidade
 [4]Greg Laabs
-[3]Director, Marketing Production
+[3]Diretor, Produção de Marketing
 [4]Jackie Truong
-[3]Marketing Production Assistant
+[3]Assistente de Produção de Marketing
 [4]Ham Nguyen
-[3]Director of Technology
+[3]Diretor de Tecnologia
 [4]Jacob Hawley
-[3]VP Business Development
+[3]VP de Desenvolvimento de Negócios
 [4]Kris Severson
-[3]VP Sales & Licensing
+[3]VP de Vendas e Licenciamento
 [4]Steve Glickstein
-[3]Strategic Sales and Licensing Director
+[3]Venda Estratégica e Diretor de Licença
 [4]Paul Crockett
-[3]VP, Counsel
+[3]VP, Conselheiro
 [4]Peter Welch
-[3]Director of Operations
+[3]Diretor de Operações
 [4]Dorian Rehfield
-[3]Director of Analysis and Planning
+[3]Diretor de Análise e Planejamento
 [4]Phil Shpilberg
-[3]Video Production Manager
+[3]Gerente de Vídeo e Produção
 [4]J. Mateo Baker
-[3]Video Editor
+[3]Editor de Vídeo
 [4]Kenny Crosbie
-[3]Jr Video Editor
+[3]Editor de Vídeo Jr
 [4]Michael Howard
-[3]Licensing/Operations Specialist
+[3]Licenciador/Especialista de Operações
 [4]Xenia Mul
-[3]Director In-game Media, Promotions and Partnerships
+[3]Diretor de Mídia In-game, Promoções e Parcerias
 [4]Shelby Cox
-[3]Associate Manager of Partner Marketing
+[3]Gerente Associado por Parceiro de Marketing
 [4]Dawn Burnell
 [N]
-[2]2K QUALITY ASSURANCE
-[3]VP of Quality Assurance 
+[2]2K GARANTIA DE QUALIDADE
+[3]VP de Garantia de Qualidade 
 [4]Alex Plachowski
-[3]Quality Assurance Test Manager (Projects)
+[3]Gerente de Teste de Garantia de Qualidade (Projetos)
 [4]Grant Bryson
-[3]Compliance Manager
+[3]Gerente de Conformidade
 [4]Alexis Ladd
-[3]Lead Tester
+[3]Lider de Teste
 [4]Griffin Funk
-[3]Lead Tester (Support Team)
+[3]Lider de Teste (Equipe de Apoio)
 [4]Sean Manzano
 [4]Andrew Webster
-[3]Senior Tester
+[3]Testador Sênior
 [4]Ruben Gonzalez
 [4]Sara Lane
 [4]Justin Waller
-[3]Quality Assurance Team
+[3]Equipe de Garantia de Qualidade
 [4]Rick Alvarez
 [4]Chad Bert
 [4]Skyler Bible
@@ -444,7 +444,7 @@
 [4]Jess Sparks
 [4]Dung Trinh
 [4]Luke Williams
-[3]Special Thanks
+[3]Agradecimento Especial 
 [4]Lori Durrant
 [4]Todd Ingram
 [4]Chris Jones
@@ -455,49 +455,49 @@
 [4]Rick Shawalker
 [4]Madeleine St. Marie
 [N]
-[2]2K INTERNATIONAL
-[3]General Manager
+[2]2K INTERNACIONAL
+[3]Diretor Geral
 [4]Neil Ralley
-[3]International Marketing Manager
+[3]Gerente de Marketing Internacional
 [4]Lia Tsele
-[3]International Product Manager
+[3]Gerente Produtor Internacional
 [4]Warner Guinée
-[3]International PR Manager
+[3]Gerente Internacional de RP
 [4]Emily Britt
-[3]International PR Executive
+[3]Executivo Internacional de RP
 [4]Matt Roche
-[3]Licensing Director
+[3]Diretor de Licenciamento
 [4]Claire Roberts
-[3]Web Content Manager
+[3]Gerente de Conteúdo da Web
 [4]Martin Moore
-[3]International Marketing Assistant
+[3]Assistente de Marketing Internacional
 [4]Tom East
 [N]
-[2]2K INTERNATIONAL PRODUCT DEVELOPMENT
-[3]International Producer
+[2]2K DESENVOLVIMENTO DE PRODUÇÃO INTERNACIONAL
+[3]Produtor Internacional
 [4]Sajjad Majid
-[3]Localization Manager
+[3]Gerente de Localização
 [4]Jean-Sebastien Ferey
-[3]Assistant Localization Manager
+[3]Assistente de Gerente de Localização
 [4]Arsenio Formoso
-[3]External Localization Teams
+[3]Equipe de Localização Externa
 [4]Around the Word
 [4]Effective Media
 [4]Synthesis International Srl
 [4]Synthesis Iberia
-[4]Localization tools and support provided by XLOC Inc.
+[4]Localização de ferramentas e apoio provido por XLOC Inc.
 [N]
-[2]2K INTERNATIONAL QUALITY ASSURANCE
-[3]QA Manager
+[2]2K GARANTIA DE QUALIDADE INTERNACIONAL
+[3]Gerente de GQ
 [4]Ghulam Khan
-[3]QA Supervisor
+[3]Supervisor de GQ
 [4]Sebastian Frank
 [4]Hugo Sieiro
-[3]Mastering Engineer
+[3]Engenheiro de Masterização
 [4]Wayne Boyce
-[3]Localization QA Project Lead
+[3]Condutor de Projeto e Localização de GQ
 [4]Lena Brenk
-[3]Localization QA Technicians
+[3]Localização de Técnicos de GQ
 [4]Anthony Busselier
 [4]Alba Loureiro
 [4]Andreas Strothmann
@@ -513,10 +513,10 @@
 [4]Oscar Pereira
 [4]Stefan Rossi
 [4]Tirdad Nosrati
-[3]Design Team
+[3]Equipe de Design
 [4]James Crocker
 [4]Tom Baker
-[3]2K International Team
+[3]2K Equipe Internacional
 [4]Agnès Rosique
 [4]Alex Bickham
 [4]Ben Seccombe
@@ -529,7 +529,7 @@
 [4]Sandra Melero
 [4]Simon Turner
 [4]Snezana Stojanovska
-[3]Take-Two International Operations
+[3]Take-Two Operações Internacionais
 [4]Anthony Dodd
 [4]Martin Alway
 [4]Cat Findlay
@@ -537,42 +537,42 @@
 [4]Robert Willis
 [4]Denisa Polcerova
 [4]Stefan Eder
-[3]2K China Localization Team
-[3]QA Manager
+[3]2K Equipe de Localização da China
+[3]Gerente de GQ
 [4]Zhang Xi Kun
-[3]QA Supervisor
+[3]Supervisor de GQ
 [4]Steve Manners
-[3]Project Lead
+[3]Lider de Projeto
 [4]Li Sheng Qiang
-[3]Localization Testers
+[3]Localização de Testadores
 [4]Qin Qi
 [4]Ning Xu
 [4]Lu Ting Ting
-[3]Assistant Project Lead
+[3]Lider Assistente de Projeto
 [4]Zhu Jian
-[3]Testers
+[3]Testadores
 [4]Zheng Zhi
 [4]Zuo Jun
 [4]Kan Liang
 [4]Wang Yi Min
 [N]
 [N]
-[3]For a complete listing of the Civilization V music credits, please visit: 
+[3]Para ver a lista completa do crédito musical do Civilization V, por favor visite: 
 [4]www.civilization5.com/musiccredits
 [N]
 [N]
-[2]Original Score Recording
+[2]Gravação de Partitura Original
 [3]Philharmonic of Prague
-[3]Conductor - Andy Brick
+[3]Regente - Andy Brick
 [N]
 [4]Concertmasters - Rita Cepurcenko & Milos Jahoda
-[4]Orchestral Music Contractor and Producer - Petr Pycha
-[4]Sound Engineer - Jan Kotzmann
-[4]Assistant Engineer - Cenda Kotzmann
+[4]Contratante de Música Orquestral e Produtor - Petr Pycha
+[4]Engenheiro de Som  - Jan Kotzmann
+[4]Engenheiro Assistente - Cenda Kotzmann
 [4]Librarian - Tomas Kirschner
-[4]Chorus Master - Stanislav Mistr
+[4]Mestre de Coro - Stanislav Mistr
 [N]
-[3]First Violin
+[3]Primeiro Violino
 [4]Rita Cepurcenko
 [4]Costin Anghelescu
 [4]Vaclav Dvorak
@@ -590,7 +590,7 @@
 [4]David Vorac
 [4]Lucie Hulova
 [N]
-[3]Second Violin
+[3]Segundo Violino
 [4]Libor Kanka
 [4]Martin Pachner
 [4]Ludvik Sklenar
@@ -620,7 +620,7 @@
 [4]Jindrich Moravec
 [4]Kamila Puteaney
 [N]
-[3]Cello
+[3]Violoncelo
 [4]Milos Jahoda
 [4]Jaroslav Matejka
 [4]Pavel Belousek
@@ -632,7 +632,7 @@
 [4]Roman Stehlik
 [4]David Havelik
 [N]
-[3]Bass
+[3]Baixo
 [4]Martin Zelenka
 [4]Michal Novak
 [4]Jan Buble
@@ -642,41 +642,41 @@
 [4]Radomir Zalud
 [4]Jan Prokop
 [N]
-[3]Flute
+[3]Flauta
 [4]Robert Heger
 [4]Martin Klimanek
 [N]
-[3]Piccolo
+[3]Falutim
 [4]Jiri Skuhra
 [N]
-[3]Oboe
+[3]Oboé
 [4]Libena Sequardtova
 [4]Jan Hodanek
 [N]
-[3]English Horn
+[3]Trompa Inglesa
 [4]Monika Bouskova
 [N]
-[3]Clarinet
+[3]Clarineta
 [4]Jan Mach
 [4]Vlastimil Mares
 [N]
-[3]Basclarinet
+[3]Clarinete Baixo
 [4]Miroslav Plechaty
 [N]
-[3]Bassoon 
+[3]Fagote
 [4]Svatopluk Cech
 [4]Lumir Vanek
 [N]
-[3]DoubleBassoon
+[3]Duplo Fagote
 [4]Petr Nemecek
 [N]
-[3]Horns
+[3]Trompa
 [4]Frantisek Langweil
 [4]Pavel Douba
 [4]Tomas Kirschner
 [4]Petr Hernych
 [N]
-[3]Trumpet
+[3]Trombeta
 [4]Marek Zvolanek
 [4]Svatopluk Zaal
 [4]Jan Fiser
@@ -691,13 +691,13 @@
 [3]Tuba
 [4]Karel Malimanek
 [N]
-[3]Harp
+[3]Harpa
 [4]Stana Ramesova
 [N]
-[3]Tympani
+[3]Tímpano
 [4]Svatopluk Cech ml.
 [N]
-[3]Percussion
+[3]Percussão
 [4]Miroslav Kejmar ml.
 [4]Jiri Svoboda
 [4]Ivan Hoznedr
@@ -722,7 +722,7 @@
 [4]Ludmila Hudeckova
 [4]Romana Soukupova
 [N]
-[3]Tenors
+[3]Tenores
 [4]Petr Klima
 [4]Bronislav Palowski
 [4]Tomas Hinterholzinger
@@ -732,7 +732,7 @@
 [4]Viktor Bycek
 [4]Michal Forst
 [N]
-[3]Basses
+[3]Baixos
 [4]Michal Krusek
 [4]Tomas Hanzl
 [4]Miroslav Vacha
@@ -743,51 +743,51 @@
 [4]Jiri Sejpal
 [N]
 [N]
-[2]ACTORS
-[4]Narrator - Morgan Sheppard
-[4]Son - Rick Pasqualone
-[4]Cultural Advisor - Vanessa Aspillaga
-[4]Economic Advisor - Nancy Linari
-[4]Military Advisor - RF Daley
-[4]Science Advisor - John Bentley 
-[4]Alexander the Great - Miró de Monteseppia
-[4]Askia Mohammad I - Mori Majid
-[4]Augustus Caesar - Émile Khordoc
-[4]Catherine the Great - Svetlana Migdissova
-[4]Darius I - Yassin Alsalman
+[2]ATORES
+[4]Narrador - Morgan Sheppard
+[4]Filho - Rick Pasqualone
+[4]Assessor Cultural - Vanessa Aspillaga
+[4]Assessor Econômico - Nancy Linari
+[4]Assessor Militar - RF Daley
+[4]Assessor Científico - John Bentley 
+[4]Alexandre - Miró de Monteseppia
+[4]Askia - Mori Majid
+[4]César Augusto - Émile Khordoc
+[4]Catarina - Svetlana Migdissova
+[4]Dario - Yassin Alsalman
 [4]Gandhi - Avtar Sandhu
 [4]George Washington - Marcel Jeanin
 [4]Harun Al-Rashid - Laith Marouf
 [4]Hiawatha - Kanentokon Hemlock
 [4]Montezuma - Alfredo Camacho
-[4]Napoléon Bonaparte - Greg Gobbi
+[4]Napoleão - Greg Gobbi
 [4]Oda Nobunaga - Ryosuke Aoike
-[4]Otto Van Bismark - Heinz Becker
-[4]Queen Elizabeth - Julia Lenardon
+[4]Bismark - Heinz Becker
+[4]Elizabeth - Julia Lenardon
 [4]Ramesses II - George Saad
 [4]Ramkhamhaeng - Thon Kongkaewpaisarn
-[4]Suleiman the Magnificent - Onur Aydemir
+[4]Suleiman - Onur Aydemir
 [4]Wu Zetian - Rachel Lei Xie
 [N]
 [3]Wave Generation, Inc.
-[3]Contemporary North American Flutes
+[3]Flautas Americanas Contemporâneas
 [4]Ken Light
 [4]Amon Olorin Flutes
-[3]Music Mastery
+[3]Maestria Musical
 [4]Scott Metcalfe, Mind's Ear
-[3]Original Dialog Mixers, POP Sound 
+[3]Mixer de Diálogo Original, Música POP
 [4]Tim West
 [4]Tim Hoogenakker
 [4]Dante Fazio
-[3]Original Dialog Recordists, POP Sound 
+[3]Gravadores de Diálogo Original, Música POP
 [4]Brett Rothfeld
 [4]Anthony Vanchure
 [4]Stephen Selvaggio
-[3]Dialog Editor
+[3]Editor de Diálogo
 [4]Garrett Montgomery
-[3]Original Dialog Mixers, Heavy Melody
+[3]Mixer de Diálogo Original, Melodia Pesada
 [4]Dave Fraser
-[3]Fox Studios
+[3]Estúdios Fox
 [4]Rick Fox 
 [4]Michael Weber 
 [4]Tim Schmidt
@@ -795,7 +795,7 @@
 [4]Keith Fox
 [4]Dustin Smith
 [4]Joe Schmidt
-[3]SPECIAL THANKS 
+[3]AGRADECIMENTO ESPECIAL
 [4]Daniel Einzig
 [4]Christopher Fiumano
 [4]Jenn Kolbe 
@@ -830,20 +830,20 @@
 [4]Gwendoline Oliviero
 [N]
 [2]2K SHANGHAI
-[3]General Manager
+[3]Diretor Geral
 [4]Julien Bares  
-[3]Production Director
+[3]Diretor de Produção
 [4]Liu Jing
-[3]Producers
+[3]Produtores
 [4]Liu Shan
 [4]Ren Ye Qing
-[3]Art Director
+[3]Diretor de Arte
 [4]Yi Zheng
-[3]Senior Artist
+[3]Artista Sênior
 [4]Li Ying Jun
-[3]Lead Animator
+[3]Lider de Animação
 [4]Xu Jie
-[3]Animators
+[3]Animadores
 [4]Yin Ji
 [4]Shen Yi Xin
 [4]Wu Xiao
@@ -852,8 +852,9 @@
 [N]
 [2]Tradução - Português Brasil
 [4]Rafael Tavares (Anpix)
-[4]Rubio
-[N]passarinhu
+[4]Robson (Rubio)
+[4]Tales Viana (passarinhu)
+[4]Gabriel Simões (gdcs321)
 [N]
 [N]
 [N]
@@ -861,7 +862,18 @@
 [N]
 [N]
 [N]
-[4]Thanks for playing Civilization V!
+[N]
+[N]
+[N]
+[N]
+[N]
+[4]Obrigado por jogar Civilization V!
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
 [N]
 [N]
 [N]
