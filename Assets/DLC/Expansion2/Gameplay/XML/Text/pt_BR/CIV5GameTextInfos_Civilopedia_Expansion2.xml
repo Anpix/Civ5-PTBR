@@ -792,7 +792,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_1">
-			<Text>Numa dinastia caracterizada pela tragédia e loucura durante séculos, Maria I é, sem dúvida, a mais conhecida do mundo e talvez a mais amada pelos portugueses. Rainha de Portugal, do Brasil e dos Algarves, era conhecida como Maria, a Piedosa, enquanto governava em Portugal, ou Maria Mad, depois de fugir para o Brasil em 1807, da invasão de Napoleão. Incapacitado por sua crescente loucura, Maria I morreu no Rio de Janeiro em 1816.</Text>
+			<Text>Numa dinastia caracterizada pela tragédia e loucura durante séculos, Maria I é, sem dúvida, a mais conhecida do mundo e talvez a mais amada pelos portugueses. Rainha de Portugal, do Brasil e dos Algarves, era conhecida como Maria, a Piedosa, enquanto governava em Portugal, ou Maria a Louca, depois de fugir para o Brasil em 1807, da invasão de Napoleão. Incapacitado por sua crescente loucura, Maria I morreu no Rio de Janeiro em 1816.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_2">
 			<Text>Início da Vida</Text>
@@ -1735,7 +1735,7 @@
 			<Text>O grande músico é um músico talentoso e muito importante para a vitória cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_ADV_QUEST">
-			<Text>O que é um Grande Músico?</Text>
+			<Text>O que é um grande músico?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_HEADING4_TITLE">
 			<Text>Habilidade Especial: Grande Trabalho</Text>
@@ -1790,37 +1790,37 @@
 			<Text>Estendendo o intervalo da rota comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_HEADING2_BODY">
-			<Text>Você pode aumentar em 50% a distância de suas rodadas em terra comerciais através da construção de Caravansaries nas cidades de origem. Eles também produzem um adicional de 2 [ICON_GOLD] Gold quando se conectam a outra civilização. Os caravansários são disponibilizados por meio da pesquisa de passeios a cavalo.[NEWLINE][NEWLINE]Além disso, os portos aumentam em 50% a distância de suas rotas marítimas comerciais e geram mais 2 [ICON_GOLD] Gold quando essas rotas se conectam a outra civilização. Eles são desbloqueados, pesquisando a Bússola.</Text>
+			<Text>Você pode aumentar em 50% a distância de suas rodadas em terra comerciais através da construção de Caravansaries nas cidades de origem. Eles também produzem um adicional de 2 Ouro quando se conectam a outra civilização. Os caravansários são disponibilizados por meio da pesquisa de passeios a cavalo.[NEWLINE][NEWLINE]Além disso, os portos aumentam em 50% a distância de suas rotas marítimas comerciais e geram mais 2 Ouro quando essas rotas se conectam a outra civilização. Eles são desbloqueados, pesquisando a Bússola.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_ADV_QUEST">
-			<Text>Como faço para ampliar o alcance das minhas Rotas de Comércio?</Text>
+			<Text>Como faço para ampliar o alcance das minhas rotas de comércio?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_BOOST_HEADING2_TITLE">
 			<Text>Renda Bônus de Edifícios</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_BOOST_HEADING2_BODY">
-			<Text>Existem vários edifícios e maravilhas que impulsionam sua renda na Rota Comercial.[NEWLINE][NEWLINE]Mercado: as rotas comerciais feitas em uma cidade com mercado geram um ouro extra de 2 [ICON_GOLD] para o proprietário da cidade e um extra 1 [ICON_GOLD] Ouro para o proprietário da rota comercial.[NEWLINE][NEWLINE]Companhia das Índias Orientais: a empresa da Índia Oriental A Maravilha Nacional gera um ouro extra de 4 [ICON_GOLD] para o proprietário da cidade em cada rota comercial estabelecida com aquela cidade e 2 [ICON_GOLD] Ouro para o proprietário da rota comercial.[NEWLINE][NEWLINE]Petra: A Petra Maravilha permite que você estabeleça uma rota comercial adicional e forneça uma Caravana na cidade gratuita na qual foi construída.[NEWLINE][NEWLINE]Colosso: O Colosso Maravilha faz com que as rotas comerciais feitas em sua cidade forneçam 2 [ICON_GOLD] de ouro extra para o proprietário da cidade e um ouro extra de [ICON_GOLD] para o proprietário da rota comercial. Ele também permite que você estabeleça uma rota comercial adicional e forneça um Navio de Carga gratuito na cidade em que foi construído.</Text>
+			<Text>Existem vários edifícios e maravilhas que impulsionam sua renda na Rota Comercial.[NEWLINE][NEWLINE]Mercado: as rotas comerciais feitas em uma cidade com mercado geram um ouro extra de 2 para o proprietário da cidade e um extra 1 Ouro para o proprietário da rota comercial.[NEWLINE][NEWLINE]Companhia das Índias Orientais: a empresa da Índia Oriental A Maravilha Nacional gera um ouro extra de 4 para o proprietário da cidade em cada rota comercial estabelecida com aquela cidade e 2 Ouro para o proprietário da rota comercial.[NEWLINE][NEWLINE]Petra: A Petra Maravilha permite que você estabeleça uma rota comercial adicional e forneça uma Caravana na cidade gratuita na qual foi construída.[NEWLINE][NEWLINE]Colosso: O Colosso Maravilha faz com que as rotas comerciais feitas em sua cidade forneçam 2 de ouro extra para o proprietário da cidade e um ouro extra de para o proprietário da rota comercial. Ele também permite que você estabeleça uma rota comercial adicional e forneça um Navio de Carga gratuito na cidade em que foi construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_BOOST_ADV_QUEST">
-			<Text>Quais outros Edifícios fornecem Benefícios Comerciais?</Text>
+			<Text>Quais outros Edifícios fornecem benefícios comerciais?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_WAR_HEADING2_TITLE">
 			<Text>Impacto da guerra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_WAR_HEADING2_BODY">
-			<Text>Quando uma Civilização declara guerra a outra, todas as Rotas Comerciais estabelecidas entre as duas civilizações são imediatamente destruídas.</Text>
+			<Text>Quando uma Civilização declara guerra a outra, todas as rotas comerciais estabelecidas entre as duas civilizações são imediatamente destruídas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_WAR_ADV_QUEST">
-			<Text>A guerra afeta as minhas Rotas de Comércio?</Text>
+			<Text>A guerra afeta as minhas rotas de comércio?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_RELIGION_HEADING2_TITLE">
 			<Text>Rotas Comerciais e Religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_RELIGION_HEADING2_BODY">
-			<Text>Rotas Comerciais podem estender o alcance da propagação natural da religião. Por exemplo, uma cidade que tem uma religião majoritária pode exercer pressão até 10 hexágonos de distância. Com uma Rota Comercial, essa pressão pode ser estendida a uma cidade de destino que esteja além do intervalo normal de 10 hexágonos. Tenha em mente que isso acontece para rotas de comércio de entrada e saída.</Text>
+			<Text>Rotas comerciais podem estender o alcance da propagação natural da religião. Por exemplo, uma cidade que tem uma religião majoritária pode exercer pressão até 10 hexágonos de distância. Com uma rota comercial, essa pressão pode ser estendida a uma cidade de destino que esteja além do intervalo normal de 10 hexágonos. Tenha em mente que isso acontece para rotas de comércio de entrada e saída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_RELIGION_ADV_QUEST">
-			<Text>As Rotas de Comércio podem espalhar a Religião?</Text>
+			<Text>As rotas de comércio podem espalhar a religião?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_SCIENCE_HEADING2_TITLE">
 			<Text>Rotas Comerciais e Ciência</Text>
@@ -1967,7 +1967,7 @@
 			<Text>Você pode construir uma Caravana!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_CARAVAN_BODY">
-			<Text>Você desbloqueou a capacidade de [COLOR_ADVISOR_HIGHLIGHT_TEXT] construir uma Caravana [/ COLOR], a primeira unidade de Trade disponível. Uma vez construída, você pode estabelecer uma rota comercial com uma cidade em outra civilização que gerará Ouro [ICON_GOLD].[NEWLINE][NEWLINE]Embora você comece a criar apenas uma rota comercial, é possível ganhar vagas adicionais da rota comercial como sua civilização se torna mais avançada.</Text>
+			<Text>Você desbloqueou a capacidade de [COLOR_ADVISOR_HIGHLIGHT_TEXT] construir uma Caravana [/ COLOR], a primeira unidade de Trade disponível. Uma vez construída, você pode estabelecer uma rota comercial com uma cidade em outra civilização que gerará [ICON_GOLD] Ouro.[NEWLINE][NEWLINE]Embora você comece a criar apenas uma rota comercial, é possível ganhar vagas adicionais da rota comercial como sua civilização se torna mais avançada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CULTURE_OVERVIEW_DISPLAY">
 			<Text>Visão Geral da Cultura</Text>
