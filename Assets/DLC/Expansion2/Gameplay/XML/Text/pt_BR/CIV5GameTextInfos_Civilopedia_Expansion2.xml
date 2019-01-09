@@ -1672,13 +1672,13 @@
 		</Row>
 		<!-- GREAT PEOPLE CONCEPTS -->
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ARTIST_HEADING3_BODY">
-			<Text>Um artista especialista produz cultura e gera pontos para um Grande Artista. Os artistas são atribuídos ao único edifício com o slot especialista apropriado, a Guilda dos Artistas</Text>
+			<Text>Um artista especialista produz cultura e gera pontos para um Grande Artista. Artistas são designados ao único edifício com o espaço especializado apropriado, a Guilda de Artistas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_TITLE">
 			<Text>Escritor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_BODY">
-			<Text>Um escritor especialista produz cultura e gera pontos para um Grande Escritor. Escritores são atribuídos ao único edifício com o slot especialista apropriado, a Guilda dos Escritores.</Text>
+			<Text>Um escritor especialista produz cultura e gera pontos para um Grande Escritor. Escritores são designados ao único edifício com o espaço especializado apropriado, a Guilda de Escritores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_ADV_QUEST">
 			<Text>O que o escritor especialista faz?</Text>
@@ -1687,7 +1687,7 @@
 			<Text>Músico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_BODY">
-			<Text>Um músico especialista produz cultura e gera pontos para um Grande Músico. Os músicos são designados para o único prédio com o espaço especializado apropriado, a Guilda dos Músicos.</Text>
+			<Text>Um músico especialista produz cultura e gera pontos para um Grande Músico. Músicos são designados ao único edifício com o espaço especializado apropriado, a Guilda de Músicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_ADV_QUEST">
 			<Text>O que o músico especialista faz?</Text>
@@ -1700,7 +1700,7 @@
 			<Text>O Grande Artista pode criar uma Grande Obra de Arte que é colocada na cidade mais próxima que possui um prédio apropriado com um espaço vazio (como o Palácio, um Museu ou uma Catedral). O Grande Artista é gasto quando usado dessa maneira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ART_CREATEGW_ADV_QUEST">
-			<Text>Como posso criar uma Grande Obra?</Text>
+			<Text>Como criar uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATWRITER_HEADING3_TITLE">
 			<Text>Grande Escritor</Text>
@@ -1715,19 +1715,19 @@
 			<Text>Habilidade Especial: Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_HEADING4_BODY">
-			<Text>Um Grande Escritor pode criar uma Grande Obra de Escrita que é colocada na cidade mais próxima que tenha um prédio apropriado com um espaço vazio (como um Anfiteatro, Épico Nacional, Epopéia Heróica ou Biblioteca Real). O Grande Escritor é gasto quando usado dessa maneira.</Text>
+			<Text>Um Grande Escritor pode criar uma Grande Obra Literária que é colocada na cidade mais próxima que tenha um edifício apropriado com um espaço desocupado (como um Anfiteatro, uma Epopeia Nacional, uma Epopeia Heroica, ou uma Biblioteca Real). O Grande Escritor é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_ADV_QUEST">
-			<Text>Como faço para criar uma Grande Obra?</Text>
+			<Text>Como criar uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TREATISE_HEADING4_TITLE">
 			<Text>Habilidade Especial: Tratado político</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TREATISE_HEADING4_BODY">
-			<Text>Um Grande Escritor pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. O Grande Escritor é gasto quando usado dessa maneira.</Text>
+			<Text>Um Grande Escritor pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. O Grande Escritor é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TREATISE_ADV_QUEST">
-			<Text>O que é um tratado político?</Text>
+			<Text>O que é um Tratado Político?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_HEADING3_TITLE">
 			<Text>Grande Músico</Text>
@@ -1742,10 +1742,10 @@
 			<Text>Habilidade Especial: Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_HEADING4_BODY">
-			<Text>A Grande Músico pode criar uma Grande Obra Musical que é colocada na cidade mais próxima que tenha um edifício apropriado com um lugar desocupado (como uma Casa de Ópera ou uma Torre de Difusão). O Grande Músico é gasto quando usado dessa forma.</Text>
+			<Text>A Grande Músico pode criar uma Grande Obra Musical que é colocada na cidade mais próxima que tenha um edifício apropriado com um espaço desocupado (como uma Casa de Ópera ou uma Torre de Difusão). O Grande Músico é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_ADV_QUEST">
-			<Text>Como eu crio uma Grande Obra?</Text>
+			<Text>Como criar uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_HEADING4_TITLE">
 			<Text>Habilidade Especial: Turnê de Concertos</Text>
@@ -1791,7 +1791,7 @@
 			<Text>Estendendo o intervalo da rota comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_HEADING2_BODY">
-			<Text>Você pode aumentar em 50% a distância de suas rodadas em terra comerciais através da construção de Caravansaries nas cidades de origem. Eles também produzem um adicional de 2 Ouro quando se conectam a outra civilização. Os caravansários são disponibilizados por meio da pesquisa de passeios a cavalo.[NEWLINE][NEWLINE]Além disso, os portos aumentam em 50% a distância de suas rotas marítimas comerciais e geram mais 2 Ouro quando essas rotas se conectam a outra civilização. Eles são desbloqueados, pesquisando a Bússola.</Text>
+			<Text>Você pode aumentar em 50% a distância de suas rodadas em terra comerciais através da construção de Caravansaries nas cidades de origem. Eles também produzem um adicional de 2 [ICON_GOLD]Ouro quando se conectam a outra civilização. Os caravansários são disponibilizados por meio da pesquisa de passeios a cavalo.[NEWLINE][NEWLINE]Além disso, os portos aumentam em 50% a distância de suas rotas marítimas comerciais e geram mais 2 [ICON_GOLD]Ouro quando essas rotas se conectam a outra civilização. Eles são desbloqueados pesquisando a Bússola.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_ADV_QUEST">
 			<Text>Como faço para ampliar o alcance das minhas rotas de comércio?</Text>
@@ -1800,7 +1800,7 @@
 			<Text>Renda Bônus de Edifícios</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_BOOST_HEADING2_BODY">
-			<Text>Existem vários edifícios e maravilhas que impulsionam sua renda na Rota Comercial.[NEWLINE][NEWLINE]Mercado: as rotas comerciais feitas em uma cidade com mercado geram um ouro extra de 2 para o proprietário da cidade e um extra 1 Ouro para o proprietário da rota comercial.[NEWLINE][NEWLINE]Companhia das Índias Orientais: a empresa da Índia Oriental A Maravilha Nacional gera um ouro extra de 4 para o proprietário da cidade em cada rota comercial estabelecida com aquela cidade e 2 Ouro para o proprietário da rota comercial.[NEWLINE][NEWLINE]Petra: A Petra Maravilha permite que você estabeleça uma rota comercial adicional e forneça uma Caravana na cidade gratuita na qual foi construída.[NEWLINE][NEWLINE]Colosso: O Colosso Maravilha faz com que as rotas comerciais feitas em sua cidade forneçam 2 de ouro extra para o proprietário da cidade e um ouro extra de para o proprietário da rota comercial. Ele também permite que você estabeleça uma rota comercial adicional e forneça um Navio de Carga gratuito na cidade em que foi construído.</Text>
+			<Text>Existem vários edifícios e maravilhas que impulsionam sua renda na Rota Comercial.[NEWLINE][NEWLINE]Mercado: as rotas comerciais feitas em uma cidade com mercado geram um ouro extra de 2 [ICON_GOLD] para o proprietário da cidade e um extra 1 [ICON_GOLD] Ouro para o proprietário da rota comercial [NEWLINE] [NEWLINE] Companhia das Índias Orientais: a empresa da Índia Oriental A Maravilha Nacional gera um ouro extra de 4 [ICON_GOLD] para o proprietário da cidade em cada rota comercial estabelecida com aquela cidade e 2 [ICON_GOLD] Ouro para o proprietário da rota comercial[NEWLINE][NEWLINE]Petra: A Petra Maravilha permite que você estabeleça uma rota comercial adicional e forneça uma Caravana na cidade gratuita na qual foi construída[NEWLINE][NEWLINE]Colosso: O Colosso Maravilha faz com que as rotas comerciais feitas em sua cidade forneçam 2 [ICON_GOLD] de ouro extra para o proprietário da cidade e um ouro extra de [ICON_GOLD] para o proprietário da rota comercial. Ele também permite que você estabeleça uma rota comercial adicional e forneça um Navio de Carga gratuito na cidade em que foi construído.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_BOOST_ADV_QUEST">
 			<Text>Quais outros Edifícios fornecem benefícios comerciais?</Text>
@@ -1809,7 +1809,7 @@
 			<Text>Impacto da guerra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_WAR_HEADING2_BODY">
-			<Text>Quando uma Civilização declara guerra a outra, todas as rotas comerciais estabelecidas entre as duas civilizações são imediatamente destruídas.</Text>
+			<Text>Quando uma civilização declara guerra a outra, todas as rotas comerciais estabelecidas entre as duas civilizações são imediatamente destruídas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_WAR_ADV_QUEST">
 			<Text>A guerra afeta as minhas rotas de comércio?</Text>
@@ -1998,7 +1998,7 @@
 			<Text>Você pode construir uma Guilda de Escritores!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_BODY">
-			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
+			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_DISPLAY">
 			<Text>Você pode construir uma Guilda de Artistas!</Text>
