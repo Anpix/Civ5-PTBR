@@ -230,13 +230,13 @@
 			<Text>Holy City switches to largest following city if captured</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY">
-			<Text>+2 [ICON_CULTURE] Culture and +1 [ICON_PEACE]Fé from Temples</Text>
+			<Text>+2 [ICON_CULTURE] Culture and +1 [ICON_PEACE]FÃ© from Temples</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HAJJ">
-			<Text>+5 [ICON_CULTURE] Culture and +5 [ICON_PEACE]Fé</Text>
+			<Text>+5 [ICON_CULTURE] Culture and +5 [ICON_PEACE]FÃ©</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SALAT">
-			<Text>+2 [ICON_PEACE]Fé from Shrines and Temples</Text>
+			<Text>+2 [ICON_PEACE]FÃ© from Shrines and Temples</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_WORK_ETHIC">
 			<Text>+8 [ICON_PRODUCTION] Production in each following city</Text>
@@ -410,7 +410,7 @@
 			<Text>Medieval ranged infantry Unit. Only the Celts may build it. This Unit has 1 additional range compared to the Crossbowman, but is slightly weaker. This Unit may move through rough ground as though it were flat.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH_STRATEGY">
-			<Text>The Stave Church increases the [ICON_PEACE]Fé of a city, speeding up the rate at which you can found and spread religions. The city must contain a Shrine before the Stave Church can be constructed. The Stave Church has no maintenance cost and takes half the time to build as the Temple, which it replaces.</Text>
+			<Text>The Stave Church increases the [ICON_PEACE]FÃ© of a city, speeding up the rate at which you can found and spread religions. The city must contain a Shrine before the Stave Church can be constructed. The Stave Church has no maintenance cost and takes half the time to build as the Temple, which it replaces.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAVE_CHURCH_TEXT">
 			<Text>Stave churches were wooden, post-and-beam constructions found throughout medieval Scandinavia after the Vikings converted to Christianity.  In Sweden alone it is estimated that over 1000 stave churches were built, the oldest dating back to the mid-1100s. Besides their religious function, stave churches often served as meeting halls, cultural centers, courthouses, and even as marketplaces. Early stave churches were palisade constructions, with steeply pitched roofs to shed the heavy snows. The churches had elaborate wooden carvings, usually Christian in design but occasionally depicting pre-Christian heroes and myths. Later, only the corner posts were set in the earth, with planking covering the frame. Currently 30 stave churches remain standing, all save two in Norway.</Text>
@@ -425,7 +425,7 @@
 			<Text>City must have Walls.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MADRASAH_STRATEGY">
-			<Text>The Madrasah is a Medieval-era building. It increases the science output of the city, and it's even more effective if the city is near to jungle tiles. The city must already have a Library para construir a Madrasah. It also provides [ICON_PEACE]Fé, unlike the University which it replaces.</Text>
+			<Text>The Madrasah is a Medieval-era building. It increases the science output of the city, and it's even more effective if the city is near to jungle tiles. The city must already have a Library para construir a Madrasah. It also provides [ICON_PEACE]FÃ©, unlike the University which it replaces.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MADRASAH_TEXT">
 			<Text>"Madrasah" is Arabic for any type of educational institution; although with a religious component, madrasahs were often secular, and could cover anything from elementary to higher learning. Usually associated with a mosque, madrasahs could even specialize in medicine, law, science, philosophy or the education of women. The first madrasah, the Gama'at al-Qarawiyyn, was established in 859 AD by Fatimah al-Fihri, the daughter of a wealthy merchant. During the rule of the Fatimid, Ayyubid and Mamluk dynasties, the practice of sponsoring madrasahs by the ruling, wealthy elite spread across Egypt and the Middle East. The first Ottoman madrasah was founded in 1331 AD in Iznik, and followed the traditions of Sunni Islam. The madrasahs of the Turks and Arabs would, as Europe suffered through the Dark Ages, keep the best of Western knowledge alive, and blend it with that of the East.</Text>
