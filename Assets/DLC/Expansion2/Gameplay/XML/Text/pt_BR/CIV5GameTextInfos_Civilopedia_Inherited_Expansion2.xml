@@ -4,25 +4,23 @@
 	<Language_pt_BR>
 		<!-- DOM TEXT -->
 		<Row Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT">
-			<Text>
-        Blessings be upon you, honorable and righteous Emperor of Ethiopia, Haile Selassie. Your legacy as one of Ethiopia's greatest rulers, and as the spiritual leader to the Rastafarian movement, is outshone only by the influence you had on diplomacy and political cooperation throughout the world. In introducing Ethiopia's first written constitution, you planted the seeds of democracy that would take root over the coming years, and your infinitely wise grasp of global affairs secured Ethiopia's place as a charter member of the United Nations. Spearheading efforts to reform and modernize the nation during your reign, you changed the course of Ethiopian history forever.[NEWLINE][NEWLINE]Revered king, your composed demeanor once protected the people from the many conflicts that plague the nations of men, and the kingdom looks to you to assure peace once again. Will you lead the people with courage and authority, moving forward into a new age? Will you build a civilization that stands the test of time?
-      </Text>
+			<Text>Que as bênçãos desçam sobre vós, honrado e justo Imperador da Etiópia, Haile Selassie. O vosso legado como um dos maiores governantes da Etiópia, e como o líder espiritual do movimento Rastafári, é ofuscado apenas pela influência que tivestes na diplomacia e na cooperação política em todo o mundo. Ao introduzir a primeira constituição escrita da Etiópia, plantastes as sementes da democracia que se enraizariam nos próximos anos e vosso conhecimento infinitamente vasto em assuntos globais garantiu o lugar da Etiópia como um membro fundador das Nações Unidas. Liderando esforços para reformar e modernizar a nação durante o vosso reinado, mudastes o curso da história da Etiópia para sempre.[NEWLINE][NEWLINE]Venerado Rei, vosso comportamento sereno uma vez protegeu as pessoas dos inúmeros conflitos que assolam as nações dos homens. E o reino busca a vós para lhes garantir a paz mais uma vez. Ireis liderar o povo com coragem e autoridade, avançando para uma nova era? Ireis construir uma civilização que resista ao teste do tempo?</Text>
 		</Row>
 		<!-- CIVILIZATION TEXT -->
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TITLE">
 			<Text>Ethiopia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING">
-			<Text>Factoids</Text>
+			<Text>Fatos Curiosos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT">
 			<Text>The calendar used in Ethiopia, known as the Ge'ez, is based on the Coptic Calendar developed in ancient Egypt. Thanks to the Ge'ez, Ethiopia is the only nation in the world with a 13th month.[NEWLINE][NEWLINE]Legend has it that the stimulating effects of coffee were first discovered in Ethiopia, when a goatherd named Kaldi observed his goats bucking wildly after eating the berries of a coffee plant.[NEWLINE][NEWLINE]Ethiopia's capital city of Addis Ababa is one of the highest capitals in the world, sitting at an elevation nearly 8000 ft (2400m) above sea level.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_2">
-			<Text>Geography and Climate</Text>
+			<Text>Clima e Terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_3">
 			<Text>Origins of Human Development</Text>
@@ -67,7 +65,7 @@
 			<Text>As early as the 10th millennium BC, Ethiopia was inhabited by tribal peoples who subsisted using early forms of agriculture and animal husbandry. Later during the height of the ancient Egyptian civilization, traders from both nations established routes for the exchange of gold, obsidian, ivory, and other precious materials. These early inhabitants of Ethiopia, who lived in what is known as the mysterious Land of Punt, developed many of the early agricultural practices that are still part of Ethiopian culture today.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_5">
-			<Text>As the most advanced of the early Ethiopian kingdoms, the powerful Axumite Empire is well documented in history, but also steeped in legend. Founded in roughly the 4th century BC, Axum grew to become a powerful center of trade over the next five hundred years. The valuable commodities of frankincense and myrrh, harvested from trees prevalent in Ethiopia, brought great wealth to the city of Axum and its people. Through the exportation of these goods, plus lucrative trades in ivory and various precious metals, Axum became an integral part of the rotas comerciais connecting Egypt, Rome, and India, enough so to facilitate the minting of currency within Axum to support the flourishing local economy.[NEWLINE][NEWLINE]However, after centuries of prosperity, legends say the expansive empire's downfall came at the hands of a rebellious queen named Gudit. As the story goes, Axum had long been a stronghold of Christianity, and the Jewish queen Gudit sought the throne by way of conquest, purportedly devastating the countryside before murdering the royal family of Axum. Although the story of Gudit's life and brief reign is mysterious and controversial, it can be said with certainty that the decline of Axum did coincide with her speculated arrival in the 10th century AD.[NEWLINE][NEWLINE]The Zagwe Dynasty, established in the early 12th century after the fall of Axum, was the first dynasty of the Ethiopian Empire, which would control the nation well into the 20th century. Although the Zagwe Dynasty was only in power for little more than a century, they contributed greatly to the spread of Christianity throughout Ethiopia, which would play a major role in the future of the country.</Text>
+			<Text>As the most advanced of the early Ethiopian kingdoms, the powerful Axumite Empire is well documented in history, but also steeped in legend. Founded in roughly the 4th century BC, Axum grew to become a powerful center of trade over the next five hundred years. The valuable commodities of frankincense and myrrh, harvested from trees prevalent in Ethiopia, brought great wealth to the city of Axum and its people. Through the exportation of these goods, plus lucrative trades in ivory and various precious metals, Axum became an integral part of the trade routes connecting Egypt, Rome, and India, enough so to facilitate the minting of currency within Axum to support the flourishing local economy.[NEWLINE][NEWLINE]However, after centuries of prosperity, legends say the expansive empire's downfall came at the hands of a rebellious queen named Gudit. As the story goes, Axum had long been a stronghold of Christianity, and the Jewish queen Gudit sought the throne by way of conquest, purportedly devastating the countryside before murdering the royal family of Axum. Although the story of Gudit's life and brief reign is mysterious and controversial, it can be said with certainty that the decline of Axum did coincide with her speculated arrival in the 10th century AD.[NEWLINE][NEWLINE]The Zagwe Dynasty, established in the early 12th century after the fall of Axum, was the first dynasty of the Ethiopian Empire, which would control the nation well into the 20th century. Although the Zagwe Dynasty was only in power for little more than a century, they contributed greatly to the spread of Christianity throughout Ethiopia, which would play a major role in the future of the country.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TEXT_6">
 			<Text>In 1270 AD, the monarchy that would control Ethiopia for the coming centuries arose under the leadership of Emperor Yekuno Amlak, founder of the Solomonic Dynasty. The rulers of the Solomonic Dynasty attributed their lineage to the great biblical king Solomon and his queen, Makeda. As legend has it, in the 10th century BC, Queen Makeda travelled from her kingdom in Sheba (thought to have formed part of modern Ethiopia) to Israel in an effort to learn from the wisdom of revered king Solomon. Although accounts differ as to her relationship with Solomon, Makeda later gave birth to a son, Menelik. Said to have been educated in the court of Solomon before returning to Ethiopia, Menelik brought with him the legendary Ark of the Covenant as a gift from Solomon. Ruling sometime around 950 BC, Menelik I was the originator of the biblical ancestry held sacred by later Emperors of Ethiopia.[NEWLINE][NEWLINE]Nearly 2,000 years after the reign of Menelik, Yekuno Amlak claimed to have traced his ancestry through a long line of relatives to establish a clear connection to the legendary emperor and his parents. This newly formed Solomonic Dynasty maintained its rule over Ethiopia for more than five centuries, lasting until the reign of Haile Selassie in the 1970s. Fully supported by the influential Ethiopian Orthodox Church (which to this day still claims to be holding the legendary Ark of the Covenant), the Solomonic emperors enjoyed relative stability during their reign, despite several attempted incursions from outside the country.</Text>
@@ -95,10 +93,10 @@
 			<Text>Haile Selassie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TITLES_1">
-			<Text>Emperor of Ethiopia</Text>
+			<Text>Imperador da Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_SUBTITLE">
-			<Text>Leader of Ethiopia</Text>
+			<Text>Líder da Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_LIVED">
 			<Text>1892 - 1975 AD</Text>
@@ -110,7 +108,7 @@
 			<Text>Of the many rumors surrounding Selassie's death, a consistently reoccurring report states that his bones were discovered buried in the Imperial palace underneath a lavatory.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_2">
 			<Text>Early Life and Politics</Text>
@@ -162,55 +160,55 @@
 			<Text>Found in southern Spain, the Alhambra is a large palace complex of the Nasrid Dynasty, who controlled the region in the mid 14th century. Construction first began sometime around 1238 AD under the rule of Ibn al-Ahmar, and continued under his successors. Taking its name from the red hue of its walls, the name Alhambra is translated as the "Red Fortress." Noted for its Moorish Islamic architectural style, the Alhambra features elaborate engravings and numerous examples of the interlacing patterns known as "Arabesques" found predominately in Islamic art. Although many examples of the original Islamic style remain today, much of the palace and its interior was reconstructed and modified after the rise of Catholicism in Spain.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_ALHAMBRA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies."[NEWLINE]- Joseph Addison[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A justiça é uma fortaleza inexpugnável, construída no topo de uma montanha que não pode ser derrubada pela violência das torrentes, nem demolida pela força dos exércitos."[NEWLINE]- Joseph Addison[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_CN_TOWER_DESC">
 			<Text>At one time the tallest free-standing structure in the world, the CN Tower of Toronto, Canada still remains among the tallest structures in the world today. Constructed in 1976 as a communications tower by the Canadian National Railway Company (hence the CN moniker), the tower has become a hallmark of Toronto and a major tourist attraction for the city. The tower is still primarily used for television and radio broadcasting, and is now considered one of the "Seven Wonders of the Modern World," joined by several notable constructions of the 20th century.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_CN_TOWER_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Nothing travels faster than the speed of light with the possible exception of bad news, which obeys its own special laws."[NEWLINE]- Douglas Adams[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Nada viaja mais rápido que a velocidade da luz com a possível exceção de más notícias, que obedecem às suas próprias leis especiais."[NEWLINE]- Douglas Adams[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HUBBLE_DESC">
 			<Text>Named for renowned American astronomer Edwin Hubble, the Hubble Space Telescope has proven to be among the most crucial astronomical research tools ever developed. Launched in 1990, the telescope has continually provided breathtaking images of far-off constellations and nebulas, attracting widespread attention from both scientists and the general public. As the only space telescope capable of being repaired by astronauts, the service life of the Hubble has been continually extended through a series of space walks. However, despite its notable legacy, the Hubble Space Telescope will be replaced in 2018 by the more advanced James Webb Space Telescope.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HUBBLE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The wonder is, not that the field of stars is so vast, but that man has measured it."[NEWLINE]- Anatole France[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Maravilhoso é, não que o campo de estrelas seja tão grande, mas que o homem o tenha medido."[NEWLINE]- Anatole France[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_LEANING_TOWER_DESC">
-			<Text>Found in the Piazza del Duomo ("Cathedral Square") na cidade of Pisa, Italy, the famous bell tower commonly known as the Leaning Tower of Pisa has stood slightly off-kilter for centuries. Construction on the tower began in 1173, and it quickly became clear that the unstable soil and minimal foundation upon which the tower was built were not enough to prevent it from sinking.  After leaving the tower incomplete for nearly a century, construction resumed in the late 13th century, with the final level completed in 1372. The tower is home to seven bells, each comprising a different note on the musical scale.</Text>
+			<Text>Found in the Piazza del Duomo ("Cathedral Square") in the city of Pisa, Italy, the famous bell tower commonly known as the Leaning Tower of Pisa has stood slightly off-kilter for centuries. Construction on the tower began in 1173, and it quickly became clear that the unstable soil and minimal foundation upon which the tower was built were not enough to prevent it from sinking.  After leaving the tower incomplete for nearly a century, construction resumed in the late 13th century, with the final level completed in 1372. The tower is home to seven bells, each comprising a different note on the musical scale.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_LEANING_TOWER_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Don't clap too hard - it's a very old building."[NEWLINE]- John Osborne[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Não aplauda muito forte - é um edifício muito antigo."[NEWLINE]- John Osborne[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_DESC">
 			<Text>The largest mud-brick structure in the world, the Great Mesquita of Djenne is found in the African Republic of Mali. Thought to have first been constructed sometime in the 13th Century by the sultan Koi Kunboro, the mosque has since been destroyed and rebuilt several times. The incarnation that stands today, assembled from mud bricks and mortar, was built in 1906 through the combined efforts of the surrounding community. Today, the mosque is maintained by the people of Djenne during an annual festival created specifically to ensure its longevity.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness."[NEWLINE]- Thomas Chalmers[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Com a grandiosidade da eternidade diante de nós, deixe o tempo, com todas as suas flutuações, diminuir em sua própria pequenez."[NEWLINE]- Thomas Chalmers[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_DESC">
 			<Text>Commissioned by the "Mad King" Ludwig II of Bavaria in the late 19th century, the Neuschwanstein Castle has since become the symbol of iconic "fairy tale" castles commonly found in children's literature and fables. Built into a hillside near the town of Füssen in Germany, Ludwig had intended the castle to be his retreat from public view, as he was known for his reclusive nature. Following his death, the castle became a popular tourist attraction, and eventually served as the inspiration for the famous Sleeping Beauty Castle created by Walt Disney.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world."[NEWLINE]- King Ludwig II of Bavaria[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"...o local é um dos mais belos a ser encontrado, santo e inacessível, um templo digno para o divino amigo que trouxe a salvação e a verdadeira benção ao mundo."[NEWLINE]- Rei Ludovico II da Bavária[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_DESC">
 			<Text>Constructed sometime around 1000 BC, the site of Petra in Jordan is among the most famous examples of rock-cut architecture in the world. Numerous intricately carved structures were cut into the sandstone walls of the desert canyons surrounding the area, as Petra came to serve as the capital city for the once-nomadic Nabataen people. The most famous of these structures, the Al Khazneh or "The Treasury," has been featured in numerous major motion pictures, notably a prominent role in "Indiana Jones and the Last Crusade" when the Al Khazneh was used to represent the location of the Holy Grail.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon..."[NEWLINE]- Indiana Jones[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"...quem beber da água que eu lhe der, diz o Senhor, terá uma fonte dentro dele a jorrar pela vida eterna. Deixe que me levem para o seu santo monte no lugar onde você mora. Do outro lado do deserto e pela montanha até o Cânion da Lua Crescente..."[NEWLINE]- Indiana Jones[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TERRACOTTA_ARMY_DESC">
 			<Text>Unearthed by Chinese farmers in 1974, the Terracotta Army of Emperor Qin Shi Huang was assembled to accompany the emperor in his burial tomb. Constructed during the 3rd century BC, workers created thousands of life-sized earthen figures, with each soldier having unique characteristics added during their construction. Positioned in proper military formation along deep pits carved within the tomb, the soldiers of the Terracotta Army are joined by horses, chariots, and cavalry which were also replicated in great detail.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TERRACOTTA_ARMY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death."[NEWLINE]- Sun Tzu[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Considere seus soldados como seus filhos e eles irão segui-lo até os vales mais profundos; olhe para eles como seus próprios filhos amados e eles irão ficar do seu lado até a morte."[NEWLINE]- Sun Tzu[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_FIREWALL_TEXT">
 			<Text>The Great Firewall is a restrictive internet monitoring and censorship program used to control the flow of information available to a civilization's people through the internet. By limiting the public's access to potentially volatile information available online, government agencies can limit potential backlash and other dissension regarding unpopular policies and government programs.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_FIREWALL_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Distrust and caution are the parents of security."[NEWLINE]- Benjamin Franklin[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A desconfiaça e a precaução são os pais da segurança."[NEWLINE]- Benjamin Franklin[NEWLINE][TAB]</Text>
 		</Row>
 		<!-- NATIONAL WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_TEXT">
@@ -221,7 +219,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-			<Text>An amphitheater is an outdoor arena designed for open-air theatrical performances, as well as sporting events and concerts. The ancient Romans in particular are known for the hundreds of amphitheatres they constructed, in which gladiatorial combat, exhibitions, and public executions were conducted.</Text>
+			<Text>Um anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de anfiteatros que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
 			<Text>Shrines are sacred monuments typically built to memorialize revered cultural icons or religious figures. Represented in nearly every religious denomination found throughout the world, shrines play an important role in religious ceremonies in both public and private worship.</Text>
@@ -242,7 +240,7 @@
 			<Text>The Cathedral is a form of Christian church differentiated by the presence of the Bishop's throne. The Latin term "Cathedra" means "chair," in reference to the throne itself - the cathedral then being the building containing this throne. Most cathedrals feature a unique architectural style when compared to other surrounding structures, frequently becoming noted landmarks within the area.  While primarily used as places of worship, cathedrals are also host to varying social functions within the community.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MOSQUE_TEXT">
-			<Text>The mosque serves as the traditional place of worship for the followers of Islam. The largest mosque in the world, the Madjid al-Haram was built na cidade of Mecca, in Saudi Arabia, around 638 AD. Also known as the Grand Mesquita, the Madjid al-Haram encompasses the holy site of the Kaaba, the most sacred of all locations in the Islamic religion.</Text>
+			<Text>The mosque serves as the traditional place of worship for the followers of Islam. The largest mosque in the world, the Madjid al-Haram was built in the city of Mecca, in Saudi Arabia, around 638 AD. Also known as the Grand Mesquita, the Madjid al-Haram encompasses the holy site of the Kaaba, the most sacred of all locations in the Islamic religion.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PAGODA_TEXT">
 			<Text>Commonly found throughout Asia, the Pagoda is an architectural style consisting of a multi-tiered tower typically featuring oversized eaves and a prominent finial at its peak. Most pagodas are associated with the Buddhist religion, as they were frequently constructed on or near Buddhist temple compounds in order to house sacred relics.</Text>
@@ -343,7 +341,7 @@
 			<Text>The Mehal Sefari was an elite unit of Imperial guardsmen who protected the emperors of Ethiopia in the 19th and 20th centuries. Originally serving as the personal bodyguards for the emperors of Ethiopia, the Mehal Sefari grew to become a formidable brigade of the Ethiopian military. Consisting of specialized units of infantry, cavalry, artillery and marksmen, the Mehal Sefari's status as the elite force of Ethiopia was ensured by the rigorous training and modern equipment provided to them.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MISSIONARY_TEXT">
-			<Text>Missionários are members of a religious group or sect sent abroad to spread the message of their chosen religion. While their primary goal is to share their religious views and hopefully gain new followers, missionaries typically provide other beneficial services to the areas they visit. By setting up clinics, schools, and other social welfare programs, missionaries help those in need while also serving in their evangelical role. </Text>
+			<Text>Missionaries are members of a religious group or sect sent abroad to spread the message of their chosen religion. While their primary goal is to share their religious views and hopefully gain new followers, missionaries typically provide other beneficial services to the areas they visit. By setting up clinics, schools, and other social welfare programs, missionaries help those in need while also serving in their evangelical role. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_COMPOSITE_BOWMAN_TEXT">
 			<Text>Widely considered the most sophisticated of all bow designs, the composite bow differs from other traditional models in that they are constructed of layered strips of bone, horn, or other materials glued together to form an extremely strong and powerful bow. The composite bow is thought to have originated with the tribal nomads of Asia sometime in the first or second millennia BC.</Text>
@@ -387,76 +385,76 @@
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
 			<Text>The Helicopter Gunship is a deadly air unit that in most respects acts like any ground unit, except that it cannot capture cities. Its movement of 6 makes it extremely quick, and it can move over all terrain types including mountains as if they were clear, but it must embark to cross water. Gunships receive a hefty combat bonus when fighting tanks.</Text>
 		</Row>
-		<!-- Tecnologia related text -->
+		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Anfiteatro[ENDCOLOR], which provides a boost to [ICON_CULTURE] Culture.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Anfiteatro[ENDCOLOR], que fornece um avanço na [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"What is drama but life with the dull bits cut out."[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O que o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_DESC">
 			<Text>Drama and poetry are both forms of artistic expression, the former expressed through the use of visual performance, the latter through the written word. Drama is most commonly associated with theatrical performances - plays, musicals, and operas - although in modern times these traditional forms have been surpassed by television and movie productions. Poetry focuses on the use of written language to express both a literal meaning, and often a thought-provoking underlying message.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_HELP">
-			<Text>Allows Trabalhadores to construct the [COLOR_POSITIVE_TEXT]Trading Post[ENDCOLOR], which increases the [ICON_GOLD] Gold output of map tiles. Also allows your cities to convert [ICON_PRODUCTION] Production into [ICON_GOLD] Gold instead of working on units or buildings.</Text>
+			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro. Além disso, permite às suas cidades converter [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edifícios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The merchants and the traders have come; their profits are pre-ordained..."[NEWLINE] - Sri Guru Granth Sahib[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Os mercadores e negociantes chegaram; seus lucros são pré-estabelecidos..."[NEWLINE] - Sri Guru Granth Sahib[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_DESC">
 			<Text>In pre-industrial cities, craftsmen tended to form associations - or trade guilds - based upon their profession; these guilds were intended to both protect craft secrets as well as promote the influence and income of the craftsmen. Predecessors of the trade guilds were found as early as the 3rd Century BC in Rome and Han China. By 300 AD, the practice of craftsmen banding together had spread into Gupta India and Ptolemaic Egypt. In the Middle Ages, guild organizations spread rapidly from Italy throughout Europe; 12th Century records in Paris and London each list over 100 guilds chartered by the cities. In some cases, so powerful were some guilds that they became the governing body of cities, indicated by the guildhalls found in Germany, Switzerland and Holland.[NEWLINE][NEWLINE]Over time, the guilds took on the task of safeguarding quality and of instruction in the craft, with a life-long progression from apprentice to grandmaster. To insure product quality, the system of trademarks indicating that the item had passed both guild and government standards evolved. However, over time the influence and power of the guilds declined as they fragmented with the coming of new trades, government concerns, and mass production methods. In France, for instance, the guilds were abolished in 1791 AD by the Le Chapelier Law; other countries followed soon did the same. Although largely supplanted by unions in the Industrial Age, there are still examples of guilds in existence, notably in the realms of film, literature and other artistic professions.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_HELP">
-			<Text>Allows you to construct multiple Wonders that can boost [ICON_CULTURE] Culture, [ICON_RESEARCH] Science and [ICON_HAPPINESS_1] Happiness.</Text>
+			<Text>Permite a construção de várias Maravilhas que aumentam a [ICON_CULTURE]Cultura, a [ICON_RESEARCH]Ciência e a [ICON_HAPPINESS_1]Felicidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Architecture begins where engineering ends."[NEWLINE] - Walter Gropius[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A arquitetura começa onde a engenharia termina."[NEWLINE] - Walter Gropius[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_DESC">
 			<Text>Architecture can be considered both an art and a science. Encompassing everything from the initial planning and design of a structure, to the actual construction process, architecture has been a crucial element of the building process since ancient times. One of the earliest known discussions of architecture and its principles, "De Architectura," was written by the Roman architect Vitruvius in the first century BC. A ten volume set comprising all of the most intricate details of Roman construction methods, Vitruvius's work is widely recognized today as a crucial development in the evolution of the architectural design process.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP">
-			<Text>Reveals [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Coal[ENDCOLOR] and allows you to build the [COLOR_POSITIVE_TEXT]Factory[ENDCOLOR], a building which greatly improves the [ICON_PRODUCTION] Production of a city.</Text>
+			<Text>Revela o [ICON_RES_COAL][COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]Fábrica[ENDCOLOR], um edifício que melhora muito a [ICON_PRODUCTION]Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology."[NEWLINE] - Emily Greene Balch[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A industrialização baseada em maquinário, já referida como uma das características da nossa era, é apenas um aspecto da revolução que está sendo feita pela tecnologia."[NEWLINE] - Emily Greene Balch[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_DESC">
 			<Text>Industrialization is viewed as the transition from an agrarian society into an industrial one, which is typically accompanied by widespread social and economic change throughout the community. The Industrial Revolution, beginning in Europe during the 18th century, brought about immense changes in the way people lived their daily lives. With increasingly complex machinery and tools available, many trades that were once left to talented craftsmen became obsolete with the advent of assembly lines operated by droves of unskilled factory laborers.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BALLISTICS_HELP">
-			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Anti-Aircraft Guns[ENDCOLOR], useful for thwarting enemy aircraft, and the [COLOR_POSITIVE_TEXT]Machine Gun[ENDCOLOR], a powerful single-hex ranged Unit.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Arma Antiaérea[ENDCOLOR], útil para frustrar aeronaves inimigas e da [COLOR_POSITIVE_TEXT]Metralhadora Pesada[ENDCOLOR], uma poderosa unidade com alcance de 6 hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BALLISTICS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Men, like bullets, go farthest when they are smoothest."[NEWLINE] - Jean Paul[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Homens, como projéteis, vão mais longe quando são polidos."[NEWLINE] - Jean Paul[NEWLINE][TAB]</Text>
 		</Row>
 		<!-- exists in the main game civilopedia file although it wasn't used
 		<Row Tag="TXT_KEY_TECH_BALLISTICS_DESC">
 			<Text>TEMP Description text: BALLISTICS</Text>
 		</Row> -->
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tank[ENDCOLOR], a fast and deadly armor Unit, and the [COLOR_POSITIVE_TEXT]Anti-Tank Gun[ENDCOLOR], a weapon specialized in defeating enemy Tanks.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma unidade blindada mortal e rápida, e da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], uma arma especializada em derrotar Tanques inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest."[NEWLINE] - Ludwig von Mises[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A fonte do mal não é a construção de armas novas, e mais mortíferas. É o espírito de conquista."[NEWLINE] - Ludwig von Mises[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_DESC">
 			<Text>Combined arms is a military doctrine first adopted more than a thousand years ago, which involves the combination of different-but complimentary-unit types in an effort to improve the overall efficiency of the force as a whole. In ancient times, the combined arms tactic was utilized by many of the major powers, particularly the Greeks and Romans, who carefully coordinated light and heavy infantry, cavalry, and ranged weapons to create cohesive formations that played off each others' strengths and weaknesses. In the present day, the rise of aircraft-based weaponry has led to even more complex variations on the traditional concept of combined arms. Drone aircraft, satellite-guided missiles, and high-altitude bombers are just a few examples of the expanding toolset available to modern military commanders.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Nuclear Submarine[ENDCOLOR], a Naval Unit invisible to most other Units and capable of carrying 2 Missiles. Also allows the construction of the [COLOR_POSITIVE_TEXT]Bomb Shelter[ENDCOLOR], which significantly reduces population loss from a nuclear attack.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino Nuclear[ENDCOLOR], uma Unidade Naval invisível à maioria das outras Unidades e capaz de carregar 2 Mísseis. Também permite a construção do [COLOR_POSITIVE_TEXT]Abrigo Antiaéreo[ENDCOLOR], que reduz significativamente a perda de população em um ataque nuclear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The more we elaborate our means of communication, the less we communicate."[NEWLINE] - J.B. Priestly[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Quanto mais elaboramos nossas formas de comunicação, menos nos comunicamos."[NEWLINE] - J.B. Priestly[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_DESC">
 			<Text>Telecommunication allows for the transmission of data and information over long distances using various types of signaling devices. Early forms of primitive ranged communication, including the use of smoke and signal flags, eventually gave way to telegraphs, and later, the telephone. Scientific research and engineering, particularly in the last 30 years, has led to breakthroughs in our ability to communicate globally. Orbiting satellites now provide a means for the transmission of data even to the most remote areas on Earth. Television, internet, cellular telephones, and GPS are now fully integrated into the daily lives of millions across the world because of telecommunications research.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Mechanized Infantry[ENDCOLOR], a fast and versatile late game Unit that doesn't require any resources.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Infantaria Mecanizada[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved."[NEWLINE] - Sun Tzu[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Todos podem ver essas táticas utilizadas onde eu conquiste, mas o que ninguém pode ver é a estratégia de que cada vitória evolui."[NEWLINE] - Sun Tzu[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_DESC">
 			<Text>Mobile tactics are strategies implemented by military forces to allow for quick, highly maneuverable units to get in and out of battle without becoming mired in an ongoing engagement. Mobile tactics are often used by irregular or guerilla units who specialize in hit-and-run attacks aimed at disorienting larger forces.</Text>
@@ -469,7 +467,7 @@
 			<Text>Found in the southern region of the U.S. state of Illinois, Cahokia was once an ancient city comprised of more than one hundred earthwork mounds, constructed around 700 AD by the Native American Mississippian culture. Covering more than 2,200 acres, Cahokia is the largest native city north of Mexico. Throughout the city's early history, it served as an important economic hub along the Mississippi river, joining far off settlements in the exchange of goods and services.[NEWLINE][NEWLINE]Of the approximately 70 to 80 mounds remaining today, the largest is that of "Monks Mound," which covers an area nearly as big as the Great Pyramid at Giza. Although the site is thought to have been abandoned some 600 years ago, European settlers, including a group of French monks, inhabited the area during the early 1800s (the monks providing the mound's namesake).[NEWLINE][NEWLINE]Today, Cahokia is recognized as a UNESCO World Heritage Site.  Several hundred thousand tourists from around the world visit the site each year, while archeologists working in the area expand on their research and continue to make new discoveries.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_COLOMBO_TEXT">
-			<Text>The largest city on the island nation of Sri Lanka, Colombo, has long been a vibrant trade center due in no small part to its strategic location along the rotas comerciais connecting Asia, Africa, and the Middle East. Beginning in ancient times, traders sailing from Greece, Rome, and China all stopped within Colombo's naturally formed harbor while sailing to distant ports.[NEWLINE][NEWLINE]Sometime around the 8th century AD, Arab settlers and traders hoping to profit from the port made permanent residence in the area of Colombo. However, it wasn't until nearly 600 years later with the arrival of Portuguese explorers that Colombo saw a vast expansion in its economic influence. From the early 1500s on, Colombo was of strategic and economic importance to a number of empires, as control of the city changed hands from the Portuguese to the Dutch, and later still, the English.[NEWLINE][NEWLINE]In the present-day, Colombo and its port are integral to the overall economy of Sri Lanka, as much of the nation's imports and exports pass through the city.</Text>
+			<Text>The largest city on the island nation of Sri Lanka, Colombo, has long been a vibrant trade center due in no small part to its strategic location along the trade routes connecting Asia, Africa, and the Middle East. Beginning in ancient times, traders sailing from Greece, Rome, and China all stopped within Colombo's naturally formed harbor while sailing to distant ports.[NEWLINE][NEWLINE]Sometime around the 8th century AD, Arab settlers and traders hoping to profit from the port made permanent residence in the area of Colombo. However, it wasn't until nearly 600 years later with the arrival of Portuguese explorers that Colombo saw a vast expansion in its economic influence. From the early 1500s on, Colombo was of strategic and economic importance to a number of empires, as control of the city changed hands from the Portuguese to the Dutch, and later still, the English.[NEWLINE][NEWLINE]In the present-day, Colombo and its port are integral to the overall economy of Sri Lanka, as much of the nation's imports and exports pass through the city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HONG_KONG_TEXT">
 			<Text>A city-state in its truest form, Hong Kong is a massive city residing along the southern coast of China. Home to more than seven million residents in the present-day, the island of Hong Kong and its surrounding territories were once home to numerous small settlements, including those constructed by foreign explorers. During the reign of the Chinese Qing Dynasty in the 19th century, trade relations with England dissolved amidst growing concern over the importation of Indian Opium into China. Britain had hoped to offset its increasing expensive tea imports from China by exporting greater amounts of Opium from its Indian colonies to China. However, the Qing rulers objected, and attempted to seize incoming opium shipments, inciting the First Opium War in 1839.[NEWLINE][NEWLINE]As one of the premier naval powers of the era, Britain had little trouble defeating the Chinese forces and occupying the island of Hong Kong. After nearly 3 years of conflict, the signing of the Treaty of Nanking in 1842 provided Britain with various spoils, including control of Hong Kong. After growing as a British colony for more than 150 years, Hong Kong was finally returned to China in 1997, after a peaceful transfer of power led to the creation of the Hong Kong special administrative region. Modern Hong Kong is distinguished by its highly dense, urban landscape with a distinctive skyline marked by dozens of skyscrapers and brightly lit structures. Despite the communist system utilized by the People's Republic of China, Hong Kong maintains an autonomous system of government that firmly supports free trade, and the city is now considered one of the world's premier financial hubs.</Text>
@@ -484,10 +482,10 @@
 			<Text>Although accurate historical records of Manila's early history are limited, sometime around the 10th century AD, the site of the Philippine's future capital city was settled in its earliest incarnation. It wasn't until 1571 however, with the arrival of Spanish Conquistador Miguel Lopez de Legazpi, that the existing settlements were destroyed, and the reconstructed city first came to be known as Manila. For the next 300 years, Manila and the Philippine islands remained under Spanish control. In 1898, Spain relinquished the Philippine territories to the United States after the Spanish-American War.[NEWLINE][NEWLINE]Manila's port, simply known as the Port of Manila, is one of the busiest seaports in the world, and the primary means of import and export within the Philippines. With a diverse variety of exported products, ranging from food and local commodities, to chemicals and industrial products, the Philippines rely heavily on Manila's port to maintain their flourishing economy. Tourism is also a major component of the local economy in Manila, as visitors come from around the world to see the historic walled district within Manila known as the Intramuros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MILAN_TEXT">
-			<Text>Founded in the 4th century BC by the Celtic Insubres people, the city of Milan in northern Italy grew over time to become one of the greatest cultural centers of the Italian Renaissance period.[NEWLINE][NEWLINE]After being conquered by the Romans in approximately 222 BC, Milan later became one of the three capitals of the Roman Empire during the Tetrarchy of Emperor Diocletian. Passing through the hands of a number of kings and empires following Rome's decline, Milan's prosperity continued to climb as the city became an increasingly important bastion in northern Italy.[NEWLINE][NEWLINE]Of the many notable aspects of Milan's history, none have a greater renown than the city's cultural contributions to the world. As an integral part of the Italian Renaissance movement, Milan was home to many great artists, who produced some of the greatest works of the era. Perhaps the most famous of Milan's residents was the painter Leonardo Da Vinci, who spent much of his life working and studying na cidade.[NEWLINE][NEWLINE]In the present day, Milan is still recognized as one of the world's leading cultural centers, with much of the current focus being on fashion and modern design.  Milan is also one of Italy's most important commercial business centers, as much of the country's transportation infrastructure leads through the city. Numerous multinational corporations also have offices in Milan, with industries ranging from telecommunications to manufacturing.</Text>
+			<Text>Founded in the 4th century BC by the Celtic Insubres people, the city of Milan in northern Italy grew over time to become one of the greatest cultural centers of the Italian Renaissance period.[NEWLINE][NEWLINE]After being conquered by the Romans in approximately 222 BC, Milan later became one of the three capitals of the Roman Empire during the Tetrarchy of Emperor Diocletian. Passing through the hands of a number of kings and empires following Rome's decline, Milan's prosperity continued to climb as the city became an increasingly important bastion in northern Italy.[NEWLINE][NEWLINE]Of the many notable aspects of Milan's history, none have a greater renown than the city's cultural contributions to the world. As an integral part of the Italian Renaissance movement, Milan was home to many great artists, who produced some of the greatest works of the era. Perhaps the most famous of Milan's residents was the painter Leonardo Da Vinci, who spent much of his life working and studying in the city.[NEWLINE][NEWLINE]In the present day, Milan is still recognized as one of the world's leading cultural centers, with much of the current focus being on fashion and modern design.  Milan is also one of Italy's most important commercial business centers, as much of the country's transportation infrastructure leads through the city. Numerous multinational corporations also have offices in Milan, with industries ranging from telecommunications to manufacturing.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MOMBASA_TEXT">
-			<Text>Although the founding of Mombasa is shrouded in conflicting historical records, it is believed the city, now the second largest in Kenya, was settled sometime around the 10th century AD. By the Middle Ages, Mombasa had grown into a flourishing city with an economy primarily based on the export of Ivory. Mombasa was also known for its vast network of plantations producing coconuts, cashews, and millet, which were then shipped out along the rotas comerciais crossing the Indian Ocean. Mombasa's port, known as the Kilindini Harbor, is the only international seaport in Kenya, which has allowed the city to become a major center of commerce and trade for the entire nation. In the present day, Mombasa's largest exports continue to be agricultural in nature, particularly coffee, tea, and grain.</Text>
+			<Text>Although the founding of Mombasa is shrouded in conflicting historical records, it is believed the city, now the second largest in Kenya, was settled sometime around the 10th century AD. By the Middle Ages, Mombasa had grown into a flourishing city with an economy primarily based on the export of Ivory. Mombasa was also known for its vast network of plantations producing coconuts, cashews, and millet, which were then shipped out along the trade routes crossing the Indian Ocean. Mombasa's port, known as the Kilindini Harbor, is the only international seaport in Kenya, which has allowed the city to become a major center of commerce and trade for the entire nation. In the present day, Mombasa's largest exports continue to be agricultural in nature, particularly coffee, tea, and grain.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_PRAGUE_TEXT">
 			<Text>Widely recognized for its cultural contributions to Europe over the past millennium, the city of Prague, capital of the Czech Republic, grew from a minor settlement of the mid-8th century to a major metropolitan area of more than one million people as it stands today.[NEWLINE][NEWLINE]During the 14th century, Prague flourished as the seat of power for the Holy Roman Emperor Charles IV. Many of the city's most notable landmarks were constructed during his reign, including the famous St. Vitus Cathedral built in the Gothic architectural style. Prague also expanded as an economic center during this period, receiving traders and financiers from across Europe as the city's population greatly increased.[NEWLINE][NEWLINE]Home to a number of renowned museums, theaters, and other cultural attractions, Prague is an extremely popular tourist destination in the present day. By current estimates, more than three million visitors come to Prague each year to enjoy the sights of the historic city.</Text>
@@ -499,12 +497,10 @@
 			<Text>The walled Vatican city-state, officially established in 1929, serves as the epicenter for the Catholic Church and its millions of followers throughout the world today. Founded as a means of resolving the ongoing conflicts between the Pope and the Kingdom of Italy over land ownership and control of Rome, the Lateran Treaty laid the groundwork for an independently governed city-state within the boundaries of Rome itself. As the sovereign of Vatican City, the Pope is the only absolute monarch left in Europe, and he holds supreme authority over all branches of the Vatican's government. The city itself is known for the many incredible works of art housed in its museums and cathedrals. St. Peter's Basilica and the Sistine Chapel are perhaps the best known sites within the Vatican, featuring works by Michelangelo, Raphael, and Botticelli.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_WITTENBERG_TEXT">
-			<Text>
-        The city of Wittenberg, a small settlement in central Germany, claims a unique stature in history as the birthplace of the Protestant Reformation incited by Martin Luther in the 16th century. Although the city was well-established within the Holy Roman Empire as the seat of power for the Elector of Saxony, it was Martin Luther's revolt that put Wittenberg on the map.[NEWLINE][NEWLINE]While teaching theology at the Universidade of Wittenberg, Martin Luther first expressed his distaste for the selling of indulgences - the process of paying the Catholic Church for the forgiveness of sin. In 1517, Martin Luther famously nailed his Ninety-Five Theses to the door of the Castle Church in Wittenberg, sparking the Protestant Reformation across Europe. Although it would take more than a century before the religious wars spurred by the Reformation were resolved, Wittenberg was always remembered as the wellspring for Martin Luther's dissidence.[NEWLINE][NEWLINE]More recently, Wittenberg was consumed by the conflicts of World War II, although much of the city's historic center was spared from the devastation of the allied bombing campaign. Following the conclusion of the war, Wittenberg was occupied by the Soviets and became part of East Germany in 1949, where it remained until the reunification of Germany in 1990.
-      </Text>
+			<Text>The city of Wittenberg, a small settlement in central Germany, claims a unique stature in history as the birthplace of the Protestant Reformation incited by Martin Luther in the 16th century. Although the city was well-established within the Holy Roman Empire as the seat of power for the Elector of Saxony, it was Martin Luther's revolt that put Wittenberg on the map.[NEWLINE][NEWLINE]While teaching theology at the University of Wittenberg, Martin Luther first expressed his distaste for the selling of indulgences - the process of paying the Catholic Church for the forgiveness of sin. In 1517, Martin Luther famously nailed his Ninety-Five Theses to the door of the Castle Church in Wittenberg, sparking the Protestant Reformation across Europe. Although it would take more than a century before the religious wars spurred by the Reformation were resolved, Wittenberg was always remembered as the wellspring for Martin Luther's dissidence.[NEWLINE][NEWLINE]More recently, Wittenberg was consumed by the conflicts of World War II, although much of the city's historic center was spared from the devastation of the allied bombing campaign. Following the conclusion of the war, Wittenberg was occupied by the Soviets and became part of East Germany in 1949, where it remained until the reunification of Germany in 1990.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_YEREVAN_TEXT">
-			<Text>Standing among the oldest cities in the world, Yerevan, the present-day capital of Armenia, traces its founding to the construction of the Erebuni fortress in 782 BC by King Argishti I of Urartu. Since that time, Yerevan has fallen under the rule of a number of powerful empires, having been conquered during the Arab invasions of the 7th century AD. It was during this period that Yerevan became an important stopover along the caravan routes connecting Europe to Asia. In the present-day, Yerevan is known for the many industries based na cidade, which account for more than 50% of Armenia's total industrial output. Industries producing heavy machinery, chemicals, raw materials, and textiles, have all contributed to the city's growing economy. Yerevan also plays an important role in Armenia's reputation for producing high quality alcohol, as a number of manufacturers are based within the city.</Text>
+			<Text>Standing among the oldest cities in the world, Yerevan, the present-day capital of Armenia, traces its founding to the construction of the Erebuni fortress in 782 BC by King Argishti I of Urartu. Since that time, Yerevan has fallen under the rule of a number of powerful empires, having been conquered during the Arab invasions of the 7th century AD. It was during this period that Yerevan became an important stopover along the caravan routes connecting Europe to Asia. In the present-day, Yerevan is known for the many industries based in the city, which account for more than 50% of Armenia's total industrial output. Industries producing heavy machinery, chemicals, raw materials, and textiles, have all contributed to the city's growing economy. Yerevan also plays an important role in Armenia's reputation for producing high quality alcohol, as a number of manufacturers are based within the city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ZANZIBAR_TEXT">
 			<Text>As part of the region once known as the "Spice Islands," Zanzibar, found in Tanzania in East Africa, has long captured the eye of traders sailing from around the world. At one time, Zanzibar was the world's leading producer of cloves, in addition to a number of other spices including nutmeg and cinnamon. In the modern day, Zanzibar is also heavily reliant on the tourism industry, which provides a steady income in addition to the agricultural industries.</Text>
@@ -514,7 +510,7 @@
 		</Row>
 		<!--RELIGION-->
 		<Row Tag="TXT_KEY_PEDIA_CATEGORY_15_LABEL">
-			<Text>Religion</Text>
+			<Text>Religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_BELIEFS_PAGE_LABEL">
 			<Text>Religion Home Page</Text>
@@ -523,10 +519,10 @@
 			<Text>"A faith is a necessity to a man. Woe to him who believes in nothing."[NEWLINE] - Victor Hugo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_BELIEFS_HOMEPAGE_LABEL1">
-			<Text>Religion</Text>
+			<Text>Religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_BELIEFS_HOMEPAGE_TEXT1">
-			<Text>Religion - as embodied in the great faiths of the world - has been one of the most significant factors in the progress of Man's culture and history. Religion has been the foundation for great art, wonders, and unity, but also has been the source of wars and intolerance. In Civilization V, religion brings your people advantages in the form of "Beliefs" that will further distinguish your civilization from others.[NEWLINE][NEWLINE]From the selection of the simple, single tenet of a "Pantheon" through the development of a sophisticated "Enhanced Religion," it is important for your success to make wise choices in the faith your civilization will follow. As rendered by "Faith" points, Great Prophets, Missionários, Inquisitors, Holy Sites, and religious buildings in your cities can greatly aid your progress towards victory.</Text>
+			<Text>Religion - as embodied in the great faiths of the world - has been one of the most significant factors in the progress of Man's culture and history. Religion has been the foundation for great art, wonders, and unity, but also has been the source of wars and intolerance. In Civilization V, religion brings your people advantages in the form of "Beliefs" that will further distinguish your civilization from others.[NEWLINE][NEWLINE]From the selection of the simple, single tenet of a "Pantheon" through the development of a sophisticated "Enhanced Religion," it is important for your success to make wise choices in the faith your civilization will follow. As rendered by "Faith" points, Great Prophets, Missionaries, Inquisitors, Holy Sites, and religious buildings in your cities can greatly aid your progress towards victory.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_BELIEFS_CATEGORY_1">
 			<Text>Religions</Text>
@@ -574,7 +570,7 @@
 			<Text>As the world's largest religion, Christianity is followed by more than two billion people across the globe today. Although Christianity is primarily centered in Europe and the Americas, there are believers living in nearly all parts of the world. The belief system of Christianity is based upon the teachings of Jesus Christ, who lived from approximately 6 BC to 30 AD.[NEWLINE][NEWLINE]Adherents of Christianity believe that Jesus was the Son of God, who was brought to the world to teach mankind the way to salvation. Jesus' birth to the Virgin Mary in Bethlehem is recorded in the New Testament of the Bible, as are the details of his early life, living and teaching in the area of present-day Israel and Palestine. During his time spreading the word of God, Jesus is said to have performed miracles as he taught his followers how to purify themselves of sin. Giving sight to the blind, curing the sick, and turning water into wine were all miracles said to have been performed by Jesus. His eventual betrayal by Judas and his crucifixion by the Romans served only to spread his renown, as his disciples claimed that he appeared before them three days after his death, rising from the grave and ascending to heaven.[NEWLINE][NEWLINE]The largest schools of Christianity are Roman Catholicism, the Eastern Orthodox Church, and Protestantism. Although these denominations differ in their interpretation of the bible and Jesus' teachings, they are all bound by their common belief in the Christian doctrine.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_ISLAM_PEDIA">
-			<Text>The second largest religion in the world, Islam, is based on the belief that there is only one true God, Allah, and he has made his will known through a number of prophets on Earth. The most important of these prophets, Muhammad, recorded God's words in the Muslim holy book, the Koran.[NEWLINE][NEWLINE]Born na cidade of Mecca (in modern Saudi Arabia) in 570 AD, Muhammad was raised as a merchant and later worked as a shepherd. However, at age 40, he experienced visions from God, and recorded God's word verbatim in the Koran. From this point forward, Muhammad preached the word of God and instructed his followers that the only true path to salvation was to devote themselves entirely to God through daily prayer, and the strict adherence to the laws set forth by God. The Five Pillars of Islam, the framework through which salvation can be attained, state in their most basic form that there is no god but God, and Muhammad is his prophet; one must pray daily to God at the five established times; one must give to the needy to support them; one must fast from dawn until dusk during the month of Ramadan; and one must make a pilgrimage to Mecca, at least once, during the holy month of Dhu al-Hijjah.[NEWLINE][NEWLINE]As was the case with the founding of many religions, Muhammad and his followers were met by staunch resistance from other faiths. Despite this, Muhammad's message spread across the Middle East following his death in 632 AD. Since that time, Islam has splintered into a number of competing branches, the largest being the Sunni and Shia denominations. Although bound by their overarching beliefs, these sects differed in their interpretation of who should lead Islam's following since the time of Muhammad's death.</Text>
+			<Text>The second largest religion in the world, Islam, is based on the belief that there is only one true God, Allah, and he has made his will known through a number of prophets on Earth. The most important of these prophets, Muhammad, recorded God's words in the Muslim holy book, the Koran.[NEWLINE][NEWLINE]Born in the city of Mecca (in modern Saudi Arabia) in 570 AD, Muhammad was raised as a merchant and later worked as a shepherd. However, at age 40, he experienced visions from God, and recorded God's word verbatim in the Koran. From this point forward, Muhammad preached the word of God and instructed his followers that the only true path to salvation was to devote themselves entirely to God through daily prayer, and the strict adherence to the laws set forth by God. The Five Pillars of Islam, the framework through which salvation can be attained, state in their most basic form that there is no god but God, and Muhammad is his prophet; one must pray daily to God at the five established times; one must give to the needy to support them; one must fast from dawn until dusk during the month of Ramadan; and one must make a pilgrimage to Mecca, at least once, during the holy month of Dhu al-Hijjah.[NEWLINE][NEWLINE]As was the case with the founding of many religions, Muhammad and his followers were met by staunch resistance from other faiths. Despite this, Muhammad's message spread across the Middle East following his death in 632 AD. Since that time, Islam has splintered into a number of competing branches, the largest being the Sunni and Shia denominations. Although bound by their overarching beliefs, these sects differed in their interpretation of who should lead Islam's following since the time of Muhammad's death.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_PANTHEON_PEDIA">
 			<Text>Placeholder</Text>
@@ -608,112 +604,112 @@
 			<Text>Citrus fruits - particularly Oranges, Limes, and Grapefruit - have been a common part of the human diet since ancient times. First cultivated in the regions surrounding Southeast Asia, the various flowering plants of the Citrus genus have since flourished in countries throughout the world. Scurvy, a Vitamin C deficiency rampant among sailors, began to become a serious problem in the 15th century. It continued to plague ships throughout the Age of Discovery, until the introduction of lime juice and sauerkraut treatments in the 18th century. Although most sailors believed it was the acid in citrus that prevented the disease, it was actually the Vitamin C, but the end result was a healthy crew in either case.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Public School[ENDCOLOR], which increases [ICON_RESEARCH] Science in Cities.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola Pública[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência nas Cidades.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Composite Bowman[ENDCOLOR], a powerful ranged unit, and the [COLOR_POSITIVE_TEXT]Colosseum[ENDCOLOR], which improves [ICON_HAPPINESS_1] Happiness in the empire, which in turn helps your city growth and makes [ICON_GOLDEN_AGE] Golden Ages more likely. Also allows Trabalhadores to construct [COLOR_POSITIVE_TEXT]Lumbermills[ENDCOLOR] on forested map tiles, increasing their [ICON_PRODUCTION] Production.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Arqueiro de Arco Composto[ENDCOLOR], uma poderosa unidade de ataque a distância, e do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com florestas, aumentando a sua [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Temple[ENDCOLOR], which increases the [ICON_PEACE]Fé output of a city.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_PEACE]Fé de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EDUCATION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], which boosts [ICON_RESEARCH] Science. Também fornece new [ICON_RESEARCH] Science-related abilities, like the [COLOR_POSITIVE_TEXT]Research Agreement[ENDCOLOR], which is a special deal that may be made with other players in the game.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisas[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
 			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Celeiro[ENDCOLOR] que fornece [ICON_FOOD] Alimento, ajudando suas cidades a crescerem mais. Também permite que você construa o [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], a primeira construção que produz [ICON_PEACE]Fé no jogo.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Celeiro[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], o primeiro edifício do jogo que fornece [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Chariot Archer[ENDCOLOR], a fast and powerful ranged unit which requires [ICON_RES_HORSE] Horses, and the [COLOR_POSITIVE_TEXT]Water Mill[ENDCOLOR], which gives your city a [ICON_FOOD] Food and [ICON_PRODUCTION] Production boost if it's next to a river. Also allows Trabalhadores to construct [COLOR_POSITIVE_TEXT]Roads[ENDCOLOR], which allow units to move across the map faster and provide extra [ICON_GOLD] Gold when connecting cities to your capital.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Biga Arqueira[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
-			<Text>Allows you to build various [ICON_GOLD] Gold-boosting buildings like the [COLOR_POSITIVE_TEXT]Mint[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Market[ENDCOLOR].</Text>
+			<Text>Permite aconstrução de vários edifícos que impulsionam a produção de [ICON_GOLD]Ouro, como o  [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_HELP">
-			<Text>Allows your cities to build [COLOR_POSITIVE_TEXT]Aqueducts[ENDCOLOR], increasing the [ICON_FOOD] Food that is carried over as your city grows. Also allows Trabalhadores to construct [COLOR_POSITIVE_TEXT]Forts[ENDCOLOR] on map tiles, increasing the defense of units stationed there. Additionally, bridges are automatically added to roads which cross rivers, allowing units to pass over them without slowing down.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Aquedutos[ENDCOLOR], aumentando o [ICON_FOOD]Alimento que pode ser mantido quando sua cidade cresce. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR], aumentando a defesa da unidade ali estacionada. Além disso, pontes são automaticamente construídas sobre os rios onde há estradas, permitindo que as unidades os atravesse sem se atrasarem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THEOLOGY_HELP">
-			<Text>Allows you to build a handful of specialized buildings and Wonders which improve your [ICON_PEACE]Fé output and ability to create new [ICON_GREAT_PEOPLE] Great People.</Text>
+			<Text>Permite a construção de úteis edifícios especializados e Maravilhas que melhoram a produção de [ICON_PEACE]Fé e possibilitam a criação de novas [ICON_GREAT_PEOPLE]Grandes Pessoas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Knight[ENDCOLOR], a fast and powerful mounted unit. Also allows you to build the [COLOR_POSITIVE_TEXT]Castle[ENDCOLOR] to improve the [ICON_STRENGTH] Defense of your cities. Additionally, this also allows for Defensive Pact treaties.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade de montaria rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Longswordsman[ENDCOLOR], a deadly medieval melee unit, and the [COLOR_POSITIVE_TEXT]Armory[ENDCOLOR], which gives all your Units an experience boost.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Longswordsman[ENDCOLOR], uma unidade medieval de ataque corpo-a-corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Caravel[ENDCOLOR], the first Naval Unit capable of exploring the world's oceans, and the [COLOR_POSITIVE_TEXT]Observatory[ENDCOLOR], which provides a significant [ICON_RESEARCH] Science boost. Also allows embarked land units to cross ocean tiles.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Bank[ENDCOLOR], a building which increases the [ICON_GOLD] Gold produced by a city, as well as the [COLOR_POSITIVE_TEXT]Constabulary[ENDCOLOR], which hinders a spies' ability to steal your technology.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro produzido pela cidade, além da [COLOR_POSITIVE_TEXT]Guarda Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Frigate[ENDCOLOR], a powerful Renaissance-era warship, and the [COLOR_POSITIVE_TEXT]Privateer[ENDCOLOR], a unique Naval Unit that can earn [ICON_GOLD] Gold from attacking coastal cities as well as capture enemy ships. Also allows coastal cities to build the [COLOR_POSITIVE_TEXT]Seaport[ENDCOLOR], which provides [ICON_PRODUCTION] Production from sea resources.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD]Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção dos recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], a fast mounted unit designed to hunt down other mounted units, and the [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], which boosts City defense.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades de montaria, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_HELP">
-			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Cavalry[ENDCOLOR], a mounted unit which can hold its own against strong infantry units, and the [COLOR_POSITIVE_TEXT]Military Academy[ENDCOLOR], which gives all your Units an experience boost.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Cavalaria[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
-			<Text>Reveals [ICON_RES_ALUMINUM] Aluminum, a resource used for many late-game units. Also allows Cities to build the [COLOR_POSITIVE_TEXT]Stock Exchange[ENDCOLOR], a building which boosts [ICON_GOLD] Gold. Also allows you to build the [COLOR_POSITIVE_TEXT]Hydro Plant[ENDCOLOR], which increases [ICON_PRODUCTION] Production from tiles next to a River, and the [COLOR_POSITIVE_TEXT]Police Station[ENDCOLOR], which hinders a spies' ability to steal your technology.</Text>
+			<Text>Revela o [ICON_RES_ALUMINUM]Alumínio, um recurso utilizado por muitas unidades da fase avançada do jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro, da [COLOR_POSITIVE_TEXT]Usina Hidrelétrica[ENDCOLOR], que aumenta a [ICON_PRODUCTION]Produção de hexágonos próximos a um Rio, e do [COLOR_POSITIVE_TEXT]Distrito Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEAM_POWER_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Ironclad[ENDCOLOR], a powerful warship especially suited to combat in coastal waters.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Couraçado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Submarine[ENDCOLOR], a ship invisible to all units except Destroyers and other Submarines, and [COLOR_POSITIVE_TEXT]Stadiums[ENDCOLOR], which increases [ICON_HAPPINESS_1] Happiness within the City. Also allows Work Boats to construct an Offshore Platform.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Destróiers e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]Barcos Operários[ENDCOLOR] construam Plataformas Costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Broadcast Tower[ENDCOLOR], a building which greatly increases the [ICON_CULTURE] Cultural output of a city.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
-			<Text>Allows you to build the basic land unit [COLOR_POSITIVE_TEXT]Great War Infantry[ENDCOLOR], and the [COLOR_POSITIVE_TEXT]Military Base[ENDCOLOR], which boosts City defense.</Text>
+			<Text>Permite o treinamento da unidade terrestre básica [COLOR_POSITIVE_TEXT]Infante[ENDCOLOR] e a construção da [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR], que melhora a defesa da Cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Triplane[ENDCOLOR], an Air Unit designed to gain control of the skies, and the [COLOR_POSITIVE_TEXT]Great War Bomber[ENDCOLOR], which can devastate Land Units and Cities.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Triplano[ENDCOLOR], uma unidade aérea para ganhar o controle dos céus, e do [COLOR_POSITIVE_TEXT]Bombardeiro Voisin[ENDCOLOR], que pode devastar Unidades Terrestres e Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PLASTICS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Research Lab[ENDCOLOR], a building which improves [ICON_RESEARCH] Science in a City, and [COLOR_POSITIVE_TEXT]Infantry[ENDCOLOR], a basic late-game Land Unit.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Laboratório de Pesquisas[ENDCOLOR], um edifício que melhora a [ICON_RESEARCH]Ciência na Cidade, e do treinamento da [COLOR_POSITIVE_TEXT]Infantaria[ENDCOLOR], uma Unidade Terrestre básica da fase avançada do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRONICS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Carrier[ENDCOLOR], a ship capable of carrying aircraft, and the [COLOR_POSITIVE_TEXT]Battleship[ENDCOLOR], a powerful late-game ranged Naval Unit.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Porta-Aviões[ENDCOLOR], uma embarcação capaz de transportar aeronaves, e do [COLOR_POSITIVE_TEXT]Super Couraçado[ENDCOLOR], uma Unidade Naval com ataque a distância da fase avançada do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Landship[ENDCOLOR], an incredibly powerful armored Unit that can move after attacking.  Also allows the training of the [COLOR_POSITIVE_TEXT]Destroyer[ENDCOLOR], a fast ship capable of hunting down Submarines.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque Ultrapesado[ENDCOLOR], uma incrivelmente poderosa Unidade blindada que pode se mover após atacar. Também permite a construção do [COLOR_POSITIVE_TEXT]Destróier[ENDCOLOR], uma embarcação rápida capaz de caçar Submarinos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PENICILIN_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Marine[ENDCOLOR], a Unit that specializes in amphibious assaults. Also allows you to build the [COLOR_POSITIVE_TEXT]Medical Lab[ENDCOLOR], a building which speeds the [ICON_FOOD] growth of your Cities.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Fuzileiro Naval[ENDCOLOR], uma unidade especializada em ataques anfíbios. Também permite a construção do [COLOR_POSITIVE_TEXT]Laboratório Médico[ENDCOLOR], uma edificação que acelera o [ICON_FOOD]crescimento das suas Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADAR_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Bomber[ENDCOLOR], a deadly air Unit capable of delivering death from afar, and the [COLOR_POSITIVE_TEXT]Fighter[ENDCOLOR], an air Unit designed to wrest control of the skies from enemy aircraft. Also allows you to build the [COLOR_POSITIVE_TEXT]Paratrooper[ENDCOLOR], a late-game infantry unit capable of paradropping behind enemy lines.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância, e do [COLOR_POSITIVE_TEXT]Avião de Combate[ENDCOLOR], uma unidade aérea projetada para defender o espaço aéreo contra aeronaves inimigas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Solar Plant[ENDCOLOR], a building which may only be built in Cities on or next to Desert, and increases [ICON_PRODUCTION] Production. Also allows you to build the [COLOR_POSITIVE_TEXT]Recycling Center[ENDCOLOR], which provides bonus [ICON_RES_ALUMINUM] Aluminum.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Usina Solar[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no deserto ou próximo a ele, e que aumenta a [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Centro de Reciclagem[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM]Alumínio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY_HELP">
-			<Text>An important technology, Rocketry allows you to build the [COLOR_POSITIVE_TEXT]Apollo Program[ENDCOLOR], a project necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR]. Also allows you to build the [COLOR_POSITIVE_TEXT]Rocket Artillery[ENDCOLOR] military unit, and the [COLOR_POSITIVE_TEXT]Mobile SAM[ENDCOLOR], a fast unit specialized in thwarting enemy aircraft.</Text>
+			<Text>Uma tecnologia importante, Foguetes permitem o desenvolvimento do [COLOR_POSITIVE_TEXT]Programa Apollo[ENDCOLOR], um projeto necessário para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Também permite a construção da [COLOR_POSITIVE_TEXT]Artilharia de Foguetes[ENDCOLOR] e do [COLOR_POSITIVE_TEXT]SAM Móvel[ENDCOLOR], uma unidade rápida e especializada em frustrar ataques de aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPUTERS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Helicopter Gunship[ENDCOLOR], a unit specialized in fighting enemy tanks.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Helicóptero Armado[ENDCOLOR], uma unidade especializada em combater tanques inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Nuclear Missile[ENDCOLOR], a frightening weapon that requires [ICON_RES_URANIUM] Uranium, and is capable of destroying units and cities. Also allows you to build the [COLOR_POSITIVE_TEXT]Guided Missile[ENDCOLOR], an inexpensive single-use Unit that can damage enemy Units, and the [COLOR_POSITIVE_TEXT]SS Booster[ENDCOLOR], one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR].</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM]Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssel Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROBOTICS_HELP">
-			<Text>An important technology for the Space Race, Robotics allows you to build the [COLOR_POSITIVE_TEXT]Spaceship Factory[ENDCOLOR], a building which speeds the construction of Spaceship parts. It also allows you to build the [COLOR_POSITIVE_TEXT]Missile Cruiser[ENDCOLOR], a Naval Unit capable of carrying 3 Missiles and spotting enemy Submarines.</Text>
+			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]Cruzador de Mísseis Guiados[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar Submarinos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Modern Armor[ENDCOLOR], an incredibly fast and powerful Armored Unit, and the [COLOR_POSITIVE_TEXT]Jet Fighter[ENDCOLOR], the most powerful fighter Unit in the game.</Text>
-		</Row>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque Blindado[ENDCOLOR], uma Unidade Blindada incrivelmente rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Caça a Jato[ENDCOLOR], a aeronave mais poderosa do jogo.</Text>
+		</Row>		
 		<Row Tag="TXT_KEY_TECH_STEALTH_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Stealth Bomber[ENDCOLOR], the most powerful Ranged Unit in the game.</Text>
-		</Row>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro Furtivo[ENDCOLOR], a Unidade de Ataque a Distância mais poderosa do jogo.</Text>
+		</Row>		
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPEOPLE_HEADING2_BODY">
-			<Text>There are nine types of Great People: Great Artists, Great Musicians, Great Writers, Great Engenheiros, Great Merchants, Great Cientistas, Great Generals, Great Admirals, and Great Prophets. The first six types are quite similar in functionality, each having abilities related to their areas of expertise, while Great Generals, Great Admirals, and Great Prophets are rather different: they are generated differently and they have different effects upon play. Great Generals and Great Admirals provide bonuses related to land and naval combat, and Great Prophets allow you to found a religion.</Text>
+			<Text>Existem nove tipos de Grandes Pessoas: Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Engenheiros, Grandes Mercadores, Grandes Cientistas, Grandes Generais, Grandes Almirantes, e Grandes Profetas.  Os quatro primeiros são bem similares em funcionalidade, cada um tendo habilidades relacionadas à sua especialidade, enquanto os Grandes Generais, Grandes Almirantes, e Grandes Profetas são bem diferentes: eles são gerados de outra forma e têm efeitos diferentes no jogo. Grandes generais e Grandes Almirantes proporcianam bônus relacionados ao combate terrestre e naval, e Grandes Profetas permitem a fundção de uma religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MULTIPLECOMBAT_HEADING3_BODY">
 			<Text>Units receive a "flanking" attack bonus of 10% for each unit adjacent to the target unit. Some promotions and social policies give an attacking unit additional bonuses beyond the basic flanking bonus. These bonuses can be incredibly powerful when enough units are involved. In general, the more units "ganged up" on the target unit, the better!</Text>
@@ -737,9 +733,7 @@
 			<Text>There are four influence levels with city-states: war, neutral, friends, and allies.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FRIENDS_HEADING4_BODY">
-			<Text>
-        If you're "friends" with a city-state, the city-state will periodically give you gifts - a cultured city-state will give you culture; a maritime city-state will give you food; a militaristic city-state will give you military units; a mercantile city-state will give you happiness; and a religious city-state will give you faith.
-      </Text>
+			<Text>If you're "friends" with a city-state, the city-state will periodically give you gifts - a cultured city-state will give you culture; a maritime city-state will give you food; a militaristic city-state will give you military units; a mercantile city-state will give you happiness; and a religious city-state will give you faith.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALLIES_HEADING4_BODY">
 			<Text>If you're allied with a city-state, you'll get a stronger version of the benefits of friendship. In addition, the city-state will give you all of their luxury and strategic resources. Only one civilization can be allied with a city-state at a time - if multiple are eligible, whichever has the highest IPs gets the position.[NEWLINE][NEWLINE]Additionally, if you're allied with a City-State you can pay them to improve a resource, which makes the resource available to you. To do this, click on "Give a Gift" within the City-State screen, then click on "200 [ICON_GOLD] Gold - Improve a Resource". Select the resource tile you would like to have improved, and the improvement is placed immediately.</Text>
@@ -757,7 +751,7 @@
 			<Text>The Nuclear Submarine is tougher and stronger than the earlier model. It too is invisible to most units and can see other submarines. Most importantly, Nuclear Submarines can carry guided missiles and nuclear missiles. Like submarines, Nuclear Subs are vulnerable to enemy Destroyers, Missile Cruisers, and Subs, so send units of your own out ahead to make sure the coast is clear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TEXT">
-			<Text>Fishing boats allow a civilization to harvest the valuable crab, fish, whale and pearl resources. To construct fishing boats, you must build a work boat em uma cidade costeira (after your civilization has learned the requisite technology). Work boats are consumed when they construct fishing boats.</Text>
+			<Text>Fishing boats allow a civilization to harvest the valuable crab, fish, whale and pearl resources. To construct fishing boats, you must build a work boat in a coastal city (after your civilization has learned the requisite technology). Work boats are consumed when they construct fishing boats.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CAMP_TEXT">
 			<Text>Hunting wild animals is one of the first ways in which ancient Man harvested the resources of the world around him. A hunting camp allows access to deer, fur, truffles, and ivory resources. </Text>
@@ -772,15 +766,13 @@
 			<Text>Religious</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GENERATING_HEADING3_BODY">
-			<Text>
-        Great Artists, Engenheiros, Merchants and Cientistas are created in cities by specialists and Wonders which generate "Great People" (GP)  points. A city may generate no Great People points, or it may generate a single kind of GP points or it may generate multiple kinds of GP points. Each city's GP points are kept track of separately. (For example, Kyoto might generate 1 Artist and 2 Engineer GP pts each turn. After 3 turns it would have 3 Artist points and 6 Engineer GP pts. The two types of points are not pooled.)[NEWLINE][NEWLINE]When a city has enough of a specific type of GP points, the points are expended to generate a Great Person of that type. Once a Great Person is generated, the amount required for the next Great Person increases in all of that player's cities.[NEWLINE][NEWLINE]For instance, let's say that a player needs to acquire 10 GP pts to get a Great Person. From the previous example, in five turns Kyoto would have enough Engineer GP pts. to create a Great Engineer. After the Great Engineer was created, Kyoto would have 0 Great Engineer points and 5 Grande Artista points left, and the amount required for the next Great Person would increase to say 15 points. Eight turns later Kyoto would have 13 Grande Artista points and 16 Great Engineer points, and it would generate another Great Engineer.[NEWLINE][NEWLINE]Note that a Jardim building increases the rate at which you generate Great People, and that the "Warrior Code" social policy immediately generates a Great General.[NEWLINE][NEWLINE]Additionally, once you advance into the Industrial Age, you will be able to expend unused Faith to purchase Great People, depending on what Política Social branches you have open.
-      </Text>
+			<Text>Great Artists, Engineers, Merchants and Scientists are created in cities by specialists and Wonders which generate "Great People" (GP)  points. A city may generate no Great People points, or it may generate a single kind of GP points or it may generate multiple kinds of GP points. Each city's GP points are kept track of separately. (For example, Kyoto might generate 1 Artist and 2 Engineer GP pts each turn. After 3 turns it would have 3 Artist points and 6 Engineer GP pts. The two types of points are not pooled.)[NEWLINE][NEWLINE]When a city has enough of a specific type of GP points, the points are expended to generate a Great Person of that type. Once a Great Person is generated, the amount required for the next Great Person increases in all of that player's cities.[NEWLINE][NEWLINE]For instance, let's say that a player needs to acquire 10 GP pts to get a Great Person. From the previous example, in five turns Kyoto would have enough Engineer GP pts. to create a Great Engineer. After the Great Engineer was created, Kyoto would have 0 Great Engineer points and 5 Great Artist points left, and the amount required for the next Great Person would increase to say 15 points. Eight turns later Kyoto would have 13 Great Artist points and 16 Great Engineer points, and it would generate another Great Engineer.[NEWLINE][NEWLINE]Note that a Garden building increases the rate at which you generate Great People, and that the "Warrior Code" social policy immediately generates a Great General.[NEWLINE][NEWLINE]Additionally, once you advance into the Industrial Age, you will be able to expend unused Faith to purchase Great People, depending on what Social Policy branches you have open (Great Merchant for Commerce, Great Scientist for Rationalism, Great Artist for Freedom, Great General or Great Admiral for Autocracy, Great Engineer for Order).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_GREATGENERALS_HEADING2_BODY">
 			<Text>Great Generals are "Great People" skilled in the art of warfare. They provide combat bonuses - offensive and defensive bonuses both - to any friendly land units within two tiles of their location. A Great General itself is a non-combat unit, so it may be stacked with a combat unit for protection. If an enemy unit ever enters the tile containing a Great General, the General is destroyed.[NEWLINE][NEWLINE]A Great General gives a combat bonus of 15% to units in the General's tile and all friendly land units within 2 tiles of the General.[NEWLINE][NEWLINE]Great Generals are created when your units have been in battle and also can be acquired when you unlock the "Warrior Code" social policy. See the section on "Great People" for more details.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_WRITING_HELP">
-			<Text>Allows you to build the first [ICON_RESEARCH] Science building, the [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], helping your empire research new technologies more quickly. Also allows you to establish Embassies in other civilizations.</Text>
+			<Text>Permite a construção do primeiro edifício [ICON_RESEARCH]Científico, a [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], que ajuda o seu Império a pesquisar novas tecnologias mais rapidamente. Também permite o estabelecimento de Embaixadas em outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ERA_FUTURE">
 			<Text>Information Era</Text>
@@ -795,9 +787,7 @@
 			<Text>It is also an act of war to enter a civ's territory (unless doing so with a Missionary or Great Prophet) if you don't have an "open borders" agreement with that civ. A pop-up will appear and ask you to confirm your move. Note that it isn't an act of war to cross a city-state's borders, so no pop-up will appear in that case.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_ATTACKINGRANGEDUNITS_HEADING3_BODY">
-			<Text>
-        Although you can attack a city and wear it down with ranged units, you cannot capture the city with a ranged unit; you must move a melee unit into the city to take it. Similarly, air units and ranged water units cannot capture a city, though they can wear its defenses down to nothing.
-      </Text>
+			<Text>Although you can attack a city and wear it down with ranged units, you cannot capture the city with a ranged unit; you must move a melee unit into the city to take it. Similarly, air units and ranged water units cannot capture a city, though they can wear its defenses down to nothing.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_CSTATE_GIFT_GOLD">
 			<Text>Give a Gift</Text>
