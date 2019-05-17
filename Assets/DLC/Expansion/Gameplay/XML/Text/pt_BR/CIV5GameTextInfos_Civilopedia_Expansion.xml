@@ -1255,7 +1255,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-			<Text>An amphitheater is an outdoor arena designed for open-air theatrical performances, as well as sporting events and concerts. The ancient Romans in particular are known for the hundreds of amphitheatres they constructed, in which gladiatorial combat, exhibitions, and public executions were conducted.</Text>
+			<Text>Um anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de anfiteatros que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
 			<Text>Shrines are sacred monuments typically built to memorialize revered cultural icons or religious figures. Represented in nearly every religious denomination found throughout the world, shrines play an important role in religious ceremonies in both public and private worship.</Text>
@@ -1870,7 +1870,7 @@
 			<Text>Religious</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
-			<Text>The Museum is a mid-game building which increases the city's [ICON_CULTURE] Culture output. The city must possess an Opera House (or a Ceilidh Hall) para construir the Museum.</Text>
+			<Text>The Museum is a mid-game building which increases the city's [ICON_CULTURE] Culture output. The city must possess uma Casa de Ópera (or a Ceilidh Hall) para construir the Museum.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GENERATING_HEADING3_BODY">
 			<Text>Great Artists, Engineers, Merchants and Scientists are created in cities by specialists and Wonders which generate "Great People" (GP)  points. A city may generate no Great People points, or it may generate a single kind of GP points or it may generate multiple kinds of GP points. Each city's GP points are kept track of separately. (For example, Kyoto might generate 1 Artist and 2 Engineer GP pts each turn. After 3 turns it would have 3 Artist points and 6 Engineer GP pts. The two types of points are not pooled.)[NEWLINE][NEWLINE]When a city has enough of a specific type of GP points, the points are expended to generate a Great Person of that type. Once a Great Person is generated, the amount required for the next Great Person increases in all of that player's cities.[NEWLINE][NEWLINE]For instance, let's say that a player needs to acquire 10 GP pts to get a Great Person. From the previous example, in five turns Kyoto would have enough Engineer GP pts. to create a Great Engineer. After the Great Engineer was created, Kyoto would have 0 Great Engineer points and 5 Great Artist points left, and the amount required for the next Great Person would increase to say 15 points. Eight turns later Kyoto would have 13 Great Artist points and 16 Great Engineer points, and it would generate another Great Engineer.[NEWLINE][NEWLINE]Note that a Garden building increases the rate at which you generate Great People, and that the "Warrior Code" social policy immediately generates a Great General.[NEWLINE][NEWLINE]Additionally, once you advance into the Industrial Age, you will be able to expend unused Faith to purchase Great People, depending on what Social Policy branches you have open (Great Merchant for Commerce, Great Scientist for Rationalism, Great Artist for Freedom, Great General or Great Admiral for Autocracy, Great Engineer for Order).
@@ -1883,7 +1883,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], o primeiro edifício [ICON_RESEARCH]Científico, que ajuda o seu Império a pesquisar novas tecnologias mais rapidamente. Também permite o estabelecimento de Embaixadas em outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-			<Text>The Opera House is a Renaissance-era building which increases a city's [ICON_CULTURE] Culture. The city needs to have an Amphitheater para construir the Opera House.</Text>
+			<Text>A Casa de Ópera é um edifício da Renascença que aumenta a [ICON_CULTURE] Cultura da cidade. A cidade precisa ter um Anfiteatro para construir a Casa de Ópera.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ERA_FUTURE">
 			<Text>Information Era</Text>

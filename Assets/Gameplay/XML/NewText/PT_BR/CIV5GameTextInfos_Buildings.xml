@@ -46,7 +46,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BROADCAST_TOWER">
-			<Text>Torre de Transmissão|Torres de Transmissão</Text>
+			<Text>Torre de Difusão|Torres de Difusão</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

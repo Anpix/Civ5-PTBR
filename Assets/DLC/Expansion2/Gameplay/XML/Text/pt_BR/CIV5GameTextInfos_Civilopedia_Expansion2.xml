@@ -2,7 +2,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_PEDIA_GREAT_WORKS_LABEL">
-			<Text>Grandes Trabalhos:</Text>
+			<Text>Grandes Obras:</Text>
 		</Row>
 		<!-- DOM TEXT -->
 		<Row Tag="TXT_KEY_CIV5_DAWN_ASSYRIA_TEXT">
@@ -620,19 +620,19 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Reign</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_TEXT_3">
-			<Text>As is often the case with any change in rule, as king, Assurbanipal was forced to deal with some of the troubling issues left behind by his father. Assyria was enbroiled in a war with neighboring Egypt, and Assurbanipal was forced to take decisive action to secure his grip on the empire's distant territories. Swiftly deploying his forces, Assurbanipal met with repeated successes in Egypt and - after further incursions by the Assyrian army - Assurbanipal assured firm control over many of the contested regions, including Judah, Israel, Cyprus, and much of Asia Minor.[NEWLINE][NEWLINE]A skilled administrator, Assurbanipal dedicated much of his time to managing the needs of his people at home, despite devoting long days to coordinating the efforts of his military. By carefully selecting able and reliable regents and local rulers for the far-flung reaches of the Assyrian empire, Assurbanipal was able to focus his own efforts elsewhere. His upbringing and education are credited with his skill in governance; the empire enjoyed relative stability and ongoing economic prosperity despite the conflicts of the region.[NEWLINE][NEWLINE]Taking great pride in his education and academic pursuits, Assurbanipal was a patron of both the arts and sciences, and throughout his reign he brought both to the empire with unbridled enthusiasm. To fill his Royal Biblioteca at Nineveh, Assurbanipal sent scribes across the empire to collect and copy texts of nearly any available subject. As with many ancient kings, Assurbanipal also commissioned artists and sculptors to create depictions of the events occurring throughout the empire, along with numerous reliefs depicting his own personal accomplishments and talents.</Text>
+			<Text>As is often the case with any change in rule, as king, Assurbanipal was forced to deal with some of the troubling issues left behind by his father. Assyria was enbroiled in a war with neighboring Egypt, and Assurbanipal was forced to take decisive action to secure his grip on the empire's distant territories. Swiftly deploying his forces, Assurbanipal met with repeated successes in Egypt and - after further incursions by the Assyrian army - Assurbanipal assured firm control over many of the contested regions, including Judah, Israel, Cyprus, and much of Asia Minor.[NEWLINE][NEWLINE]A skilled administrator, Assurbanipal dedicated much of his time to managing the needs of his people at home, despite devoting long days to coordinating the efforts of his military. By carefully selecting able and reliable regents and local rulers for the far-flung reaches of the Assyrian empire, Assurbanipal was able to focus his own efforts elsewhere. His upbringing and education are credited with his skill in governance; the empire enjoyed relative stability and ongoing economic prosperity despite the conflicts of the region.[NEWLINE][NEWLINE]Taking great pride in his education and academic pursuits, Assurbanipal was a patron of both the arts and sciences, and throughout his reign he brought both to the empire with unbridled enthusiasm. To fill his Biblioteca Real at Nineveh, Assurbanipal sent scribes across the empire to collect and copy texts of nearly any available subject. As with many ancient kings, Assurbanipal also commissioned artists and sculptors to create depictions of the events occurring throughout the empire, along with numerous reliefs depicting his own personal accomplishments and talents.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_HEADING_4">
 			<Text>The Biblioteca</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_TEXT_4">
-			<Text>The Royal Biblioteca of Assurbanipal, found in the ancient Assyrian capital of Nineveh, was home to Assurbanipal's extensive collection of historical texts and clay tablets. Incorporating materials from a wide range of subjects - including folk tales, religious rites, medical and scientific works, and histories - the library is among the most extensive ever uncovered by modern archeologists. The Royal Biblioteca contained, among other literary treasures, the Enuma Elish, the Babylonian "Epic of Creation," and the Sumerian Epic of Gilgamesh. English archaeologist and historian Sir Austen Henry Layard was the first to locate the library ruins in 1849, with most of the material he recovered being shipped to the British Museu, where it remains in their collection to this day. In total, over 30,000 tablets and other materials have been catalogued by the museum as part of the "Assurbanipal Biblioteca Project."</Text>
+			<Text>The Biblioteca Real of Assurbanipal, found in the ancient Assyrian capital of Nineveh, was home to Assurbanipal's extensive collection of historical texts and clay tablets. Incorporating materials from a wide range of subjects - including folk tales, religious rites, medical and scientific works, and histories - the library is among the most extensive ever uncovered by modern archeologists. The Biblioteca Real contained, among other literary treasures, the Enuma Elish, the Babylonian "Epic of Creation," and the Sumerian Epic of Gilgamesh. English archaeologist and historian Sir Austen Henry Layard was the first to locate the library ruins in 1849, with most of the material he recovered being shipped to the British Museu, where it remains in their collection to this day. In total, over 30,000 tablets and other materials have been catalogued by the museum as part of the "Assurbanipal Biblioteca Project."</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_HEADING_5">
 			<Text>Judgment of History</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_TEXT_5">
-			<Text>Following Assurbanipal's death around 627 BC, the Assyrian Empire entered a period of decline, as numerous parties vied for power. Unrest in the urban centers and within the ranks of the military was worsened by the conflict between his brother Sinsharishkun, the general Sinshumulishir and the eventual king of Babylonia Nabopossar. This turmoil only served to strengthen the legacy of Assurbanipal, as his people had enjoyed relative stability and prospered during his reign. In establishing the Royal Biblioteca, Assurbanipal set the first standard for state-supported scholarship and provided modern scholars and historians with an unequaled cache of artifacts that has greatly contributed to our knowledge and understanding of the peoples and the kingdoms of his era.</Text>
+			<Text>Following Assurbanipal's death around 627 BC, the Assyrian Empire entered a period of decline, as numerous parties vied for power. Unrest in the urban centers and within the ranks of the military was worsened by the conflict between his brother Sinsharishkun, the general Sinshumulishir and the eventual king of Babylonia Nabopossar. This turmoil only served to strengthen the legacy of Assurbanipal, as his people had enjoyed relative stability and prospered during his reign. In establishing the Biblioteca Real, Assurbanipal set the first standard for state-supported scholarship and provided modern scholars and historians with an unequaled cache of artifacts that has greatly contributed to our knowledge and understanding of the peoples and the kingdoms of his era.</Text>
 		</Row>
 		<!-- Casimir -->
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CASIMIR_NAME">
@@ -1133,13 +1133,13 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Um {TXT_KEY_UNIT_CARGO_SHIP} permite estabelecer uma rota de comércio marítima entre duas civilizações, gerando [ICON_GOLD]Ouro para o proprietário e a civilização de destino. Ele também tem um alcance maior do que as caravanas terrestres. A construção de um celeiro ou uma oficina em sua cidade natal também permite que você transporte [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção entre suas próprias cidades. Uma vez que você atribui o Navio de Carga a uma rota, ele não pode se defender, por isso certifique-se de que o caminho está livre de perigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_MUSICIAN_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_MUSICIAN} pode criar um Grande Trabalho Musical (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como uma {TXT_KEY_BUILDING_OPERA_HOUSE} ou {TXT_KEY_BUILDING_BROADCAST_TOWER}). Um {TXT_KEY_UNIT_GREAT_MUSICIAN} também pode viajar para outra civilização e realizar um Concerto Musical, que vai lhe dar um impulso único de [ICON_TOURISM]Turismo naquele território. {TXT_KEY_UNIT_GREAT_MUSICIAN[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_MUSICIAN} pode criar uma Grande Obra Musical (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como uma {TXT_KEY_BUILDING_OPERA_HOUSE} ou {TXT_KEY_BUILDING_BROADCAST_TOWER}). Um {TXT_KEY_UNIT_GREAT_MUSICIAN} também pode viajar para outra civilização e realizar um Concerto Musical, que vai lhe dar um impulso único de [ICON_TOURISM]Turismo naquele território. {TXT_KEY_UNIT_GREAT_MUSICIAN[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WRITER_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_WRITER} pode criar um Grande Trabalho Literário (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_AMPHITHEATER}, {TXT_KEY_BUILDING_HEROIC_EPIC}, {TXT_KEY_BUILDING_NATIONAL_EPIC} ou {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}). Um {TXT_KEY_UNIT_GREAT_WRITER} também pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. {TXT_KEY_UNIT_GREAT_WRITER[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_WRITER} pode criar uma Grande Obra Literária (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_AMPHITHEATER}, {TXT_KEY_BUILDING_HEROIC_EPIC}, {TXT_KEY_BUILDING_NATIONAL_EPIC} ou {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}). Um {TXT_KEY_UNIT_GREAT_WRITER} também pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. {TXT_KEY_UNIT_GREAT_WRITER[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_ARTIST} pode criar um Grande Trabalho de Arte (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um prédio apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_PALACE}, um {TXT_KEY_BUILDING_MUSEUM} ou uma {TXT_KEY_BUILDING_CATHEDRAL}). Um {TXT_KEY_UNIT_GREAT_ARTIST} pode também iniciar uma Era Dourada. {TXT_KEY_UNIT_GREAT_ARTIST[2]} são gastos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_ARTIST} pode criar uma Grande Obra de Arte (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um prédio apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_PALACE}, um {TXT_KEY_BUILDING_MUSEUM} ou uma {TXT_KEY_BUILDING_CATHEDRAL}). Um {TXT_KEY_UNIT_GREAT_ARTIST} pode também iniciar uma Era Dourada. {TXT_KEY_UNIT_GREAT_ARTIST[2]} são gastos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN} substitui o {TXT_KEY_UNIT_SWORDSMAN} padrão. Utilize-o em combate o mais rápido possível para desbloquear as propriedades secretas de sua espada Kris de lâmina curva.</Text>
@@ -1573,13 +1573,13 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Para ganhar uma Vitória Cultural, você deve tornar-se a influência cultural dominante em todas as civilizações no jogo usando Turismo. Veja a seção sobre Vitória para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GETTING_HEADING2_BODY">
-			<Text>Sua civilização obtém Cultura de varias maneiras:[NEWLINE]- Seu Palácio: (criado quando você construir sua primeira cidade) produz um ponto de cultura por turno.[NEWLINE]- Ruínas Antigas: uma ruína antiga pode lhe dar uma grande dose de Cultura.[NEWLINE]- Edifícios: alguns edifícios fornecem Cultura. O {TXT_KEY_BUILDING_MONUMENT_DESC} é um dos primeiros exemplos.[NEWLINE]- Especialistas: especialmente Artistas, Escritores e Músicos geram Cultura.[NEWLINE]- Maravilhas: algumas maravilhas fornecem Cultura. O {TXT_KEY_BUILDING_HERMITAGE}, {TXT_KEY_BUILDING_HEROIC_EPIC} e a {TXT_KEY_BUILDING_NATIONAL_EPIC} são três maravilhas nacionais que lhe dão Cultura; e há muito mais para descobrir.[NEWLINE]- Políticas Sociais: políticas sociais e princípios ideológicos irão aumentar a sua Cultura. O ramo "{TXT_KEY_POLICY_BRANCH_AESTHETICS}" tem uma série de políticas voltadas à Cultura.[NEWLINE]- Grandes Pessoas: grandes artistas, escritores e músicos podem criar "Grandes Trabalhos", que geram Cultura e Turismo[NEWLINE].- Cidades-Estado: algumas cidades-estado darão Cultura se suas relações forem amigáveis.</Text>
+			<Text>Sua civilização obtém Cultura de varias maneiras:[NEWLINE]- Seu Palácio: (criado quando você construir sua primeira cidade) produz um ponto de cultura por turno.[NEWLINE]- Ruínas Antigas: uma ruína antiga pode lhe dar uma grande dose de Cultura.[NEWLINE]- Edifícios: alguns edifícios fornecem Cultura. O {TXT_KEY_BUILDING_MONUMENT_DESC} é um dos primeiros exemplos.[NEWLINE]- Especialistas: especialmente Artistas, Escritores e Músicos geram Cultura.[NEWLINE]- Maravilhas: algumas maravilhas fornecem Cultura. O {TXT_KEY_BUILDING_HERMITAGE}, {TXT_KEY_BUILDING_HEROIC_EPIC} e a {TXT_KEY_BUILDING_NATIONAL_EPIC} são três maravilhas nacionais que lhe dão Cultura; e há muito mais para descobrir.[NEWLINE]- Políticas Sociais: políticas sociais e princípios ideológicos irão aumentar a sua Cultura. O ramo "{TXT_KEY_POLICY_BRANCH_AESTHETICS}" tem uma série de políticas voltadas à Cultura.[NEWLINE]- Grandes Pessoas: grandes artistas, escritores e músicos podem criar "Grandes Obras", que geram Cultura e Turismo[NEWLINE].- Cidades-Estado: algumas cidades-estado darão Cultura se suas relações forem amigáveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_HEADING2_TITLE">
 			<Text>Turismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_HEADING2_BODY">
-			<Text>[ICON_TOURISM]Turismo é gerado por Grandes Trabalhos ou Artefatos que são colocados em certos edifícios culturais, e é o rendimento principal que você vai usar para espalhar a sua influência cultural a outras civilizações. Ao colocar mais e mais Grandes Trabalhos e Artefatos em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, {TXT_KEY_BUILDING_OPERA_HOUSE[2]} etc., seu [ICON_TOURISM]Turismo vai continuar a aumentar. Além disso, você pode aumentar a sua geração de [ICON_TOURISM]Turismo um pouco, através de acordos para abertura de fronteiras, pelas rotas de comércio, compartilhamento de religião e determinados princípios ideológicos.</Text>
+			<Text>[ICON_TOURISM]Turismo é gerado por Grandes Obras ou Artefatos que são colocados em certos edifícios culturais, e é o rendimento principal que você vai usar para espalhar a sua influência cultural a outras civilizações. Ao colocar mais e mais Grandes Obras e Artefatos em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, {TXT_KEY_BUILDING_OPERA_HOUSE[2]} etc., seu [ICON_TOURISM]Turismo vai continuar a aumentar. Além disso, você pode aumentar a sua geração de [ICON_TOURISM]Turismo um pouco, através de acordos para abertura de fronteiras, pelas rotas de comércio, compartilhamento de religião e determinados princípios ideológicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_ADV_QUEST">
 			<Text>Como faço para gerar Turismo?</Text>
@@ -1594,49 +1594,49 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Como faço para ganhar usando Turismo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORKS_HEADING2_TITLE">
-			<Text>Grandes Trabalhos</Text>
+			<Text>Grandes Obras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORKS_HEADING2_BODY">
-			<Text>Grandes artistas, escritores e músicos. Todos têm a capacidade de criar Grandes Trabalhos. Esses Grandes Trabalhos são obras icônicas ao longo do tempo, como Mona Lisa de Leonardo da Vinci, ou 'Um Conto de Natal' de Charles Dickens.[NEWLINE][NEWLINE]Uma vez criados, você pode então colocar esses Grandes Trabalhos em um edifício apropriado que possua um espaço vazio destinado a um Grande Trabalho (como um {TXT_KEY_BUILDING_MUSEUM} para um grande trabalho de arte, um {TXT_KEY_BUILDING_AMPHITHEATER} para um grande trabalho literário, ou uma {TXT_KEY_BUILDING_OPERA_HOUSE} para um grande trabalho musical). Uma vez colocado, cada Grande Trabalho gera tanto Cultura quanto o Turismo.</Text>
+			<Text>Grandes artistas, escritores e músicos. Todos têm a capacidade de criar Grandes Obras. Essas Grandes Obras são obras icônicas ao longo do tempo, como Mona Lisa de Leonardo da Vinci, ou 'Um Conto de Natal' de Charles Dickens.[NEWLINE][NEWLINE]Uma vez criados, você pode então colocar essas Grandes Obras em um edifício apropriado que possua um espaço vazio destinado a uma Grande Obra (como um {TXT_KEY_BUILDING_MUSEUM} para uma grande obra de arte, um {TXT_KEY_BUILDING_AMPHITHEATER} para uma grande obra literária, ou uma {TXT_KEY_BUILDING_OPERA_HOUSE} para uma grande obra musical). Uma vez colocado, cada Grande Obra gera tanto Cultura quanto Turismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORKS_ADV_QUEST">
-			<Text>O que é um Grande Trabalho?</Text>
+			<Text>O que é uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_ART_HEADING2_TITLE">
-			<Text>Grande Trabalho de Arte</Text>
+			<Text>Grande Obra de Arte</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_ART_HEADING2_BODY">
-			<Text>Grandes Artistas podem criar um Grande Trabalho de Arte para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para um Grande Trabalho de Arte. Isso inclui o {TXT_KEY_BUILDING_PALACE}, {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_CATHEDRAL[2]}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar um Grande Trabalho de Arte, selecione e mova o Grande Artista para um ladrilho de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Trabalho" no painel da unidade. O Grande Trabalho será exibido na tela (por exemplo, Mona Lisa de Leonardo Da Vinci) e o Grande Artista será consumido.</Text>
+			<Text>Grandes Artistas podem criar uma Grande Obra de Arte para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para uma Grande Obra de Arte. Isso inclui o {TXT_KEY_BUILDING_PALACE}, {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_CATHEDRAL[2]}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar uma Grande Obra de Arte, selecione e mova o Grande Artista para um ladrilho de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Obra" no painel da unidade. A Grande Obra será exibido na tela (por exemplo, Mona Lisa de Leonardo Da Vinci) e o Grande Artista será consumido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_ART_ADV_QUEST">
-			<Text>O que é um Grande Trabalho de Arte?</Text>
+			<Text>O que é uma Grande Obra de Arte?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_WRITING_HEADING2_TITLE">
-			<Text>Grande Trabalho Literário</Text>
+			<Text>Grande Obra Literária</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_WRITING_HEADING2_BODY">
-			<Text>Grandes Escritores podem criar um Grande Trabalho Literário para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para um Grande Trabalho Literário. Isso inclui o {TXT_KEY_BUILDING_AMPHITHEATER}, a {TXT_KEY_BUILDING_HEROIC_EPIC}, a {TXT_KEY_BUILDING_NATIONAL_EPIC}, a {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar um Grande Trabalho Literário, selecione e mova o Grande Escritor para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Trabalho" no painel da unidade. O Grande Trabalho Literário será exibido na tela (por exemplo, 'Um Conto de Natal' de Charles Dickens), e do Grande Escritor será consumido.</Text>
+			<Text>Grandes Escritores podem criar uma Grande Obra Literária para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para uma Grande Obra Literária. Isso inclui o {TXT_KEY_BUILDING_AMPHITHEATER}, a {TXT_KEY_BUILDING_HEROIC_EPIC}, a {TXT_KEY_BUILDING_NATIONAL_EPIC}, a {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar uma Grande Obra Literária, selecione e mova o Grande Escritor para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Obra" no painel da unidade. A Grande Obra Literária será exibido na tela (por exemplo, 'Um Conto de Natal' de Charles Dickens), e do Grande Escritor será consumido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_WRITING_ADV_QUEST">
-			<Text>O que é um Grande Trabalho Literário?</Text>
+			<Text>O que é uma Grande Obra Literária?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_MUSIC_HEADING2_TITLE">
-			<Text>Grande Trabalho Musical</Text>
+			<Text>Grande Obra Musical</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_MUSIC_HEADING2_BODY">
-			<Text>Grandes Músicos pode criar um Grande Trabalho Musical para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para um Grande Trabalho Musical. Isso inclui a {TXT_KEY_BUILDING_OPERA_HOUSE}, a {TXT_KEY_BUILDING_BROADCAST_TOWER}, assim como diversas Maravilhas.[NEWLINE][NEWLINE]Para criar um Grande Trabalho Musical, selecione e mova o Grande Músico para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Trabalho" no painel da unidade. O Grande Trabalho Musical será exibido na tela (por exemplo, Prelude Raindrop de Frederic Chopin), e o Grande Músico será consumido.</Text>
+			<Text>Grandes Músicos pode criar uma Grande Obra Musical para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para uma Grande Obra Musical. Isso inclui a {TXT_KEY_BUILDING_OPERA_HOUSE}, a {TXT_KEY_BUILDING_BROADCAST_TOWER}, assim como diversas Maravilhas.[NEWLINE][NEWLINE]Para criar uma Grande Obra Musical, selecione e mova o Grande Músico para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Obra" no painel da unidade. A Grande Obra Musical será exibido na tela (por exemplo, Prelude Raindrop de Frederic Chopin), e o Grande Músico será consumido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_MUSIC_ADV_QUEST">
-			<Text>O que é um Grande Trabalho Musical?</Text>
+			<Text>O que é uma Grande Obra Musical?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_HEADING2_TITLE">
-			<Text>Gerenciando Grandes Trabalhos</Text>
+			<Text>Gerenciando Grandes Obras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_HEADING2_BODY">
-			<Text>A qualquer momento você pode abrir a tela Visão Cultural e mover Grandes Trabalhos de um local para outro. Isso é útil quando sua civilização está sendo invadida e você deseja mover seus Grandes Trabalhos com segurança. Você também pode usar isso para colocar Grandes Trabalhos em diferentes combinações dentro de seus {TXT_KEY_BUILDING_MUSEUM[2]} e Maravilhas, para tentar um bônus temático, que lhe dá bônus de [ICON_TOURISM]Turismo por combinar Grandes Trabalhos semelhantes.</Text>
+			<Text>A qualquer momento você pode abrir a tela Visão Cultural e mover Grandes Obras de um local para outro. Isso é útil quando sua civilização está sendo invadida e você deseja mover suas Grandes Obras com segurança. Você também pode usar isso para colocar Grandes Obras em diferentes combinações dentro de seus {TXT_KEY_BUILDING_MUSEUM[2]} e Maravilhas, para tentar um bônus temático, que lhe dá bônus de [ICON_TOURISM]Turismo por combinar Grandes Obras semelhantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_ADV_QUEST">
-			<Text>Como faço para gerenciar meus Grandes Trabalhos?</Text>
+			<Text>Como faço para gerenciar minhas Grandes Obras?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARCH_HEADING2_TITLE">
 			<Text>Arqueologia</Text>
@@ -1660,95 +1660,95 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Artefatos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARTIFACTS_HEADING2_BODY">
-			<Text>Os Artefatos são relíquias históricas que você pode colocar em um espaço para Grande Trabalho de Arte em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, ou certas Maravilhas. Uma vez colocados, eles vão gerar tanto Cultura e Turismo.</Text>
+			<Text>Os Artefatos são relíquias históricas que você pode colocar em um espaço para Grande Obra de Arte em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, ou certas Maravilhas. Uma vez colocados, eles vão gerar tanto Cultura e Turismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARTIFACTS_ADV_QUEST">
 			<Text>O que é um Artefato?</Text>
 		</Row>
 		<!-- GREAT PEOPLE CONCEPTS -->
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ARTIST_HEADING3_BODY">
-			<Text>An artist specialist produces culture and generates points towards a Grande Artista. Artists are assigned to the only building with the appropriate specialist slot, the Artists' Guild.</Text>
+			<Text>Um artista especialista produz cultura e gera pontos para um Grande Artista. Artistas são designados para o único edifício com um lugar de especialista apropriado, a Guilda de Artistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_TITLE">
 			<Text>Writer</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_BODY">
-			<Text>A writer specialist produces culture and generates points towards a Grande Escritor. Writers are assigned to the only building with the appropriate specialist slot, the Writers' Guild.</Text>
+			<Text>Um escritor especialista produz cultura e gera pontos para um Grande Escritor. Escritores são designados para o único edifício com um lugar de especialista apropriado, a Guilda de Escritores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_ADV_QUEST">
-			<Text>What does the writer specialist do?</Text>
+			<Text>O que o escritor especialista faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_TITLE">
 			<Text>Musician</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_BODY">
-			<Text>A musician specialist produces culture and generates points towards a Grande Músico. Musicians are assigned to the only building with the appropriate specialist slot, the Musicians' Guild.</Text>
+			<Text>Um músico especialista produz cultura e gera pontos para um Grande Músico. Músicos são designados para o único edifício com um lugar de especialista apropriado, a Guilda de Músicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_ADV_QUEST">
-			<Text>What does the musician specialist do?</Text>
+			<Text>O que o músico especialista faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ART_CREATEGW_HEADING4_TITLE">
-			<Text>Special Ability: Great Work</Text>
+			<Text>Habilidade Especial: Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ART_CREATEGW_HEADING4_BODY">
-			<Text>A Grande Artista can create a Great Work of Art that is placed in the nearest city that has an appropriate building with an empty slot (like the Palace, a Museu, or a Cathedral). The Grande Artista is expended when used this way.</Text>
+			<Text>O Grande Artista pode criar uma Grande Obra de Arte que é colocada na cidade mais próxima que tenha um edifício apropriado com um lugar desocupado (como o Palácio, o Museu, ou a Catedral). O Grande Artista é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ART_CREATEGW_ADV_QUEST">
-			<Text>How do I create a Great Work?</Text>
+			<Text>Como eu crio uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATWRITER_HEADING3_TITLE">
 			<Text>Grande Escritor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATWRITER_HEADING3_BODY">
-			<Text>The Grande Escritor, like his Artist and Musician brethren, are very important for the cultural victory.</Text>
+			<Text>O Grande Escritor, como seus colegas Artista e Músico, é muito importante para a vitória cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATWRITER_ADV_QUEST">
-			<Text>What is a Grande Escritor?</Text>
+			<Text>O que é um Grande Escritor?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_HEADING4_TITLE">
-			<Text>Special Ability: Great Work</Text>
+			<Text>Habilidade Especial: Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_HEADING4_BODY">
-			<Text>A Grande Escritor can create a Great Work of Writing that is placed in the nearest city that has an appropriate building with an empty slot (like um Anfiteatro, National Epic, Heroic Epic, or Royal Biblioteca). The Grande Escritor is expended when used this way.</Text>
+			<Text>O Grande Escritor pode criar uma Grande Obra Literária que é colocada na cidade mais próxima que tenha um edifício apropriado com um lugar desocupado (como um Anfiteatro, uma Epopeia Nacional, uma Epopeia Heroica, ou uma Biblioteca Real). O Grande Escritor é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_ADV_QUEST">
-			<Text>How do I create a Great Work?</Text>
+			<Text>Como eu crio uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TREATISE_HEADING4_TITLE">
 			<Text>Special Ability: Political Treatise</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TREATISE_HEADING4_BODY">
-			<Text>A Grande Escritor can write a Political Treatise, which grants the player a large amount of Culture. The Grande Escritor is expended when used this way.</Text>
+			<Text>Um Grande Escritor pode escrever um Political Treatise, que garante ao jogador uma grande quantidade de Cultura. O Grande Escritor é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TREATISE_ADV_QUEST">
-			<Text>What is a Political Treatise?</Text>
+			<Text>O que é um Political Treatise?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_HEADING3_TITLE">
 			<Text>Grande Músico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_HEADING3_BODY">
-			<Text>The great musician is one talented musician, and very important for the cultural victory.</Text>
+			<Text>O grande músico é um músico talentoso, e é muito importante para a vitória cultural..</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_ADV_QUEST">
-			<Text>What is a Grande Músico?</Text>
+			<Text>O que é um Grande Músico?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_HEADING4_TITLE">
-			<Text>Special Ability: Great Work</Text>
+			<Text>Habilidade Especial: Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_HEADING4_BODY">
-			<Text>A Grande Músico can create a Great Work of Music that is placed in the nearest city that has an appropriate building with an empty slot (like uma Casa de Ópera or Broadcast Tower). The Grande Músico is expended when used this way.</Text>
+			<Text>A Grande Músico pode criar uma Grande Obra Musical que é colocada na cidade mais próxima que tenha um edifício apropriado com um lugar desocupado (como uma Casa de Ópera ou uma Torre de Difusão). O Grande Músico é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_ADV_QUEST">
-			<Text>How do I create a Great Work?</Text>
+			<Text>Como eu crio uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_HEADING4_TITLE">
-			<Text>Special Ability: Concert Tour</Text>
+			<Text>Habilidade Especial: Turnê de Concertos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_HEADING4_BODY">
-			<Text>A Grande Músico can travel to another civilization and perform a Concert Tour, which will give you a one-time boost in Tourism in that territory. Open borders are required to enter another civilization's territory. The Grande Músico is expended when used this way.</Text>
+			<Text>A Grande Músico pode viajar para outras civilizações e fazer uma Turnê de Concertos, que lhe dará um impulso temporário no Turismo daquele território. Fronteiras abertas são necessárias para entrar no território de outra civilização. O Grande Músico é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_ADV_QUEST">
-			<Text>What is a Concert Tour?</Text>
+			<Text>O que é uma Turnê de Concertos?</Text>
 		</Row>
 		<!-- TRADE_CONCEPTS -->
 		<Row Tag="TXT_KEY_TOPIC_TRADE">
@@ -1761,7 +1761,7 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Trade Routes are established between two cities of different civilizations, providing Gold to each every turn. The civilization that the Trade Route originates from gets a larger sum of Gold than the destination civilization. The amount of Gold a Trade Route produces is dependent upon the resource diversity and revenue of the origin city.[NEWLINE][NEWLINE]Trade Routes can also be created between two cities of the same civilization. Once the origin city has a Granary, it can send Food to the destination city, and once it has a Workshop it can send Production. These types of internal Trade Routes do not benefit the origin city.[NEWLINE][NEWLINE]You can only have a limited number of Trade Routes at any time. Researching certain technologies increases the number of routes you have available. For details about your existing Trade Routes, open the Trade Route Overview screen, located in the Additional Information drop-down menu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_ROUTES_ADV_QUEST">
-			<Text>What is a Trade Route?</Text>
+			<Text>O que é uma Rota de Comércio?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_CARAVAN_HEADING2_TITLE">
 			<Text>Caravanas</Text>
@@ -1770,7 +1770,7 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Caravan units become available after you have researched Animal Husbandry. They can be used to establish land-based rotas comerciais, and have a limited range that they can travel. Land routes are able to reach farther over roads. Caravanas cannot be moved out of cities and do not count against unit stacking limits. They will reveal the fog of war along the path they follow, but do not grant visibility.[NEWLINE][NEWLINE]To establish a Trade Route, select the Caravan unit, click the "Establish Trade Route" button on the Unit panel, and then select a target city. Only cities within range are listed. Once selected, the Caravan will travel back and forth for a set amount of turns, and will then return to the original city to await a new assignment.[NEWLINE][NEWLINE]Trade units are defenseless, so make sure to scout your potential Trade Route for threats.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_CARAVAN_ADV_QUEST">
-			<Text>What is a Caravan?</Text>
+			<Text>O que é uma Caravana?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_CARGO_HEADING2_TITLE">
 			<Text>Navio Cargueiro</Text>
@@ -1779,7 +1779,7 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>Cargo Ship units become available after you have researched Sailing. They can be used to establish sea-based rotas comerciais. Sea routes are able to travel twice as far as land routes, and generate more Gold. Cargo Ships cannot be moved out of cities and do not count against unit stacking limits. They will reveal the fog of war along the path they follow, but do not grant visibility.[NEWLINE][NEWLINE]To establish a Trade Route, select the Cargo Ship unit, click the "Establish Trade Route" button on the Unit panel, and then select a target city. Only cities within range are listed. Once selected, the Cargo Ship will travel back and forth for a set amount of turns, and will then return to the original city to await a new assignment.[NEWLINE][NEWLINE]Trade units are defenseless, so make sure to scout your potential Trade Route for threats.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_CARGO_ADV_QUEST">
-			<Text>What is a Cargo Ship?</Text>
+			<Text>O que é um Navio Cargueiro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_HEADING2_TITLE">
 			<Text>Extending Trade Route Range</Text>
@@ -1992,19 +1992,19 @@ The second sack of Ulundi is considered by historians to be the definitive end o
 			<Text>You Can Build a Writers' Guild!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_BODY">
-			<Text>The Writers' Guild allows you to [COLOR_ADVISOR_HIGHLIGHT_TEXT]generate Great Writers[/COLOR] by assigning specialists to it. A Grande Escritor is a new type of Great Person that allows you to create [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Trabalhos Literários[/COLOR], essential for generating [ICON_TOURISM] Tourism and winning a Culture Victory.</Text>
+			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_DISPLAY">
 			<Text>You Can Build an Artists' Guild!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_BODY">
-			<Text>The Artists' Guild allows you to [COLOR_ADVISOR_HIGHLIGHT_TEXT]generate Great Artists[/COLOR] by assigning specialists to it. A Grande Artista is a new type of Great Person that allows you to create [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Trabalhos de Arte[/COLOR], essential for generating [ICON_TOURISM] Tourism and winning a Culture Victory.</Text>
+			<Text>A Guilda de Artistas permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Artistas[/COLOR]designando especialistas para ela. Um Grande Artista é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras de Arte[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_DISPLAY">
 			<Text>You Can Build a Musicians' Guild!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_BODY">
-			<Text>The Musicians' Guild allows you to [COLOR_ADVISOR_HIGHLIGHT_TEXT]generate Great Musicians[/COLOR] by assigning specialists to it. A Grande Músico is a new type of Great Person that allows you to create [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Trabalhos Musicais[/COLOR], essential for generating [ICON_TOURISM] Tourism and winning a Culture Victory.</Text>
+			<Text>A Guilda de Músicos permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Músicos[/COLOR]designando especialistas para ela. Um Grande Músico é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Musicais[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TOURISM_DISPLAY">
 			<Text>You're Generating Tourism!</Text>

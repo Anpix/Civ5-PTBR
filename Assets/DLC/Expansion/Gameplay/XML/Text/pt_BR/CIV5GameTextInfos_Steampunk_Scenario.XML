@@ -427,7 +427,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Speak softly and carry a big stick; you will go far."[NEWLINE] - Theodore Roosevelt[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RADIO_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Broadcast Tower[ENDCOLOR], a building which greatly increases the [ICON_CULTURE] Cultural output of a city.  Also grants access to the [COLOR_POSITIVE_TEXT]Carnegie Hall[ENDCOLOR] national wonder, another large source of [ICON_CULTURE] Culture.</Text>
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], a building which greatly increases the [ICON_CULTURE] Cultural output of a city.  Also grants access to the [COLOR_POSITIVE_TEXT]Carnegie Hall[ENDCOLOR] national wonder, another large source of [ICON_CULTURE] Culture.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ROBOTICS_HELP">
 			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Automated Factory[ENDCOLOR], which significantly increases the [ICON_PRODUCTION] Production output of a city.</Text>
@@ -451,7 +451,7 @@
 			<Text>[NEWLINE][TAB][TAB]"One just principle from the depths of a cave is more powerful than an army."[NEWLINE] - José Martí[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_HELP">
-			<Text>Allows you to build the late-game [COLOR_POSITIVE_TEXT]CN Tower[ENDCOLOR] wonder, which provides a Broadcast Tower in all of your cities.</Text>
+			<Text>Allows you to build the late-game [COLOR_POSITIVE_TEXT]CN Tower[ENDCOLOR] wonder, which provides uma Torre de Difusão in all of your cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A government of reason is better than one of force."[NEWLINE] - Thomas Jefferson[NEWLINE][TAB]</Text>

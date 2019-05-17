@@ -3,7 +3,7 @@
 <GameData>
   <Language_pt_BR>
     <Row Tag="TXT_KEY_CITYVIEW_GREAT_WORK_BUILDINGS_TEXT">
-      <Text>Edifícios de Grande Trabalho</Text>
+      <Text>Edifícios de Grande Obra</Text>
     </Row>
     <Row Tag="TXT_KEY_RESOURCE_ARTIFACTS">
       <Text>Sítio Arqueológico</Text>
@@ -17,7 +17,7 @@
 	  <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_RESOURCE_CLOVES">
-      <Text>Cravo-da-Índia|Cravos da Índia</Text>
+      <Text>Cravo-da-Índia|Cravos-da-Índia</Text>
 	  <Gender>masculine</Gender>
 	  <Plurality>1|2</Plurality>
     </Row>
@@ -37,7 +37,7 @@
       <Text>Construir um [LINK=IMPROVEMENT_KASBAH]Casbá[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_FEITORIA">
-      <Text>Construir um [LINK=IMPROVEMENT_FEITORIA]Feitoria[\LINK]</Text>
+      <Text>Construir uma [LINK=IMPROVEMENT_FEITORIA]Feitoria[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_CHATEAU">
       <Text>Construir uma [LINK=IMPROVEMENT_CHATEAU]Mansão[\LINK]</Text>
@@ -60,6 +60,7 @@
     </Row>
     <Row Tag="TXT_KEY_IMPROVEMENT_CHATEAU">
       <Text>Mansão</Text>
+	  <Gender>feminine</Gender>
     </Row>
     <!-- Archaeological Artifacts-->
     <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RUIN">
@@ -184,12 +185,16 @@
     <!-- Processes-->
     <Row Tag="TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION">
       <Text>Estação Espacial Internacional</Text>
+	  <Gender>feminine</Gender>	  
     </Row>
     <Row Tag="TXT_KEY_PROCESS_WORLD_FAIR">
       <Text>Feira Mundial</Text>
+	  <Gender>feminine</Gender>	  
     </Row>
     <Row Tag="TXT_KEY_PROCESS_WORLD_GAMES">
       <Text>Jogos Internacionais</Text>
+	  <Gender>masculine</Gender>	  
+	  <Plurality>2</Plurality>	  
     </Row>
     <!-- Natural Wonders-->
     <Row Tag="TXT_KEY_FEATURE_LAKE_VICTORIA">
@@ -206,7 +211,7 @@
     
     <!-- Great Works -->
     <Row Tag="TXT_KEY_GREAT_WORK_ODYSSEY">
-      <Text> Odisseia</Text>
+      <Text>Odisseia</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_FABLES">
       <Text>Fábulas</Text>
@@ -215,7 +220,7 @@
       <Text>Édipo, o Rei</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LYSISTRATA">
-      <Text>Lisistrata</Text>
+      <Text>Lisístrata</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_AENEID">
       <Text>Eneida</Text>
@@ -417,7 +422,7 @@
     </Row>
     <!-- GREAT ART -->
     <Row Tag="TXT_KEY_GREAT_GIRL_WITH_PEARL_EARRING">
-      <Text>Garota com um Brinco de Pérolas</Text>
+      <Text>Garota com um Brinco de Pérola</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_HENRY_VIII">
       <Text>Henrique VIII</Text>
@@ -510,7 +515,7 @@
       <Text>O Beijo</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_AMERICAN_GOTHIC">
-      <Text>Arte Americana</Text>
+      <Text>Gótica Americana</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SRI_SHANMUKAHA">
       <Text>Sri Shanmukaha Subramania Swami</Text>
@@ -537,7 +542,7 @@
       <Text>Rua Parisiense; Dia Chuvoso</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_NIGHT_WATCH">
-      <Text>A Ronda da Noite</Text>
+      <Text>A Ronda Noturna</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DEATH_OF_MARAT">
       <Text>A Morte de Marat</Text>
@@ -682,7 +687,7 @@
       <Text>Rokudan No Shirabe</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BRANDENBERG_CONCERTOS">
-      <Text>Concertos de Brandenburg (Concerto III em G Maior)</Text>
+      <Text>Concertos de Brandenburgo (Concerto III em Sol Maior)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_GLORIA_LAUS_ET_HONOR">
       <Text>Glória, Louvor e Honra</Text>
@@ -691,7 +696,7 @@
       <Text>Salve Regina</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_EINE_KLEINE_NACHTMUSIC">
-      <Text>Eine Kleine Nachtmusik</Text>
+      <Text>Pequena Serenata Noturna</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SAKURAGARI">
       <Text>Sakuragari</Text>
@@ -700,7 +705,7 @@
       <Text>Quinta Sinfonia</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_CAPRICE_NO_24">
-      <Text>Caprice No. 24 em A Menor</Text>
+      <Text>Caprice Nº 24 em A Menor</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_TE_DEUM">
       <Text>Te Deum</Text>
@@ -709,7 +714,7 @@
       <Text>Raindrop Prelude</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DIE_WALKURE">
-      <Text>Die Walküre</Text>
+      <Text>As Valquírias</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LA_FORZA_DEL_DESTINO">
       <Text>Pace, pace mio Dio</Text>
@@ -730,7 +735,7 @@
       <Text>Abertura de 1812</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_FROM_THE_NEW_WORLD">
-      <Text>Do Novo Mundo (Sinfonia No. 9 em E Menor)</Text>
+      <Text>Do Novo Mundo (Sinfonia Nº 9 em Mi Menor)</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_DAHA">
       <Text>Daha (A Batida das Ondas)</Text>
@@ -757,7 +762,7 @@
       <Text>Sensemaya</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_SINFONIA_INDIA">
-      <Text>Sinfonia India</Text>
+      <Text>Sinfonia Índia</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LADRANG_SRI_DUHITO">
       <Text>Ladrang Sri-Duhito</Text>
@@ -785,16 +790,16 @@
     </Row>
 	<!-- Additional great musician works -->
 	<Row Tag="TXT_KEY_GREAT_WORK_ALSO_SPRACH_ZARATHUSTRA">
-      <Text>Também Sprach Zarathustra</Text>
+      <Text>Assim Falou Zarathustra</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SATURN">
-      <Text>Saturn</Text>
+      <Text>Saturno</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_CARAVAN">
-      <Text>Caravan</Text>
+      <Text>Caravana</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_1">
-      <Text>Sinfonia No. 1</Text>
+      <Text>Sinfonia Nº 1</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_MBUBE">
       <Text>Mbube</Text>
@@ -827,19 +832,19 @@
       <Text>Water Music</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONE_NO_93">
-      <Text>Sinfonia No. 93</Text>
+      <Text>Sinfonia Nº 93</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_HUNGARIAN_RHAPSODY">
-      <Text>Rapsódia Húngara No. 2</Text>
+      <Text>Rapsódia Húngara Nº 2</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_DAS_VERLASSENE">
       <Text>Das Verlassene Mägdlein</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_5">
-      <Text>Sinfonia No. 5</Text>
+      <Text>Sinfonia Nº 5</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_3">
-      <Text>Sinfonia No. 3 "com órgão"</Text>
+      <Text>Sinfonia Nº 3 "com órgão"</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_PARADE">
       <Text>Parade</Text>
@@ -848,7 +853,7 @@
       <Text>Lulu</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_STRING_QUARTET">
-      <Text>String Quartet in F</Text>
+      <Text>Quarteto de Cordas em Fá</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_YOUNG_PERSONS_GUIDE">
       <Text>Young Person's Guide to the Orchestra</Text>
@@ -879,7 +884,7 @@
       <Text>Pedra de Rök</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_HAMMURABI">
-      <Text>Código de Hammurabi</Text>
+      <Text>Código de Hamurabi</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BAKHSHALI">
       <Text>Manuscrito Bakshali</Text>
@@ -910,7 +915,7 @@
       <Text>Sessão Cerimonial do Conselho de Estado em 7 de maio de 1901</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_RUSSIAN_TSAR">
-      <Text>Tsar Russo em XVI</Text>
+      <Text>Czar Russo em XVI</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_CRUCIFIXION_OF_SAINT_PETER">
       <Text>A Crucificação de São Pedro</Text>
@@ -922,7 +927,7 @@
       <Text>Homens de guerra holandeses e outras embarcações em uma calmaria</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_HARBOR_IN_BALAKLAVA">
-      <Text>Embarcação de pessoas doentes no porto em Balaklava</Text>
+      <Text>Embarcação de pessoas doentes no porto em Balaclava</Text>
     </Row>
 	<Row Tag="TXT_KEY_GREAT_WORK_PEACEMAKERS">
       <Text>Os Pacificadores</Text>
@@ -957,17 +962,17 @@
 	<Row Tag="TXT_KEY_GREAT_WORK_THE_ACCOLADE">
       <Text>A Acolada</Text>
     </Row>
-<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON">
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON">
 		<Text>Bisão</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT">
-		<Text>O Bisão Norte-Americano, que já cobriu grandes planícies em rebanhos maciços, foi a fonte primária para a carne, tendões, pele e osso necessário para a sobrevivência de muitas tribos nativas. Caçado à beira da extinção pelos Norte-Americanos no final ano de 1800, nas últimas décadas, o búfalo fez um retorno devido a programas de vida selvagem Federais e Estaduais.</Text>
+		<Text>O Bisão Norte-Americano, que já cobriu grandes planícies em rebanhos maciços, foi a fonte primária para a carne, tendões, pele e osso necessário para a sobrevivência de muitas tribos nativas. Caçado à beira da extinção pelos Norte-Americanos no final ano de 1800, nas últimas décadas o búfalo fez um retorno devido a programas de vida selvagem Federais e Estaduais.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_COCOA">
 		<Text>Cacau</Text>
 	</Row>
 	<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_COCOA_TEXT">
-		<Text>O Cacau, um produto da árvore nativa Cacaueiro da América do Sul, era uma mercadoria importante na Mesoamérica pré-colombiana, e destacou-se em culturas tribais. Introduzido pelos espanhóis para a Europa, em meados dos anos 1700 era imensamente popular no preparo de bebidas, como ingrediente, e até mesmo como medicamento.</Text>
+		<Text>O Cacau, um produto da árvore nativa Cacaueiro da América do Sul, era uma mercadoria importante na Mesoamérica pré-colombiana e destacou-se em culturas tribais. Introduzido pelos espanhóis para a Europa em meados dos anos 1700 era imensamente popular no preparo de bebidas, como ingrediente e até mesmo como medicamento.</Text>
 	</Row>	
   </Language_pt_BR>
 </GameData>

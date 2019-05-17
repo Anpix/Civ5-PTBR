@@ -493,7 +493,7 @@
             <Text>Fundado por:</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_NO_SLOTS">
-            <Text>[COLOR_RED]Nenhum espaço disponível para Grandes Trabalhos de Arte![ENDCOLOR]</Text>
+            <Text>[COLOR_RED]Nenhum espaço disponível para Grandes Obras de Arte![ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_OPTIONS">
             <Text>Escolha entre as opções abaixo:</Text>
@@ -505,10 +505,10 @@
 		  <Text>Criar Escrita {1_String}</Text>
 		</Row>		
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_RESULT">
-            <Text>O Artefato será colocado no espaço de Grande Trabalho de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueologista será consumido.</Text>
+            <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueologista será consumido.</Text>
         </Row>
 	    <Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
-			<Text>A escrita antiga será colocada no espaço de Grande Trabalho Literário mais próximo. Escrita fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueólogo será consumido.</Text>
+			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueólogo será consumido.</Text>
 		</Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
             <Text>Criar Melhoria Ponto de Referência</Text>
@@ -547,7 +547,7 @@
             <Text>Influência por jogador</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_TAB_SWAP_GREAT_WORKS">
-            <Text>Permutar Grandes Trabalhos</Text>
+            <Text>Permutar Grandes Obras</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_PLAYER_PULLDOWN">
             <Text>Selecionar Jogador</Text>
@@ -592,16 +592,16 @@
             <Text>[ICON_GREAT_WORK]</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_HEADER_TT">
-            <Text>[ICON_GREAT_WORK]Grandes Trabalhos na cidade</Text>
+            <Text>[ICON_GREAT_WORK]Grandes Obras na cidade</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_TT">
-            <Text>Literário: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Musical: {3_String}</Text>
+            <Text>Literária: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Musical: {3_String}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT_ENTRY">
             <Text>{1_Num}/{2_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT">
-            <Text>Literário: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Musical: {3_String}</Text>
+            <Text>Literária: {1_String}[NEWLINE]Arte: {2_String}[NEWLINE]Musical: {3_String}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENTIAL_HEADER_TT">
             <Text>Número de Civilizações cuja cultura Influente foi atingida além do total necessário para uma Vitória Cultural</Text>
@@ -667,7 +667,7 @@
             <Text>TENDÊNCIA</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_GREAT_WORKS">
-            <Text>{1_Num} de [ICON_TOURISM]Turismo de {2_Num} [ICON_GREAT_WORK] {2: plural 1?Grande Trabalho; other?Grandes Trabalhos;}</Text>
+            <Text>{1_Num} de [ICON_TOURISM]Turismo de {2_Num} [ICON_GREAT_WORK] {2: plural 1?Grande Obra; other?Grandes Obras;}</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CITY_TOURISM_THEMING_BONUSES">
             <Text>{1_Num} de [ICON_TOURISM]Turismo de Bônus de Museu e de Maravilha Temática</Text>
@@ -847,13 +847,13 @@
             <Text>Clique para Mover</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CLICK_TO_MOVE_TT">
-            <Text>Clique com botão esquerdo nos Grandes Trabalhos para movê-los de um local para outro.</Text>
+            <Text>Clique com botão esquerdo nos Grandes Obras para movê-los de um local para outro.</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CLICK_TO_VIEW">
             <Text>Clique para Exibir</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_CLICK_TO_VIEW_TT">
-            <Text>Clique com botão esquerdo nos Grandes Trabalhos para exibi-los.</Text>
+            <Text>Clique com botão esquerdo nos Grandes Obras para exibi-los.</Text>
         </Row>
         <Row Tag="TXT_KEY_ANTIQUITY_SITES_TO_EXCAVATE">
             <Text>Sítios Arqueológicos ainda não escavados: {1_Num}</Text>
@@ -916,25 +916,25 @@
             <Text>Ganha {1_DelegatesPerDiplomat} {1_DelegatesPerDiplomat: plural 1?Delegado adicional; other?Delegados adicionais;} no Congresso Mundial para cada Espião como [ICON_DIPLOMAT]Diplomata na [ICON_CAPITAL]Capital de outra civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_SLOTS_TOOLTIP">
-            <Text>Espaços para [ICON_GREAT_WORK]Grande Trabalho de Arte ou Artefato: {1_NumSlots}</Text>
+            <Text>Espaços para [ICON_GREAT_WORK]Grande Obra de Arte ou Artefato: {1_NumSlots}</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_WORK_SLOT_LITERATURE_SLOTS_TOOLTIP">
-            <Text>Espaços para [ICON_GREAT_WORK]Grande Trabalho Literário: {1_NumSlots}</Text>
+            <Text>Espaços para [ICON_GREAT_WORK]Grande Obra Literária: {1_NumSlots}</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_WORK_SLOT_MUSIC_SLOTS_TOOLTIP">
-            <Text>Espaços para [ICON_GREAT_WORK]Grande Trabalho Musical: {1_NumSlots}</Text>
+            <Text>Espaços para [ICON_GREAT_WORK]Grande Obra Musical: {1_NumSlots}</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_1">
-            <Text>{1_Num} {1: plural 1?Espaço; other?Espaços;} de [ICON_GREAT_WORK]Grande Trabalho {1: plural 1?Preenchido; other?Preenchidos;}</Text>
+            <Text>{1_Num} {1: plural 1?Espaço; other?Espaços;} de [ICON_GREAT_WORK]Grande Obra {1: plural 1?Preenchido; other?Preenchidos;}</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_2">
-            <Text>{1_Num} {1: plural 1?Espaço; other?Espaços;} de [ICON_GREAT_WORK]Grande Trabalho {1: plural 1?Disponível; other?Disponíveis;}</Text>
+            <Text>{1_Num} {1: plural 1?Espaço; other?Espaços;} de [ICON_GREAT_WORK]Grande Obra {1: plural 1?Disponível; other?Disponíveis;}</Text>
         </Row>
         <Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_3">
             <Text>Necessário ser Influente em {1_XofYString} Civilizações para uma Vitória Cultural</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_SLOT_EMPTY">
-            <Text>Vazio (Literário)</Text>
+            <Text>Vazio (Literária)</Text>
         </Row>
         <Row Tag="TXT_KEY_ART_SLOT_EMPTY">
             <Text>Vazio (Arte)</Text>
@@ -946,58 +946,58 @@
             <Text>Vazio (Musical)</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por um Grande Trabalho Literário. Grandes Trabalhos Literários só podem ser permutados por outro Grande Trabalho Literário. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Grande Trabalho Literário para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Literária. Grandes Obras Literárias só podem ser permutadas por outra Grande Obra Literária. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Literária para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_ART_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por um Grande Trabalho de Arte. Grandes Trabalhos of Arte só podem ser permutados por outro Grande Trabalho de Arte. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Grande Trabalho de Arte para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra de Arte. Grandes Obras de Arte só podem ser permutadas por outra Grande Obra de Arte. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra de Arte para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_ARTIFACT_SLOT_TT">
             <Text>Clique para alterar o que você quer permutar por um Artefato. Artefatos só podem ser permutados por outro Artefato. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Artefato para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas os itens que você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_MUSIC_SLOT_TT">
-            <Text>Clique para alterar o que você quer permutar por um Grande Trabalho Musical. Grandes Trabalhos Musicais só podem ser permutados por outro Grande Trabalho Musical. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar um Grande Trabalho Musical para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas Grandes Trabalhos ou Artefatos que você você realmente quer negociar!</Text>
+            <Text>Clique para alterar o que você quer permutar por uma Grande Obra Musical. Grandes Obras Musicais só podem ser permutadas por outra Grande Obra Musical. Assim que um item é permutado com outra civilização por outro item, o item que você receber irá para o espaço no edifício ou na maravilha que o seu item original ocupava. Seu novo item não poderá ser negociado novamente neste turno.[NEWLINE][NEWLINE]Se você selecionar uma Grande Obra Musical para um espaço, mas não realizar uma permuta no seu turno, outras civilizações podem permutar por eles nos seus turnos sem a sua permissão! Certifique-se de exibir apenas Grandes Obras ou Artefatos que você você realmente quer negociar!</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_OTHERS_SLOT_EMPTY">
-            <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} um Grande Trabalho Literário que possa ser permutado.</Text>
+            <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} uma Grande Obra Literária que possa ser permutada.</Text>
         </Row>
         <Row Tag="TXT_KEY_ART_OTHERS_SLOT_EMPTY">
-            <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} um Grande Trabalho de Arte que possa ser permutado.</Text>
+            <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} uma Grande Obra de Arte que possa ser permutada.</Text>
         </Row>
         <Row Tag="TXT_KEY_ARTIFACT_OTHERS_SLOT_EMPTY">
             <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} um Artefato que possa ser permutado.</Text>
         </Row>
         <Row Tag="TXT_KEY_MUSIC_OTHERS_SLOT_EMPTY">
-            <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} um Grande Trabalho Musical que possa ser permutado.</Text>
+            <Text>{1_CivShortDesc} não {1_CivShortDesc: plural 1?exibiu; other?exibiram;} uma Grande Obra Musical que possa ser permutada.</Text>
         </Row>
         <Row Tag="TXT_KEY_WRITING_OTHERS_SLOT">
-            <Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?está {1: gender feminine?disposta; other?disposto;}; other?estão {1: gender feminine?dispostas; other?dispostos};} a permutar este Grande Trabalho Literário por outro Grande Trabalho Literário.</Text>
+            <Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?está {1: gender feminine?disposta; other?disposto;}; other?estão {1: gender feminine?dispostas; other?dispostos};} a permutar esta Grande Obra Literária por outra Grande Obra Literária.</Text>
         </Row>
         <Row Tag="TXT_KEY_ART_OTHERS_SLOT">
-            <Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?está {1: gender feminine?disposta; other?disposto;}; other?estão {1: gender feminine?dispostas; other?dispostos};} a permutar este Grande Trabalho de Arte por outro Grande Trabalho de Arte.</Text>
+            <Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?está {1: gender feminine?disposta; other?disposto;}; other?estão {1: gender feminine?dispostas; other?dispostos};} a permutar esta Grande Obra de Arte por outra Grande Obra de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_ARTIFACT_OTHERS_SLOT">
             <Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?está {1: gender feminine?disposta; other?disposto;}; other?estão {1: gender feminine?dispostas; other?dispostos};} a permutar este Artefato por outro Artefato.</Text>
         </Row>
         <Row Tag="TXT_KEY_MUSIC_OTHERS_SLOT">
-            <Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?está {1: gender feminine?disposta; other?disposto;}; other?estão {1: gender feminine?dispostas; other?dispostos};} a permutar este Grande Trabalho Musical por outro Grande Trabalho Musical.</Text>
+            <Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?está {1: gender feminine?disposta; other?disposto;}; other?estão {1: gender feminine?dispostas; other?dispostos};} a permutar esta Grande Obra Musical por outra Grande Obra Musical.</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_BUTTON">
             <Text>Permutar</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_BUTTON_TT">
-            <Text>Isso irá trocar seu Grande Trabalho ou Artefato por outro Grande Trabalho ou Artefato da civilização. Seu item irá para uma das cidades deles e o item deles irá para o espaço em que estava o seu item permutado. Um item só pode ser permutado uma vez por turno.</Text>
+            <Text>Isso irá trocar sua Grande Obra ou Artefato por outra Grande Obra ou Artefato da civilização. Seu item irá para uma das cidades deles e o item deles irá para o espaço em que estava o seu item permutado. Um item só pode ser permutado uma vez por turno.</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_BUTTON_DISABLED_TT">
-            <Text>Para permutar um Grande Trabalho ou Artefato, você precisa selecionar um dos seus itens e depois outro item de mesmo tipo de uma civilização. (Um Grande Trabalho Literário só pode ser permutado por outro Grande Trabalho Literário.)</Text>
+            <Text>Para permutar uma Grande Obra ou Artefato, você precisa selecionar um dos seus itens e depois outro item de mesmo tipo de uma civilização. (Uma Grande Obra Literária só pode ser permutada por outra Grande Obra Literária.)</Text>
         </Row>
         <Row Tag="TXT_KEY_CLEAR_BUTTON">
             <Text>Limpar</Text>
         </Row>
         <Row Tag="TXT_KEY_CLEAR_BUTTON_TT">
-            <Text>Isso reiniciará a proposta de troca de um Grande Trabalho.</Text>
+            <Text>Isso reiniciará a proposta de troca de uma Grande Obra.</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_WRITING_HEADER">
-            <Text>Literário</Text>
+            <Text>Literária</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_ART_HEADER">
             <Text>Arte</Text>
@@ -1027,7 +1027,7 @@
             <Text>Deles</Text>
         </Row>
         <Row Tag="TXT_KEY_SWAP_NAME">
-            <Text>Você pode permutar Grandes Trabalhos ou Artefatos com qualquer Civilização que você não esteja em guerra.</Text>
+            <Text>Você pode permutar Grandes Obras ou Artefatos com qualquer Civilização que você não esteja em guerra.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLOMAT_PICKER_DIPLOMAT">
             <Text>Diplomata</Text>
@@ -1120,7 +1120,7 @@
             <Text>Políticas</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_GREAT_WORKS">
-            <Text>Grandes Trabalhos</Text>
+            <Text>Grandes Obras</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_RELIGION">
             <Text>Religião</Text>
@@ -1129,7 +1129,7 @@
             <Text>{1_Num} de Políticas</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_MY_SCORE_GREAT_WORKS">
-            <Text>{1_Num} de Grandes Trabalhos</Text>
+            <Text>{1_Num} de Grandes Obras</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_MY_SCORE_RELIGION">
             <Text>{1_Num} de Religião</Text>

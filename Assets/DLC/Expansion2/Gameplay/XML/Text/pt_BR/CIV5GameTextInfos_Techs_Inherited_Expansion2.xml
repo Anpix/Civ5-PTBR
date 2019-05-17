@@ -15,12 +15,12 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS">
-			<Text>Corporações</Text>
+			<Text>Guildas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_TITLE">
-			<Text>Corporações</Text>
+			<Text>Guildas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>
