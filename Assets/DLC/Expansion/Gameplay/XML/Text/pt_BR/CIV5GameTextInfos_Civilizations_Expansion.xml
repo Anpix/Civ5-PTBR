@@ -61,10 +61,10 @@
             <Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
         </Row>
-		<Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
-            <Text>Etíope|Etíope|Etíopes|Etíopes</Text>
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>
+        <Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
+            <Text>Etíope|Etíopes</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ETHIOPIA_DESC">
             <Text>Império Etíope</Text>
@@ -92,9 +92,9 @@
 			<Plurality>1</Plurality>			
         </Row>
 		<Row Tag="TXT_KEY_CIV_MAYA_ADJECTIVE">
-            <Text>Maia|Maia|Maias|Maias</Text>
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+            <Text>Maia|Maias</Text>
+			<Gender>neuter|neuter</Gender>
+			<Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_MAYA_DESC">
             <Text>Império Maia</Text>
