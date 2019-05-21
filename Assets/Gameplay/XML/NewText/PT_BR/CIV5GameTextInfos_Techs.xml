@@ -30,7 +30,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY">
-			<Text>Cavalheirismo</Text>
+			<Text>Código de Cavalaria</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -255,7 +255,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_TITLE">
-			<Text>Cavalheirismo</Text>
+			<Text>Código de Cavalaria</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
