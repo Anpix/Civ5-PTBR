@@ -25,8 +25,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJ">
-			<Text>Antuerpiano|Antuerpiana</Text>
-			<Gender>masculine|feminine</Gender>			
+			<Text>Antuerpiano|Antuerpiana|Antuerpianos|Antuerpianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA">
 			<Text>Cahokia</Text>
@@ -34,8 +35,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_ADJ">
-			<Text>Cahokiano|Cahokiana</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Cahokiano|Cahokiana|Cahokianos|Cahokianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO">
 			<Text>Colombo</Text>
@@ -43,8 +45,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJ">
-			<Text>Colombense|Colombense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Colombense|Colombenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG">
 			<Text>Hong Kong</Text>
@@ -52,8 +55,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
-			<Text>Honcongonês|Honcongonesa</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Honcongonês|Honcongonesa|Honcongoneses|Honcongonesas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JAKARTA">
 			<Text>Jacarta</Text>
@@ -61,8 +65,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JAKARTA_ADJ">
-			<Text>Jacartês|Jacartesa</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Jacartês|Jacartesa|Jacarteses|Jacartesas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
 			<Text>Jerusalém</Text>
@@ -70,8 +75,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJ">
-			<Text>Hierosolomita|Hierosolomita</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Hierosolomita|Hierosolomitas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA">
 			<Text>La Venta</Text>
@@ -79,8 +85,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJ">
-			<Text>Laventano|Laventana</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Laventano|Laventana|Laventanos|Laventanas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LISBON">
 			<Text>Lisboa</Text>
@@ -88,8 +95,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LISBON_ADJ">
-			<Text>Lisboano|Lisboana</Text>
-			<Gender>masculine|feminine</Gender>			
+			<Text>Lisboense|Lisboenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA">
 			<Text>Manila</Text>
@@ -97,8 +105,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJ">
-			<Text>Manilense|Manilense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Manilense|Manilenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MARRAKECH">
 			<Text>Marrakech</Text>
@@ -106,8 +115,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MARRAKECH_ADJ">
-			<Text>Marrakechi|Marrakechi</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Marrakechi|Marrakechis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MILAN">
 			<Text>Milão</Text>
@@ -115,8 +125,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MILAN_ADJ">
-			<Text>Milanês|Milanesa</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Milanês|Milanesa|Milaneses|Milanesas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA">
 			<Text>Mombaça</Text>
@@ -124,8 +135,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJ">
-			<Text>Mombacense|Mombacense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Mombacense|Mombacenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE">
 			<Text>Praga</Text>
@@ -133,8 +145,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJ">
-			<Text>Praguense|Praguense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Praguense|Praguenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA">
 			<Text>Valeta</Text>
@@ -142,8 +155,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJ">
-			<Text>Valetense|Valetense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Valetense|Valetenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY">
 			<Text>Vaticano</Text>
@@ -151,8 +165,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJ">
-			<Text>Vaticano|Vaticana</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Vaticano|Vaticana|Vaticanos|Vaticanas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
 			<Text>Wittenberg</Text>
@@ -160,8 +175,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
-			<Text>Wittenberguiado|Wittenberguiana</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Wittenberguiano|Wittenberguiana|Wittenberguianos|Wittenberguianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN">
 			<Text>Erevan</Text>
@@ -169,8 +185,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJ">
-			<Text>Erevaniano|Erevaniana</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Erevaniano|Erevaniana|Erevanianos|Erevanianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR">
 			<Text>Zanzibar</Text>
@@ -178,8 +195,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ">
-			<Text>Zanzibarita|Zanzibarita</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Zanzibarita|Zanzibaritas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH">
 			<Text>Zurique</Text>
@@ -187,8 +205,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
-			<Text>Zuriquenho|Zuriquenha</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Zuriquenho|Zuriquenha|Zuriquenhos|Zuriquenhas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<!-- Old city-state names used in DLC civs -->
 		<!--
@@ -206,8 +225,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJ">
-			<Text>Sydneyense|Sydneyense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Sydneyense|Sydneyenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY">
 			<Text>Quebeque</Text>
@@ -215,8 +235,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_ADJ">
-			<Text>Quebequense|Quebequense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Quebequense|Quebequenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU">
 			<Text>Catmandu</Text>
@@ -224,8 +245,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJ">
-			<Text>Catmanduense|Catmanduense</Text>
-			<Gender>masculine|feminine</Gender>
+			<Text>Catmanduense|Catmanduenses</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>
