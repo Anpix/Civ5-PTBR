@@ -141,7 +141,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC">
-			<Text>Epopeia Heroica|Epopeias Heroicas</Text>
+			<Text>Epopéia Heróica|Epopéias Heróicas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -216,12 +216,12 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC">
-			<Text>Epopeia Nacional|Epopeias Nacionais</Text>
+			<Text>Epopeia Nacional|Epopéias Nacionais</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_UTOPIA_PROJECT">
-			<Text>Projeto Utopia|Projetos Utopias</Text>
+			<Text>Projeto Utopia|Projetos Utopia</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -296,7 +296,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STATUE_OF_LIBERTY">
-			<Text>Estátua da Liberdade|Estátuas das Liberdade</Text>
+			<Text>Estátua da Liberdade|Estátuas da Liberdade</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
