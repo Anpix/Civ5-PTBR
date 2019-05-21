@@ -45,13 +45,13 @@
 			<Text>[COLOR_NEGATIVE_TEXT]O Império está em Anarquia por mais {1_Turns} {1: plural 1?turno; other?turnos;}, em razão da mudança de Ideologia. Durante este estado, o Império não irá gerar nenhuma [ICON_RESEARCH]Ciência, [ICON_GOLD]Ouro, [ICON_CULTURE]Cultura ou [ICON_PEACE]Fé. Além disso, as cidades não possuirão [ICON_PRODUCTION]Produção para construírem algo[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_EMPTY_TOOLTIP">
-			<Text>Espaço Vazio para Grande Trabalho de Arte ou Artefato</Text>
+			<Text>Espaço Vazio para Grande Obra de Arte ou Artefato</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_LITERATURE_EMPTY_TOOLTIP">
-			<Text>Espaço Vazio para Grande Trabalho Literário</Text>
+			<Text>Espaço Vazio para Grande Obra Literária</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_MUSIC_EMPTY_TOOLTIP">
-			<Text>Espaço Vazio para Grande Trabalho Musical</Text>
+			<Text>Espaço Vazio para Grande Obra Musical</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_CITY_SAPPED">
 			<Text>Apoiada por {TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER}</Text>

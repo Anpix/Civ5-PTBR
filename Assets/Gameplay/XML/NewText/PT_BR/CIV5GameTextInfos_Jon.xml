@@ -2564,7 +2564,7 @@
 			<Text>Você poderá construir uma Edificação Especial com esta Grande Pessoa. Isso irá consumi-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP">
-			<Text>Ordenará ao Grande Artista que crie um Grande Trabalho em sua cidade atual. Isto consumirá a Grande Pessoa.</Text>
+			<Text>Ordenará ao Grande Artista que crie uma Grande Obra em sua cidade atual. Isto consumirá a Grande Pessoa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_DISCOVER_TECH_HELP">
 			<Text>Isto fará com que a Grande Pessoa ajude a pesquisar uma tecnologia. Isso irá consumi-la.</Text>

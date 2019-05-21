@@ -116,15 +116,15 @@
         </Row>
         <!-- CULTURE GUILD BUILDINGS -->
         <Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD">
-            <Text>Clã dos Escritores</Text>
+            <Text>Guilda de Escritores</Text>
             <Gender>masculine</Gender>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD">
-            <Text>Clã dos Artistas</Text>
+            <Text>Guilda de Artistas</Text>
             <Gender>masculine</Gender>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD">
-            <Text>Clã dos Músicos</Text>
+            <Text>Guilda de Músicos</Text>
             <Gender>masculine</Gender>
         </Row>
         <!-- UNIQUE BUILDINGS -->

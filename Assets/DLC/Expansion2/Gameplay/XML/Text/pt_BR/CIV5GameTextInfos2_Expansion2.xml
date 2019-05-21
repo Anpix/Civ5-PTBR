@@ -189,7 +189,7 @@
 			<Text>O substituto Bárbaro para a {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHAEOLOGIST">
-			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de {TXT_KEY_UNIT_WORKER} que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Trabalhos de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD]Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
+			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de {TXT_KEY_UNIT_WORKER} que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD]Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ZULU_IMPI">
 			<Text>Especializados em derrotar {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades de montaria. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
@@ -252,7 +252,7 @@
 			<Text>Saquear Rota Comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK">
-			<Text>Criar Grande Trabalho</Text>
+			<Text>Criar Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS">
 			<Text>Vender Bens Exóticos</Text>
@@ -273,7 +273,7 @@
 			<Text>A unidade deve estar em território de uma Cidade-Estado contra a qual você não esteja em guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS">
-			<Text>Usar [ICON_PEACE]Fé para comprar {TXT_KEY_BUILDING_CATHEDRAL[2]} (+1 de [ICON_PEACE]Fé, +1 de [ICON_CULTURE]Cultura, +1 de [ICON_HAPPINESS_1]Felicidade, 1 espaço para Grande Trabalho de Arte)</Text>
+			<Text>Usar [ICON_PEACE]Fé para comprar {TXT_KEY_BUILDING_CATHEDRAL[2]} (+1 de [ICON_PEACE]Fé, +1 de [ICON_CULTURE]Cultura, +1 de [ICON_HAPPINESS_1]Felicidade, 1 espaço para Grande Obra de Arte)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS">
 			<Text>A Religião é disseminada 25% mais rápido (50% com a tecnologia {TXT_KEY_TECH_PRINTING_PRESS_TITLE})</Text>
@@ -578,7 +578,7 @@
 		</Row>
 		<!-- BUILDINGS HELP -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
-			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Mansões) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Trabalhos aumenta em 50%.</Text>
+			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Mansões) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
 			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa para a geração de um Grande Artista. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa por especialista).</Text>
@@ -602,7 +602,7 @@
 			<Text>Cria uma [ICON_CONNECTED]Conexão com a [ICON_CAPITAL]Capital pela a água (se já não estiverem [ICON_CONNECTED]conectadas via terrestre). Rotas comerciais marítimas originárias desta cidade possuem um aumento de 50% no alcance e produzem 2 de [ICON_GOLD]Ouro adicionais quando conectadas com outra civilização.[NEWLINE][NEWLINE]A cidade de estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_HELP">
-			<Text>50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moais, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo dos Grandes Trabalhos aumenta em 50%.</Text>
+			<Text>50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moais, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo dos Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
 			<Text>Substituta Zulu único para o {TXT_KEY_BUILDING_BARRACKS}. Concede promoções únicas para unidades de ataque corpo-a-corpo pré-pólvora.</Text>
@@ -617,10 +617,10 @@
 			<Text>É preciso ter construído um {TXT_KEY_BUILDING_MARKET } em todas as cidades. O custo é proporcional à quantidade de cidades no império. Rotas comerciais que outros jogadores conectarem com uma cidade com uma {TXT_KEY_BUILDING_EAST_INDIA} gerarão 4 de [ICON_GOLD]Ouro extras para o dono da cidade e o dono da rota comercial ganhará 2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
-			<Text>Substituta Assíria única para a {TXT_KEY_BUILDING_LIBRARY}. +1 DE [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos nesta cidade. Além disso, possui um espaço para um Grande Trabalho Literário que, quando preenchido, fornece XP extra para unidades treinadas.</Text>
+			<Text>Substituta Assíria única para a {TXT_KEY_BUILDING_LIBRARY}. +1 DE [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece XP extra para unidades treinadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_HELP">
-			<Text>É preciso ter construído {TXT_KEY_BUILDING_HOTEL} em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE]Cultura vinda de Maravilhas Mundiais, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Trabalhos aumenta em 100%.</Text>
+			<Text>É preciso ter construído {TXT_KEY_BUILDING_HOTEL} em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE]Cultura vinda de Maravilhas Mundiais, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 100%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
 			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com Selva explorados por esta cidade. Permite que {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} sejam gerados nesta cidade.[NEWLINE][NEWLINE]A cidade precisa possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
@@ -661,7 +661,7 @@
 			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_ORDER}. +50% de [ICON_PRODUCTION]Produção quando estiver construindo unidades blindadas. 1 Política Social gratuita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PARTHENON_HELP">
-			<Text>Contém um Grande Trabalho de Arte pré-construído em um Espaço de Grande Trabalho.</Text>
+			<Text>Contém uma Grande Obra de Arte pré-construída em um Espaço de Grande Obra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
 			<Text>+1 de [ICON_FOOD]Alimento e +1 de [ICON_PRODUCTION]Produção de todos os hexágonos desérticos explorados por esta cidade (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). Fornece um espaço adicional para rota comercial e uma {TXT_KEY_UNIT_CARAVAN} aparece na cidade. +6 de [ICON_CULTURE]Cultura assim que a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY_TITLE} for descoberta. A cidade deve estar construída ou no deserto ou próximo dele. </Text>
@@ -694,34 +694,34 @@
 		</Row>
 		<!-- THEMING BONUS STRINGS-->
 		<Row Tag="TXT_KEY_SISTINE_CHAPEL_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Arte da mesma Era e mesma Civilização.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Arte da mesma Era e mesma Civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LOUVRE_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão preenchidos com 2 Grandes Trabalhos de Arte e 2 Artefatos, sendo os 4 de diferentes Eras e diferentes Civilizações.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão preenchidos com 2 Grandes Obras de Arte e 2 Artefatos, sendo os 4 de diferentes Eras e diferentes Civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UFFIZI_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Arte da mesma Era e mesma Civilização.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Arte da mesma Era e mesma Civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HERMITAGE_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Arte de diferentes Eras e diferentes Civilizações.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Arte de diferentes Eras e diferentes Civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Literaturas de diferentes Eras e de Civilizações diferentes da do dono da cidade.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Literaturas de diferentes Eras e de Civilizações diferentes da do dono da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MUSEUM_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que ambos os Grandes Trabalhos são do mesmo tipo (ambos Artes ou ambos Artefatos), da mesma Era e, ou ambos da civilização da cidade, ou ambos de civilizações diferentes da do dono da cidade.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que ambos as Grandes Obras são do mesmo tipo (ambos Artes ou ambos Artefatos), da mesma Era e, ou ambos da civilização da cidade, ou ambos de civilizações diferentes da do dono da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLOBE_THEATER_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Literaturas da mesma Era e mesma Civilização.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Literaturas da mesma Era e mesma Civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BROADWAY_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Músicas da mesma Era e mesma Civilização.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Músicas da mesma Era e mesma Civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Literaturas de diferentes Eras e diferentes Civilizações.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Literaturas de diferentes Eras e diferentes Civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE_THEMING_BONUS_HELP">
-			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Trabalhos estão todos preenchidos com Músicas de diferentes Eras, mas da mesma Civilização.</Text>
+			<Text>Para maximizar seu bônus, certifique-se de que os espaços de Grandes Obras estão todos preenchidos com Músicas de diferentes Eras, mas da mesma Civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_1">
 			<Text>Museu de Arte {2_CivAdjective[2]} {1_EraAdjective}</Text>
