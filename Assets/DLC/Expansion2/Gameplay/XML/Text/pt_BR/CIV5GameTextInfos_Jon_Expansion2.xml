@@ -170,7 +170,7 @@
             <Text>Expressão Criativa</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Expressão Criativa[ENDCOLOR][NEWLINE]+1 de [ICON_CULTURE]Cultura de cada Grande Trabalho (mas o [ICON_TOURISM]Turismo não é alterado).</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Expressão Criativa[ENDCOLOR][NEWLINE]+1 de [ICON_CULTURE]Cultura de cada Grande Obra (mas o [ICON_TOURISM]Turismo não é alterado).</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_VOLUNTEER_ARMY">
             <Text>Exército Voluntário</Text>
@@ -669,13 +669,13 @@
             <Text>Você deve ser capaz de declarar guerra contra o dono da rota comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP">
-            <Text>Esta ordem consumirá a Grande Pessoa e criará um novo Grande Trabalho na cidade mais próxima com um espaço do tipo apropriado.</Text>
+            <Text>Esta ordem consumirá a Grande Pessoa e criará uma nova Grande Obra na cidade mais próxima com um espaço do tipo apropriado.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_RESULT">
-            <Text>O Grande Trabalho será colocado {1: gender *:noart?em; feminine?{1: plural 2?nas; other?na;}; masculine?{1: plural 2?nos; other?no;}; other?em;} {1_BuildingName} na cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}.</Text>
+            <Text>A Grande Obra será colocado {1: gender *:noart?em; feminine?{1: plural 2?nas; other?na;}; masculine?{1: plural 2?nos; other?no;}; other?em;} {1_BuildingName} na cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_DISABLED_HELP">
-            <Text>A unidade precisa estar adjacente ou em uma de suas cidades e deve haver um espaço de Grande Trabalho do tipo apropriado disponível em algum lugar do império.</Text>
+            <Text>A unidade precisa estar adjacente ou em uma de suas cidades e deve haver um espaço de Grande Obra do tipo apropriado disponível em algum lugar do império.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS_HELP">
             <Text>Esta unidade venderá seu carregamento, obtendo [ICON_GOLD]Ouro e XP. Você obtém mais se vender mais longe de sua capital. Isso só pode ser feito uma vez com esta unidade.</Text>
@@ -696,16 +696,16 @@
             <Text>Esta ordem permitirá à unidade se reposicionar em um hexágono terrestre em ou adjacente a uma cidade amiga com um Aeroporto. O hexágono alvo não pode estar ocupado por uma unidade inimiga, nem estar adjacente a uma.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
-            <Text>O Anfiteatro aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e da aquisição de Políticas Sociais. A cidade deve possuir um Monumento (ou uma Estela) antes de o Anfiteatro poder ser construído. Contém 1 espaço para um Grande Trabalho Literário.</Text>
+            <Text>O Anfiteatro aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e da aquisição de Políticas Sociais. A cidade deve possuir um Monumento (ou uma Estela) antes de o Anfiteatro poder ser construído. Contém 1 espaço para uma Grande Obra Literária.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_HELP">
-            <Text>Fornce +2 de [ICON_TOURISM]Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>
+            <Text>Fornece +2 de [ICON_TOURISM]Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_HELP">
-            <Text>Converte o Sítio Arqueológico em uma Escavação Arqueológica, que pode render um Artefato de Grande Trabalho ou pode ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Converte o Sítio Arqueológico em uma Escavação Arqueológica, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria Ponto de Referência.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC">
-            <Text>Pode render um Artefato de Grande Trabalho ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria Ponto de Referência.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
             <Text>Constrói um Acampamento de Pau-Brasil, que aumenta a quantidade de [ICON_GOLD]Ouro fornecido por este hexágono, mantendo a Selva intocada. Também fornece [ICON_CULTURE]Cultura assim que a Acústica for pesquisada.</Text>
@@ -735,10 +735,10 @@
             <Text>A unidade será consumida.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico pode então render um Artefato, que pode ser colocado em um espaço de Grande Trabalho de Arte ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico Escondido pode então render um Artefato, que pode ser colocado em um espaço de Grande Trabalho de Arte ou ser transformado em uma melhoria Ponto de Referência. Sítios Arqueológicos Escondidos são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
+            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico Escondido pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência. Sítios Arqueológicos Escondidos são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_NUTMEG_HELP">
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
@@ -750,49 +750,49 @@
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-            <Text>A Casa de Ópera é um edifício da Era Renascentista que aumenta a [ICON_CULTURE]Cultura de uma cidade. A cidade precisa possuir um Anfiteatro para poder construir a Casa de Ópera. Contém 1 espaço para um Grande Trabalho Musical.</Text>
+            <Text>A Casa de Ópera é um edifício da Era Renascentista que aumenta a [ICON_CULTURE]Cultura de uma cidade. A cidade precisa possuir um Anfiteatro para poder construir a Casa de Ópera. Contém 1 espaço para uma Grande Obra Musical.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
-            <Text>O Museu é um edifício do meio do jogo que aumenta a produção de [ICON_CULTURE]Cultura da cidade. A cidade precisa possuir uma Casa de Ópera (ou um Salão Ceilidh) para construir o Museu. Contém 2 espaços para Grandes Trabalhos de Arte.</Text>
+            <Text>O Museu é um edifício do meio do jogo que aumenta a produção de [ICON_CULTURE]Cultura da cidade. A cidade precisa possuir uma Casa de Ópera (ou um Salão Ceilidh) para construir o Museu. Contém 2 espaços para Grandes Obras de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_PALACE_HELP">
-            <Text>Indica que esta cidade é a [ICON_CAPITAL]Capital do império. Contém 1 espaço para um Grande Trabalho de Arte.[NEWLINE][NEWLINE][ICON_CONNECTED]Conectando outras cidades à [ICON_CAPITAL]Capital por Estradas, [ICON_GOLD]Ouro adicional será produzido.[NEWLINE][NEWLINE]+3 de [ICON_PRODUCTION]Produção, +3 de [ICON_RESEARCH]Ciência, +3 de [ICON_GOLD]Ouro</Text>
+            <Text>Indica que esta cidade é a [ICON_CAPITAL]Capital do império. Contém 1 espaço para uma Grande Obra de Arte.[NEWLINE][NEWLINE][ICON_CONNECTED]Conectando outras cidades à [ICON_CAPITAL]Capital por Estradas, [ICON_GOLD]Ouro adicional será produzido.[NEWLINE][NEWLINE]+3 de [ICON_PRODUCTION]Produção, +3 de [ICON_RESEARCH]Ciência, +3 de [ICON_GOLD]Ouro</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC_HELP">
-            <Text>Todas as novas unidades não aéreas nesta cidade recebem a Promoção [COLOR_POSITIVE_TEXT]Moral[ENDCOLOR], melhorando a [ICON_STRENGTH]Força de Combate em 15%. Contém 1 espaço para um Grande Trabalho Literário.[NEWLINE][NEWLINE]É preciso ter construído Quartéis em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
+            <Text>Todas as novas unidades não aéreas nesta cidade recebem a Promoção [COLOR_POSITIVE_TEXT]Moral[ENDCOLOR], melhorando a [ICON_STRENGTH]Força de Combate em 15%. Contém 1 espaço para uma Grande Obra Literária.[NEWLINE][NEWLINE]É preciso ter construído Quartéis em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_HELP">
-            <Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas nesta cidade. Contém 1 espaço para um Grande Trabalho Literário.[NEWLINE][NEWLINE]É preciso ter construído um Monumento em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
+            <Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas nesta cidade. Contém 1 espaço para uma Grande Obra Literária.[NEWLINE][NEWLINE]É preciso ter construído um Monumento em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_HERMITAGE_HELP">
-            <Text>+50% de [ICON_CULTURE]Cultura nesta cidade. Contém 3 espaços para Grandes Trabalhos de Arte.[NEWLINE][NEWLINE]É preciso ter construído uma Casa de Ópera em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
+            <Text>+50% de [ICON_CULTURE]Cultura nesta cidade. Contém 3 espaços para Grandes Obras de Arte.[NEWLINE][NEWLINE]É preciso ter construído uma Casa de Ópera em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY_HELP">
-            <Text>1 Tecnologia Gratuita. Contém 2 espaços para Grandes Trabalhos Literários.[NEWLINE][NEWLINE]É preciso ter construído uma Universidade em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
+            <Text>1 Tecnologia Gratuita. Contém 2 espaços para Grandes Obras Literárias.[NEWLINE][NEWLINE]É preciso ter construído uma Universidade em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_EIFFEL_TOWER_HELP">
             <Text>Além dos seus efeitos de [ICON_HAPPINESS_1]Felicidade e [ICON_CULTURE]Cultura, a Torre Eiffel também fornece +12 de [ICON_TOURISM]Turismo.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_GREAT_LIBRARY_HELP">
-            <Text>1 Tecnologia Gratuita. Fornece uma Biblioteca gratuita na cidade onde for construída. Contém 2 espaços para Grandes Trabalhos Literários.</Text>
+            <Text>1 Tecnologia Gratuita. Fornece uma Biblioteca gratuita na cidade onde for construída. Contém 2 espaços para Grandes Obras Literárias.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_LOUVRE_HELP">
-            <Text>Requer Exploração. 1 Grande Artista gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 4 espaços para Grandes Trabalhos de Arte.</Text>
+            <Text>Requer Exploração. 1 Grande Artista gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 4 espaços para Grandes Obras de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_UFFIZI_HELP">
-            <Text>Requer Estética. 1 Grande Artista gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Trabalhos de Arte.</Text>
+            <Text>Requer Estética. 1 Grande Artista gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Obras de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_GLOBE_THEATER_HELP">
-            <Text>1 Grande Escritor gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 2 espaços para Grandes Trabalhos Literários.</Text>
+            <Text>1 Grande Escritor gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 2 espaços para Grandes Obras Literárias.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_BROADWAY_HELP">
-            <Text>1 Grande Músico gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Trabalhos Musicais.</Text>
+            <Text>1 Grande Músico gratuito aparece próximo a cidade onde a Maravilha tiver sido construída. Contém 3 espaços para Grandes Obras Musicais.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_SISTINE_CHAPEL_HELP">
-            <Text>+25% de [ICON_CULTURE]Cultura em todas as cidades. Contém 2 espaços para Grandes Trabalhos de Arte.</Text>
+            <Text>+25% de [ICON_CULTURE]Cultura em todas as cidades. Contém 2 espaços para Grandes Obras de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_SYDNEY_OPERA_HOUSE_HELP">
-            <Text>1 Política Social Gratuita e +50% de [ICON_CULTURE]Cultura nesta cidade. Contém 2 espaços para Grandes Trabalhos Musicais. Deve ser construída em uma cidade costeira.</Text>
+            <Text>1 Política Social Gratuita e +50% de [ICON_CULTURE]Cultura nesta cidade. Contém 2 espaços para Grandes Obras Musicais. Deve ser construída em uma cidade costeira.</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HELP">
             <Text>O Congresso Mundial se tornou as Nações Unidas e iniciou a votação pela Vitória Diplomática. A posse das Nações Unidas dá ao dono 3 Delegados adicionais.</Text>
@@ -837,16 +837,16 @@
             <Text>Uma [ICON_CONNECTED]conexão entre {1_CityName:textkey} e sua capital, {2_CityName:textkey}, foi interrompida.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_WORK_SWAP">
-            <Text>Troca de Grande Trabalho</Text>
+            <Text>Troca de Grande Obra</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_WRITING_SWAP">
-            <Text>{1_LeaderName} trocou seu Grande Trabalho Literário "{2_Work1Name}" pelo Grande Trabalho "{3_Work2Name}."</Text>
+            <Text>{1_LeaderName} trocou sua Grande Obra Literária "{2_Work1Name}" pela Grande Obra "{3_Work2Name}."</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_ART_SWAP">
-            <Text>{1_LeaderName} trocou seu Grande Trabalho de Arte "{2_Work1Name}" pelo Grande Trabalho "{3_Work2Name}."</Text>
+            <Text>{1_LeaderName} trocou sua Grande Obra de Arte "{2_Work1Name}" pela Grande Obra "{3_Work2Name}."</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_MUSIC_SWAP">
-            <Text>{1_LeaderName} trocou seu Grande Trabalho Musical "{2_Work1Name}" pelo Grande Trabalho "{3_Work2Name}."</Text>
+            <Text>{1_LeaderName} trocou sua Grande Obra Musical "{2_Work1Name}" pela Grande Obra "{3_Work2Name}."</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_ARTIFACT_SWAP">
             <Text>{1_LeaderName} trocou seu Artefato "{2_Work1Name}" pelo Artefato "{3_Work2Name}."</Text>

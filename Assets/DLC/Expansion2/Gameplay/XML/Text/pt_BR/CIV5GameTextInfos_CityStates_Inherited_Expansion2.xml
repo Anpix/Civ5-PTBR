@@ -27,9 +27,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJ">
-            <Text>Colombo</Text>
-            <Gender>masculine|feminine|masculine|feminine</Gender>
-            <Plurality>1|1|2|2</Plurality>
+            <Text>Colombense|Colombenses</Text>
+            <Gender>neuter:noart</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG">
             <Text>Hong Kong</Text>
@@ -37,17 +37,16 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
-            <Text>de Hong Kong|de Hong Kong</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Honcongonês|Honcongonesa</Text>
+            <Gender>masculine|feminine</Gender>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
-            <Text>Jerusalem</Text>
+            <Text>Jerusalém</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJ">
-            <Text>Jerosolomita|Jerosolomitas</Text>
+            <Text>Hierosolomita|Hierosolomitas</Text>
             <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -57,9 +56,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJ">
-            <Text>de La Venta|de La Venta</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Laventano|Laventana|Laventanos|Laventanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MANILA">
             <Text>Manila</Text>
@@ -67,7 +66,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJ">
-            <Text>de Manila|de Manila</Text>
+            <Text>Manilense|Manilenses</Text>
             <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -82,12 +81,12 @@
             <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MOMBASA">
-            <Text>Mombasa</Text>
+            <Text>Mombaça</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJ">
-            <Text>de Mombasa|de Mombasa</Text>
+            <Text>Mombacense|Mombacenses</Text>
             <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -97,7 +96,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJ">
-            <Text>de Praga|de Praga</Text>
+            <Text>Praguense|Praguenses</Text>
             <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -107,7 +106,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJ">
-            <Text>de Valeta|de Valeta</Text>
+            <Text>Valetense|Valetenses</Text>
             <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
@@ -117,9 +116,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJ">
-            <Text>da Cidade do Vaticano|da Cidade do Vaticano</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Vaticano|Vaticana|Vaticanos|Vaticanas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
             <Text>Wittenberg</Text>
@@ -127,19 +126,19 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
-            <Text>de Wittenberg|de Wittenberg</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Wittenberguiano|Wittenberguiana|Wittenberguianos|Wittenberguianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_YEREVAN">
-            <Text>Yerevan</Text>
+            <Text>Erevan</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJ">
-            <Text>de Yerevan|de Yerevan</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>
+            <Text>Erevaniano|Erevaniana|Erevanianos|Erevanianas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR">
             <Text>Zanzibar</Text>
@@ -147,7 +146,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ">
-            <Text>de Zanzibar|de Zanzibar</Text>
+            <Text>Zanzibarita|Zanzibaritas</Text>
             <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>

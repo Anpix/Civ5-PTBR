@@ -394,10 +394,10 @@
 		<!-- Technologies-->
 		<!-- Improvements -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ARCHAEOLOGICAL_DIG_AFRICA_TEXT">
-			<Text>An Escavação Arqueológica can only be constructed by an Archaeologist at um Sítio Arqueológico resource. The excavations at the tomb of Tutankhamun is an example of a preeminent archaeological dig site. Upon constructing the Dig, your Archaeologist will discover what type of Artefato is buried at this location. Then the artifact is sent back to Europe for bonus victory points..</Text>
+			<Text>An EscavaÃ§Ã£o ArqueolÃ³gica can only be constructed by an Archaeologist at an SÃ­tio ArqueolÃ³gico resource. The excavations at the tomb of Tutankhamun is an example of a preeminent archaeological dig site. Upon constructing the Dig, your Archaeologist will discover what type of Artefato is buried at this location. Then the artifact is sent back to Europe for bonus victory points..</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_AFRICA_HELP">
-			<Text>Converts the Sítio Arqueológico into an Escavação Arqueológica, which sends the artifact back to Europe for victory points.</Text>
+			<Text>Converts the SÃ­tio ArqueolÃ³gico into an EscavaÃ§Ã£o ArqueolÃ³gica, which sends the artifact back to Europe for victory points.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC_AFRICA">
 			<Text>It can send it back to Europe for victory points.</Text>
@@ -408,7 +408,7 @@
 		</Row>
 		<!-- Buildings in the seperate Buildings file-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_STELE_STRATEGY">
-			<Text>The Stele is a  Monumento unique building which increases the city's output of [ICON_CULTURE] Culture .</Text>
+			<Text>The Stele is a Monumento unique building which increases the city's output of [ICON_CULTURE] Culture .</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM_STRATEGY">
 			<Text>The Staatsmuseum is a Boer-unique building which increases the city's output of [ICON_CULTURE] Culture (especially when housing Great Works). It comes pre-built with 1 Great Work. A European civs capturing a city with a Staatsmuseum will gain VP for capturing artifact(s). It replaces o Museu.</Text>

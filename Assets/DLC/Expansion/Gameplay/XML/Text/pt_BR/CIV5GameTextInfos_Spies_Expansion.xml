@@ -8,7 +8,7 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_1">
-			<Text>Félix</Text>
+			<Text>Felix</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_2">
@@ -25,7 +25,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_5">
 			<Text>Eliza</Text>
-			<Gender>masculine</Gender>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_6">
 			<Text>Mary</Text>
@@ -40,7 +40,7 @@
       		<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_9">
-			<Text>Bárbara</Text>
+			<Text>Barbara</Text>
       		<Gender>feminine</Gender>
 		</Row>
 		<!-- Arabia - Flavoured -->
@@ -65,7 +65,7 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_5">
-			<Text>Mostafá</Text>
+			<Text>Mostafa</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_6">
@@ -390,7 +390,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_INDIA_4">
 			<Text>Ananda</Text>
-			<Gender>masculine</Gender>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_INDIA_5">
 			<Text>Rani</Text>

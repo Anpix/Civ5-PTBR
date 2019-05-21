@@ -2,7 +2,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_PEDIA_GREAT_WORKS_LABEL">
-			<Text>Grandes Trabalhos:</Text>
+			<Text>Grandes Obras:</Text>
 		</Row>
 		<!-- DOM TEXT -->
 		<Row Tag="TXT_KEY_CIV5_DAWN_ASSYRIA_TEXT">
@@ -442,7 +442,7 @@
 			<Text>Veneza</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_VENICE_FACTOID_HEADING">
-			<Text>Curiosidades</Text>				
+			<Text>Curiosidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_VENICE_FACTOID_TEXT">
 			<Text>A maioria das composições de Antonio Vivaldi, conhecido como "Padre Vermelho" e violinista virtuoso, foi escrita para o conjunto feminino barroco do Ospedale della Pieta, um orfanato conventual e escola de música em sua cidade natal, Veneza [NEWLINE][NEWLINE]O título "doge" no dialeto local é uma corrupção do latim dux ("líder"); o equivalente em inglês seria o termo "duque", embora os poderes e direitos nunca tenham sido equivalentes, porque o primeiro foi eleito e o último hereditário.[NEWLINE] [NEWLINE]No coração da economia de Veneza, na Idade Média, a colleganza, uma forma de sociedade anônima criada por um comerciante para financiar uma única e longa expedição; Esses empreendimentos permitiram que empreendedores ousados - até mesmo artesãos, artesãos, viúvas, plebeus e estudantes - tivessem a possibilidade de obter altos lucros de empreendimentos comerciais de sucesso.</Text>
@@ -1138,13 +1138,13 @@
 			<Text>Um {TXT_KEY_UNIT_CARGO_SHIP} permite estabelecer uma rota de comércio marítima entre duas civilizações, gerando [ICON_GOLD]Ouro para o proprietário e a civilização de destino. Ele também tem um alcance maior do que as caravanas terrestres. A construção de um celeiro ou uma oficina em sua cidade natal também permite que você transporte [ICON_FOOD] Alimento ou [ICON_PRODUCTION] Produção entre suas próprias cidades. Uma vez que você atribui o Navio de Carga a uma rota, ele não pode se defender, por isso certifique-se de que o caminho está livre de perigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_MUSICIAN_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_MUSICIAN} pode criar um Grande Trabalho Musical (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como uma {TXT_KEY_BUILDING_OPERA_HOUSE} ou {TXT_KEY_BUILDING_BROADCAST_TOWER}). Um {TXT_KEY_UNIT_GREAT_MUSICIAN} também pode viajar para outra civilização e realizar um Concerto Musical, que vai lhe dar um impulso único de [ICON_TOURISM]Turismo naquele território. {TXT_KEY_UNIT_GREAT_MUSICIAN[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_MUSICIAN} pode criar uma Grande Obra Musical (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como uma {TXT_KEY_BUILDING_OPERA_HOUSE} ou {TXT_KEY_BUILDING_BROADCAST_TOWER}). Um {TXT_KEY_UNIT_GREAT_MUSICIAN} também pode viajar para outra civilização e realizar um Concerto Musical, que vai lhe dar um impulso único de [ICON_TOURISM]Turismo naquele território. {TXT_KEY_UNIT_GREAT_MUSICIAN[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WRITER_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_WRITER} pode criar um Grande Trabalho Literário (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_AMPHITHEATER}, {TXT_KEY_BUILDING_HEROIC_EPIC}, {TXT_KEY_BUILDING_NATIONAL_EPIC} ou {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}). Um {TXT_KEY_UNIT_GREAT_WRITER} também pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. {TXT_KEY_UNIT_GREAT_WRITER[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_WRITER} pode criar uma Grande Obra Literária (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um edifício apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_AMPHITHEATER}, {TXT_KEY_BUILDING_HEROIC_EPIC}, {TXT_KEY_BUILDING_NATIONAL_EPIC} ou {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}). Um {TXT_KEY_UNIT_GREAT_WRITER} também pode escrever um Tratado Político, que concede ao jogador uma grande quantidade de Cultura. {TXT_KEY_UNIT_GREAT_WRITER[2]} são consumidos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY">
-			<Text>Um {TXT_KEY_UNIT_GREAT_ARTIST} pode criar um Grande Trabalho de Arte (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um prédio apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_PALACE}, um {TXT_KEY_BUILDING_MUSEUM} ou uma {TXT_KEY_BUILDING_CATHEDRAL}). Um {TXT_KEY_UNIT_GREAT_ARTIST} pode também iniciar uma Era Dourada. {TXT_KEY_UNIT_GREAT_ARTIST[2]} são gastos quando são usados de qualquer uma dessas formas.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_ARTIST} pode criar uma Grande Obra de Arte (gerando tanto [ICON_CULTURE]Cultura quanto [ICON_TOURISM]Turismo) que é colocado na cidade mais próxima que tenha um prédio apropriado com um espaço vazio (como um {TXT_KEY_BUILDING_PALACE}, um {TXT_KEY_BUILDING_MUSEUM} ou uma {TXT_KEY_BUILDING_CATHEDRAL}). Um {TXT_KEY_UNIT_GREAT_ARTIST} pode também iniciar uma Era Dourada. {TXT_KEY_UNIT_GREAT_ARTIST[2]} são gastos quando são usados de qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN} substitui o {TXT_KEY_UNIT_SWORDSMAN} padrão. Utilize-o em combate o mais rápido possível para desbloquear as propriedades secretas de sua espada Kris de lâmina curva.</Text>
@@ -1578,13 +1578,13 @@
 			<Text>Para ganhar uma Vitória Cultural, você deve tornar-se a influência cultural dominante em todas as civilizações no jogo usando Turismo. Veja a seção sobre Vitória para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GETTING_HEADING2_BODY">
-			<Text>Sua civilização obtém Cultura de varias maneiras:[NEWLINE]- Seu Palácio: (criado quando você construir sua primeira cidade) produz um ponto de cultura por turno.[NEWLINE]- Ruínas Antigas: uma ruína antiga pode lhe dar uma grande dose de Cultura.[NEWLINE]- Edifícios: alguns edifícios fornecem Cultura. O {TXT_KEY_BUILDING_MONUMENT_DESC} é um dos primeiros exemplos.[NEWLINE]- Especialistas: especialmente Artistas, Escritores e Músicos geram Cultura.[NEWLINE]- Maravilhas: algumas maravilhas fornecem Cultura. O {TXT_KEY_BUILDING_HERMITAGE}, {TXT_KEY_BUILDING_HEROIC_EPIC} e a {TXT_KEY_BUILDING_NATIONAL_EPIC} são três maravilhas nacionais que lhe dão Cultura; e há muito mais para descobrir.[NEWLINE]- Políticas Sociais: políticas sociais e princípios ideológicos irão aumentar a sua Cultura. O ramo "{TXT_KEY_POLICY_BRANCH_AESTHETICS}" tem uma série de políticas voltadas à Cultura.[NEWLINE]- Grandes Pessoas: grandes artistas, escritores e músicos podem criar "Grandes Trabalhos", que geram Cultura e Turismo[NEWLINE].- Cidades-Estado: algumas cidades-estado darão Cultura se suas relações forem amigáveis.</Text>
+			<Text>Sua civilização obtém Cultura de varias maneiras:[NEWLINE]- Seu Palácio: (criado quando você construir sua primeira cidade) produz um ponto de cultura por turno.[NEWLINE]- Ruínas Antigas: uma ruína antiga pode lhe dar uma grande dose de Cultura.[NEWLINE]- Edifícios: alguns edifícios fornecem Cultura. O {TXT_KEY_BUILDING_MONUMENT_DESC} é um dos primeiros exemplos.[NEWLINE]- Especialistas: especialmente Artistas, Escritores e Músicos geram Cultura.[NEWLINE]- Maravilhas: algumas maravilhas fornecem Cultura. O {TXT_KEY_BUILDING_HERMITAGE}, {TXT_KEY_BUILDING_HEROIC_EPIC} e a {TXT_KEY_BUILDING_NATIONAL_EPIC} são três maravilhas nacionais que lhe dão Cultura; e há muito mais para descobrir.[NEWLINE]- Políticas Sociais: políticas sociais e princípios ideológicos irão aumentar a sua Cultura. O ramo "{TXT_KEY_POLICY_BRANCH_AESTHETICS}" tem uma série de políticas voltadas à Cultura.[NEWLINE]- Grandes Pessoas: grandes artistas, escritores e músicos podem criar "Grandes Obras", que geram Cultura e Turismo[NEWLINE].- Cidades-Estado: algumas cidades-estado darão Cultura se suas relações forem amigáveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_HEADING2_TITLE">
 			<Text>Turismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_HEADING2_BODY">
-			<Text>[ICON_TOURISM]Turismo é gerado por Grandes Trabalhos ou Artefatos que são colocados em certos edifícios culturais, e é o rendimento principal que você vai usar para espalhar a sua influência cultural a outras civilizações. Ao colocar mais e mais Grandes Trabalhos e Artefatos em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, {TXT_KEY_BUILDING_OPERA_HOUSE[2]} etc., seu [ICON_TOURISM]Turismo vai continuar a aumentar. Além disso, você pode aumentar a sua geração de [ICON_TOURISM]Turismo um pouco, através de acordos para abertura de fronteiras, pelas rotas de comércio, compartilhamento de religião e determinados princípios ideológicos.</Text>
+			<Text>[ICON_TOURISM]Turismo é gerado por Grandes Obras ou Artefatos que são colocados em certos edifícios culturais, e é o rendimento principal que você vai usar para espalhar a sua influência cultural a outras civilizações. Ao colocar mais e mais Grandes Obras e Artefatos em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, {TXT_KEY_BUILDING_OPERA_HOUSE[2]} etc., seu [ICON_TOURISM]Turismo vai continuar a aumentar. Além disso, você pode aumentar a sua geração de [ICON_TOURISM]Turismo um pouco, através de acordos para abertura de fronteiras, pelas rotas de comércio, compartilhamento de religião e determinados princípios ideológicos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_TOURISM_ADV_QUEST">
 			<Text>Como faço para gerar Turismo?</Text>
@@ -1599,49 +1599,49 @@
 			<Text>Como faço para ganhar usando Turismo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORKS_HEADING2_TITLE">
-			<Text>Grandes Trabalhos</Text>
+			<Text>Grandes Obras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORKS_HEADING2_BODY">
-			<Text>Grandes artistas, escritores e músicos. Todos têm a capacidade de criar Grandes Trabalhos. Esses Grandes Trabalhos são obras icônicas ao longo do tempo, como Mona Lisa de Leonardo da Vinci, ou 'Um Conto de Natal' de Charles Dickens.[NEWLINE][NEWLINE]Uma vez criados, você pode então colocar esses Grandes Trabalhos em um edifício apropriado que possua um espaço vazio destinado a um Grande Trabalho (como um {TXT_KEY_BUILDING_MUSEUM} para um grande trabalho de arte, um {TXT_KEY_BUILDING_AMPHITHEATER} para um grande trabalho literário, ou uma {TXT_KEY_BUILDING_OPERA_HOUSE} para um grande trabalho musical). Uma vez colocado, cada Grande Trabalho gera tanto Cultura quanto o Turismo.</Text>
+			<Text>Grandes artistas, escritores e músicos. Todos têm a capacidade de criar Grandes Obras. Essas Grandes Obras são obras icônicas ao longo do tempo, como Mona Lisa de Leonardo da Vinci, ou 'Um Conto de Natal' de Charles Dickens.[NEWLINE][NEWLINE]Uma vez criados, você pode então colocar essas Grandes Obras em um edifício apropriado que possua um espaço vazio destinado a uma Grande Obra (como um {TXT_KEY_BUILDING_MUSEUM} para uma grande obra de arte, um {TXT_KEY_BUILDING_AMPHITHEATER} para uma grande obra literária, ou uma {TXT_KEY_BUILDING_OPERA_HOUSE} para uma grande obra musical). Uma vez colocado, cada Grande Obra gera tanto Cultura quanto Turismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORKS_ADV_QUEST">
-			<Text>O que é um Grande Trabalho?</Text>
+			<Text>O que é uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_ART_HEADING2_TITLE">
-			<Text>Grande Trabalho de Arte</Text>
+			<Text>Grande Obra de Arte</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_ART_HEADING2_BODY">
-			<Text>Grandes Artistas podem criar um Grande Trabalho de Arte para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para um Grande Trabalho de Arte. Isso inclui o {TXT_KEY_BUILDING_PALACE}, {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_CATHEDRAL[2]}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar um Grande Trabalho de Arte, selecione e mova o Grande Artista para um ladrilho de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Trabalho" no painel da unidade. O Grande Trabalho será exibido na tela (por exemplo, Mona Lisa de Leonardo Da Vinci) e o Grande Artista será consumido.</Text>
+			<Text>Grandes Artistas podem criar uma Grande Obra de Arte para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para uma Grande Obra de Arte. Isso inclui o {TXT_KEY_BUILDING_PALACE}, {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_CATHEDRAL[2]}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar uma Grande Obra de Arte, selecione e mova o Grande Artista para um ladrilho de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Obra" no painel da unidade. A Grande Obra será exibido na tela (por exemplo, Mona Lisa de Leonardo Da Vinci) e o Grande Artista será consumido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_ART_ADV_QUEST">
-			<Text>O que é um Grande Trabalho de Arte?</Text>
+			<Text>O que é uma Grande Obra de Arte?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_WRITING_HEADING2_TITLE">
-			<Text>Grande Trabalho Literário</Text>
+			<Text>Grande Obra Literária</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_WRITING_HEADING2_BODY">
-			<Text>Grandes Escritores podem criar um Grande Trabalho Literário para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para um Grande Trabalho Literário. Isso inclui o {TXT_KEY_BUILDING_AMPHITHEATER}, a {TXT_KEY_BUILDING_HEROIC_EPIC}, a {TXT_KEY_BUILDING_NATIONAL_EPIC}, a {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar um Grande Trabalho Literário, selecione e mova o Grande Escritor para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Trabalho" no painel da unidade. O Grande Trabalho Literário será exibido na tela (por exemplo, 'Um Conto de Natal' de Charles Dickens), e do Grande Escritor será consumido.</Text>
+			<Text>Grandes Escritores podem criar uma Grande Obra Literária para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para uma Grande Obra Literária. Isso inclui o {TXT_KEY_BUILDING_AMPHITHEATER}, a {TXT_KEY_BUILDING_HEROIC_EPIC}, a {TXT_KEY_BUILDING_NATIONAL_EPIC}, a {TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC}, bem como várias Maravilhas.[NEWLINE][NEWLINE]Para criar uma Grande Obra Literária, selecione e mova o Grande Escritor para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Obra" no painel da unidade. A Grande Obra Literária será exibido na tela (por exemplo, 'Um Conto de Natal' de Charles Dickens), e do Grande Escritor será consumido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_WRITING_ADV_QUEST">
-			<Text>O que é um Grande Trabalho Literário?</Text>
+			<Text>O que é uma Grande Obra Literária?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_MUSIC_HEADING2_TITLE">
-			<Text>Grande Trabalho Musical</Text>
+			<Text>Grande Obra Musical</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_MUSIC_HEADING2_BODY">
-			<Text>Grandes Músicos pode criar um Grande Trabalho Musical para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para um Grande Trabalho Musical. Isso inclui a {TXT_KEY_BUILDING_OPERA_HOUSE}, a {TXT_KEY_BUILDING_BROADCAST_TOWER}, assim como diversas Maravilhas.[NEWLINE][NEWLINE]Para criar um Grande Trabalho Musical, selecione e mova o Grande Músico para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Trabalho" no painel da unidade. O Grande Trabalho Musical será exibido na tela (por exemplo, Prelude Raindrop de Frederic Chopin), e o Grande Músico será consumido.</Text>
+			<Text>Grandes Músicos pode criar uma Grande Obra Musical para colocar em qualquer edifício apropriado em seu império, que possua um espaço vazio para uma Grande Obra Musical. Isso inclui a {TXT_KEY_BUILDING_OPERA_HOUSE}, a {TXT_KEY_BUILDING_BROADCAST_TOWER}, assim como diversas Maravilhas.[NEWLINE][NEWLINE]Para criar uma Grande Obra Musical, selecione e mova o Grande Músico para um hexágono de qualquer cidade da sua civilização. Se houver um edifício adequado, com um espaço vazio disponível em qualquer uma das suas cidades, você poderá clicar no ícone "Criar Grande Obra" no painel da unidade. A Grande Obra Musical será exibido na tela (por exemplo, Prelude Raindrop de Frederic Chopin), e o Grande Músico será consumido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GREAT_WORK_MUSIC_ADV_QUEST">
-			<Text>O que é um Grande Trabalho Musical?</Text>
+			<Text>O que é uma Grande Obra Musical?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_HEADING2_TITLE">
-			<Text>Gerenciando Grandes Trabalhos</Text>
+			<Text>Gerenciando Grandes Obras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_HEADING2_BODY">
-			<Text>A qualquer momento você pode abrir a tela Visão Cultural e mover Grandes Trabalhos de um local para outro. Isso é útil quando sua civilização está sendo invadida e você deseja mover seus Grandes Trabalhos com segurança. Você também pode usar isso para colocar Grandes Trabalhos em diferentes combinações dentro de seus {TXT_KEY_BUILDING_MUSEUM[2]} e Maravilhas, para tentar um bônus temático, que lhe dá bônus de [ICON_TOURISM]Turismo por combinar Grandes Trabalhos semelhantes.</Text>
+			<Text>A qualquer momento você pode abrir a tela Visão Cultural e mover Grandes Obras de um local para outro. Isso é útil quando sua civilização está sendo invadida e você deseja mover suas Grandes Obras com segurança. Você também pode usar isso para colocar Grandes Obras em diferentes combinações dentro de seus {TXT_KEY_BUILDING_MUSEUM[2]} e Maravilhas, para tentar um bônus temático, que lhe dá bônus de [ICON_TOURISM]Turismo por combinar Grandes Obras semelhantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_ADV_QUEST">
-			<Text>Como faço para gerenciar meus Grandes Trabalhos?</Text>
+			<Text>Como faço para gerenciar minhas Grandes Obras?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARCH_HEADING2_TITLE">
 			<Text>Arqueologia</Text>
@@ -1665,7 +1665,7 @@
 			<Text>Artefatos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARTIFACTS_HEADING2_BODY">
-			<Text>Os Artefatos são relíquias históricas que você pode colocar em um espaço para Grande Trabalho de Arte em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, ou certas Maravilhas. Uma vez colocados, eles vão gerar tanto Cultura e Turismo.</Text>
+			<Text>Os Artefatos são relíquias históricas que você pode colocar em um espaço para Grande Obra de Arte em seus {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, ou certas Maravilhas. Uma vez colocados, eles vão gerar tanto Cultura e Turismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARTIFACTS_ADV_QUEST">
 			<Text>O que é um Artefato?</Text>
@@ -1696,10 +1696,11 @@
 			<Text>Habilidade Especial: Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ART_CREATEGW_HEADING4_BODY">
+
 			<Text>O Grande Artista pode criar uma Grande Obra de Arte que é colocada na cidade mais próxima que possui um prédio apropriado com um espaço vazio (como o Palácio, um Museu ou uma Catedral). O Grande Artista é gasto quando usado dessa maneira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ART_CREATEGW_ADV_QUEST">
-			<Text>Como posso criar uma Grande Obra? </Text>
+			<Text>Como posso criar uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATWRITER_HEADING3_TITLE">
 			<Text>Grande Escritor</Text>
@@ -1708,7 +1709,7 @@
 			<Text>O Grande Escritor, como seus artistas e músicos, são muito importante para a vitória cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATWRITER_ADV_QUEST">
-			<Text>O que é um Grande Escritor</Text>
+			<Text>O que é um Grande Escritor?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_HEADING4_TITLE">
 			<Text>Habilidade Especial: Grande Obra</Text>
@@ -1717,7 +1718,7 @@
 			<Text>Um Grande Escritor pode criar uma Grande Obra de Escrita que é colocada na cidade mais próxima que tenha um prédio apropriado com um espaço vazio (como um Anfiteatro, Épico Nacional, Epopéia Heróica ou Biblioteca Real). O Grande Escritor é gasto quando usado dessa maneira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_ADV_QUEST">
-			<Text>Como faço para criar uma Grande Trabalho?</Text>
+			<Text>Como faço para criar uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TREATISE_HEADING4_TITLE">
 			<Text>Habilidade Especial: Tratado político</Text>
@@ -1732,25 +1733,25 @@
 			<Text>Grande Músico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_HEADING3_BODY">
-			<Text>O grande músico é um músico talentoso e muito importante para a vitória cultural.</Text>
+			<Text>O grande músico é um músico talentoso, e é muito importante para a vitória cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_ADV_QUEST">
-			<Text>O que é um grande músico?</Text>
+			<Text>O que é um Grande Músico?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_HEADING4_TITLE">
-			<Text>Habilidade Especial: Grande Trabalho</Text>
+			<Text>Habilidade Especial: Grande Obra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_HEADING4_BODY">
-			<Text>O Grande Músico pode criar uma Grande Obra de Música que é colocada na cidade mais próxima que tenha um prédio apropriado com um espaço vazio (como uma Casa de Ópera ou uma Torre de Transmissão). O Grande Músico é gasto quando usado dessa maneira.</Text>
+			<Text>A Grande Músico pode criar uma Grande Obra Musical que é colocada na cidade mais próxima que tenha um edifício apropriado com um lugar desocupado (como uma Casa de Ópera ou uma Torre de Difusão). O Grande Músico é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_ADV_QUEST">
-			<Text>Como faço para criar uma Grande Obra?</Text>
+			<Text>Como eu crio uma Grande Obra?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_HEADING4_TITLE">
-			<Text>Habilidade Especial: Turnê de Concerto</Text>
+			<Text>Habilidade Especial: Turnê de Concertos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_HEADING4_BODY">
-			<Text>A Grande Músico pode viajar para outra civilização e realizar uma turnê de concertos, que lhe dará um impulso de uma só vez em Turismo nesse território. Bordas abertas são necessárias para entrar no território de outra civilização. O Grande Músico é gasto quando usado dessa maneira.</Text>
+			<Text>A Grande Músico pode viajar para outras civilizações e fazer uma Turnê de Concertos, que lhe dará um impulso temporário no Turismo daquele território. Fronteiras abertas são necessárias para entrar no território de outra civilização. O Grande Músico é gasto quando usado dessa forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_ADV_QUEST">
 			<Text>O que é uma Turnê de Concertos?</Text>
@@ -1784,7 +1785,7 @@
 			<Text>As unidades do navio de carga ficam disponíveis após você ter pesquisado a Vela. Eles podem ser usados para estabelecer rotas comerciais baseadas no mar. As rotas marítimas podem viajar duas vezes mais que as rotas terrestres e gerar mais ouro. Os navios de carga não podem ser removidos das cidades e não contam contra os limites de empilhamento de unidades. Eles revelarão a névoa da guerra ao longo do caminho que seguem, mas não concedem visibilidade.[NEWLINE][NEWLINE]Para estabelecer uma rota comercial, selecione a unidade Cargo Ship, clique no botão "Estabelecer rota comercial" no painel Unidade. e selecione uma cidade de destino. Apenas as cidades dentro do alcance são listadas. Uma vez selecionado, o Navio de Carga irá percorrer uma quantidade definida de voltas e, em seguida, retornará à cidade original para aguardar uma nova missão.[NEWLINE][NEWLINE]As unidades de comércio estão indefesas, por isso certifique-se de explorar seu potencial Rota comercial para ameaças.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_CARGO_ADV_QUEST">
-			<Text>O que é um navio de carga?</Text>
+			<Text>O que é um Navio Cargueiro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_EXTENDING_HEADING2_TITLE">
 			<Text>Estendendo o intervalo da rota comercial</Text>
@@ -1997,19 +1998,19 @@
 			<Text>Você pode construir uma Guilda de Escritores!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_BODY">
-			<Text>A Guilda de Escritores permite que você [COLOR_ADVISOR_HIGHLIGHT_TEXT] gere Grandes Escritores [/ COLOR] atribuindo especialistas a ela. Um Grande Escritor é um novo tipo de Grande Pessoa que permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT] Grandes Trabalhos Literários [/ COLOR], essencial para gerar Turismo [ICON_TOURISM] e ganhar uma Vitória na Cultura.</Text>
+			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_DISPLAY">
 			<Text>Você pode construir uma Guilda de Artistas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_BODY">
-			<Text>A Guilda dos Artistas permite que você [COLOR_ADVISOR_HIGHLIGHT_TEXT] gere Grandes Artistas [/ COLOR] atribuindo especialistas a ela. A Grande Artista é um novo tipo de Grande Pessoa que permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT] Grandes Trabalhos de Arte [/ COLOR], essencial para gerar Turismo [ICON_TOURISM] e ganhar uma Vitória da Cultura.</Text>
+			<Text>A Guilda de Artistas permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Artistas[/COLOR]designando especialistas para ela. Um Grande Artista é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras de Arte[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_DISPLAY">
 			<Text>Você pode construir uma Guilda de Músicos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_BODY">
-			<Text>A Guilda dos Músicos permite que você [COLOR_ADVISOR_HIGHLIGHT_TEXT] gere Grandes Músicos [/ COLOR] atribuindo especialistas a ela. A Grande Músico é um novo tipo de Grande Pessoa que permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT] Grandes Trabalhos Musicais [/ COLOR], essencial para gerar Turismo [ICON_TOURISM] e ganhar uma Vitória da Cultura.</Text>
+			<Text>A Guilda de Músicos permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Músicos[/COLOR]designando especialistas para ela. Um Grande Músico é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Musicais[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TOURISM_DISPLAY">
 			<Text>Você está gerando Turismo!</Text>

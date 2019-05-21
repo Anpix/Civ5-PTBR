@@ -24,7 +24,7 @@
             <Text>Um Grande Engenheiro só pode ser selecionado se você tiver iniciado a árvore política Tradição.</Text>
         </Row>
         <Row Tag="TXT_KEY_CULTURE_FROM_GREAT_WORKS">
-            <Text>{1_Num} de [ICON_CULTURE] de Grandes Trabalhos</Text>
+            <Text>{1_Num} de [ICON_CULTURE] de Grandes Obras</Text>
         </Row>
         <Row Tag="TXT_KEY_CULTURE_FROM_LEAGUES">
             <Text>{1_Num} de [ICON_CULTURE] do Congresso Mundial</Text>

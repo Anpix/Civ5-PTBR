@@ -689,7 +689,7 @@
             <Text>Uma Declaração de Amizade é necessária para negociar este item (a não ser que seja um acordo de paz). Ao invés disso, considere negociar ouro por turno.</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_DEF_PACT_NO_TECH">
-            <Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui ainda a tecnologia para negociar esse item (Cavalheirismo).</Text>
+            <Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui ainda a tecnologia para negociar esse item (Código de Cavalaria).</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_NO_TECH">
             <Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui ainda a tecnologia para negociar esse item (Educação).</Text>
