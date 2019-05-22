@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<!-- City States-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA">
+			<Text>Calusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA_ADJ">
+			<Text>Calusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CALUSA_TEXT">
+			<Text>At the time the Europeans arrived in the form of Juan Ponce de Leon in 1513 AD, the Calusa dominated the Everglades and south Florida. With a complex culture and commerce based on aquaculture, their economic influence reached as far north as present-day Georgia. The Spanish recorded that they traded nets, fish hooks, sisal, floats, fish traps, paddles, bowls, ear ornaments, masks, plaques, cypress wood, and "ornamental standards" with other tribes. The Calusa and Europeans co-existed in an uneasy truce until the Spanish-English war in 1702, in which the English-armed and allied Creek and Yamasee virtually obliterated the Calusa, the few survivors fleeing deep into the swamps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA">
+			<Text>Kambeba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA_ADJ">
+			<Text>Kambeba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_KAMBEBA_TEXT">
+			<Text>The Kambeba (also known as the Omagua) were a native tribe in the deep Amazon Basin whose territory at its greatest extent reached into Peru. The first European to reach their lands, the Spanish explorer Francisco de Orellana in 1541 AD, reported an agrarian, populous, prosperous, highly-organized kingdom running hundreds of miles along the river. Although they left no structures, likely due to building with wood only, excavated ceramics show a sophisticated culture. But infectious diseases brought by the Europeans decimated the Kambeba during the 16th and 17th centuries, and the kingdom collapsed into scattered semi-nomadic tribes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA">
+			<Text>Karankawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA_ADJ">
+			<Text>Karankawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_KARANKAWA_TEXT">
+			<Text>A disparate group of indigenous tribes scattered along the Texas coast with a common culture and tongue, the Karankawa were reported to engage in ritual cannibalism and the men undertook ceremonial tattooing, piercing and painting. Cabeza de Vaca, who lived among the Karankawa, also noted that their culture had three gender roles - male, female, and that taken by some males known as berdaches ("two spirits") who, among other activities, took a special role in religious ceremonies. First encountering the Europeans in 1697 AD, the Karankawa generally co-existed with the white men until they sided with Mexico during the Texas War of Independence, after which they were scattered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC">
+			<Text>Mixtec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC_ADJ">
+			<Text>Mixtec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MIXTEC_TEXT">
+			<Text>An indigenous Mesoamerican tribe, the Mixtec were one of the most important pre-Columbian kingdoms of Mexico, with their capital Tilantongo and a dozen other major towns. Their reputed wealth came from skilled artisans whose work in wood, stone and precious metals was prized throughout the region. Although for most of their history, the Mixtecs paid tribute to the Aztec empire, most of their towns enjoyed a fair amount of autonomy. With the collapse of the Aztecs, the Mixtecs fiercely resisted Spanish rule until finally overwhelmed by forces under Cortes' lieutenant Pedro de Alvarado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA">
+			<Text>Tairona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA_ADJ">
+			<Text>Tairona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TAIRONA_TEXT">
+			<Text>The Tairona kingdom encompassed a loosely-allied group of chiefdoms in the Sierra Nevada de Santa Maria mountains (present-day Columbia) dating back to the 1st Century AD. Contact with the invading Spanish was limited until 1599 AD, when the Tairona revolted, and attacked churches and priests in protest of religious persecution; the Spanish reached with alacrity and by 1602 the Tairona were defeated and dispersed. The religion of the Tairona was quite different than the traditions in most of South America, embracing both divorce and homosexuality, as well as the "vice of coca chewing," putting them on a collision course with the Catholic Church.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN">
+			<Text>Tzintzuntzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN_ADJ">
+			<Text>Tzintzuntzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TZINTZUNTZAN_TEXT">
+			<Text>The Tarascans, whose capital Tzintzuntzan lay in the lake region of Patzcuaro, had remained free of Aztec dominance since their small kingdom had been founded in the 1200s AD. At its height of influence, Tzintzuntzan was a trading center of some 30,000 inhabitants, with a large plaza surrounded by the homes of the nobility and the priesthood, dominated by five yacatas (semi-circular pyramids) facing the lakes. Until overrun by the Spanish in the 1520s - its last king, Tanganxoan II, was burned at the stake in 1529 - the town dominated trade across south-central Mexico.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT">
+			<Text>Wendat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT_ADJ">
+			<Text>Wendat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_WENDAT_TEXT">
+			<Text>The Wendats are some of the indigenous people of Canada, primarily living on the north shore of Lake Ontario at the time of European contact.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
+			<Text>Inuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT_ADJ">
+			<Text>Inuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE">
+			<Text>Seminole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE_ADJ">
+			<Text>Seminole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA">
+			<Text>Lakota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
+			<Text>Lakota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB">
+			<Text>Carib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB_ADJ">
+			<Text>Carib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE">
+			<Text>Cherokee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE_ADJ">
+			<Text>Cherokee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN">
+			<Text>Algonquin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN_ADJ">
+			<Text>Algonquin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE">
+			<Text>Muscogee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE_ADJ">
+			<Text>Muscogee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI">
+			<Text>Wabanaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI_ADJ">
+			<Text>Wabanaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE">
+			<Text>Mapuche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE_ADJ">
+			<Text>Mapuche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK">
+			<Text>Arawak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK_ADJ">
+			<Text>Arawak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA">
+			<Text>Maya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA_ADJ">
+			<Text>Mayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI">
+			<Text>Yanomami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI_ADJ">
+			<Text>Yanomami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA">
+			<Text>Muisca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA_ADJ">
+			<Text>Muisca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI">
+			<Text>Hopi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI_ADJ">
+			<Text>Hopi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
+			<Text>Anasazi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
+			<Text>Anasazi</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

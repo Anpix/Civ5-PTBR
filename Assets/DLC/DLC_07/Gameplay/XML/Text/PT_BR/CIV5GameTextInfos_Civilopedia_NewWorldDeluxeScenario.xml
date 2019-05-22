@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<!-- Buildings-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_TEXT">
+			<Text>
+				Cartographers, shipbuilders, and educated captains just don't come out of nowhere - many of these scholars and labor men were trained in institutes like Navigation Schools.  Experienced captains and learned scholars would share their accumulated nautical knowledge at the school, which would then impart this wisdom upon the less experienced.  Weather patterns of new routes were charted, cartographers were instructed in the use of the latest and greatest of instruments, and new kinds of ships were designed and constructed.[NEWLINE][NEWLINE]It is commonly believed that Henry the Navigator of Portugal started the first Navigation School at his villa at Sagres.  While he did keep a large group of cartographers to chart the coastlines of parts of Africa, no defining evidence has yet been found of a centralized school for navigators and scholars.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CASTLE_STRATEGY">
+			<Text>The Castle is a Medieval-era building which increases the city's Defensive Strength by 12 and Hit Points by 25. The ciy must posses Walls before the Castle can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_HELP">
+			<Text>Each plantation worked by this City produces +1 [ICON_GOLD] Gold, except Cocoa Plantations which when worked by this city instead provide +3 [ICON_GOLD]. [NEWLINE][NEWLINE]City must have at least one plantation nearby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_STRATEGY">
+			<Text>The Chocolate House can only be constructed in a city with a plantation nearby. The Chocolate House increases the [ICON_GOLD] Gold output for each plantation by one and each improved Cocoa resource increases the [ICON_GOLD] Gold output by an additional 2.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHOCOLATE_HOUSE_TEXT">
+			<Text>In 1643 AD, the French court embraced chocolate - first imported from the New World in 1585 into Spain - and a chocolate fad swept across Europe in the following decade. The first chocolate house opened in London in 1657 offering beverages and confections made of the stuff, and soon such become trendy meeting places for the elite across the continent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_HELP">
+			<Text>15% [ICON_PRODUCTION] Production when building Gunpowder Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_STRATEGY">
+			<Text>The Gunsmith Shop increases the speed at which the city produces Gunpowder Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GUNSMITH_SHOP_TEXT">
+			<Text>Gunsmiths are skilled craftsmen devoted to the design, modification, manufacture and repair of firearms. Before the advent of Eli Whitney's Mill River Armory in the 1790s AD Samuel Colt's mass production of handguns at his factories in Hartford (USA) and London (UK) in the mid-1800s, the gunsmith shop was a vital establishment in any "civilized" settlement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and +1 [ICON_PEACE] Faith from each worked Forest tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_STRATEGY">
+			<Text>The Longhouse is the Iroquois unique building, replacing the Workshop. It increases the city's [ICON_PRODUCTION] Production and [ICON_PEACE] Faith output for each forest within the city's radius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_HELP">
+			<Text>+5% [ICON_PRODUCTION] Production for each Trade Route your civilization has with a City-State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_STRATEGY">
+			<Text>The Meeting House provides [ICON_PRODUCTION] Production for each Trade Route within your civilization that connects to a City-State. The Trade Routes can come from any combination of cities, even cities without the Meeting House. Can only be built in cities following a religion with the Meeting Houses belief. Construct this building by purchasing it with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEETING_HOUSE_TEXT">
+			<Text>In the New World, the social and cultural center for most of the congregational Protestant colonies was the meeting house, which served as both a place of worship and of public discourse for the settlers. For many early Quaker, Mennonite, Unitarian, Puritan, Baptist and other settlements, the meeting house also served as the de facto town hall, where political debates, votes and decisions were conducted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
+			<Text>The Monastery increases the [ICON_CULTURE] Culture of a city, speeding the growth of the city's territory and the civilization's acquisition of Social Policies. The Monastery quadruples the city's cultural border growth rate. Can only be built in cities following a religion with the Monasteries belief. Construct this building by purchasing it with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_STRATEGY">
+			<Text>Each Stable provides 2 [ICON_RES_HORSE] Horses. Maximum of 5 of these buildings in your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_HELP">
+			<Text>Provides 2 [ICON_RES_HORSE] Horses. Maximum of 5 of these buildings in your empire.</Text>
+		</Row>
+		<!-- National Wonder-->
+		<Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_STRATEGY">
+			<Text>An important building for an American civilization trying to spread their religion world-wide from an empire with few, populous cities. It also increases border growth in this city. A civilization must have a Temple in all cities before it can construct the Blythe Intaglios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_HELP">
+			<Text>[ICON_CULTURE] Culture and [ICON_GOLD] Gold costs of acquiring new tiles reduced by 25% in this city.[NEWLINE][NEWLINE]Must have built a Temple in all Cities and be an American Civilization. The cost goes up the more cities there are in the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BLYTHE_INTAGLIOS_TEXT">
+			<Text>Dating to at least 1000 BC, the Blythe Intaglios are a group of several dozen gigantic figures in the Colorado Desert east of the Big Maria Mountains. Created by scraping away the surface layers to reveal lighter rock, the intaglios were not recognized as such until the 1930s, with the largest figure some 171 feet long; it is believed these were made for ceremonial reasons by the Quechan and Mojave tribes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GRAND_TEMPLE_STRATEGY">
+			<Text>An important building for an European civilization trying to spread their religion world-wide from an empire with few, populous cities. Must be built in the Capital. Allows Missionaries born in this city to spread religion three times. A civilization must have a Temple in all cities before it can construct the Grand Temple.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GRAND_TEMPLE_HELP">
+			<Text>All Missionaries born in this city can spread religion three times.[NEWLINE][NEWLINE]Must be built in the [ICON_CAPITAL] Capital. Must have built a Temple in all Cities and be a European Civilization. The cost goes up the more cities there are in the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_HELP">
+			<Text>Removes scurvy from all naval units built by empire. All units that begin their turn in the city with the Navigation School will have their Scurvy promotion removed. A Great Admiral appears near the City where the Wonder was built. Must have a University in all cities.[NEWLINE]Can only be built by the Europeans. City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_STRATEGY">
+			<Text>Build the Navigation School national wonder to ensure that all future naval units will not suffer from the Scurvy promotion and to remove it from units that begin their turn in the city with this Wonder.</Text>
+		</Row>
+		<!-- World Wonders-->
+		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_DESC">
+			<Text>Discovered in 2005 AD in southwest Ohio, the Moorehead Circle - a "woodhenge" - was constructed about 2000 years ago, between 40 BC and 130 AD, likely by one of the tribes in the Hopewell culture. Consisting of three concentric rings of wooden posts, estimated up to 15-feet tall each, some 200 in the outer ring that was about 200 feet in diameter, the Moorehead Circle was likely used for ceremonial purposes, although the specifics are unknown. Recently, a central alter filled with red earth with a 40-by-50 foot rectangular structure adjacent has been uncovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_HELP">
+			<Text>Can only be built by the Americans. Gains an additional tade route slot and a Caravan appears in the City. Destroyed on conquest.[NEWLINE][NEWLINE]City must be built on or next to Grassland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"This circle was probably the focus of their ceremonial life ... and part of the reason people came here from miles away."[NEWLINE][TAB][TAB] - Robert Riordan[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_MACHU_PICHU_HELP">
+			<Text>Can only be built by the Americans. 25% [ICON_GOLD] Gold from [ICON_CONNECTED] Trade Routes. Destroyed on conquest.[NEWLINE][NEWLINE]City must be built within 2 tiles of a Mountain that is inside your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_CHICHEN_ITZA_HELP">
+			<Text>Can only be built by the Americans. Length of [ICON_GOLDEN_AGE] Golden Ages increased by 50%. +2 [ICON_PEACE] Faith from Jungle tiles. Destroyed on conquest.[NEWLINE][NEWLINE]City must not be built on Hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_DESC">
+			<Text>Dating back to the Postclassic Period of the Aztec Empire, adjacent to the capital of Texcoco, Texcotzingo served as the imperial summer gardens. Dedicated to Tlaloc, the god of rain, it was constructed by the monarch Nezahualcoyoti in the 15th Century AD. An elaborate and advanced irrigation system transformed Texcotzingo into a recreational paradise for the nobility, a display of the flora of the empire, a medicinal garden, and a sacred place. Covering 122 hectares, it is considered the first botanical garden of the world, and was a source of wonder for the Spanish conquistadors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_HELP">
+			<Text>Can only be built by the Americans. Provides a free Garden in the city in which it is built. Destroyed on conquest.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"With their sensitivity to the beauty of flowers, birds and gems, their strength of religious feeling ... these ancient Mexicans were civilised men."[NEWLINE][TAB][TAB] - Jacques Soustelle[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TITLE">
+			<Text>Maya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_TEXT">
+			<Text>Priests within the Maya society were often tasked with providing a variety of medicinal treatments to the people, prescribing anything from herbal remedies to "sweat baths," akin to a modern sauna.[NEWLINE][NEWLINE]Modern Maya women traditionally wear a type of blouse or dress known as a "Huipil," featuring bright colors and distinctive patterns that are unique to the village of their origin.[NEWLINE][NEWLINE]The Maya are thought to be the originators of the ancient predecessor to hot chocolate. Found predominantly within the Maya territory, cocoa beans were dried and ground, mixed with other local ingredients into a paste, and added to water to create a chocolate drink.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_3">
+			<Text>Periods in Maya History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_4">
+			<Text>Great Cities of the Maya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_5">
+			<Text>The Collapse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_6">
+			<Text>Maya Class Structure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_7">
+			<Text>Agriculture and Hunting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_8">
+			<Text>Honoring the Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_9">
+			<Text>Maya Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_10">
+			<Text>The Maya Calendar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_11">
+			<Text>Colonial Incursion and Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_12">
+			<Text>Contemporary Maya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_1">
+			<Text>Primarily inhabiting regions of present-day Mexico, Guatemala, and Belize from the 3rd to 10th centuries AD, the Maya people lived in a network of independent kingdoms sharing a common culture and religion. While their true origin is shrouded in mystery, numerous theories exist as to the early development of Maya civilization. According to archaeological records, the first distinctly Maya settlements were established around 2000 BC. Growing from pre-agricultural communities into vast urban centers, the Maya city-states came to rely on sophisticated farming techniques for both sustenance and trade. Although many of their settlements suffered from an unexplained collapse late in the 1st millennium AD, numerous cities still thrived until the arrival of the Spanish Conquistadors in the 16th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_2">
+			<Text>Maya settlements were primarily found within Belize and Guatemala, along with the modern Mexican states of Quintana Roo, Campeche, and Yucatan, which comprise the region known as the Yucatan Peninsula. Consisting of mountainous highlands, lush wetlands and arid lowland regions, the Maya territory varied widely, from dense jungle to open plains.[NEWLINE][NEWLINE]Tropical rainforests in portions of their territory provided the Maya with a diverse range of flora and fauna to supplement their agricultural production, while also providing access to fresh water that was otherwise scarce. Within the forest, annual rainfall amounts over 100 inches were not uncommon, and the waterlogged soil allowed for rain to gather into limestone sinkholes known as "Cenotes," pooling for easy collection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_3">
+			<Text>Various theories exist as to the origin of the Maya people, and it's only within the last 50 years that archaeologists studying Mesoamerica have managed to piece together a timeline of their early civilization. Breakthroughs in deciphering the Mayan script during the 1960s and 70s led to a revival in the study of Maya history, which had previously been mired in conjecture due to the lack of written records.[NEWLINE][NEWLINE]Maya civilization is categorized into several distinct cycles, the Pre-Classic, Classic, and Post-Classic periods. Beginning in the Pre-Classic period, the first settlements are thought to have formed between 2000-1500 BC, when the earliest Maya began to transition from a strictly hunter-gatherer lifestyle to a more community-focused agricultural subsistence. Over time these early communities would evolve into an increasingly complex society, not only implementing advanced agricultural practices and trade networks, but also creating grand works of art and architecture.[NEWLINE][NEWLINE]The height of Maya civilization occurred from roughly 250 AD to 900 AD, during a time known as the Classic period. During the Classic period, the Maya developed some of their best known hallmarks, moving towards large independent city-states, each with vast urban centers teeming with monuments to their gods and kings.[NEWLINE][NEWLINE]The Post-Classic period began with the decline of major urban centers throughout the southern Maya territory, an unexplained collapse that led to the complete abandonment of some of their greatest cities. However, many of the northern settlements continued to grow and prosper well into the new millennium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_4">
+			<Text>Although the immense cities of the Maya were united by a shared culture, they were also fiercely independent, invariably going to war with one another over territory, trade, and political disputes. Despite this independence, all of the great Maya cities shared a role in influencing their culture as a whole, as each contributed the unique characteristics that defined them as individuals.[NEWLINE][NEWLINE]Believed to be the longest inhabited settlement found anywhere in the Americas, Kaminaljuyu was home to a large Maya population from roughly 1500 BC until about 1200 AD. Dozens of archaeological excavations at the site over the past century have revealed that the city may have been the primary producer of obsidian and jade in the region, and the remnants of more than 100 mounds and ancient structures have been discovered. Unfortunately, commercial construction and development of the surrounding area during the 19th and 20th centuries has all but destroyed the remains of this once great city, leaving only fragments behind.[NEWLINE][NEWLINE]El Mirador, flourishing from roughly 600 BC until 100 AD, was another great city of the Maya. A settlement of significant size, El Mirador is noted for its numerous elevated roadways, known to the Maya as the "Sacbe." Used to connect structures within the settlement complex as well as distant trade centers, the sacbe were a crucial mechanism in establishing the Maya trade networks. Similar to modern causeways that are raised over stretches of unstable land, the sacbe covered vast expanses, the longest connecting the ancient city of Coba with the smaller settlement of Yaxuna some 60 miles (96 km) away.[NEWLINE][NEWLINE]Perhaps the best known of the Classic Maya cities, Tikal, served as capital of the powerful Tikal state, an ambitious and aggressive state that often initiated fierce battles against its neighboring rivals. Tikal is thought to have been occupied for nearly 2,000 years, and was home to some 100,000 people at its peak. One of the lesser known innovations found at Tikal, the "Aguada," was an ingenious system of water reservoirs, designed to harvest and collect rain water funneled from the plaster walls of the city.[NEWLINE][NEWLINE]Chitzen Itza was one of the last surviving Mayan settlements, and as such it's also one of the best preserved of their cities. With extensive constructions covering an area over 2.5 sq. miles (6.5 sq. km), Chitzen Itza features prominent examples of nearly every form of Maya architecture including massive step pyramids, multiple ball courts, and ornately-decorated temples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_5">
+			<Text>Approaching the 9th century, many of the southernmost Maya settlements entered a period of swift decline for reasons still unknown today. Labeled the Classic Maya collapse, the dissolution and abandonment of these great kingdoms is the subject of controversy. Overpopulation, environmental damage, warfare and disease all stand as plausible theories on their own, but it seems most likely that within the larger city-states a combination of these factors led to their abandonment.[NEWLINE][NEWLINE]While the mysterious collapse mainly effected the settlements in the southern Maya territory, many of the northern city-states continued to prosper well into the second millennium AD. Marking the beginning of the Post-Classic period, it wasn't until after the collapse that the famous city of Chitzen Itza first rose to prominence. Chitzen Itza survived for several hundred years before falling into a ruinous civil war with the neighboring Mayapan in the 1300s. Mayapan, along with Uxmal and Coba, were among the few remaining Maya cities in the north, post-collapse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_6">
+			<Text>Although the Maya were never unified as a single empire, instead living in city-states similar to the ancient Greeks, each independent state still followed a similar class structure. Beginning around the 3rd century BC, the Maya were ruled by hereditary succession, unless a suitable heir was unavailable. The king was joined by his family and other high ranking citizens to form the upper class of nobility. Beneath the nobles, the priestly class of shamans made up the next tier, guiding the Maya kings and leading the people through the many rituals and ceremonial rites undertaken throughout the year. Beyond these ruling classes, the majority of the Maya were simply the "common folk"-farmers, craftsmen, and laborers. Lower still, the underclass consisted primarily of slaves, who were prisoners of war and criminals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_7">
+			<Text>While working with limited access to fresh groundwater, the Maya utilized a number of agricultural techniques that allowed them to take full benefit of the rich soil within their domain. The "Milpa" system of crop rotation, known to have been used by a variety of Mesoamerican societies, was particularly effective for the Maya. A type of slash-and-burn farming, the Milpa system involved intercropping multiple species of vegetation together followed by periods where the fields were left fallow, or unseeded. Typically this rotation period allowed for two or three years of planting, followed by six to eight years without use. The crops of the Maya farmers were primarily corn, squash, and beans, known collectively as "The Three Sisters."[NEWLINE][NEWLINE]The Maya were not only able farmers, but also skilled hunters and fishermen. Relying on a number of tools and weapons, the Maya primarily hunted deer, rabbit, and the "peccary," a pig-like creature found in the rainforest. The Maya also utilized an innovative spear-throwing device, the Atlatl, which they used for both hunting and warfare. Using a wooden shaft with a cupped end, the spear (or dart) would be laid along its length, and, using the thrower's natural motion, the spear would be propelled at a much higher rate of speed due to the additional extension provided by the device. Spears thrown from the Atlatl are said to be capable of reaching speeds over 100 mph (160 km/h), which allowed the Maya greater confidence in stalking larger, faster prey.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_8">
+			<Text>Like other polytheistic societies throughout the world, the Maya worshipped a vast pantheon of gods, led by the creator god Itzamna. Special emphasis was placed on the sky gods, particularly Kinish Ahau, the sun god, and the moon goddess, Ixchel. The Maya also had gods for the weather, their crops, and the various professions in their society. The Maya maize god was of particular importance once the crop became a staple of survival during the later stages of their development.[NEWLINE][NEWLINE]Throughout the year, the Maya held a number of rituals honoring the gods, based largely on their knowledge of astronomy and the calendar.  Of the cultures that utilized human sacrifice, the Maya were far from the most prolific, but they did partake in bloodletting and sacrifice during their most important rituals. Human sacrifices were thought to have promoted fertility, and the Mayas were known to sacrifice humans by throwing them into freshwater sinkholes, honoring the rain god, Chaac. The famous Sacred Cenote, found at Chitzen Itza, was the site of numerous human sacrifices during the Classic period of Maya history.[NEWLINE][NEWLINE]Along with many other Mesoamerican cultures, the Maya played a ritualistic ballgame where they attempted to knock a solid rubber ball (weighing 5-10 lbs) through a vertically mounted hoop using their hips. The game was played both recreationally and at ceremonial events, and was also used as a competitive means of settling territorial disputes, potentially resulting in the deaths of the losing team.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_9">
+			<Text>At the height of their civilization, the Maya created many great works of art featuring intricate carvings and reliefs in stone and jade, as the artisans of each city incorporated unique regional characteristics into their work. The Maya also developed a range of pigments and dyes using the available resources of the jungle, most notably the color "Maya Blue," a vivid blue tone made from indigo dye that was later adopted into the works of the European colonists, following the decline of Maya society.[NEWLINE][NEWLINE]Among Maya architecture, its most recognizable aspect is the step pyramid, dozens of which were constructed during the later stages of their civilization. Just as it sounds, the step pyramid consisted of layers of stone built in stepped levels cresting in a flat peak where religious ceremonies often took place. It is thought that the Mesoamerican step pyramids were built upon existing burial mounds or earlier temples, and may have been rebuilt over time based on calendar cycles. The most prominent example of the Maya step-pyramid is found at the site of Chichen Itza in the Yucatan Peninsula, a well-preserved example under the stewardship of the Mexican government.[NEWLINE][NEWLINE]The Maya writing system, made up of a script often referred to as glyphs or hieroglyphs because of its similarity to the ancient Egyptian writing system. Found inscribed on works throughout their territory and gradually deciphered over the past century, the Maya used this script to memorialize many aspects of their culture. Although there is evidence that Maya scribes created bound volumes using bark and animal skin, much of this work was destroyed during the colonial incursions of the Spanish in the 16th century, as it was thought to be as heretical.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_10">
+			<Text>Of the many noteworthy aspects of the Maya culture, their calendar system has grown to become the most notorious of their advancements, mainly due to enduring theories about its true purpose. An impressively complex system, the Long Count calendar was one of three used by the Maya, the others being the Haab and the Tzolkin.[NEWLINE][NEWLINE]Source of the 2012 doomsday predictions, the Long Count calendar was used by the Maya as a historical record of time since the creation of the human world. By this calendar, civilization began on August 11th, 3114 BC, and, as selectively interpreted by those who choose to believe in our impending doom, ends on December 21st, 2012. These doomsayers believe that the Maya foretold the end of the world through the calendar, but most researchers simply interpret it as the end of one cycle and the beginning of another, not a cataclysmic end to the world as we know it.[NEWLINE][NEWLINE]Used in conjunction with the Long Count calendar, the lesser-known Haab was a 365-day calendar that approximated a single solar-year, while the Tzolkin calendar followed a 260 day system used to judge harvest and ritual times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_11">
+			<Text>The arrival of the Spanish quickly led to the demise of the remaining northern Maya cities, and although the Maya people still exist today in Mexico and other parts of Central and South America, much of their culture and history was lost during the conquest of the Conquistadores. Beginning in the early 1500s, the Spanish sent expeditions into the Yucatan Peninsula in hopes of establishing a permanent settlement. However, the decentralized nature of the Maya city-states allowed for independent resistance to the Spanish incursions, and it would take the Spanish nearly 200 years to fully subdue the Maya people throughout the area.[NEWLINE][NEWLINE]During the subjugation of the Maya, there were various attempts to convert the populace to Roman Catholicism by the Spanish. Of these efforts, the most notorious were those undertaken by Spanish bishop Diego de Landa, who served the Roman Catholic Archdiocese of Yucatan. De Landa is said to have held an inquisition in the small settlement of Mani, where he burned Maya idols as well as rare written codices, in an attempt to root out the native religion. Although his actions are widely viewed with disdain, De Landa is noted by some historians for keeping his own detailed records of the Maya religion and language as he observed it firsthand traveling among them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_12">
+			<Text>There are an estimated seven million contemporary Maya living throughout parts of Mexico, Belize, Guatemala, Honduras, and El Salvador in the present day, many of whom still maintain aspects of their cultural heritage. Although there are more than 20 distinct languages separating the Maya, like their ancestors they are joined by a common culture and tradition, and together they continue to celebrate the legacy of the ancient Maya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TITLE">
+			<Text>The Netherlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_TEXT">
+			<Text>One of the largest exports of Holland, tulips, are produced en masse throughout the country. During the height of Dutch economic power in the 17th century, an event known as "Tulip Mania" spurred widespread speculation and price manipulation in the tulip trade, driving the prices of rare tulip breeds to astronomical levels before eventually collapsing.[NEWLINE][NEWLINE]Consumed the world over, Heineken Beer, first produced in Amsterdam in 1873, is widely recognized today as a signature product of the Netherlands with its distinctive green and red labeling.[NEWLINE][NEWLINE]The name "Holland" is said to have derived from the Dutch term "holtland," meaning "Woodland" or "Wooded Land."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_3">
+			<Text>Pre-History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_4">
+			<Text>Roman Occupation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_5">
+			<Text>Frisians and Franks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_6">
+			<Text>Shifting Empires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_7">
+			<Text>Transitions of Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_8">
+			<Text>Protestant Reformation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_9">
+			<Text>Uprising against Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_10">
+			<Text>Dominance of Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_11">
+			<Text>Struggles for Naval Dominance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_12">
+			<Text>Establishment of the Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_13">
+			<Text>The World Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_14">
+			<Text>Modern Netherlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_15">
+			<Text>Cultural Icons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_1">
+			<Text>The Kingdom of the Netherlands, often referred to simply as "Holland," has, under the influence of many ambitious empires, grown from a minor province of northern Europe into one of the world's premier trade centers.  Beginning with the conquests of the Romans, the later rise of the Franks, and eventually the Holy Roman Empire, the Netherlands became a frequent target of expanding European kingdoms. However, none would leave a greater mark than the Spanish Habsburgs, whose persecution of Dutch Protestants under King Philip contributed directly to the outbreak of the Eighty Years' War. Pitting the Dutch citizenry against their Spanish masters in a near-century long conflict for independence, once free of Spanish rule, the people of the Netherlands worked tirelessly to establish their own national identity. As the new republic grew to become a leading economic power, many great cultural and scientific figures rose from the newly formed nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_2">
+			<Text>The Kingdom of the Netherlands rests along the coast of northern Europe, while also governing the territories of Aruba, Curacao, and Sint Maarten in the Caribbean Sea. The provinces of the Netherlands in Europe are extremely low in elevation, with much of the territory having been reclaimed from the sea through the extensive use of dykes. Despite a relatively small land area, approximately twice the size of the U.S. state of New Jersey, the Netherlands is home to more than 16 million people. Due to the minimal land available, the Netherlands have established a long history of urban planning and development, as many of the Dutch people reside in dense urban centers, including the capital city of Amsterdam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_3">
+			<Text>Before the arrival of the Romans during the 1st century BC, the region of the Netherlands was inhabited by a wide range of Germanic tribes. Migrating from the surrounding areas, particularly Scandinavia, these tribes were also the early descendants of the Celts, who traced their origins to nearby Austria and Germany. Of these tribes, the Batavi, who lived on an island along the Rhine River, were among the most powerful and feared. Although the Batavians weren't known to have been particularly successful in trade or craft, their renown in battle alone was enough to secure their dominant position among the surrounding tribes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_4">
+			<Text>The southernmost region of the Netherlands, known to the Romans as the province of Germania Inferior, was occupied during the 1st century AD by the Roman military. As documented by Julius Caesar in his "Commentaries on the Gallic Wars," the tribal Batavi are said to have fought alongside the Romans as mercenaries during their campaigns across Europe. The Batavi eventually revolted against the increasingly restrictive Roman control, which led to their subjugation. Roman forces controlled the area uncontested for nearly 400 years, until the collapse of the empire as a whole.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_5">
+			<Text>Although written records of this period are scarce, following the decline of the Roman Empire, the territory the Romans once occupied within the Netherlands was quickly absorbed by the Franks and the Frisians. Although these tribal groups had lived throughout the area for centuries, with the absence of the once powerful Romans, the opportunity for their expansion was now greatly increased. The Empire of the Franks eventually encompassed nearly all of the Netherlands and Germany, except for the Frisian Kingdom situated along the northern coast. Living in such close confines, the Franks and Frisians eventually became bitter rivals, settling their territorial disputes through a series of wars. In 734, the Franks' victory at the Battle of the Boarn marked the dissolution of the Frisian Kingdom and their absorption into the Frankish Empire. The later conquest of Italy and the Frankish expansion under Charlemagne created the foundations of several future kingdoms, including those of France and Germany, under whose dominion the Netherlands fell in the coming centuries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_6">
+			<Text>Following Charlemagne's death in 814, the Frankish Empire was divided into three parts, the Middle, Eastern, and Western Frankish kingdoms. The majority of the Netherlands became part of the Middle Kingdom, under the rule of Lothair I. The division of the once vast empire also led to the creation of the Kingdoms of Germany (which would become the Holy Roman Empire) and France, both of whom battled for influence and territory within the Netherlands.  While much of the region would eventually fall under the rule of the Holy Roman Empire through the 15th Century AD, the Dukes of Burgundy, an offshoot of the French royal family, began to look towards the Netherlands with an eye for acquisition.[NEWLINE][NEWLINE]It was also during this period that the first of many terrible floods struck the Netherlands, killing thousands and destroying much of the infrastructure within the country. In 1287, the disastrous St. Lucia's flood struck the Netherlands, killing over 50,000 people and turning a small lake into an inlet of the North Sea that was known as the Zuiderzee. The Zuiderzee was only finally sealed off from the North Sea in the 20th century, reestablishing the freshwater lake as it once was.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_7">
+			<Text>During the 14th and 15th centuries, the Netherlands and neighboring Belgium fell under the near-complete control of the Burgundian dukes. Throughout the 1400s, the French dukes continually acquired more and more territory throughout the Dutch Low Country, via marriage and inheritance, carefully timed purchases, and annexation.[NEWLINE][NEWLINE]The Burgundian holdings within the Netherlands were inherited by the House of Habsburg through the marriage of Mary of Burgundy to the Duke of Austria, Maximilian I. Although his inheritance of the Burgundian lands was disputed by the King of France, the land was eventually passed to Mary's son, Phillip I, ensuring the transfer of power to the Habsburgs.[NEWLINE][NEWLINE]In 1521, the House of Habsburg was divided between the Spanish and Austrian Habsburg family lines, with the Spanish Habsburgs maintaining control of the Netherlands while the Austrians held Germany and the surrounding region as successive Holy Roman Emperors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_8">
+			<Text>During the Protestant Reformation of Europe, wherein the traditional authority of Roman Catholicism came into question, the Protestant movement established a firm foothold within the Netherlands.  The spread of Protestant beliefs within the Netherlands was of great concern to the nation's Catholic rulers, initially Charles V, and, more importantly, the later rule of his son, Philip II of Spain. King Philip's increasingly vicious persecution of the Dutch Protestants would lead to a surge in discontent among the Dutch people in the coming years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_9">
+			<Text>As resentment of Philip's policies spread throughout the Netherlands, the most prominent figure of the Dutch revolt, William of Orange, emerged as a vocal proponent of religious tolerance. William was himself raised as a Protestant, but converted to Catholicism as part of his noble upbringing. Despite his religious views, he firmly believed that all people had the right to practice their own beliefs. As William was a Dutch nobleman, and served Spain as a loyal subject, he was initially hesitant to defy the king. However, when Philip made no attempt to appease the concerns of the Dutch, William's hand was forced.  By 1567, small rebellions were already underway, and by choosing to fund the uprising and turn his back on Philip, William was declared an outlaw by Spain.[NEWLINE][NEWLINE]After William led his army to several victories in open warfare against Spain, in 1581 the Republic of the Seven United Provinces was created in the liberated northern territories. However, these initial successes only marked the beginning of a long conflict known as the Eighty Years' War, during which time the Spanish king remained in control of the southern Dutch territories. William of Orange was assassinated in 1584 by a Catholic follower loyal to king Philip, and the war raged on until 1648, when the Dutch Republic in its entirety was finally freed of Spanish control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_10">
+			<Text>Following the Eighty Years' War and the creation of the Dutch Republic in the north, the Netherlands quickly became the dominant center of trade in Europe. Led by the Dutch East India Company, the world's first multinational corporation, Dutch traders established new commercial routes and settled colonies across the globe. This period that came to be known as the "Dutch Golden Age" also saw the swift ascension of Dutch scientific advancements, military innovation, and a flourishing culture of art and music within the Netherlands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_11">
+			<Text>As England grew increasingly concerned over Dutch trade with the English, French, and Spanish colonies, hampering British trade efforts and profitability, a series of acts passed by the British Parliament in 1651 sought to control the extent of Dutch shipping. Known as the Navigation Acts, these regulations sought to restrict Dutch access to the English ports. These efforts by England to control the seas led directly to a series of conflicts known as the Anglo-Dutch Wars, fought throughout the 17th century. Over the course of the next 100 years and well into the mid-1700s, Dutch power in both political circles and world trade was greatly reduced as a result of numerous naval battles that reduced the size and power of the Dutch fleet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_12">
+			<Text>During the Napoleonic Wars, the Netherlands as a whole were seized by the French in 1795, leading to the formation of the short-lived Batavian Republic, a satellite of the French Republic. With the signing of the Treaty of Fontainebleau in 1814, formally declaring the end to Napoleon's conquests of Europe, the Dutch people were once again able to claim their independence by forming the United Kingdom of the Netherlands. Shortly thereafter, Belgium, which had still been considered part of the Netherlands up until this time, broke off to form an independent nation of its own in 1830.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_13">
+			<Text>Since first establishing themselves as a sovereign nation, the Dutch continually made efforts to maintain a policy of strict neutrality whenever possible. As such, the Netherlands remained neutral throughout the great conflict that was World War I, committing no arms to the fight but still maintaining economic ties with the belligerents of both sides.[NEWLINE][NEWLINE]During World War II, the Dutch again declared their neutrality at the outbreak of hostilities. However, this time Germany would not allow the valuable Dutch territory to remain unaligned. Invading in 1940, the Nazis faced initial resistance from the Dutch military, but the Netherlands were ultimately overrun and occupied by the Third Reich. During the German occupation, the Dutch government fled the country and operated in exile, leaving the nation under the control of Nazi forces. Although a resistance movement within the Netherlands grew as the Nazi occupation became increasingly unbearable, the Nazis were still successful in killing thousands of Dutch Jews as well as Jewish exiles from Germany, including Anne Frank, whose diary has become a widely read chronicle of the Holocaust.[NEWLINE][NEWLINE]In 1944, in an effort to seize control of the bridges leading from the Netherlands to Germany over the Rhine and Maas rivers, the Allies launched one of the largest airborne missions in history, known as Operation Market Garden. The allies dropped thousands of paratroopers into the region, but the mission was met with limited success. Allied commanders blamed poor weather and communication issues with hampering the allied push. As a result, the Netherlands remained under the grip of the Nazi regime until the eventual surrender of German forces in the spring of 1945.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_14">
+			<Text>The modern Kingdom of the Netherlands is a constitutional monarchy with an elected parliamentary body serving alongside the Queen Regent, Beatrix. As one of the founding members of the European Union, the kingdom has long contributed to the efforts of the union to bring peaceful relations and economic stability to the region. The Hague, the third largest city in the Netherlands, is home to both the Dutch government as well as the United Nations International Court of Justice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_15">
+			<Text>Throughout its history, the Netherlands has produced some of the world's most esteemed artists, scientists, researchers, and scholars, many of whom were integral in establishing the foundations of modern practice in their respective fields. Renowned painters Rembrandt van Rijn and Vincent Van Gogh were both Dutch, and today their work is among the most admired-and valuable- in the art world. Scientists such as Christiaan Huygens, who was the first to discover the rings of Saturn, and Antonie van Leeuwenhoek, the "Father of Microbiology," both made immense contributions to the future of scientific discovery.</Text>
+		</Row>
+
+		<!-- Leaders -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_NAME">
+			<Text>Pacal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_SUBTITLE">
+			<Text>Leader of the Maya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_LIVED">
+			<Text>603 AD - 683 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_FACT_1">
+			<Text>The name Pacal means "Shield," or "Sun Shield," in Mayan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_1">
+      <Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_3">
+			<Text>Rejuvenation of Palenque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_4">
+      <Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_1">
+			<Text>Commonly known as "Pacal the Great," the Mayan king K'inich Janaab' Pakal is perhaps the most renowned of all Mayan rulers. Ascending to the throne at the tender age of 12 and ruling for nearly 70 years thereafter, Pacal inherited the city-state of Palenque during a time of great turmoil. Although the historical details surrounding his reign are often hazy, Pacal is best known for reinvigorating the ravaged city, which had been sacked repeatedly during the rule of his predecessors. Leading a vast construction effort, Pacal oversaw the creation of immense and remarkably detailed structures throughout his domain. Most famously, Pacal's burial tomb, known as the Temple of Inscriptions, features an intricately carved history of the king's life presented in Mayan glyphs. With an astonishing number of well preserved inscriptions, the temple has given contemporary archaeologists crucial insight into the once lost history and culture of this great Mayan city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_2">
+			<Text>Pacal's mother, Lady Zac-Kuk, was one of few women to ever rule independently over a Mayan city-state. Typically the crown was only passed on to the son of a king, but in the absence of a suitable male heir, leadership was bestowed upon Lady Zac-Kuk, who asserted her right to the throne as the granddaughter of a past queen. Ruling for 3 years until Pacal came of age, this unusual deviation in the traditionally patriarchal society led directly to the later efforts of Pacal to legitimize his reign and the rule of his family line.[NEWLINE][NEWLINE]When Pacal did take the throne in 615, the city of Palenque was in a tumultuous position, having been the target of frequent incursions from the neighboring kingdom of Calakmul in the preceding years. Making a clear statement to Palenque's rivals early in his reign, Pacal sent his own raiding parties against the Calakmul, capturing several of their leaders and sacrificing them in retribution for the attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_3">
+			<Text>With the intention of both returning Palenque to its former glory, and also establishing the legitimacy of his rule, Pacal initiated the construction of grand monuments throughout the city, with reliefs extolling the virtues of his family line. A number of impressive structures were built, including the Temple of the Count and the large central complex known simply as "The Palace," featuring a peculiar four-story tower unlike any seen throughout the Mayan realm. Yet, of the many edifices assembled during his reign, none surpassed the Temple of Inscriptions. Built to serve as Pacal's burial tomb, construction began on the stepped pyramid during the final years of his life and continued under his successor, Chan Bahlum II.[NEWLINE][NEWLINE]Featuring intricate carvings and hieroglyphic text, the temple is best known for housing Pacal's ornate sarcophagus. First discovered by Mexican archeologists in 1952, the walls of Pacal's tomb in the lower level of the temple contain the longest set of Mayan glyphs ever found. Although still the subject of interpretation today, the glyphs appear to chronicle the events of Pacal's life leading up to his death and the ascension of his heir.[NEWLINE][NEWLINE]The sarcophagus itself features an elaborately detailed stone lid with glyphs representing the planets and several constellations. These celestial elements in particular have contributed to controversial theories regarding the involvement of extraterrestrials in the Mayan culture, similar to theories surrounding the ancient Egyptian pyramids. While most esteemed researchers believe the sarcophagus depicts Pacal's journey to the underworld, other sources interpret this imagery as Pacal at the controls of a spaceship preparing for launch. Inside the sarcophagus, archaeologists discovered the skeletal remains of Pacal, wearing a finely crafted jade mosaic in the form of a mask.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_4">
+			<Text>Pacal the Great is considered by historians to be one of the most revered leaders in Mayan history, based on the remarkable monuments and sculptural creations found throughout Palenque. In his time as king, nearly 1000 structures were assembled in the city, requiring stones that weighed up to 15 tons. Although his past is still being uncovered today, we can say with certainty that his efforts to restore the kingdom of Palenque led to the assembly of some of the greatest monuments and art ever created by the Maya.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_NAME">
+			<Text>William of Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TITLES_1">
+			<Text>Prince of Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_SUBTITLE">
+			<Text>Leader of the Netherlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_LIVED">
+			<Text>1533 AD - 1584 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_FACT_1">
+			<Text>Of the many ideas regarding William's nickname, "William the Silent," there exist two primary theories. One belief is that the moniker came from his utmost discretion when discussing matters of the state when he first served Emperor Charles V. The other, that his overall calm demeanor kept him quiet, but astute, in his duties, is equally plausible based on our knowledge of his legacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_FACT_2">
+			<Text>A later descendant of William, William III, went on to become King of England after the Dutch invasion of England during the Glorious Revolution, when King James II of England was deposed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_1">
+      <Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_2">
+			<Text>Noble Upbringing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_3">
+			<Text>Roots of Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_4">
+			<Text>The Uprising Begins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_5">
+			<Text>Outbreak of War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_6">
+			<Text>Roots of Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_7">
+			<Text>Assassination Attempts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_8">
+      <Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_1">
+			<Text>Widely considered both founder and liberator of the Netherlands, William, Prince of Orange, also known as "William the Silent," led a successful rebellion in the mid-16th century against the Spanish Habsburg Dynasty who held dominion over the Dutch Low Countries. Once the loyal servant of King Philip II of Spain, William eventually became the most prominent leader of the rebellion, as his growing distaste for the continued Spanish persecution of Dutch Protestants came to a head. Rallying his fellow noblemen to the cause, William became an outlaw in the eyes of the Spanish monarch and led the Dutch forces in a number of successful battles against the king before falling to an assassin's bullet in 1584.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_2">
+			<Text>Born to Count William of Nassau in 1533, William inherited the title of Prince of Orange at age 11 when his cousin Rene, then prince, died without an heir to his title and land holdings. During this period the Netherlands were controlled by Holy Roman Emperor Charles V, who ruled as leader of the Habsburg Monarchy, while also serving as king of Spain. While receiving all of the education and training expected of a nobleman, William later became a favored member of the Emperor's court. The emperor's connection to the Spanish crown would play an important role in William's future efforts to wrest control of the Netherlands from Spain.[NEWLINE][NEWLINE]Promoted through the ranks of the military, by his early twenties, William was already a commander in the Imperial army, while also holding various diplomatic posts as an advisor to the Emperor. However, William's favor with the Emperor came at the price of his faith, as his Lutheran upbringing was abandoned in favor of Roman Catholicism to facilitate his rise to power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_3">
+			<Text>In 1555, Charles relinquished the crown of Spain to his son, Philip II. Philip was known for his ruthless disregard for the lives of the Protestants under his rule, showing little empathy for their beliefs and expanding the powers of the Inquisition against the Reformation. In serving his new king, William began to understand the true intentions of Philip, who had no qualms about wiping out the Protestants by whatever means necessary. Although William adopted Catholicism as part of his education, he was raised a Lutheran, and still firmly believed in the right of the people to follow their own beliefs. As the story goes, William overheard a conversation between Philip and King Henry II of France while on a hunting expedition, discussing the future extermination of the Protestants in both of their kingdoms. This event is said to have sparked William's decision to oppose Philip and Spanish control of the Netherlands.[NEWLINE][NEWLINE]In attempting to subdue the established Protestants in the Netherlands and drive them into exile or worse, Philip devised a system of "placards." These placards served as edicts making the practice of Lutheran and Calvinist beliefs an offense punishable by torture and death. So extreme was the persecution that many Dutch Catholics joined the Protestants in opposing Philip's policies.[NEWLINE][NEWLINE]William began to openly criticize the king in public, making his opinions on the matter clear, and encouraging others to stand up to repressive policies of Philip. In 1566, the Compromise of Nobles, a collective of noblemen from the Netherlands, petitioned the Spanish regent Margaret of Parma to end the persecution of Protestants within the Netherlands. Despite their efforts for a peaceful resolution, Philip rejected the forwarded petition, and in response, iconoclasm spread throughout the Dutch territory, leading to the destruction of Catholic icons across the country by Protestant rebels.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_4">
+			<Text>As iconoclasm spread along with increasingly public displays of forbidden Protestant worship, Philip sent the Duke of Alba, Fernando Alvarez de Toledo, known as the "Iron Duke," to the Netherlands to quash the uprising and deal with the rebels. Upon his arrival, the duke established the Council of Troubles, later known among the Protestants as "The Council of Blood," to oversee the trial and punishment of the rebels and their leadership. Many of those summoned to the council went into hiding, including William himself, but some 1000 or more Protestants are said to have been tried and executed at the hands of the Iron Duke.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_5">
+			<Text>While funding the uprising from his home in Nassau, William and the rebels established several armies to attack the Spanish on multiple fronts. The group of Protestant exiles and Dutch noblemen resisting the Spanish came to be known as the "Geuzen," or "Beggars," with the most prominent force being the "Watergeuzen" - the Sea Beggars. William used his wealth to fund the Sea Beggars and equip their vessels, which they used to raid coastal cities throughout the Netherlands, acting as privateers.[NEWLINE][NEWLINE]William's brother, Louis of Nassau, led an army of mercenaries and French Huguenots (French Protestants) against a Spanish force under the command of Jean de Ligne, himself a Dutch nobleman still loyal to Philip. Meeting at the Battle of Heiligerlee in the northern Dutch province of Groningen in 1568, Louis routed the Spanish army and Jean de Ligne was killed. Unfortunately, William and Louis' second brother, Adolph, was also killed while leading the Dutch cavalry. This historic battle is considered by historians to mark the onset of the Eighty Years' War, as the great conflict for Dutch independence came to be known.[NEWLINE][NEWLINE]At the Battle of Jemmingen shortly thereafter, Louis's army was crushed by the Spanish forces while attempting to seize the city of Groningen itself, forcing his retreat. William himself took up the charge and led an army of Dutch forces to several victories, inspiring the Dutch people as more and more cities throughout the Netherlands were wrested from Spanish control. Despite the Dutch gains, capturing and controlling much of the northern territory over the next decade, the Spanish continued to maintain a firm grasp on the southern Netherlands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_6">
+			<Text>In 1573, the Union of Utrecht was signed in the northern Dutch city bearing the document's name, uniting the Northern provinces in opposition of Spain. Although not yet fully independent, the union clearly marked a turning point in rejecting Spanish governance of the region. While Spain still controlled the southern territories, in 1581, the Act of Abjuration finally served as a formal declaration of the Low Countries' independence from Philip's rule. Unfortunately for William, he would not live to see the Netherlands free from the grasp of Spain in its entirety.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_7">
+			<Text>With an ample hefty bounty placed on his head by King Philip, the first attempt on William's life soon followed, when the Spaniard Juan de Jauregui fired a shot at William in 1582, wounding him in the neck. Although William was gravely injured, he managed to survive his injuries, but his slow recovery limited his involvement in the rebellion. Less than two years later, William was again attacked by an assassin, this time by a French Roman Catholic named Balthasar Gerard. Attacking William at his home, Balthasar fired three shots, the fatal blow striking William in the chest.[NEWLINE][NEWLINE]In the coming days, Balthasar was tried and sentenced to death. His punishment was torture, which took place over the span of an entire week. Balthasar's only relief came when he was eventually beheaded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_8">
+			<Text>William is revered today as both the founder of the Dutch independence movement and the sovereign nation as it stands today. Inspiring the people of the Netherlands to rise up against Spanish rule and the abuses suffered by the Dutch Protestants, William gave his life in pursuit of an enlightened view point that deemed it only fair that all men be allowed to follow their beliefs.</Text>
+		</Row>
+
+		<!-- Promotions-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
+			<Text>Unit will withdraw when faced with melee attack. Chance of withdrawal decreased against fast enemy units or if there are limited open tiles behind the unit.</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID_STRATEGY">
+			<Text>The Pyramid is an Ancient-era building unique to the Maya, replacing the Shrine. It increases the [ICON_RESEARCH] Science and [ICON_PEACE] Faith of a city, speeding Research and the civilization's acquisition of Religions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_BUILDINGS_MAYA_PYRAMID_TEXT">
+			<Text>These impressive, pyramid-shaped structures were built by the Mayans for ceremonial purposes, beginning nearly 3,000 years ago.  The Mayan crafters hand-carved every stone of the building, giving the structures a "stepped" appearance.  A long staircase would run up one side of the pyramid, leading to a small shrine at the top, usually dedicated to one of the Mayan gods.  The largest Mayan Pyramid is located at El Mirador, measuring nearly 260 feet in height.  By volume (almost 99 million cubic feet) it is one of the largest pyramids in the world.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_HELP">
+			<Text>A Polder can only be built on Flood Plains and Marsh. It boosts food output immediately. It also provides +1 [ICON_PRODUCTION] Production and +2 [ICON_GOLD] Gold once Economics is researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_TEXT">
+			<Text>A polder is a low-lying tract enclosed by dikes with the water drained. In general, polder is land reclaimed from a lake or seabed, from flood plains, or from marshes. In time, the drained land subsides so that all polder is eventually below the surrounding water level. Because of this, water seeps into the drained area and must be pumped out or otherwise drained. The dikes are usually made of readily available materials, earth or sand; in modern times these barriers might be covered or completely composed of concrete. The drained land is extremely fertile and makes excellent pasturage or cropland.[NEWLINE][NEWLINE]The first polders of reclaimed land were constructed in the 11th Century AD, although building embankments as barriers to water date back to the Romans. The Dutch have a long history of reclaiming marshes and fenland, and even the seabed, and possess half of the polder acreage in Europe. Although there are polders in other countries of Europe, and examples can be found in Asia and North America, Holland has some 3000 polders accounting for about 27 percent of the country's land. Amsterdam itself is built largely upon polder. As the Dutch homily states, "God made the world, but the Dutch made Holland."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILD_POLDER">
+			<Text>Construct a Polder</Text>
+		</Row>
+
+		<!-- Policies -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_POLICY_CITIZENSHIP">
+			<Text>Citizenship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_POLICY_CITIZENSHIP_HEADING">
+			<Text>Citizenship</Text>
+		</Row>
+
+		<!-- Units -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_STRATEGY">
+			<Text>The Privateer is the unit available from the Piracy tech, which must be researched before European powers can declare war. Use Privateers to attack enemy shipping and steal treasure units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_TEXT">
+			<Text>
+				Plying the seas looking for his next victim, the privateer is the legal pirate, handed letters of marquee from his sovereign to raid enemy vessels during times of war.  A privateer's main goal was to disrupt enemy trade routes, hurting their economy or ability to outfit a navy and army. Usually, the privateer was an entrepreneurial merchant who already owned his own ship, had a ready crew, and knew the seas and trade routes.  Generally the privateer worked alone, but sometimes they banded together to form larger fleets, in order to take down some of the heavier marks.[NEWLINE][NEWLINE]The privateer's aim wasn't to sink the enemy vessel - only to capture it and its goods.  The booty was usually auctioned off, with the proceeds being split between the privateer, any financial investor, and the crown.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_HELP">
+			<Text>Renaissance Era naval Unit used to attack European powers and steal treasures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS_STRATEGY">
+			<Text>The Comanche Riders is only available to the Americans throught the Horsemen of the Plains policy. It has the Full Moon Striker (+1 Movement) and the Survivalism I (+5 HP healed per turn outside of friendly territory and +25% Defense) promotions. The can be placed inside a city or adjacent to protect it from Missionaries trying to spread other religions into that city. This unit does not require a strategic resource. (Representing the guns and horses given to the Americans from the Europeans)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS_HELP">
+			<Text>Mounted unit that specializes in quick attacks and defending against military and religious units. May only be received through adopting the Horsemen of the Plains policy by the Americans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_GREAT_ADMIRAL_STRATEGY">
+			<Text>The Great Admiral has the ability to instantly repair every naval and embarked unit in the same hex, as well as in adjacent hexes. The Great Admiral can perform a weaker version of the Great Merchant's "trade mission". The Great Admiral is consumed when performing any of these actions. The Great Admiral also provides a 15% combat bonus to all player-owned naval units within 2 tiles. The Great Admiral is NOT consumed when he provides this bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_HELP_INQUISITOR">
+			<Text>Used to remove other religions from cities. May only be obtained by purchasing with [ICON_PEACE] Faith. [COLOR_POSITIVE_TEXT]Does not require maintenance.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_LANCER_STRATEGY">
+			<Text>The Lancer is the Renaissance horse unit that comes after the Knight. It's faster and more powerful than the Knight, able to sweep those once-mighty units from the map. The Lancer can pillage enemy improvements at no additional cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MYSTIC_WARRIOR_STRATEGY">
+			<Text>Before engaging in melee, the Mystic Warrior performs a spear throw attack that can damage or kill the enemy unit before making contact. And after one combat the Mystic Warrior will receive another promotion. The only way to obtain one is by allying with a Militaristic City State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MYSTIC_WARRIOR_HELP">
+			<Text>Melee unit that has a mystical weapon whose abilities will be discovered the first time it is used in combat. Also performs a first-strike ranged attack before combat. May only be given to you through City States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_MYSTIC_WARRIOR_TEXT">
+			<Text>The braves of various North American tribes during times of conflict were consecrated in elaborate, mystical ceremonies meant to increase their courage, strength, skill and/or survival. The earliest record of such "mystic warriors" comes from the Pequot war with English colonists (1634-1638 AD), but examples abound throughout the histories of the Northeastern and Plains Indians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_STRATEGY">
+			<Text>This melee naval unit is skilled at exploration. This unit also gives [ICON_GOLD] Gold if it reaches China, but it disappears afterwards. Use this unit to explore the map and uncover the locations of other players.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_HELP">
+			<Text>Melee naval unit which excels at sea exploration. It has more [ICON_MOVES] Movement than the Caravel, and once it moves to China it grants [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SEABEGGAR_STRATEGY">
+			<Text>Naval Unit used to specializes in attacking coastal cities to earn gold and capturing enemy ships. Heals outside friendly territory. Starts with the first two Coastal Raider promotions allowing it to earn gold from attacking coastal cities. May capture any enemy naval units it defeats as prize ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SEABEGGAR_HELP">
+			<Text>Naval Unit that specializes in attacking coastal cities to earn gold and capturing enemy ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_STRATEGY">
+			<Text>The Ship of the Line has a slightly higher Ranged Combat strength than the Frigate, and base strength. It can shoot hex farther than the Frigate, allowing it to dominate a greater area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_HELP">
+			<Text>Most powerful Renaissance Era Naval Unit used to wrest control of the seas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER">
+			<Text>Excellent at exploring and fearsome in combat, this Shoshone Unique Unit replaces the Scout. It possesses a promotion that gives it [ICON_PEACE] Faith for discovering Natural Wonders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER_STRATEGY">
+			<Text>The Pathfinder is the Scout replacement, and only the Shoshone may build it. It explores as well as a Scout and fights almost as well as a Warrior. It gives a [ICON_PEACE] Faith bonus for discovering Natural Wonders. Costs more than a Scout.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

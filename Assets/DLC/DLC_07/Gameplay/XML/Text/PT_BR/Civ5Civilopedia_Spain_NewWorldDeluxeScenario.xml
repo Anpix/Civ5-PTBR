@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- edited with Programmer's Notepad 2 by Michelle Menard (Firaxis Games) -->
+<!-- Babylon DLC Civilopedia Entries -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TITLE">
+			<Text>Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_3">
+			<Text>Early History: From Cro-Magnons to Celts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_4">
+			<Text>Enter the Romans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_5">
+			<Text>The Arrival of the Moors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_6">
+			<Text>The Reconquista, Unification, and Inquistition, Oh My</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_7">
+			<Text>Imperial Spain, Rulers of the New World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_8">
+			<Text>Troubles and Warfare, or, Spain can't get a break</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_9">
+			<Text>The Present and the Future</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_STATBOX">
+			<Text>[NEWLINE]        Leader: Isabella[NEWLINE]        Unique Unit: Tercio[NEWLINE]        Unique Unit: Conquistador[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_1">
+			<Text>Spain's location on the Iberian Peninsula between North Africa and Europe has made it an important territory from prehistoric times to the present.  At one time the first world Imperial power, Spain later had to survive devastating wars and centuries of political unrest. From its discovery and colonization of the New World to its involvement in countless wars of independence, Spain is one of the few countries which can claim such a lasting and encompassing global influence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_2">
+			<Text>
+				The Kingdom of Spain is the 51st largest country in the world, only some 31,000 square miles bigger than the state of California.  The majority of the country is dominated by high plateaus and mountain ranges, including the Sierra Nevada in the south and the Pyrenees to the west.  Spain's highest peak is located on one of its island holdings, the volcano Teide on Tenerife, a member of the Canary Islands.[NEWLINE][NEWLINE]Spain's climate is incredibly diverse, even if only considering the mainland and none of the colonies.  The southern areas bordering the Mediterranean Sea enjoy a mild Mediterranean and semi-arid climate, the central plain is Continental in nature, and the northern areas vary between Oceanic and Mountainous temperatures.  Also, contrary to popular belief, the rain in Spain does not fall mainly in the plain - it's usually found in the mountains.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_3">
+			<Text>Archeological evidence suggests that humans first arrived on the Iberian Peninsula about 32,000 years ago, the Altamira cave paintings providing a famous artifact of their travels. The peninsula was settled between two main groups, the Iberians and the Celts, the former populating the southern and eastern areas with the latter inhabiting the northern and western stretches.  The peninsula placed the Celts and Iberians in a prime position for commerce, and many Phoenician and Greek merchants set up a thriving gold and silver trade, predominately within the city of Tartessos, located at present-day Seville.  A few Phoenician, Greek, and Carthaginian trading colonies were founded along the Mediterranean coast of the peninsula, though the local populace retained control over most of their area, despite this influx of foreign gold and power. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_4">
+			<Text>
+				This continued until roughly 210 BC, when the Romans captured the Carthaginian colonies during the Second Punic War.  At this point, the Romans launched a campaign into the heart of the Iberian Peninsula, where they conquered nearly all of the landmass. Over the course of the next 500 years, the Celts and Iberians were steadily "Romanized" - local aristocratic families were inducted into the Roman nobility, Roman roads and trading posts dotted the land, and new systems of irrigation techniques were established, including the famous aqueducts.   Christianity was also introduced during this time and was quickly adopted by the local people.[NEWLINE][NEWLINE]Rome, however, began to lose hold of the peninsula (now being referred to as "Hispania" or "Iberia") when a Germanic invasion of Gaul pushed Suevi and Vandal peoples into Iberia in 409 AD. The displaced tribes set up a new kingdom in modern day Galicia and Portugal, and Rome lacked the resources to stop them.  The Vandals quickly spread across Iberia, leaving the Romans with a small southern holding along the coast, Spania.  The Byzantine Romans hoped to retake Iberia from this vantage point, but soon the entire peninsula fell under Visigothic rule.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_5">
+			<Text>
+				The Visigoths continued their control of Iberia for the next three centuries, until a sudden invasion by the Umayyad Islamic Empire swept across the peninsula.  The large, Moorish armies crossed from North Africa into Gibraltar and conquered nearly the whole of Iberia in seven short years, from 711-718 AD.   The new Islamic powers allowed the Christians and the Jews to continue their religious practices, but did require them to pay special taxes and submit to a few discriminatory practices. Despite these minor (for the given time) prejudices, many of the locals began to convert to Islam.[NEWLINE][NEWLINE]The invaders themselves were hardly unified despite their shared religion and purpose, and soon groups of Moors were splitting off and forming settlements of their own, primarily in the Valencia and Granada regions.  In the 11th century the Muslim territories fractured again, allowing some of the remaining Christian kingdoms to expand their boundaries.  Christians and Muslims continued to wrest for control of Iberia for centuries, resulting in the creation of the Reconquista.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_6">
+			<Text>
+				Officially starting with the Battle of Covadonga in 722 (but not gaining momentum until much later), the Reconquista was the name given to the Christians' attempt to reclaim Iberia from Muslim rule.  Many important Christian kingdoms were founded by the Reconquista, such as Asturias and Aragon, but most of the Muslim kingdoms stubbornly held onto their land.  For the next 700 years, a battle for the Iberian Peninsula raged between the Christians and the Muslims: strongholds were built and fell, power bases and balances shifted, and borders were redrawn on nearly a yearly basis.  Despite the slow encroachment of the Christian-led kingdoms across Iberia, no clear victor presented itself.[NEWLINE][NEWLINE]However, this all changed with the fateful union of the kingdoms of Castile and Aragon, joined by the marriage of Isabella I and Ferdinand II in 1469.  The two monarchs led a pointed attack against the Islamic stronghold of Granada, and in 1492 they finally ended the 781-year rule of the Muslims in Iberia.[NEWLINE][NEWLINE]1492 was an important year for the monarchs; Christopher Columbus, with the patronage of Isabella, arrived in America (leading to the colonization of the New World), and the Iberian Jews were ordered to convert to Christianity or face expulsion or even death under the Inquisition.[NEWLINE][NEWLINE]The new, unified kingdom of Isabella and Ferdinand became known as España (or Spain) and with her wealthy colonies in the New World became the first "world power" of the time.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_7">
+			<Text>
+				At its height, the Spanish Empire counted holdings across the entirety of the world - from large chunks of North and South America and small pieces of Europe, to various cities in North Africa and the entirety of the East Indies. The Spanish led the world in this age of discovery, accumulating vast amounts of wealth and trade from their numerous colonies and principalities.  It was said, and rightfully so, that the sun always shone somewhere in the Spanish Empire.[NEWLINE][NEWLINE]Spain's new trade routes with the New World not only provided new knowledge and culture, but also new resources in the form of precious metals ( i.e., gold), spices, and plants. Spain's Golden Age also saw the creation of intellectual and spiritual reforms as well, starting with the escalation of humanism, beginnings of the Protestant Reformation, and the founding of the School of Salamanca.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_8">
+			<Text>
+				With great power comes great responsibility, at least if you don't want Barbary pirates to conduct slave raids along your empire's coastal holdings. Besides the growing pirate and Ottoman threat, Spain found itself routinely at war with France.  Religious unrest and wars shook the Catholic empire, as the Protestant Reformation dragged the empire into ever-increasing military engagements across Europe.  What unrest and religion didn't touch, plague did, and in the 1650's, the empire was rocked by the Great Plague of Seville.[NEWLINE][NEWLINE]From this point forward, Spain's power and influence went into a gradual, and then not-so-gradual decline. She began to lose her European holdings, primarily from the separation of Portugal and the Netherlands, and then suffered military setbacks from the highly destructive Thirty Years War.[NEWLINE][NEWLINE]Wars and more wars threatened and decimated the once proud empire for the next two centuries.  In the 18th century, Napoleon Bonaparte invaded the country by trickery, claiming he was on his way to Portugal.  Then in the early 19th century, a nationalist revolt to overthrow their French- occupationalist government led to the Spanish War of Independence, or the Peninsular War.  Despite their eventual victory over the French (mostly due to Napoleon's disastrous Russian campaign) the country was thrown into political turmoil.[NEWLINE][NEWLINE]Spain soon saw itself in turn facing multiple wars of independence from its own foreign colonies, cumulating in the Spanish-American War. The 20th century didn't bring much change for the fallen empire - The Spanish Civil War of the 1930s brought Fascism and an authoritarian government to the country, claiming over half a million lives in the process.  This war is also commonly credited as the first battle of World War II.[NEWLINE][NEWLINE]It wasn't until the death of General Francisco Franco, in 1975, that the monarchy was restored and things began to look up for Spain for the first time in the past 300 years.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_9">
+			<Text>
+				In 1978, Democracy was introduced to Spain with the approval of the Spanish Constitution; King Juan Carlos finally put a stop to rebel and radical Nationalist movements that had been rampaging across the country side, primarily led by a group of Basque terrorists.  In 1982, Spain became a member of NATO, and then in 1986, a member of the European Community, which later became the European Union.[NEWLINE][NEWLINE]From its glorious days as an Imperial power to its centuries of internal and international strife, Spain has rebuilt itself and re-emerged as a new world player, boasting the ninth largest economy and tenth highest quality of life in the world.  A huge percentage of the world can trace back some part of its national identity or culture to Spain, from the architectural iron workings in New Orleans to the Catholic faith of the Philippines. Few current nations can claim to have such a far-reaching and lasting influence as Imperial Spain, both at the height of her power and today.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_FACTOID_HEADING">
+			<Text>Spanish Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_FACTOID_TEXT">
+			<Text>One of Imperial Spain's most recognizable legacies is its language - nearly 500 million people today speak Spanish, the second most popular language in the world.[NEWLINE][NEWLINE]Spain is the leading nation in solar power production, having overtaking the United States in 2010 with the completion of La Florida, a huge solar plant. Also, more than 50% of the energy generated in the country is provided by windmills, much to Don Quixote's displeasure.[NEWLINE][NEWLINE]In theory, if not in practice, nudism is legal everywhere throughout Spain.[NEWLINE][NEWLINE]The beret was invented in Spain by the Basque in the northeast Pyrenees.[NEWLINE][NEWLINE]Spanish author Miguel de Cervantes Saavedra wrote Don Quixote, which is credited as the first modern novel. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_LIVED">
+			<Text>1451 - 1504 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_NAME">
+			<Text>Isabella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_SUBTITLE">
+			<Text>Leader of Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TITLES_1">
+			<Text>Queen of Castile and Leon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TITLES_2">
+			<Text>Queen Consort of Aragon, Majorca, Naples, and Valencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_2">
+			<Text>Early Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_3">
+			<Text>Henry fails at matchmaking</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_4">
+			<Text>Ferdinand and the fight for the Throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_5">
+			<Text>1492</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_6">
+			<Text>No One Expects the Inquisition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_7">
+			<Text>The Later Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_8">
+			<Text>Legacy in History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_1">
+			<Text>Isabella I was the Queen of Castile and Leon for 30 years, and with her husband Ferdinand, laid the groundwork for the consolidation of Spain.  For her role in the Spanish unification, patronage of Columbus' voyages to America, and ending of the Reconquista (Recapturing) of the Iberian Peninsula, Isabella is regarded as one of the most beloved and important monarchs in Spanish history. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_2">
+			<Text>
+				Isabella was born on April 22, 1451 in Ávila to John II of Castile and Isabella of Portugal.  She had an older brother, Henry (her elder by 26 years), and later a younger brother Alfonso, who displaced her in the line of succession.  When her father died in 1454, Henry took the throne of Castile as King Henry IV, and Isabella and her family moved to Arévalo and lived in a destitute castle, where her mother slowly started to lose her sanity. It wasn't until years later, when Henry's wife gave birth, that Henry allowed his siblings to move back to the main court in Segovia.[NEWLINE][NEWLINE]Here Isabella was educated in all manners of queenly disciplines and her life improved considerably, but Henry did put one limiting condition on her - she was forbidden to leave Segovia without his permission.  Henry claimed this was to keep Isabella from the political turmoil brewing in the kingdom over his choice of heir (his new daughter Joanna), but it could have also been to restrict her access to the rebelling noblemen.[NEWLINE][NEWLINE]The nobles, however, had no problem speaking with her younger brother Alfonso, and he instigated the Second Battle of Olmedo in 1467, demanding that he be made Henry's heir.  As a compromise, Henry named Alfonso the Prince of Asturias, a title that would be given to the heir apparent of both Castile and Leon, and thought about marrying his daughter Joanna to Alfonso.  But Alfonso didn't have long to enjoy his new role; he soon died, probably a casualty of the plague.  Alfonso had named Isabella his successor in his will, and the title passed to her.[NEWLINE][NEWLINE]Rather than continue the rebellion against her older brother, Isabella met with Henry at Toros de Guisando and negotiated a permanent peace settlement. Henry would officially name Isabella as his heir, but she would not be allowed to marry without his consent.  However, Henry could also not force her to marry against her will.  Both parties pleased with their settlement, Henry began his search for a fitting husband for his younger sister.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_3">
+			<Text>
+				At this time, Isabella was betrothed to Ferdinand, son of John II of Aragon (and had been since the age of three), but Henry broke off this agreement.  Instead, he attempted to wed Isabella to Charles IV of Navarre, another of John's sons, but John refused the offer.[NEWLINE][NEWLINE]Soon after in 1464, Henry attempted to marry Isabella off to King Edward IV of England, but Edward also refused.  Many attempts were then made to wed the girl to Alfonso V of Portugal, but she refused him at the altar due to his old age.[NEWLINE][NEWLINE]The Castilian's personal soap opera continued with Isabella's betrothal to Pedro Giron, the brother of Henry's favorite Don.  Isabella prayed feverishly that the marriage be called off, as Don Pedro was 27years older than she.  Isabella fervently believed that God had answered her plea, as the Don died from a burst appendix on the way to greet his fiancée.[NEWLINE][NEWLINE]Next up in Henry's shrinking line of suitors was Louis XI's brother Charles, Duke of Berry.  At this point Isabella had had enough of Henry's thinly veiled attempts to remove her from the line of succession with a poor political marriage, and she began to negotiate with John II of Aragon in secret to once again secure a marriage to his son Ferdinand.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_4">
+			<Text>Although all parties were in favor of the marriage of Isabella and Ferdinand (except of course for Henry, who was still trying to woo France and Portugal), there was one small problem - the young couple were second cousins.  By church law, a Papal Bull was required for a wedding of closely related cousins, but the Pope was loathe to grant one from fear of retribution from Castile, Portugal, and France.[NEWLINE][NEWLINE]However, Isabella refused to marry without the dispensation, as she was by this point a very devout woman.  Ferdinand sought the help of Rodrigo Borgia in Rome (later Pope Alexander VI) and presented Isabella with a "Papal Bull" from Pius II.  The probable forgery was good enough for her and she quickly agreed to the marriage.  With the excuse of visiting her brother's tomb in Avila, Isabella managed to escape Henry's sight and Ferdinand slipped into Castile disguised as a merchant.  Isabella's rather Shakespearian journey ended on October 19, 1469 when she wedded Ferdinand in Valladolid.[NEWLINE][NEWLINE]Henry found out about the marriage rather quickly after this, and pleaded with the Pope to dissolve the marriage.  The new Pope, Sixtus IV, didn't have any of his predecessor's qualms about Castilian hostilities and instead gifted the wedded couple a real Papal Bull, thwarting Henry.[NEWLINE][NEWLINE]A few years later in 1474, Henry died and a succession war broke out across Castile.  Portugal supported Henry's daughter, Joanna, to take the throne, but Isabella had the support of Aragon (through Ferdinand) and later France.  The war dragged on for four years, but ultimately Sixtus IV again came to Isabella's rescue. The Pope annulled Joanna's marriage to Alfonso V of Portugal, ironically on the grounds of their close familial relationship.  Joanna was forced to renounce her titles of Princess and Queen of Castile, and the throne passed to Isabella on January 20, 1479.[NEWLINE][NEWLINE]The early years of Isabella's reign mostly involved solidifying her power base and continuing the Reconquista (Recapturing) of the Iberian Peninsula.  However, her reign became memorable, in the momentous year of 1492. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_5">
+			<Text>
+				Almost everything Isabella is known for in history took place in this year: the end of the Reconquista, the patronage of Christopher Columbus, and the intensification of the Inquisition.[NEWLINE][NEWLINE]Spanning seven centuries, a lengthy war known as the Reconquista was fought by the Iberian monarchs, who were attempting to regain control of the region and force the Muslims out.  For the last 200 of these years, the Emirate of Granada remained the final stronghold of the Muslim dynasties on the Iberian Peninsula. Isabella and Ferdinand continued the war and led a determined raid into the kingdom starting in 1482.  Isabella often took it upon herself to rally her soldiers by praying in the middle of the battlefield, and even built her stronghold outside the city of Granada in the shape of a cross, believing she was doing God's will.  Eventually Isabella's forces were victorious and she signed the Treaty of Granada, ending the Reconquista after 700 years of fighting.[NEWLINE][NEWLINE]Earlier in her reign, Isabella had been approached by a young explorer by the name of Christopher Columbus, who sought funding for a new expedition to reach the Indies by sailing west.  Her advisors judged his plan impractical and believed that his proposed distance to Asia was much too short to be possible.  However, instead of turning him out as Portugal had done, Isabella gave him a small annual allowance and free lodging in all her cities.  He continued to try and sell his plan to the monarchs, and they continued to decline.[NEWLINE][NEWLINE]Upon returning from Granada, Isabella was again approached by Christopher Columbus.  On the advice of her confessor, Isabella this time firmly turned him down.  As Columbus was leaving Córdoba in despair, Ferdinand quickly convinced Isabella to change her mind.  She sent a royal guard to fetch him and began to draw up plans for funding.  Columbus left on his fateful voyage on August 3, 1492, and landed in America on October 12. Isabella and Ferdinand's patronage of the intrepid explorer began Spain's Golden Age of exploration and colonization.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_6">
+			<Text>
+				The Tribunal of the Holy Office of the Inquisition in Spain (or more succinctly, the Spanish Inquisition) was established in 1478 by Isabella to maintain Catholic orthodoxy in Castile and Aragon, and to replace the Medieval Inquisition currently under Papal control.  However, in 1492, it took a turn for the worse.[NEWLINE][NEWLINE]A Dominican friar, Tomás de Torquemada became the first Inquisitor General and pushed the two monarchs to pursue a more active policy of religious unity.  While Isabella was loathe to take harsh measures against the Jews in her kingdom (for purely economic reasons), Torquemada was able to convince Ferdinand and through him, Isabella.  The Alhambra Decree was signed on March 31, 1492, calling for the forced expulsion of the Jews. About 200,000 Jews immediately left Spain while  some others converted, but this latter group fell under strict scrutiny of the Inquisition.[NEWLINE][NEWLINE]The Muslims in the Granada region, who had originally been granted religious freedoms, were pressured to convert.  After many Muslims revolted, a policy was enacted to force conversion or expulsion, much like with the Jews.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_7">
+			<Text>
+				Isabella continued to stabilize her growing empire throughout her reign, and worked to link her children with other European nations, hoping to avoid another succession war similar to her own.  She strived to finally unite the Iberian Peninsula under one crown. She married her eldest son to an Austrian Archduchess, establishing a link to the Habsburgs, and her eldest daughter to Manual I of Portugal. However, Isabella's plans were laid to waste when both children died soon after and the crown passed to her third daughter, Joanna the Mad. Joanna married Philip of Burgundy and became the last Trastámaran monarch.   After her, the crown passed to the Habsburgs.[NEWLINE][NEWLINE]Isabella died in 1504 and was entombed in the Royal Chapel of Granada.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_8">
+			<Text>Under Isabella, Spain was united, the Reconquista of the Iberian Peninsula concluded, and the power of the region centralized.  She also laid the groundwork for the most dominant military machine in the next century (The Armada), reformed the Spanish church, and led the Spanish expansions into the new American colonies.  Although many criticize her role in the Inquisition and in the persecution of Jews and Muslims, others are currently campaigning to have the late Queen canonized as a Saint in the Catholic Church.  Regardless of her questionable acts persecuting others' religious beliefs, Isabella remains one of the most influential and significant monarchs of Spain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_FACTOID_HEADING">
+			<Text>Isabella Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_FACTOID_TEXT">
+			<Text>Isabella was the first woman to be featured on a U.S. postage stamp, commemorated for her involvement with Christopher Columbus, as well as the first woman to appear on a U.S. coin. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_HEADING">
+			<Text>Tercio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_TEXT">
+			<Text>
+				The Tercio is a brilliant military innovation consisting of a mixed formation of pikemen and arquebusiers (soldiers armed with extremely primitive firearms), created in the early 16th century by the Spanish general Gonzalo Fernandez de Cordoba. The tercio (also known as the "Spanish square") was deployed in a checkerboard formation, with pikemen and arquebusiers set in alternating supporting blocks. The advantages of this arrangement are obvious: the arquebusiers can attack the enemy at distance, and the pikemen can take over in close combat. This formation would come to dominate Renaissance warfare for more than a century.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HEADING">
+			<Text>Conquistador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_TEXT">
+			<Text>
+				The Conquistadors were the Spanish soldiers and explorers who conquered so much of the New World in the 16th and 17th centuries. Having recently driven the Moors from Spain, the Conquistadors were seasoned veteran light cavalrymen. Their ability to traverse difficult terrain on horseback made them especially effective against the natives of the New World, who lacked horses altogether and were unable to outrun their terrifying opponents.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_HELP">
+			<Text>Dominant military Unit of the Renaissance Era. Only Spain may build it. This Unit has a higher [ICON_STRENGTH] Combat Strength than the Musketman which it replaces, as well as a Bonus vs Mounted promotion. However it is also more expensive to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_STRATEGY">
+			<Text>The Tercio is one of two Spanish Unique Units, replacing the Musketman. This Unit is stronger in combat than the Musketman and fights at a higher strength against mounted units. The Tercio is more expensive to build however.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HELP">
+			<Text>Medieval Era unit that specializes in scouting and colonizing overseas. Only Spain may build it. Replaces the Knight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
+			<Text>The Conquistador is a multi-purpose unit that is strong both on land and at sea. Replacing the Knight, it is an exceptional scout on land with extra visibility. It also has the ability to found new cities, but only on a foreign continent that does not contain the Spanish capital. In the water, the Conquistador has the defensive embarkation promotion that allows it to defend itself against naval units. It also suffers no penalty when attacking cities, unlike the Knight.</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>
