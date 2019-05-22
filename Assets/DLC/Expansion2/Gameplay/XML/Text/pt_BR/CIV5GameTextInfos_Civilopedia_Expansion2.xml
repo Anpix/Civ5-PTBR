@@ -2149,10 +2149,10 @@
 			<Text>Revolta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_COAST_HEADING3_BODY">
-			<Text>Hexes da costa são os hexágonos do oceano diretamente adjacentes à terra. Eles fornecem comida e ouro para uma cidade próxima. Se essa civilização tiver a tecnologia de Vela, haverá benefícios adicionais. Apenas unidades navais e unidades terrestres "embarcadas" podem entrar em hexágonos costeiros. Costa pode ser trabalhada sem Vela.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum</Text>
+			<Text>Hexágonos da costa são os hexágonos do oceano diretamente adjacentes à terra. Eles fornecem comida e ouro para uma cidade próxima. Se essa civilização tiver a tecnologia de Vela, haverá benefícios adicionais. Apenas unidades navais e unidades terrestres "embarcadas" podem entrar em hexágonos costeiros. Costa pode ser trabalhada sem Vela.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OCEAN_HEADING3_BODY">
-			<Text>Os hexágonos oceânicos são feitiços de águas profundas. Eles fornecem comida e ouro para uma cidade, uma vez que a cidade tem a tecnologia para acessá-los.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum.</Text>
+			<Text>Os hexágonos oceânicos são hexágonos de águas profundas. Eles fornecem comida e ouro para uma cidade, uma vez que a cidade tem a tecnologia para acessá-los.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LANDMARK_TEXT">
 			<Text>Um marco é qualquer artefato magnífico, estrutura, obra de arte ou maravilha da natureza que atrai os visitantes para um local. A Coluna de Nelson, em Londres, é um marco, assim como o Monte Rushmore, nos Estados Unidos. Nem todo objeto de tamanho significativo, no entanto, é um ponto de referência: a maior bola de barbante do mundo talvez nunca chegue a essa estatura (embora possa valer a pena uma visita). Marcos fornecem +1 [ICON_CULTURE] Cultura para cada Era adicional que passou em comparação com a Era original do Artefato.</Text>
