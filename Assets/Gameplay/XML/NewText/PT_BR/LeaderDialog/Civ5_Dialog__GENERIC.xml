@@ -464,7 +464,7 @@
 		  <Text>Não há dúvidas de que você gosta de conversar comigo, não é?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_GREETING_RESEARCH_AGREEMENT_1">
-		  <Text>Saudações. Como vai o nosso acordo de pesquisas?</Text>
+		  <Text>Saudações. Como vai o nosso Acordo de Pesquisa?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_GREETING_WORKING_AGAINST_1">
 		  <Text>{1_ThirdPlayerName:textkey} e os seus truques sujos são uma constante dor de cabeça. Você não acha?</Text>
@@ -701,7 +701,7 @@
 		  <Text>Qual o preço da paz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_PLAN_RESEARCH_AGREEMENT_1">
-		  <Text>Eu gostaria de planejar o estabelecimento de um Acordo de Pesquisas com a sua grande nação. Se assim o fizermos, teremos uma despesa de 150 de [ICON_OURO] para cada um de nós. O que você acha?[NEWLINE][NEWLINE](Aceitar não significa formar o Acordo de Pesquisas ainda.)</Text>
+		  <Text>Eu gostaria de planejar o estabelecimento de um Acordo de Pesquisa com a sua grande nação. Se assim o fizermos, teremos uma despesa de 150 de [ICON_OURO] para cada um de nós. O que você acha?[NEWLINE][NEWLINE](Aceitar não significa formar o Acordo de Pesquisa ainda.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_REPEAT_NO_1">
 		  <Text>Nós já conversamos sobre isso antes. A resposta continua a ser "não".</Text>
@@ -728,7 +728,7 @@
 		  <Text>Sua grande força é um modelo para todos os impérios. Peço-lhe que mostre generosidade para com os menos afortunados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RESEARCH_AGREEMENT_OFFER_1">
-		  <Text>Acredito que um Acordo de Pesquisas seria mutuamente benéfico e nos ajudaria a construir nossa amizade.</Text>
+		  <Text>Acredito que um Acordo de Pesquisa seria mutuamente benéfico e nos ajudaria a construir nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_RETURNED_CIVILIAN_1">
 		  <Text>Por libertar esses prisioneiros, você tem a minha gratidão.</Text>
