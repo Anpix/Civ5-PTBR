@@ -4,7 +4,7 @@
     <Language_pt_BR>
         <!--VENICE -->
         <Row Tag="TXT_KEY_CITY_NAME_VENICE">
-            <Text>Venice</Text>
+            <Text>Veneza</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -334,7 +334,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_BRASILIA">
-            <Text>Brasilia</Text>
+            <Text>Brasília</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
@@ -389,7 +389,7 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SAO_LUIS">
-            <Text>Sao Luis</Text>
+            <Text>São Luis</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
