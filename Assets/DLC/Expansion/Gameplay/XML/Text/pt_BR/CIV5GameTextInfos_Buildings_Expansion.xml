@@ -80,8 +80,8 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE">
-			<Text>Guarda Policial|Guardas Policiais</Text>
-			<Gender>feminine|feminine</Gender>
+			<Text>Constabulário|Constabulários</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION">
