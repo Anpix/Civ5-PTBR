@@ -3,134 +3,116 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TITLE">
-			<Text>Inca</Text>
+			<Text>Incas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_2">
-			<Text>Geography and Climate</Text>
+			<Text>Geografia e Clima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_3">
-			<Text>Early History: The Kingdom of Cusco</Text>
+			<Text>Primeiros Anos: O Reino de Cusco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_4">
-			<Text>Continued Expansion</Text>
+			<Text>Expansão Continuada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_5">
-			<Text>The White Man Cometh</Text>
+			<Text>O Homem Branco Chega</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_6">
-			<Text>The End of an Empire</Text>
+			<Text>O Fim de um Império</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_STATBOX">
-			<Text>[NEWLINE]        Leader: Pachacuti[NEWLINE]        Unique Unit: Slinger[NEWLINE]        Unique Improvement: Terrace Farm[NEWLINE][NEWLINE]</Text>
+			<Text>[NEWLINE]        Líder: Pachacuti[NEWLINE]        Unidade Exclusiva: {TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER}[NEWLINE]        Melhoria Exclusiva: {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM}[NEWLINE][NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_1">
-			<Text>The largest Pre-Columbian empire in the Americas, the Incan Empire stretched from Peru to Chile along the Andes Mountains.  This grand empire had humble beginnings in one small kingdom, but grew to dominate the whole of "civilized" South America.  While the empire only lasted for one brief century, it did much to unify the people and culture of the different tribes living on the mountain tops.  Despite the Inca's near and complete annihilation, many artifacts and physical structures still stand, such as the famed Machu Picchu, a testament of the power once wielded by the Incan kings. </Text>
+			<Text>O maior Império pré-colombiano nas Américas, o Império Inca se alastrava desde o Peru até o Chile, ao longo da Cordilheira dos Andes. Este grande império teve um início humilde em um pequeno reino, mas cresceu para dominar toda a América do Sul "civilizada". Embora o império tenha durado apenas um breve século, ele fez muito para unificar o povo e a cultura de diferentes tribos que viviam no topo das montanhas. Não obstante a aniquilação quase completa dos Incas, muitos artefatos e estruturas físicas permanecem em pé, como a famosa Machu Picchu, um testamento do poder uma vez exercido pelos reis Incas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_2">
-			<Text>
-				The empire was centered along the Andean mountain ranges, and encompassed areas which include parts of present-day Argentina, Ecuador, Peru, Chile, Bolivia, and Colombia.  The climate and geography were mountainous, but early on the Incas perfected the art of terrace farming and easily lived among the ridges.  Fertile valleys nestled between the mountain peaks gave the Incas plenty of spaces to live and grow.
-			</Text>
+			<Text>O Império era centralizado ao longo das Cordilheiras dos Andes e abrangia áreas que hoje pertencem à Argentina, Equador, Peru, Chile, Bolívia e Colômbia. O clima e geografia eram montanhosos, mas desde o início os Incas aperfeiçoaram a arte de cultivar em terraços e viveram facilmente nas encostas. Vales férteis abrigavam-se entre os picos das montanhas, dando aos Incas muitos espaços para viverem e crescerem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_3">
-			<Text>
-				Before it was a mighty empire, the Incas hailed from the small Kingdom of Cusco, situated in western Peru.  Under the leadership of Pachacuti, the ninth Sapa Inca, Cusco embarked upon a campaign to subjugate the surrounding tribes under one banner. Using both military conquests and peaceful assimilations, Pachacuti and his son Tupac laid the foundation for the Tahuantinsuyu Empire.  The appellation was a literal naming of the empire, signifying its creation from four separate provinces - Chinchasuyu in the northwest, Antisuyu in the northeast, Contisuyu to the southwest, and Collasuyu to the southeast.[NEWLINE][NEWLINE]Pachacuti set up a new system of government in order to keep his acquisitions in order. Children of the ruling families were made to relocate to Cusco (the capital) and learn from the Incas directly, becoming indoctrinated into their culture and way of life.  Once they were older, the children were returned to their original provinces in the empire, helping to spread the Incan culture.
-			</Text>
+			<Text>Antes de formarem um poderoso império, os Incas surgiram do pequeno reino de Cusco, situado a Oeste do Peru. Sob a liderança de Pachacuti, o nono Sapa Inca, Cusco embarcou em uma campanha para subjugar as tribos vizinhas sob uma única bandeira. Usando tanto vitórias militares quanto táticas pacíficas de assimilação, Pachacuti e seu filho Tupac lançaram as fundações para o Império Tahuantinsuyu. O título era um nome literal do império, significando sua criação a partir de quatro províncias separadas - Chinchasuyu, no noroeste, Antisuyu, no nordeste, Contisuyu, no sudoeste e Collasuyu, no sudeste.[NEWLINE][NEWLINE]Pachacuti implantou um novo sistema de governo para manter suas conquistas em ordem. Crianças das famílias governantes eram enviadas para Cusco (a capital) e aprendiam diretamente dos Incas, tornando-se doutrinadas em sua cultura e modo de vida. Assim que se ficavam adultas, elas voltavam às suas províncias originais para ajudar a disseminar a cultura Inca.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_4">
-			<Text>After Pachacuti's death in 1471, his son Tupac Inca Yupanqui began new conquests in the north. At this point in time, the Incas only had one main rival left along the western shores, the Chimor tribe.  Tupac quickly dispatched them and added their holdings to the growing empire.[NEWLINE][NEWLINE]Tupac's son Huayna Capac later added a few additional pieces of present-day Ecuador to the empire, but his southern expansion was halted at the Battle of the Maule.  There the Mapuche tribes stopped the Incas in their tracks. This wasn't a complete loss for the Incas since most of the land in this area of the empire was predominately desert wasteland, and the majority of the population remained in the Andes.</Text>
+			<Text>Após a morte de Pachacuti em 1471, seu filho Tupac Inca Yupanqui iniciou novas conquistas ao norte. Neste período, os Incas tinham apenas um rival restante ao longo da costa oeste, a tribo Chimor. Tupac rapidamente os expulsou e adicionou suas posses ao crescente Império.[NEWLINE][NEWLINE]O filho de Tupac Huayna Capac adicionou posteriormente algumas porções adicionais do atual Equador ao império, mas sua expansão rumo ao sul foi impedida na Batalha do Maule. Lá as tribos Mapuche pararam os Incas em suas trilhas. Isso não foi uma perda completa para os Incas, já que a maioria das terras daquela região era predominantemente desértica e grande parte da população permanecia nos Andes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_5">
-			<Text>In 1526, the Inca's domination of the land began its downward spiral.  Spanish conquistador Francisco Pizarro reached the Incan territory as he explored south from Panama, and immediately petitioned the crown for permission to invade - he believed fervently that the land was ripe with treasure.[NEWLINE][NEWLINE]He returned with a small force in 1532 to find the empire ready for the taking.  Huayna's two sons, Huascar and Atahualpa, were engaged in a civil war over control of the territories, and the introduction of smallpox had wreaked considerable havoc among its populace.  Pizarro's force (168 men, 1 cannon, and 27 horses) were no match for the Inca in numbers, but their superior technology and military tactics saw them through in the end.[NEWLINE][NEWLINE]Pizarro's first battle, the Battle of Puná, occurred later that year near present-day Guayaquil, Ecuador, which he handily won.  One of his men, Hernando de Soto, was sent further inland to explore as Pizarro founded a new city in the area, Piura. De Soto encountered the triumphant Atahualpa and returned to Pizarro with an invitation to meet. The Spaniards demanded that the Incas accept Charles I of Spain as their emperor and convert immediately to Christianity.  Perhaps due to a language barrier or poor communication skills in general, Atahualpa didn't fully grasp the exact message of the meeting and sent further communications demanding more explanation.  Frustrated and annoyed, instead of finding a better translator the Spanish attacked Atahualpa's camp and took the leader as hostage.[NEWLINE][NEWLINE]The Incan King offered Pizarro a massive amount of gold and silver for his release, which he promptly accepted. Pizarro however didn't keep his end of the bargain and refused to release Atahualpa to the Incas.  During this time, Huascar was assassinated and Pizarro used this to his advantage - claiming that Atahualpa was behind the dirty deed.  At a shady trial run by the Spanish, Atahualpa was sentenced to death in August 1533.</Text>
+			<Text>Em 1526, o domínio territorial dos Incas começou sua espiral descendente. O conquistador espanhol Francisco Pizarro chegou ao território Inca quando explorava ao Sul do Panamá e imediatamente peticionou à Coroa permissão para invadi-lo - ele acreditava fervorosamente que aquelas terras estavam cheias de tesouros.[NEWLINE][NEWLINE]Ele retornou com uma pequena força militar em 1532 para encontrar o Império pronto para a tomada. Os dois filhos de Huayna, Huascar e Atahualpa, estavam engajados em uma guerra civil pelo controle dos territórios e a introdução da varíola causou estrago considerável entre a população. As forças de Pizarro (168 homens, 1 canhão e 27 cavalos) não eram páreas para os Incas em números, mas sua tecnologia superior e táticas militares às guiaram à conquista.[NEWLINE][NEWLINE]O primeiro enfrentamento de Pizarro, a Batalha de Puná, ocorreu ainda naquele ano próximo à atual Guaiaquil, Equador, onde ele venceu facilmente. Um dos seus homens, Fernando de Soto, foi enviado mais ao interior do território para explorá-lo, já que Pizarro havia fundado uma nova cidade na área, Piura. De Soto encontrou o triunfante Atahualpa e retornou a Pizarro com um convite para uma reunião. Os espanhóis exigiram que os Incas aceitassem Carlos I da Espanha como seu Imperador e que se convertessem imediatamente ao Cristianismo. Talvez em razão da barreira do idioma ou fracas habilidades de comunicação em geral, Atahualpa não entendeu completamente a exata mensagem da reunião e enviou outra comunicação exigindo mais explicações. Frustrados e incomodados, ao invés de encontrar um tradutor melhor os Espanhóis atacaram o acampamento de Atahualpa e tomou o líder como refém.[NEWLINE][NEWLINE]O Rei Inca ofereceu a Pizarro uma massiva quantidade de ouro e prata por sua libertação, que foi prontamente aceita. Porém Pizarro não manteve sua parte no acordo e se recusou a libertar Atahualpa. Durante este tempo, Huascar foi assassinado e Pizarro usou isso como vantagem, alegando que Atahualpa estava por trás deste fato. Em um duvidoso julgamento feito pelos Espanhóis, Atahualpa foi sentenciado à morte em agosto de 1533.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_6">
-			<Text>With both Atahualpa and Huascar out of the picture, the Spanish placed their younger brother Manco in charge, who dutifully cooperated with them for the time being. Manco, once secure in his own power base, attempted to take back his empire with the capture of Cusco in 1536, but he was no match for the Spanish invaders. He and his court fled to the mountains of Peru, where they continued to rule for the next 36 years.  However, in 1572 the last Incan stronghold fell, and Manco's son and current king, Tupac Amaru was executed.[NEWLINE][NEWLINE]All the Incan royalty dead, the new Spanish rulers brutally oppressed the native people and attempted to strip them of their culture, religion, and traditions. Each Incan family was required to send a family member to work in the Spanish gold and silver mines, and replace them immediately upon the worker's death, which happened roughly every one to two years due to poor working conditions. Smallpox continued to spread rapidly through the remains of the empire, claiming somewhere between 60% and 90% of the population.  Typhus, influenza, diphtheria, and measles did the rest - by 1618 almost all traces of the Incan culture were lost. All that is left now of their once glorious civilization is a smattering of scattered tribes and stone outcroppings, relics of a distant past.</Text>
+			<Text>Com Atahualpa e Huascar fora do jogo, os Espanhóis colocaram o irmão mais novo deles, Manco, no comando, que obedientemente cooperou com eles a princípio. Manco, uma vez que se sentiu seguro em seu comando, tentou recuperar seu Império com a captura de Cusco em 1536, mas ele não era páreo para os invasores Espanhóis. Ele e sua corte fugiram para as montanhas do Peru, onde continuaram a governar pelos 36 anos seguintes. Porém, em 1572 a última fortaleza Inca caiu, e o filho de Manco e então rei Tupac Amaru, foi executado.[NEWLINE][NEWLINE]Com toda a realeza Inca morta, os novos governantes Espanhóis brutalmente oprimiram o povo nativo e tentaram separá-los de sua cultura, religião e tradições. A cada família Inca foi exigido enviar um membro para trabalhar nas minas espanholas de ouro e prata, tendo que substituí-lo imediatamente em caso de morte, o que acontecia a cada um ou dois anos devido às péssimas condições de trabalho. A varíola continuou a se espalhar rapidamente pelo restante do Império, arrebatando entre 60% e 90% da população.  Tifo, gripe, difteria e sarampo acabaram com o resto - em 1618, quase todos os traços da cultura Inca estavam perdidos. Tudo o que resta da então gloriosa civilização Inca são conhecimentos superficiais de tribos dispersas e monumentos de pedra, relíquias de um passado distante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_FACTOID_HEADING">
-			<Text>Incan Factoids</Text>
+			<Text>Fatos Curiosos Incas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_FACTOID_TEXT">
-			<Text>The Inca used a system of knotted and dyed strings to store accounting information.[NEWLINE][NEWLINE]The Incas believed the coca plant was both sacred and magical, and its leaves were used in numerous religious rituals.[NEWLINE][NEWLINE]The highest permanent Incan settlement found so far is located at roughly 17,400 ft above sea level. </Text>
+			<Text>Os Incas usavam um intrincado sistema de nós em cordas tingidas para guardar informações contábeis.[NEWLINE][NEWLINE]Os Incas acreditavam que a planta da coca era sagrada e mágica, e suas folhas eram utilizadas em vários rituais religiosos.[NEWLINE][NEWLINE]O mais alto assentamento Inca permanente já encontrado até agora está localizado a incríveis 5.300 metros acima do nível do mar. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_LIVED">
-			<Text>c.1410 - 1471 AD</Text>
+			<Text>1410 - 1471 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_NAME">
 			<Text>Pachacuti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_SUBTITLE">
-			<Text>Leader of Inca</Text>
+			<Text>Líder dos Incas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TITLES_1">
 			<Text>Sapa Inca</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_2">
-			<Text>Ascension to the Throne</Text>
+			<Text>Ascensão ao Trono</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_3">
-			<Text>Creation of an Empire</Text>
+			<Text>Criação de um Império</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_4">
-			<Text>Judgement of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_1">
-			<Text>Pachacuti was the ninth ruler of the Kingdom of Cusco, who during his reign expanded the tiny kingdom into an expansive empire - Tawantinsuyu. Pachacuti's Incan Empire stretched from modern-day Chile to Ecuador, including most of Peru, Bolivia, and northern Argentina, and laid the foundation for an even larger Incan Empire to come. </Text>
+			<Text>Pachacuti foi o nono governante de Cusco, que durante seu reinado expandiu o pequeno reino em um extenso Império - Tawantinsuyu. O Império Inca de Pachacuti se estendeu desde o atual Chile até o Equador, incluindo grande parte do Peru, Bolívia e norte da Argentina, e deixou as fundações para um Império Inca ainda maior que estava por vir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_2">
-			<Text>
-				Pachacuti was the son of the Inca Virococha, second in line for the throne after his older brother Urco.  The Kingdom of Cusco, at this point, was rather small and continuously threatened by the neighboring Chancas tribe. Not much is known of Pachacuti's early life, that is until he got a chance to impress his father during one of the Chancas' invasions. While his father and brother fled the battlefield, Pachacuti rallied the remaining army and not only won the day, but squashed the Chancas so thoroughly that stories were told of how the very earth itself rose up to fight for him. Pachacuti, "The Earth Shaker", was named the new crown prince and even joint ruler of Cusco.
-			</Text>
+			<Text>Pachacuti foi o filho do Inca Virococha, segundo na linha de sucessão após seu irmão mais velho Urco. O Reino de Cusco, neste período, era bem pequeno e continuamente ameaçado pela tribo vizinha dos Chancas. Pouco se sabe dos primeiros anos de Pachacuti, até que ele teve a chance de impressionar seu pai durante uma das invasões dos Chancas. Enquanto seu pai e irmão fugiam do campo de batalha, Pachacuti reagrupou o restante do exército e não só ganhou o dia como esmagou os Chancas tão completamente que histórias eram contadas sobre como a própria Terra se levantou e lutou por ele. Pachacuti, "O que Move a Terra", foi nomeado o novo príncipe coroado e co-governante de Cusco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_3">
-			<Text>
-				In 1438, Pachacuti became the sole ruler of the kingdom when his father died, and he launched an almost immediate series of successful invasions into the neighboring kingdoms.  His new empire stretched from Ecuador to Chile and became one of the most formidable kingdoms in South America.[NEWLINE][NEWLINE]While many kingdoms were gained through conquest, Pachacuti also employed a more devious tactic to acquire new regions. First he would send spies out to areas which interested him, gaining intelligence on wealth and military might.  If intrigued, he would invite the leaders of these lands to submit peacefully, extolling the virtues of living under Incan rule.  Many accepted (not wanting to repeat the fate of the Chancas) and sent their children to live in Cusco, where they were educated under Incan law. They were then indoctrinated and married into the Incan nobility before being sent back to rule their original lands, ensuring the expansion of and continued peace in the empire.[NEWLINE][NEWLINE]To keep his new land in order, he established four provinces, each controlled by a local governor who ran the day to day affairs. He also created a separate branch of power for both the priesthood and army, forming one of the first systems of checks and balances.  Cusco itself was rebuilt to serve as an Imperial Capital City, and each province had its own sector dedicated in the city.  During this time he also constructed the famed Machu Picchu, believed now to be a mountain estate built for his personal use.[NEWLINE][NEWLINE]After his death in 1471, Pachacuti's younger son Tupac became the next emperor of the Incan Empire, the elder Amaru passed over for not being a warrior like his father.
-			</Text>
+			<Text>Em 1438, Pachacuti se tornou o único governante do reino quando seu pai morreu, e quase imediatamente ele iniciou uma série de invasões bem sucedidas aos reinos vizinhos. Seu novo império se expandiu do Equador ao Chile e se tornou um dos mais formidáveis reinos na América do Sul.[NEWLINE][NEWLINE]Enquanto muitos domínios eram adquiridos pela conquista, Pachacuti também empregou táticas não muito éticas para conseguir novos territórios. Primeiro, ele enviava espiões às áreas lhe interessavam, ganhando conhecimento sobre o poderio militar e as riquezas. Se ficasse curioso, ele convidava os líderes das terras para se submeterem pacificamente, exaltando as virtudes de se viver sob o domínio Inca. Muitos aceitavam (talvez por não desejarem o mesmo destino dos Chancas) e enviavam suas crianças para viver em Cusco, onde eram educadas sob leis Incas. Eles eram então doutrinados e casados com a nobreza Inca antes de voltarem às suas terras originais, assegurando a expansão e continuidade da paz no Império.[NEWLINE][NEWLINE]Para manter suas novas terras em ordem, ele estabeleceu quatro províncias, cada uma controlada por um governante local que cuidava dos problemas cotidianos. Ele também criou ramos separados do poder para os religiosos e para os militares, formando um dos primeiros sistemas de freios e contrapesos. A própria Cusco foi reconstruída para servir como a Capital Imperial e cada província possuía seu próprio setor dedicado na cidade. Durante este tempo ele também construiu a famosa Machu Picchu, considerada hoje uma montanha construída para seu uso pessoal.[NEWLINE][NEWLINE]Após sua morte em 1471, o filho mais novo de Pachacuti, Tupac, se tornou o próximo Imperador Inca, superando o filho mais velho Amaru que não era um guerreiro como seu pai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_4">
-			<Text>Pachacuti is viewed in Peru as a national hero, and many of the monuments he constructed around the empire still stand.  While he was well known for his political and military abilities, he wasn't the most benevolent ruler.  To ensure the continuation of his empire, he displaced hundreds of thousands of people, relocating them about the empire as he saw fit.  Despite any faults, Pachacuti began the Incans largest era of conquest, expanding their empire until it dominated nearly all of the known, inhabited South America. </Text>
+			<Text>Pachacuti é visto no Peru como um herói nacional e muitos dos monumentos que ele construiu pelo Império ainda permanecem de pé. Apesar de ele ter sido muito conhecido por suas habilidades políticas e militares, ele não era um governante dos mais benevolentes. Para assegurar a continuidade do seu Império, ele desalojou centenas de milhares de pessoas, realocando-as no Império conforme achava necessário. A despeito de qualquer falha, Pachacuti começou a maior era de conquistas dos Incas, expandindo seu império até conquistar quase tudo território habitável conhecido América do Sul.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_FACTOID_HEADING">
-			<Text>Pachacuti Factoid</Text>
+			<Text>Fatos Curiosos sobre Pachacuti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_FACTOID_TEXT">
-			<Text>
-				During the 2000 Presidential elections of Peru, candidate Alejandro Toledo was nicknamed Pachacuti.[NEWLINE][NEWLINE]Pachacuti is sometimes referred to as the Napoleon of the Andes, a testament to his military prowess.[NEWLINE][NEWLINE]Pachacuti was a poet and author of the Sacred Hymns of the Situa.
-			</Text>
+			<Text>Durante a eleição presidencial de 2000 no Peru, o candidato Alejandro Toledo foi apelidado Pachacuti.[NEWLINE][NEWLINE]Às vezes Pachacuti é citado como o Napoleão dos Andes, um testamento das suas proezas militares.[NEWLINE][NEWLINE]Pachacuti foi um poeta e autor dos Hinos Sagrados de Situa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_HEADING">
-			<Text>Slinger</Text>
+			<Text>{TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_TEXT">
-			<Text>
-				The Inca warriors were renowned slingers. Their projectile of choice was a rounded stone. While a sling does not have the range or stopping power of a bow and arrow, slings are remarkably small and light weapons, and infantry warriors could easily carry them without becoming encumbered. And as is written in the Old Testament, a trained slinger can kill even the largest opponent with but a single stone...
-			</Text>
+			<Text>Os guerreiros Incas eram renomados {TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER[2]}. Seus projéteis preferidos eram pedras arredondadas. Apesar das fundas não possuírem um grande alcance ou o poder de um arco e flecha, fundas são armas notavelmente pequenas e leves, permitindo que a infantaria possa facilmente carregá-las sem se tornar sobrecarregada. E, como está escrito no Velho Testamento, um fundbulário bem treinado pode abater até mesmo o maior oponente apenas com uma única pedra...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_HELP">
-			<Text>
-				One of the first available ranged Units, this Incan Unique Unit replaces the Archer. The Slinger is no more powerful than the Archer, and is even more fragile if subjected to a melee attack. However it possesses a promotion that gives it a good chance to withdraw to the rear before an enemy melee attack can occur.
-			</Text>
+			<Text>Sendo uma das primeiras unidades de ataque à distância, esta unidade Inca exclusiva substitui o {TXT_KEY_UNIT_ARCHER}. O {TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER} não é mais poderoso que um {TXT_KEY_UNIT_ARCHER} e é até mais frágil se submetido a um ataque corpo-a-corpo. Entretanto ele possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque corpo-a-corpo inimigo possa ocorrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_STRATEGY">
-			<Text>
-				The Slinger is an Ancient Era ranged infantry Unit that can strike foes from afar. This Incan Unique Unit can withdraw before most melee attacks: use it to harass your foes. However the Slinger can be easily defeated if the enemy pins it against obstructions or chases it with fast units.
-			</Text>
+			<Text>O {TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER} é uma unidade de artilharia da Era Antiga que pode acertar alvos à distância. Esta unidade Inca exclusiva pode recuar ante a maioria dos ataques corpo-a-corpo: use isso para atormentar seus inimigos. Porém, o {TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER} pode ser facilmente derrotado se o inimigo o encurralar contra obstruções ou o perseguir com unidades rápidas.</Text>
 		</Row>
 
-        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_TERRACE_FARM_HELP">
-            <Text>The Terrace Farm can only be built on hills and does not need a source of fresh water to do so.  If built next to a mountain it will provide additional food.</Text>
-        </Row>
-        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_TERRACE_FARM_TEXT">
-			<Text>
-				Terrace Farming developed in mountainous areas simultaneously around the world, including Bali, the Philippines, China and Peru.  These skinny, stepped fields are cut into hill and mountain sides, preventing the run off of irrigation water and providing space for arable land, usually where none previously was possible. The Incas in particular were masters of terrace farming, and erected large, drystone walls to hold their terraces in place.  After building the terrace's shape, the Incas then constructed systems of canals and aqueducts to provide the terraces with constant water, increasing the land's fertility.  The ancient Incan's terracing techniques were so successful that modern Peruvian farmers still employ them in their farms today.
-			</Text>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_TERRACE_FARM_HELP">
+			<Text>A {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM} só pode ser construída em colinas e não precisa de uma fonte de água fresca. Se for construída próximo a uma montanha, ela fornecerá alimento adicional.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_TERRACE_FARM_TEXT">
+			<Text>A agricultura em terraços se desenvolveu em áreas montanhosas simultaneamente ao redor do mundo, incluindo Bali, Filipinas, China e Peru. Estes campos estreitos em forma de degraus são cortados nos lados das colinas e montanhas, impedindo que a água utilizada para irrigação escorra e fornecendo espaço para terras aráveis, onde antes era impossível conseguir isso. Os Incas em particular foram mestres na agricultura em terraços, construindo grandes muros de pedra para segurar seus terraços no lugar. Após construir os terraços, os Incas criavam sistemas de canais e aquedutos para fornecer às fazendas água corrente, aumentando a fertilidade da terra. As antigas técnicas Incas nesta área eram tão bem sucedidas que os fazendeiros Peruanos modernos ainda as empregam em suas terras hoje.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILD_TERRACE_FARM">
-			<Text>Construct a [LINK=IMPROVEMENT_TERRACE_FARM]Terrace Farm[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_TERRACE_FARM]{TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM}[\LINK]</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>
