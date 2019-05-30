@@ -278,16 +278,16 @@
 			<Text>The Panzer is the German unique unit, replacing the tank. It is both stronger and faster than the tank. It also can move after combat, allowing it to blow huge holes in enemy lines and then barrel through before the enemy can repair the gap. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANCER_STRATEGY">
-			<Text>The Lancer is the Renaissance horse unit that comes between the Knight and the Cavalry unit. It's faster and more powerful than the Knight, able to sweep those once-mighty units from the map. The Lancer can even take on the powerful Cavalry unit once it appears.</Text>
+			<Text>O {TXT_KEY_UNIT_LANCER} é a unidade montada da Renacença que fica entre o {TXT_KEY_UNIT_KNIGHT} e a {TXT_KEY_UNIT_CAVALRY}. É mais rápido e mais poderoso que o {TXT_KEY_UNIT_KNIGHT}, capaz de varrer aquelas antes poderosas unidades do mapa. O {TXT_KEY_UNIT_LANCER} pode até mesmo derrotar a poderosa {TXT_KEY_UNIT_CAVALRY} depois que ela aparece.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN_STRATEGY">
-			<Text>The Longswordsman is the standard medieval infantry combat unit. It is more powerful than the Knight, but much slower. It also outclasses the Pikeman, but doesn't receive that unit's bonus versus mounted units. Use Longswordsmen and Catapults to attack enemy cities.</Text>
+			<Text>The Longswordsman is the standard medieval infantry combat unit. It is more powerful than the {TXT_KEY_UNIT_KNIGHT}, but much slower. It also outclasses the {TXT_KEY_UNIT_PIKEMAN}, but doesn't receive that unit's bonus versus mounted units. Use Longswordsmen and Catapults to attack enemy cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR_STRATEGY">
 			<Text>Modern Armor is just like its predecessor, the Tank, only more-so. Modern Armor is much stronger than the Tank unit and possesses all the Tank's abilities, such as moving after combat.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>This is a Songhai unique unit, replacing the Knight. This unit has the same statistics as the Knight, but it is significantly better at attacking cities. The Mandekalu Cavalry can move after attacking. Its speed makes it difficult for an enemy to build a defensive line before the Mandekalu Cavalry reaches the target.</Text>
+			<Text>Essa é uma unidade exclusiva Songai, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor atacando cidades. O {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TANK_STRATEGY">
 			<Text>The Tank is an extremely powerful and mobile land unit. It can move after combat, allowing it to blow holes in enemy lines and then move into the now-vacant hexes.</Text>
@@ -622,7 +622,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Celeiro[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], o primeiro edifício do jogo que fornece [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Biga Arqueira[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
 			<Text>Permite aconstrução de vários edifícos que impulsionam a produção de [ICON_GOLD]Ouro, como o  [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
@@ -634,10 +634,10 @@
 			<Text>Permite a construção de úteis edifícios especializados e Maravilhas que melhoram a produção de [ICON_PEACE]Fé e possibilitam a criação de novas [ICON_GREAT_PEOPLE]Grandes Pessoas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade de montaria rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_KNIGHT}[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Longswordsman[ENDCOLOR], uma unidade medieval de ataque corpo-a-corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo-a-corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
@@ -649,10 +649,10 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD]Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção dos recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades de montaria, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades montadas, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_HELP">
-			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Cavalaria[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CAVALRY}[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
 			<Text>Revela o [ICON_RES_ALUMINUM]Alumínio, um recurso utilizado por muitas unidades da fase avançada do jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro, da [COLOR_POSITIVE_TEXT]Usina Hidrelétrica[ENDCOLOR], que aumenta a [ICON_PRODUCTION]Produção de hexágonos próximos a um Rio, e do [COLOR_POSITIVE_TEXT]Distrito Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
@@ -802,7 +802,7 @@
 			<Text>In general, desert hexes are remarkably unuseful. They provide no benefits to cities (unless the desert contains an oasis or resource, of course, or if it has access to fresh water).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
-			<Text>The Cavalry mounted units are devastating against melee, ranged and siege weapons. Use them to destroy Musketmen and then break through the enemy's lines with their ability to move after attacking.</Text>
+			<Text>As unidades montadas {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades corpo-a-corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
 			<Text>Mountains are impassable, except to air units, and Carthaginian units (after earning a Great General). They provide nothing to cities.</Text>

@@ -133,8 +133,9 @@
             <Gender>feminine</Gender>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_DESC">
-            <Text>Estábulo Ducal</Text>
+            <Text>Estábulo Ducal|Estábulos Ducais</Text>
             <Gender>masculine</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC">
             <Text>Biblioteca Real|Bibliotecas Reais</Text>

@@ -6,7 +6,7 @@
       <Text>Terror Mongol</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_TERROR">
-      <Text>+30% de [ICON_STRENGTH]Força de Combate quando luta contra unidades de Cidades-Estado ou contra elas próprias. Todas as unidades de montaria possuem +1 de [ICON_MOVES]Movimento.</Text>
+      <Text>+30% de [ICON_STRENGTH]Força de Combate quando luta contra unidades de Cidades-Estado ou contra elas próprias. Todas as unidades montadas possuem +1 de [ICON_MOVES]Movimento.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_MONGOLIA_TITLE">
       <Text>Mongólia</Text>

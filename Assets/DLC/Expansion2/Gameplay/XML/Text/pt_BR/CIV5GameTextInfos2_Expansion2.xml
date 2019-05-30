@@ -177,7 +177,7 @@
 			<Text>Excelente na exploração e temível em combate, esta unidade única Shoshone substitui o {TXT_KEY_UNIT_SCOUT}. Ela possui uma promoção que a permite escolher o benefício quando descobre uma ruína antiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_COMANCHE_RIDERS">
-			<Text>Unidade de montaria especializada em ataques rápidos. Só pode ser treinada pelos Shoshones.</Text>
+			<Text>Unidade montada especializada em ataques rápidos. Só pode ser treinada pelos Shoshones.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDONESIAN_KRIS_SWORDSMAN">
 			<Text>Unidade de ataque corpo-a-corpo da Era Clássica que possui uma arma mística, cujas habilidades serão descobertas na primeira vez que for usada em combate. Só pode ser treinada pela Indonésia.</Text>
@@ -192,7 +192,7 @@
 			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de {TXT_KEY_UNIT_WORKER} que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD]Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ZULU_IMPI">
-			<Text>Especializados em derrotar {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades de montaria. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
+			<Text>Especializados em derrotar {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ASSYRIAN_SIEGE_TOWER">
 			<Text>Unidade poderosa de cerco corpo-a-corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
@@ -201,7 +201,7 @@
 			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE]Era Dourada quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WINGED_HUSSAR">
-			<Text>Pesada unidade de montaria, especializada em derrotar outras unidades de montaria inimigas. Esta unidade é mais rápida e mais poderosa que o {TXT_KEY_UNIT_LANCER}, a qual substitui. Ela força os defensores a recuarem quando ela causa um dano maior do que o dano que recebe. Só pode ser treinada pelos Poloneses.</Text>
+			<Text>Pesada unidade montada, especializada em derrotar outras unidades montadas inimigas. Esta unidade é mais rápida e mais poderosa que o {TXT_KEY_UNIT_LANCER}, a qual substitui. Ela força os defensores a recuarem quando ela causa um dano maior do que o dano que recebe. Só pode ser treinada pelos Poloneses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU">
 			<Text>Unidade naval de combate corpo-a-corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES]Movimento que a {TXT_KEY_UNIT_CARAVEL}, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD]Ouro e XP. Só pode ser construída pelos Portugueses.</Text>
@@ -213,7 +213,7 @@
 			<Text>O {TXT_KEY_UNIT_PARATROOPER} é uma unidade de infantaria da etapa final do jogo. É de certa forma mais fraca que uma {TXT_KEY_UNIT_MECHANIZED_INFANTRY}, entretanto, ela pode saltar e aterrissar em até 9 hexágonos adiante (quando partir de um território amigo). Isso permite aos {TXT_KEY_UNIT_PARATROOPER[2]} pular literalmente as posições inimigas e destruir redes de estradas, saquear recursos vitais etc., devastando o território atrás das linhas deles. O {TXT_KEY_UNIT_PARATROOPER} fica em grande risco nesses tipos de missões, então se certifique de que o alvo valha a pena!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BERBER_CAVALRY">
-			<Text>Unidade de montaria especializada em guerrear no deserto e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no deserto ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
+			<Text>Unidade montada especializada em guerrear no deserto e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no deserto ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARGO_SHIP">
 			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD]Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
@@ -593,7 +593,7 @@
 			<Text>Rotas comerciais terrestres originárias desta cidade possuem um aumento de 50% no alcance e produzem um adicional de 2 de [ICON_GOLD]Ouro quando conectadas a outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_HELP">
-			<Text>Substituto Polonês único para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de XP para Unidades de Montaria.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
+			<Text>Substituto Polonês único para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de XP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
 			<Text>Cada fonte de [ICON_RES_WHEAT]Trigo, [ICON_RES_BANANA]Bananas e [ICON_RES_DEER]Cervos explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]Permite que [ICON_FOOD]Alimento seja movido desta cidade para outros locais de sua civilização, via rotas comerciais.</Text>

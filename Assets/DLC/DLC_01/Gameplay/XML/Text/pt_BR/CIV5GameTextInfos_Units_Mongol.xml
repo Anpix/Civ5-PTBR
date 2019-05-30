@@ -7,10 +7,14 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_MONGOL_KESHIK">
-			<Text>Keshik</Text>
+			<Text>Keshik|Keshiks</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MONGOL_KHAN">
-			<Text>Khan</Text>
+			<Text>Khan|Khans</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GENGHIS">
 			<Text>Genghis</Text>

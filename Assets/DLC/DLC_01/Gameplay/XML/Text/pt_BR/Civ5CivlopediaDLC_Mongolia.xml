@@ -38,7 +38,7 @@
 			<Text>O presente e o futuro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_STATBOX">
-			<Text>[NEWLINE]        Líder: GENGHIS[NEWLINE]        Unidade Exclusiva: Keshik[NEWLINE]        Unidade Exclusiva: Khan[NEWLINE][NEWLINE]</Text>
+			<Text>[NEWLINE]        Líder: Genghis[NEWLINE]        Unidade Exclusiva: {TXT_KEY_UNIT_MONGOL_KESHIK}[NEWLINE]        Unidade Exclusiva: {TXT_KEY_UNIT_MONGOL_KHAN}[NEWLINE][NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_TEXT_1">
 			<Text>O Império Mongol foi o maior império contíguo da história, abrangendo desde o Danúbio até o Mar do Japão e desde a Sibéria até o Camboja - aproximadamente 22% do território terrestre. Do seu humilde início como tribos nômades desordenadas, os Mongóis mudaram a face do mundo antigo e se tornaram uma das forças mais efetivas e temidas que já andaram sobre a terra.</Text>
@@ -77,10 +77,10 @@
 			<Text>O sistema de mensagens do Império Mongol formou a base da famosa Pony Express.[NEWLINE][NEWLINE]O conhecimento europeu do mundo deve-se, em muito, as rotas comerciais mantidas pelo Império Mongol.  </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_HEADING">
-			<Text>Keshik Mongol</Text>
+			<Text>{TXT_KEY_UNIT_MONGOL_KESHIK} Mongol</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_TEXT">
-			<Text>No século XII, os Mongóis estavam fervendo na Ásia Central, conquistando a maioria do continente, Europa Oriental e uma grande porção do Oriente Médio em um século. A principal arma dos Mongóis era seus incomparáveis arqueiros montados, os Keshiks. Os Mongóis eram tribos nômades e suas crianças eram praticamente "criadas sobre a sela". Cavalgando em seus pequenos e fortes pôneis, os protegidos e armados mongóis podiam cobrir um enorme espaço de terras em um dia, ultrapassando em muito a capacidade de patrulhamento de infantarias e cavalarias pesadas da Europa.[NEWLINE][NEWLINE]Em batalha, os Keshiks Mongóis atiravam da montaria com precisão mortal, desorganizando e desmoralizando as formações inimigas. Assim que o oponente estava adequadamente enfraquecido, as unidades de cavalaria pesada mongóis se encarregavam de dar o golpe de misericórdia. Quando enfrentavam Cavaleiros europeus com armaduras, os Mongóis simplesmente atiravam em seus cavalos e, então, ignoravam ou destruíam o inimigo desmontado quando queriam.</Text>
+			<Text>No século XII, os Mongóis estavam fervendo na Ásia Central, conquistando a maioria do continente, Europa Oriental e uma grande porção do Oriente Médio em um século. A principal arma dos Mongóis era seus incomparáveis arqueiros montados, os {TXT_KEY_UNIT_MONGOL_KESHIK[2]}. Os Mongóis eram tribos nômades e suas crianças eram praticamente "criadas sobre a sela". Cavalgando em seus pequenos e fortes pôneis, os protegidos e armados mongóis podiam cobrir um enorme espaço de terras em um dia, ultrapassando em muito a capacidade de patrulhamento de infantarias e cavalarias pesadas da Europa.[NEWLINE][NEWLINE]Em batalha, os {TXT_KEY_UNIT_MONGOL_KESHIK[2]} Mongóis atiravam da montaria com precisão mortal, desorganizando e desmoralizando as formações inimigas. Assim que o oponente estava adequadamente enfraquecido, as unidades de cavalaria pesada mongóis se encarregavam de dar o golpe de misericórdia. Quando enfrentavam {TXT_KEY_UNIT_KNIGHT[2]} europeus com armaduras, os Mongóis simplesmente atiravam em seus cavalos e, então, ignoravam ou destruíam o inimigo desmontado quando queriam.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_HEADING">
 			<Text>Khan Mongol</Text>
@@ -149,22 +149,22 @@
 			<Text>Descobertas recentes em mapeamento genealógico sugerem que cerca de 8% dos homens na Ásia (cerca de 0.5% do mundo) podem ser rastreados diretamente até Genghis Khan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_HELP">
-			<Text>Esta unidade Mongol exclusiva substitui o Cavaleiro padrão. Ela possui um forte ataque a distância, mais pontos de movimento e recebe promoções 50% mais rápido. Suas batalhas contribuem com o dobro de pontos para a geração de um Grande General.</Text>
+			<Text>Esta unidade Mongol exclusiva substitui o {TXT_KEY_UNIT_KNIGHT} padrão. Ela possui um forte ataque a distância, mais pontos de movimento e recebe promoções 50% mais rápido. Suas batalhas contribuem com o dobro de pontos para a geração de um Grande General.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_INFO">
-			<Text>O Keshik é uma unidade exclusiva Mongol, disponível na Era Medieval. Este substituto para o Cavaleiro padrão possui mais pontos de movimento, recebe promoções no dobro da velocidade e contribui em dobro para a geração de Grandes Generais. O Keshik também pode atacar inimigos de longe, utilizando seu poderoso ataque a distância.</Text>
+			<Text>O {TXT_KEY_UNIT_MONGOL_KESHIK} é uma unidade exclusiva Mongol, disponível na Era Medieval. Este substituto para o {TXT_KEY_UNIT_KNIGHT} padrão possui mais pontos de movimento, recebe promoções no dobro da velocidade e contribui em dobro para a geração de Grandes Generais. O {TXT_KEY_UNIT_MONGOL_KESHIK} também pode atacar inimigos de longe, utilizando seu poderoso ataque a distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KESHIK_STRATEGY">
-			<Text>O Keshik é a substituição exclusiva para o Cavaleiro, disponível aos Mongóis no início da Era Medieval. O Keshik possui um poderoso ataque a distância e mais pontos de movimento (5 no total), permitindo que ele possa atacar e se proteger de forma muito mais eficaz. Se isso não fosse suficiente, o Keshik também recebe promoções no dobro da velocidade, se comparado com outras unidades, além de contribuir com o dobro de quantidade de pontos necessários para a geração de Grandes Generais. Esses guerreiros montados garantem a Genghis o controle de planícies abertas.</Text>
+			<Text>O {TXT_KEY_UNIT_MONGOL_KESHIK} é a substituta exclusiva para o {TXT_KEY_UNIT_KNIGHT}, disponível aos Mongóis no início da Era Medieval. O {TXT_KEY_UNIT_MONGOL_KESHIK} possui um poderoso ataque a distância e mais pontos de movimento (5 no total), permitindo que ele possa atacar e se proteger de forma muito mais eficaz. Se isso não fosse suficiente, o {TXT_KEY_UNIT_MONGOL_KESHIK} também recebe promoções no dobro da velocidade, se comparado com outras unidades, além de contribuir com o dobro de quantidade de pontos necessários para a geração de Grandes Generais. Esses guerreiros montados garantem a Genghis o controle de planícies abertas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_HELP">
 			<Text>Esta Grande Pessoa Mongol exclusiva substitui o Grande General. Apesar de fornecer os mesmos bônus de combate que um Grande General comum, o Khan se move mais e pode curar unidades adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_INFO">
-			<Text>O Khan é a Grande Pessoa exclusiva disponível aos Mongóis, fornecendo maior poder de cura às unidades próximas. Para poder acompanhar as unidades montadas Mongóis, Khans também possuem um número maior de pontos de movimento.</Text>
+			<Text>O {TXT_KEY_UNIT_MONGOL_KHAN} é a Grande Pessoa exclusiva disponível aos Mongóis, fornecendo maior poder de cura às unidades próximas. Para poder acompanhar as unidades montadas Mongóis, {TXT_KEY_UNIT_MONGOL_KHAN[2]} também possuem um número maior de pontos de movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_STRATEGY">
-			<Text>O Khan é a Grande Pessoa exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o Khan se move na mesma taxa que o Keshik (5 pontos por turno) e pode curar unidades adjacentes (2HP extra por turno). Este musculoso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
+			<Text>O {TXT_KEY_UNIT_MONGOL_KHAN} é a Grande Pessoa exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o {TXT_KEY_UNIT_MONGOL_KHAN} se move na mesma taxa que o {TXT_KEY_UNIT_MONGOL_KESHIK} (5 pontos por turno) e pode curar unidades adjacentes (2HP extra por turno). Este vigoroso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

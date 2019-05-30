@@ -291,8 +291,8 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE">
-			<Text>Haras|Haras</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Estábulo|Estábulos</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STATUE_OF_LIBERTY">

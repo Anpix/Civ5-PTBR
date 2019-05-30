@@ -31,7 +31,7 @@
             <Text>A mais forte unidade de combate na Polinésia (antes da chegada da arma de fogo).</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_STRATEGY">
-            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo-a-corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_LANCER[2]} com razoável facilidade.</Text>
+            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo-a-corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_HELP_TRIREME">
             <Text>Unidade naval da Era Medieval, usada para arrebatar o controle dos mares.</Text>

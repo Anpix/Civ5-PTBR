@@ -37,7 +37,7 @@
             <Text>Hmph. Você vencer apenas uma batalha, não a guerra. Eu agora estou ciente das suas intenções e estarei mais bem preparado na próxima vez.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_2">
-            <Text>Desfrute sua vitória enquanto pode, pois ela não durará. Os Hakapeliitas cavalgarão novamente.</Text>
+            <Text>Desfrute sua vitória enquanto pode, pois ela não durará. Os {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} cavalgarão novamente.</Text>
         </Row>
         <!--Defeated and removed from game -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1">
@@ -269,7 +269,7 @@
             <Text>Eu sou o Rei da Suécia! E neste dia eu selo com o seu sangue as injustiças do seu arruinado e abatido povo. O seu fim está chegando.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_2">
-            <Text>Veja! Os Hakapeliita cavalgarão mais uma vez - seus homens tremerão ao primeiro sinal da minha cavalaria. Que Deus esteja conosco!</Text>
+            <Text>Veja! Os {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} cavalgarão mais uma vez - seus homens tremerão ao primeiro sinal da minha cavalaria. Que Deus esteja conosco!</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_3">
             <Text>Com Deus e armas vitoriosas, arrancarei o seu fedor dessa terra. Saiba que o Leão do Norte está vindo por você agora.</Text>

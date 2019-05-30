@@ -37,7 +37,7 @@
 			<Text>Em sua mais básica forma, o Imperialismo descreve uma relação desigual entre duas nações, onde uma possui algum controle sobre a outra - normalmente na forma de algum tipo de império. As dinastias imperialistas podem ser encontradas em todas as histórias do mundo, da China e Roma a Grã-Bretanha, e o imperialismo é um conceito que existe por milhares de anos, em geral desde que existe o conceito de governo. O termo "imperialismo", porém, só foi cunhado no século XVI, quando foi utilizado para designar as políticas estrangeiras e procedimentos de nações como a Espanha, Bretanha, Bélgica e Holanda, já que elas rapidamente construíram laços imperiais com as Américas.[NEWLINE][NEWLINE]Embora o Imperialismo seja tradicionalmente ligado com grandes impérios militares, ela pode ser visto de uma maneira bem mais sutil. O controle formar de um governo estatal mais fraco nem sempre é necessário e uma civilização mais forte, às vezes, controlará o mais fraco indiretamente, por meio de expedientes econômicos, políticos ou religiosos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Conquistador[ENDCOLOR], uma unidade especialista em exploração e criação de cidades além-mar.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPANISH_CONQUISTADOR}[ENDCOLOR], uma unidade especialista em exploração e criação de cidades além-mar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Imperialismo é uma fanfarrice."[NEWLINE][TAB][TAB] - Mao Zedong[NEWLINE][TAB]</Text>
@@ -55,7 +55,7 @@
 			<Text>Soldados profissionais são um avanço sobre as milícias maltrapilhas que a maioria das civilizações possuía. Esses soldados com dedicação em tempo integral são mais bem treinados e, em tudo, mais efetivos que a média dos camponeses com coletes de couro e uma forquilha. O Império Romano criou um dos primeiros exércitos personalizados com soldados profissionais, que eram a parte essencial para suas completas vitórias militares. Na Europa, alguns dos primeiros soldados profissionais eram empregados por Carlos VII, da França, em 1445 e, depois, pelo Rei James II da Bretanha, em 1685.[NEWLINE][NEWLINE]Soldados Profissionais são a parte mais importante do exército e sistema de defesa de uma civilização moderna e podem ser encontrados em muitos dos países desenvolvidos do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Terço[ENDCOLOR], uma unidade dominante de ataque corpo-a-corpo.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPANISH_TERCIO}[ENDCOLOR], uma unidade dominante de ataque corpo-a-corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Apesar de ser um soldado por profissão, eu nunca gostei da guerra e nunca a defendi, exceto como uma forma de chegar à paz."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
@@ -128,13 +128,13 @@
 			<Text>Unidade militar dominante da Renascença. Esta unidade possui uma grande [ICON_STRENGTH]Força de Combate, assim como a promoção Bônus x Montaria (100). Pode ser treinada por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_STRATEGY">
-			<Text>Esta unidade é mais forte em combate que o Mosquete e luta com força em dobro contra unidades de montaria.</Text>
+			<Text>Esta unidade é mais forte em combate que o {TXT_KEY_UNIT_MUSKETMAN} e luta com força em dobro contra unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_HELP">
 			<Text>Unidade da Renascença que é especialista em exploração e colonização além-mar. Pode ser treinada por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_STRATEGY">
-			<Text>O Conquistador é uma unidade multitarefa que é forte tanto na terra quanto no mar. É um explorador excepcional em terra com visibilidade extra e a habilidade de fundar novas cidades. Na água, o Conquistador possui a promoção Embarque Defensivo que lhe permite se defender de unidades navais. Além disso, não sofre penalidade quando ataca cidades, ao contrário do Cavaleiro.</Text>
+			<Text>O {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} é uma unidade multitarefa que é forte tanto na terra quanto no mar. É um explorador excepcional em terra com visibilidade extra e a habilidade de fundar novas cidades. Na água, o {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} possui a promoção Embarque Defensivo que lhe permite se defender de unidades navais. Além disso, não sofre penalidade quando ataca cidades, ao contrário do {TXT_KEY_UNIT_KNIGHT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_HELP">
 			<Text>Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do Mosquete, o que a torna a unidade de ataque corpo-a-corpo mais poderosa do jogo. Pode ser treinada por qualquer civilização.</Text>

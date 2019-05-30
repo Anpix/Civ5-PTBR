@@ -22,9 +22,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN">
-			<Text>Miliciano</Text>
+			<Text>Miliciano|Milicianos</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ANTI_AIRCRAFT_GUN">
 			<Text>Arma Antiaérea</Text>
@@ -107,9 +107,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN">
-			<Text>Besteiro</Text>
+			<Text>Besteiro|Besteiros</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DESTROYER">
 			<Text>Destróier</Text>
@@ -117,9 +117,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EGYPT_WARCHARIOT">
-			<Text>Biga Egípcia</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Text>Biga Egípcia|Bigas Egípcias</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_LONGBOWMAN">
 			<Text>Arqueiro de Arco Longo</Text>
@@ -142,9 +142,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRENCH_MUSKETEER">
-			<Text>Mosqueteiro</Text>
+			<Text>Mosqueteiro|Mosqueteiros</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRIGATE">
 			<Text>Fragata</Text>
@@ -157,9 +157,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_LANDSKNECHT">
-			<Text>Lansquenê</Text>
+			<Text>Lansquenete|Lansquenetes</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER">
 			<Text>Panzer</Text>
@@ -197,9 +197,9 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREEK_HOPLITE">
-			<Text>Hoplita</Text>
+			<Text>Hoplita|Hoplitas</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GUIDED_MISSILE">
 			<Text>Míssil Guiado</Text>
@@ -212,14 +212,14 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN">
-			<Text>Homem a Cavalo</Text>
+			<Text>Jinete|Jinetes</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDIAN_WARELEPHANT">
-			<Text>Elefante de Guerra</Text>
+			<Text>Elefante de Guerra|Elefantes de Guerra</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INFANTRY">
 			<Text>Infantaria</Text>
@@ -292,9 +292,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MUSKETMAN">
-			<Text>Mosquete</Text>
+			<Text>Mosquete|Mosquetes</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE">
 			<Text>Míssil Nuclear</Text>
@@ -312,9 +312,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_OTTOMAN_SIPAHI">
-			<Text>Sipahi</Text>
+			<Text>Sipahi|Sipahis</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PARATROOPER">
 			<Text>Paraquedista|Paraquedistas</Text>
@@ -322,14 +322,14 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PERSIAN_IMMORTAL">
-			<Text>Imortal</Text>
+			<Text>Imortal|Imortais</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PIKEMAN">
-			<Text>Piqueiro</Text>
+			<Text>Piqueiro|Piqueiros</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RIFLEMAN">
 			<Text>Fuzileiro</Text>
@@ -352,9 +352,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RUSSIAN_COSSACK">
-			<Text>Cossaco</Text>
+			<Text>Cossaco|Cossacos</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SCOUT">
 			<Text>Explorador|Exploradores</Text>
@@ -367,19 +367,19 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SIAMESE_WARELEPHANT">
-			<Text>Elefante de Naresuan</Text>
+			<Text>Elefante de Naresuan|Elefantes de Naresuan</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY">
-			<Text>Cavalaria Mandekalu</Text>
+			<Text>Cavalaria Mandekalu|Cavalarias Mandekalu</Text>
 			<Gender>feminine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPEARMAN">
-			<Text>{TXT_KEY_UNIT_LANCER}</Text>
+			<Text>Guerreiro com Lança|Guerreiros com Lança</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_STEALTH_BOMBER">
 			<Text>Bombardeiro Furtivo</Text>
@@ -666,7 +666,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades de Montaria[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Montadas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2">
 			<Text>Formação II</Text>
@@ -674,7 +674,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades de Montaria[ENDCOLOR]</Text>
+			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Montadas[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1">
 			<Text>Emboscada I</Text>
@@ -1060,7 +1060,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I_HELP">
-			<Text>50% de bônus contra Unidades de Montaria</Text>
+			<Text>50% de bônus contra Unidades Montadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II">
 			<Text>Bônus vs montados (100)</Text>
@@ -1068,7 +1068,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II_HELP">
-			<Text>100% de bônus contra Unidades de Montaria</Text>
+			<Text>100% de bônus contra Unidades Montadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE">
 			<Text>Bônus vs cidades (20)</Text>
@@ -1364,8 +1364,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKBOAT">
 			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH]Peixe. O {TXT_KEY_UNIT_WORK_BOAT} é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SS_PART">
 			<Text>Uma das partes da Espaçonave, deve ser construída e enviada à [ICON_CAPITAL]capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
@@ -1473,19 +1471,19 @@
 			<Text>Unidade de infantaria básica da Era Industrial. Apenas os Franceses podem treiná-la. Esta unidade possui um bônus de combate fora de território amigo, ao contrário da Infantaria que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAVALRY">
-			<Text>Unidade de Montaria da Renascença, capaz de enfrentar de igual para igual unidades de infantaria contemporâneas. Fraca contra outras Unidades de Montaria.</Text>
+			<Text>Unidade Montada da Renascença, capaz de enfrentar de igual para igual unidades de infantaria contemporâneas. Fraca contra outras Unidades Montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COSSACK">
-			<Text>Unidade de Montaria da Renascença, capaz de enfrentar de igual para igual unidades de infantaria contemporâneas. Fraca contra outras Unidades de Montaria.[NEWLINE][NEWLINE]Apenas os Russos podem treiná-la. Esta unidade ganha um bônus de combate ao atacar inimigos já feridos.</Text>
+			<Text>Unidade Montada da Renascença, capaz de enfrentar de igual para igual unidades de infantaria contemporâneas. Fraca contra outras Unidades Montadas.[NEWLINE][NEWLINE]Apenas os Russos podem treiná-la. Esta unidade ganha um bônus de combate ao atacar inimigos já feridos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_RIFLEMAN">
 			<Text>Forte unidade terrestre de linha de frente da fase mediana do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LANCER">
-			<Text>O {TXT_KEY_UNIT_LANCER} é uma unidade que recebe uma penalidade de combate enquanto estiver em defesa e possui como alvos as unidades de montaria. Boa para caçar e derrubar unidades de montaria inimigas.</Text>
+			<Text>Unidade Montada designada ao ataque, recebe uma penalidade de combate enquanto estiver em defesa. Boa para derrubar Unidades Montadas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIPAHI">
-			<Text>Unidades de Montaria são os seus alvos de ataque. Recebe uma penalidade de combate quando está em defesa. Boa para caçar e derrubar unidades de montaria inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e possui um campo de alcance visual maior, comparada ao {TXT_KEY_UNIT_LANCER} que ela substitui.</Text>
+			<Text>Unidade Montada designada ao ataque, recebe uma penalidade de combate enquanto estiver em defesa. Boa para derrubar Unidades Montadas inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e pode ver mais longe que o {TXT_KEY_UNIT_LANCER} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CANNON">
 			<Text>Poderosa unidade de cerco da Renascença. Deve ser preparada antes de atacar.</Text>
@@ -1512,16 +1510,16 @@
 			<Text>Poderosa unidade de cerco da Era Medieval. Boa para reduzir as defesas das cidades inimigas. Deve ser preparada antes de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_KNIGHT">
-			<Text>Poderosa unidade de montaria medieval. Fraca contra Piqueiros.</Text>
+			<Text>Poderosa unidade montada medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAMEL_ARCHER">
-			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra Piqueiros. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do Cavaleiro que ela substitui.</Text>
+			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do {TXT_KEY_UNIT_KNIGHT} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIAMESE_WARELEPHANT">
-			<Text>Poderosa unidade de montaria medieval, fraca contra Piqueiros. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades de montaria e possui uma [ICON_STRENGTH]Força de Combate maior que a do Cavaleiro, que ela substitui.</Text>
+			<Text>Poderosa unidade montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades montadas e possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_KNIGHT}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Poderosa unidade de montaria da Era Medieval. Fraca contra Piqueiros. Apenas os Songhais podem treiná-la.</Text>
+			<Text>Poderosa unidade montada da Era Medieval. Fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Songais podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CROSSBOWMAN">
 			<Text>Unidade medieval de ataque a distância.</Text>
@@ -1533,10 +1531,10 @@
 			<Text>Unidade medieval de ataque a distância. Apenas os Ingleses podem treiná-la. Esta unidade ganha 1 ponto adicional de alcance comparada ao Besteiro, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PIKEMAN">
-			<Text>Unidade especializada em combater Cavaleiros e outras unidades de montaria.</Text>
+			<Text>Unidade especializada em combater {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
-			<Text>Especializada em combater Cavaleiros e outras unidades de montaria. Apenas os Alemães podem treiná-la. Esta unidade é muito mais barata que o Piqueiro, que ela substitui.</Text>
+			<Text>Especializada em combater {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Apenas os Alemães podem treiná-la. Esta unidade é muito mais barata que o {TXT_KEY_UNIT_PIKEMAN}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CATAPULT">
 			<Text>Primeira unidade de cerco do jogo. Causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar.</Text>
@@ -1545,10 +1543,10 @@
 			<Text>Unidade de cerco que causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar. Apenas os Romanos podem construí-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate a Distância maior que a Catapulta, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HORSEMAN">
-			<Text>Forte e rápida Unidade de Montaria do início do jogo. Fraca contra {TXT_KEY_UNIT_LANCER[2]}.</Text>
+			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COMPANION_CAVALRY">
-			<Text>Forte e rápida Unidade de Montaria do início do jogo. Fraca contra {TXT_KEY_UNIT_LANCER[2]}. Apenas os Gregos podem treiná-la. Esta unidade é rápida e possui uma [ICON_STRENGTH]Força de Combate maior, além de ajudar a produzir Grandes Generais mais rapidamente que o Homem a Cavalo, que ela substitui.</Text>
+			<Text>Forte e rápida Unidade Montada do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Apenas os Gregos podem treiná-la. Esta unidade é mais rápida e possui uma [ICON_STRENGTH]Força de Combate maior que o {TXT_KEY_UNIT_HORSEMAN}, que ela substitui, além de ajudar a produzir Grandes Generais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWORDSMAN">
 			<Text>Forte unidade de infantaria da Era Clássica.</Text>
@@ -1563,19 +1561,19 @@
 			<Text>Uma rápida unidade de ataque a distância, altamente efetiva em terreno aberto, mas significativamente prejudicada em terreno acidentado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
-			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário do Biga Arqueira, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDIAN_WAR_ELEPHANT">
-			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH]Força de Combate e [ICON_STRENGTH]Força de Combate a Distância maiores que a do Biga Arqueira, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH]Força de Combate e [ICON_STRENGTH]Força de Combate a Distância maiores que a da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SPEARMAN">
-			<Text>Unidade da Era Antiga especializada em combater Unidades de Montaria.</Text>
+			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HOPLITE">
-			<Text>Unidade da Era Antiga especializada em combater Unidades de Montaria. Apenas os Gregos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_LANCER}, que ela substitui.</Text>
+			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Gregos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IMMORTAL">
-			<Text>Unidade da Era Antiga especializada em combater Unidades de Montaria. Apenas os Persas podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior e se cura mais rápido que o {TXT_KEY_UNIT_LANCER}, que ela substitui.</Text>
+			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas. Apenas os Persas podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior e se cura mais rápido que o {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHER">
 			<Text>Poderosa unidade de ataque a distância da Era Antiga que pode acabar com inimigos de longe.</Text>
