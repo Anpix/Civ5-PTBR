@@ -108,8 +108,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_GAMESPEED_STANDARD">
 			<Text>Padrão</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>			
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GAMESPEED_QUICK">
 			<Text>Rápido</Text>
@@ -128,8 +128,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_HANDICAP_IMMORTAL">
 			<Text>Imortal</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>			
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_HANDICAP_EMPEROR">
 			<Text>Imperador</Text>
@@ -647,9 +647,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_WORLD_DEBUG">
-			<Text>Depurar</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Depuração</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_WORLD_DUEL">
 			<Text>Duelo</Text>
@@ -886,10 +886,9 @@
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_CITIZENS_TEXT">			
+		<Row Tag="TXT_KEY_CITYVIEW_CITIZENS_TEXT">
 			<Text>{1_NumCitizens: plural 1?Cidadão; other?Cidadãos;}</Text>
 			<Gender>masculine</Gender>
-			<Plurality>0</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIVILIAN_UNIT">
 			<Text>Unidade Civil</Text>
