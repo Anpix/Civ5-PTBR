@@ -3,7 +3,7 @@
 <!--Copyright Firaxis Games 2010-->
 <!--All Rights Reserved-->
 <GameData>
-  <Language_pt_BR>
+	<Language_pt_BR>
 		<Row Tag="TXT_KEY_AGGRESSIVE_MILITARY_WARNING_1">
 		  <Text>Fui informado que você tem um grande número de unidades perto das minhas fronteiras. Eu peço que você as leve para outro lugar para evitar desconforto desnecessário aos nossos cidadãos.</Text>
 		</Row>
@@ -962,9 +962,9 @@
  		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_POLITE_HELLO_1">
  			<Text>Ah, olá! Como podemos celebrar seu retorno a Sião?</Text>
  		</Row>
- 		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_POLITE_HELLO_1">
- 			<Text>O que o traz a Songhai, terra prometida por Deus, meu amigo?</Text>
- 		</Row>		
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_POLITE_HELLO_1">
+			<Text>O que o traz a Songai, terra prometida por Deus, meu amigo?</Text>
+		</Row>
  		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_NEUTRAL_HELLO_1">
  			<Text>Bem-vindo! Espero que, assim como eu acredito, você ache o Império Grego impressionante.</Text>
  		</Row>
@@ -1016,9 +1016,9 @@
  		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_NEUTRAL_HELLO_1">
  			<Text>Eu espero que você encontre o que procura aqui em Sião.</Text>
  		</Row>
- 		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_NEUTRAL_HELLO_1">
- 			<Text>Espero que Deus tenha inspirado sua visita a Songhai, grande líder.</Text>
- 		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Espero que Deus tenha inspirado sua visita a Songai, grande líder.</Text>
+		</Row>
  		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_HOSTILE_HELLO_1">
  			<Text>Você tem muita coragem para exibir seu rosto ao poderoso Império Grego dessa forma.</Text>
  		</Row>
@@ -1070,9 +1070,9 @@
  		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_HOSTILE_HELLO_1">
  			<Text>Encontrar com você é sempre desagradável, mas eu preciso fazer sacrifícios pelo bem do povo Siamês.</Text>
  		</Row>
- 		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_HOSTILE_HELLO_1">
- 			<Text>Se você quiser, eu posso demonstrar como é afiada a espada de um guerreiro Songhai... Não? Então, o que você quer?</Text>
- 		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_HOSTILE_HELLO_1">
+			<Text>Se você quiser, eu posso demonstrar como é afiada a espada de um guerreiro Songai... Não? Então, o que você quer?</Text>
+		</Row>
  		<Row Tag="TXT_KEY_GENERIC_GREETING_DENOUNCED_BY_AI_1">
  			<Text>Você? O que você quer? Eu não tenho mais negócios com tipos como você.</Text>
  		</Row>
@@ -1262,9 +1262,9 @@
  		<Row Tag="TXT_KEY_RAMKHAMHAENG_EXPANSION_SERIOUS_WARNING_1">
  			<Text>Eu sinceramente esperava que Sião e seu Império fossem amigos maravilhosos. Mas se você continuar construindo próximo a nós, eu temo que nos tornaremos inimigos.</Text>
  		</Row>
- 		<Row Tag="TXT_KEY_ASKIA_EXPANSION_SERIOUS_WARNING_1">
- 			<Text>Não brinque comigo. Continue a estabelecer cidades próximas ao poderoso Império Songhai e breve elas se juntarão a nós. Esta espada não é apenas para exibição.</Text>
- 		</Row>
+		<Row Tag="TXT_KEY_ASKIA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Não brinque comigo. Continue a estabelecer cidades próximas ao poderoso Império Songai e breve elas se juntarão a nós. Esta espada não é apenas para exibição.</Text>
+		</Row>
  		<Row Tag="TXT_KEY_DEC_FRIENDSHIP_1">
  			<Text>É difícil encontrar verdadeiros amigos neste mundo. Eu gostaria de fazer uma pública Declaração de Amizade, informando aos outros impérios o elo do nosso povo. O que você me diz?</Text>
  		</Row>
@@ -1340,9 +1340,9 @@
  		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_RESPONSE_REQUEST_1">
  			<Text>Se você nos fornecer este presente, eu certamente anunciarei a sua grandeza a todos os impérios do mundo.</Text>
  		</Row>
- 		<Row Tag="TXT_KEY_LEADER_ASKIA_RESPONSE_REQUEST_1">
- 			<Text>As circunstâncias não foram gratas a Songhai ultimamente, amigo. Eu creio que Deus quer nos ensinar que não podemos triunfar sozinhos.</Text>
- 		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_RESPONSE_REQUEST_1">
+			<Text>As circunstâncias não foram gratas a Songai ultimamente, amigo. Eu creio que Deus quer nos ensinar que não podemos triunfar sozinhos.</Text>
+		</Row>
  		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LUXURY_TRADE_1">
  			<Text>É árduo ser o líder de um reino. Negociar com amigos é uma forma de fazê-lo um pouco mais fácil.</Text>
  		</Row>
