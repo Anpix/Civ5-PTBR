@@ -38,7 +38,7 @@
 			<Text>Fatos Curiosos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_FACTOID_TEXT">
-			<Text>The grand Schonbrunn Palace in Vienna, once home to the rulers of the Habsburg Dynasty, features over 1,400 rooms and is a major tourist attraction.[NEWLINE][NEWLINE]The popular candy known as PEZ was first created in Austria in 1927 by Eduard Haas III. The name PEZ comes from the first, middle, and last letters of the German word for peppermint, "Pfefferminz."[NEWLINE][NEWLINE]Many of the world's greatest classical composers were Austrian, including Wolfgang Amadeus Mozart, Joseph Haydn, and Franz Liszt.</Text>
+			<Text>O grande Palácio Schonbrunn em Vienna, antigo lar dos soberanos da Dinastia Habsburgo, possui mais de 1.400 cômodos e é uma grande atração turística.[NEWLINE][NEWLINE]O doce popular conhecido por PEZ foi criado na Áustria em 1927 por Eduard Haas III. O nome PEZ vem da primeira, intermediária, e última letras da palavra hortelã em alemão, "Pfefferminz."[NEWLINE][NEWLINE]Muitos dos maiores compositores clássicos do mundo eram austríacos, incluindo Wolfgang Amadeus Mozart, Joseph Haydn, e Franz Liszt.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_1">
 			<Text>História</Text>
@@ -50,34 +50,34 @@
 			<Text>Origens</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_4">
-			<Text>Initial Boundaries</Text>
+			<Text>Fronteiras Iniciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_5">
-			<Text>The Counts of Babenberg</Text>
+			<Text>Os Condes de Babenberg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_6">
-			<Text>Rule of the House Habsburg</Text>
+			<Text>Regra da Casa Habsburgo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_7">
-			<Text>The Austrian Empire</Text>
+			<Text>O Império Austríaco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_8">
-			<Text>Austro-Hungarian Empire</Text>
+			<Text>Império Austro-Húngaro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_9">
-			<Text>World War I</Text>
+			<Text>Iª Guerra Mundial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_10">
-			<Text>First Republic of Austria</Text>
+			<Text>Primeira República da Áustria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_11">
-			<Text>Nazi Annexation</Text>
+			<Text>Anexação Nazista</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_12">
-			<Text>The New Republic</Text>
+			<Text>A Nova República</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_HEADING_13">
-			<Text>Modern Austria</Text>
+			<Text>Áustria Moderna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_TEXT_1">
 			<Text>Deriving its name from the Old High German term "Ostarrichi" first recorded in 996 by Holy Roman Emperor Otto III, the small, landlocked nation of Austria has long been an influential player in the political and military sagas of Europe. Beginning in the 13th century with the nearly 650 year rule of the powerful Habsburg Monarchy, Austria emerged as one of the premier nations of Europe, establishing strong alliances and far-reaching trade agreements across the continent. The later union of Austria and Hungary as a singular empire brought stability to both nations, only to be broken by the turmoil of World War I, and eventually, the German occupation of World War II. In the aftermath of these great conflicts, the borders of Austria were recreated, and the independent Republic of Austria stands today as a democratic nation that prides itself on maintaining neutrality and stability.</Text>
@@ -363,7 +363,7 @@
 			<Text>Origins of Human Development</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_4">
-			<Text>Pre-History</Text>
+			<Text>Pré-História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_5">
 			<Text>Early Kingdoms</Text>
@@ -579,7 +579,7 @@
 			<Text>Clima e Terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NETHERLANDS_HEADING_3">
-			<Text>Pre-History</Text>
+			<Text>Pré-História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NETHERLANDS_HEADING_4">
 			<Text>Roman Occupation</Text>
@@ -678,7 +678,7 @@
 			<Text>Clima e Terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDEN_HEADING_3">
-			<Text>Pre-History</Text>
+			<Text>Pré-História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDEN_HEADING_4">
 			<Text>The Vikings of Sweden</Text>
@@ -769,7 +769,7 @@
 			<Text>March on Italy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_HEADING_7">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_TEXT_1">
 			<Text>Legendary warlord and greatest leader of the Hunnic Empire, Attila the Hun is remembered by history as the mastermind behind the unrelenting terror of Europe that were the Huns. Known to the Romans as "The Scourge of God," Attila united the tribal Huns and embarked on a series of fearsome military campaigns during the 5th century AD, continually antagonizing the Romans (among others) until his abrupt death in 453.</Text>
@@ -808,7 +808,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BOUDICCA_HEADING_2">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BOUDICCA_TEXT_1">
 			<Text>Boudicca, legendary warrior queen of the Celtic Iceni tribe, is noted in history for decimating a number of Roman settlements while leading an uprising of Celtic tribes against the might of the Roman army occupying England in the 1st century AD.  Although historical records from this period are limited, mainly relying on the reports of Roman historians Tacitus and Cassius Dio, the story of Boudicca's uprising is generally accepted to have gone something like this: [NEWLINE][NEWLINE]Boudicca's husband, King Prasutagus of Iceni, had long been an ally to the Romans and maintained a sovereign rule over his people during the Roman conquest of Britain. Upon his death, he is said to have named Boudicca and their two daughters as joint-heirs, in the hopes of maintaining the rights and nobility of his family line. With little regard for their old friends, the Romans swiftly moved to annex the Iceni territory, and it can be said with certainty that the Romans' brutality in the matter was unwavering. Boudicca was publicly flogged.[NEWLINE][NEWLINE]The outrage spurred by the Romans' disrespect and brutishness towards the Iceni led Boudicca and her people to organize a rebellion with the assistance of neighboring tribes, particularly the Trinovantes. Boudicca gathered a huge force, estimated at 70,000 or more, and marched to the Roman colony of Camulodunum. The Romans, unprepared for such a vast assault, were caught off guard and found no mercy at the hands of the rebellion. The city of Camulodunum was besieged and destroyed, and the rebel army proceeded next to the city of Londinium, destroying everything of value to the Romans in their wake. Verulamium was the 3rd and final city crushed during Boudicca's uprising, burned to the ground and it's Romans citizens massacred. In all, Boudicca's army is said to have killed over 80,000 Romans and pro-Roman Britons.[NEWLINE][NEWLINE]Meeting at an unknown site in the English Midlands in 61 AD, the Roman Army and its collected legions finally faced the rebellious tribal force head-on.  Unfortunately for Boudicca, the Romans' extensive training and tactics would be the undoing of the uprising. Women and children, accompanying the rebel supply wagons, are said to have come to observe the battle and provide support. The presence of these observers on the field, however, would leave the rebels with little room to maneuver. The uprising was crushed, and some 70,000 to 80,000 rebels were killed in the ensuing battle and its aftermath. It is believed (although no means of confirmation exists) that Boudicca died by her own hand sometime shortly after the battle, the most common theory being that she consumed poison to avoid capture.</Text>
@@ -835,7 +835,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DIDO_HEADING_2">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DIDO_TEXT_1">
 			<Text>The story of Dido, Queen of Carthage, is, as most legends are, filled with intrigue and deception. Retold through the words of Roman historians and later the esteemed poet Virgil in his epic the Aeneid, Dido's tale begins with her life as the daughter of King Mattan of Tyre.  The Kingdom of Tyre was part of the ancient Phoenician civilization, geographically located in what is today modern Lebanon. Dido, who was often referred to as "Elissa" in the ancient historical records, was heir to the throne of Tyre following her father's death, sometime around 800 BC. Named joint-ruler with her brother, Pygmalion, Dido's rule was not widely accepted by the people. Despite her father's intention for her to share the throne with her brother, Pygmalion was recognized as King of Tyre, and Dido was left with little authority.[NEWLINE][NEWLINE]Not long after, Dido was married to a priest named Acerbas, who, by some accounts may have been her uncle. Acerbas is said to have been possessed of considerable wealth, which he concealed by burying his treasures underground. King Pygmalion, knowing of this wealth, had Acerbas murdered in hopes of claiming the gold that would rightfully go to his sister. Although accounts vary, Dido eventually became aware of her husband's death at the hands of her brother. The ghost of Acerbas himself is said to have appeared before her one night and warned her to flee the kingdom, while at the same time revealing the location of his hidden gold. It was the careful formation of her plan to escape Pygmalion's grasp that provided history's first glimpse of the clever nature for which Dido was best known.[NEWLINE][NEWLINE]In order to keep from arousing her brother's suspicions, Dido told Pygmalion she wished to travel the world, with the intention of sending tribute and gifts back to Tyre. Agreeing to her trip, Pygmalion provided Dido with a small fleet of ships and various servants to help her prepare for the journey. After quietly loading the ships with bags of gold from Acerbas' hoard, Dido set her plan in motion. In order to deceive Pygmalion, Dido ordered the servants to load bags filled with sand on to the upper decks, to be used as decoys. After setting sail, Dido declared the gold to be an offering to the spirit of her dead husband, and had the bags of sand thrown overboard into the sea. Pygmalion, thinking the gold was lost forever, made no attempt to pursue Dido or her party.[NEWLINE][NEWLINE]Now searching for a new home, Dido and her party first stopped on the island of Cyprus, where a group of local stragglers joined her crew. Eventually they made landfall along the coast of northern Africa, and began negotiating a price with the local chieftain for a small piece of land on which to found their new settlement. As the agreement went, Dido could have as much land as she could encompass with a single ox hide, with the local leader believing he was getting quite a deal. The quick-witted Dido conceived of another angle on the proposal; by cutting the ox hide into thin strips, then into even smaller fibers, she created a length of rope long enough to encircle a wide area including a prominent hill nearby. Thus, the city of Carthage was founded, and Dido's legacy as a crafty and capable leader was sealed.[NEWLINE][NEWLINE]Dido ruled Carthage as its first queen, and, as the legend continues, was eventually the object of several suitors, including the Trojan prince Aeneas. In Virgil's account, Aeneas was brought to Carthage through the manipulative workings of the Greek gods. Dido and Aeneas became lovers, and when Aeneas left Dido to continue on his journey, Dido was so distraught that she committed suicide.</Text>
@@ -847,13 +847,13 @@
 			<Text>Gustavus Adolphus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_TITLES_1">
-			<Text>King</Text>
+			<Text>Rei</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_SUBTITLE">
-			<Text>Leader of Sweden</Text>
+			<Text>Líder da Suécia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_LIVED">
-			<Text>1594 AD - 1632 AD</Text>
+			<Text>1594 d.C. - 1632 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_FACT_1">
 			<Text>Gustavus Adolphus Day is celebrated on November 6th of each year in Sweden, Estonia and Finland.</Text>
@@ -880,7 +880,7 @@
 			<Text>On the Battlefield</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_7">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_TEXT_1">
 			<Text>Revered Swedish king and military commander Gustavus Adolphus, known most famously as "The Lion of the North," ascended to the throne at the age of 17 and quickly established his reputation as both a skilled military strategist and an innovator in the art of warfare. Inheriting a complex web of domestic and foreign conflicts from his father, the usurper King Charles IX, Adolphus wasted no time in forming alliances with the once hostile nobility, crushing the enemies of Sweden, and leading his nation to the upper echelon of power in Europe during the 17th century.</Text>
@@ -907,13 +907,13 @@
 			<Text>Maria Theresa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TITLES_1">
-			<Text>Empress of the Holy Roman Empire, Queen of the Habsburg Empire</Text>
+			<Text>Imperatriz do Sacro Império Romano, Rainha do Império de Habsburgo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_SUBTITLE">
-			<Text>Leader of Austria</Text>
+			<Text>Líder da Áustria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_LIVED">
-			<Text>1717 AD - 1780 AD</Text>
+			<Text>1717 d.C. - 1780 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_FACT_1">
 			<Text>Maria Theresa was actually born Maria Theresa Walburga Amalia Christina, and during her lifetime she held nearly two-dozen titles designating her rule, serving as Queen, Archduchess, Princess, and Lady of the Mark to the lands of the Habsburg Empire.</Text>
@@ -937,7 +937,7 @@
 			<Text>Maternal Instincts</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_HEADING_7">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TEXT_1">
 			<Text>During the 18th century, the Holy Roman Empire and the powerful Habsburg Monarchy of Austria were led by the ever-persistent Maria Theresa, who defied the European powers opposed to her reign and bravely served the subjects of her kingdom. In nearly 650 years of Habsburg rule, Maria Theresa was the first and only female to ever lead the empire, and she proved to be among the most successful rulers in their history.</Text>
@@ -985,7 +985,7 @@
 			<Text>Rejuvenation of Palenque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_4">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_1">
 			<Text>Commonly known as "Pacal the Great," the Mayan king K'inich Janaab' Pakal is perhaps the most renowned of all Mayan rulers. Ascending to the throne at the tender age of 12 and ruling for nearly 70 years thereafter, Pacal inherited the city-state of Palenque during a time of great turmoil. Although the historical details surrounding his reign are often hazy, Pacal is best known for reinvigorating the ravaged city, which had been sacked repeatedly during the rule of his predecessors. Leading a vast construction effort, Pacal oversaw the creation of immense and remarkably detailed structures throughout his domain. Most famously, Pacal's burial tomb, known as the Temple of Inscriptions, features an intricately carved history of the king's life presented in Mayan glyphs. With an astonishing number of well preserved inscriptions, the temple has given contemporary archaeologists crucial insight into the once lost history and culture of this great Mayan city.</Text>
@@ -1039,7 +1039,7 @@
 			<Text>Rastafarian God</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_8">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_1">
 			<Text>Known as the "Conquering Lion of the Tribe of Judah," "King of Kings," and "Elect of God," Haile Selassie ruled Ethiopia as emperor for nearly 40 years in the 20th century. Born as Lij Tafari Makonnen in 1892, the man who came to be known as Haile Selassie spent his life serving the interests of Ethiopia and bringing his nation to the forefront of African politics. Best known for reforming the ancient feudal practices of Ethiopia through his attempts at modernizing the nation, Haile Selassie worked tirelessly to gain international recognition for Ethiopia on the world stage. His legacy in global politics has been surpassed only by his role as the messiah of the Rastafari religion, among whose followers he is venerated as the god who will lead the Rastas back to their homeland of Ethiopia.</Text>
@@ -1105,7 +1105,7 @@
 			<Text>The Nika Revolt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THEODORA_HEADING_7">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THEODORA_TEXT_1">
 			<Text>Theodora, wife of Justinian I and Empress of the Byzantine Empire, ruled one of history's preeminent empires during the 1st millennium AD. Known today as the most influential woman of the Byzantine Empire, Emperor Justinian named Theodora co-ruler of the empire, trusting in her wise counsel to guide his reign. Rising from humble beginnings, Theodora would become known throughout the empire - and history - as a tactful, trusted advisor to her emperor. She would be so crucial to the progress of the empire that some think it was Theodora, not Emperor Justinian, who truly guided the people of Byzantium during her lifetime.</Text>
@@ -1168,7 +1168,7 @@
 			<Text>Assassination Attempts</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_8">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_1">
 			<Text>Widely considered both founder and liberator of the Netherlands, William, Prince of Orange, also known as "William the Silent," led a successful rebellion in the mid-16th century against the Spanish Habsburg Dynasty who held dominion over the Dutch Low Countries. Once the loyal servant of King Philip II of Spain, William eventually became the most prominent leader of the rebellion, as his growing distaste for the continued Spanish persecution of Dutch Protestants came to a head. Rallying his fellow noblemen to the cause, William became an outlaw in the eyes of the Spanish monarch and led the Dutch forces in a number of successful battles against the king before falling to an assassin's bullet in 1584.</Text>
