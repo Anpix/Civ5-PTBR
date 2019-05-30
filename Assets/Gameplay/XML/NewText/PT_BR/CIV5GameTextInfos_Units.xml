@@ -469,18 +469,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION_HELP">
 			<Text>Pode embarcar nos [COLOR_POSITIVE_TEXT]hexágonos aquáticos[ENDCOLOR]. Unidades embarcadas são destruídas se um inimigo entrar no hexágono.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY">
 			<Text>Curar instantaneamente</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Curar esta unidade[ENDCOLOR] completamente. Ao fazer isto, esta oportunidade de promoção será [COLOR_POSITIVE_TEXT]consumida[ENDCOLOR].</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1">
 			<Text>Choque I</Text>
@@ -489,8 +483,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
 			<Text>+20% DE [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (sem Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2">
 			<Text>Choque II</Text>
@@ -499,8 +491,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3">
 			<Text>Choque III</Text>
@@ -509,8 +499,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1">
 			<Text>Broca I</Text>
@@ -519,8 +507,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2">
 			<Text>Broca II</Text>
@@ -529,8 +515,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3">
 			<Text>Broca III</Text>
@@ -539,8 +523,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1">
 			<Text>Precisão I</Text>
@@ -549,8 +531,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
 			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2">
 			<Text>Precisão II</Text>
@@ -559,8 +539,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
 			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3">
 			<Text>Precisão III</Text>
@@ -569,8 +547,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
 			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1">
 			<Text>Barragem I</Text>
@@ -579,8 +555,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
 			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2">
 			<Text>Barragem II</Text>
@@ -589,8 +563,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
 			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3">
 			<Text>Barragem III</Text>
@@ -599,8 +571,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
 			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1">
 			<Text>Mira I</Text>
@@ -609,8 +579,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2">
 			<Text>Mira II</Text>
@@ -619,8 +587,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3">
 			<Text>Mira III</Text>
@@ -629,8 +595,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SIEGE">
 			<Text>Cerco</Text>
@@ -639,8 +603,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SIEGE_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SENTRY">
 			<Text>Sentinela</Text>
@@ -649,8 +611,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SENTRY_HELP">
 			<Text>+1 de Alcance Visual</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MEDIC">
 			<Text>Médico</Text>
@@ -659,8 +619,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MEDIC_HELP">
 			<Text>Todas as unidades adjacentes [COLOR_POSITIVE_TEXT]se curam 1 ponto adicional de vida[ENDCOLOR] por turno</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMPHIBIOUS">
 			<Text>Anfíbio</Text>
@@ -669,8 +627,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMPHIBIOUS_HELP">
 			<Text>Elimina a penalidade ao atacar sobre o mar ou sobre um rio</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CHARGE">
 			<Text>Carga</Text>
@@ -679,8 +635,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CHARGE_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Feridas[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_VOLLEY">
 			<Text>Rajada</Text>
@@ -689,8 +643,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_VOLLEY_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Fortificadas[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_COVER_1">
 			<Text>Cobertura I</Text>
@@ -699,8 +651,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_COVER_1_HELP">
 			<Text>+25% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]ataques a distância[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_COVER_2">
 			<Text>Cobertura II</Text>
@@ -709,8 +659,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_COVER_2_HELP">
 			<Text>+25% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]ataques a distância[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1">
 			<Text>Formação I</Text>
@@ -719,8 +667,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades de Montaria[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2">
 			<Text>Formação II</Text>
@@ -729,8 +675,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades de Montaria[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1">
 			<Text>Emboscada I</Text>
@@ -739,8 +683,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2">
 			<Text>Emboscada II</Text>
@@ -749,8 +691,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Blindadas[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MARCH">
 			<Text>Marcha</Text>
@@ -759,8 +699,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MARCH_HELP">
 			<Text>Unidades irão [COLOR_POSITIVE_TEXT]se curar em todos os turnos[ENDCOLOR], mesmo se fizerem alguma ação</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BLITZ">
 			<Text>Blitz</Text>
@@ -769,8 +707,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BLITZ_HELP">
 			<Text>Unidades poderão [COLOR_POSITIVE_TEXT]atacar várias vezes[ENDCOLOR] por turno</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WOODSMAN">
 			<Text>Montanhista</Text>
@@ -779,8 +715,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WOODSMAN_HELP">
 			<Text>Taxa de movimento dobrada [COLOR_POSITIVE_TEXT]através de florestas ou selvas[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_LOGISTICS">
 			<Text>Logística</Text>
@@ -789,8 +723,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_LOGISTICS_HELP">
 			<Text>1 ataque adicional por turno</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_RANGE">
 			<Text>Alcance</Text>
@@ -799,8 +731,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_RANGE_HELP">
 			<Text>+1 de alcance</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INDIRECT_FIRE">
 			<Text>Fogo Indireto</Text>
@@ -809,8 +739,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INDIRECT_FIRE_HELP">
 			<Text>Ataques a distância podem ser feitos sobre obstáculos (desde que outra unidade amiga possas ver o alvo).</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOBILITY">
 			<Text>Mobilidade</Text>
@@ -819,8 +747,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOBILITY_HELP">
 			<Text>+1 de movimento</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SUPPLY">
 			<Text>Suprimento</Text>
@@ -829,8 +755,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SUPPLY_HELP">
 			<Text>Pode curar danos [COLOR_POSITIVE_TEXT]fora de território amigo[ENDCOLOR]. 2 pontos curados por turno</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_1">
 			<Text>Interceptação I</Text>
@@ -839,8 +763,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_1_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2">
 			<Text>Interceptação II</Text>
@@ -849,8 +771,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3">
 			<Text>Interceptação III</Text>
@@ -859,8 +779,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao interceptar aeronaves inimigas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1">
 			<Text>Briga de Cães I</Text>
@@ -869,8 +787,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2">
 			<Text>Briga de Cães II</Text>
@@ -879,8 +795,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3">
 			<Text>Briga de Cães III</Text>
@@ -889,8 +803,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate ao fazer uma [COLOR_POSITIVE_TEXT]Varredura Aérea[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1">
 			<Text>Cerco I</Text>
@@ -899,8 +811,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2">
 			<Text>Cerco II</Text>
@@ -909,8 +819,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3">
 			<Text>Cerco III</Text>
@@ -919,8 +827,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3_HELP">
 			<Text>+25% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]cidades[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1">
 			<Text>Bombardeamento I</Text>
@@ -929,8 +835,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2">
 			<Text>Bombardeamento II</Text>
@@ -939,8 +843,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3">
 			<Text>Bombardeamento III</Text>
@@ -949,8 +851,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3_HELP">
 			<Text>+20% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Terrestres[ENDCOLOR]</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_RANGE">
 			<Text>Alcance</Text>
@@ -959,8 +859,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_RANGE_HELP">
 			<Text>+2 de alcance operacional</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SORTIE">
 			<Text>Multitarefa</Text>
@@ -969,8 +867,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SORTIE_HELP">
 			<Text>1 [COLOR_POSITIVE_TEXT]Interceptação[ENDCOLOR] extra pode ser feita por turno</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_REPAIR">
 			<Text>Reparo</Text>
@@ -989,8 +885,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_EVASION_HELP">
 			<Text>Reduz os danos feitos por interceptação em 50%</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_1">
 			<Text>Reconhecimento I</Text>
@@ -999,8 +893,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_1_HELP">
 			<Text>+1 de alcance visual</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_2">
 			<Text>Reconhecimento II</Text>
@@ -1009,8 +901,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_2_HELP">
 			<Text>+1 de movimento</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_3">
 			<Text>Reconhecimento III</Text>
@@ -1019,8 +909,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_3_HELP">
 			<Text>+1 de alcance visual</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_1">
 			<Text>Sobrevivência I</Text>
@@ -1029,8 +917,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_1_HELP">
 			<Text>+1 de ponto de vida curado fora de território amigo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_2">
 			<Text>Sobrevivência II</Text>
@@ -1039,8 +925,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_2_HELP">
 			<Text>+50% de defesa</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_3">
 			<Text>Sobrevivência III</Text>
@@ -1049,8 +933,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_3_HELP">
 			<Text>+50% de defesa. As unidades irão [COLOR_POSITIVE_TEXT]se curar em todos os turnos[ENDCOLOR], mesmo se fizerem alguma ação.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOBILITY_1">
 			<Text>Mobilidade I</Text>
@@ -1064,8 +946,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MORALE_HELP">
 			<Text>+15% de [ICON_STRENGTH]Força de Combate</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MORALE">
 			<Text>Moral</Text>
@@ -1074,8 +954,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
 			<Text>+10% de [ICON_STRENGTH]Força de Combate enquanto estiver perto de uma unidade amiga.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE">
 			<Text>Disciplina</Text>
@@ -1084,8 +962,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OLIGARCHY_HELP">
 			<Text>+33% de [ICON_STRENGTH]Força de Combate em território amigo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OLIGARCHY">
 			<Text>Equipe</Text>
@@ -1094,8 +970,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HIMEJI_CASTLE_HELP">
 			<Text>+15% de [ICON_STRENGTH]Força de Combate em território amigo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HIMEJI_CASTLE">
 			<Text>Castelo de Himeji</Text>
@@ -1104,8 +978,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_HELP">
 			<Text>+1 de [ICON_MOVES]movimento e +1 de visão</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
 			<Text>Tradição Naval</Text>
@@ -1114,8 +986,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE_HELP">
 			<Text>+1 de [ICON_MOVES]movimento e +1 de visão</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE">
 			<Text>Grande Farol</Text>
@@ -1124,8 +994,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM_HELP">
 			<Text>+25% de bônus de ataque em território amigo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM">
 			<Text>Nacionalismo</Text>
@@ -1134,18 +1002,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_MOVES_I_HELP">
 			<Text>1 movimento extra</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_MOVES_I">
 			<Text>1 movimento extra</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_I_HELP">
 			<Text>1 ponto extra de visão</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_I">
 			<Text>Visão Extra I</Text>
@@ -1154,13 +1016,9 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_II_HELP">
 			<Text>2 pontos extras de visão</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_III_HELP">
 			<Text>3 pontos extra de visão</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_II">
 			<Text>Visão Extra II</Text>
@@ -1179,8 +1037,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_IV_HELP">
 			<Text>4 pontos extra de visão</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SIGHT_PENALTY">
 			<Text>Visibilidade Limitada</Text>
@@ -1189,8 +1045,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SIGHT_PENALTY_HELP">
 			<Text>-1 de alcance visual</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON">
 			<Text>Controle Aéreo</Text>
@@ -1199,8 +1053,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON_HELP">
 			<Text>6 hexágonos em todas as direções sempre estarão visíveis</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I">
 			<Text>Bônus vs montados (50)</Text>
@@ -1209,8 +1061,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I_HELP">
 			<Text>50% de bônus contra Unidades de Montaria</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II">
 			<Text>Bônus vs montados (100)</Text>
@@ -1219,8 +1069,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II_HELP">
 			<Text>100% de bônus contra Unidades de Montaria</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE">
 			<Text>Bônus vs cidades (20)</Text>
@@ -1229,8 +1077,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_HELP">
 			<Text>20% de bônus contra cidades</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT">
 			<Text>Bônus vs cidade (50)</Text>
@@ -1239,8 +1085,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT_HELP">
             <Text>30% de bônus contra cidades</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_PENALTY">
 			<Text>Penalidade na defesa</Text>
@@ -1259,8 +1103,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_PENALTY_HELP">
 			<Text>33% de penalidade ao atacar cidades</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_I">
 			<Text>Interceptação (20)</Text>
@@ -1289,18 +1131,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AIR_SWEEP_HELP">
 			<Text>Pode fazer varredura aérea para eliminar unidades interceptativas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WEAK_RANGED">
 			<Text>Penalidade no ataque a distância</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WEAK_RANGED_HELP">
 			<Text>-50% de força ao usar ataques a distância</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR">
 			<Text>Bônus vs aeronaves (100)</Text>
@@ -1349,33 +1185,21 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_RIVAL_TERRITORY">
 			<Text>Pode entrar em território inimigo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CARGO_I">
 			<Text>Pode levar 1 carga</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CARGO_II">
 			<Text>Pode levar 2 cargas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CARGO_III">
 			<Text>Pode levar 3 cargas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CARGO_IV">
 			<Text>Pode levar 4 cargas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FOLIAGE_IMPASSABLE">
 			<Text>Não pode entrar em florestas ou selvas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ROUGH_TERRAIN_ENDS">
 			<Text>Penalidade em terreno acidentado</Text>
@@ -1384,38 +1208,24 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ROUGH_TERRAIN_ENDS_HELP">
 			<Text>Ao entrar em terreno acidentado, todo o movimento será consumido</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO">
 			<Text>Precisa-se de Astronomia</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO_HELP">
 			<Text>Não pode navegar o oceano sem Astronomia</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE">
 			<Text>Não pode navegar o oceano</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INVISIBLE_SUBMARINE">
 			<Text>É invisível (Submarino)</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SEE_INVISIBLE_SUBMARINE">
 			<Text>Pode ver submarinos</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_IGNORE_TERRAIN_COST">
 			<Text>Ignora o custo do terreno</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT">
 			<Text>Unidade parada</Text>
@@ -1424,68 +1234,42 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT_HELP">
 			<Text>Unidade pode passar sobre montanhas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FLAT_MOVEMENT_COST">
 			<Text>Todos os hexágonos custam 1 de movimento</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CAN_MOVE_IMPASSABLE">
 			<Text>Pode entrar em hexágonos de gelo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NO_CAPTURE">
 			<Text>Incapaz de capturar cidades</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ONLY_DEFENSIVE">
 			<Text>Não pode realizar ataques corpo-a-corpo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUSES">
 			<Text>Sem bônus terrestres defensivos</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PARADROP">
 			<Text>Pode lançar paraquedistas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MUST_SET_UP">
 			<Text>Deve ser configurado para ataque a distância</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_RANGED_SUPPORT_FIRE">
 			<Text>Ataque a distância para suporte</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_RANGED_SUPPORT_FIRE_HELP">
 			<Text>Fornece ataques a distância para unidades aliadas quando fortificadas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CAN_MOVE_AFTER_ATTACKING">
 			<Text>Pode mover após atacar</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OPEN_TERRAIN">
 			<Text>Bônus de combate em terreno aberto</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SECOND_ATTACK">
 			<Text>Pode atacar duas vezes</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_MOVEMENT">
 			<Text>Movimento naval</Text>
@@ -1494,8 +1278,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_MOVEMENT_HELP">
 			<Text>2 movimentos extras para unidades navais</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL">
 			<Text>Chefia</Text>
@@ -1504,8 +1286,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL_HELP">
 			<Text>Aumenta a eficiência em combate de unidades próximas</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SPAWN_GENERALS_I">
 			<Text>Grandes Generais I</Text>
@@ -1524,28 +1304,18 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SPAWN_GENERALS_II_HELP">
 			<Text>Provavelmente cria Grandes Generais ao entrar em combate</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FREE_PILLAGE_MOVES">
 			<Text>Nenhum movimento é necessário para saquear</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY">
 			<Text>Cura se destruir um inimigo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY_HELP">
 			<Text>Cura todos os danos se destruir uma unidade não bárbara</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY">
 			<Text>Cura 2 pontos de vida se destruir um inimigo</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ATTACK_BONUS">
 			<Text>Bônus de combate ao atacar (25)</Text>
@@ -1584,399 +1354,241 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FASTER_HEAL">
 			<Text>Cura no dobro de velocidade</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<!-- Unit Help and Rollover Text-->
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKER">
 			<Text>Melhora a [ICON_PRODUCTION]Produção de [ICON_FOOD]Alimento e [ICON_GOLD]Ouro ao construir melhorias em hexágonos fora das cidades.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SETTLER">
 			<Text>Funda novas cidades para expandir seu Império.[NEWLINE][NEWLINE]O [ICON_FOOD]crescimento da cidade é interrompido enquanto esta unidade está sendo produzida.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKBOAT">
 			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH]Peixe. O Barco Operário é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SS_PART">
 			<Text>Uma das partes da Espaçonave, deve ser construída e enviada à [ICON_CAPITAL]capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SS_BOOSTER">
 			<Text>Uma das partes da Espaçonave, deve ser construído e enviado à [ICON_CAPITAL]Capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Ao contrário das outras partes, é preciso três Propulsores Espaciais para completar uma Espaçonave.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER">
 			<Text>Unidade Naval especializada em derrubar aeronaves. Também pode conter 3 Mísseis.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE">
 			<Text>Invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos ou até que ataque ou fique adjacente a outra unidade. Pode conter 2 Mísseis e é especializado em caçar outros Submarinos.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARRIER">
 			<Text>Transporta até 3 aeronaves.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BATTLESHIP">
 			<Text>Unidade Naval mais poderosa em ataque direto do jogo.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
 			<Text>Invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos. Pode causar danos maiores a outros navios quando entra no campo de alcance sem ser detectado.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
 			<Text>Barco rápido e muito efetivo em reconhecimento. Também usado para caçar e destruir Submarinos inimigos.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
 			<Text>Mais poderosas que as Fragatas, estas unidades pagam o preço por serem muito fortes: são muito lentas e incapazes de entrar no oceano.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FRIGATE">
 			<Text>Poderosa unidade naval da Renascença usada para arrebatar o controle dos mares.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHIPOFTHELINE">
 			<Text>Poderosa unidade naval da Renascença usada para arrebatar o controle dos mares. Apenas os Ingleses podem construí-la.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARAVEL">
 			<Text>Rápida unidade de exploração da Renascença com um grande campo de visão.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TRIREME">
 			<Text>Unidade naval da Era Antiga, usada para arrebatar o controle dos mares.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MECH">
 			<Text>Não se beneficia de nenhum bônus defensivo fornecido pelo terreno, mas é a unidade militar mais forte de todo o jogo.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_MISSILE">
 			<Text>Libera uma destruição nuclear. Causa um grande estrago às cidades e dano a qualquer unidade no raio da explosão.[NEWLINE][NEWLINE]Requer o Projeto Manhattan e dois recursos de Urânio.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_STEALTH_BOMBER">
 			<Text>Uma Unidade Aérea de longo alcance capaz de pulverizar unidades e cidades inimigas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_JET_FIGHTER">
 			<Text>Unidade aérea destinada a arrebatar o controle dos céus e interceptar aeronaves inimigas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_GUIDED_MISSILE">
 			<Text>Uma unidade barata que pode ser usada para atacar unidades ou cidades inimigas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MODERN_ARMOR">
 			<Text>A mais rápida e poderosa unidade da fase final do jogo. Recebe penalidade quando ataca cidades ou quando fica na defesa, mas é incrivelmente efetiva em terreno aberto.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
 			<Text>Unidade especializada em combater Tanques (blindados ou não). É capaz de pairar sobre montanhas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MOBILE_SAM">
 			<Text>Intercepta aeronaves inimigas que tentam bombardear unidades próximas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ROCKET_ARTILLERY">
 			<Text>A Unidade de Cerco mais rápida da fase final do jogo. Ao contrário das outras Unidades de Cerco, não precisa ser preparada antes de atacar.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MECHANIZED_INFANTRY">
 			<Text>Rápida e básica unidade da fase final do jogo que não necessita de recursos especiais para ser construída.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
 			<Text>Forte unidade de infantaria, capaz de saltar e cair até 5 hexágonos de distância de um território amigo. Paraquedistas também podem se movimentar e pilhar após saltarem, mas não podem entrar em combate até o turno seguinte.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BOMBER">
 			<Text>Unidade Aérea que faz chover bombas sobre unidades e cidades inimigas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_B17">
 			<Text>Unidade Aérea que faz chover bombas sobre unidades e cidades inimigas. Apenas os Americanos podem construí-la. Esta unidade possui uma chance de evitar a interceptação e causa mais danos às cidades quando comparada ao Bombardeiro, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FIGHTER">
 			<Text>Unidade aérea destinada a arrebatar o controle dos céus e interceptar aeronaves inimigas a caminho.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ZERO">
 			<Text>Unidade aérea destinada a arrebatar o controle dos céus e interceptar aeronaves inimigas a caminho. Apenas os Japoneses podem construí-la. Esta unidade possui um bônus contra outros Aviões de Combate, ao contrário do Avião de Combate que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TANK">
 			<Text>A mais rápida e poderosa unidade da Era Industrial. Recebe penalidade enquanto ataca cidades ou quando fica na defesa, mas é incrivelmente efetiva em terreno aberto.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PANZER">
 			<Text>Apenas os Alemães podem construí-la. Esta unidade possui 1 ponto de movimento adicional, comparada ao Tanque que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARTILLERY">
 			<Text>A primeira unidade de cerco do jogo, capaz de atirar até 3 hexágonos de distância. Deve ser preparada antes de atacar.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ANTI_AIRCRAFT_GUN">
 			<Text>Intercepta aeronaves inimigas que tentam bombardear unidades próximas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ANTI_TANK_GUN">
 			<Text>Uma unidade relativamente barata especializada em combater Tanques.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INFANTRY">
 			<Text>Unidade de infantaria básica da Era Industrial.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
 			<Text>Unidade de infantaria básica da Era Industrial. Apenas os Franceses podem treiná-la. Esta unidade possui um bônus de combate fora de território amigo, ao contrário da Infantaria que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAVALRY">
 			<Text>Unidade de Montaria da Renascença, capaz de enfrentar de igual para igual unidades de infantaria contemporâneas. Fraca contra outras Unidades de Montaria.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COSSACK">
 			<Text>Unidade de Montaria da Renascença, capaz de enfrentar de igual para igual unidades de infantaria contemporâneas. Fraca contra outras Unidades de Montaria.[NEWLINE][NEWLINE]Apenas os Russos podem treiná-la. Esta unidade ganha um bônus de combate ao atacar inimigos já feridos.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_RIFLEMAN">
 			<Text>Forte unidade terrestre de linha de frente da fase mediana do jogo.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LANCER">
 			<Text>O {TXT_KEY_UNIT_LANCER} é uma unidade que recebe uma penalidade de combate enquanto estiver em defesa e possui como alvos as unidades de montaria. Boa para caçar e derrubar unidades de montaria inimigas.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIPAHI">
 			<Text>Unidades de Montaria são os seus alvos de ataque. Recebe uma penalidade de combate quando está em defesa. Boa para caçar e derrubar unidades de montaria inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e possui um campo de alcance visual maior, comparada ao {TXT_KEY_UNIT_LANCER} que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CANNON">
 			<Text>Poderosa unidade de cerco da Renascença. Deve ser preparada antes de atacar.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSKETMAN">
 			<Text>Primeira unidade que utiliza arma de fogo no jogo. Muito barata e poderosa.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MINUTEMAN">
 			<Text>Uma das primeiras unidades que utilizam armas de fogo no jogo. Apenas os Americanos podem treiná-la. Esta unidade atravessa terrenos acidentados como se fossem totalmente planos, ao contrário do Mosquete, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSKETEER">
 			<Text>Uma das primeiras unidades que utilizam armas de fogo no jogo. Apenas os Franceses podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do Mosquete, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_JANISSARY">
 			<Text>Uma das primeiras unidades que utilizam armas de fogo no jogo. Apenas os Otomanos podem treiná-la. Esta unidade é muito forte na ofensiva e se cura quando mata um inimigo, ao contrário do Mosquete que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LONGSWORDSMAN">
 			<Text>Poderosa unidade de infantaria da Era Medieval.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SAMURAI">
 			<Text>Poderosa unidade de infantaria medieval. Apenas os Japoneses podem treiná-la. Esta unidade combate mais efetivamente e ajuda a produzir Grandes Generais mais rapidamente que o {TXT_KEY_UNIT_LONGSWORDSMAN}, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TREBUCHET">
 			<Text>Poderosa unidade de cerco da Era Medieval. Boa para reduzir as defesas das cidades inimigas. Deve ser preparada antes de atacar.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_KNIGHT">
 			<Text>Poderosa unidade de montaria medieval. Fraca contra Piqueiros.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAMEL_ARCHER">
 			<Text>Rápida Unidade de Ataque a Distância Medieval, fraca contra Piqueiros. Apenas os Árabes podem treiná-la. Ela é uma unidade de ataque a distância, ao contrário do Cavaleiro que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SIAMESE_WARELEPHANT">
 			<Text>Poderosa unidade de montaria medieval, fraca contra Piqueiros. Apenas os Siameses podem treiná-la. Esta unidade recebe um bônus contra outras unidades de montaria e possui uma [ICON_STRENGTH]Força de Combate maior que a do Cavaleiro, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
 			<Text>Poderosa unidade de montaria da Era Medieval. Fraca contra Piqueiros. Apenas os Songhais podem treiná-la.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CROSSBOWMAN">
 			<Text>Unidade medieval de ataque a distância.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHUKONU">
 			<Text>Unidade medieval de ataque a distância. Apenas os Chineses podem treiná-la. Esta unidade pode atacar duas vezes em um turno, ao contrário do Besteiro que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LONGBOWMAN">
 			<Text>Unidade medieval de ataque a distância. Apenas os Ingleses podem treiná-la. Esta unidade ganha 1 ponto adicional de alcance comparada ao Besteiro, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PIKEMAN">
 			<Text>Unidade especializada em combater Cavaleiros e outras unidades de montaria.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
 			<Text>Especializada em combater Cavaleiros e outras unidades de montaria. Apenas os Alemães podem treiná-la. Esta unidade é muito mais barata que o Piqueiro, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CATAPULT">
 			<Text>Primeira unidade de cerco do jogo. Causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BALLISTA">
 			<Text>Unidade de cerco que causa danos maiores a unidades e cidades a certa distância, mas deve ser preparada antes de atacar. Apenas os Romanos podem construí-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate a Distância maior que a Catapulta, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HORSEMAN">
 			<Text>Forte e rápida Unidade de Montaria do início do jogo. Fraca contra {TXT_KEY_UNIT_LANCER[2]}.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COMPANION_CAVALRY">
 			<Text>Forte e rápida Unidade de Montaria do início do jogo. Fraca contra {TXT_KEY_UNIT_LANCER[2]}. Apenas os Gregos podem treiná-la. Esta unidade é rápida e possui uma [ICON_STRENGTH]Força de Combate maior, além de ajudar a produzir Grandes Generais mais rapidamente que o Homem a Cavalo, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWORDSMAN">
 			<Text>Forte unidade de infantaria da Era Clássica.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MOHAWK_WARRIOR">
 			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Iroqueses podem treiná-la. Esta unidade recebe um bônus maior quando luta em florestas ou selvas, ao contrário do {TXT_KEY_UNIT_SWORDSMAN} que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ROMAN_LEGION">
 			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Romanos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_SWORDSMAN}, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância, altamente efetiva em terreno aberto, mas significativamente prejudicada em terreno acidentado.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
 			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário do Biga Arqueira, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDIAN_WAR_ELEPHANT">
 			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH]Força de Combate e [ICON_STRENGTH]Força de Combate a Distância maiores que a do Biga Arqueira, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SPEARMAN">
 			<Text>Unidade da Era Antiga especializada em combater Unidades de Montaria.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HOPLITE">
 			<Text>Unidade da Era Antiga especializada em combater Unidades de Montaria. Apenas os Gregos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_LANCER}, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IMMORTAL">
 			<Text>Unidade da Era Antiga especializada em combater Unidades de Montaria. Apenas os Persas podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior e se cura mais rápido que o {TXT_KEY_UNIT_LANCER}, que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHER">
 			<Text>Poderosa unidade de ataque a distância da Era Antiga que pode acabar com inimigos de longe.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SCOUT">
 			<Text>Excelente descobridor, esta unidade não tem sua velocidade afetada em terreno acidentado, mas é vulnerável a ataques.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WARRIOR">
 			<Text>Unidade militar relativamente fraca do início do jogo.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_JAGUAR">
 			<Text>Unidade militar relativamente fraca do início do jogo. Esta unidade combate mais efetivamente em Selvas e se cura ao matar um inimigo, ao contrário do Guerreiro que ela substitui.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BARBARIAN_WARRIOR">
 			<Text>A unidade bárbara militar mais primitiva do jogo.</Text>
-			<Gender>0</Gender>
-			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_REPAIR_HELP">
 			<Text>Reparo Aéreo</Text>
