@@ -113,10 +113,10 @@
 			<Text>A {TXT_KEY_UNIT_HITTITE_WARCHARIOT}, uma evolução dos desenhos existentes de bigas, era maior e mais robusta que aquelas geralmente encontradas entre os exércitos do Egito. Reduzindo o peso geral da biga e movendo as rodas mais para frente, a adaptação Hitita foi capaz de carregar até 3 guerreiros em uma simples biga. Essas bigas geralmente eram utilizadas para esmagar as linhas inimigas, destruindo e desmoralizando a amedrontada infantaria inimiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT_STRATEGY">
-			<Text>A {TXT_KEY_UNIT_HITTITE_WARCHARIOT} é a unidade exclusiva Hitita, substituindo a {TXT_KEY_UNIT_CHARIOT_ARCHER}. Diferentemente da {TXT_KEY_UNIT_CHARIOT_ARCHER}, a {TXT_KEY_UNIT_HITTITE_WARCHARIOT} é uma unidade de ataque a distância especializada em atacar e destruir infantarias inimigas. Esta unidade inicia com a promoção Choque.</Text>
+			<Text>A {TXT_KEY_UNIT_HITTITE_WARCHARIOT} é a unidade exclusiva Hitita, substituindo o {TXT_KEY_UNIT_CHARIOT_ARCHER}. Diferentemente do {TXT_KEY_UNIT_CHARIOT_ARCHER}, a {TXT_KEY_UNIT_HITTITE_WARCHARIOT} é uma unidade de ataque a distância especializada em atacar e destruir infantarias inimigas. Esta unidade inicia com a promoção Choque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT_HELP">
-			<Text>Poderosa unidade de ataque a distância da Era Antiga, forte em terreno aberto. Possui a promoção Choque I. Somente os Hititas podem treiná-la. Substitui a {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
+			<Text>Poderosa unidade de ataque a distância da Era Antiga, forte em terreno aberto. Possui a promoção Choque I. Somente os Hititas podem treiná-la. Substitui o {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN_FIRSTGREETING_1">
 			<Text>Seja bem-vindo! Eu sou Gilgamesh do povo Sumério. Venha! Vamos admirar a suntuosidade do meu palácio!</Text>

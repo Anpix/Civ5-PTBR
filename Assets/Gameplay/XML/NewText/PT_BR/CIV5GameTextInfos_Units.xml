@@ -97,8 +97,8 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER">
-			<Text>Biga Arqueira|Bigas Arqueiras</Text>
-			<Gender>feminine:human</Gender>
+			<Text>Arqueiro em Biga|Arqueiros em Biga</Text>
+			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHINESE_CHUKONU">

@@ -186,7 +186,7 @@
 			<Text>Unidade de ataque a distância da Era Atômica que deve estar adjacente a um inimigo para atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_AXMAN">
-			<Text>O substituto Bárbaro para a {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
+			<Text>O substituto Bárbaro para o {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHAEOLOGIST">
 			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de {TXT_KEY_UNIT_WORKER} que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD]Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
