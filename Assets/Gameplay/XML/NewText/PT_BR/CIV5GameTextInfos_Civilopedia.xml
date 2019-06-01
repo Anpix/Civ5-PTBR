@@ -4678,7 +4678,7 @@
 			<Text>Recursos são fontes de alimento, produtividade, cultura ou outros bônus especiais, todos úteis a uma civilização. Em uma análise mais ampla, a riqueza e o poder de sua civilização serão determinados pelo número e tipo de recursos que você controla. Para utilizar um recurso, ele deve estar dentro das fronteiras de sua civilização e você deve construir a "Melhoria" apropriada no hexágono (por exemplo: você deve construir a melhoria "Plantação" para receber os benefícios de um recurso "Banana"). Há três diferentes tipos de recursos: bônus, estratégicos e de luxo. Todos oferecem benefícios de rendimento às cidades próximas e recursos de luxo e estratégicos possuem benefícios adicionais importantes (veja abaixo). Embora você não tenha acesso a todo o tipo de recurso dentro de suas fronteiras, você pode negociá-los com outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE1_TEXT">
-			<Text>Note que nem todos os recursos são visíveis no início do jogo: alguns requerem conhecimento em uma tecnologia particular antes que apareçam no mapa. Cavalos, por exemplo, não aparecem até que você pesquise "Pecuária" e Ferro não aparece até que você aprenda a tecnologia "Ferro".</Text>
+			<Text>Note que nem todos os recursos são visíveis no início do jogo: alguns requerem conhecimento em uma tecnologia particular antes que apareçam no mapa. Cavalos, por exemplo, não aparecem até que você pesquise "{TXT_KEY_TECH_ANIMAL_HUSBANDRY}" e Ferro não aparece até que você aprenda a tecnologia "{TXT_KEY_TECH_IRON_WORKING}".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE2_TEXT">
 			<Text>Há três tipos de recursos em Civilization V:</Text>
@@ -8743,13 +8743,13 @@
 			<Text>O que são recursos estratégicos?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGIC_HEADING2_BODY">
-			<Text>Recursos estratégicos não são visíveis no início do jogo: eles requerem o conhecimento de uma tecnologia em particular antes de aparecerem no mapa. Cavalos, por exemplo, não aparecem até você aprender Pecuária, e ferro não aparece antes de se aprender a tecnologia Ferro.[NEWLINE][NEWLINE]Recursos estratégicos permitem a construção de certas unidades e edificações. Quando você constrói uma melhoria em um hexágono com um recurso estratégico, este fornece um número limitado destes recursos, que são consumidos ao se construírem unidades e edifícios relacionados ao recurso. Por exemplo, você consome um recurso de ferro para cada unidade {TXT_KEY_UNIT_SWORDSMAN} criada. Se você não tem ferro disponível, não poderá construir o {TXT_KEY_UNIT_SWORDSMAN}. O recurso fica disponível novamente se a unidade ou edificação construída for destruída. Se você perder o acesso a um recurso, as unidades que requeiram aquele recurso receberão uma severa penalidade de combate até que o recurso seja restaurado.[NEWLINE][NEWLINE]Você pode trocar recursos estratégicos com outras civilizações.[NEWLINE][NEWLINE]Você pode ver quantas unidades de cada recurso estratégico estão disponíveis no topo da sua tela principal.</Text>
+			<Text>Recursos estratégicos não são visíveis no início do jogo: eles requerem o conhecimento de uma tecnologia em particular antes de aparecerem no mapa. Cavalos, por exemplo, não aparecem até você aprender {TXT_KEY_TECH_ANIMAL_HUSBANDRY}, e ferro não aparece antes de se aprender a tecnologia {TXT_KEY_TECH_IRON_WORKING}.[NEWLINE][NEWLINE]Recursos estratégicos permitem a construção de certas unidades e edificações. Quando você constrói uma melhoria em um hexágono com um recurso estratégico, este fornece um número limitado destes recursos, que são consumidos ao se construírem unidades e edifícios relacionados ao recurso. Por exemplo, você consome um recurso de ferro para cada unidade {TXT_KEY_UNIT_SWORDSMAN} criada. Se você não tem ferro disponível, não poderá construir o {TXT_KEY_UNIT_SWORDSMAN}. O recurso fica disponível novamente se a unidade ou edificação construída for destruída. Se você perder o acesso a um recurso, as unidades que requeiram aquele recurso receberão uma severa penalidade de combate até que o recurso seja restaurado.[NEWLINE][NEWLINE]Você pode trocar recursos estratégicos com outras civilizações.[NEWLINE][NEWLINE]Você pode ver quantas unidades de cada recurso estratégico estão disponíveis no topo da sua tela principal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGIC_HEADING2_TITLE">
 			<Text>Recursos estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_BODY">
-			<Text>Alumínio (Mina/Eletricidade)[NEWLINE]Carvão (Mina/Teoria Científica)[NEWLINE]Cavalos (Pasto/Pecuária)[NEWLINE]Ferro (Mina/Ferro)[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/Biologia)[NEWLINE]Urânio (Mina/Teoria Atômica)</Text>
+			<Text>Alumínio (Mina/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão (Mina/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro (Mina/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio (Mina/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_TITLE">
 			<Text>Estratégico (Melhoria Necessária)</Text>
@@ -9634,7 +9634,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_HORSEMAN}[ENDCOLOR], uma unidade montada rápida e poderosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Um cavalo! Um cavalo!"[NEWLINE][TAB][TAB]Meu reino por um cavalo!"[NEWLINE][TAB][TAB] - Shakespeare (Ricardo Terceiro)[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Um cavalo! Um cavalo!"[NEWLINE][TAB][TAB]Meu reino por um cavalo!"[NEWLINE][TAB][TAB] - Shakespeare (Ricardo III)[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INCREASINGBEAKERS_ADV_QUEST">
 			<Text>Como posso acelerar a pesquisa?</Text>
@@ -11392,7 +11392,7 @@
 			<Text>Poço de Petróleo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_BODY">
-			<Text>Requisitos Tecnológicos: Pecuária[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
+			<Text>Requisitos Tecnológicos: {TXT_KEY_TECH_ANIMAL_HUSBANDRY}[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_TITLE">
 			<Text>Pasto</Text>
