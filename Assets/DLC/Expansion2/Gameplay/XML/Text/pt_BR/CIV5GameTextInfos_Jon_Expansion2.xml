@@ -502,22 +502,22 @@
             <Text>Você pode presentear esta Cidade-Estado com uma unidade de combate de qualquer lugar do mapa. Ela levará {1_TurnsUntilArrival} {1:plural 1?turno; other?turnos;} para chegar e você não poderá enviar outro presente até que isso aconteça. Assim que ela chegar, você ganhará {2_Influence} de [ICON_INFLUENCE]Influência.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_PLAYER">
-            <Text>Nós ainda estamos procurando novas conexões com {1_CivName:textkey}. Talvez você possa nos ajudar.</Text>
+            <Text>Nós ainda estamos procurando novas conexões com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}. Talvez você possa nos ajudar.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_TRADE_ROUTE">
             <Text>Nós queremos que você complete uma rota comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_QUEST_START_TRADE_ROUTE">
-            <Text>Cidadãos de {@1_MinorCivName} acreditam que nós podemos prosperar mutualmente com uma rota comercial.</Text>
+            <Text>Cidadãos {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName} acreditam que nós podemos prosperar mutualmente com uma rota comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_START_TRADE_ROUTE">
-            <Text>{@1_MinorCivName} {@1: plural 1?deseja; other?desejam} rota comercial</Text>
+            <Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_MinorCivName} {@1: plural 1?deseja; other?desejam} rota comercial</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_TRADE_ROUTE">
-            <Text>Cidad~so de {@1_MinorCivName} estão contentes por verem uma rota comercial conectada. Sua [ICON_INFLUENCE]Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]!</Text>
+            <Text>Cidadãos {@1: gender *:noart?de; feminine?{@1: plural 2?das; other?da;}; masculine?{@1: plural 2?dos; other?do;}; other?de;} {@1_MinorCivName} estão contentes por verem uma rota comercial conectada. Sua [ICON_INFLUENCE]Influência sobre eles aumentou em [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]!</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_TRADE_ROUTE">
-            <Text>Rota Comercial estabelecda para {@1_MinorCivName}!</Text>
+            <Text>Rota Comercial estabelecida para {@1: gender *:noart?{}; feminine?{@1: plural 2?as ; other?a ;}; masculine?{@1: plural 2?os ; other?o ;}; other?{};}{@1_MinorCivName}!</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_TRADE_ROUTE_FORMAL">
             <Text>Eles querem que você complete uma rota comercial terrestre ou marítima com a cidade deles.</Text>
@@ -583,10 +583,10 @@
 			<Text>Princípio da Diplomacia Forçada</Text>
 		</Row>		
         <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP">
-            <Text>{@1_MinorCivName} {@1: plural 1?está; other?estão;} procurando por ajuda em sua guerra com {@2_CivName}. Ao presenteá-{@1: plural 1?{@1: gender feminine?las; other?los;}; other?{@1: gender feminine?la; other?lo;};} com unidades, você ganhará mais [ICON_INFLUENCE]Influência que o normal enquanto a guerra ocorrer. O presente pode ser dado a distância, usando a tela de diplomacia da Cidade-Estado, ou movendo uma unidade diretamente ao território deles e selecionando a ação apropriada.</Text>
+            <Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_MinorCivName} {@1: plural 1?está; other?estão;} procurando por ajuda em sua guerra com {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_CivName}. Ao presenteá-{@1: plural 1?{@1: gender feminine?las; other?los;}; other?{@1: gender feminine?la; other?lo;};} com Unidades, você ganhará mais [ICON_INFLUENCE]Influência que o normal enquanto a guerra ocorrer. O presente pode ser dado a distância, usando a tela de diplomacia da Cidade-Estado, ou movendo uma unidade diretamente ao território deles e selecionando a ação apropriada.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP">
-            <Text>{@1_MinorCivName} {@1: plural 1?pede; other?pedem;} unidades.</Text>
+            <Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_MinorCivName} {@1: plural 1?pede; other?pedem;} unidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_GIFT_UNIT">
             <Text>Queremos que você ajude em nossa guerra, presenteando-nos com unidades.</Text>
@@ -605,7 +605,7 @@
             <Text>Você adicionou uma crença de Reforma a sua religião {@1_ReligionName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED">
-            <Text>{1_CivName} {1: plural 1?adicionou; 2?adicionaram;} uma crença de Reforma a sua religião {@2_ReligionName}.</Text>
+            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 1?adicionou; 2?adicionaram;} uma crença de Reforma a sua religião {@2_ReligionName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_UNKNOWN">
             <Text>Uma civilização desconhecida adicionou uma crença de Reforma em sua religião {@1_ReligionName}.</Text>
@@ -635,7 +635,7 @@
             <Text>ESCOLHER IDEOLOGIA</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN">
-            <Text>{1_CivName} {1: plural 1?adotou; 2?adotaram;} a Ideologia {2_TheirPolicyTree}.</Text>
+            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 1?adotou; 2?adotaram;} a Ideologia {2_TheirPolicyTree}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN_UNMET">
             <Text>Uma civilização desconhecida adotou a Ideologia {1_TheirPolicyTree}.</Text>

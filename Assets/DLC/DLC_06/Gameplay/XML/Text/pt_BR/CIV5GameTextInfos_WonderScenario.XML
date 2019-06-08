@@ -182,28 +182,28 @@
 			<Text>{@1_CivName} construindo em {@2_CityName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_BUILT_BY">
-			<Text>Construída {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName} em {@2_CityName}</Text>
+			<Text>Construída {@1: gender *:noart?por; feminine?{@1: plural 2?pelas; other?pela;}; masculine?{@1: plural 2?pelos; other?pelo;}; other?por;} {@1_CivName} em {@2_CityName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_CAPTURED_BY">
-			<Text>[ICON_OCCUPIED]Capturada {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName}</Text>
+			<Text>[ICON_OCCUPIED]Capturada {@1: gender *:noart?por; feminine?{@1: plural 2?pelas; other?pela;}; masculine?{@1: plural 2?pelos; other?pelo;}; other?por;} {@1_CivName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_UNLOCKED">
 			<Text>Liberada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_UNLOCKED_BY">
-			<Text>Liberada {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName}</Text>
+			<Text>Liberada {@1: gender *:noart?por; feminine?{@1: plural 2?pelas; other?pela;}; masculine?{@1: plural 2?pelos; other?pelo;}; other?por;} {@1_CivName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_LOCKED">
 			<Text>[ICON_LOCKED]Bloqueada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_LOCKED_BY">
-			<Text>[ICON_LOCKED]Bloqueada {@1: gender masculine?{@1: plural 1?pelo; other?pelos;}; other?{@1: plural 1?pela; other?pelas;};} {@1_CivName}</Text>
+			<Text>[ICON_LOCKED]Bloqueada {@1: gender *:noart?por; feminine?{@1: plural 2?pelas; other?pela;}; masculine?{@1: plural 2?pelos; other?pelo;}; other?por;} {@1_CivName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_WONDER_UNLOCKED">
 			<Text>Graças aos seus avanços, sua civilização liberou o poder para construir {@1: gender masculine?{@1: plural 1?o; other?os;}; other?{@1: plural 1?a; other?as;};} {@1_WonderName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_BUILT">
-			<Text>{@1_CivName} {@1: plural 1?completou; other?completaram;} o Oráculo! Para consultar o Oráculo, traga uma Grande Pessoa a uma distância de até {2_HexDist} {2: plural 1?hexágono; other?hexágonos;} de {@3_CityName}.</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} {@1: plural 1?completou; other?completaram;} o Oráculo! Para consultar o Oráculo, traga uma Grande Pessoa a uma distância de até {2_HexDist} {2: plural 1?hexágono; other?hexágonos;} de {@3_CityName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ASK_CONSULT_ORACLE">
 			<Text>{@1_UnitName} {@1: plural 1?deverá; other?deverão;} consultar o Oráculo?[NEWLINE][NEWLINE]Isso durará {2_ConsultDuration} {2: plural 1?turno; other?turnos;}. Esta Grande Pessoa não poderá consultar o Oráculo novamente, mas não será consumida.</Text>
@@ -212,7 +212,7 @@
 			<Text>EXIBINDO: Informação revelada pela consulta ao Oráculo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_CONSULTED_BY">
-			<Text>{@1_CivName} {@1: plural 1?consultou; other?consultaram;} o Oráculo!</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} {@1: plural 1?consultou; other?consultaram;} o Oráculo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_EXPIRED">
 			<Text>EXIBINDO: Informação conhecida por sua civilização.</Text>

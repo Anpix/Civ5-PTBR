@@ -1163,22 +1163,22 @@
             <Text>Você capturou {@1_CityName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_CAPTURED_BY">
-            <Text>{@1_CityName} foi capturada por {@2_LongCivName}!!!</Text>
+            <Text>{@1_CityName} foi capturada {@2: gender *:noart?por; feminine?{@2: plural 2?pelas; other?pela;}; masculine?{@2: plural 2?pelos; other?pelo;}; other?por;} {@2_LongCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_HAS_BEEN_FOUNDED">
             <Text>{@1_CityName} foi fundada</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_HAS_BEEN_RAZED_BY">
-            <Text>{@2_CivName} ateou fogo em {@1_CityName}!!!</Text>
+            <Text>{@2: gender *:noart?{}; feminine?{@2: plural 2?As ; other?A ;}; masculine?{@2: plural 2?Os ; other?O ;}; other?{};}{@2_CivName} dizimou {@1_CityName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_IS_FOUNDED">
             <Text>{@1_CityName} está fundada</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_RAZED_BY">
-            <Text>{@1_CityName} foi incendiada por {@2_LongCivName}!!!</Text>
+            <Text>{@1_CityName} foi dizimada {@2: gender *:noart?por; feminine?{@2: plural 2?pelas; other?pela;}; masculine?{@2: plural 2?pelos; other?pelo;}; other?por;} {@2_LongCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_WAS_CAPTURED_BY">
-            <Text>{@1_CityName} foi capturada por {@2_LongCivName}!!!</Text>
+            <Text>{@1_CityName} foi capturada {@2: gender *:noart?por; feminine?{@2: plural 2?pelas; other?pela;}; masculine?{@2: plural 2?pelos; other?pelo;}; other?por;} {@2_LongCivName}!!!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_CITY_WLTKD_ENDED_KNOWN_RESOURCE">
             <Text>A festa "Nós Amamos o Rei" acabou em {@1_CityName}. Ela agora quer [COLOR_HIGHLIGHT_TEXT]{@2_ResourceName}[ENDCOLOR]!</Text>

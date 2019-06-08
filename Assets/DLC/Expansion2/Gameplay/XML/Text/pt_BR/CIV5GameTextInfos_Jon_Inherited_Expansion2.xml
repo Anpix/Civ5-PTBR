@@ -37,7 +37,7 @@
             <Text>Eles querem que você lhes dê um presente de ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_PLEDGE_TO_PROTECT">
-            <Text>Nós estamos cansados de sermos pressionados {1: plural 2?{1: gender feminine?pelas; masculine?pelos; other?por;}; other?{1: gender feminine?pela; masculine?pelo; other?por;};} {1_CivName:textkey}. Se você prometer publicamente nos proteger, talvez eles possam pensar duas vezes na próxima vez. Nós lhe recompensaremos pelo trabalho.</Text>
+            <Text>Nós estamos cansados de sermos pressionados {1: gender *:noart?por; feminine?{1: plural 2?pelas; other?pela;}; masculine?{1: plural 2?pelos; other?pelo;}; other?por;} {1_CivName:textkey}. Se você prometer publicamente nos proteger, talvez eles possam pensar duas vezes na próxima vez. Nós lhe recompensaremos pelo trabalho.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_PLEDGE_TO_PROTECT_FORMAL">
             <Text>Eles querem que você prometa proteção a eles.</Text>
@@ -325,7 +325,7 @@
             <Text>Os líderes {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_MinorCivName:textkey} estão de olho na prosperidade das outras Cidades-Estado e querem que você os ajude a manter seus rivais em dificuldades. Se você exigir qualquer tipo de tributo {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_TargetName:textkey}, eles o recompensarão.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_BULLY_CITY_STATE">
-            <Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_MinorCivName:textkey} {2: plural 2?querem; other?quer;} {1_TargetName:textkey} {1: gender *:noart?intimidada; feminine?{1: plural 2?intimidadas; other?intimidada;}; masculine?{1: plural 2?intimidados; other?intimidado;}; other?intimidado;}.</Text>
+            <Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_MinorCivName:textkey} {2: plural 2?querem; other?quer;} {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey} {1: gender *:noart?intimidada; feminine?{1: plural 2?intimidadas; other?intimidada;}; masculine?{1: plural 2?intimidados; other?intimidado;}; other?intimidado;}.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_BULLY_CITY_STATE">
             <Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_MinorCivName:textkey} {2: plural 2?gostaram; other?gostou;} de ver {1: gender masculine?seu rival; other?sua rival;}, {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey}, {1: plural 2?se contorcerem e abrirem mão; other?se contorcer e abrir mão;} de valiosos recursos. Sua [ICON_INFLUENCE]Influência com eles aumentou em [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]!</Text>

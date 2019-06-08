@@ -19,10 +19,10 @@
 		</Row>
 		<!-- City-State Text -->
 		<Row Tag="TXT_KEY_CITY_STATE_HAS_MESSAGE">
-			<Text>Mensagem da Cidade-Estado de {1_CivName:textkey}.</Text>
+			<Text>Mensagem da Cidade-Estado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MET">
-			<Text>Você encontrou a Cidade-Estado de {1_CivName:textkey}.</Text>
+			<Text>Você encontrou a Cidade-Estado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_RELATIONSHIP_NEUTRAL">
 			<Text>Eles são neutros.</Text>
@@ -58,19 +58,19 @@
 			<Text>Ou você está em guerra com o aliado desta Cidade-Estado ou você atacou tantas Cidades-Estado, que nenhuma delas irá negociar com você novamente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_FRIENDLY">
-			<Text>Saudações grande líder. Nós representamos {1_CivName:textkey}. Sinceramente esperamos paz forte e duradoura com seu poderoso Império. {2_DetailsString} Confiamos que você nos dará assistência quando precisarmos no futuro. [NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+			<Text>Saudações grande líder. Nós representamos {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}. Sinceramente esperamos paz forte e duradoura com seu poderoso Império. {2_DetailsString} Confiamos que você nos dará assistência quando precisarmos no futuro. [NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_NEUTRAL">
-			<Text>Saudações. Nós somos o povo de {1_CivName:textkey}. Respeite-nos e teremos paz. {2_DetailsString} Buscamos relações de apoio mútuo com os nossos vizinhos: se buscarmos assistência, esperamos que você a forneça e, claro, faremos o mesmo por você. [NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+			<Text>Saudações. Nós somos o povo {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}. Respeite-nos e teremos paz. {2_DetailsString} Buscamos relações de apoio mútuo com os nossos vizinhos: se buscarmos assistência, esperamos que você a forneça e, claro, faremos o mesmo por você. [NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_HOSTILE">
-			<Text>Pare, Forasteiro! Nós somos o poderoso povo de {1_CivName:textkey}. Brinque conosco por sua conta e risco! {2_DetailsString} Se você for privilegiado. Claro que somos autossuficientes, mas se precisarmos de ajuda, esperamos que você atenda prontamente.[NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+			<Text>Pare, Forasteiro! Nós somos o poderoso povo {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}. Brinque conosco por sua conta e risco! {2_DetailsString} Se você for privilegiado. Claro que somos autossuficientes, mas se precisarmos de ajuda, esperamos que você atenda prontamente.[NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_IRRATIONAL">
-			<Text>Ahhhh... Um presságio contou a {1_CivName:textkey} que você um dia iria chegar. {2_DetailsString} Faremos grandes coisas juntos - o seu Império e o nosso. Está escrito nas estrelas![NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+			<Text>Ahhhh... Um presságio contou {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_CivName:textkey} que você um dia iria chegar. {2_DetailsString} Faremos grandes coisas juntos - o seu Império e o nosso. Está escrito nas estrelas![NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MINOR_SPEAK_AGAIN">
-			<Text>(Se você quiser falar com {1_CivName:textkey} novamente, clique na cidade.)</Text>
+			<Text>(Se você quiser falar com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} novamente, clique na cidade.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_GREETING_CULTURED">
 			<Text>Somos um povo [COLOR_POSITIVE_TEXT]Culto[ENDCOLOR] e podemos ajudar a melhorar a sua [ICON_CULTURE] [COLOR_POSITIVE_TEXT]Cultura[ENDCOLOR].</Text>
@@ -148,10 +148,10 @@
 			<Text>Eles querem que você destrua a Cidade-Estado de {1_CityStateName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_PLAYER">
-			<Text>Ainda estamos em busca de novas rotas comerciais para {1_CivName:textkey}. Talvez você possa nos ajudar.</Text>
+			<Text>Ainda estamos em busca de novas rotas comerciais para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}. Talvez você possa nos ajudar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_PLAYER_FORMAL">
-			<Text>Eles querem que você encontre as terras de {1_CivName:textkey}.</Text>
+			<Text>Eles querem que você encontre as terras {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_NATURAL_WONDER">
 			<Text>Nós ainda desejamos descobrir mais sobre as Maravilhas Naturais deste mundo.</Text>
@@ -350,13 +350,13 @@
 			<Text>{1_PlayerName} entrou na {2_EraString:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH">
-			<Text>Seu Acordo de Pesquisa com {1_CivName:textkey} está concluído e ele lhe deu um avanço tecnológico!</Text>
+			<Text>Seu Acordo de Pesquisa com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} está concluído e ele lhe deu um avanço tecnológico!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_S">
 			<Text>Acordo de Pesquisa completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL">
-			<Text>Seu Acordo de Pesquisa com {1_CivName:textkey} foi cancelado porque vocês estão em guerra agora.</Text>
+			<Text>Seu Acordo de Pesquisa com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} foi cancelado porque vocês estão em guerra agora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL_S">
 			<Text>Acordo de Pesquisa cancelado!</Text>
@@ -392,7 +392,7 @@
 			<Text>{1_CityName:textkey} pode disparar contra um inimigo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_ANOTHER">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?{1: gender feminine?é reconhecida; masculine?é reconhecido; other? ;}; other?{1: gender feminine?são reconhecidas; masculine?são reconhecidos; other? ;};} como a civilização que mais possui Grandes Pessoas, ganhando {2_Num} {2: plural 1?ponto; other?pontos;} de Civilização por isso. Outro jogador precisará de pelo menos {3_Num} {3: plural 1?Grande Pessoa; other?Grandes Pessoas} para ganhar este título.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?{1: gender feminine?é reconhecida; masculine?é reconhecido; other? ;}; other?{1: gender feminine?são reconhecidas; masculine?são reconhecidos; other? ;};} como a civilização que mais possui Grandes Pessoas, ganhando {2_Num} {2: plural 1?ponto; other?pontos;} de Civilização por isso. Outro jogador precisará de pelo menos {3_Num} {3: plural 1?Grande Pessoa; other?Grandes Pessoas} para ganhar este título.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_UNMET">
 			<Text>Uma desconhecida Civilização é a que mais possui Grandes Pessoas no mundo! Este título lhe dá {1_Num} {1: plural 1?ponto; other?pontos;} de Civilização. Outro jogador precisará de pelo menos {2_Num} {2: plural 1?Grande Pessoa; other?Grandes Pessoas} para ganhar este título.</Text>
@@ -401,7 +401,7 @@
 			<Text>Sua Civilização é a que mais possui Grandes Pessoas em todo mundo, dando {1_Num} {1: plural 1?ponto; other?pontos} de Civilização a você por isso! Outro jogador precisará de pelo menos {2_Num} {2: plural 1?Grande Pessoa; other?Grandes Pessoas} para ganhar este título de você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_ANOTHER">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?{1: gender feminine?é honrada por ser; masculine?é honrado por ser; other? ;}; other?{1: gender feminine?são honradas por serem; masculine?são honrados por serem; other? ;};} a Civilização que mais possui Políticas Sociais, ganhando {2_Num} {2: plural 1?ponto; other?pontos} de Civilização por isso. Outro jogador precisará ter pelo menos {3_Num} {3: plural 1?Política Social; other?Políticas Sociais} para ganhar este título.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?{1: gender feminine?é honrada por ser; masculine?é honrado por ser; other? ;}; other?{1: gender feminine?são honradas por serem; masculine?são honrados por serem; other? ;};} a Civilização que mais possui Políticas Sociais, ganhando {2_Num} {2: plural 1?ponto; other?pontos} de Civilização por isso. Outro jogador precisará ter pelo menos {3_Num} {3: plural 1?Política Social; other?Políticas Sociais} para ganhar este título.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_UNMET">
 			<Text>Um jogador desconhecido é honrado por ser a Civilização que mais possui Políticas Sociais, ganhando {1_Num} {1: plural 1?ponto; other?pontos} de Civilização por isso. Outro jogador precisará ter pelo menos {2_Num} {2: plural 1?Política Social; other?Políticas Sociais} para reivindicar este título.</Text>
@@ -410,7 +410,7 @@
 			<Text>Sua Civilização é a que possui mais Políticas Sociais no mundo, ganhando {1_Num} {1: plural 1?ponto; other?pontos} de Civilização por isso! Outro jogador precisará ter pelo menos {2_Num} {2: plural 1?Política Social; other?Políticas Sociais} para tomar este título de você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_ANOTHER">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?{1: gender feminine?é reconhecida; masculine?é reconhecido; other? ;}; other?{1: gender feminine?são reconhecidas; masculine?são reconhecidos; other? ;};} como a Civilização que mais possui Maravilhas, ganhando {2_Num} {2: plural 1?ponto; other?pontos} de Civilização por isso. Outro jogador precisará ter pelo menos {3_Num} {3: plural 1?Maravilha; other?Maravilhas} para reivindicar este título.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?{1: gender feminine?é reconhecida; masculine?é reconhecido; other? ;}; other?{1: gender feminine?são reconhecidas; masculine?são reconhecidos; other? ;};} como a Civilização que mais possui Maravilhas, ganhando {2_Num} {2: plural 1?ponto; other?pontos} de Civilização por isso. Outro jogador precisará ter pelo menos {3_Num} {3: plural 1?Maravilha; other?Maravilhas} para reivindicar este título.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_UNMET">
 			<Text>Uma desconhecida Civilização possui atualmente o maior número de Maravilhas construídas, ganhando assim {1_Num} {1: plural 1?ponto; other?pontos} de Civilização! Outro jogador precisará construir pelo menos {2_Num} {2: plural 1?Maravilha; other?Maravilhas} para ter este título.</Text>
@@ -425,43 +425,43 @@
 			<Text>A cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName:textkey} possui atualmente {2_Population} [ICON_CITIZEN]{2: plural 1?cidadão; other?cidadãos;}! O novo cidadão trabalhará automaticamente nas terras próximas à cidade para aquisição de mais [ICON_FOOD]Alimentos, [ICON_PRODUCTION]Produção ou [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_DEFENSIVE_PACT_FROM_US">
-			<Text>Nosso pacto defensivo com {1: plural 1?{1: gender *:noart? ; feminine?a; masculine?o; other? ;}; other?{1: gender *:noart? ; feminine?as; masculine?os; other? ;};} {1_CivName:textkey} terminou.</Text>
+			<Text>Nosso pacto defensivo com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_DEFENSIVE_PACT_TO_US">
-			<Text>O acordo de pacto defensivo que {1_CivName:textkey} tinha conosco terminou.</Text>
+			<Text>O acordo de pacto defensivo que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} tinha conosco terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_FROM_US">
-			<Text>O acordo que tínhamos com {1_CivName:textkey}, onde fornecíamos [ICON_GOLD]Ouro a cada turno, terminou.</Text>
+			<Text>O acordo que tínhamos com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}, onde fornecíamos [ICON_GOLD]Ouro a cada turno, terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_TO_US">
-			<Text>O acordo que tínhamos com {1_CivName:textkey}, onde ganhávamos [ICON_GOLD]Ouro a cada turno, terminou.</Text>
+			<Text>O acordo que tínhamos com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}, onde ganhávamos [ICON_GOLD]Ouro a cada turno, terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
-			<Text>O acordo que liberava o acesso às nossas fronteiras para {1_CivName:textkey} terminou.</Text>
+			<Text>O acordo que liberava o acesso às nossas fronteiras para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_TO_US">
-			<Text>O acordo com {1_CivName:textkey}, que nos forneceu livre acesso às suas fronteiras, terminou.</Text>
+			<Text>O acordo com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}, que nos forneceu livre acesso às suas fronteiras, terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
-			<Text>Nosso acordo de pesquisa com {1_CivName:textkey} terminou.</Text>
+			<Text>Nosso acordo de pesquisa com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
-			<Text>O acordo de pesquisa que {1_CivName:textkey} tinha conosco terminou.</Text>
+			<Text>O acordo de pesquisa que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} tinha conosco terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_FROM_US">
-			<Text>O acordo em que nós disponibilizávamos {2_Resource} para {1_CivName:textkey} terminou.</Text>
+			<Text>O acordo em que nós disponibilizávamos {2_Resource} para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_TO_US">
-			<Text>O acordo em que {1_CivName:textkey} fornecia {2_Resource} para nós terminou.</Text>
+			<Text>O acordo em que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} fornecia {2_Resource} para nós terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT_FROM_US">
-			<Text>Nosso acordo comercial com {1_CivName:textkey} terminou.</Text>
+			<Text>Nosso acordo comercial com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT_TO_US">
-			<Text>O acordo comercial que {1_CivName:textkey} tinha conosco terminou.</Text>
+			<Text>O acordo comercial que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} tinha conosco terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_PEACE">
-			<Text>O tratado de paz com {1: plural 1?{1: gender *:noart? ; feminine?a; masculine?o; other? ;}; other?{1: gender *:noart? ; feminine?as; masculine?os; other? ;};} {1_CivName:textkey} terminou. Qualquer uma das Civilizações poderá agora declarar guerra à outra.</Text>
+			<Text>O tratado de paz com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou. Qualquer uma das Civilizações poderá agora declarar guerra à outra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_PEACE">
 			<Text>Tratado de paz expirou</Text>
@@ -507,22 +507,22 @@
 		</Row>
 		<!-- Notifications relating to Minor Civs -->
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARB_KILLED">
-			<Text>Você matou um grupo de Bárbaros próximo a {1_CivName:textkey}! Eles estão gratos e sua [ICON_INFLUENCE]Influência sobre eles aumentou em 12!</Text>
+			<Text>Você eliminou um grupo de Bárbaros próximo {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_CivName:textkey}! Eles estão gratos e sua [ICON_INFLUENCE]Influência sobre eles aumentou em 12!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SM_MINOR_BARB_KILLED">
-			<Text>Bárbaros foram mortos nas proximidades de {1_CivName:textkey}!</Text>
+			<Text>Bárbaros foram eliminados nas proximidades {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MET_MINOR_CIV">
 			<Text>Você encontrou a Cidade-Estado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_INTRUSION">
-			<Text>Você está nas terras de {1_CivName:textkey}! Enquanto suas unidades permanecerem neste território, sua [ICON_INFLUENCE]Influência sobre eles irá diminuir!</Text>
+			<Text>Você está nas terras {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}! Enquanto suas unidades permanecerem neste território, sua [ICON_INFLUENCE]Influência sobre eles irá diminuir!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_LIBERATION_YOU">
-			<Text>Você libertou {1_CivName:textkey}! Eles estão em dívida com você pela sobrevivência.</Text>
+			<Text>Você libertou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}! Eles estão em dívida com você pela sobrevivência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_LIBERATION">
-			<Text>{1_MinorCivName:textkey} foi libertada por {2_MajorCivName:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorCivName:textkey} foi libertada {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_MajorCivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_AGGRESSOR">
 			<Text>Sua agressão contra seus vizinhos mais fracos não passou despercebida. Eles começaram a se reunir para uma defesa mútua e vão lutar até a morte. Se continuar atacando outras Cidades-Estado, mais irão se juntar à aliança.</Text>
@@ -556,201 +556,201 @@
 		</Row>
 		<!-- City-State Quest Notifications -->
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST">
-			<Text>{1_CivName:textkey} está sob ataque do {2_CivName:textkey}! Se você não ajudá-los, poderão ser eliminados. Eles pedem ajuda de todas as grandes potências. Se for capaz de eliminar ao menos {3_NumUnits} {3: plural 1?unidade inimiga; other?unidades inimigas}, {1_CivName:textkey} ficará grata a você.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} está sob ataque {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CivName:textkey}! Se você não ajudá-los, poderão ser eliminados. Eles pedem ajuda de todas as grandes potências. Se for capaz de eliminar ao menos {3_NumUnits} {3: plural 1?unidade inimiga; other?unidades inimigas}, {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} ficará grata a você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST">
-			<Text>{1_CivName:textkey} atacada pelo {2_CivName:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} atacada {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST_COMPLETED">
-			<Text>Você atendeu a um pedido do {1_CivName:textkey} para enfraquecer seu inimigo, o {2_CivName:textkey}! Sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
+			<Text>Você atendeu a um pedido {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} para enfraquecer seu inimigo, {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey}! Sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST_COMPLETED">
-			<Text>A guerra de {1_CivName:textkey} está completa.</Text>
+			<Text>A guerra {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} está completa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP">
-			<Text>{1_CivName:textkey} está procurando assistência contra {2_CivName:textkey}. Embora eles prefiram uma participação ativa na guerra, você poderá ajudá-los secretamente, dando-lhes unidades militares. (Clique nesta cidade para fazer isso).</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} está procurando assistência contra {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey}. Embora eles prefiram uma participação ativa na guerra, você poderá ajudá-los secretamente, dando-lhes unidades militares. (Clique nesta cidade para fazer isso).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP">
-			<Text>{1_CivName:textkey} requer unidades.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} requer unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST_LOST_CHANCE">
-			<Text>{1_CivName:textkey} não precisa mais da sua ajuda contra {2_CivName:textkey}.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} não precisa mais da sua ajuda contra {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST_LOST_CHANCE">
-			<Text>{1_CivName:textkey} não estão mais em guerra</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} não estão mais em guerra</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARBS_QUEST">
-			<Text>{1_CivName:textkey} pede sua ajuda contra uma invasão bárbara! Cada Bárbaro que você matar, trará mais [ICON_INFLUENCE]Influência sobre a Cidade-Estado.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} pede sua ajuda contra uma invasão bárbara! Cada Bárbaro que você matar, trará mais [ICON_INFLUENCE]Influência sobre a Cidade-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BARBS_QUEST">
-			<Text>{1_CivName:textkey} sob ataque!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} sob ataque!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARBS_QUEST_LOST_CHANCE">
-			<Text>{1_CivName:textkey} não precisa mais da sua assistência contra os bárbaros.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} não precisa mais da sua assistência contra os bárbaros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BARBS_QUEST_LOST_CHANCE">
-			<Text>{1_CivName:textkey} cancelou o pedido</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} cancelou o pedido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_START_ROUTE">
-			<Text>{1_CivName:textkey} gostaria que você construísse uma estrada entre sua [ICON_CAPITAL]Capital e a deles!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} gostaria que você construísse uma estrada entre sua [ICON_CAPITAL]Capital e a deles!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_START_ROUTE">
-			<Text>{1_CivName:textkey} pede uma estrada</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} pede uma estrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_ROUTE_CONNECTION">
-			<Text>Você [ICON_CONNECTED]conectou com sucesso a sua [ICON_CAPITAL]Capital com {1_CivName:textkey}! Sua [ICON_INFLUENCE]Influência sobre ela aumentou.</Text>
+			<Text>Você [ICON_CONNECTED]conectou com sucesso a sua [ICON_CAPITAL]Capital com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}! Sua [ICON_INFLUENCE]Influência sobre ela aumentou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ROUTE_CONNECTION">
-			<Text>Estrada para o {1_CivName:textkey}</Text>
+			<Text>Estrada para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};} {1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_KILL_CAMP">
-			<Text>Os cidadãos de {1_CivName:textkey} estão inquietos com a presença de um acampamento bárbaro nas próximidades e gostariam que alguém o destruísse! Eles irão recompensar generosamente quem o fizer.</Text>
+			<Text>Os cidadãos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} estão inquietos com a presença de um acampamento bárbaro nas próximidades e gostariam que alguém o destruísse! Eles irão recompensar generosamente quem o fizer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_KILL_CAMP">
-			<Text>{1_CivName:textkey} mira um acampamento próximo.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} mira um acampamento próximo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CAMP">
-			<Text>Você destruiu com sucesso o acampamento bárbaro que {1_CivName:textkey} havia lhe solicitado que destruísse! Sua [ICON_INFLUENCE]Influência sobre ela cresceu.</Text>
+			<Text>Você destruiu com sucesso o acampamento bárbaro que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} havia lhe solicitado que destruísse! Sua [ICON_INFLUENCE]Influência sobre ela cresceu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CAMP">
-			<Text>Acampamento destruído para {1_CivName:textkey}!</Text>
+			<Text>Acampamento destruído para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_QUEST_ENDED_KILL_CAMP">
-			<Text>O acampamento bárbaro que {1_MinorName:textkey} queria que você destruísse, foi destruído por alguém!</Text>
+			<Text>O acampamento bárbaro que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorName:textkey} queria que você destruísse, foi destruído por alguém!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_QUEST_ENDED_KILL_CAMP_S">
-			<Text>{1_MinorName:textkey} não precisa mais da sua ajuda</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorName:textkey} não precisa mais da sua ajuda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONNECT_RESOURCE">
-			<Text>Os comerciantes de {@2_CivName} procuram novas riquezas. Eles ouviram rumores sobre {@1: gender *:noart? ; feminine?{@1: plural 2?as; other?a;}; masculine?{@1: plural 2?os; other?o;}; other? ;} {@1_ResourceName} e do seu grande valor. Você será recompensado se puder ligar esse recurso a sua rota comercial.</Text>
+			<Text>Os comerciantes {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CivName} procuram novas riquezas. Eles ouviram rumores sobre {@1: gender *:noart? ; feminine?{@1: plural 2?as; other?a;}; masculine?{@1: plural 2?os; other?o;}; other? ;} {@1_ResourceName} e do seu grande valor. Você será recompensado se puder ligar esse recurso a sua rota comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONNECT_RESOURCE">
-			<Text>{@2_CivName} deseja {@1_ResourceName}</Text>
+			<Text>{@2: gender *:noart?{}; feminine?{@2: plural 2?As ; other?A ;}; masculine?{@2: plural 2?Os ; other?O ;}; other?{};}{@2_CivName} deseja {@1_ResourceName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONNECT_RESOURCE">
-			<Text>Como {@2_CivName} pediu, você conectou {@1_ResourceName} com sucesso a sua rota comercial! Os comerciantes deles estão satisfeitos e o nível de [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
+			<Text>Como {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_CivName} pediu, você conectou {@1_ResourceName} com sucesso a sua rota comercial! Os comerciantes deles estão satisfeitos e o nível de [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONNECT_RESOURCE">
-			<Text>{@1_ResourceName} {1: plural 1?{1: gender masculine?conectado; feminine?conectada;}; other?{1: gender masculine?conectados; feminine?conectadas;};} com {@2_CivName}!</Text>
+			<Text>{@1_ResourceName} {1: plural 1?{1: gender masculine?conectado; feminine?conectada;}; other?{1: gender masculine?conectados; feminine?conectadas;};} com {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_CivName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONSTRUCT_WONDER">
-			<Text>A elite cultural de {@2_CivName} anseia por algo deslumbrante. Eles acreditam que se a maravilha {@1_WonderName} for construída, ela os levará a grandes descobrimentos. Caso você a construa, será amplamente recompensado.</Text>
+			<Text>A elite cultural {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CivName} anseia por algo deslumbrante. Eles acreditam que se a maravilha {@1_WonderName} for construída, ela os levará a grandes descobrimentos. Caso você a construa, será amplamente recompensado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONSTRUCT_WONDER">
-			<Text>{@2_CivName} deseja {@1_WonderName}</Text>
+			<Text>{@2: gender *:noart?{}; feminine?{@2: plural 2?As ; other?A ;}; masculine?{@2: plural 2?Os ; other?O ;}; other?{};}{@2_CivName} deseja {@1_WonderName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONSTRUCT_WONDER">
-			<Text>Como {@2_CivName} pediu, você construiu com sucesso a maravilha {@1_WonderName}! Sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
+			<Text>Como {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_CivName} pediu, você construiu com sucesso a maravilha {@1_WonderName}! Sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONSTRUCT_WONDER">
-			<Text>{@1_WonderName} foi {1: gender masculine?construído; feminine?construída;} para {@2_CivName}!</Text>
+			<Text>{@1_WonderName} foi {1: gender masculine?construído; feminine?construída;} para {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_CivName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONSTRUCT_WONDER">
-			<Text>Outro jogador construiu a maravilha {@1_WonderName}, o que significa que você já não pode satisfazer o pedido de {@2_CivName}.</Text>
+			<Text>Outro jogador construiu a maravilha {@1_WonderName}, o que significa que você já não pode satisfazer o pedido {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_CivName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONSTRUCT_WONDER">
-			<Text>Você não pode mais construir a maravilha {@1_WonderName} para {@2_CivName}!</Text>
+			<Text>Você não pode mais construir a maravilha {@1_WonderName} para {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_CivName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_KILL_CITY_STATE">
-			<Text>{2_CivName:textkey} teve uma séria disputa com {1_TargetName:textkey}. {2_CivName:textkey} está à procura de uma grande potência disposta a ajudá-la a resolver isso, por meio da eliminação da sua inimiga. Quem estiver disposto a assumir essa oferta será generosamente recompensado.</Text>
+			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_CivName:textkey} teve uma séria disputa com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey}. {2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_CivName:textkey} está à procura de uma grande potência disposta a ajudá-la a resolver isso, por meio da eliminação da sua inimiga. Quem estiver disposto a assumir essa oferta será generosamente recompensado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_KILL_CITY_STATE">
-			<Text>{2_CivName:textkey} {2: plural 1?quer; other?querem;} {1_TargetName:textkey} eliminada.</Text>
+			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_CivName:textkey} {2: plural 1?quer; other?querem;} {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey} eliminada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CITY_STATE">
-			<Text>Para a alegria de {2_CivName:textkey}, você eliminou {1_TargetName:textkey}! Eles estão extremamente gratos por sua assistência neste assunto.</Text>
+			<Text>Para a alegria {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CivName:textkey}, você eliminou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey}! Eles estão extremamente gratos por sua assistência neste assunto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CITY_STATE">
-			<Text>{1_TargetName:textkey} foi eliminada por {2_CivName:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_TargetName:textkey} foi eliminada {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_KILL_CITY_STATE">
-			<Text>Outro jogador eliminou {1_TargetName:textkey}, impedindo você de satisfazer o pedido que {2_CivName:textkey} lhe fez.</Text>
+			<Text>Outro jogador eliminou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey}, impedindo você de satisfazer o pedido que {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey} lhe fez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_KILL_CITY_STATE">
-			<Text>Você não pode mais eliminar {1_TargetName:textkey} para {2_CivName:textkey}</Text>
+			<Text>Você não pode mais eliminar {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey} para {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_GREAT_PERSON">
-			<Text>Os estudiosos de {2_CivName:textkey} buscam a sabedoria de {1: gender feminine?uma; other?um;} {1_UnitName}. Se você conseguir atraí-{1: gender feminine?la; other?lo;} para o seu Império, você será recompensado.</Text>
+			<Text>Os estudiosos {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CivName:textkey} buscam a sabedoria de {1: gender feminine?uma; other?um;} {1_UnitName}. Se você conseguir atraí-{1: gender feminine?la; other?lo;} para o seu Império, você será recompensado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_GREAT_PERSON">
-			<Text>{2_CivName:textkey} busca {1: gender masculine?um; feminine?uma;} {1_UnitName}</Text>
+			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_CivName:textkey} busca {1: gender masculine?um; feminine?uma;} {1_UnitName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GREAT_PERSON">
-			<Text>Como {2_CivName:textkey} solicitou, você criou com sucesso {1: gender masculine?um; feminine?uma;} {1_UnitName}! Os estudiosos deles estão entusiasmados e sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
+			<Text>Como {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey} solicitou, você criou com sucesso {1: gender masculine?um; feminine?uma;} {1_UnitName}! Os estudiosos deles estão entusiasmados e sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_GREAT_PERSON">
-			<Text>{2_CivName:textkey} saúda {1: gender masculine?seu; feminine?sua;} {1_UnitName}!</Text>
+			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_CivName:textkey} saúda {1: gender masculine?seu; feminine?sua;} {1_UnitName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_FIND_PLAYER">
-			<Text>{2_CivName:textkey} está em busca de novas oportunidades comerciais. Eles ficaram sabendo de um império distante chamado "{1_TargetName:textkey}". Se você for capaz de encontrar território pertencente {1: gender masculine?ao; feminine?à;} {1_TargetName:textkey} você será recompensado.</Text>
+			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_CivName:textkey} está em busca de novas oportunidades comerciais. Eles ficaram sabendo de um império distante chamado "{1_TargetName:textkey}". Se você for capaz de encontrar território pertencente {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_TargetName:textkey} você será recompensado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_FIND_PLAYER">
-			<Text>{2_CivName:textkey} procura {1_TargetName:textkey}</Text>
+			<Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};}{2_CivName:textkey} procura {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_TargetName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_PLAYER">
-			<Text>Sua descoberta {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_TargetName:textkey} agradou muito aos comerciantes de {2_CivName:textkey}. Sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
+			<Text>Sua descoberta {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_TargetName:textkey} agradou muito aos comerciantes {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CivName:textkey}. Sua [ICON_INFLUENCE]Influência sobre eles aumentou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_FIND_PLAYER">
-			<Text>{1_TargetName:textkey} {1: gender masculine?{1: plural 1?foi descoberto; other?foram descobertos;}; feminine?{1: plural 1?foi descoberta; other?foram descobertas;};} {1: gender masculine?{1: plural 1?pelo; other?pelos;}; feminine?{1: plural 1?pela; other?pelas;};} {2_CivName:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_TargetName:textkey} {1: gender masculine?{1: plural 1?foi descoberto; other?foram descobertos;}; feminine?{1: plural 1?foi descoberta; other?foram descobertas;};} {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} {2_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_FIND_NATURAL_WONDER">
-			<Text>Os cidadãos mais afortunados de {1_CivName:textkey} ouviram rumores da existência de incríveis Maravilhas Naturais no mundo, que permanecem desconhecidas. Eles esperam que alguém possa investigar essa alegação.</Text>
+			<Text>Os cidadãos mais afortunados {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} ouviram rumores da existência de incríveis Maravilhas Naturais no mundo, que permanecem desconhecidas. Eles esperam que alguém possa investigar essa alegação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_FIND_NATURAL_WONDER">
-			<Text>{1_CivName:textkey} busca uma nova Maravilha Natural</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} busca uma nova Maravilha Natural</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_NATURAL_WONDER">
-			<Text>Você descobriu uma nova Maravilha Natural e tem inspirado aos cidadãos de {1_CivName:textkey}! Por causa dos seus esforços, sua [ICON_INFLUENCE]Influência aumentou com eles.</Text>
+			<Text>Você descobriu uma nova Maravilha Natural e tem inspirado aos cidadãos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}! Por causa dos seus esforços, sua [ICON_INFLUENCE]Influência aumentou com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_FIND_NATURAL_WONDER">
 			<Text>Uma Maravilha Natural foi descoberta {1: gender masculine?{1: plural 1?pelo; other?pelos;}; feminine?{1: plural 1?pela; other?pelas;};} {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_UNIT_SPAWN">
-			<Text>A Cidade-Estado de {1_CivName:textkey} lhe deu uma nova unidade!</Text>
+			<Text>A Cidade-Estado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} lhe deu uma nova unidade!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_STATE_UNIT_SPAWN">
-			<Text>Nova unidade vinda de {1_CivName:textkey}!</Text>
+			<Text>Nova unidade vinda {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
 		</Row>
 		<!-- Minor Civ Relations Notifications -->
 		<Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_BEST_RELATIONS_ALL">
-			<Text>{1_MinorName:textkey} tem um novo aliado!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorName:textkey} tem um novo aliado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_MINOR_NEW_BEST_RELATIONS_ALL">
-			<Text>{1_NewCivName:textkey} substituiu {2_OldCivName:textkey} como {2: gender feminine?{2: plural 1?aliada; other?aliadas;}; other?{2: plural 1?aliado; other?aliados;};} por {3_MinorName:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_NewCivName:textkey} substituiu {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_OldCivName:textkey} como {2: gender feminine?{2: plural 1?aliada; other?aliadas;}; other?{2: plural 1?aliado; other?aliados;};} {3: gender *:noart?por; feminine?{3: plural 2?pelas; other?pela;}; masculine?{3: plural 2?pelos; other?pelo;}; other?por;} {3_MinorName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_MINOR_NOW_BEST_RELATIONS_ALL">
-			<Text>{1_NewCivName:textkey} agora {1: plural 1?{1: gender feminine?é aliada; other?é aliado;}; other?{1: gender feminine?são aliadas; other?são aliados;};} de {2_MinorName:textkey}.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_NewCivName:textkey} agora {1: plural 1?{1: gender feminine?é aliada; other?é aliado;}; other?{1: gender feminine?são aliadas; other?são aliados;};} {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_MinorName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_BEST_RELATIONS_LOST_ALL">
-			<Text>{1_MinorName:textkey} e {2_NewCivName:textkey} não são mais {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorName:textkey} e {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_NewCivName:textkey} não são mais {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_MINOR_BEST_RELATIONS_LOST_ALL">
-			<Text>{@1_NewCivName:textkey} não {@1: gender feminine?{@1: plural 1?é mais aliada; other?são mais aliadas;}; other?{@1: plural 1?é mais aliado; other?são mais aliados;};} de {@2_MinorName:textkey}!</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_NewCivName:textkey} não {@1: gender feminine?{@1: plural 1?é mais aliada; other?são mais aliadas;}; other?{@1: plural 1?é mais aliado; other?são mais aliados;};} {@2: gender *:noart?de; feminine?{@2: plural 2?das; other?da;}; masculine?{@2: plural 2?dos; other?do;}; other?de;} {@2_MinorName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_MINOR_NOW_ALLIES_ALL">
-			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2_MinorName:textkey} aumentou e agora são {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;}!</Text>
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorName:textkey} aumentou e agora são {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_NOW_ALLIES_ALL">
-			<Text>{1_MinorName:textkey} e {2_NewCivName:textkey} são {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorName:textkey} e {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_NewCivName:textkey} são {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_MINOR_WERE_ALLIES_NOW_FRIENDS_ALL">
-			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2_MinorName:textkey} diminuiu. Eles não são mais {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;} e sim {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}.</Text>
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorName:textkey} diminuiu. Eles não são mais {1: gender feminine?{2: gender feminine?aliadas; other?aliados;}; other?aliados;} e sim {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_NOW_FRIENDS_ALL">
-			<Text>{1_MinorName:textkey} e {2_NewCivName:textkey} são {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorName:textkey} e {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_NewCivName:textkey} são {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_MINOR_NOW_FRIENDS_ALL">
-			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2_MinorName:textkey} aumentou: eles agora são {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}.</Text>
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorName:textkey} aumentou: eles agora são {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_MINOR_WERE_FRIENDS_ALL">
-			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2_MinorName:textkey} diminuiu e não são mais {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}!</Text>
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE]Influência sobre {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorName:textkey} diminuiu e não são mais {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_WERE_FRIENDS_ALL">
-			<Text>{1_MinorName:textkey} e {2_NewCivName:textkey} não são mais {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_MinorName:textkey} e {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_NewCivName:textkey} não são mais {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}!</Text>
 		</Row>
 		<!-- Notifications relating to Minor Civ bonuses being granted/taken away -->
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_BASE">
-			<Text>A [ICON_INFLUENCE]Influência sobre {1_CivName:textkey} aumentou a ponto de agora serem [COLOR_POSITIVE_TEXT]AMIGOS[ENDCOLOR].[NEWLINE][NEWLINE]{2_DetailsString} Eles também deram permissão para que você possa mover suas unidades pelo território deles.</Text>
+			<Text>A [ICON_INFLUENCE]Influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} aumentou a ponto de agora serem [COLOR_POSITIVE_TEXT]AMIGOS[ENDCOLOR].[NEWLINE][NEWLINE]{2_DetailsString} Eles também deram permissão para que você possa mover suas unidades pelo território deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_CULTURE">
 			<Text>Por ser uma Cidade-Estado [COLOR_POSITIVE_TEXT]Cultural[ENDCOLOR], ela te dá raras obras de arte! (+{1_NumCulture} de [ICON_CULTURE]Cultura por turno)</Text>
@@ -762,7 +762,7 @@
 			<Text>Por ser uma Cidade-Estado [COLOR_POSITIVE_TEXT]Marítima[ENDCOLOR], ela irá exportar Alimento para o seu Império (+{1_NumCapitalFood}[ICON_FOOD] para sua [ICON_CAPITAL]Capital, +{2_NumCitiesFood}[ICON_FOOD] para todas as outras cidades).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_FRIENDS_LOST_BASE">
-			<Text>A [ICON_INFLUENCE]Influência sobre {1_CivName:textkey} diminuiu a ponto de vocês não serem mais [COLOR_POSITIVE_TEXT]AMIGOS[ENDCOLOR]...[NEWLINE][NEWLINE]{2_DetailsString} Portanto, suas unidades não terão permissão de se moverem nos territórios deles.</Text>
+			<Text>A [ICON_INFLUENCE]Influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} diminuiu a ponto de vocês não serem mais [COLOR_POSITIVE_TEXT]AMIGOS[ENDCOLOR]...[NEWLINE][NEWLINE]{2_DetailsString} Portanto, suas unidades não terão permissão de se moverem nos territórios deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_CULTURE">
 			<Text>({1_NumCulture} de [ICON_CULTURE]Cultura por turno {1: plural 1?foi perdido; other?foram perdidos;})</Text>
@@ -774,10 +774,10 @@
 			<Text>({1_NumCapitalFood}[ICON_FOOD]para a [ICON_CAPITAL]Capital, {2_NumCitiesFood}[ICON_FOOD]para todas as outras cidades)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_BASE">
-			<Text>A [ICON_INFLUENCE]Influência sobre {2_MinorCivName:textkey} aumentou a ponto de vocês agora serem [COLOR_POSITIVE_TEXT]ALIADOS[ENDCOLOR].[NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]{1_ResourceDetailsString}</Text>
+			<Text>A [ICON_INFLUENCE]Influência sobre {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} aumentou a ponto de vocês agora serem [COLOR_POSITIVE_TEXT]ALIADOS[ENDCOLOR].[NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]{1_ResourceDetailsString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_BASE_PASSED">
-			<Text>A [ICON_INFLUENCE]Influência sobre {3_MinorCivName:textkey} aumentou a ponto de você ter [COLOR_POSITIVE_TEXT]Substituído {1_CivName:textkey} como {1: gender masculine?{1: plural 1?seu aliado; other?seus aliados;}; feminine?{1: plural 1?sua aliada; other?suas aliadas;};}[ENDCOLOR].[NEWLINE][NEWLINE]{4_DetailsString}[NEWLINE][NEWLINE]{2_ResourceDetailsString}</Text>
+			<Text>A [ICON_INFLUENCE]Influência sobre {3: gender *:noart?{}; feminine?{3: plural 2?as ; other?a ;}; masculine?{3: plural 2?os ; other?o ;}; other?{};}{3_MinorCivName:textkey} aumentou a ponto de você ter [COLOR_POSITIVE_TEXT]Substituído {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} como {1: gender masculine?{1: plural 1?seu aliado; other?seus aliados;}; feminine?{1: plural 1?sua aliada; other?suas aliadas;};}[ENDCOLOR].[NEWLINE][NEWLINE]{4_DetailsString}[NEWLINE][NEWLINE]{2_ResourceDetailsString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_CULTURE">
 			<Text>Por ser uma Cidade-Estado [COLOR_POSITIVE_TEXT]Cultural[ENDCOLOR], ela dá a você os mais finos artefatos culturais! (+{1_NumCulture} de [ICON_CULTURE]Cultura por turno).</Text>
@@ -792,10 +792,10 @@
 			<Text>Eles agora irão compartilhar seu conhecimento com você! (Você recebe um bônus de [ICON_RESEARCH]Ciência equivalente à geração do Império deles).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_LOST">
-			<Text>A [ICON_INFLUENCE]Influência sobre {1_CivName:textkey} diminuiu ao ponto de vocês não serem mais [COLOR_POSITIVE_TEXT]ALIADOS[ENDCOLOR].[NEWLINE][NEWLINE]{2_DetailsString}[NEWLINE][NEWLINE]Com isso, eles deixarão de lhe fornecer recursos estratégicos e de luxo.</Text>
+			<Text>A [ICON_INFLUENCE]Influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} diminuiu ao ponto de vocês não serem mais [COLOR_POSITIVE_TEXT]ALIADOS[ENDCOLOR].[NEWLINE][NEWLINE]{2_DetailsString}[NEWLINE][NEWLINE]Com isso, eles deixarão de lhe fornecer recursos estratégicos e de luxo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_PASSED">
-			<Text>[COLOR_NEGATIVE_TEXT]{1_CivName:textkey}[ENDCOLOR] tem agora muito mais [ICON_INFLUENCE]Influência sobre {2_MinorCivName:textkey} que você, o que {1: gender masculine?{1: plural 1?o torna o; other?os tornam os;}; feminine?{1: plural 1?a torna a; other?as tornam as;};} mais [COLOR_NEGATIVE_TEXT]{1: gender masculine?{1: plural 1?Novo Aliado; other?Novos Aliados;}; feminine?{1: plural 1?Nova Aliada; other?Novas Aliadas;};}[ENDCOLOR] da Cidade-Estado![NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]Com isso, deixarão de lhe fornecer recursos estratégicos e de luxo.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_NEGATIVE_TEXT]{1_CivName:textkey}[ENDCOLOR] tem agora muito mais [ICON_INFLUENCE]Influência sobre {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_MinorCivName:textkey} que você, o que {1: gender masculine?{1: plural 1?o torna o; other?os tornam os;}; feminine?{1: plural 1?a torna a; other?as tornam as;};} mais [COLOR_NEGATIVE_TEXT]{1: gender masculine?{1: plural 1?Novo Aliado; other?Novos Aliados;}; feminine?{1: plural 1?Nova Aliada; other?Novas Aliadas;};}[ENDCOLOR] da Cidade-Estado![NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]Com isso, deixarão de lhe fornecer recursos estratégicos e de luxo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_ALLIES_MILITARISTIC">
 			<Text>Eles contribuirão com menos unidades para seu exército.</Text>
@@ -810,32 +810,32 @@
 			<Text>Contanto que mantenha seu Status atual, darão a você {1: gender *:noart? ; masculine?{1: plural 1?o; other?os;}; feminine?{1: plural 1?a; other?as;};} [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR] deles e todos os recursos futuros que vierem a se conectar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BFF_NEW_RESOURCE">
-			<Text>Por você ser aliado de {1_CivName:textkey}, eles concedem {2: gender masculine?{2: plural 1?o recém-adquirido; other?os recém-adquiridos;}; feminine?{2: plural 1?a recém-adquirida; other?as recém-adquiridas;};} [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]!</Text>
+			<Text>Por você ser aliado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}, eles concedem {2: gender masculine?{2: plural 1?o recém-adquirido; other?os recém-adquiridos;}; feminine?{2: plural 1?a recém-adquirida; other?as recém-adquiridas;};} [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BFF_NEW_RESOURCE">
-			<Text>{2_ResourceNames} de {1_CivName:textkey}!</Text>
+			<Text>{2_ResourceNames} {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BFF_LOST_RESOURCE">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?perdeu; other?perderam;} o acesso {2: gender *:noart? ; masculine?{2: plural 1?ao; other?aos;}; feminine?{2:plural 1?à; other?as;};} [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR] que eles estavam te dando. Nenhuma nova entrega poderá ser realizada até que esteja restabelecido o acesso.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?perdeu; other?perderam;} o acesso {2: gender *:noart? ; masculine?{2: plural 1?ao; other?aos;}; feminine?{2:plural 1?à; other?as;};} [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR] que eles estavam te dando. Nenhuma nova entrega poderá ser realizada até que esteja restabelecido o acesso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BFF_LOST_RESOURCE">
-			<Text>Perdeu-se {2_ResourceNames} de {1_CivName:textkey}!</Text>
+			<Text>Perdeu-se {2_ResourceNames} {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_BEST_RELATIONS_BONUS">
-			<Text>Você não é a nação mais favorecida de {1_CivName:textkey}... Com isso, eles irão deixar de lhe conceder recursos estratégicos e de luxo.</Text>
+			<Text>Você não é a nação mais favorecida {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}... Com isso, eles irão deixar de lhe conceder recursos estratégicos e de luxo.</Text>
 		</Row>
 		<!-- Other Notifications -->
 		<Row Tag="TXT_KEY_NOTIFICATION_NEW_RESEARCH">
 			<Text>Você pode selecionar um novo projeto de pesquisa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_NEW_CONSTRUCTION">
-			<Text>{1_CivName} está pronta para um novo projeto de construção.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} está pronta para um novo projeto de construção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_PLAYER_LOST_CAPITAL">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {@1_CivName} {1: plural 1?perdeu; other?perderam;} sua [ICON_CAPITAL]Capital! {2_NumPlayers} {2: plural 1?Civilização continua; other?Civilizações continuam;} em posse {2: plural 1?da sua [ICON_CAPITAL]Capital; other?das suas [ICON_CAPITAL]Capitais;}.</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} {@1: plural 1?perdeu; other?perderam;} sua [ICON_CAPITAL]Capital! {2_NumPlayers} {2: plural 1?Civilização continua; other?Civilizações continuam;} em posse {2: plural 1?da sua [ICON_CAPITAL]Capital; other?das suas [ICON_CAPITAL]Capitais;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_PLAYER_RECOVERED_CAPITAL">
-			<Text>{@1_CivName} {1: plural 1?recuperou; other?recuperaram;} sua [ICON_CAPITAL]Capital!</Text>
+			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_CivName} {@1: plural 1?recuperou; other?recuperaram;} sua [ICON_CAPITAL]Capital!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SOMEONE_LOST_CAPITAL">
 			<Text>Uma Civilização desconhecida perdeu sua [ICON_CAPITAL]Capital! {1_NumPlayers} {1: plural 1?Civilização continua; other?Civilizações continuam;}; feminine?{1: plural 1?a; other?as;};} em posse {1: plural 1?da sua [ICON_CAPITAL]Capital; other?das suas [ICON_CAPITAL]Capitais;}.</Text>
@@ -844,22 +844,22 @@
 			<Text>Uma Civilização desconhecida recuperou sua [ICON_CAPITAL]Capital!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED">
-			<Text>{1_CivName} {1: plural 1?iniciou; other?iniciaram;} a construção de {2: gender masculine?um; feminine?uma;} {2_BldgName} em {3_CityName:textkey}.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 1?iniciou; other?iniciaram;} a construção de {2: gender masculine?um; feminine?uma;} {2_BldgName} em {3_CityName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED_UNKNOWN_LOCATION">
-			<Text>{1_CivName} {1: plural 1?iniciou; other?iniciaram;} a construção de {2: gender masculine?um; feminine?uma;} {2_BldgName}.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 1?iniciou; other?iniciaram;} a construção de {2: gender masculine?um; feminine?uma;} {2_BldgName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED_UNMET">
 			<Text>Uma Civilização desconhecida iniciou a construção de {1: gender masculine?um; feminine?uma;} {1_BldgName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN">
-			<Text>Teve início a Era Dourada para a Civilização {1_LongCivName:textkey}.</Text>
+			<Text>Teve início a Era Dourada para a Civilização {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_LongCivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
 			<Text>A Era dourada iniciou para você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED">
-			<Text>A Era Dourada para {1: gender *:noart? ; masculine?{1: plural 1?o; other?os;}; feminine?{1: plural 1?a; other?as;};} {1_LongCivName:textkey} terminou.</Text>
+			<Text>A Era Dourada para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_LongCivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
 			<Text>A sua Era Dourada terminou.</Text>
@@ -868,31 +868,31 @@
 			<Text>Uma unidade adquiriu experiência suficiente para ser promovida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FIRST_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?ganhou; other?ganharam;} o PRIMEIRO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?ganhou; other?ganharam;} o PRIMEIRO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FIRST_PLACE_YOU">
 			<Text>Você ganhou em PRIMEIRO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FOURTH_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?ficou; other?ficaram;} em QUARTO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?ficou; other?ficaram;} em QUARTO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FOURTH_PLACE_YOU">
 			<Text>Você ficou em QUARTO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_SECOND_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?ficou; other?ficaram;} em SEGUNDO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?ficou; other?ficaram;} em SEGUNDO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_SECOND_PLACE_YOU">
 			<Text>Você ficou em SEGUNDO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_THIRD_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?ficou; other?ficaram;} em TERCEIRO lugar na era {2_Era:textkey} com {3_Victory:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?ficou; other?ficaram;} em TERCEIRO lugar na era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_THIRD_PLACE_YOU">
 			<Text>Você ficou em TERCEIRO lugar na Era {2_Era:textkey} com {3_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_SOMEBODY">
-			<Text>{1_CivName:textkey} {1: gender masculine?{1: plural 1?foi classificado; other?foram classificados;}; feminine?{1: plural 1?foi classificada; other?foram classificadas;};} em #{2_Rank} na competição por {3_Victory:textkey}, e {1: plural 1?ganhou; other?ganharam;} {4_Num} {4: plural 1?ponto; other?pontos;} de Civilização!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: gender masculine?{1: plural 1?foi classificado; other?foram classificados;}; feminine?{1: plural 1?foi classificada; other?foram classificadas;};} em #{2_Rank} na competição por {3_Victory:textkey}, e {1: plural 1?ganhou; other?ganharam;} {4_Num} {4: plural 1?ponto; other?pontos;} de Civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_UNMET">
 			<Text>Um jogador desconhecido foi classificado em #{1_Rank} na competição por {2_Victory:textkey} e ganhou {3_Num} {3: plural 1?ponto; other?pontos;} de Civilização!</Text>
@@ -901,7 +901,7 @@
 			<Text>Você foi classificado em #{1_Rank} na Competição por {2_Victory:textkey} e ganhou {3_Num} {3: plural 1?ponto; other?pontos;} de Civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_VICTORY_WINNER">
-			<Text>{1_CivName:textkey} {1: plural 1?ganhou; other?ganharam;} o jogo por meio da Vitória {2_Victory:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?ganhou; other?ganharam;} o jogo por meio da Vitória {2_Victory:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL">
 			<Text>Você perdeu sua [ICON_CAPITAL]Capital! {1_NumPlayers} {1: plural 1?continua em posse da sua [ICON_CAPITAL]Capital; other?continuam em posse das suas [ICON_CAPITAL]Capitais;}.</Text>
@@ -910,13 +910,13 @@
 			<Text>Você recuperou sua [ICON_CAPITAL]Capital!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_DECLARATION">
-			<Text>Declaração pública {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey}</Text>
+			<Text>Declaração pública {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_RESEARCH_AGREEMENT">
-			<Text>{1_CivName:textkey} e {2_CivName:textkey} assinaram um acordo de pesquisa!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} e {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey} assinaram um acordo de pesquisa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON">
-			<Text>Uma Grande Pessoa nasceu {1: gender *:noart?em; masculine?{1: plural 1?no; other?nos;}; feminine?{1: plural 1?na; other?nas;};} {1_CivName:textkey}.</Text>
+			<Text>Uma Grande Pessoa nasceu {1: gender *:noart?em; feminine?{1: plural 2?nas; other?na;}; masculine?{1: plural 2?nos; other?no;}; other?em;} {1_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON_ACTIVE_PLAYER">
 			<Text>Uma Grande Pessoa nasceu em sua Civilização!</Text>
@@ -925,10 +925,10 @@
 			<Text>Uma Grande Pessoa nasceu em uma terra distante!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_LOST">
-			<Text>{1_CityName:textkey} foi capturada {2: gender masculine?{2: plural 1?pelo; other?pelos;}; feminine?{2: plural 1?pela; other?pelas;};} {@2_CivName}!</Text>
+			<Text>{1_CityName:textkey} foi capturada {@2: gender *:noart?por; feminine?{@2: plural 2?pelas; other?pela;}; masculine?{@2: plural 2?pelos; other?pelo;}; other?por;} {@2_CivName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_ANOTHER">
-			<Text>{1_CivName:textkey} {1: plural 1?possui; other?possuem;} a maioria das Grandes Pessoas</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?possui; other?possuem;} a maioria das Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_UNMET">
 			<Text>Um jogador desconhecido possui a maioria das Grandes Pessoas</Text>
@@ -937,7 +937,7 @@
 			<Text>Você possui a maioria das Grandes Pessoas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_ANOTHER">
-			<Text>{1_CivName:textkey} tem a maioria das Políticas</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} tem a maioria das Políticas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_UNMET">
 			<Text>Um jogador desconhecido tem a maioria das Políticas</Text>
@@ -946,7 +946,7 @@
 			<Text>Você possui a maioria das Políticas Sociais!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_ANOTHER">
-			<Text>{1_CivName:textkey} {1: plural 1?possui; other?possuem;} a maioria das Maravilhas</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?possui; other?possuem;} a maioria das Maravilhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_UNMET">
 			<Text>Um jogador desconhecido possui a maioria das Maravilhas</Text>
@@ -961,40 +961,40 @@
 			<Text>{1_CityName:textkey} {1: plural 1?cresceu; other?cresceram;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_DEFENSIVE_PACT_FROM_US">
-			<Text>O pacto defensivo realizado com {1_CivName:textkey} terminou</Text>
+			<Text>O pacto defensivo realizado com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_DEFENSIVE_PACT_TO_US">
-			<Text>O pacto defensivo realizado com {1_CivName:textkey} terminou</Text>
+			<Text>O pacto defensivo realizado com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_FROM_US">
-			<Text>O acordo que dava Ouro/turno para {1_CivName:textkey} terminou</Text>
+			<Text>O acordo que dava Ouro/turno para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_TO_US">
-			<Text>O acordo que recebia Ouro/turno {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou</Text>
+			<Text>O acordo que recebia Ouro/turno {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
-			<Text>O acordo de fronteiras abertas para {1_CivName:textkey} terminou</Text>
+			<Text>O acordo de fronteiras abertas para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_OPEN_BORDERS_TO_US">
-			<Text>O acordo de fronteiras abertas {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou</Text>
+			<Text>O acordo de fronteiras abertas {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
-			<Text>O acordo de pesquisa que fizemos com {1_CivName:textkey} terminou</Text>
+			<Text>O acordo de pesquisa que fizemos com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
-			<Text>O acordo de pesquisa feito {1: gender *:noart?por; masculine?{1: plural 1?pelo; other?pelos;}; feminine?{1: plural 1?pela; other?pelas;};} {1_CivName:textkey} terminou</Text>
+			<Text>O acordo de pesquisa feito {1: gender *:noart?por; feminine?{1: plural 2?pelas; other?pela;}; masculine?{1: plural 2?pelos; other?pelo;}; other?por;} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESOURCE_FROM_US">
-			<Text>{2_Resource} para {1_CivName:textkey} terminou</Text>
+			<Text>{2_Resource} para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESOURCE_TO_US">
-			<Text>{2_Resource} {2: gender masculine?{2: plural 1?vindo; other?vindos;}; feminine?{2: plural 1?vinda; other?vindas;};} {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou</Text>
+			<Text>{2_Resource} {2: gender masculine?{2: plural 1?vindo; other?vindos;}; feminine?{2: plural 1?vinda; other?vindas;};} {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_TRADE_AGREEMENT_FROM_US">
-			<Text>O acordo comercial que fizemos com {1_CivName:textkey} terminou</Text>
+			<Text>O acordo comercial que fizemos com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_TRADE_AGREEMENT_TO_US">
-			<Text>O acordo comercial feito por {1_CivName:textkey} terminou</Text>
+			<Text>O acordo comercial feito {1: gender *:noart?por; feminine?{1: plural 2?pelas; other?pela;}; masculine?{1: plural 2?pelos; other?pelo;}; other?por;} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_CULTURE_FOR_POLICY">
 			<Text>Você pode adotar uma política</Text>
@@ -1024,52 +1024,52 @@
 			<Text>{1_ResourceName:textkey} {1: gender masculine?{1: plural 1?descoberto; other?descobertos;}; feminine?{1: plural 1?descoberta; other?descobertas;};}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MET_MINOR_CIV">
-			<Text>Você conheceu {1_CivName:textkey}</Text>
+			<Text>Você conheceu {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDS_STATUS">
-			<Text>{1_CivName:textkey} {1: gender masculine?{1: plural 1?é nosso amigo; other?são nossos amigos;}; feminine?{1: plural 1?é nossa amiga; other?são nossas amigas;};} agora!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: gender masculine?{1: plural 1?é nosso amigo; other?são nossos amigos;}; feminine?{1: plural 1?é nossa amiga; other?são nossas amigas;};} agora!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDS_STATUS_LOST">
-			<Text>{1_CivName:textkey} não {1: plural 2?são; other?é;} mais {1: gender *:noart?nossa amiga; feminine?{1: plural 2?nossas amigas; other?nossa amiga;}; masculine?{1: plural 2?nossos amigos; other?nosso amigo;}; other?nossas amigas;}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} não {1: plural 2?são; other?é;} mais {1: gender *:noart?nossa amiga; feminine?{1: plural 2?nossas amigas; other?nossa amiga;}; masculine?{1: plural 2?nossos amigos; other?nosso amigo;}; other?nossas amigas;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS">
-			<Text>Agora somos aliados de {1_CivName:textkey}!</Text>
+			<Text>Agora somos aliados {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_LOST">
 			<Text>{1: gender *:noart? ; feminine?{1: plural 2?As; other?A;}; masculine?{1: plural 2?Os; other?O;}; other? ;} {1_CivName:textkey} não {1: plural 2?são; other?é;} mais {1: gender *:noart?nossa aliada; feminine?{1: plural 2?nossas aliadas; other?nossa aliada;}; masculine?{1: plural 2?nossos aliados; other?nosso aliado;}; other?nossa aliada;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_PASSED">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} agora {1: gender masculine?{1: plural 1?é aliado; other?são aliados;}; feminine?{1: plural 1?é aliada; other?são aliadas;};} {2: gender *:noart?de; masculine?{2: plural 1?do; other?dos;}; feminine?{2: plural 1?da; other?das;};} {2_MinorCivName:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} agora {1: gender masculine?{1: plural 1?é aliado; other?são aliados;}; feminine?{1: plural 1?é aliada; other?são aliadas;};} {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_MinorCivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_GAINED_BEST_RELATIONS_BONUS">
-			<Text>Status favorecido com {1_CivName:textkey}</Text>
+			<Text>Status favorecido com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_INTRUSION">
-			<Text>Você transpassou as fronteiras {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?de; other?das;};} {1_CivName:textkey}!</Text>
+			<Text>Você transpassou as fronteiras {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LIBERATION">
-			<Text>{1_CivName:textkey} {1: gender masculine?{1: plural 1?libertado; other?libertados;}; feminine?{1: plural 1?libertada; other?libertadas;};}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: gender masculine?{1: plural 1?libertado; other?libertados;}; feminine?{1: plural 1?libertada; other?libertadas;};}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LOST_BEST_RELATIONS_BONUS">
-			<Text>Status Favorecido com {1_CivName:textkey} foi perdido</Text>
+			<Text>Status Favorecido com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} foi perdido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_NOT_FRIENDS">
-			<Text>Sua [ICON_INFLUENCE]Influência sobre {1_CivName:textkey} caiu tanto ao ponto de não serem mais amigos!</Text>
+			<Text>Sua [ICON_INFLUENCE]Influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} caiu tanto ao ponto de não serem mais amigos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_NOT_ALLIES">
-			<Text>Sua [ICON_INFLUENCE]Influência sobre {1_CivName:textkey} caiu tanto ao ponto de não serem mais aliados!</Text>
+			<Text>Sua [ICON_INFLUENCE]Influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} caiu tanto ao ponto de não serem mais aliados!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_SM">
-			<Text>Perdendo contato com {1_CivName:textkey}!</Text>
+			<Text>Perdendo contato com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NEW_RESEARCH">
 			<Text>Escolha uma nova pesquisa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PLAYER_LOST_CAPITAL">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?perdeu; other?perderam;} sua [ICON_CAPITAL]Capital</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?perdeu; other?perderam;} sua [ICON_CAPITAL]Capital</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PLAYER_RECOVERED_CAPITAL">
-			<Text>{1_CivName:textkey} {1: plural 1?recuperou; other?recuperaram;} sua [ICON_CAPITAL]Capital</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?recuperou; other?recuperaram;} sua [ICON_CAPITAL]Capital</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SOMEONE_LOST_CAPITAL">
 			<Text>Um jogador desconhecido perdeu sua [ICON_CAPITAL]Capital</Text>
@@ -1081,31 +1081,31 @@
 			<Text>Unidade promovida</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FIRST_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?está; other?estão;} em 1º lugar nesta Era</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?está; other?estão;} em 1º lugar nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FIRST_PLACE_YOU">
 			<Text>1º lugar nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FOURTH_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?está; other?estão;} em 4º lugar nesta Era</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?está; other?estão;} em 4º lugar nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FOURTH_PLACE_YOU">
 			<Text>4º lugar nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_SECOND_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?está; other?estão;} em 2º nesta Era</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?está; other?estão;} em 2º nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_SECOND_PLACE_YOU">
 			<Text>2º lugar nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_THIRD_PLACE">
-			<Text>{1_CivName:textkey} {1: plural 1?está; other?estão;} em 3º nesta Era</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?está; other?estão;} em 3º nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_THIRD_PLACE_YOU">
 			<Text>3º nesta Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_SOMEBODY">
-			<Text>{1_CivName:textkey} {1: gender masculine?{1: plural 1?está classificado; other?estão classificados;}; feminine?{1: plural 1?está classificada; other?estão classificadas;};} em #{2_Rank} na {3_Victory:textkey}</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: gender masculine?{1: plural 1?está classificado; other?estão classificados;}; feminine?{1: plural 1?está classificada; other?estão classificadas;};} em #{2_Rank} na {3_Victory:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_UNMET">
 			<Text>Um jogador desconhecido está classificado em #{1_Rank} na {2_Victory:textkey}</Text>
@@ -1114,7 +1114,7 @@
 			<Text>#{1_Rank} {1: gender masculine?{1: plural 1?classificado; other?classificados;}; feminine?{1: plural 1?classificada; other?classificadas;};} na {2_Victory:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_WINNER">
-			<Text>{1_CivName:textkey} {1: plural 1?venceu; other?venceram;}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?venceu; other?venceram;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_YOU_LOST_CAPITAL">
 			<Text>Sua [ICON_CAPITAL]Capital foi perdida!</Text>
@@ -1213,19 +1213,19 @@
 			<Text>Uma Grande Pessoa nasceu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WONDER_STARTED">
-			<Text>{1_CivName} iniciou a construção de {2_BldgName}.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} iniciou a construção de {2_BldgName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WONDER_STARTED_UNKNOWN">
 			<Text>Um jogador desconhecido iniciou a construção de {1_BldgName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN">
-			<Text>A Era Dourada {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} iniciou.</Text>
+			<Text>A Era Dourada {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} iniciou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
 			<Text>Uma Era Dourada surgiu!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED">
-			<Text>A Era Dourada {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou.</Text>
+			<Text>A Era Dourada {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
 			<Text>Sua Era Dourada terminou.</Text>
@@ -1240,10 +1240,10 @@
 			<Text>[ICON_INFLUENCE]Influência sobre Cidade-Estado alterada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_ARTIST_STOLE_PLOT">
-			<Text>{1_CivName:textkey} {1: plural 1?roubou; other?roubaram;} algum terreno seu!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?roubou; other?roubaram;} algum terreno seu!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_ARTIST_STOLE_PLOT">
-			<Text>{1_CivName:textkey} {1: plural 1?usou; other?usaram;} um Grande Artista para roubar algum terreno seu!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1: plural 1?usou; other?usaram;} um Grande Artista para roubar algum terreno seu!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED">
 			<Text>[ICON_CONNECTED]Rota comercial estabilizada!</Text>
@@ -3087,28 +3087,28 @@
 			<Text>Denunciado por {1_PlayerName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DOF">
-			<Text>{1_CivName:textkey} e {2_CivName:textkey} fizeram uma Declaração de Amizade pública, construindo um forte laço entre os dois Impérios.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} e {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey} fizeram uma Declaração de Amizade pública, construindo um forte laço entre os dois Impérios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DOF_S">
-			<Text>{1_CivName:textkey} e {2_CivName:textkey} agora são {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} e {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey} agora são {1: gender feminine?{2: gender feminine?amigas; other?amigos;}; other?amigos;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {@1_CivName: plural 1?denunciou; other?denunciaram;} publicamente {2: plural 1?{2: gender *:noart? ; feminine?a; masculine?o; other? ;}; other?{2: gender *:noart? ; feminine?as; masculine?os; other? ;};} {2_CivName:textkey}, avisando ao mundo que eles não são confiáveis!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1_CivName: plural 1?denunciou; other?denunciaram;} publicamente {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey}, avisando ao mundo que eles não são confiáveis!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_S">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {@1_CivName: plural 1?denunciou; other?denunciaram;} {2: plural 1?{2: gender *:noart? ; feminine?a; masculine?o; other? ;}; other?{2: gender *:noart? ; feminine?as; masculine?os; other? ;};} {2_CivName:textkey}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} {1_CivName: plural 1?denunciou; other?denunciaram;} {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}{2_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_DENOUNCE">
-			<Text>Você denunciou publicamente {1: plural 1?{1: gender *:noart? ; feminine?a; masculine?o; other? ;}; other?{1: gender *:noart? ; feminine?as; masculine?os; other? ;};} {1_CivName:textkey}, avisando ao mundo que eles não são confiáveis!</Text>
+			<Text>Você denunciou publicamente {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}, avisando ao mundo que eles não são confiáveis!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_YOU_DENOUNCE_S">
-			<Text>Você denunciou {1: plural 1?{1: gender *:noart? ; feminine?a; masculine?o; other? ;}; other?{1: gender *:noart? ; feminine?as; masculine?os; other? ;};} {1_CivName:textkey}!</Text>
+			<Text>Você denunciou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_YOU">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} te {@1_CivName: plural 1?denunciou; other?denunciaram;} publicamente, avisando ao mundo que você não é confiável!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} te {1_CivName: plural 1?denunciou; other?denunciaram;} publicamente, avisando ao mundo que você não é confiável!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCED_YOU_S">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} te {@1_CivName: plural 1?denunciou; other?denunciaram;}!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName:textkey} te {1_CivName: plural 1?denunciou; other?denunciaram;}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_THEIR_DENUNCIATION_EXPIRED">
 		  <Text>O fato de você ter sido denunciado por {1_LeaderName} não influencia em nada nas relações com os outros líderes.</Text>
@@ -3297,13 +3297,13 @@
 			<Text>Retirar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_FRIENDS_WITH">
-			<Text>[COLOR_POSITIVE_TEXT]Amigos de {1_CivName:textkey}[ENDCOLOR]</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey}[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DENOUNCED">
-			<Text>[COLOR_NEGATIVE_TEXT]Denunciou {1_CivName:textkey}[ENDCOLOR]</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]Denunciou {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_BACKSTABBED">
-			<Text>[COLOR_NEGATIVE_TEXT]Traiu {1_CivName:textkey}[ENDCOLOR]</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]Traiu {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_YOU_HAVE_DENOUNCED">
 			<Text>[COLOR_NEGATIVE_TEXT]DENUNCIADO[ENDCOLOR]</Text>
@@ -3357,7 +3357,7 @@
 		</Row>
 		<!-- 511 -->
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_CANCEL">
-			<Text>O seu Acordo de Pesquisa com {1_CivName:textkey} foi cancelado.</Text>
+			<Text>O seu Acordo de Pesquisa com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey} foi cancelado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_CANCEL_S">
 			<Text>Acordo de Pesquisa Cancelado!</Text>

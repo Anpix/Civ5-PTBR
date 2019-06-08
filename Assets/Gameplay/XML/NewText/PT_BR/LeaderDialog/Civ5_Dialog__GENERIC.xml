@@ -8,7 +8,7 @@
 		  <Text>Fui informado que você tem um grande número de unidades perto das minhas fronteiras. Eu peço que você as leve para outro lugar para evitar desconforto desnecessário aos nossos cidadãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ATTACKED_PROTECTED_CITY_STATE_1">
-		  <Text>Seus ataques injustificados à {@1_MinorCivName} não passaram despercebidos. Pare com isso ou corra o risco de sofrer sérias consequências.</Text>
+		  <Text>Seus ataques injustificados {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {@1_MinorCivName} não passaram despercebidos. Pare com isso ou corra o risco de sofrer sérias consequências.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COOP_WAR_REQUEST_1">
 		  <Text>Minhas diferenças com {1_PlayerName:textkey} já são intransponíveis. É uma situação que só pode ser resolvida no campo de batalha. Você vai se juntar a mim, camarada?</Text>
@@ -185,10 +185,10 @@
 		  <Text>Se você está tentando provocar uma guerra, você está conseguindo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_DECLARATION_ABANDON_CITY_STATE_1">
-		  <Text>{2: plural 1?{2: gender masculine?O; feminine?A;}; other?{2: gender masculine?Os; feminine?As;};} {2_MajorCivName:textkey} {2: plural 1?retirou; other?retiraram;} a sua garantia de proteger {1_MinorCivName:textkey}.</Text>
+		  <Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};} {2_MajorCivName:textkey} {2: plural 1?retirou; other?retiraram;} a sua garantia de proteger {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
-		  <Text>{2: plural 1?{2: gender masculine?O; feminine?A;}; other?{2: gender masculine?Os; feminine?As;};} {2_MajorCivName:textkey} {2: plural 1?anuncia; other?anunciam;} ao mundo que agora {2: plural 1?está; other?estão;} protegendo {1_MinorCivName:textkey}.</Text>
+		  <Text>{2: gender *:noart?{}; feminine?{2: plural 2?As ; other?A ;}; masculine?{2: plural 2?Os ; other?O ;}; other?{};} {2_MajorCivName:textkey} {2: plural 1?anuncia; other?anunciam;} ao mundo que agora {2: plural 1?está; other?estão;} protegendo {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_DECLINE_1">
 		  <Text>Devo rejeitar</Text>
@@ -653,10 +653,10 @@
 		  <Text>Você tem um recurso de luxo que me interessa. O que você acha desta oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_1">
-		  <Text>Foi-me dito que você está fazendo amizade com {1_MinorCivName:textkey}. Caso você não saiba, eles estão na minha área de influência e prefiro que você fique longe dela.</Text>
+		  <Text>Foi-me dito que você está fazendo amizade com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey}. Caso você não saiba, eles estão na minha área de influência e prefiro que você fique longe dela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_2">
-		  <Text>Percebi que você tem uma relação com {1_MinorCivName:textkey}. Embora isso seja bom, seria melhor que deixasse a proteção deles em nossas mãos. Seria bom começar a preservar os outros.</Text>
+		  <Text>Percebi que você tem uma relação com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_MinorCivName:textkey}. Embora isso seja bom, seria melhor que deixasse a proteção deles em nossas mãos. Seria bom começar a preservar os outros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_NO_PEACE_1">
 		  <Text>Não pode haver paz. Talvez outro dia.</Text>
@@ -1104,10 +1104,10 @@
  			<Text>Fazer uma declaração como essa neste ponto da nossa relação seria prematuro. Talvez em outro momento.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_DOF_AI_DENOUNCE_REQUEST_1">
- 			<Text>Amigo, eu tenho assuntos sérios para discutir. Minha relação com {1_CivName} acabou e eu preciso que você os denuncie como um ato de apoio. O que você diz?</Text>
+			<Text>Amigo, eu tenho assuntos sérios para discutir. Minha relação com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName} acabou e eu preciso que você os denuncie como um ato de apoio. O que você diz?</Text>
  		</Row>
  		<Row Tag="TXT_KEY_DOF_AI_WAR_REQUEST_1">
- 			<Text>Eu me encontro em uma situação muito séria, meu amigo. O tempo da guerra contra {1_CivName} e eu preciso que você se junte a mim no campo de batalha. O que você diz? (IRÁ DECLARAR GUERRA IMEDITAMENTE)</Text>
+			<Text>Eu me encontro em uma situação muito séria, meu amigo. O tempo da guerra contra {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName} e eu preciso que você se junte a mim no campo de batalha. O que você diz? (IRÁ DECLARAR GUERRA IMEDITAMENTE)</Text>
  		</Row>
  		<Row Tag="TXT_KEY_DOF_NOT_HONORED_1">
  			<Text>Patético. Enfim você exibiu sua verdadeira forma. O mundo conhecerá sua desonra.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Eles nos denunciaram publicamente! NOTA: Você não está em guerra.[ENDCOLOR])</Text>
@@ -1134,28 +1134,28 @@
  			<Text>Eu tinha o sentimento que estava perdendo meu tempo com você. Entretanto, eu já sabia que isso iria ocorrer.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DOFED_FRIEND_1">
- 			<Text>Ahh, eu percebi que você se tornou amigo {1: gender feminine?{1: plural 1?da; other?das;}; other?{1: plural 1?do; other?dos;};} {1_CivName}. Bom saber disso. Eu já tenho um bom relacionamento com eles.</Text>
+			<Text>Ahh, eu percebi que você se tornou amigo {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName}. Bom saber disso. Eu já tenho um bom relacionamento com eles.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DOFED_ENEMY_1">
- 			<Text>Eu recomento que você não se aproxime muito {1: gender feminine?{1: plural 1?da; other?das;}; other?{1: plural 1?do; other?dos;};} {1_CivName}. Se o fizer, nós poderemos ter problemas no futuro.</Text>
+			<Text>Eu recomento que você não se aproxime muito {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName}. Se o fizer, nós poderemos ter problemas no futuro.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DENOUNCED_FRIEND_1">
- 			<Text>Gostaria que você soubesse que {1_CivName} e eu já trabalhamos juntos no passado e eu tenho o maior respeito por eles. Então, você está avisado.</Text>
+			<Text>Gostaria que você soubesse que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName} e eu já trabalhamos juntos no passado e eu tenho o maior respeito por eles. Então, você está avisado.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DENOUNCED_ENEMY_1">
- 			<Text>Que bom saber que há outros no mundo que compartilham do meu desgosto para com {1_CivName}. Certamente eles não são confiáveis.</Text>
+			<Text>Que bom saber que há outros no mundo que compartilham do meu desgosto para com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName}. Certamente eles não são confiáveis.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DOF_1">
- 			<Text>Eu não pude deixar de notar que você e {1_CivName} se tornaram amigos. Eu fiz o mesmo. Talvez a construção dessa aliança nos leve a grandes coisas no futuro.</Text>
+			<Text>Eu não pude deixar de notar que você e {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName} se tornaram amigos. Eu fiz o mesmo. Talvez a construção dessa aliança nos leve a grandes coisas no futuro.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
- 			<Text>Eu compartilho suas convicções de que {1_CivName} somente causa problemas para impérios civilizados do mundo. Talvez a combinação das nossas denúncias os ensine uma lição.</Text>
+			<Text>Eu compartilho suas convicções de que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName} somente causa problemas para impérios civilizados do mundo. Talvez a combinação das nossas denúncias os ensine uma lição.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DENOUNCE_1">
- 			<Text>Ah, perfeito! Agora o verme está se procriando. Então, tenho que lidar com você e {1_CivName}? Vou ter que ensiná-los uma lição.</Text>
+			<Text>Ah, perfeito! Agora o verme está se procriando. Então, tenho que lidar com você e {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName}? Vou ter que ensiná-los uma lição.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_HUMAN_DENOUNCE_SO_AI_DOF_1">
- 			<Text>Qualquer um que mantenha distância de você certamente é digno de amizade. Dou meus cumprimentos a {1_CivName}.</Text>
+			<Text>Qualquer um que mantenha distância de você certamente é digno de amizade. Dou meus cumprimentos {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_CivName}.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_ALEXANDER_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
  			<Text>Eu vejo o seu exército. Venha, deixe-me mostrar o que acontece quando alguém cruza as espadas com um grande general como eu.</Text>

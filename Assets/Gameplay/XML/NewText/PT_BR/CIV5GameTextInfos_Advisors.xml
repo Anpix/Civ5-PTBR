@@ -1009,94 +1009,94 @@
 			<Text>Devemos pesquisar a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], o que nos permitirá melhorar o recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR] dentro das nossas fronteiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_WAR">
-			<Text>Suplico que peça a paz imediatamente com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]; eles ameaçam nossa existência!</Text>
+			<Text>Suplico que peça a paz imediatamente com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]; eles ameaçam nossa existência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_PEACE">
-			<Text>Seria sábio não provocar [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]. Eles são imensamente mais poderosos que nós. Portanto, recomendo que não mexa com eles.</Text>
+			<Text>Seria sábio não provocar {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]. Eles são imensamente mais poderosos que nós. Portanto, recomendo que não mexa com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_WAR">
-			<Text>Nossa guerra com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não está indo bem. Devemos considerar oferecer a paz para acabar com a hostilidade.</Text>
+			<Text>Nossa guerra com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não está indo bem. Devemos considerar oferecer a paz para acabar com a hostilidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_PEACE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem uma força militar muito mais forte que nós e seria insensato declarar guerra neste momento.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem uma força militar muito mais forte que nós e seria insensato declarar guerra neste momento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_STALEMATE_WAR">
-			<Text>Estamos tão forte quanto [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]; esta guerra irá testar a nossa coragem.</Text>
+			<Text>Estamos tão forte quanto {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]; esta guerra irá testar a nossa coragem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_WAR">
-			<Text>Nossa guerra com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está indo bem e temos uma força de combate mais forte que eles. Mantenha a pressão para conseguirmos a vitória!</Text>
+			<Text>Nossa guerra com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está indo bem e temos uma força de combate mais forte que eles. Mantenha a pressão para conseguirmos a vitória!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_PEACE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais fraco que nós. Se eles possuem algo que queremos, agora seria o momento oportuno para pedir.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais fraco que nós. Se eles possuem algo que queremos, agora seria o momento oportuno para pedir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_WAR">
-			<Text>Com os nossos números, somos capazes de esmagar absolutamente [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]! Seja rápido antes que eles possam fugir usando algum truque diplomático.</Text>
+			<Text>Com os nossos números, somos capazes de esmagar absolutamente {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]! Seja rápido antes que eles possam fugir usando algum truque diplomático.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_PEACE">
-			<Text>Nosso exército é muito mais poderoso que o de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]. Não estou sugerindo que devamos forçá-los, mas devemos exercer a nossa força propositadamente para sustentar nosso reino glorioso!</Text>
+			<Text>Nosso exército é muito mais poderoso que o {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR]. Não estou sugerindo que devamos forçá-los, mas devemos exercer a nossa força propositadamente para sustentar nosso reino glorioso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_MEDIUM">
-			<Text>Hmm, isso é interessante. Vimos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] movendo unidades perto das nossas fronteiras.</Text>
+			<Text>Hmm, isso é interessante. Vimos {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] movendo unidades perto das nossas fronteiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_HIGH">
-			<Text>Temos visto [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] movimentar uma série de unidades em torno das nossas fronteiras. Eles podem estar se preparando para um ataque.</Text>
+			<Text>Temos visto {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] movimentar uma série de unidades em torno das nossas fronteiras. Eles podem estar se preparando para um ataque.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_INCREDIBLE">
-			<Text>Isso não pode ser bom. [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] reuniu um enorme exército em nossas fronteiras! Devemos nos preparar para um ataque furtivo.</Text>
+			<Text>Isso não pode ser bom. {1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] reuniu um enorme exército em nossas fronteiras! Devemos nos preparar para um ataque furtivo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_MEDIUM">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] expandiu-se para mais perto do nosso território.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] expandiu-se para mais perto do nosso território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_HIGH">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] estão consumindo grande parte da terra perto das nossas cidades. Podemos precisar discutir este assunto com eles.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] estão consumindo grande parte da terra perto das nossas cidades. Podemos precisar discutir este assunto com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_INCREDIBLE">
-			<Text>A apropriação de terras por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CivName:textkey}[/COLOR] parece estar tentando sufocar nossas cidades com suas fronteiras! Precisamos tomar medidas sobre isso ou não teremos nenhuma saída senão a guerra!</Text>
+			<Text>A apropriação de terras {1: gender *:noart?por; feminine?{1: plural 2?pelas; other?pela;}; masculine?{1: plural 2?pelos; other?pelo;}; other?por;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CivName:textkey}[/COLOR] parece estar tentando sufocar nossas cidades com suas fronteiras! Precisamos tomar medidas sobre isso ou não teremos nenhuma saída senão a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_NONE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] parece ser bastante pacífica com outras civilizações. Porém, tenho certeza que eles estão aprontando alguma coisa!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] parece ser bastante pacífica com outras civilizações. Porém, tenho certeza que eles estão aprontando alguma coisa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MINOR">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem sido hostil com outras civilizações. Devemos ficar atentos.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] tem sido hostil com outras civilizações. Devemos ficar atentos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MAJOR">
-			<Text>Eu sinto que [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é hostil e aprecia atacar as civilizações menores e Cidades-Estado próximas. Minha mãe me disse que a melhor coisa para um valentão é um soco no nariz!</Text>
+			<Text>Eu sinto que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é hostil e aprecia atacar as civilizações menores e Cidades-Estado próximas. Minha mãe me disse que a melhor coisa para um valentão é um soco no nariz!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_SEVERE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está atacando todos! Esconda suas mulheres e crianças e proteja nossa capital, assim eles não conseguirão uma vitória por dominação!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está atacando todos! Esconda suas mulheres e crianças e proteja nossa capital, assim eles não conseguirão uma vitória por dominação!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_CRITICAL">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] move-se pela sede de sangue! Com seu histórico de hostilidade para com todos a sua volta, é só uma questão de tempo para que eles nos ataquem!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] move-se pela sede de sangue! Com seu histórico de hostilidade para com todos a sua volta, é só uma questão de tempo para que eles nos ataquem!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_PATHETIC">
-			<Text>Eu não tenho certeza se [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] sequer possui um exército. Qualquer hostilidade com eles seria ridiculamente unilateral.</Text>
+			<Text>Eu não tenho certeza se {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] sequer possui um exército. Qualquer hostilidade com eles seria ridiculamente unilateral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_WEAK">
-			<Text>Eu acho que vi a única unidade que [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possuía. Parecia triste e solitária. Seria trágico para eles se entrassem em uma guerra com alguém com o nosso poder.</Text>
+			<Text>Eu acho que vi a única unidade que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possuía. Parecia triste e solitária. Seria trágico para eles se entrassem em uma guerra com alguém com o nosso poder.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POOR">
-			<Text>O [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não possui uma força militar como a nossa, mas não devemos tirar sarro deles durante as reuniões diplomáticas; eles podem se sentir inseguros.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não possui uma força militar como a nossa, mas não devemos debochar deles durante as reuniões diplomáticas; eles podem se sentir inseguros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_AVERAGE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui militares com a mesma força que o nós.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui militares com a mesma força que o nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_STRONG">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais forte que nós. Não devemos entrar em combate sem um planejamento cuidadoso e gastar um tempo crescendo e melhorando as nossas unidades de combate.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] é militarmente mais forte que nós. Não devemos entrar em combate sem um planejamento cuidadoso e gastar um tempo crescendo e melhorando as nossas unidades de combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POWERFUL">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não está para brincadeiras. Sua força militar é maior que a nossa. Devemos considerar atacar apenas se as circunstâncias forem terríveis.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] não está para brincadeiras. Sua força militar é maior que a nossa. Devemos considerar atacar apenas se as circunstâncias forem terríveis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_IMMENSE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui um exército que poderia nos expulsar para fora do planeta. Faça tudo o que puder para permanecer em paz com eles e construa militares o mais rápido possível para tornar a nossa situação menos perigosa.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] possui um exército que poderia nos expulsar para fora do planeta. Faça tudo o que puder para permanecer em paz com eles e construa militares o mais rápido possível para tornar a nossa situação menos perigosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_WEAK">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] começou a competir conosco em uma aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] começou a competir conosco em uma aliança com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_STRONG">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está competindo fortemente para ter uma aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está competindo fortemente para ter uma aliança com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_FIERCE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está agressivamente minando a nossa relação com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_LongCivName:textkey}[/COLOR] está agressivamente minando a nossa relação com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_MAINTENANCE">
 			<Text>Estamos falidos e não estamos ganhando nenhum dinheiro! Precisamos fazer tudo o que pudermos para sairmos da dívida! Nossa maior despesa corrente ({1_Num} de [ICON_GOLD]Ouro por turno) é a manutenção das unidades. Elimine todas as unidades que não são absolutamente necessárias!</Text>
@@ -1189,106 +1189,106 @@
 			<Text>Estamos fazendo dinheiro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Temos trabalhado muito para desenvolver esse relacionamento, seria triste perder um aliado devido à negligência.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Temos trabalhado muito para desenvolver esse relacionamento, seria triste perder um aliado devido à negligência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_WAR_WITH_MAJOR">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles precisam de ajuda na luta contra [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]; Se declararmos guerra a essa civilização manteremos a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles precisam de ajuda na luta contra {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]; Se declararmos guerra a essa civilização manteremos a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_ROUTE">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos uma rota da nossa capital para a sua cidade; Se fizermos isso, manteremos a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos uma rota da nossa capital para a sua cidade; Se fizermos isso, manteremos a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CAMP">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que destruamos um acampamento bárbaro nas proximidades; Se fizermos isso, manteremos a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que destruamos um acampamento bárbaro nas proximidades; Se fizermos isso, manteremos a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONNECT_RESOURCE">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que nos conectemos a  [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso poderemos obter mais influência para manter a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que nos conectemos a  [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONSTRUCT_WONDER">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que construamos {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_GREAT_PERSON">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CITY_STATE">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso poderia assustar outras civilizações, mas sustentaria nossa aliança.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Eles querem que destruamos {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso poderia assustar outras civilizações, mas sustentaria nossa aliança.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_PLAYER">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Se quisermos manter a aliança, podemos realizar explorações e tentar entrar em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] para ganhar mais influência.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Se quisermos manter a aliança, podemos realizar explorações e tentar entrar em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] para ganhar mais influência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_NATURAL_WONDER">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Podemos obter uma fácil influência para manter o relacionamento se encontrarmos uma maravilha natural, então comece a procurar!</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Podemos obter uma fácil influência para manter o relacionamento se encontrarmos uma maravilha natural, então comece a procurar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CLEAR_BARBARIANS">
-			<Text>Nós vamos perder nossa aliança com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Se quisermos manter a aliança, tente matar os bárbaros que estão perto do território deles.</Text>
+			<Text>Nós vamos perder nossa aliança com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não conseguirmos alguma influência logo. Se quisermos manter a aliança, tente matar os bárbaros que estão perto do território deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Se você acha que vale a pena manter este relacionamento, devemos agir para aumentar a nossa influência sobre eles.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Se você acha que vale a pena manter este relacionamento, devemos agir para aumentar a nossa influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_WAR_WITH_MAJOR">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles precisam de ajuda na luta contra [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]; se declarar guerra a essa civilização, permaneceremos amigos.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles precisam de ajuda na luta contra {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]; se declarar guerra a essa civilização, permaneceremos amigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_ROUTE">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que construamos uma rota da nossa capital para a sua cidade; Se fizermos isso, manteremos a nossa amizade.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que construamos uma rota da nossa capital para a sua cidade; Se fizermos isso, manteremos a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CAMP">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que destruamos um acampamento bárbaro nas proximidades; Se fizermos isso, manteremos a nossa amizade.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que destruamos um acampamento bárbaro nas proximidades; Se fizermos isso, manteremos a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONNECT_RESOURCE">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que nos conectemos ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que nos conectemos ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONSTRUCT_WONDER">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que construamos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que construamos {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]; Se fizermos isso, poderemos obter mais influência para manter a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_GREAT_PERSON">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa amizade.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]; se dermos essa unidade, poderemos obter mais influência para manter a nossa amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CITY_STATE">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso poderia assustar outras civilizações, mas sustentaria nossa amizade</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Eles querem que destruamos {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]; isso poderia assustar outras civilizações, mas sustentaria nossa amizade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_PLAYER">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Se quisermos manter a amizade, podemos realizar explorações e tentar entrar em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] para ganhar mais influência.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Se quisermos manter a amizade, podemos realizar explorações e tentar entrar em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] para ganhar mais influência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_NATURAL_WONDER">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Podemos obter uma fácil influência para manter o relacionamento se encontrarmos uma maravilha natural, então comece a procurar!</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não fizermos algo logo. Podemos obter uma fácil influência para manter o relacionamento se encontrarmos uma maravilha natural, então comece a procurar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CLEAR_BARBARIANS">
-			<Text>Nós vamos deixar de ser amigos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não ganharmos mais influência logo. Se quisermos manter a amizade, tente matar os bárbaros que estão perto do território deles.</Text>
+			<Text>Nós vamos deixar de ser amigos {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se não ganharmos mais influência logo. Se quisermos manter a amizade, tente matar os bárbaros que estão perto do território deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE">
-			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se dermos algum dinheiro ou uma unidade.</Text>
+			<Text>Podemos ganhar influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se dermos algum dinheiro ou uma unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_WAR_WITH_MAJOR">
-			<Text>Se quiser melhorar nossas relações com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR], eles precisam de ajuda na luta contra [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR].</Text>
+			<Text>Se quiser melhorar nossas relações com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR], eles precisam de ajuda na luta contra {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_ROUTE">
-			<Text>Usando nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir uma rota da nossa capital para [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] iria melhorar nosso relacionamento.</Text>
+			<Text>Usando nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir uma rota da nossa capital para {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] iria melhorar nosso relacionamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CAMP">
-			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se destruirmos um campo bárbaro perto deles.</Text>
+			<Text>Podemos ganhar influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se destruirmos um campo bárbaro perto deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONNECT_RESOURCE">
-			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se nos conectarmos ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR].</Text>
+			<Text>Podemos ganhar influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se nos conectarmos ao recurso [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_ResourceName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONSTRUCT_WONDER">
-			<Text>Podemos ganhar influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se construirmos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR].</Text>
+			<Text>Podemos ganhar influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] se construirmos {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_GREAT_PERSON">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] estaria totalmente impressionada se tivéssemos uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Providencie uma dessas!</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] estaria totalmente impressionada se tivéssemos uma unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Providencie uma dessas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CITY_STATE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que destruamos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]! Por que eles querem isso? Soa cruel, mas eu tenho certeza que é por uma razão perfeitamente válida.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que destruamos {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_MinorCivName:textkey}[/COLOR]! Por que eles querem isso? Soa cruel, mas eu tenho certeza que é por uma razão perfeitamente válida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_PLAYER">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que entremos em contato com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CivName:textkey}[/COLOR]. Se a encontramos em nossas explorações, ganharíamos uma influência facilmente.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] quer que entremos em contato com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CivName:textkey}[/COLOR]. Se a encontramos em nossas explorações, ganharíamos uma influência facilmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_NATURAL_WONDER">
-			<Text>A descoberta de uma maravilha natural nos daria mais influência sobre [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR].</Text>
+			<Text>A descoberta de uma maravilha natural nos daria mais influência sobre {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CLEAR_BARBARIANS">
-			<Text>Matar todos os bárbaros perto do território de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] nos dará alguma influência sobre eles.</Text>
+			<Text>Matar todos os bárbaros perto do território {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] nos dará alguma influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_LIBERATE_CITY_STATE">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturarmos a cidade e libertá-la, restauraríamos a Cidade-Estado de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de influência sobre eles.</Text>
+			<Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturarmos a cidade e libertá-la, restauraríamos a Cidade-Estado {3: gender *:noart?de; feminine?{3: plural 2?das; other?da;}; masculine?{3: plural 2?dos; other?do;}; other?de;} [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
 			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população.</Text>
@@ -1327,10 +1327,10 @@
 			<Text>Existe uma fonte de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] perto da cidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_CityName:textkey}[/COLOR]. Nós já temos esse recurso, mas poderíamos usar qualquer adicional em negociações diplomáticas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_LUXURIES">
-			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR], que não os possui. Devemos tentar fechar um acordo com eles.</Text>
+			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR], que não os possui. Devemos tentar fechar um acordo com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_STRATEGIC">
-			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] que não os possui. Pense bem ao negociar esse recurso com eles, pois eles podem usá-lo para treinar unidades que podem, eventualmente, serem usadas contra nós.</Text>
+			<Text>Temos recursos de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_ResourceName:textkey}[/COLOR] adicionais que podemos usar para negociar com {2: gender *:noart?{}; feminine?{2: plural 2?as ; other?a ;}; masculine?{2: plural 2?os ; other?o ;}; other?{};}[COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR] que não os possui. Pense bem ao negociar esse recurso com eles, pois eles podem usá-lo para treinar unidades que podem, eventualmente, serem usadas contra nós.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_ECONOMIC">
 			<Text>Por favor, me perdoe; Lamento por não ter conselhos muito úteis neste momento. Talvez você deva construir mais cidades?</Text>

@@ -185,7 +185,7 @@
 			<Text>{1_Num} HP</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_CIV">
-			<Text>Ladrilho adquirido {2_CivName: gender masculine?{2_CivName: plural 1?pelo; other?pelos;}; feminine?{2_CivName: plural 1?pela; other?pelas;};} {1_CivName:textkey}</Text>
+			<Text>Ladrilho adquirido {1: gender *:noart?por; feminine?{1: plural 2?pelas; other?pela;}; masculine?{1: plural 2?pelos; other?pelo;}; other?por;} {1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_PLAYER">
 			<Text>Ladrilho adquirido por {1_PlayerName}</Text>
@@ -236,7 +236,7 @@
 			<Text>Missão de Cidade-Estado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_BARB_QUEST_LONG">
-			<Text>A Cidade-Estado de {1_CivName:textkey} quer que você destrua o acampamento bárbaro neste hexágono.</Text>
+			<Text>A Cidade-Estado {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CivName:textkey} quer que você destrua o acampamento bárbaro neste hexágono.</Text>
 		</Row>
 		<!-- Unit Panel Texts -->
 		<Row Tag="TXT_KEY_UPANEL_HEALTH">
@@ -1039,7 +1039,7 @@
 		</Row>		
 		<!-- 2.13 -->
 		<Row Tag="TXT_KEY_PROCESSING_TURN_FOR">
-		  <Text>Processando turno de {1_CivilizationName}</Text>
+		  <Text>Processando turno {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;} {1_CivilizationName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROCESSING_MINOR_CIVS">
 		  <Text>Processando turno das Cidades-Estado</Text>

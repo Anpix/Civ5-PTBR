@@ -63,9 +63,9 @@
             <Text>Você</Text>
         </Row>
         <Row Tag="TXT_KEY_UNMET_PLAYER">
-            <Text>Jogador desconhecido</Text>	
-			<Gender>neutro</Gender>
-			<Plurality>1</Plurality>			
+            <Text>Jogador desconhecido|Jogadores desconhecidos</Text>
+            <Gender>neutro|neutro</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CURRENTLY_SELECTED_UNIT">
             <Text>Esta é a unidade selecionada atualmente.[NEWLINE][NEWLINE](Clique para centralizar a câmera nela)</Text>
@@ -83,13 +83,13 @@
             <Text>Pontos de Civilização</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT">
-            <Text>Você pode oferecer {@1_CivName: gender feminine?à; other?ao;} {1_CivName:textkey} um presente em Ouro.</Text>
+            <Text>Você pode oferecer {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_CivName:textkey} um presente em Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT_AMOUNT">
             <Text>Com {1_NumGold} de [ICON_GOLD]Ouro você ganhará {2_NumFriendship} de [ICON_INFLUENCE]Influência</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT_CANT">
-            <Text>Com pelo menos {1_NumGold} de [ICON_GOLD]Ouro, você poderá dar {@2_CivName: gender feminine?à; other?ao;} {2_CivName:textkey} um presente.</Text>
+            <Text>Com pelo menos {1_NumGold} de [ICON_GOLD]Ouro, você poderá dar {2: gender *:noart?a; feminine?{2: plural 2?às; other?à;}; masculine?{2: plural 2?aos; other?ao;}; other?a;} {2_CivName:textkey} um presente.</Text>
         </Row>
         <Row Tag="TXT_KEY_RANSOM_POPUP_ABANDON">
             <Text>Não valem a pena. Deixe-os.</Text>
@@ -248,7 +248,7 @@
             <Text>Uma unidade civil foi capturada por bárbaros!</Text>
         </Row>
         <Row Tag="TXT_KEY_UNIT_CAPTURED_DETAILED">
-            <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_UnitName}} foi {@1_UnitName: gender feminine?capturada; other?capturado;} por {2_CivName:textkey}!</Text>
+            <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_UnitName}} foi {@1_UnitName: gender feminine?capturada; other?capturado;} {2: gender *:noart?por; feminine?{2: plural 2?pelas; other?pela;}; masculine?{2: plural 2?pelos; other?pelo;}; other?por;} masculine?{1: plural 2?pelos; other?pelo;} {2_CivName:textkey}!</Text>
         </Row>
         <Row Tag="TXT_KEY_UNIT_CAPTURED_BARBS_DETAILED">
             <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_UnitName}} foi {@1_UnitName: gender feminine?capturada; other?capturado;} pelos bárbaros! Eles {@1_UnitName: gender feminine?a; other?o;} levarão ao acampamento mais próximo. Caso queira recuperá-{@1_UnitName: gender feminine?la; other?lo;}, terá que segui-los e atacá-los!</Text>
@@ -926,10 +926,10 @@
             <Text>Você deseja designar civis a hexágonos diferentes?</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_GIVE_UNIT_CONFIRMATION">
-            <Text>Você quer presentear {1_CivName} com a unidade {2_UnitName}?</Text>
+            <Text>Você quer presentear {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName} com a unidade {2_UnitName}?</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CONFIRMATION">
-            <Text>Você capturou um civil que pertencia {@1: gender *:noart?a; feminine?{@1: plural 2?às; other?à;}; masculine?{@1: plural 2?aos; other?ao;}; other?a;} {1_CivName}. Você tem a opção de libertá-lo ou levá-lo com você como {@2_NewUnitName}.</Text>
+            <Text>Você capturou um civil que pertencia {1: gender *:noart?a; feminine?{1: plural 2?às; other?à;}; masculine?{1: plural 2?aos; other?ao;}; other?a;} {1_CivName}. Você tem a opção de libertá-lo ou levá-lo com você como {@2_NewUnitName}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CITY_STATE">
             <Text>Liberando o civil, você ganhará {1_Num} de [ICON_INFLUENCE]Influência!</Text>
@@ -1288,7 +1288,7 @@
 			<Text>Você tem certeza que quer denunciar {@1_LeaderName} publicamente?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONFIRM_WAR_PROTECTED_CITY_STATE">
-		  <Text>Você tem certeza que quer declarar guerra contra {1_CivName:textkey}? Atualmente eles estão sob proteção de: </Text>
+		  <Text>Você tem certeza que quer declarar guerra contra {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName:textkey}? Atualmente eles estão sob proteção de: </Text>
 		</Row>
 		<!-- Resources UI -->
 		<Row Tag="TXT_KEY_IC_RESOURCE">

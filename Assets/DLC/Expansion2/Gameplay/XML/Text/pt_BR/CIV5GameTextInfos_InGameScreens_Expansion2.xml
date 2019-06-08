@@ -2,7 +2,7 @@
 <GameData>
     <Language_pt_BR>
         <Row Tag="TXT_KEY_VP_DIPLO_SOMEONE_WON">
-            <Text>{1_CivName} {1: plural 2?{1: gender feminine?foram eleitas; other?foram eleitos;}; other?{1: gender feminine?foi eleita; other?foi eleito;};} {1: plural 2?Líderes Mundiais; other?Líder Mundial;}.</Text>
+            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 2?foram; other?foi;} {1: plural 2?{1: gender feminine?eleitas; other?eleitos;}; other?{1: gender feminine?eleita; other?eleito;};} {1: plural 2?Líderes Mundiais; other?Líder Mundial;}.</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_DIPLO_NEW_CAPITALS_REMAINING">
             <Text>Todos os jogadores continuam no controle de suas [ICON_CAPITAL]Capitais originais.</Text>
@@ -221,10 +221,10 @@
             <Text>GANHO CIENTÍFICO DELES</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_EXPLAINED">
-            <Text>{1_CivName} {1: plural 2?descobriram; other?descobriu;} {2_Num} {2: plural 1?tecnologia; other?tecnologias;} que você não conhece. Você está recebendo {3_Num} de [ICON_RESEARCH]Ciência nesta rota, em razão de sua Influência Cultural sobre eles.</Text>
+            <Text>{1: gender *:noart?{}; feminine?{1: plural 2?As ; other?A ;}; masculine?{1: plural 2?Os ; other?O ;}; other?{};}{1_CivName} {1: plural 2?descobriram; other?descobriu;} {2_Num} {2: plural 1?tecnologia; other?tecnologias;} que você não conhece. Você está recebendo {3_Num} de [ICON_RESEARCH]Ciência nesta rota, em razão de sua Influência Cultural sobre eles.</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_EXPLAINED">
-            <Text>Você descobriu {1_Num} {1: plural 1?tecnologia; other?tecnologias;} que {2_CivName} não {2: plural 1?conhece; other?conhecem;}. Eles estão recebendo {3_Num} de [ICON_RESEARCH]Ciência nesta rota, em razão de sua Influência Cultural sobre você.</Text>
+            <Text>Você descobriu {1_Num} {1: plural 1?tecnologia; other?tecnologias;} que {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{2_CivName} não {2: plural 1?conhece; other?conhecem;}. Eles estão recebendo {3_Num} de [ICON_RESEARCH]Ciência nesta rota, em razão de sua Influência Cultural sobre você.</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_TOTAL">
             <Text>Total: {1_Num} de [ICON_RESEARCH]Ciência</Text>
@@ -1150,7 +1150,7 @@
             <Text>Uma ou outra vez ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo a sua volta - artistas, cientistas, generais, comerciantes e outros, cujo gênio colocava sua cabeça e seus ombros acima do resto. Neste jogo tais visionários são chamados de "Grandes Pessoas".[NEWLINE][NEWLINE]Há nove tipos diferentes de Grande Pessoa no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Pessoas através da construção de certos edifícios e maravilhas e, depois, desiginando a eles "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora especialistas não trabalhem nos ladrilhos da cidade, eles aceleraram muito a chegada de uma Grande Pessoa. Equilibrar a necessidade de produção e alimentos e o desejo de Grandes Pessoas é um desafio importante de gestão da cidade.</Text>
         </Row>       <!--New Declare War Screen -->
         <Row Tag="TXT_KEY_DECLARE_WAR_TOP">
-            <Text>Tem certeza que deseja declarar guerra contra {1_CivName}?</Text>
+            <Text>Tem certeza que deseja declarar guerra contra {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName}?</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_NAME_DESC">
             <Text>{1_PlayerName} ({2_EraName})</Text>
@@ -1159,7 +1159,7 @@
             <Text>Cidades-Estado Aliadas</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_DEALS_HEADER">
-            <Text>Tratar com {1_CivName}</Text>
+            <Text>Tratar com {1: gender *:noart?{}; feminine?{1: plural 2?as ; other?a ;}; masculine?{1: plural 2?os ; other?o ;}; other?{};}{1_CivName}</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_DEALS_TURNS_LEFT">
             <Text>{1_Num} {1: plural 1?Turno; other? Turnos;} Restando</Text>
@@ -1168,7 +1168,7 @@
             <Text>De Você</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_DEALS_FROM_OTHER">
-            <Text>{1: gender feminine?{1: plural 2?{Das}; other?{Da};}; other?{1: plural 2:{Dos}; other?{Do};};} {1_CivName}</Text>
+            <Text>{1: gender *:noart?De; feminine?{1: plural 2?Das; other?Da;}; masculine?{1: plural 2?Dos; other?Do;}; other?De;} {1_CivName}</Text>
         </Row>
         <Row Tag="TXT_KEY_DECLARE_WAR_TRADE_ROUTES_HEADER">
             <Text>Rotas Comerciais</Text>
