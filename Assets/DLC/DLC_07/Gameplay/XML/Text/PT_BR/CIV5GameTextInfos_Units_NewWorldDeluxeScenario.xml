@@ -7,193 +7,314 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_HEADING">
-			<Text>Treasure</Text>
+			<Text>Tesouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER">
-			<Text>Slinger</Text>
+			<Text>Fundeiro|Fundeiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_TERCIO">
-			<Text>Tercio</Text>
+			<Text>Terço|Terços</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_CONQUISTADOR">
-			<Text>Conquistador</Text>
+			<Text>Conquistador|Conquistadores</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<!-- Admirals-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLAUVELT">
 			<Text>Abraham Blauvelt</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLOCK">
 			<Text>Adriaen Block</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_PORTUGUESE_EXPLORER">
-			<Text>Pedro Cabral</Text>
+			<Text>Pedro Álvares Cabral</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CABRILLO">
 			<Text>Juan Cabrillo</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_COELHO">
-			<Text>Goncalo Coelho</Text>
+			<Text>Gonçalo Coelho</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CORTE_REAL">
 			<Text>Miguel Corte-Real</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_DE_WEERT">
 			<Text>Sebald de Weert</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LAVRADOR">
-			<Text>Joao Lavrador</Text>
+			<Text>João Lavrador</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LE_MARIE">
 			<Text>Jacob le Maire</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_MARTINS">
-			<Text>Alvaro Martins</Text>
+			<Text>Álvaro Martins</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_DUTCH_EXPLORER">
 			<Text>Olivier van Noort</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_VAN_RYEN">
 			<Text>Jan van Ryen</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<!-- Units-->
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS">
-			<Text>Comanche Rider</Text>
+			<Text>Jinetes Comanche|Jinetes Comanches</Text>
+			<Gender>neuter:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MYSTIC_WARRIOR">
-			<Text>Mystic Warrior</Text>
+			<Text>Guerreiro Místico|Guerreiros Místicos</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST">
-			<Text>Atlatlist</Text>
-			<Gender>neuter:an</Gender>
+			<Text>Atirador|Atiradores</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
-			<Text>Privateer</Text>
+			<Text>Corsário|Corsários</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_LEON">
-			<Text>De Leon</Text>
+			<Text>De León</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_NARVAEZ">
-			<Text>Narvaez</Text>
+			<Text>Narváez</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_VACA">
 			<Text>De Vaca</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_MAGELLAN">
-			<Text>Magellan</Text>
+			<Text>Magalhães</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_SOTO">
 			<Text>De Soto</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ULLOA">
 			<Text>Ulloa</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_VESPUCCI">
-			<Text>Vespucci</Text>
+			<Text>Vespúcio</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CARTIER">
 			<Text>Cartier</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ROBERVAL">
 			<Text>Roberval</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHAMPLAIN">
 			<Text>Champlain</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_RUT">
 			<Text>Rut</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHANCELLOR">
 			<Text>Chancellor</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_WILLOUGHBY">
 			<Text>Willoughby</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_GRENVILLE">
 			<Text>Grenville</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_HUDSON">
 			<Text>Hudson</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORTES">
-			<Text>Cortes</Text>
+			<Text>Cortés</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORDOVA">
-			<Text>Cordova</Text>
+			<Text>Córdoba</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_PIZARRO">
 			<Text>Pizarro</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_ORELLANA">
 			<Text>Orellana</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORONADO">
 			<Text>Coronado</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MONTEJO">
 			<Text>Montejo</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_BALBOA">
 			<Text>Balboa</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_VILLEGAGNON">
 			<Text>Villegagnon</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_LAUDONNIERRE">
-			<Text>Laudonnierre</Text>
+			<Text>Laudonnière</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_RIBAULT">
 			<Text>Ribault</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_DEVEREUX">
 			<Text>Devereux</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_NORREYS">
 			<Text>Norreys</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MOUNTJOY">
 			<Text>Mountjoy</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_SMITH">
 			<Text>Smith</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_WINTHROP">
 			<Text>Winthrop</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_MENENDEZ">
-			<Text>Menendez</Text>
+			<Text>Menéndez</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_SANTA_CRUZ">
 			<Text>Santa Cruz</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FLEURY">
 			<Text>Fleury</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_CLERC">
 			<Text>Le Clerc</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_TESTU">
 			<Text>Le Testu</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DE_SORES">
 			<Text>De Sores</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DRAKE">
 			<Text>Drake</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_RALEIGH">
 			<Text>Raleigh</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_HAWKINS">
 			<Text>Hawkins</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_CAVENDISH">
 			<Text>Cavendish</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FROBISHER">
 			<Text>Frobisher</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_GILBERT">
 			<Text>Gilbert</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>
