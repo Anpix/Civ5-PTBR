@@ -47,9 +47,9 @@
 			<Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">
-            <Text>Celta|Celta|Celtas|Celtas</Text>
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+            <Text>Celta|Celtas</Text>
+            <Gender>neuter</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_DESC">
             <Text>Império Celta</Text>
@@ -57,9 +57,9 @@
 			<Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_SHORT_DESC">
-            <Text>Império Celta</Text>
+            <Text>Celtas</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+            <Plurality>2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
             <Text>Etíope|Etíopes</Text>
@@ -87,9 +87,9 @@
 			<Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIV_HUNS_SHORT_DESC">
-            <Text>Império Huno</Text>
+            <Text>Hunos</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+            <Plurality>2</Plurality>
         </Row>
 		<Row Tag="TXT_KEY_CIV_MAYA_ADJECTIVE">
             <Text>Maia|Maias</Text>
@@ -102,9 +102,9 @@
 			<Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIV_MAYA_SHORT_DESC">
-            <Text>Império Maia</Text>
+            <Text>Maias</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+            <Plurality>2</Plurality>
         </Row>
 		<Row Tag="TXT_KEY_CIV_NETHERLANDS_ADJECTIVE">
             <Text>Holandês|Holandesa|Holandeses|Holandesas</Text>
