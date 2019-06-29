@@ -93,7 +93,7 @@
 			<Text>Capacidade de Carga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UPANEL_CARGO_CAPACITY_TT">
-		  <Text>Número de unidades que podem ser transportadas {1: gender feminine?{1: plural 2?pelas; other?pela;}; other?{1: plural 2?pelos; other?pelo;};} {1_UnitName}.</Text>
+		  <Text>Número de unidades que podem ser transportadas {1: gender *:noart?por; feminine?{1: plural 2?pelas; other?pela;}; masculine?{1: plural 2?pelos; other?pelo;}; other?por;} {1_UnitName}.</Text>
 	</Row>
 	</Language_pt_BR>
 </GameData>
