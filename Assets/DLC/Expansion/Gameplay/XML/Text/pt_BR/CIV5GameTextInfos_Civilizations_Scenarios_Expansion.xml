@@ -39,13 +39,13 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_SHORT_DESC">
-			<Text>Império Sassânida</Text>
+			<Text>Sassânidas</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_ADJECTIVE">
 			<Text>Sassânida|Sassânidas</Text>
-			<Gender>neuter:noart|neuter:noart</Gender>
+			<Gender>neuter</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_DESC">
@@ -54,9 +54,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_SHORT_DESC">
-			<Text>Império Franco</Text>
+			<Text>Francos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_ADJECTIVE">
 			<Text>Franco|Franca|Francos|Francas</Text>
@@ -69,9 +69,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_SHORT_DESC">
-			<Text>Reino Godo</Text>
-            <Gender>masculine</Gender>			
-			<Plurality>1</Plurality>
+			<Text>Godos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_ADJECTIVE">
 			<Text>Godo|Goda|Godos|Godas</Text>
@@ -84,9 +84,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_SHORT_DESC">
-			<Text>Império Vândalo</Text>
-            <Gender>masculine</Gender>			
-			<Plurality>1</Plurality>
+			<Text>Vândalos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_ADJECTIVE">
 			<Text>Vândalo|Vândala|Vândalos|Vândalas</Text>
@@ -101,9 +101,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_SHORT_DESC">
-			<Text>Império Eruco</Text>
-            <Gender>masculine</Gender>			
-			<Plurality>1</Plurality>
+			<Text>Erucos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_ADJECTIVE">
 			<Text>Eruco|Eruca|Erucos|Erucas</Text>
@@ -131,9 +131,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_SHORT_DESC">
-			<Text>Império Pulias</Text>
-            <Gender>masculine</Gender>			
-			<Plurality>1</Plurality>			
+			<Text>Pulianos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_ADJECTIVE">
 			<Text>Puliano|Puliana|Pulianos|Pulianas</Text>
@@ -146,9 +146,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_SHORT_DESC">
-			<Text>Império Vedria</Text>
-            <Gender>masculine</Gender>			
-			<Plurality>1</Plurality>			
+			<Text>Vedrianos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_ADJECTIVE">
 			<Text>Vedriano|Vedriana|Vedrianos|Vedrianas</Text>
@@ -161,9 +161,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_SHORT_DESC">
-			<Text>Dalmace</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Dalmacianos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_ADJECTIVE">
 			<Text>Dalmaciano|Dalmaciana|Dalmacianos|Dalmacianas</Text>
@@ -171,19 +171,19 @@
 			<Plurality>1|1|2|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_ADJECTIVE">
-			<Text>Ludite|Ludite|Ludites|Ludites</Text>
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>
+			<Text>Ludita|Luditas</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_DESC">
-			<Text>Horda Ludite</Text>
+			<Text>Horda Ludita</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_SHORT_DESC">
-			<Text>Horda Ludite</Text>
-            <Gender>masculine</Gender>			
-			<Plurality>1</Plurality>
+			<Text>Luditas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		
 		<!-- INTO THE RENAISSANCE -->
@@ -193,9 +193,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_SHORT_DESC">
-			<Text>Dinastia Aiúbida</Text>
-            <Gender>feminine</Gender>			
-			<Plurality>1</Plurality>
+			<Text>Aiúbidas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_ADJECTIVE">
 			<Text>Aiúbido|Aiúbida|Aiúbidos|Aiúbidas</Text>
@@ -203,9 +203,9 @@
 			<Plurality>1|1|2|2</Plurality>            
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_SHORT_DESC">
-			<Text>Califado Almôada</Text>
-            <Gender>masculine</Gender>			
-			<Plurality>1</Plurality>
+			<Text>Almôadas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_DESC">
 			<Text>Califado Almôada</Text>            
@@ -213,13 +213,13 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_ADJECTIVE">
-			<Text>Almôada|Almôada|Almôadas|Almôadas</Text>            
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Text>Almôada|Almôadas</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_SHORT_DESC">
-			<Text>Império Turco</Text>
-            <Gender>masculine</Gender>			
+			<Text>Turquia</Text>
+			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_DESC">

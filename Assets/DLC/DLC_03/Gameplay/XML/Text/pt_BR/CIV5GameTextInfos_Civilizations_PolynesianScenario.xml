@@ -15,7 +15,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_SHORT_DESC">
 			<Text>Hiva</Text>
-      <Gender>masculine</Gender> 
+			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>									
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_ADJECTIVE">
@@ -30,7 +30,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_SHORT_DESC">
 			<Text>Tonga</Text>
-      <Gender>masculine</Gender> 
+			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>									
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_ADJECTIVE">
@@ -45,7 +45,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_SHORT_DESC">
 			<Text>Samoa</Text>
-      <Gender>feminine</Gender> 
+			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>									
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_IROQUOIS_ADJECTIVE">
