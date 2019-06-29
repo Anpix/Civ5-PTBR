@@ -2335,7 +2335,7 @@
 			<Text>Irá aumentar a quantidade de [ICON_FOOD]Alimento por hexágono, acelerando o nascimento de novos [ICON_CITIZEN]cidadãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FISHING_BOATS">
-			<Text>Criar [LINK=IMPROVEMENT_FISHING_BOATS]Barcos Pesqueiros[\LINK]</Text>
+			<Text>Criar [LINK=IMPROVEMENT_FISHING_BOATS]{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FISHING_BOATS_REC">
 			<Text>Isto irá ligar os recursos marinhos deste hexágono a nossa rede comercial e melhorará sua produtividade quando explorados por uma cidade próxima.</Text>

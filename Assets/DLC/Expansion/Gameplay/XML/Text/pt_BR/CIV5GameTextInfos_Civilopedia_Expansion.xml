@@ -1724,7 +1724,7 @@
 			<Text>Permite a construção de úteis edifícios especializados e Maravilhas que melhoram a produção de [ICON_PEACE]Fé e possibilitam a criação de novas [ICON_GREAT_PEOPLE]Grandes Pessoas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Galeaça[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria rotas comerciais com a [ICON_CAPITAL]Capital pela água, produzindo [ICON_GOLD]Ouro. Além disso, o [ICON_GOLD]Ouro produzido por [COLOR_POSITIVE_TEXT]Barcos Pesqueiros[ENDCOLOR] aumenta.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Galeaça[ENDCOLOR], a primeira unidade naval de ataque a distância. Também permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria rotas comerciais com a [ICON_CAPITAL]Capital pela água, produzindo [ICON_GOLD]Ouro. Além disso, o [ICON_GOLD]Ouro produzido por [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}[ENDCOLOR] aumenta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade de montaria rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
@@ -1754,7 +1754,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Couraçado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Destróiers e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]Barcos Operários[ENDCOLOR] construam Plataformas Costeiras.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Destróiers e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam Plataformas Costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade.</Text>
