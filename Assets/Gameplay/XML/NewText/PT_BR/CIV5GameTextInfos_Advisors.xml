@@ -397,7 +397,7 @@
 			<Text>Negocie seus luxos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
-			<Text>Se desejar se comunicar com uma civilização ou uma Cidade-Estado novamente, você pode clicar no banner da cidade como um atalho para falar com eles.</Text>
+			<Text>Se desejar se comunicar com uma civilização ou uma cidade-estado novamente, você pode clicar no banner da cidade como um atalho para falar com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
 			<Text>Contatar uma civilização ou cidade</Text>
@@ -418,7 +418,7 @@
 			<Text>Clique no botão Próximo Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
-			<Text>Esta foi uma decisão inteligente! Este ataque vai fazer um monte de dano ao seu oponente, sem causar muitos danos em suas unidades.</Text>
+			<Text>Esta foi uma boa decisão! Este ataque vai causar muito dano ao seu oponente, sem sofrer muitos danos em suas unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
 			<Text>Ataque inteligente!</Text>
@@ -430,37 +430,37 @@
 			<Text>Este ataque pode não terminar bem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
-			<Text>Este ataque pode danificar ambos os lados igualmente. Esta é uma boa hora para continuar com este ataque, se tiver várias unidades próximas para usá-las antes que eles façam o mesmo com você!</Text>
+			<Text>Este ataque vai danificar ambos os lados igualmente. Esta é uma boa hora para continuar com este ataque, se tiver várias unidades próximas para usá-las antes que eles façam o mesmo com você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
-			<Text>Batalha igualada</Text>
+			<Text>Batalha equilibrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_BODY">
-			<Text>Movimento inteligente! Esmagamos nossos oponentes sem levar muitos danos!</Text>
+			<Text>Movimento bem pensado! Esmagamos nossos oponentes sem sofrer muitos danos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_DISPLAY">
 			<Text>Ataque inteligente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_BODY">
-			<Text>Esta batalha não foi nossa escolha. Talvez com um pouco mais de planejamento, poderemos recuperar a nossa glória no campo de batalha. Certifique-se de usar a pré-visualização de combate antes de atacar!</Text>
+			<Text>Esta batalha não deu certo para nós. Talvez com um pouco mais de planejamento possamos recuperar a nossa glória no campo de batalha. Certifique-se de usar a previsão de combate antes de atacar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
 			<Text>Não foi a nossa hora</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
-			<Text>Essa batalha foi uma lavagem. Não ganhamos vantagens ou ferimos gravemente o nosso adversário. Você precisará trazer outra unidade para apoiar nossas tropas.</Text>
+			<Text>Essa batalha foi um desperdício. Não ganhamos vantagens nem ferimos gravemente o nosso adversário. Você precisará trazer outra unidade para apoiar nossas tropas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
-			<Text>Batalha igualada</Text>
+			<Text>Batalha equilibrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
-			<Text>O nosso tesouro está esgotado e precisamos de novas fontes de [ICON_GOLD]Ouro! Sem [ICON_GOLD]Ouro nossas pesquisas param e ficamos atrasados em relação a outras civilizações.</Text>
+			<Text>O nosso tesouro está esgotado e precisamos de novas fontes de [ICON_GOLD]Ouro! Sem [ICON_GOLD]Ouro nossas pesquisas param e ficamos atrasados em relação às outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
 			<Text>Falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
-			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais [ICON_HAPPINESS_4]infelizes.</Text>
+			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4]infelizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
 			<Text>Cidade ocupada precisa de Tribunal</Text>
