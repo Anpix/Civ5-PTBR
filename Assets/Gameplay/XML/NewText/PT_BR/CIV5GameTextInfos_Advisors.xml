@@ -340,13 +340,13 @@
 			<Text>Mostre a unidade naval</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
-			<Text>Barcos pesqueiros permitem que você explore os recursos de peixes e baleias ao longo da costa do Império. Assim que explorar esses locais, os barcos pesqueiros serão definitivamente convertidos.</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} permitem que você explore os recursos de peixes e baleias ao longo da sua costa. Assim que explorar esses locais, os TXT_KEY_UNIT_WORK_BOAT[2] serão convertidos definitivamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
-			<Text>Barcos pesqueiros</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
-			<Text>Mostre o barco pesqueiro</Text>
+			<Text>Mostre o {TXT_KEY_UNIT_WORK_BOAT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
 			<Text>Unidades de cerco são excelentes para abater cidades em outros territórios, mas são indefesas se forem atacadas por outras unidades, por isso sempre as defenda!</Text>
@@ -397,7 +397,7 @@
 			<Text>Negocie seus luxos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
-			<Text>Se desejar se comunicar com uma civilização ou uma Cidade-Estado novamente, você pode clicar no banner da cidade como um atalho para falar com eles.</Text>
+			<Text>Se desejar se comunicar com uma civilização ou uma cidade-estado novamente, você pode clicar no banner da cidade como um atalho para falar com eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
 			<Text>Contatar uma civilização ou cidade</Text>
@@ -418,7 +418,7 @@
 			<Text>Clique no botão Próximo Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
-			<Text>Esta foi uma decisão inteligente! Este ataque vai fazer um monte de dano ao seu oponente, sem causar muitos danos em suas unidades.</Text>
+			<Text>Esta foi uma boa decisão! Este ataque vai causar muito dano ao seu oponente, sem sofrer muitos danos em suas unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
 			<Text>Ataque inteligente!</Text>
@@ -430,37 +430,37 @@
 			<Text>Este ataque pode não terminar bem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
-			<Text>Este ataque pode danificar ambos os lados igualmente. Esta é uma boa hora para continuar com este ataque, se tiver várias unidades próximas para usá-las antes que eles façam o mesmo com você!</Text>
+			<Text>Este ataque vai danificar ambos os lados igualmente. Esta é uma boa hora para continuar com este ataque, se tiver várias unidades próximas para usá-las antes que eles façam o mesmo com você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
-			<Text>Batalha igualada</Text>
+			<Text>Batalha equilibrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_BODY">
-			<Text>Movimento inteligente! Esmagamos nossos oponentes sem levar muitos danos!</Text>
+			<Text>Movimento bem pensado! Esmagamos nossos oponentes sem sofrer muitos danos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_DISPLAY">
 			<Text>Ataque inteligente!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_BODY">
-			<Text>Esta batalha não foi nossa escolha. Talvez com um pouco mais de planejamento, poderemos recuperar a nossa glória no campo de batalha. Certifique-se de usar a pré-visualização de combate antes de atacar!</Text>
+			<Text>Esta batalha não deu certo para nós. Talvez com um pouco mais de planejamento possamos recuperar a nossa glória no campo de batalha. Certifique-se de usar a previsão de combate antes de atacar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
 			<Text>Não foi a nossa hora</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
-			<Text>Essa batalha foi uma lavagem. Não ganhamos vantagens ou ferimos gravemente o nosso adversário. Você precisará trazer outra unidade para apoiar nossas tropas.</Text>
+			<Text>Essa batalha foi um desperdício. Não ganhamos vantagens nem ferimos gravemente o nosso adversário. Você precisará trazer outra unidade para apoiar nossas tropas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
-			<Text>Batalha igualada</Text>
+			<Text>Batalha equilibrada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
-			<Text>O nosso tesouro está esgotado e precisamos de novas fontes de [ICON_GOLD]Ouro! Sem [ICON_GOLD]Ouro nossas pesquisas param e ficamos atrasados em relação a outras civilizações.</Text>
+			<Text>O nosso tesouro está esgotado e precisamos de novas fontes de [ICON_GOLD]Ouro! Sem [ICON_GOLD]Ouro nossas pesquisas param e ficamos atrasados em relação às outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
 			<Text>Falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
-			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais [ICON_HAPPINESS_4]infelizes.</Text>
+			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4]infelizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
 			<Text>Cidade ocupada precisa de Tribunal</Text>
@@ -925,7 +925,7 @@
 			<Text>Temos muitas cidades litorâneas, por isso devemos focar em edifícios que melhorem o rendimento de nossos hexágonos litorâneos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_TILE_IMPROVEMENT">
-			<Text>Temos recursos hídricos que não estamos usando. Construa barcos pesqueiros e implante-os para ajudar a nossa civilização!</Text>
+			<Text>Temos recursos marinhos que não estamos usando. Construa {TXT_KEY_UNIT_WORK_BOAT[2]} e use-os para ajudar a nossa civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_FOUND_CITY">
 			<Text>Temos um [COLOR_UNIT_TEXT]Colonizador[/COLOR], agora encontre um bom lugar para fundar uma cidade!</Text>
@@ -973,7 +973,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edifícios como o Farol, que melhoraram o rendimento desses hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um barco pesqueiro para melhorar o recurso!</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um {TXT_KEY_UNIT_WORK_BOAT} para melhorar o recurso!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_NAVAL_TILE_IMPROVEMENT">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui todos os seus recursos aquáticos melhorados.</Text>

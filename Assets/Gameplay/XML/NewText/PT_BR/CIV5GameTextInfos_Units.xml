@@ -422,9 +422,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORK_BOAT">
-			<Text>Barco Operário</Text>
+			<Text>Barco de Serviço|Barcos de Serviço</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORKER">
 			<Text>Trabalhador|Trabalhadores</Text>
@@ -1363,7 +1363,9 @@
 			<Text>Funda novas cidades para expandir seu Império.[NEWLINE][NEWLINE]O [ICON_FOOD]crescimento da cidade é interrompido enquanto esta unidade está sendo produzida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKBOAT">
-			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH]Peixe. O Barco Operário é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
+			<Text>Cria melhorias nos recursos aquáticos, como [ICON_RES_FISH]Peixe. O {TXT_KEY_UNIT_WORK_BOAT} é consumido no processo. Ele não possui defesa e é destruído caso entre em contato com um inimigo.</Text>
+			<Gender>0</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SS_PART">
 			<Text>Uma das partes da Espaçonave, deve ser construída e enviada à [ICON_CAPITAL]capital para se ganhar com uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>

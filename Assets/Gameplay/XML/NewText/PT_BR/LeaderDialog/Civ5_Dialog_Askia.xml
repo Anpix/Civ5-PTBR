@@ -50,7 +50,7 @@
 			<Text>Se não der o que queremos, iremos convocar o grande fogo da justiça sobre suas cidades e o destruiremos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_HAPPY">
-			<Text>Songhai poderia usar sua assistência contra os pecadores e a escória que infestam a terra.</Text>
+			<Text>Songai poderia usar sua assistência contra os pecadores e a escória que infestam a terra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_NEUTRAL">
 			<Text>Dê-nos o que queremos ou enfrentem nossa ira.</Text>
@@ -77,16 +77,16 @@
 			<Text>Você está falando sério?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_1">
-			<Text>Saudações. Eu sou Askia de Songhai. Somos um povo amável - mas aqueles que cruzarem nosso caminho encontrarão apenas destruição. Faria bem a você evitar repetir os erros que os outros cometeram no passado.</Text>
+			<Text>Saudações. Eu sou Askia de Songai. Somos um povo amável - mas aqueles que cruzarem nosso caminho encontrarão apenas destruição. Faria bem a você evitar repetir os erros que os outros cometeram no passado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_2">
-			<Text>Minhas bênçãos a vocês. Eu sou Askia de Songhai. Pretendo paz com todos, mas não fujo da guerra quando necessário. Se você deseja sobreviver, não torne isto necessário.</Text>
+			<Text>Minhas bênçãos a vocês. Eu sou Askia de Songai. Pretendo paz com todos, mas não fujo da guerra quando necessário. Se você deseja sobreviver, não torne isto necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_3">
-			<Text>Saudações. Eu sou Askia, Rei de Songhai. Somos um ilustre povo que busca trocar conhecimentos. No entanto, estamos preparados para nos defendermos quando necessário.</Text>
+			<Text>Saudações. Eu sou Askia, Rei de Songai. Somos um ilustre povo que busca trocar conhecimentos. No entanto, estamos preparados para nos defendermos quando necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_4">
-			<Text>Saudações. Eu sou Askia de Songhai. Pretendemos paz com todos. Se você está procurando problemas, sugiro que o faça em outro lugar.</Text>
+			<Text>Saudações. Eu sou Askia de Songai. Pretendemos paz com todos. Se você está procurando problemas, sugiro que o faça em outro lugar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_1">
 			<Text>Bom dia.</Text>
@@ -188,7 +188,7 @@
 			<Text>Acha que somos idiotas? Deveria matá-lo pela sua arrogância. Saia agora, enquanto você ainda pode.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_HAPPY">
-			<Text>Não posso concordar com as suas condições. São injustas para o povo de Songhai.</Text>
+			<Text>Não posso concordar com as suas condições. São injustas para o povo de Songai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_NEUTRAL">
 			<Text>Sua oferta é inaceitável. Isso é um insulto contra nós?</Text>

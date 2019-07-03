@@ -287,19 +287,19 @@
 			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SONGHAI_ADJECTIVE">
-            <Text>Songhai|Songhai|Songhais|Songhais</Text>
-            <Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>
+            <Text>Songai|Songais</Text>
+            <Gender>neuter:noart|neuter:noart</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SONGHAI_DESC">
-            <Text>Império Songhai</Text>
+            <Text>Império Songai</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+            <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SONGHAI_SHORT_DESC">
-            <Text>Songhai</Text>
+            <Text>Songai</Text>
             <Gender>masculine</Gender>
-			<Plurality>2</Plurality>
+            <Plurality>2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIVILIZATION_SECTION_1">
             <Text>Civilizações</Text>

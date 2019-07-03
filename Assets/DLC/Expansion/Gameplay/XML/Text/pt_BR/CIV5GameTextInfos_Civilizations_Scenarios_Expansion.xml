@@ -4,49 +4,49 @@
 	<Language_pt_BR>
 		<!-- FALL OF ROME SCENARIO -->
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_DESC">
-			<Text>Roma Oeste</Text>
+			<Text>Roma Ocidental</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_SHORT_DESC">
-			<Text>Roma Oeste</Text>
+			<Text>Roma Ocidental</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_ADJECTIVE">
-			<Text>de Roma Oeste|de Roma Oeste|de Roma Oeste |de Roma Oeste</Text>
+			<Text>Romano Ocidental|Romana Ocidental|Romanos Ocidentais|Romanas Ocidentais</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_DESC">
-			<Text>Roma Leste</Text>
+			<Text>Roma Oriental</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_SHORT_DESC">
-			<Text>Roma Leste</Text>
+			<Text>Roma Oriental</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_ADJECTIVE">
-			<Text>de Roma Leste|de Roma Leste|de Roma Leste |de Roma Leste</Text>
+			<Text>Romano Oriental|Romana Oriental|Romanos Orientais|Romanas Orientais</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>					
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_DESC">
 			<Text>Império Sassânida</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_SHORT_DESC">
-			<Text>Império Sassânida</Text>			
-            <Gender>masculine</Gender>			
+			<Text>Império Sassânida</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_ADJECTIVE">
-			<Text>Sassânido|Sassânida|Sassânidos|Sassânidas</Text>
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Text>Sassânida|Sassânidas</Text>
+			<Gender>neuter:noart|neuter:noart</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_DESC">
 			<Text>Reino Franco</Text>
@@ -54,8 +54,8 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_SHORT_DESC">
-			<Text>Império Francos</Text>
-            <Gender>masculine</Gender>			
+			<Text>Império Franco</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_ADJECTIVE">

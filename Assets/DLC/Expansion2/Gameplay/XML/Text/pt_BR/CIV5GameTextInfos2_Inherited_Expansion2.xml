@@ -336,7 +336,7 @@
 			<Text>Unidade de montaria especializada em derrotar outras unidades de montaria inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e possui um campo de alcance visual maior que a unidade que ela substitui, o {TXT_KEY_UNIT_LANCER}.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Poderosa unidade de montaria da Era Medieval. Fraca contra Piqueiros. Apenas os Songhais podem treiná-la. Esta unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>			
+			<Text>Poderosa unidade de montaria da Era Medieval. Fraca contra Piqueiros. Apenas os Songais podem treiná-la. Esta unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto.</Text>
@@ -1299,7 +1299,7 @@
 			<Text>+1 de [ICON_PRODUCTION]Produção em cidades com população superior a 3</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_SEA">
-			<Text>+1 de [ICON_PRODUCTION]Produção de Barcos Pesqueiros</Text>
+			<Text>+1 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_OPEN_SKY">
 			<Text>+1 de [ICON_CULTURE]Cultura de Pastos</Text>
@@ -1599,7 +1599,7 @@
 			<Text>A tundra é a terra semicongelada dos climas mais frios do mundo. É menos útil que as planícies ou pradarias, mas um pouco melhor que os desertos. Ninguém constrói cidades na tundra, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
-			<Text>Há seis tipos de unidades não combatentes: Colonizadores, Trabalhadores, Barcos Operários, Grandes Pessoas, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
+			<Text>Há seis tipos de unidades não combatentes: Colonizadores, Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]}, Grandes Pessoas, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_NARROW_CONTINENTS_HELP">
 			<Text>O mundo é formado por continentes grandes e estreitos.</Text>
@@ -1641,7 +1641,7 @@
 			<Text>Você pode consumir seu Grande Cientista para obter um bocado de pontos de ciência, equivalente à média de produção de ciência da sua civilização nos últimos oito turnos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
-			<Text>Nós não possuímos nenhuma fonte de {1_ResourceName:textkey} e há uma próxima {2: gender *:noart?a; feminine?{2: plural 2?às; other?à;}; masculine?{2: plural 2?aos; other?ao;}; other?a;} {2_CityName:textkey}. Envie um Trabalhador (terra) ou um Barco Operário (mar) para explorar aquele hexágono e, assim, termos acesso àquele recurso.</Text>
+			<Text>Nós não possuímos nenhuma fonte de {1_ResourceName:textkey} e há uma próxima {2: gender *:noart?a; feminine?{2: plural 2?às; other?à;}; masculine?{2: plural 2?aos; other?ao;}; other?a;} {2_CityName:textkey}. Envie um Trabalhador (terra) ou um {TXT_KEY_UNIT_WORK_BOAT} (mar) para explorar aquele hexágono e, assim, termos acesso àquele recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_DISCUSS_HEADING3_BODY">
 			<Text>Este botão lhe permite abrir um diálogo em uma variedade de tópicos. Dependendo de certas circunstâncias você pode fazer uma das seguintes ações: (a resposta do líder irá depender da sua relação com você e dos seus próprios interesses) [NEWLINE]- Pedir a um líder que assine uma Declaração de Amizade.[NEWLINE]- Pedir a um líder que vá à guerra contra outra civilização.[NEWLINE]- Compartilhar intrigras com um líder.[NEWLINE]- Pedir que um líder não construa mais cidades próximas a você.[NEWLINE]- Denunciar um líder com o qual você não esteja feliz.[NEWLINE]- Pedir a um líder que pare de espionar você.</Text>

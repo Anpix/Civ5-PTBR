@@ -26,7 +26,7 @@
 			<Text>Origins of Human Development</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_4">
-			<Text>Pre-History</Text>
+			<Text>Pré-História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_HEADING_5">
 			<Text>Early Kingdoms</Text>
@@ -129,7 +129,7 @@
 			<Text>Rastafarian God</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_HEADING_8">
-			<Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_1">
 			<Text>Known as the "Conquering Lion of the Tribe of Judah," "King of Kings," and "Elect of God," Haile Selassie ruled Ethiopia as emperor for nearly 40 years in the 20th century. Born as Lij Tafari Makonnen in 1892, the man who came to be known as Haile Selassie spent his life serving the interests of Ethiopia and bringing his nation to the forefront of African politics. Best known for reforming the ancient feudal practices of Ethiopia through his attempts at modernizing the nation, Haile Selassie worked tirelessly to gain international recognition for Ethiopia on the world stage. His legacy in global politics has been surpassed only by his role as the messiah of the Rastafari religion, among whose followers he is venerated as the god who will lead the Rastas back to their homeland of Ethiopia.</Text>
@@ -613,7 +613,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_PEACE]Fé de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EDUCATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisas[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores do jogo.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
 			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
@@ -661,7 +661,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Couraçado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Destróiers e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]Barcos Operários[ENDCOLOR] construam Plataformas Costeiras.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Destróiers e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam Plataformas Costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade.</Text>

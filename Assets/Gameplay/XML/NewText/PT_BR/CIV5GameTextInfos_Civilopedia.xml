@@ -693,7 +693,7 @@
 			<Text>O Monumento aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território urbano e a aquisição de Políticas Sociais por parte da civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_STRATEGY">
-			<Text>A Mesquita Piramidal de Lama é um edifício exclusivo Songhai que substitui o Templo. Aumenta muito a [ICON_CULTURE]Cultura da cidade, acelerando o crescimento do território urbano e a aquisição de Políticas Sociais por parte da civilização. A Mesquita Piramidal de Lama não tem custos de manutenção.</Text>
+			<Text>A Mesquita Piramidal de Lama é um edifício exclusivo Songai que substitui o Templo. Aumenta muito a [ICON_CULTURE]Cultura da cidade, acelerando o crescimento do território urbano e a aquisição de Políticas Sociais por parte da civilização. A Mesquita Piramidal de Lama não tem custos de manutenção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_PEDIA">
 			<Text>Os Mongóis eram um povo Islâmico que invadiu a Índia no século 15 e governou grande parte do subcontinente até meados do século 19. Durante este período, construíram fortalezas elaboradas por toda a zona rural que serviam como centros administrativos e moradia para seus ocupantes. Estas fortificações eram estruturas magníficas, palácios dignos de governantes de um vasto império. Vários deles - incluindo o "Forte Lahore" e o Forte Vermelho de Agra - sobrevivem até hoje e permanecem como algumas das maiores atrações turísticas da Índia e monumentos ao poder e estilo dos Mongóis.</Text>
@@ -1487,7 +1487,7 @@
 			<Text>Nas civilizações primitivas não existia o "soldado profissional". Uma civilização jovem não pode manter um exército permanente; em momentos de crise, todos os homens capazes de uma civilização formam uma milícia provisional, e voltam para suas fazendas e aldeias em tempos de paz. Esses guerreiros contam com muito pouco treinamento e são equipados com armas primitivas - clavas, ou com sorte, punhais de pedra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WORKBOAT_HEADING">
-			<Text>Barco Operário</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WORKBOAT_TEXT">
 			<Text>O mar pode fornecer muito para uma civilização. Isto pode variar na forma de pescado até a energia das baleias ou do petróleo. Por toda a história da humanidade, homens e mulheres corajosos se adentraram nos mares para recolher seus tesouros. Sem dúvida, eles continuarão a fazer isso até o final dos tempos, "quando o mar entregar seus mortos".</Text>
@@ -1663,7 +1663,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDING_MUD_PYRAMID_MOSQUE_PEDIA">
-			<Text>A Mesquita Piramidal é na realidade um complexo de edifícios que se encontra na cidade de Gao. Conta com uma tumba, duas mesquitas, um cemitério e um campo de reuniões. Segundo a lenda, é o lugar onde está enterrado Askia Mohammad I, um dos maiores Imperadores de Songhai. Embora não tão grandes como a Mesquita de Gao, podem ser encontrados outros edifícios parecidos por toda a África Ocidental que atestam a habilidade de construção dos Songhai.</Text>
+			<Text>A Mesquita Piramidal é na realidade um complexo de edifícios que se encontra na cidade de Gao. Conta com uma tumba, duas mesquitas, um cemitério e um campo de reuniões. Segundo a lenda, é o lugar onde está enterrado Askia Mohammad I, um dos maiores Imperadores de Songai. Embora não tão grandes como a Mesquita de Gao, podem ser encontrados outros edifícios parecidos por toda a África Ocidental que atestam a habilidade de construção dos Songai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARMORY_HEADING">
 			<Text>Depósito de Armas</Text>
@@ -2114,10 +2114,10 @@
 			<Text>Sião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_DAWN_SONGHAI_TEXT">
-			<Text>Que as bênçãos do Todo-Poderoso Alá, que é maior que todos, estejam sobre vós Askia, líder do povo Songhai! Por muitos anos vosso reinado foi um estado vassalo do poderoso Estado Africano Ocidental de Mali, até a metade do século XIV, quando o rei Sunni Ali Ber forçou a independência de Mali, conquistando muito território e lutando contra numerosos adversários que procuravam destruí-lo. Por último, a conquista da rica cidade de Timbuktu e Jenne deu ao crescente Império Songhai o poder econômico para sobreviver por quase 100 anos, até que o império foi destruído por inimigos com avançada tecnologia - mosquetes contra lanceiros.[NEWLINE][NEWLINE]Rei Askia, vosso povo vos procura para levá-los à glória. Para fazê-los poderosos e ricos. Para mantê-los supridos com as armas que eles precisam para derrotar qualquer adversário. Podereis vós salvá-los da destruição, ó Rei? Podereis construir uma civilização que possa resistir ao teste do tempo?</Text>
+			<Text>Que as bênçãos do Todo-Poderoso Alá, que é maior que todos, estejam sobre vós Askia, líder do povo Songai! Por muitos anos vosso reinado foi um estado vassalo do poderoso Estado Africano Ocidental de Mali, até a metade do século XIV, quando o rei Sunni Ali Ber forçou a independência de Mali, conquistando muito território e lutando contra numerosos adversários que procuravam destruí-lo. Por último, a conquista da rica cidade de Timbuktu e Jenne deu ao crescente Império Songai o poder econômico para sobreviver por quase 100 anos, até que o império foi destruído por inimigos com avançada tecnologia - mosquetes contra lanceiros.[NEWLINE][NEWLINE]Rei Askia, vosso povo vos procura para levá-los à glória. Para fazê-los poderosos e ricos. Para mantê-los supridos com as armas que eles precisam para derrotar qualquer adversário. Podereis vós salvá-los da destruição, ó Rei? Podereis construir uma civilização que possa resistir ao teste do tempo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_DAWN_SONGHAI_TITLE">
-			<Text>Songhai</Text>
+			<Text>Songai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_DAWN_UNITEDSTATES_TEXT">
 			<Text>Seja bem-vindo, Presidente Washington! O senhor lidera a industrializada civilização Americana. Formada no agito da revolução no século XVIII, dentro de cem anos a jovem nação se envolveu em uma terrível Guerra Civil que quase dividiu o país ao meio. Mas foi em poucos anos depois, no século XX, que os Estados Unidos chegaram ao auge do seu poder, emergindo triunfantes e poderosos das duas terríveis guerras que destruíram tantas outras grandes nações.[NEWLINE][NEWLINE]Os Estados Unidos são uma nação de imigrantes, cheios de otimismo e determinação. Somente lhes faltava um líder para ajudá-los a cumprir sua promessa. Presidente Washington, o senhor pode levar o povo Americano à grandeza? Poderá construir uma civilização que resistirá ao teste do tempo?</Text>
@@ -2995,10 +2995,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS">
-			<Text>Barcos Pesqueiros</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TEXT">
-			<Text>Barcos Pesqueiros permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de Barcos Pesqueiros, você deve construir um Barco Operário em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). Barcos Operários são consumidos quando se constroem Barcos Pesqueiros.</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}, você deve construir um {TXT_KEY_UNIT_WORK_BOAT} em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constroem {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3082,7 +3082,7 @@
 			<Text>Plataforma Costeira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TEXT">
-			<Text>A Plataforma Costeira é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir poços para acessar o petróleo que está em terra). Barcos operários são consumidos quando se constrói uma plataforma costeira.</Text>
+			<Text>A Plataforma Costeira é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir poços para acessar o petróleo que está em terra). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constrói uma plataforma costeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3214,7 +3214,7 @@
 			<Text>Para reparar uma melhoria saqueada, mova um trabalhador para o hexágono e utilize o botão de ação "Reparar Melhoria". Os reparos podem levar vários turnos, mas menos do que construir uma nova melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE6_TEXT">
-			<Text>Melhorias costeiras são como as outras melhorias, exceto que elas são construídas no mar por Barcos Operários e só podem ser construídas por cidades costeiras. Ao contrário dos Trabalhadores, Barcos Operários são consumidos quando constroem uma melhoria, então você precisa construir múltiplos Barcos Operários para construir múltiplas melhorias.</Text>
+			<Text>Melhorias costeiras são como as outras melhorias, exceto que elas são construídas no mar por {TXT_KEY_UNIT_WORK_BOAT[2]} e só podem ser construídas por cidades costeiras. Ao contrário dos Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando constroem uma melhoria, então você precisa construir múltiplos {TXT_KEY_UNIT_WORK_BOAT[2]} para construir múltiplas melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TRADING_POST_TEXT">
 			<Text>Postos Comerciais são locais onde os comerciantes e caçadores podem vender seus produtos para os civis em troca de comida, armas, uísque, [ICON_GOLD]Ouro e todas as outras armadilhas da sociedade. Eles podem gerar muita riqueza para uma sociedade.</Text>
@@ -3759,7 +3759,7 @@
 			<Text>O Sultão Mehmed II reinou por cerca de trinta anos, 1451-1481. Um de seus primeiros atos foi mais uma vez por cerco à Constantinopla. Seu vizir e outros Turcos nobres eram radicalmente contra o ataque, que eles previram acertadamente como um prelúdio para a expansão ainda maior dos Otomanos e a diminuição de seu poder dentro do Império. [NEWLINE][NEWLINE]O cerco durou menos de dois meses. Mehmed tinha uma força de 100.000 sob seu comando e Constantinopla foi defendida por 7.000 soldados, talvez. Os defensores lutaram obstinadamente, combatendo as ondas de assaltos Otomanas, acompanhadas por fogo de canhão pesado. Eventualmente, os Otomanos venceram e invadiram a cidade, oprimindo os defensores pelo simples peso dos números.[NEWLINE][NEWLINE]Embora os Otomanos entusiasticamente tenham saqueado a cidade, Mehmed tratou os cidadãos com misericórdia, poupando suas vidas e os deixando com suas casas e posses (ou pelo menos aqueles que ainda não tinham sido saqueados). Ele tratou os não Muçulmanos com respeito, e muitos Judeus emigraram para o Império Otomano, em busca de proteção contra a perseguição Europeia.[NEWLINE][NEWLINE]Mehmed II transformou Constantinopla na capital do seu império, dando-lhe uma posição estratégica na borda da Europa.[NEWLINE][NEWLINE]Ao longo do século seguinte, o Império Otomano continuou a se expandir para a Europa, bem como para o Oriente Médio e África. Além de suas soberbas forças terrestres, o Império tinha desenvolvido uma poderosa marinha. A Marinha Otomana dominou o Mediterrâneo Oriental e Mar Negro, e tinha uma força significativa no Mar Vermelho e Oceano Índico, onde competiu com os crescentes poderes navais europeus, como Portugal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_OTTOMAN_TEXT_9">
-			<Text>Suleiman, o Magnífico (1520-1566) continuou a expansão Otomana na Europa, principalmente com foco na Hungria. Seus chefes rivais europeus eram da família Habsburg, que na época governavam a Hungria (juntamente com grande parte do resto da Europa); no entanto, ele tinha um poderoso aliado no rei de França, que temia os planos dos Habsburgos em seu reino e estava feliz por ajudar qualquer poder que pudesse enfraquecê-los. Em 1521, Suleiman tomou Belgrado e, por volta de 1526, os Otomanos conquistaram talvez metade da Hungria. A guerra continuou por vários anos e, em 1529, Suleiman tinha avançado até Viena, a cidade europeia mais poderosa na região. Embora incapaz de capturar a cidade e, finalmente, forçado a abandonar o cerco, Suleiman colocou os europeus na defensiva e manteve a Hungria segura por mais de 10 anos. [NEWLINE][NEWLINE]No mar, Suleiman respondeu à pressão europeia, criando uma poderosa marinha sob o comando de Barbarossa, um ex-pirata que virou almirante da marinha Otomana. Barbarossa capturou Argel, em 1529, e Suleiman deu toda a província a Barbarossa para apoiar sua frota. Na década de 1530, Barbarossa lutou várias batalhas navais contra uma variedade de forças europeias, emergindo vitorioso de todas elas. [NEWLINE][NEWLINE]Enquanto isso, o Império Otomano havia se expandido até o limite possível, dadas as armas e sistemas de abastecimento da época. Suleiman invadiu o Irã repetidamente, mas ficou sem suprimentos antes que ele fosse capaz de trazer o exército Iraniano para a batalha. Depois que ele saiu, os Iranianos simplesmente voltaram e reconquistaram tudo o que tinham perdido. Em 1555, ele concordou em permanentes fronteiras orientais, mantendo o Iraque e a Anatólia, mas renunciando o Azerbaijão e o Cáucaso. [NEWLINE][NEWLINE]No seu auge durante este período, o Império Otomano foi tanto uma potência militar quanto econômica. O Tesouro do Império foi preenchido por pagamentos tributários de suas possessões no Egito, África do Norte e da Europa Oriental, e ele se posicionou na encruzilhada das rotas comerciais entre a Europa e o Extremo Oriente, dando-lhe uma fatia dos lucros do crescente comércio de especiarias. Isso foi o grande responsável pela Idade Europeia de Exploração, já que eles procuravam formas de evitar o território Otomano para negociarem diretamente com a Índia, China e outros fornecedores de especiarias.</Text>
+			<Text>Suleiman, o Magnífico (1520-1566) continuou a expansão Otomana na Europa, principalmente com foco na Hungria. Seus chefes rivais europeus eram da família Habsburgo, que na época governavam a Hungria (juntamente com grande parte do resto da Europa); no entanto, ele tinha um poderoso aliado no rei de França, que temia os planos dos Habsburgos em seu reino e estava feliz por ajudar qualquer poder que pudesse enfraquecê-los. Em 1521, Suleiman tomou Belgrado e, por volta de 1526, os Otomanos conquistaram talvez metade da Hungria. A guerra continuou por vários anos e, em 1529, Suleiman tinha avançado até Viena, a cidade europeia mais poderosa na região. Embora incapaz de capturar a cidade e, finalmente, forçado a abandonar o cerco, Suleiman colocou os europeus na defensiva e manteve a Hungria segura por mais de 10 anos. [NEWLINE][NEWLINE]No mar, Suleiman respondeu à pressão europeia, criando uma poderosa marinha sob o comando de Barbarossa, um ex-pirata que virou almirante da marinha Otomana. Barbarossa capturou Argel, em 1529, e Suleiman deu toda a província a Barbarossa para apoiar sua frota. Na década de 1530, Barbarossa lutou várias batalhas navais contra uma variedade de forças europeias, emergindo vitorioso de todas elas. [NEWLINE][NEWLINE]Enquanto isso, o Império Otomano havia se expandido até o limite possível, dadas as armas e sistemas de abastecimento da época. Suleiman invadiu o Irã repetidamente, mas ficou sem suprimentos antes que ele fosse capaz de trazer o exército Iraniano para a batalha. Depois que ele saiu, os Iranianos simplesmente voltaram e reconquistaram tudo o que tinham perdido. Em 1555, ele concordou em permanentes fronteiras orientais, mantendo o Iraque e a Anatólia, mas renunciando o Azerbaijão e o Cáucaso. [NEWLINE][NEWLINE]No seu auge durante este período, o Império Otomano foi tanto uma potência militar quanto econômica. O Tesouro do Império foi preenchido por pagamentos tributários de suas possessões no Egito, África do Norte e da Europa Oriental, e ele se posicionou na encruzilhada das rotas comerciais entre a Europa e o Extremo Oriente, dando-lhe uma fatia dos lucros do crescente comércio de especiarias. Isso foi o grande responsável pela Idade Europeia de Exploração, já que eles procuravam formas de evitar o território Otomano para negociarem diretamente com a Índia, China e outros fornecedores de especiarias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_OTTOMAN_TITLE">
 			<Text>Os Otomanos</Text>
@@ -4980,10 +4980,10 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_FACTOID_HEADING">
-			<Text>Fatos Curiosos Songhai</Text>
+			<Text>Fatos Curiosos Songai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_FACTOID_TEXT">
-			<Text>Segundo a lenda, o povo de Songhai adorou um peixe monstruoso e estava sujeito as suas leis rigorosas, até que um estranho que veio do Iêmen o matou. Ele se tornou rei dos Songhai e foi o fundador da Dinastia mais remota conhecida, a Dya.[NEWLINE][NEWLINE]Em resposta à ameaça de invasão por areias do deserto, Timbuktu foi inscrita na lista de Patrimônios Mundiais em Perigo, em 1990, e a UNESCO estabeleceu um programa de conservação para proteger a cidade.[NEWLINE][NEWLINE]Os Songhai são bem conhecidos por seus tecidos e tapetes. Os elaborados cobertores de algodão (terabeba) vestidos pelos homens da cidade de Tera são muito valorizados.[NEWLINE][NEWLINE]O mais forte tabu na sociedade Songhai é a mentira. Somente o pior tipo de pessoa que vai dizer uma mentira.</Text>
+			<Text>Segundo a lenda, o povo de Songai adorou um peixe monstruoso e estava sujeito as suas leis rigorosas, até que um estranho que veio do Iêmen o matou. Ele se tornou rei dos Songai e foi o fundador da Dinastia mais remota conhecida, a Dya.[NEWLINE][NEWLINE]Em resposta à ameaça de invasão por areias do deserto, Timbuktu foi inscrita na lista de Patrimônios Mundiais em Perigo, em 1990, e a UNESCO estabeleceu um programa de conservação para proteger a cidade.[NEWLINE][NEWLINE]Os Songai são bem conhecidos por seus tecidos e tapetes. Os elaborados cobertores de algodão (terabeba) vestidos pelos homens da cidade de Tera são muito valorizados.[NEWLINE][NEWLINE]O mais forte tabu na sociedade Songai é a mentira. Somente o pior tipo de pessoa que vai dizer uma mentira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_HEADING_1">
 			<Text>História</Text>
@@ -4992,10 +4992,10 @@
 			<Text>Terreno e Clima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_HEADING_3">
-			<Text>Antes dos Songhai: Os Mali</Text>
+			<Text>Antes dos Songai: Os Mali</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_HEADING_4">
-			<Text>A Ascensão dos Songhai</Text>
+			<Text>A Ascensão dos Songai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_HEADING_5">
 			<Text>Sunni Ali Ber</Text>
@@ -5004,37 +5004,37 @@
 			<Text>Askia Muhammad I</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_HEADING_7">
-			<Text>O Declínio e Queda dos Songhai</Text>
+			<Text>O Declínio e Queda dos Songai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_HEADING_8">
 			<Text>Lições Aprendidas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_1">
-			<Text>O Império Songhai foi uma civilização que floresceu na África Ocidental durante os séculos 15 e 16. Os Songhai apareceram pela primeira vez perto da cidade de Gao, que era vassala do Império Mali. No início do século 14, Songhai ganhou a independência de Mali e, ao longo dos próximos dois séculos, se expandiu, tornando-se o maior império da história Africana.</Text>
+			<Text>O Império Songai foi uma civilização que floresceu na África Ocidental durante os séculos 15 e 16. Os Songai apareceram pela primeira vez perto da cidade de Gao, que era vassala do Império Mali. No início do século 14, Songai ganhou a independência de Mali e, ao longo dos próximos dois séculos, se expandiu, tornando-se o maior império da história Africana.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_2">
-			<Text>O terreno do oeste da África, que foi ocupado pelos Songhai, é em grande parte plano e árido, dominado por dois grandes sistemas fluviais, o Níger e Senegal, que fornecem transporte leste-oeste mais barato e mais rápido, bem como terra rica em suas margens. O clima é quente e tropical com duas estações principais, seca e molhada. De março até junho, um vendo seco quente sopra o Saara, e temperaturas diurnas são frequentemente acima 37 graus Celsius.</Text>
+			<Text>O terreno do oeste da África, que foi ocupado pelos Songai, é em grande parte plano e árido, dominado por dois grandes sistemas fluviais, o Níger e Senegal, que fornecem transporte leste-oeste mais barato e mais rápido, bem como terra rica em suas margens. O clima é quente e tropical com duas estações principais, seca e molhada. De março até junho, um vendo seco quente sopra o Saara, e temperaturas diurnas são frequentemente acima 37 graus Celsius.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_3">
-			<Text>Antes do surgimento de Songhai, grande parte do centro da África Ocidental foi controlada pelo Império Mali. Acredita-se que este império tenha sido fundado em algum momento antes de 1.000 d.C. Ele foi um grande império comercial e, literalmente, na encruzilhada com a África, controlava as importantes rotas comerciais norte-sul Subsaariana, bem como as rotas leste-oeste do rio. Sob o comando do grande líder Mansa Musa (1307 - 1331 ?), o Império Mali conquistou as cidades ricas de Timbuktu e Gao e ganhou o controle dos valiosos depósitos de sal ao norte.[NEWLINE][NEWLINE]Mali foi um império Muçulmano e, sob o comando de Musa, a cidade de Timbuktu se tornou um importante centro de aprendizagem no mundo Muçulmano. No entanto, na virada do século 14, o império tinha crescido demasiadamente para um governo centralizado sustentável e grandes territórios começaram a afirmar a sua independência. Isto incluiu Gao, a casa dos Songhai.</Text>
+			<Text>Antes do surgimento de Songai, grande parte do centro da África Ocidental foi controlada pelo Império Mali. Acredita-se que este império tenha sido fundado em algum momento antes de 1.000 d.C. Ele foi um grande império comercial e, literalmente, na encruzilhada com a África, controlava as importantes rotas comerciais norte-sul Subsaariana, bem como as rotas leste-oeste do rio. Sob o comando do grande líder Mansa Musa (1307 - 1331 ?), o Império Mali conquistou as cidades ricas de Timbuktu e Gao e ganhou o controle dos valiosos depósitos de sal ao norte.[NEWLINE][NEWLINE]Mali foi um império Muçulmano e, sob o comando de Musa, a cidade de Timbuktu se tornou um importante centro de aprendizagem no mundo Muçulmano. No entanto, na virada do século 14, o império tinha crescido demasiadamente para um governo centralizado sustentável e grandes territórios começaram a afirmar a sua independência. Isto incluiu Gao, a casa dos Songai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_4">
-			<Text>Acredita-se que os Songhai apareceram pela primeira vez em Gao cerca de 800 d.C. Pouco se sabe sobre sua história antiga, mas sabe-se que no século 11, o rei Kossoi converteu-se ao Islamismo e também fez Gao a capital do crescente reino Songhai. Sob o comando Songhai, Gao cresceu rica e próspera e, no início do século 13, o império Mali conquistou Songhai, tornando o reino um estado vassalo. Songhai permaneceu sob controle Mali por talvez 50 anos, antes de recuperar a sua independência, sob o reinado de Sulaiman-Mar.[NEWLINE][NEWLINE]Songhai manteve uma liberdade precária pelo próximo século, até que um grande novo líder, Sunni Ali Ber, impulsionou-lhe à grandeza.</Text>
+			<Text>Acredita-se que os Songai apareceram pela primeira vez em Gao cerca de 800 d.C. Pouco se sabe sobre sua história antiga, mas sabe-se que no século 11, o rei Kossoi converteu-se ao Islamismo e também fez Gao a capital do crescente reino Songai. Sob o comando Songai, Gao cresceu rica e próspera e, no início do século 13, o império Mali conquistou Songai, tornando o reino um estado vassalo. Songai permaneceu sob controle Mali por talvez 50 anos, antes de recuperar a sua independência, sob o reinado de Sulaiman-Mar.[NEWLINE][NEWLINE]Songai manteve uma liberdade precária pelo próximo século, até que um grande novo líder, Sunni Ali Ber, impulsionou-lhe à grandeza.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_5">
-			<Text>Sunni Ali Ber governou o Songhai por 30 anos (1464-1493). Ele era um líder militar brilhante e estrategista. Aproveitando-se da debilidade crescente do império Mali, Sunni liderou os exércitos Songhai para conquistarem a rica cidade de Timbuktu, expulsando o povo saqueador Tuaregue, que tinha tomado a cidade do império Mali com o poder diminuído. Ele expandiu seu império mais a oeste, sugando toda a terra do império Mali, ao norte de Jenne (ou Djenne). Porém, sua expansão não era tranquila. Ao longo de seu reinado, ele repeliu os ataques de Mossi, Dogon e Fulani.[NEWLINE][NEWLINE]Em 1473, Ali Ber buscou o maior prêmio, a rica cidade comercial de Jenne. Jenne ainda era parte do Império Mali e seu povo impôs uma forte defesa. Incapaz de tomar a cidade por ataques diretos, Ali Ber a cercou. A cidade resistiu teimosamente por sete anos, antes de ser capturada.[NEWLINE][NEWLINE]Os registros da época geralmente consideram Ali Ber como um tirano instável, que foi por vezes generoso e brutal, que governou com mão de ferro e que abatia e oprimia aqueles que capturou. Pode haver algum exagero, já os estudiosos Muçulmanos que registraram as histórias não gostavam de Ali Ber, pela forma pouco ortodoxa do Islã que ele praticava, aparentemente, uma espécie de fusão entre o Islã e observâncias tradicionais da religião Songhai.</Text>
+			<Text>Sunni Ali Ber governou o Songai por 30 anos (1464-1493). Ele era um líder militar brilhante e estrategista. Aproveitando-se da debilidade crescente do império Mali, Sunni liderou os exércitos Songai para conquistarem a rica cidade de Timbuktu, expulsando o povo saqueador Tuaregue, que tinha tomado a cidade do império Mali com o poder diminuído. Ele expandiu seu império mais a oeste, sugando toda a terra do império Mali, ao norte de Jenne (ou Djenne). Porém, sua expansão não era tranquila. Ao longo de seu reinado, ele repeliu os ataques de Mossi, Dogon e Fulani.[NEWLINE][NEWLINE]Em 1473, Ali Ber buscou o maior prêmio, a rica cidade comercial de Jenne. Jenne ainda era parte do Império Mali e seu povo impôs uma forte defesa. Incapaz de tomar a cidade por ataques diretos, Ali Ber a cercou. A cidade resistiu teimosamente por sete anos, antes de ser capturada.[NEWLINE][NEWLINE]Os registros da época geralmente consideram Ali Ber como um tirano instável, que foi por vezes generoso e brutal, que governou com mão de ferro e que abatia e oprimia aqueles que capturou. Pode haver algum exagero, já os estudiosos Muçulmanos que registraram as histórias não gostavam de Ali Ber, pela forma pouco ortodoxa do Islã que ele praticava, aparentemente, uma espécie de fusão entre o Islã e observâncias tradicionais da religião Songai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_6">
-			<Text>Askia Muhammad I governou Songhai de 1493 até 1528. A palavra "Askia" significa "usurpador", que é como ele chegou ao poder: derrubando o filho e herdeiro de Ali Ber, menos de um ano após a morte de Ber. A sua escolha de "usurpador" para o título e nome dinástico sugere que este homem extraordinário tinha um extraordinário senso de humor. [NEWLINE][NEWLINE]Embora ele tenha lutado uma guerra para ganhar a coroa de Songhai, Askia foi mais do que um senhor da guerra. Ele lutou várias batalhas durante o seu reinado, com pouco sucesso, mas ele é principalmente conhecido como um reformador, organizador e homem de Deus. Durante seu reinado, ele criou uma burocracia para ajudar a governar o império e trazer coerência as suas políticas fiscais, militares e agrícolas. Ele abriu muitas escolas religiosas por toda Songhai e, em 1495, ele fez uma famosa peregrinação à Meca.[NEWLINE][NEWLINE]Askia governou até 1528, quando foi deposto por seu filho. Para mais informações sobre este governante extraordinário, ver a sua entrada na Civilopédia.</Text>
+			<Text>Askia Muhammad I governou Songai de 1493 até 1528. A palavra "Askia" significa "usurpador", que é como ele chegou ao poder: derrubando o filho e herdeiro de Ali Ber, menos de um ano após a morte de Ber. A sua escolha de "usurpador" para o título e nome dinástico sugere que este homem extraordinário tinha um extraordinário senso de humor. [NEWLINE][NEWLINE]Embora ele tenha lutado uma guerra para ganhar a coroa de Songai, Askia foi mais do que um senhor da guerra. Ele lutou várias batalhas durante o seu reinado, com pouco sucesso, mas ele é principalmente conhecido como um reformador, organizador e homem de Deus. Durante seu reinado, ele criou uma burocracia para ajudar a governar o império e trazer coerência as suas políticas fiscais, militares e agrícolas. Ele abriu muitas escolas religiosas por toda Songai e, em 1495, ele fez uma famosa peregrinação à Meca.[NEWLINE][NEWLINE]Askia governou até 1528, quando foi deposto por seu filho. Para mais informações sobre este governante extraordinário, ver a sua entrada na Civilopédia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_7">
-			<Text>Nos anos seguintes à remoção de Askia, nenhum outro líder foi capaz de levar e manter o poder por qualquer período de tempo significativo. O filho de Askia, Musa, reinou por três anos. Ele foi seguido por Muhammad II, que durou seis anos, e os próximos dois líderes duraram dois e 10 anos respectivamente. Em 1549, Askia Dawud chegou ao poder. Ele governou por 33 anos, até 1582. Esta relativa estabilidade foi quebrada quando o sultão do Marrocos invadiu depósitos de sal valiosos de Songhai, em Taghaza.[NEWLINE][NEWLINE]O fim veio em 1591. Vendo que os Songhai eram fracos e divididos e, acima de tudo, não possuíam armamento moderno, um exército Marroquino, armado com mosquetes, lançou um grande ataque. Os guerreiros Songhai foram completamente derrotados, os líderes empurrados para as colinas e os Marroquinos capturaram as principais cidades de Timbuktu e Gao. Em uma campanha chocante, um império inteiro foi praticamente varrido do planeta.</Text>
+			<Text>Nos anos seguintes à remoção de Askia, nenhum outro líder foi capaz de levar e manter o poder por qualquer período de tempo significativo. O filho de Askia, Musa, reinou por três anos. Ele foi seguido por Muhammad II, que durou seis anos, e os próximos dois líderes duraram dois e 10 anos respectivamente. Em 1549, Askia Dawud chegou ao poder. Ele governou por 33 anos, até 1582. Esta relativa estabilidade foi quebrada quando o sultão do Marrocos invadiu depósitos de sal valiosos de Songai, em Taghaza.[NEWLINE][NEWLINE]O fim veio em 1591. Vendo que os Songai eram fracos e divididos e, acima de tudo, não possuíam armamento moderno, um exército Marroquino, armado com mosquetes, lançou um grande ataque. Os guerreiros Songai foram completamente derrotados, os líderes empurrados para as colinas e os Marroquinos capturaram as principais cidades de Timbuktu e Gao. Em uma campanha chocante, um império inteiro foi praticamente varrido do planeta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TEXT_8">
-			<Text>A queda do Songhai foi brutal e rápida. Em muitos aspectos se assemelhou à conquista do Império Asteca, cerca de setenta anos antes, em 1521. Na sua época, ambos os impérios eram poderosos e ricos e se julgavam invulneráveis. Ambos foram derrotados por uma pequena força, armada com tecnologia significativamente superior. Isso nos lembra da famosa regra: "Nunca traga uma faca para um tiroteio. Traga uma arma. Preferencialmente, traga pelo menos duas armas.". Isto é tão verdadeiro em impérios como é em tiroteios.</Text>
+			<Text>A queda do Songai foi brutal e rápida. Em muitos aspectos se assemelhou à conquista do Império Asteca, cerca de setenta anos antes, em 1521. Na sua época, ambos os impérios eram poderosos e ricos e se julgavam invulneráveis. Ambos foram derrotados por uma pequena força, armada com tecnologia significativamente superior. Isso nos lembra da famosa regra: "Nunca traga uma faca para um tiroteio. Traga uma arma. Preferencialmente, traga pelo menos duas armas.". Isto é tão verdadeiro em impérios como é em tiroteios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_TITLE">
-			<Text>Songhai</Text>
+			<Text>Songai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HEADING">
 			<Text>Terrenos Especiais</Text>
@@ -5515,22 +5515,22 @@
 			<Text>Askia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_SUBTITLE">
-			<Text>Líder dos Songhai</Text>
+			<Text>Líder dos Songai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_1">
-			<Text>Mohammad ibn Abi Bakr Ture, também conhecido como Mohammad I Askia (reinou de 1493 a 1528), reuniu a região central do Oeste do Sudão em um único império Songhai, o maior da história Africana. Embora ele tenha lutado diversas campanhas militares, ele é lembrado principalmente pela reorganização, modernização e estabilidade de Songhai. Ele também é lembrado por fazer uma famosa peregrinação à Meca.</Text>
+			<Text>Mohammad ibn Abi Bakr Ture, também conhecido como Mohammad I Askia (reinou de 1493 a 1528), reuniu a região central do Oeste do Sudão em um único império Songai, o maior da história Africana. Embora ele tenha lutado diversas campanhas militares, ele é lembrado principalmente pela reorganização, modernização e estabilidade de Songai. Ele também é lembrado por fazer uma famosa peregrinação à Meca.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_2">
-			<Text>Askia foi um general de Sunni Ali, o primeiro grande líder do Império Songhai. Ali estendeu o controle Songhai ao longo do rio Níger, capturando as cidades de Timbuktu e Jenne. Embora nominalmente Muçulmano, Ali continuou a praticar o animismo Africano, tolerando Muçulmanos e não Muçulmanos dentro do seu reino. Em 1492, Ali morreu em um acidente: ele e seu cavalo caíram em um rio e foram arrastados para uma cachoeira. Ali foi sucedido por seu filho, Sunni Baru. Askia, quase que imediatamente, começou a planejar a derrubada de Baru, conseguindo ganhar o poder em 1493 com a ajuda de rebeldes Muçulmanos.</Text>
+			<Text>Askia foi um general de Sunni Ali, o primeiro grande líder do Império Songai. Ali estendeu o controle Songai ao longo do rio Níger, capturando as cidades de Timbuktu e Jenne. Embora nominalmente Muçulmano, Ali continuou a praticar o animismo Africano, tolerando Muçulmanos e não Muçulmanos dentro do seu reino. Em 1492, Ali morreu em um acidente: ele e seu cavalo caíram em um rio e foram arrastados para uma cachoeira. Ali foi sucedido por seu filho, Sunni Baru. Askia, quase que imediatamente, começou a planejar a derrubada de Baru, conseguindo ganhar o poder em 1493 com a ajuda de rebeldes Muçulmanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_3">
-			<Text>1495, dois anos depois de assumir o trono, Askia empreendeu uma peregrinação à Meca. Esta peregrinação se tornou famosa pela pompa, estilo e riqueza que Askia exibiu durante a longa viagem. Em Meca, Askia encontrou o califa do Egito, que o nomeou representante religioso do califa, dando-lhe o título de "califa da África Ocidental". Em uma versão mais famosa dos fatos, o cronista Mahmud Kati, que acompanhou Muhammad, escreveu que os gênios (demônios) de Meca tinham nomeado Askia.[NEWLINE][NEWLINE]Quando Askia voltou a Songhai, em 1497, ele estava profundamente comprometido com o Islã. Durante o seu reinado, Askia apoiou entusiasticamente as universidades religiosas em Timbuktu. Ele fundou muitas mesquitas e escolas religiosas por todo o império Songhai.</Text>
+			<Text>1495, dois anos depois de assumir o trono, Askia empreendeu uma peregrinação à Meca. Esta peregrinação se tornou famosa pela pompa, estilo e riqueza que Askia exibiu durante a longa viagem. Em Meca, Askia encontrou o califa do Egito, que o nomeou representante religioso do califa, dando-lhe o título de "califa da África Ocidental". Em uma versão mais famosa dos fatos, o cronista Mahmud Kati, que acompanhou Muhammad, escreveu que os gênios (demônios) de Meca tinham nomeado Askia.[NEWLINE][NEWLINE]Quando Askia voltou a Songai, em 1497, ele estava profundamente comprometido com o Islã. Durante o seu reinado, Askia apoiou entusiasticamente as universidades religiosas em Timbuktu. Ele fundou muitas mesquitas e escolas religiosas por todo o império Songai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_4">
 			<Text>Durante o seu reinado Askia expandiu o império para o Norte, Sul e Oeste, com combates e campanhas bem sucedidos contra várias cidades vizinhas e reinos. Nem todas as batalhas eram bem sucedidas, porém ele ficou reconhecido como um bom líder, mas não excepcional militar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_5">
-			<Text>À medida que o império cresceu, tornou-se cada vez mais difícil de ser controlado. Askia o dividiu em regiões e províncias, cada uma com um governador. Ele ampliou o tribunal Songhai, criando os cargos de diretores de finanças, justiça, interior, agricultura, águas e florestas, e das tribos da raça branca (os sujeitos mouros e Taureg de Songhai). Ele também criou um exército e uma marinha (esta última consistindo de canoas de guerra).[NEWLINE][NEWLINE]Além disso, Askia reestruturou o sistema tributário e regulamentou os impostos sobre a agricultura, caça e pesca.</Text>
+			<Text>À medida que o império cresceu, tornou-se cada vez mais difícil de ser controlado. Askia o dividiu em regiões e províncias, cada uma com um governador. Ele ampliou o tribunal Songai, criando os cargos de diretores de finanças, justiça, interior, agricultura, águas e florestas, e das tribos da raça branca (os sujeitos mouros e Taureg de Songai). Ele também criou um exército e uma marinha (esta última consistindo de canoas de guerra).[NEWLINE][NEWLINE]Além disso, Askia reestruturou o sistema tributário e regulamentou os impostos sobre a agricultura, caça e pesca.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_6">
 			<Text>Askia governou por cerca de 40 anos. Em 1528, velho e cego, ele foi deposto por um dos seus filhos, morrendo cerca de 10 anos depois. Ele é considerado um administrador muito competente. Seu reinado foi uma época dourada para a religião e conhecimento na África Ocidental. Embora não tenha sido um grande general, ele foi capaz de expandir seu império e de manter o que ele tinha tomado, até que a idade lhe roubou os poderes. Em geral, Askia é considerado um dos melhores governantes sub Sahara da história.</Text>
@@ -6538,7 +6538,7 @@
 			<Text>O Mosquete é uma tipo de espingarda de pederneira, carregada pela boca, de cano longo, que é disparada a partir do ombro. Mosquetes eram mais leves e mais precisos que a arma de fogo militar anterior, o arcabuz, e por volta do século XVIII tinham aparecido na maioria dos campos de batalha Europeus. Com a adição de uma baioneta, o Mosquete se tornou uma arma de combate de proximidade bem utilizada, tornando o {TXT_KEY_UNIT_LANCER} obsoleto. O "Brown Bess" do exército Britânico foi o típico Mosquete, em serviço de 1722 até 1838; ele foi usado por ambos os lados na Revolução Americana.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MUSLIMCAVALRY_HEADING">
-			<Text>Cavalaria Mandekalu (Songhai)</Text>
+			<Text>Cavalaria Mandekalu (Songai)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MUSLIMCAVALRY_TEXT">
 			<Text>Como suas compatriotas do Norte, os exércitos Muçulmanos também continham unidades de cavalaria pesada, semelhante em forma e função aos cavaleiros Europeus. Como os Europeus, os cavaleiros Muçulmanos também eram da parte mais alta da sociedade, possuindo as melhores armas, armaduras e cavalos. A armadura podia ser modificada para refletir as diferenças no clima - mesmo o mais nobre cavaleiro seria rapidamente assado, se vestisse a armadura em um verão do Oriente Médio - mas ainda assim dava-lhes uma grande vantagem sobre as outras unidades no campo de batalha. Relatos históricos admitem que cavaleiros Muçulmanos eram geralmente páreos para os seus adversários Europeus.</Text>
@@ -7060,7 +7060,7 @@
 			<Text>Como funciona o combate naval?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
-			<Text>Como unidades terrestres, há unidades navais não militares. Barcos Operários e qualquer unidade terrestre "embarcada" são destruídos quando atacadas por Bárbaros e outras civilizações ou cidades.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
+			<Text>Como unidades terrestres, há unidades navais não militares. {TXT_KEY_UNIT_WORK_BOAT[2]} e qualquer unidade terrestre "embarcada" são destruídos quando atacadas por Bárbaros e outras civilizações ou cidades.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_TITLE">
 			<Text>Combate naval</Text>
@@ -7177,7 +7177,7 @@
 			<Text>Quais unidades podem lutar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_WHICHUNITSFIGHT_HEADING2_BODY">
-			<Text>Qualquer unidade militar pode atacar uma unidade inimiga. Exploradores podem iniciar combate e se defender de ataques inimigos, apesar de serem mais fracos que outras unidades. Unidades não militares, como Trabalhadores, Colonizadores e as Grandes Pessoas não podem iniciar ataques. Se atacados quando sozinhos, Trabalhadores e Colonizadores são capturados (Colonizadores capturados viram Trabalhadores) e as Grandes Pessoas e Barcos Operários são destruídos. Uma cidade pode atacar uma unidade militar inimiga que está dentro de seu alcance e a unidade poderá atacar de volta uma cidade inimiga.</Text>
+			<Text>Qualquer unidade militar pode atacar uma unidade inimiga. Exploradores podem iniciar combate e se defender de ataques inimigos, apesar de serem mais fracos que outras unidades. Unidades não militares, como Trabalhadores, Colonizadores e as Grandes Pessoas não podem iniciar ataques. Se atacados quando sozinhos, Trabalhadores e Colonizadores são capturados (Colonizadores capturados viram Trabalhadores) e as Grandes Pessoas e {TXT_KEY_UNIT_WORK_BOAT[2]} são destruídos. Uma cidade pode atacar uma unidade militar inimiga que está dentro de seu alcance e a unidade poderá atacar de volta uma cidade inimiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_WHICHUNITSFIGHT_HEADING2_TITLE">
 			<Text>Unidades que podem atacar</Text>
@@ -7366,7 +7366,7 @@
 			<Text>Como os Acordos de Pesquisa funcionam?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_RESEARCHAGREE_HEADING3_BODY">
-			<Text>Assim que você tenha adquirido a tecnologia Filosofia, você poderá entrar em um Acordo de Pesquisas com outra civilização. Um Acordo de Pesquisas custa ouro para ambos os lados (se você não tem ouro suficiente, você não pode entrar nesse acordo).[NEWLINE][NEWLINE] O Acordo de Pesquisas dura 20 turnos. Depois de 20 turnos, você ganhará uma pesquisa igual à metade do custo médio das tecnologias disponíveis para você.</Text>
+			<Text>Assim que você tenha adquirido a tecnologia Filosofia, você poderá entrar em um Acordo de Pesquisa com outra civilização. Um Acordo de Pesquisa custa ouro para ambos os lados (se você não tem ouro suficiente, você não pode entrar nesse acordo).[NEWLINE][NEWLINE] O Acordo de Pesquisa dura 20 turnos. Depois de 20 turnos, você ganhará uma pesquisa igual à metade do custo médio das tecnologias disponíveis para você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_RESEARCHAGREE_HEADING3_TITLE">
 			<Text>Acordos de Pesquisa</Text>
@@ -8701,7 +8701,7 @@
 			<Text>Recursos bônus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_BODY">
-			<Text>Bananas (Plantação)[NEWLINE]Gado (Pasto)[NEWLINE]Cervo (Campo de Caça)[NEWLINE]Peixe (Barcos Pesqueiros)[NEWLINE]Trigo (Fazenda)</Text>
+			<Text>Bananas (Plantação)[NEWLINE]Gado (Pasto)[NEWLINE]Cervo (Campo de Caça)[NEWLINE]Peixe ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Trigo (Fazenda)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_TITLE">
 			<Text>Bônus (Melhoria Necessária)</Text>
@@ -8734,7 +8734,7 @@
 			<Text>Recursos de luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_BODY">
-			<Text>Algodão (Plantação)[NEWLINE]Tintas (Plantação)[NEWLINE]Peles (Campo de Caça)[NEWLINE]Gemas (Mina)[NEWLINE]Ouro (Mina)[NEWLINE]Incenso (Plantação)[NEWLINE]Marfim (Campo de Caça)[NEWLINE]Mármore (Mina a Céu Aberto)[NEWLINE]Pérola (Barcos Pesqueiros)[NEWLINE]Seda (Plantação)[NEWLINE]Prata (Mina)[NEWLINE]Especiarias (Plantação)[NEWLINE]Açúcar (Plantação)[NEWLINE]Baleias (Barcos Pesqueiros)[NEWLINE]Vinho (Plantação)</Text>
+			<Text>Algodão (Plantação)[NEWLINE]Tintas (Plantação)[NEWLINE]Peles (Campo de Caça)[NEWLINE]Gemas (Mina)[NEWLINE]Ouro (Mina)[NEWLINE]Incenso (Plantação)[NEWLINE]Marfim (Campo de Caça)[NEWLINE]Mármore (Mina a Céu Aberto)[NEWLINE]Pérolas ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Seda (Plantação)[NEWLINE]Prata (Mina)[NEWLINE]Especiarias (Plantação)[NEWLINE]Açúcar (Plantação)[NEWLINE]Baleias ({TXT_KEY_IMPROVEMENT_FISHING_BOATS}[2])[NEWLINE]Vinho (Plantação)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_TITLE">
 			<Text>Luxos (Melhoria Necessária)</Text>
@@ -9829,7 +9829,7 @@
 			<Text>Filosofia é o estudo da realidade e do lugar do Homem nela. O termo vem da palavra Grega/Latim "philosophia", ou amor à sabedoria. E, de alguma forma, separada da Religião, que procura definir e entender alguns sistemas sobrenaturais - Filosofia dá um passo atrás e se pergunta se o sobrenatural realmente existe. A Filosofia lida com lógica, moral, observação, realismo, felicidade, vida, morte e todas outras grandes perguntas.[NEWLINE][NEWLINE]Os Gregos normalmente são creditados como os inventores da Filosofia na civilização ocidental. No século VI A.C. Tales de Mileto foi o primeiro homem conhecido a dar uma explicação puramente natural (não religiosa) para a origem do mundo. Ele acreditava que tudo veio da água; esta teoria era baseada em suas observações de animais marítimos fossilizados em terras afastadas da costa. Esta explicação não requeria nenhuma ação criativa de um ser sobrenatural; era um resultado das propriedades naturais. Filósofos posteriores teriam expandido esta teoria - exceto, claro, os filósofos que escolheram negar que nada, na verdade, existia, ou aqueles que decidiram que o mundo era, de fato, um reflexo de outro lugar, e por aí vai. O problema em examinar a realidade é que, quanto mais se observa, mais confusa ela se torna.[NEWLINE][NEWLINE]No máximo, filósofos criam métodos para que alguém possa usar para observar e julgar o mundo ao seu redor, para pensar sobre coisas que ainda não foram consideradas. Como qualquer outro método, ele pode ser utilizado para o bem ou para o mal, mas a Filosofia ao menos procura fornecer a estrutura intelectual para ajudar alguém decidir qual é qual.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_CULTURE] Cultura de uma cidade. Também fornece novas habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisas[ENDCOLOR], uma negociação especial que pode ser realizada com outros jogadores.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_CULTURE] Cultura de uma cidade. Também fornece novas habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], uma negociação especial que pode ser realizada com outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Existe apenas um bem, o conhecimento, e um mal, a ignorância."[NEWLINE][TAB][TAB] - Sócrates[NEWLINE][TAB]</Text>
@@ -10705,7 +10705,7 @@
 			<Text>O Guerreiro é a primeira unidade de combate disponível, útil para combater Bárbaros, defender as cidades iniciais e para fazer explorações pequenas. Normalmente Guerreiros não são fortes o suficiente para tomar cidades inimigas, a não ser que sejam fortemente auxiliados por Arqueiros e Catapultas - e mesmo assim eles não podem ser fortes o bastante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORK_BOAT_STRATEGY">
-			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o Barco Operário para explorar recursos aquáticos - [ICON_RES_FISH]Peixe, baleia, petróleo etc. O Barco Operário é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. Barcos Operários não podem combater.</Text>
+			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o {TXT_KEY_UNIT_WORK_BOAT} para explorar recursos aquáticos - [ICON_RES_FISH]Peixe, baleia, petróleo etc. O {TXT_KEY_UNIT_WORK_BOAT} é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. {TXT_KEY_UNIT_WORK_BOAT[2]} não podem combater.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORKER_STRATEGY">
 			<Text>Esta unidade constrói estradas, ferrovias e melhorias como fazendas e minas. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
@@ -10804,7 +10804,7 @@
 			<Text>Quais unidades não são combatentes?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
-			<Text>Há cinco tipos de unidades não combatentes: Colonizadores, Trabalhadores, Barcos Operários, Grandes Pessoas e Partes Aeroespaciais. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se atacadas por unidades inimigas enquanto sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
+			<Text>Há cinco tipos de unidades não combatentes: Colonizadores, Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]}, Grandes Pessoas e Partes Aeroespaciais. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se atacadas por unidades inimigas enquanto sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_TITLE">
 			<Text>Unidades não combatentes</Text>
@@ -11479,13 +11479,13 @@
 			<Text>Onde Construir Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_ADV_QUEST">
-			<Text>Como funcionam os Barcos Operários?</Text>
+			<Text>Como funcionam os {TXT_KEY_UNIT_WORK_BOAT[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_BODY">
-			<Text>Barcos Operários são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar Barcos de Pesca e Melhorias de Plataforma costeira na água. Ao contrário dos Trabalhadores da terra, Barcos Operários são consumidos quando eles criam uma melhoria.</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar Barcos de Pesca e melhorias de Plataforma Costeira na água. Ao contrário dos Trabalhadores da terra, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando eles criam uma melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_TITLE">
-			<Text>Barcos Operários</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>
 		</Row>
 		<!-- 348 -->
 		<Row Tag="TXT_KEY_BUILDING_AQUEDUCT_STRATEGY">
