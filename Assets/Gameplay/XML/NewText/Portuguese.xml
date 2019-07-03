@@ -9,13 +9,4 @@
             <PluralRule>2</PluralRule>
         </Row>
     </Languages>
-
-    <SpokenLanguages>
-        <Row>
-            <ID>10</ID>
-            <Type>pt_BR</Type>
-            <DisplayName>Português</DisplayName>
-            <Path>Portuguese</Path>
-        </Row>
-    </SpokenLanguages>
 </GameData>
