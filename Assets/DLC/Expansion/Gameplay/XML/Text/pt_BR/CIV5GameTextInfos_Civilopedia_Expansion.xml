@@ -28,7 +28,7 @@
 			<Text>Ave corajoso Príncipe William de Orange, libertador dos Países Baixos e herói para os holandeses. Foi vosso esforço corajoso, na rebelião de 1568 contra o domínio espanhol, que levou os holandeses à liberdade e, finalmente, resultou na Guerra dos Oitenta Anos. Sua empresa permitiu a criação de uma das primeiras repúblicas modernas da Europa, as Sete Províncias Unidas. Vós destes vossa vida à rebelião, caindo nas mãos de um assassino em 1584, mas vossa morte serviria apenas para encorajar a responsabilidade do povo e vosso legado como o "Pai da Pátria" ficará como um símbolo da independência holandesa para sempre.[NEWLINE][NEWLINE]Bravo príncipe, as pessoas anseiam mais uma vez pela mordomia que vossa sabedoria lhes fornecia. Podereis vós, mais uma vez, garantir a soberania do vosso reino e liderar o vosso povo rumo à grandeza? Podereis construir uma civilização que resista ao teste do tempo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_DAWN_SWEDEN_TEXT">
-			<Text>Salve ó transcendente Rei Gustavus Adolphus, fundador do Império Sueco e seu mais ilustre estrategista militar. Foi durante vosso reinado que a Suécia surgiu como uma das maiores potências da Europa, devido em grande parte à vossa sabedoria, tanto dentro quanto fora do campo de batalha. Como rei, iniciastes uma série de reformas internas que garantiram a estabilidade econômica e prosperidade do vosso povo. Como o General, que veio a ser conhecido como o "Leão do Norte", vossos projetos marciais visionários ganharam a admiração dos comandantes militares em todo o mundo. Graças aos vossos triunfos na Guerra dos Trinta Anos, assegurastes um legado como um dos maiores generais da história.[NEWLINE][NEWLINE]Ó nobre Rei, as pessoas anseiam pela vossa prudente liderança, esperançosas de que mais uma vez possam ver seu reino se elevar à glória. Ireis elaborar novas estratégias ousadas, levando vossos exércitos à vitória no teatro da guerra? Ireis construir uma civilização que resista ao teste do tempo?</Text>
+			<Text>Salve ó transcendente Rei Gustavo Adolfo, fundador do Império Sueco e seu mais ilustre estrategista militar. Foi durante vosso reinado que a Suécia surgiu como uma das maiores potências da Europa, devido em grande parte à vossa sabedoria, tanto dentro quanto fora do campo de batalha. Como rei, iniciastes uma série de reformas internas que garantiram a estabilidade econômica e prosperidade do vosso povo. Como o General, que veio a ser conhecido como o "Leão do Norte", vossos projetos marciais visionários ganharam a admiração dos comandantes militares em todo o mundo. Graças aos vossos triunfos na Guerra dos Trinta Anos, assegurastes um legado como um dos maiores generais da história.[NEWLINE][NEWLINE]Ó nobre Rei, as pessoas anseiam pela vossa prudente liderança, esperançosas de que mais uma vez possam ver seu reino se elevar à glória. Ireis elaborar novas estratégias ousadas, levando vossos exércitos à vitória no teatro da guerra? Ireis construir uma civilização que resista ao teste do tempo?</Text>
 		</Row>
 		<!-- CIVILIZATION TEXT -->
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_TITLE">
@@ -843,7 +843,7 @@
 			<Text>It is difficult to judge a legendary figure such as Dido, for her achievement in the founding of mighty Carthage still remains steeped in myth and mystery. Despite the lore surrounding her life, Dido's reputation as a cunning leader lives on in history and her tale continues to garner interest to this day.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_NAME">
-			<Text>Gustavus Adolphus</Text>
+			<Text>Gustavo Adolfo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_TITLES_1">
 			<Text>Rei</Text>
@@ -855,28 +855,28 @@
 			<Text>1594 d.C. - 1632 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_FACT_1">
-			<Text>Gustavus Adolphus Day is celebrated on November 6th of each year in Sweden, Estonia and Finland.</Text>
+			<Text>O Dia de Gustavo Adolfo é celebrado em 6 de Novembro de cada ano na Suécia, Estônia e Finlândia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_FACT_2">
-			<Text>Adolphus's charge, "Gott Mit Uns!" was also used by a number of armies and empires throughout history, including the Kingdom of Prussia, the Russian Empire, and the Third Reich of Germany.</Text>
+			<Text>O grito de guerra de Adolfo, "Gott Mit Uns!" ("Deus Conosco") também foi usado por vários exércitos e impérios ao longo da história, incluindo o Reino da Prússia, o Império Russo e o Terceiro Reich da Alemanha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_1">
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_2">
-			<Text>Conflicts of his Father</Text>
+			<Text>Conflitos de seu Pai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_3">
-			<Text>Early Reign</Text>
+			<Text>Início do Reinado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_4">
-			<Text>Political Reforms</Text>
+			<Text>Reformas Políticas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_5">
-			<Text>Military Innovations</Text>
+			<Text>Inovações Militares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_6">
-			<Text>On the Battlefield</Text>
+			<Text>No Campo de Batalha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_HEADING_7">
 			<Text>Julgamento da História</Text>
