@@ -1487,7 +1487,7 @@
 			<Text>Nas civilizações primitivas não existia o "soldado profissional". Uma civilização jovem não pode manter um exército permanente; em momentos de crise, todos os homens capazes de uma civilização formam uma milícia provisional, e voltam para suas fazendas e aldeias em tempos de paz. Esses guerreiros contam com muito pouco treinamento e são equipados com armas primitivas - clavas, ou com sorte, punhais de pedra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WORKBOAT_HEADING">
-			<Text>Barco Operário</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WORKBOAT_TEXT">
 			<Text>O mar pode fornecer muito para uma civilização. Isto pode variar na forma de pescado até a energia das baleias ou do petróleo. Por toda a história da humanidade, homens e mulheres corajosos se adentraram nos mares para recolher seus tesouros. Sem dúvida, eles continuarão a fazer isso até o final dos tempos, "quando o mar entregar seus mortos".</Text>
@@ -2995,10 +2995,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS">
-			<Text>Barcos Pesqueiros</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TEXT">
-			<Text>Barcos Pesqueiros permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de Barcos Pesqueiros, você deve construir um Barco Operário em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). Barcos Operários são consumidos quando se constroem Barcos Pesqueiros.</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} permitem que uma civilização tenha acesso aos valiosos recursos Peixe, Baleias e Pérola. Para a construção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}, você deve construir um {TXT_KEY_UNIT_WORK_BOAT} em uma cidade costeira (depois de sua civilização ter aprendido a tecnologia necessária). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constroem {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3082,7 +3082,7 @@
 			<Text>Plataforma Costeira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TEXT">
-			<Text>A Plataforma Costeira é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir poços para acessar o petróleo que está em terra). Barcos operários são consumidos quando se constrói uma plataforma costeira.</Text>
+			<Text>A Plataforma Costeira é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir poços para acessar o petróleo que está em terra). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constrói uma plataforma costeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3214,7 +3214,7 @@
 			<Text>Para reparar uma melhoria saqueada, mova um trabalhador para o hexágono e utilize o botão de ação "Reparar Melhoria". Os reparos podem levar vários turnos, mas menos do que construir uma nova melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE6_TEXT">
-			<Text>Melhorias costeiras são como as outras melhorias, exceto que elas são construídas no mar por Barcos Operários e só podem ser construídas por cidades costeiras. Ao contrário dos Trabalhadores, Barcos Operários são consumidos quando constroem uma melhoria, então você precisa construir múltiplos Barcos Operários para construir múltiplas melhorias.</Text>
+			<Text>Melhorias costeiras são como as outras melhorias, exceto que elas são construídas no mar por {TXT_KEY_UNIT_WORK_BOAT[2]} e só podem ser construídas por cidades costeiras. Ao contrário dos Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando constroem uma melhoria, então você precisa construir múltiplos {TXT_KEY_UNIT_WORK_BOAT[2]} para construir múltiplas melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TRADING_POST_TEXT">
 			<Text>Postos Comerciais são locais onde os comerciantes e caçadores podem vender seus produtos para os civis em troca de comida, armas, uísque, [ICON_GOLD]Ouro e todas as outras armadilhas da sociedade. Eles podem gerar muita riqueza para uma sociedade.</Text>
@@ -7060,7 +7060,7 @@
 			<Text>Como funciona o combate naval?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
-			<Text>Como unidades terrestres, há unidades navais não militares. Barcos Operários e qualquer unidade terrestre "embarcada" são destruídos quando atacadas por Bárbaros e outras civilizações ou cidades.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
+			<Text>Como unidades terrestres, há unidades navais não militares. {TXT_KEY_UNIT_WORK_BOAT[2]} e qualquer unidade terrestre "embarcada" são destruídos quando atacadas por Bárbaros e outras civilizações ou cidades.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_TITLE">
 			<Text>Combate naval</Text>
@@ -7177,7 +7177,7 @@
 			<Text>Quais unidades podem lutar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_WHICHUNITSFIGHT_HEADING2_BODY">
-			<Text>Qualquer unidade militar pode atacar uma unidade inimiga. Exploradores podem iniciar combate e se defender de ataques inimigos, apesar de serem mais fracos que outras unidades. Unidades não militares, como Trabalhadores, Colonizadores e as Grandes Pessoas não podem iniciar ataques. Se atacados quando sozinhos, Trabalhadores e Colonizadores são capturados (Colonizadores capturados viram Trabalhadores) e as Grandes Pessoas e Barcos Operários são destruídos. Uma cidade pode atacar uma unidade militar inimiga que está dentro de seu alcance e a unidade poderá atacar de volta uma cidade inimiga.</Text>
+			<Text>Qualquer unidade militar pode atacar uma unidade inimiga. Exploradores podem iniciar combate e se defender de ataques inimigos, apesar de serem mais fracos que outras unidades. Unidades não militares, como Trabalhadores, Colonizadores e as Grandes Pessoas não podem iniciar ataques. Se atacados quando sozinhos, Trabalhadores e Colonizadores são capturados (Colonizadores capturados viram Trabalhadores) e as Grandes Pessoas e {TXT_KEY_UNIT_WORK_BOAT[2]} são destruídos. Uma cidade pode atacar uma unidade militar inimiga que está dentro de seu alcance e a unidade poderá atacar de volta uma cidade inimiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_WHICHUNITSFIGHT_HEADING2_TITLE">
 			<Text>Unidades que podem atacar</Text>
@@ -8701,7 +8701,7 @@
 			<Text>Recursos bônus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_BODY">
-			<Text>Bananas (Plantação)[NEWLINE]Gado (Pasto)[NEWLINE]Cervo (Campo de Caça)[NEWLINE]Peixe (Barcos Pesqueiros)[NEWLINE]Trigo (Fazenda)</Text>
+			<Text>Bananas (Plantação)[NEWLINE]Gado (Pasto)[NEWLINE]Cervo (Campo de Caça)[NEWLINE]Peixe ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Trigo (Fazenda)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_TITLE">
 			<Text>Bônus (Melhoria Necessária)</Text>
@@ -8734,7 +8734,7 @@
 			<Text>Recursos de luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_BODY">
-			<Text>Algodão (Plantação)[NEWLINE]Tintas (Plantação)[NEWLINE]Peles (Campo de Caça)[NEWLINE]Gemas (Mina)[NEWLINE]Ouro (Mina)[NEWLINE]Incenso (Plantação)[NEWLINE]Marfim (Campo de Caça)[NEWLINE]Mármore (Mina a Céu Aberto)[NEWLINE]Pérola (Barcos Pesqueiros)[NEWLINE]Seda (Plantação)[NEWLINE]Prata (Mina)[NEWLINE]Especiarias (Plantação)[NEWLINE]Açúcar (Plantação)[NEWLINE]Baleias (Barcos Pesqueiros)[NEWLINE]Vinho (Plantação)</Text>
+			<Text>Algodão (Plantação)[NEWLINE]Tintas (Plantação)[NEWLINE]Peles (Campo de Caça)[NEWLINE]Gemas (Mina)[NEWLINE]Ouro (Mina)[NEWLINE]Incenso (Plantação)[NEWLINE]Marfim (Campo de Caça)[NEWLINE]Mármore (Mina a Céu Aberto)[NEWLINE]Pérolas ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Seda (Plantação)[NEWLINE]Prata (Mina)[NEWLINE]Especiarias (Plantação)[NEWLINE]Açúcar (Plantação)[NEWLINE]Baleias ({TXT_KEY_IMPROVEMENT_FISHING_BOATS}[2])[NEWLINE]Vinho (Plantação)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_TITLE">
 			<Text>Luxos (Melhoria Necessária)</Text>
@@ -10705,7 +10705,7 @@
 			<Text>O Guerreiro é a primeira unidade de combate disponível, útil para combater Bárbaros, defender as cidades iniciais e para fazer explorações pequenas. Normalmente Guerreiros não são fortes o suficiente para tomar cidades inimigas, a não ser que sejam fortemente auxiliados por Arqueiros e Catapultas - e mesmo assim eles não podem ser fortes o bastante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORK_BOAT_STRATEGY">
-			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o Barco Operário para explorar recursos aquáticos - [ICON_RES_FISH]Peixe, baleia, petróleo etc. O Barco Operário é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. Barcos Operários não podem combater.</Text>
+			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o {TXT_KEY_UNIT_WORK_BOAT} para explorar recursos aquáticos - [ICON_RES_FISH]Peixe, baleia, petróleo etc. O {TXT_KEY_UNIT_WORK_BOAT} é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. {TXT_KEY_UNIT_WORK_BOAT[2]} não podem combater.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORKER_STRATEGY">
 			<Text>Esta unidade constrói estradas, ferrovias e melhorias como fazendas e minas. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
@@ -10804,7 +10804,7 @@
 			<Text>Quais unidades não são combatentes?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
-			<Text>Há cinco tipos de unidades não combatentes: Colonizadores, Trabalhadores, Barcos Operários, Grandes Pessoas e Partes Aeroespaciais. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se atacadas por unidades inimigas enquanto sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
+			<Text>Há cinco tipos de unidades não combatentes: Colonizadores, Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]}, Grandes Pessoas e Partes Aeroespaciais. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se atacadas por unidades inimigas enquanto sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_TITLE">
 			<Text>Unidades não combatentes</Text>
@@ -11479,13 +11479,13 @@
 			<Text>Onde Construir Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_ADV_QUEST">
-			<Text>Como funcionam os Barcos Operários?</Text>
+			<Text>Como funcionam os {TXT_KEY_UNIT_WORK_BOAT[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_BODY">
-			<Text>Barcos Operários são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar Barcos de Pesca e Melhorias de Plataforma costeira na água. Ao contrário dos Trabalhadores da terra, Barcos Operários são consumidos quando eles criam uma melhoria.</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar Barcos de Pesca e melhorias de Plataforma Costeira na água. Ao contrário dos Trabalhadores da terra, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando eles criam uma melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_TITLE">
-			<Text>Barcos Operários</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>
 		</Row>
 		<!-- 348 -->
 		<Row Tag="TXT_KEY_BUILDING_AQUEDUCT_STRATEGY">
