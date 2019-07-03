@@ -1903,7 +1903,7 @@
 		</Row>
 		<!-- GREAT PERSON UI PANEL TEXT -->
 		<Row Tag="TXT_KEY_IC_GP">
-			<Text>Lista de Grades Pessoas</Text>
+			<Text>Lista de Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GP_CITY">
 			<Text>Nome da Cidade</Text>
