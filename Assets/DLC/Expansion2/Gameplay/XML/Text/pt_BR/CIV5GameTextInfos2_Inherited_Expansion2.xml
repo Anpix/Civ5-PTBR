@@ -336,7 +336,7 @@
 			<Text>Unidade de montaria especializada em derrotar outras unidades de montaria inimigas. Só pode ser treinada pelos Otomanos. Esta unidade é mais rápida e possui um campo de alcance visual maior que a unidade que ela substitui, o {TXT_KEY_UNIT_LANCER}.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Poderosa unidade de montaria da Era Medieval. Fraca contra Piqueiros. Apenas os Songhais podem treiná-la. Esta unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>			
+			<Text>Poderosa unidade de montaria da Era Medieval. Fraca contra Piqueiros. Apenas os Songais podem treiná-la. Esta unidade não é penalizada quando ataca cidades, ao contrário do Cavaleiro, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto.</Text>

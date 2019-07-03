@@ -161,16 +161,16 @@
 			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]O ano é 1492. Das cortes da Inglaterra, França e Espanha vêm intrépidos exploradores, ansiosos para viajar pelo Atlântico à procura de uma rota ao Norte para a China e às Índias. Eles irão encontrar uma nova rota comercial e descobrir riquezas incalculáveis nas costas Asiáticas? Ou talvez eles irão encontrar terras desconhecidas pelo caminho? Os povos nativos serão receptivos ao conhecimento e perspectivas de comércio apresentadas ou irão lutar contra os invasores da sua terra natal? Que riquezas, fama e oportunidades estão à espera daqueles que desbravam águas desconhecidas? Que caminho você escolherá? Quem prevalecerá na batalha pela supremacia sobre o Novo Mundo?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A Vitória será da primeira civilização que alcançar 1000 PV (Pontos de Vitória). Você ganha bônus de PV por chegar à China com uma Caravela de exploração e por retornar com Unidades Preciosas para sua Capital. Jogue quantas vezes você quiser para tentar encontrar cada uma das seis civilizações: o mapa da América mudará sempre que você iniciar um novo jogo.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Todas as unidades navais são afetadas por Escorbuto, uma "promoção" que faz com que elas percam pontos de vida sempre que terminarem o turno fora de território amigo. Construa a maravilha nacional Escola de Navegação para combater essa doença. Forças Europeias não podem declarar guerra uma contra as outras enquanto uma delas não pesquisar a tecnologia Pirataria. Unidades Preciosas são criadas quando cidades são eliminadas ou das maravilhas naturais El Dourado  e Potosí (se eles existirem neste mapa). Mova essas unidades civis para sua Capital e ganhe ouro e PV.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
-			<Text>Seja bem-vindo. Eu sou Francis I, o grande patrono da arte Renascentista!</Text>
+			<Text>Seja bem-vindo. Eu sou Francisco I, um grande patrono da arte Renascentista!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
-			<Text>Seja bem-vindo, estrangeiro! Eu sou Francis I, Rei da França! Eu sou leal aos meus amigos e mortal aos meus inimigos. Qual deles você será?</Text>
+			<Text>Seja bem-vindo, estrangeiro! Eu sou Francisco I, Rei da França! Eu sou leal aos meus amigos, mortal aos meus inimigos. Qual você será?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_3">
-			<Text>Ah. Enfim nos conhecemos. Eu sou Francis I, Rei da França. Venha: tratemos da divisão das terras além-mar entre as nossas duas grandes nações.</Text>
+			<Text>Ah. Enfim nos conhecemos. Eu sou Francisco I, Rei da França. Venha: tratemos da divisão das terras além-mar entre as nossas duas grandes nações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_4">
-			<Text>Saudações. Eu sou Francis I, grande Rei da França. Está interessado em ver meu último castelo?</Text>
+			<Text>Saudações. Eu sou Francisco I, Valoroso Rei da França. Interessado em conhecer meu último castelo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_SUBTITLE">
 			<Text>Rei da França</Text>
@@ -178,13 +178,13 @@
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_LIVED">
 			<Text>1494 - 1547 d.C.</Text>
 		</Row>
-    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_HEADING_1">
-      <Text>História</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_1">
-      <Text>Francis I foi o rei da França, de 1515 até 1547, período em que ajudou os Franco-Otomanos a se unirem com Suleiman I. O Sagrado Imperador Romano Carlos V era o maior inimigo de Francis e foi o alvo de várias campanhas militares. Na Batalha de Pavia, em 1525, Francis teria sido capturado por Carlos e mantido assim por mais de um ano, até se virar contra seus dois filhos, Henry e Francis, em troca de sua liberdade.</Text>
-    </Row>
-    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_HEADING_1">
+			<Text>História</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_1">
+			<Text>Francisco I foi o rei da França de 1515 até 1547, período em que ajudou os Franco-Otomanos a se unirem com Suleiman I. O Sagrado Imperador Romano Carlos V era o maior inimigo de Francisco e foi o alvo de várias campanhas militares. Na Batalha de Pavia, em 1525, Francisco teria sido capturado por Carlos e mantido assim por mais de um ano, até se virar contra seus dois filhos, Henrique e Francisco, em troca de sua liberdade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
 			<Text>Aliados Nativos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SCURVY">

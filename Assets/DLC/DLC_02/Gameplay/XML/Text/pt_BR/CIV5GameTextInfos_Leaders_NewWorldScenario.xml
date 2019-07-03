@@ -4,14 +4,14 @@
 	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON">
-			<Text>Francis I</Text>
+			<Text>Francisco I</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>						
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_NAME">
-			<Text>Francis I</Text>
+			<Text>Francisco I</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>						
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>
