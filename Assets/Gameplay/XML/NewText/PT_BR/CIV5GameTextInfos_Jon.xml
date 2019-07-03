@@ -350,16 +350,16 @@
 			<Text>{1_PlayerName} entrou na {2_EraString:textkey}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH">
-			<Text>Seu Acordo de Pesquisas com {1_CivName:textkey} está concluído e ele lhe deu um avanço tecnológico!</Text>
+			<Text>Seu Acordo de Pesquisa com {1_CivName:textkey} está concluído e ele lhe deu um avanço tecnológico!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_S">
-			<Text>Acordo de Pesquisas completo!</Text>
+			<Text>Acordo de Pesquisa completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL">
-			<Text>Seu Acordo de Pesquisas com {1_CivName:textkey} foi cancelado porque vocês estão em guerra agora.</Text>
+			<Text>Seu Acordo de Pesquisa com {1_CivName:textkey} foi cancelado porque vocês estão em guerra agora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL_S">
-			<Text>Acordo de Pesquisas cancelado!</Text>
+			<Text>Acordo de Pesquisa cancelado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_OVER_RESOURCE_LIMIT">
 			<Text>Você está utilizando mais {1_Resource:textkey} do que você tem! Todas as unidades que precisam deste recurso [COLOR_NEGATIVE_TEXT]lutarão com menor eficiência[ENDCOLOR].</Text>
@@ -443,10 +443,10 @@
 			<Text>O acordo com {1_CivName:textkey}, que nos forneceu livre acesso às suas fronteiras, terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
-			<Text>Nosso acordo de pesquisas com {1_CivName:textkey} terminou.</Text>
+			<Text>Nosso acordo de pesquisa com {1_CivName:textkey} terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
-			<Text>O acordo de pesquisas que {1_CivName:textkey} tinha conosco terminou.</Text>
+			<Text>O acordo de pesquisa que {1_CivName:textkey} tinha conosco terminou.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_FROM_US">
 			<Text>O acordo em que nós disponibilizávamos {2_Resource} para {1_CivName:textkey} terminou.</Text>
@@ -913,7 +913,7 @@
 			<Text>Declaração pública {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_RESEARCH_AGREEMENT">
-			<Text>{1_CivName:textkey} e {2_CivName:textkey} assinaram um acordo de pesquisas!</Text>
+			<Text>{1_CivName:textkey} e {2_CivName:textkey} assinaram um acordo de pesquisa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON">
 			<Text>Uma Grande Pessoa nasceu {1: gender *:noart?em; masculine?{1: plural 1?no; other?nos;}; feminine?{1: plural 1?na; other?nas;};} {1_CivName:textkey}.</Text>
@@ -979,10 +979,10 @@
 			<Text>O acordo de fronteiras abertas {1: gender *:noart?de; masculine?{1: plural 1?do; other?dos;}; feminine?{1: plural 1?da; other?das;};} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
-			<Text>O acordo de pesquisas que fizemos com {1_CivName:textkey} terminou</Text>
+			<Text>O acordo de pesquisa que fizemos com {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
-			<Text>O acordo de pesquisas feito {1: gender *:noart?por; masculine?{1: plural 1?pelo; other?pelos;}; feminine?{1: plural 1?pela; other?pelas;};} {1_CivName:textkey} terminou</Text>
+			<Text>O acordo de pesquisa feito {1: gender *:noart?por; masculine?{1: plural 1?pelo; other?pelos;}; feminine?{1: plural 1?pela; other?pelas;};} {1_CivName:textkey} terminou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESOURCE_FROM_US">
 			<Text>{2_Resource} para {1_CivName:textkey} terminou</Text>
@@ -1207,7 +1207,7 @@
 			<Text>Sua [ICON_CAPITAL]Capital foi recuperada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RESEARCH_AGREEMENT">
-			<Text>Novo acordo de pesquisas</Text>
+			<Text>Novo acordo de pesquisa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_PERSON">
 			<Text>Uma Grande Pessoa nasceu</Text>
@@ -2012,7 +2012,7 @@
 			<Text>[NEWLINE][NEWLINE]Não é possível fazer acordo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT">
-			<Text>ACORDO DE PESQUISAS</Text>
+			<Text>ACORDO DE PESQUISA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_TT">
 			<Text>Após {2_Num} {2: plural 1?turno; other?turnos;}, ambos os jogadores receberão um acréscimo na sua pesquisa. Requer que cada jogador gaste {1_Num} de [ICON_GOLD]Ouro no ato do acordo.[NEWLINE][NEWLINE](O custo sobe baseado na evolução da tecnologia do jogador mais avançado)</Text>
@@ -2021,7 +2021,7 @@
 			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui a tecnologia necessária (Filosofia) para negociar este item.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_EXISTS">
-			<Text>[NEWLINE][NEWLINE]Acordo de Pesquisas já está em vigor!</Text>
+			<Text>[NEWLINE][NEWLINE]Acordo de Pesquisa já está em vigor!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_NO_AGREEMENT">
 			<Text>[NEWLINE][NEWLINE]Ambos os jogadores não possuem fundos para completar esta negociação.</Text>
@@ -2096,7 +2096,7 @@
 			<Text>TRATADO DE PAZ (10 turnos)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_US">
-			<Text>ACORDO DE PESQUISAS ({1_Num}[ICON_GOLD])</Text>
+			<Text>ACORDO DE PESQUISA ({1_Num}[ICON_GOLD])</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_PEACE_TREATY_TURNS">
 			<Text>TRATADO DE PAZ (10 turnos)</Text>
@@ -3357,10 +3357,10 @@
 		</Row>
 		<!-- 511 -->
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_CANCEL">
-			<Text>O seu Acordo de Pesquisas com {1_CivName:textkey} foi cancelado.</Text>
+			<Text>O seu Acordo de Pesquisa com {1_CivName:textkey} foi cancelado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_CANCEL_S">
-			<Text>Acordo de Pesquisas Cancelado!</Text>
+			<Text>Acordo de Pesquisa Cancelado!</Text>
 		</Row>		
 		<!-- 674 -->
 		<Row Tag="TXT_KEY_DIPLO_RESURRECTED">

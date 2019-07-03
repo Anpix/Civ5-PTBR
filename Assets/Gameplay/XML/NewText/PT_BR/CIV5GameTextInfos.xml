@@ -1333,7 +1333,7 @@
 		<!-- End Resources UI -->
 		<!-- Added as a shim for outdated replay files.-->
 		<Row Tag="TXT_KEY_MISC_PLAYERS_SIGN_RESEARCH_AGREEMENT">
-			<Text>Jogadores assinaram um Acordo de Pesquisas.</Text>
+			<Text>Jogadores assinaram um Acordo de Pesquisa.</Text>
 		</Row>
 		<!-- This is for hot-seat -->
 		<Row Tag="TXT_KEY_HOTSEAT_NEXT_PLAYER">

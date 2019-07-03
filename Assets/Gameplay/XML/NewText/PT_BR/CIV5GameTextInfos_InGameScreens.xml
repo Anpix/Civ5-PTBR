@@ -326,13 +326,17 @@
             <Text>Você não teve nenhum contato diplomático.</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_PACT">
-            <Text>Pacto defensivo</Text>
+            <Text>Pacto Defensivo|Pactos Defensivos</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_DO_AT_WAR">
             <Text>Em guerra</Text>
         </Row>
         <Row Tag="TXT_KEY_DO_RESEARCH_AGREEMENT">
-            <Text>Acordo de Pesquisas</Text>
+            <Text>Acordo de Pesquisa|Acordos de Pesquisa</Text>
+            <Gender>masculine|masculine</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_DO_OPEN_BORDERS">
             <Text>Abrir fronteiras</Text>
