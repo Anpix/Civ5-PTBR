@@ -1091,10 +1091,10 @@
             <Text>Você descobriu um rústico mapa que descreve a área em volta!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_SCOUT">
-            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como Exploradores!</Text>
+            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_SCOUT[2]}!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_SETTLER">
-            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como Colonizadores!</Text>
+            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_SETTLER[2]}!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_TECH">
             <Text>Você descobriu segredos de uma avançada tecnologia nas ruínas!</Text>
@@ -1103,7 +1103,7 @@
             <Text>Você encontrou um grupo de guerreiros dispostos a se unir a sua Civilização!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_WORKER">
-            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como Trabalhadores!</Text>
+            <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_WORKER[2]}!</Text>
         </Row>
         <Row Tag="TXT_KEY_HURRY_GOLD">
             <Text>Pode gastar ouro para finalizar a produção em uma cidade.</Text>

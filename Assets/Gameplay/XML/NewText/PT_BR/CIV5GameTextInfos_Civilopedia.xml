@@ -1445,10 +1445,10 @@
 			<Text>Os Guerreiros Mohawk Iroqueses estão entre as melhores infantarias leves que o mundo já conheceu. Surpreendentemente rápidos e flexíveis lutadores, os guerreiros Iroqueses eram capazes de cobrir grandes distâncias em pouco tempo, surpreendendo e subjugando os inimigos Europeus, melhor armados e mais lentos. Com uma força armada que "nunca passou de 3.000 homens", eles resistiram quase dois séculos ante os Franceses, Britânicos e Americanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SCOUT_HEADING">
-			<Text>Sentinela</Text>
+			<Text>{TXT_KEY_UNIT_SCOUT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SCOUT_TEXT">
-			<Text>Os Exploradores foram os olhos e ouvidos das primeiras civilizações. Esses guerreiros velozes não eram destinados a enfrentar inimigos - eles supostamente deveriam reconhecer o terreno e descobrir as ameaças ou tesouros em potencial. Uma civilização que ignora o que acontece a seu redor é cega ante o perigo e as oportunidades.</Text>
+			<Text>Os {TXT_KEY_UNIT_SCOUT[2]} foram os olhos e ouvidos das primeiras civilizações. Esses guerreiros velozes não eram destinados a enfrentar inimigos - eles supostamente deveriam reconhecer o terreno e descobrir as ameaças ou tesouros em potencial. Uma civilização que ignora o que acontece a seu redor é cega ante o perigo e as oportunidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SETTLER_HEADING">
 			<Text>Colonizador</Text>
