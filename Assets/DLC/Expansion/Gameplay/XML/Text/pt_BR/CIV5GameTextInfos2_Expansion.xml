@@ -322,7 +322,7 @@
 			<Text>Forte unidade naval da Era Antiga, usada para dominar os mares por meio de ataques corpo-a-corpo contra unidades navais e cidades. Somente os Cartagineses podem construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_HORSE_ARCHER_STRATEGY">
-			<Text>Arqueiros Montados são rápidas unidades de ataque a distância, mortais em terreno aberto. São ligeiramente mais fortes em defesa que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e não possuem sua penalidade no movimento ao se moverem por terreno acidentado. Eles também começam com a promoção Precisão I. Sendo unidades montadas, os Arqueiros Montados são vulneráveis ao {TXT_KEY_UNIT_SPEARMAN}. Entretanto, diferentemente do {TXT_KEY_UNIT_CHARIOT_ARCHER}, não necessitam do recurso [ICON_RES_HORSE]Cavalo.</Text>
+			<Text>{TXT_KEY_UNIT_HUN_HORSE_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em terreno aberto. São ligeiramente mais fortes em defesa que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e não possuem sua penalidade no movimento ao se moverem por terreno acidentado. Eles também começam com a promoção Precisão I. Sendo unidades montadas, os {TXT_KEY_UNIT_HUN_HORSE_ARCHER[2]} são vulneráveis ao {TXT_KEY_UNIT_SPEARMAN}. Entretanto, diferentemente do {TXT_KEY_UNIT_CHARIOT_ARCHER}, não necessitam do recurso [ICON_RES_HORSE]Cavalo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HUN_HORSE_ARCHER">
 			<Text>Uma rápida unidade de ataque a distância, especialmente útil em táticas do tipo "ataque e recue". Somente os Hunos podem treiná-la.</Text>
