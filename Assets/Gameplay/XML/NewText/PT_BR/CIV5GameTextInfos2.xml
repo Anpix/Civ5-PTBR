@@ -1100,7 +1100,7 @@
             <Text>Você descobriu segredos de uma avançada tecnologia nas ruínas!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_WARRIOR">
-            <Text>Você encontrou um grupo de guerreiros dispostos a se unir a sua Civilização!</Text>
+            <Text>Você encontrou um grupo de guerreiros dispostos a se unir à sua Civilização!</Text>
         </Row>
         <Row Tag="TXT_KEY_GOODY_WORKER">
             <Text>Você encontrou sobreviventes entre as ruínas! Eles concordaram em se unir ao seu império como {TXT_KEY_UNIT_WORKER[2]}!</Text>
