@@ -53,8 +53,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_HORSE_ARCHER">
 			<Text>Arqueiro Montado|Arqueiros Montados</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_BATTERING_RAM">
 			<Text>Aríete|Aríetes</Text>
