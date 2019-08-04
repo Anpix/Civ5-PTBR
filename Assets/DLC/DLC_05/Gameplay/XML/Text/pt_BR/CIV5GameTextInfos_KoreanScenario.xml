@@ -67,19 +67,19 @@
 			<Text>[NEWLINE]Clans só podem ser treinados em cidades com pelo menos 2 [ICON_CITIZEN]Cidadãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HEADING">
-			<Text>Cavalaria Bandeira Manchu</Text>
+			<Text>{TXT_KEY_KOREA_SCENARIO_UNIT_MONGOL_KESHIK} Manchu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_TEXT">
 			<Text>Os Oito Bandeiras, criado pelo fundador Manchu Nurhaci no início do século XVII, eram um sistema de administração que pretendia organizar a força militar da Dinastia. Inicialmente criado para dividir os soldados em companhias diferentes, o sistema de bandeira mais tarde veio a utilizar unidades etnicamente segregadas, já que os militares Manchu eram compostos de tropas Manchus, Hans e Mongóis, que normalmente não se misturavam. As Companhias Bandeira Manchus e Mongóis eram constituídas de excelentes cavaleiros, com sua longa história de hipismo nômade criando formidáveis tropas montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HELP">
-			<Text>A unidade exclusiva Manchu substitui o Cavaleiro padrão. Ela possui um forte ataque a distância, mais pontos de movimento e obtém promoções no dobro da velocidade. As batalhas da unidade também contribuem com o dobro da quantidade de pontos para a obtenção de um Grande General.</Text>
+			<Text>A unidade exclusiva Manchu substitui o {TXT_KEY_UNIT_KNIGHT} padrão. Ela possui um forte ataque a distância, mais pontos de movimento e obtém promoções no dobro da velocidade. As batalhas da unidade também contribuem com o dobro da quantidade de pontos para a obtenção de um Grande General.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_INFO">
-			<Text>A Cavalaria Bandeira é a unidade exclusiva Manchu, disponível na Era Medieval. Esta substituta ao Cavaleiro padrão se move com maior velocidade, obtém promoções no dobro da taxa normal e contribui duas vezes mais com a quantidade de pontos para obter Grandes Generais. A Cavalaria Bandeira também pode combater inimigos usando seu poderoso ataque a distância.</Text>
+			<Text>A {TXT_KEY_KOREA_SCENARIO_UNIT_MONGOL_KESHIK} é a unidade exclusiva Manchu, disponível na Era Medieval. Esta substituta ao {TXT_KEY_UNIT_KNIGHT} padrão se move com maior velocidade, obtém promoções no dobro da taxa normal e contribui duas vezes mais com a quantidade de pontos para obter Grandes Generais. A {TXT_KEY_KOREA_SCENARIO_UNIT_MONGOL_KESHIK} também pode combater inimigos usando seu poderoso ataque a distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_STRATEGY">
-			<Text>A Cavalaria Bandeira é a substituta exclusiva para o Cavaleiro, disponível aos Manchu na Era Medieval. A Cavalaria Bandeira possui um forte ataque a distância e uma taxa maior de movimentos (5 pontos no total), permitindo-lhe executar ataques e retiradas extremamente eficazes. Se isso não fosse suficiente, a Cavalaria Bandeira também adquire as promoções no dobro da taxa normal de outras unidades e contribui duas vezes com a quantidade de pontos para ganhar Grandes Generais. Estes guerreiros montados arcam sozinhos com o controle Manchu das planícies abertas.</Text>
+			<Text>A {TXT_KEY_KOREA_SCENARIO_UNIT_MONGOL_KESHIK} é a substituta exclusiva para o {TXT_KEY_UNIT_KNIGHT}, disponível aos Manchu na Era Medieval. A {TXT_KEY_KOREA_SCENARIO_UNIT_MONGOL_KESHIK} possui um forte ataque a distância e uma taxa maior de movimentos (5 pontos no total), permitindo-lhe executar ataques e retiradas extremamente eficazes. Se isso não fosse suficiente, a {TXT_KEY_KOREA_SCENARIO_UNIT_MONGOL_KESHIK} também adquire as promoções no dobro da taxa normal de outras unidades e contribui duas vezes com a quantidade de pontos para ganhar Grandes Generais. Estes guerreiros montados arcam sozinhos com o controle Manchu das planícies abertas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_HEADING_1">
 			<Text>História</Text>
