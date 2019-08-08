@@ -70,8 +70,8 @@
 		</Row>
 		<!-- INTO THE RENAISSANCE -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY">
-			<Text>Mameluke|Mamelukes</Text>
-			<Gender>masculine:human</Gender>
+			<Text>Cavalaria Mamluke|Cavalarias Mamluke</Text>
+			<Gender>feminine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
