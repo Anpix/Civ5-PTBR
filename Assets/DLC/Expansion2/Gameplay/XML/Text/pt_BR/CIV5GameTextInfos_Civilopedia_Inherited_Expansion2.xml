@@ -287,7 +287,7 @@
 			<Text>Modern Armor is just like its predecessor, the Tank, only more-so. Modern Armor is much stronger than the Tank unit and possesses all the Tank's abilities, such as moving after combat.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>Essa é uma unidade exclusiva Songai, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor atacando cidades. O {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
+			<Text>Essa é uma unidade exclusiva Songai, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor ao atacar cidades. O {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TANK_STRATEGY">
 			<Text>The Tank is an extremely powerful and mobile land unit. It can move after combat, allowing it to blow holes in enemy lines and then move into the now-vacant hexes.</Text>
