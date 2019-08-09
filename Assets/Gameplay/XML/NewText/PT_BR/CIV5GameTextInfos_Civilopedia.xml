@@ -10522,7 +10522,7 @@
 			<Text>O Destróier é preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades "embarcáveis", Super Couraçados e Porta-aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Destróier é surpreendentemente rápido e seu fogo indireto lhe permite bombardear alvos que ele não pode ver.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EGYPTIAN_WARCHARIOT_STRATEGY">
-			<Text>A {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é uma unidade egípcia exclusiva, que substitui o {TXT_KEY_UNIT_CHARIOT_ARCHER}. É mais rápida que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e o jogador egípcio pode construí-la mesmo não tendo o recurso [ICON_RES_HORSE]Cavalo. Uma unidade montada, a {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é bastante vulnerável ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
+			<Text>A {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é uma unidade egípcia exclusiva, que substitui o {TXT_KEY_UNIT_CHARIOT_ARCHER}. É mais rápida que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e o jogador egípcio pode construí-la mesmo não tendo o recurso [ICON_RES_HORSE]Cavalo. Sendo uma unidade montada, a {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é bastante vulnerável ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_LONGBOWMAN_STRATEGY">
 			<Text>O Arqueiro de Arco Longo é a unidade inglesa única, que substitui o Besteiro. O Arqueiro de Arco Longo possui um maior alcance que o Besteiro, o que o torna capaz de atacar inimigos a três hexágonos de distância, muitas vezes os destruindo antes que eles possam atacar de volta. Como outras unidades de ataque a distância,o Arqueiro de Arco Longo é vulnerável a ataques corpo-a-corpo.</Text>
