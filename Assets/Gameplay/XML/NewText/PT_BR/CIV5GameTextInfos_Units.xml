@@ -257,7 +257,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANCER">
-			<Text>Lanceiro|Lanceiros</Text>
+			<Text>Lanceiro Montado|Lanceiros Montados</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -377,7 +377,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPEARMAN">
-			<Text>Guerreiro com Lança|Guerreiros com Lança</Text>
+			<Text>Lanceiro|Lanceiros</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
