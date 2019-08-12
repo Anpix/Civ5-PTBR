@@ -481,7 +481,7 @@
 			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
-			<Text>Uma rápida unidade de ataque a distância. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário da {TXT_KEY_UNIT_CHARIOT_ARCHER}, unidade que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário do {TXT_KEY_UNIT_CHARIOT_ARCHER}, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN_STRATEGY">
 			<Text>O Besteiro é mais poderoso que o Arqueiro de Arco Composto. Sendo uma unidade de ataque a distância, ele pode causar dano significativo a outras unidades da Era Medieval até dois hexágonos de distância, mas é vulnerável a ataques corpo-a-corpo. Coloque Besteiros em sua cidade para defendê-la e os proteja com unidades de ataque corpo-a-corpo quando se movimentarem.</Text>
