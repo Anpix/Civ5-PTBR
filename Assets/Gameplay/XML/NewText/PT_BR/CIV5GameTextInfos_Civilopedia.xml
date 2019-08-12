@@ -6466,10 +6466,10 @@
 			<Text>Câmara Criogênica Espacial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CAMELARCHER_HEADING">
-			<Text>Arqueiro em Camelo (Arábia)</Text>
+			<Text>{TXT_KEY_UNIT_ARABIAN_CAMELARCHER} (Arábia)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CAMELARCHER_TEXT">
-			<Text>Alguns cavaleiros Muçulmanos montavam camelos para a batalha. Isso muitas vezes teve um efeito perturbador sobre Europeus que utilizavam cavalos e que não haviam encontrado essas bestas incomuns. Como seria de esperar, os camelos são melhores adaptados ao terreno desértico que os cavalos. Geralmente, os arqueiros que ficam nos camelos empregam táticas de bater e correr contra o inimigo, mais parecido com arqueiros montados Mongóis que cavaleiros ou unidades de cavalaria pesadas. Uma unidade Arqueiro em Camelo bem treinada pode ser extremamente difícil para os cavaleiros lidarem, se esses cavaleiros não estiverem protegidos por arqueiros ou sua própria cavalaria leve.</Text>
+			<Text>Alguns cavaleiros muçulmanos montavam camelos para a batalha. Isso muitas vezes teve um efeito perturbador sobre Europeus que utilizavam cavalos e que não haviam encontrado essas bestas incomuns. Como seria de esperar, os camelos são melhores adaptados ao terreno desértico que os cavalos. Geralmente, os arqueiros que ficam nos camelos empregam táticas de bater e correr contra o inimigo, mais parecido com arqueiros montados Mongóis que cavaleiros ou unidades de cavalaria pesadas. Uma unidade {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} bem treinada pode ser extremamente difícil para os cavaleiros lidarem, se esses cavaleiros não estiverem protegidos por arqueiros ou sua própria cavalaria leve.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CARAVEL_HEADING">
 			<Text>Caravela</Text>
@@ -10468,7 +10468,7 @@
 			<Text>Essas unidades de artilharia especializadas atacarão automaticamente qualquer unidade aérea que bombardear um alvo a dois hexágonos de distância (Elas podem interceptar uma unidade por turno). Elas são bastante fracas em contate contra unidades terrestres e devem ser protegidas por unidades mais fortes contra ataques do chão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARABIAN_CAMELARCHER_STRATEGY">
-			<Text>O Arqueiro em Camelo é uma unidade árabe única, que substitui o {TXT_KEY_UNIT_KNIGHT}. O Arqueiro em Camelo é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O Arqueiro em Camelo é mais fraco que o {TXT_KEY_UNIT_KNIGHT} em ataque corpo-a-corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
+			<Text>O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade árabe exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é mais fraco que o {TXT_KEY_UNIT_KNIGHT} em ataque corpo-a-corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARCHER_STRATEGY">
 			<Text>Esta é a primeira unidade de ataque a distância. Ela pode atacar inimigos a 1 ou 2 hexágonos de distância e é extremamente importante no início do jogo, quando estiver atacando cidades. Entretanto, é bastante fraca quando atacada por outras unidades. Designe-a para fortalecer cidades ou a mantenha atrás de suas linhas, protegidas por unidades de ataque corpo-a-corpo.</Text>

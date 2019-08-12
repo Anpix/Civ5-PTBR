@@ -32,9 +32,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARABIAN_CAMELARCHER">
-			<Text>Arqueiro em Camelo</Text>
+			<Text>Arqueiro em Camelo|Arqueiros em Camelo</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARCHER">
 			<Text>Arqueiro|Arqueiros</Text>
