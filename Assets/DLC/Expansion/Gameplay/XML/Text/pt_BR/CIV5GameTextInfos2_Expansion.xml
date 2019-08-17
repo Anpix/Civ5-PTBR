@@ -346,16 +346,16 @@
 			<Text>Forte unidade de infantaria, especializada no combate em terreno acidentado e na defesa da capital Etíope. Somente a civilização da Etiópia pode treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_CAROLEAN_STRATEGY">
-			<Text>Carolinos são a espinha dorsal do exército Sueco no início da Era Industrial. Eles começam com a promoção Marcha que lhes permite curar-se a cada turno, mesmo se realizarem alguma ação.</Text>
+			<Text>{TXT_KEY_UNIT_SWEDISH_CAROLEAN[2]} eram a espinha dorsal do exército Sueco no início da Era Industrial. Eles começam com a promoção Marcha que lhes permite curar-se a cada turno, mesmo se realizarem alguma ação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWEDISH_CAROLEAN">
 			<Text>Forte unidade de infantaria, especializada em longas marchas, mesmo distantes do território Sueco. Somente a Suécia pode treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA_STRATEGY">
-			<Text>Hakapeliitas são as unidades de montaria de elite do exército Sueco no final da Era Renascentista. Empilhe um Grande General com eles, se possível. O Grande General recebe os benefícios de movimentos dos Hakapeliitas quando iniciam o turno empilhados. Em contrapartida, os Hakapeliitas recebem um bônus de combate de 15% quando empilhados com um Grande General.</Text>
+			<Text>{TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} são as unidades montadas de elite do exército Sueco no final da Era Renascentista. Empilhe um Grande General com eles, se possível. O Grande General recebe os benefícios de movimentos dos {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} quando iniciam o turno empilhados. Em contrapartida, os {TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA[2]} recebem um bônus de combate de 15% quando empilhados com um Grande General.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWEDISH_HAKKAPELIITTA">
-			<Text>Unidade de montaria de elite, especializada em trabalho conjunto com Grandes Generais. Somente os Suecos podem treiná-la.</Text>
+			<Text>Unidade montada de elite, especializada em trabalho conjunto com Grandes Generais. Somente os Suecos podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_COMPOSITE_BOWMAN">
 			<Text>Unidade de infantaria da Era Clássica que ataca a distância.</Text>
