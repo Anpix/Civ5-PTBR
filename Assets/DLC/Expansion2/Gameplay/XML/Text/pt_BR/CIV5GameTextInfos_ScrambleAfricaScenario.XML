@@ -537,22 +537,22 @@
 			<Text>[COLOR_NEGATIVE_TEXT]You may not adopt other policy branches in the Scramble for Africa scenario.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_CAP">
-			<Text>European</Text>
+			<Text>Europeus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]European[ENDCOLOR][NEWLINE][NEWLINE]Combat units may only heal if inside friendly territory. Land combat units (other than Explorers) have [COLOR_NEGATIVE_TEXT]-1 Visibility Range[ENDCOLOR]. May NOT build the Writers', Artists', or Musicians' Guild.</Text>
+			<Text>Unidades de Combate [COLOR_POSITIVE_TEXT]Europeias[ENDCOLOR][NEWLINE][NEWLINE] só podem se curar dentro de território amistoso. Unidades terrestres de combate (a não ser Exploradores) têm [COLOR_NEGATIVE_TEXT]-1 Alcance de Visão[ENDCOLOR]. NÃO pode construir a {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, nem a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_CAP">
-			<Text>North African</Text>
+			<Text>Norte-Africanos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]North African[ENDCOLOR][NEWLINE][NEWLINE]Earn [ICON_GOLD] Gold for each unit you kill. May NOT build the Writers', Artists', or Musicians' Guild.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Norte-Africanos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_GOLD]Ouro para cada unidade que você eliminar. NÃO pode construir a {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, nem a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_CAP">
-			<Text>Sub-Saharan</Text>
+			<Text>Sub-Saarianos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Sub-Saharan[ENDCOLOR][NEWLINE][NEWLINE]Earn [ICON_CULTURE] Culture for each unit you kill except barbarians. Allows cities to build the Writers', Artists', and Musicians' Guilds.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Sub-Saarianos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_CULTURE]Cultura para cada unidade que você eliminar, exceto bárbaros. Permite as cidades construirem {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, e a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1">
 			<Text>Advanced Siege Tactics</Text>

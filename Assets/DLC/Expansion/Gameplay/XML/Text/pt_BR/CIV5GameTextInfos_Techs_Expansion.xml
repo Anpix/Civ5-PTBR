@@ -17,12 +17,12 @@
 		<Row Tag="TXT_KEY_TECH_GUILDS">
 			<Text>Guildas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_TITLE">
-			<Text>Guildas</Text>
+			<Text>{TXT_KEY_TECH_GUILDS}</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS">
 			<Text>Armas Combinadas</Text>
