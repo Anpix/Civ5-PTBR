@@ -35,14 +35,14 @@
 			<Plurality>2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA">
-			<Text>Artes Cênicas</Text>
+			<Text>Dramaturgia</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_TITLE">
-			<Text>Artes Cênicas</Text>
+			<Text>{TXT_KEY_TECH_DRAMA}</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HYDROELECTRICS">
 			<Text>Hidroelétricas</Text>
