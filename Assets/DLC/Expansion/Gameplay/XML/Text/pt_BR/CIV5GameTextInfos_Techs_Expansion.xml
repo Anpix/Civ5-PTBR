@@ -77,12 +77,12 @@
 		<Row Tag="TXT_KEY_TECH_TELECOM">
 			<Text>Telecomunicações</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_TITLE">
-			<Text>Telecomunicações</Text>
+			<Text>{TXT_KEY_TECH_TELECOM}</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>2</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>
