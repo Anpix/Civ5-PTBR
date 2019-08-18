@@ -76,8 +76,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
 			<Text>Arqueiro de Arco Longo Galês|Arqueiros de Arco Longo Galeses</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

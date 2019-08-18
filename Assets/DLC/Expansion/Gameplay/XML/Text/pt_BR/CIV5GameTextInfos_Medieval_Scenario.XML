@@ -150,10 +150,10 @@
 			<Text>Viking Fury</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_BRAVEHEART">
-			<Text>Combat bonus (+20%) when fighting units from a civilization with more cities than the Celts.</Text>
+			<Text>Bônus de combate (+20%) quando lutando contra unidades de uma civilização com mais cidades que os Celtas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_BRAVEHEART_SHORT">
-			<Text>Braveheart</Text>
+			<Text>Coração Valente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAY_IGORS_CAMPAIGN">
 			<Text>All land combat units have +1 [ICON_MOVES] Movement. All units pay just 1 movement point to enter any tile adjacent to a river.</Text>
@@ -386,7 +386,7 @@
 			<Text>This is an Ayyubid unique unit, replacing the Knight. This unit has the same statistics as the Knight, but it is significantly better at attacking cities. The Mamluk can move after attacking. Its speed makes it difficult for an enemy to build a defensive line before the Mamluk reaches the target.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN_STRATEGY">
-			<Text>The Welsh Longbowman is a Celtic unique unit, replacing the Crossbowman. The Welsh Longbowman has a greater range than the Crossbowman, allowing it to attack enemies three hexes away, often destroying them before they can strike back. Like other ranged units, it is vulnerable to melee attack.</Text>
+			<Text>O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} é uma unidade exclusiva celta, substituindo o {TXT_KEY_UNIT_CROSSBOWMAN}. O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} tem um alcance maior do que o {TXT_KEY_UNIT_CROSSBOWMAN}, permitindo que ele ataque os inimigos a três hexágonos de distância, destruindo-os com frequência antes que eles possam atacar de volta. Como outras unidades à distância, é vulnerável a ataques corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_CARAVEL_STRATEGY">
 			<Text>In this scenario, building a Caravel represents financing a major voyage of New World exploration. Once constructed, sail the Caravel to the western map edge where it will disappear (but score you VP).</Text>
@@ -407,7 +407,7 @@
 			<Text>The Conquistador is a multi-purpose unit that is strong both on land and at sea. Replacing the Knight, it is an exceptional scout on land with extra visibility. It also has the ability to found new cities, but only on a foreign continent that does not contain the Spanish capital. In the water, the Conquistador has the defensive embarkation promotion that allows it to defend itself against naval units. It also suffers no penalty when attacking cities, unlike the Knight. After researching Exploration, Spain may may send 3 Conquistadors to the western map edge for New World VP and [ICON_GOLD] Gold.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WELSH_LONGBOWMAN">
-			<Text>Medieval ranged infantry Unit. Only the Celts may build it. This Unit has 1 additional range compared to the Crossbowman, but is slightly weaker. This Unit may move through rough ground as though it were flat.</Text>
+			<Text>Unidade de infantaria medieval à distância. Somente os celtas podem treiná-lo. Esta unidade tem 1 alcance adicional comparado ao {TXT_KEY_UNIT_CROSSBOWMAN}, mas é um pouco mais fraco. Esta unidade pode mover-se pelo terreno acidentado como se fosse plano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH_STRATEGY">
 			<Text>The Stave Church increases the [ICON_PEACE]Fé of a city, speeding up the rate at which you can found and spread religions. The city must contain a Shrine before the Stave Church can be constructed. The Stave Church has no maintenance cost and takes half the time to build as the Temple, which it replaces.</Text>

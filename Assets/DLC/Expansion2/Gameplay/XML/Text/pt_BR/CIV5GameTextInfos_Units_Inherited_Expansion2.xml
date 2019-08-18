@@ -23,8 +23,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CELT_PICTISH_WARRIOR">
 			<Text>Guerreiro Picto|Guerreiros Pictos</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST">
 			<Text>Atlatlist|Atlatlists</Text>
