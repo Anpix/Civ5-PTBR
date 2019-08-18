@@ -1491,13 +1491,13 @@
 			<Text>Architecture can be considered both an art and a science. Encompassing everything from the initial planning and design of a structure, to the actual construction process, architecture has been a crucial element of the building process since ancient times. One of the earliest known discussions of architecture and its principles, "De Architectura," was written by the Roman architect Vitruvius in the first century BC. A ten volume set comprising all of the most intricate details of Roman construction methods, Vitruvius's work is widely recognized today as a crucial development in the evolution of the architectural design process.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP">
-			<Text>Revela o [ICON_RES_COAL][COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]Fábrica[ENDCOLOR], um edifício que melhora muito a [ICON_PRODUCTION]Produção de uma cidade.</Text>
+			<Text>Revela o [ICON_RES_COAL][COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_FACTORY}[ENDCOLOR], um edifício que melhora muito a [ICON_PRODUCTION]Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A industrialização baseada em maquinário, já referida como uma das características da nossa era, é apenas um aspecto da revolução que está sendo feita pela tecnologia."[NEWLINE] - Emily Greene Balch[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_DESC">
-			<Text>Industrialization is viewed as the transition from an agrarian society into an industrial one, which is typically accompanied by widespread social and economic change throughout the community. The Industrial Revolution, beginning in Europe during the 18th century, brought about immense changes in the way people lived their daily lives. With increasingly complex machinery and tools available, many trades that were once left to talented craftsmen became obsolete with the advent of assembly lines operated by droves of unskilled factory laborers.</Text>
+			<Text>A industrialização é vista como a transição de uma sociedade agrária para uma industrial, que é tipicamente acompanhada por uma ampla mudança social e econômica em toda a comunidade. A Revolução Industrial, que começou na Europa durante o século XVIII, trouxe mudanças imensas na forma como as pessoas viviam seu cotidiano. Com máquinas e ferramentas cada vez mais complexas disponíveis, muitos ofícios que antes eram deixados para artesãos talentosos tornaram-se obsoletos com o advento de linhas de montagem operadas por multidões de trabalhadores não qualificados em fábricas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BALLISTICS_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Arma Antiaérea[ENDCOLOR], útil para frustrar aeronaves inimigas e da [COLOR_POSITIVE_TEXT]Metralhadora Pesada[ENDCOLOR], uma poderosa unidade com alcance de 6 hexágonos.</Text>
