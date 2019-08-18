@@ -71,7 +71,7 @@
             <Text>Centros Culturais</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Centros Culturais[ENDCOLOR][NEWLINE]Construa Monumentos, Anfiteatros, Casas de Ópera, Museus e Torres de Transmissão 50% mais rápido.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Centros Culturais[ENDCOLOR][NEWLINE]Construa Monumentos, {TXT_KEY_BUILDING_AMPHITHEATER[2]}, Casas de Ópera, Museus e Torres de Transmissão 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FINE_ARTS">
             <Text>Belas Artes</Text>
@@ -696,7 +696,7 @@
             <Text>Esta ordem permitirá à unidade se reposicionar em um hexágono terrestre em ou adjacente a uma cidade amiga com um Aeroporto. O hexágono alvo não pode estar ocupado por uma unidade inimiga, nem estar adjacente a uma.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
-            <Text>O Anfiteatro aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e da aquisição de Políticas Sociais. A cidade deve possuir um Monumento (ou uma Estela) antes de o Anfiteatro poder ser construído. Contém 1 espaço para uma Grande Obra Literária.</Text>
+            <Text>O {TXT_KEY_BUILDING_AMPHITHEATER} aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e da aquisição de Políticas Sociais. A cidade deve possuir um {TXT_KEY_BUILDING_MONUMENT_DESC} (ou uma {TXT_KEY_BUILDING_STELE}) antes de o {TXT_KEY_BUILDING_AMPHITHEATER} poder ser construído. Contém 1 espaço para uma Grande Obra Literária.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_HELP">
             <Text>Fornece +2 de [ICON_TOURISM]Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>
@@ -750,7 +750,7 @@
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-            <Text>A Casa de Ópera é um edifício da Era Renascentista que aumenta a [ICON_CULTURE]Cultura de uma cidade. A cidade precisa possuir um Anfiteatro para poder construir a Casa de Ópera. Contém 1 espaço para uma Grande Obra Musical.</Text>
+            <Text>A Casa de Ópera é um edifício da Era Renascentista que aumenta a [ICON_CULTURE]Cultura de uma cidade. A cidade precisa possuir um {TXT_KEY_BUILDING_AMPHITHEATER} para poder construir a Casa de Ópera. Contém 1 espaço para uma Grande Obra Musical.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
             <Text>O Museu é um edifício do meio do jogo que aumenta a produção de [ICON_CULTURE]Cultura da cidade. A cidade precisa possuir uma Casa de Ópera (ou um Salão Ceilidh) para construir o Museu. Contém 2 espaços para Grandes Obras de Arte.</Text>
