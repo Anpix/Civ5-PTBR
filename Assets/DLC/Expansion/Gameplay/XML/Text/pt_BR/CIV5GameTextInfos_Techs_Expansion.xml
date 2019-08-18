@@ -7,12 +7,12 @@
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE">
 			<Text>Arquitetura</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_TITLE">
-			<Text>Arquitetura</Text>
+			<Text>{TXT_KEY_TECH_ARCHITECTURE}</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS">
 			<Text>Guildas</Text>
