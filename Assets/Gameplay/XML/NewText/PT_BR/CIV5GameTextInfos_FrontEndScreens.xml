@@ -1191,7 +1191,7 @@
             <Text>Internet</Text>
         </Row>
     <Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_GAME_TT">
-      <Text>Jogar modo multijogador na internet.</Text>
+      <Text>Jogar modo multijogador na Internet.</Text>
     </Row>		
         <Row Tag="TXT_KEY_MULTIPLAYER_LAN_GAME">
             <Text>Rede Local</Text>
