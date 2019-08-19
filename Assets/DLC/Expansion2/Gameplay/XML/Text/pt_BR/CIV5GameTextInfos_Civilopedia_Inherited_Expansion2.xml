@@ -451,13 +451,13 @@
 			<Text>Telecommunication allows for the transmission of data and information over long distances using various types of signaling devices. Early forms of primitive ranged communication, including the use of smoke and signal flags, eventually gave way to telegraphs, and later, the telephone. Scientific research and engineering, particularly in the last 30 years, has led to breakthroughs in our ability to communicate globally. Orbiting satellites now provide a means for the transmission of data even to the most remote areas on Earth. Television, internet, cellular telephones, and GPS are now fully integrated into the daily lives of millions across the world because of telecommunications research.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Infantaria Mecanizada[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MECHANIZED_INFANTRY}[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Todos podem ver essas táticas utilizadas onde eu conquiste, mas o que ninguém pode ver é a estratégia de que cada vitória evolui."[NEWLINE] - Sun Tzu[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_DESC">
-			<Text>Mobile tactics are strategies implemented by military forces to allow for quick, highly maneuverable units to get in and out of battle without becoming mired in an ongoing engagement. Mobile tactics are often used by irregular or guerilla units who specialize in hit-and-run attacks aimed at disorienting larger forces.</Text>
+			<Text>As {TXT_KEY_TECH_MOBILE_TACTICS} são estratégias implementadas pelas forças militares para permitir que unidades rápidas e altamente manobráveis entrem e saiam da batalha sem se envolverem em um engajamento contínuo. As {TXT_KEY_TECH_MOBILE_TACTICS} costumam ser usadas por unidades irregulares ou guerrilheiras que se especializam em ataques rápidos, com o objetivo de desorientar forças maiores.</Text>
 		</Row>
 		<!--CITY-STATES-->
 		<Row Tag="TXT_KEY_CIV5_ANTWERP_TEXT">
