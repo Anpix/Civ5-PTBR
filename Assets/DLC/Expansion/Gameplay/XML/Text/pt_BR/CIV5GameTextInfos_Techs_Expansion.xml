@@ -27,12 +27,12 @@
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS">
 			<Text>Armas Combinadas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_TITLE">
-			<Text>Armas Combinadas</Text>
+			<Text>{TXT_KEY_TECH_COMBINED_ARMS}</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA">
 			<Text>Artes Cênicas</Text>

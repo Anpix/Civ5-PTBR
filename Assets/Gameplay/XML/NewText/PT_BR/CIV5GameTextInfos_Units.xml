@@ -47,9 +47,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AT_GUN">
-			<Text>Arma Antitanque</Text>
+			<Text>Arma Antitanque|Armas Antitanque</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ATOMIC_BOMB">
 			<Text>Bomba Atômica|Bombas Atômicas</Text>
@@ -397,9 +397,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TANK">
-			<Text>Tanque</Text>
+			<Text>Tanque|Tanques</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TREBUCHET">
 			<Text>Trabuco</Text>
