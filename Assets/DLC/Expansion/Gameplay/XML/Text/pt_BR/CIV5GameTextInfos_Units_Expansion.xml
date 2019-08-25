@@ -38,12 +38,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_CATAPHRACT">
 			<Text>Catafractário|Catafractários</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_FOREST_ELEPHANT">
-			<Text>Elefante de Floresta Africano</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Elefante de Guerra Africano|Elefantes de Guerra Africanos</Text>
+			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME">
@@ -53,8 +53,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_HORSE_ARCHER">
 			<Text>Arqueiro Montado|Arqueiros Montados</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_BATTERING_RAM">
 			<Text>Aríete|Aríetes</Text>
@@ -151,13 +151,13 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPANISH_TERCIO">
 			<Text>Terço|Terços</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPANISH_CONQUISTADOR">
 			<Text>Conquistador|Conquistadores</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 	<!-- Great Admirals -->	
 		<Row Tag="TXT_KEY_GREAT_PERSON_MATTHEW_PERRY">

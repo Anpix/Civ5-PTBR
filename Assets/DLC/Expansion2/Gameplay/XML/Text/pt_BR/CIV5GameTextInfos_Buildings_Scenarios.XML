@@ -29,9 +29,9 @@
             <Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE">
-            <Text>Estábulo</Text>
+            <Text>Estábulo|Estábulos</Text>
             <Gender>masculine</Gender>
-            <Plurality>1</Plurality>			
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS">
             <Text>Defesas da Capital</Text>
@@ -59,7 +59,7 @@
         </Row>
                 
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_STRATEGY">
-            <Text>Permite que unidades de montaria possam ser construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
+            <Text>Permite que unidades montadas sejam construídas nesta cidade. Não pode ser construído. Capture cidades inimigas para confiscar novos centros de produção para a sua nação.</Text>
         </Row>
                 
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_HELP">
@@ -83,7 +83,7 @@
         </Row>
                 
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_HELP">
-            <Text>Permite que unidades de montaria possam ser construídas nesta cidade.</Text>
+            <Text>Permite que unidades montadas sejam construídas nesta cidade.</Text>
         </Row>
                 
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS_STRATEGY">

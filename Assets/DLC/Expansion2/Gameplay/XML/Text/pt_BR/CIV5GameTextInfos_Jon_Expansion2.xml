@@ -112,11 +112,11 @@
         <Row Tag="TXT_KEY_POLICY_CARAVANS_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Caravanas[ENDCOLOR][NEWLINE]+2 de [ICON_GOLD]Ouro de todas as suas rotas comerciais terrestres. O custo de manutenção de Estradas e Ferrovias é reduzido em 50%.</Text>
         </Row>
-		<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS">
-			<Text>Exército Mercenário</Text>
-		</Row>		
+        <Row Tag="TXT_KEY_POLICY_TRADE_UNIONS">
+            <Text>Exército Mercenário</Text>
+        </Row>
         <Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Exército Mercenário[ENDCOLOR][NEWLINE]Permite a compra de Lansquenês.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_TRADE_UNIONS}[ENDCOLOR][NEWLINE]Permite a compra de {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_CAP">
             <Text>EXPLORAÇÃO</Text>

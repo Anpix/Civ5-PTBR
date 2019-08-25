@@ -10,10 +10,14 @@
 			<Text>USA Infantry Corps</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY">
-			<Text>USA Cavalry</Text>
+			<Text>Cavalaria da União|Cavalarias da União</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY">
-			<Text>USA Carbine Cavalry</Text>
+			<Text>Cavalaria com Carabina da União|Cavalarias com Carabina da União</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON">
 			<Text>USA Cannon</Text>
@@ -34,10 +38,14 @@
 			<Text>CSA Infantry Corps</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY">
-			<Text>CSA Cavalry</Text>
+			<Text>Cavalaria Confederada|Cavalarias Confederadas</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY">
-			<Text>CSA Carbine Cavalry</Text>
+			<Text>Cavalaria com Carabina Confederada|Cavalarias com Carabina Confederadas</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON">
 			<Text>CSA Cannon</Text>
@@ -67,10 +75,10 @@
 			<Text>The most powerful melee unit of the Civil War, available only by upgrading an Infantry Division.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_STRATEGY">
-			<Text>The basic mounted unit of the Civil War. Upgrade to Carbine Cavalry once you have unlocked the Repeating Rifles Tech.</Text>
+			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_STRATEGY">
-			<Text>The most powerful mounted unit of the Civil War.</Text>
+			<Text>A mais poderosa unidade montada da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_STRATEGY">
 			<Text>The basic artillery unit of the Civil War. Very effective against nearby units.</Text>
@@ -85,10 +93,10 @@
 			<Text>The most powerful melee unit of the Civil War, available only by upgrading an Infantry Division.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_STRATEGY">
-			<Text>The basic mounted unit of the Civil War. Upgrade to Carbine Cavalry once you have unlocked the Repeating Rifles Tech.</Text>
+			<Text>A unidade montada básica da Guerra Civil. Evolui para Cavalaria com Carabina depois de desbloquear a tecnologia de {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_STRATEGY">
-			<Text>The most powerful mounted unit of the Civil War.</Text>
+			<Text>A mais poderosa unidade montada da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_STRATEGY">
 			<Text>The basic artillery unit of the Civil War. Very effective against nearby units.</Text>
@@ -118,10 +126,10 @@
 			<Text>Front-line melee unit during the bulk of the Civil War, after both sides started organizing into larger units.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_HELP">
-			<Text>Basic mounted unit of the Civil War.</Text>
+			<Text>Unidade montada básica da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_HELP">
-			<Text>Powerful mounted unit with double the combat strength of regular cavalry.</Text>
+			<Text>Poderosa unidade montada com o dobro da força de combate da cavalaria regular.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_HELP">
 			<Text>Basic artillery unit of the Civil War.</Text>
@@ -136,10 +144,10 @@
 			<Text>Front-line melee unit during the bulk of the Civil War, after both sides started organizing into larger units.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_HELP">
-			<Text>Basic mounted unit of the Civil War.</Text>
+			<Text>Unidade montada básica da Guerra Civil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_HELP">
-			<Text>Powerful mounted unit with double the combat strength of regular cavalry.</Text>
+			<Text>Poderosa unidade montada com o dobro da força de combate da cavalaria regular.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_HELP">
 			<Text>Basic artillery unit of the Civil War.</Text>
@@ -475,7 +483,7 @@
     
     <!-- Scramble for Africa -->
     <Row Tag="TXT_KEY_UNIT_DERVISH_CAVALRY">
-      <Text>Dervish Cavalry</Text>
+      <Text>Cavalaria Dervixe</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE">
       <Text>Force Publique</Text>

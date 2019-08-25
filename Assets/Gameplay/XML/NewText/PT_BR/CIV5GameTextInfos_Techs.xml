@@ -255,9 +255,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_TITLE">
-			<Text>Código de Cavalaria</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Text>{TXT_KEY_TECH_CHIVALRY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_TITLE">
 			<Text>Cargos Públicos</Text>
@@ -350,9 +348,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE">
-			<Text>Montaria</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Text>{TXT_KEY_TECH_HORSEBACK_RIDING}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_TITLE">
 			<Text>Ferro</Text>
