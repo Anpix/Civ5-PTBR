@@ -57,9 +57,9 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SHOSHONE_PATHFINDER">
-			<Text>Batedor|Batedores</Text>
+			<Text>Rastreador|Rastreadores</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS">
 			<Text>Jinete Comanche|Jinetes Comanches</Text>

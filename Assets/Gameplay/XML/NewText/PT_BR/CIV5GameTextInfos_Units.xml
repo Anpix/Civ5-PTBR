@@ -357,7 +357,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SCOUT">
-			<Text>Explorador|Exploradores</Text>
+			<Text>Batedor|Batedores</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
