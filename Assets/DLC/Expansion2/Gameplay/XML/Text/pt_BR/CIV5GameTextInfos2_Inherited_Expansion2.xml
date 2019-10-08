@@ -157,7 +157,7 @@
 			<Text>Fornece 2 de [ICON_RES_ALUMINUM]Alumínio. Pode haver no máximo 5 desse edifício em seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_STRATEGY">
-			<Text>Abrigos Antiaéreos reduzem em 75% a perda de população nesta cidade, em caso de ataque nuclear. Esconda-se e sobreviva!</Text>
+			<Text>{TXT_KEY_BUILDING_BOMB_SHELTER[2]} reduzem em 75% a perda de população nesta cidade, em caso de ataque nuclear. Esconda-se e sobreviva!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_HELP">
 			<Text>Reduz em 75% a perda de população em um ataque nuclear.</Text>
@@ -1419,7 +1419,7 @@
 			<Text>Templos fornecem +2 de [ICON_CULTURE]Cultura em cidades com 5 devotos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
-			<Text>Anfiteatros fornecem +1 de [ICON_PEACE]Fé em cidades com 3 devotos</Text>
+			<Text>{TXT_KEY_BUILDING_AMPHITHEATER[2]} fornecem +1 de [ICON_PEACE]Fé em cidades com 3 devotos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ASCETISM">
 			<Text>Santuários fornecem +1 de [ICON_HAPPINESS_1]Felicidade em cidades com 3 devotos</Text>

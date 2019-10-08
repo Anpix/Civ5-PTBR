@@ -174,7 +174,7 @@
 			<Text>+3 de [ICON_GOLD]Ouro, +2 de [ICON_CULTURE]Cultura e +1 de [ICON_HAPPINESS_1]Felicidade de cada Castelo.[NEWLINE][NEWLINE]A cidade deve estar construída a, no máximo, 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
-			<Text>A cidade deve estar construída no Deserto (ou próxima a ele). +1 de [ICON_FOOD]Alimento, +1 de [ICON_PRODUCTION]Produção, +1 de [ICON_GOLD]Ouro para cada hexágono desértico explorado (exceto Planícies Inundadas). +6 de [ICON_CULTURE]Cultura quando a Arqueologia for pesquisada. Fornece um Anfiteatro gratuito na cidade em que for construída.</Text>
+			<Text>A cidade deve estar construída no Deserto (ou próxima a ele). +1 de [ICON_FOOD]Alimento, +1 de [ICON_PRODUCTION]Produção, +1 de [ICON_GOLD]Ouro para cada hexágono desértico explorado (exceto Planícies Inundadas). +6 de [ICON_CULTURE]Cultura quando a Arqueologia for pesquisada. Fornece um {TXT_KEY_BUILDING_AMPHITHEATER} gratuito na cidade em que for construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
 			<Text>Um Grande Profeta aparece. Fornece um Templo gratuito na cidade em que for construída.</Text>
@@ -200,7 +200,7 @@
 		</Row>		
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
-			<Text>O Anfiteatro aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais pela civilização. A cidade precisa possuir um Monumento (ou uma Estela) para poder construir um Anfiteatro.</Text>
+			<Text>O {TXT_KEY_BUILDING_AMPHITHEATER} aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais pela civilização. A cidade precisa possuir um {TXT_KEY_BUILDING_MONUMENT_DESC} (ou uma {TXT_KEY_BUILDING_STELE}) para poder construir um {TXT_KEY_BUILDING_AMPHITHEATER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SHRINE_STRATEGY">
 			<Text>O Santuário é o primeiro edifício que aumenta a [ICON_PEACE]Fé produzida por uma cidade, o que lhe permite fundar e disseminar religiões.</Text>
@@ -212,7 +212,7 @@
 			<Text>Fornece 2 de [ICON_RES_ALUMINUM]Alumínio. Pode haver no máximo 5 desse edifício em seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_STRATEGY">
-			<Text>Abrigos Antiaéreos reduzem em 75% a perda de população nesta cidade, em caso de ataque nuclear. Esconda-se e sobreviva!</Text>
+			<Text>{TXT_KEY_BUILDING_BOMB_SHELTER[2]} reduzem em 75% a perda de população nesta cidade, em caso de ataque nuclear. Esconda-se e sobreviva!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_HELP">
 			<Text>Reduz em 75% a perda de população em um ataque nuclear.</Text>
@@ -1582,7 +1582,7 @@
 			<Text>Hermitage fornece +8 de [ICON_CULTURE]Cultura na cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
-			<Text>Anfiteatros fornecem +1 de [ICON_PEACE]Fé em cidades com 3 devotos</Text>
+			<Text>{TXT_KEY_BUILDING_AMPHITHEATER[2]} fornecem +1 de [ICON_PEACE]Fé em cidades com 3 devotos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ASCETISM">
 			<Text>Santuários fornecem +1 de [ICON_HAPPINESS_1]Felicidade em cidades com 3 devotos</Text>

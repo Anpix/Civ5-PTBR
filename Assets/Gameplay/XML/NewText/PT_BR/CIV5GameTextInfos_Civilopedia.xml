@@ -1397,16 +1397,16 @@
 			<Text>{TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_COMPANIONCAVALRY_TEXT">
-			<Text>Os Hetairoi, ou "Heteros", eram cavaleiros de combate de elite que acompanhavam Alexandre, o Grande. O termo "hetairoi" deriva do nome da aristocracia da Macedônia, e os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} procediam exclusivamente das melhores famílias da Macedônia (embora mais tarde fosse expandida para incluir a nobreza aliada e os vassalos). Cada cavaleiro estava armado com um "xyston" (lança) e um "kopis" (espada curva), protegido por uma couraça, ombreiras e capacete.[NEWLINE][NEWLINE]Em combate, Alexandre segurava seus companheiros até que o inimigo estivesse totalmente ocupado com suas falanges. O próprio Alexandre os conduzia contra os flancos ou a retaguarda do inimigo, semeando a confusão e desânimo deles. As forças rivais nunca encontraram uma resposta satisfatória para esta combinação e com isso, Alexandre conquistou a maior parte do mundo conhecido.</Text>
+			<Text>Os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}, ou Hetairoi, eram cavaleiros de elite que acompanhavam Alexandre, o Grande, em batalha. O termo "hetairoi" deriva do nome da aristocracia macedônica, e os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} provinham apenas das melhores famílias macedônicas (embora mais tarde isso tenha sido expandido para incluir a nobreza dos povos aliados e subjugados). Cada cavaleiro carregava um "xyston" (lança longa) e um "kopis" (espada curva), e usava uma couraça, ombreiras e capacete de bronze.[NEWLINE][NEWLINE]Em batalha, Alexandre geralmente segurava os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} até o inimigo estar totalmente envolvido com suas unidades de Falange. O próprio Alexandre então conduzia seus {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} contra o flanco ou retaguarda do inimigo, semeando confusão e desânimo no exército inimigo. As forças opostas nunca encontraram uma resposta satisfatória para essa combinação, e com ela Alexandre conquistou a maior parte do mundo conhecido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_GALLEY_HEADING">
 			<Text>{TXT_KEY_UNIT_GALLEY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_HEADING">
-			<Text>{TXT_KEY_UNIT_HELP_HOPLITE}</Text>
+			<Text>{TXT_KEY_UNIT_GREEK_HOPLITE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_TEXT">
-			<Text>Os Gregos dominaram a arte do combate com lança, criando armas longas de fio mortal que, nas mãos de {TXT_KEY_UNIT_HELP_HOPLITE[2]} altamente treinados em formação de falange, eram quase impossíveis de conter por parte da infantaria ou cavalaria regular. Ante uma falange Grega, um soldado não só tinha que lidar com o inimigo à frente, mas também contra as lanças dos três soldados que vinham atrás de seu rival. Os {TXT_KEY_UNIT_HELP_HOPLITE[2]} eram formidáveis adversários em terreno plano e aberto, mas eram parcialmente vulneráveis aos arqueiros e era quase impossível manter uma falange em terreno acidentado.</Text>
+			<Text>Os gregos dominavam a arte do combate com lança, criando armas longas de fio mortífero que, nas mãos de soldados {TXT_KEY_UNIT_GREEK_HOPLITE[2]} altamente treinados em formação de falange, eram quase impossíveis de derrotar pela infantaria padrão ou cavalaria da época. Um soldado de frente para uma falange grega tinha que enfrentar não apenas o inimigo em frente, mas também as lanças de dois ou três soldados atrás deste. O {TXT_KEY_UNIT_GREEK_HOPLITE} era um tanto vulnerável às flechas dos arqueiros, é claro, e era quase impossível manter a formação de uma falange em terrenos acidentados, mas em terreno plano e aberto, os {TXT_KEY_UNIT_GREEK_HOPLITE[2]} eram adversários extremamente difíceis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HORSEMAN_HEADING">
 			<Text>{TXT_KEY_UNIT_HORSEMAN}</Text>
@@ -1445,10 +1445,10 @@
 			<Text>Os Guerreiros Mohawk Iroqueses estão entre as melhores infantarias leves que o mundo já conheceu. Surpreendentemente rápidos e flexíveis lutadores, os guerreiros Iroqueses eram capazes de cobrir grandes distâncias em pouco tempo, surpreendendo e subjugando os inimigos Europeus, melhor armados e mais lentos. Com uma força armada que "nunca passou de 3.000 homens", eles resistiram quase dois séculos ante os Franceses, Britânicos e Americanos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SCOUT_HEADING">
-			<Text>Sentinela</Text>
+			<Text>{TXT_KEY_UNIT_SCOUT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SCOUT_TEXT">
-			<Text>Os Exploradores foram os olhos e ouvidos das primeiras civilizações. Esses guerreiros velozes não eram destinados a enfrentar inimigos - eles supostamente deveriam reconhecer o terreno e descobrir as ameaças ou tesouros em potencial. Uma civilização que ignora o que acontece a seu redor é cega ante o perigo e as oportunidades.</Text>
+			<Text>Os {TXT_KEY_UNIT_SCOUT[2]} foram os olhos e ouvidos das primeiras civilizações. Esses guerreiros velozes não eram destinados a enfrentar inimigos - eles supostamente deveriam reconhecer o terreno e descobrir as ameaças ou tesouros em potencial. Uma civilização que ignora o que acontece a seu redor é cega ante o perigo e as oportunidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_SETTLER_HEADING">
 			<Text>Colonizador</Text>
@@ -1891,7 +1891,7 @@
 			<Text>{TXT_KEY_BUILDING_STABLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STABLE_TEXT">
-			<Text>Em Civilization V, um estábulo é um quartel militar para unidades de cavalaria. Aqui, os soldados da cavalaria vivem, se alimentam e são treinados, assim como suas montarias. Durante grande parte da história, a cavalaria era favoritismo pelos filhos ricos da sociedade, já que só os jovens mais ricos montavam a cavalo. Por causa disso, estes estábulos eram geralmente mais luxuosos do que as pobres habitações da infantaria.</Text>
+			<Text>No Civilization V, um {TXT_KEY_BUILDING_STABLE} é um quartel militar para unidades de cavalaria. Aqui os soldados da cavalaria são alojados, alimentados e treinados, assim como suas montarias. Durante a maior parte da história, a cavalaria tem sido a arma preferida dos filhos ricos de uma sociedade, pela simples razão de que apenas os jovens mais ricos já terem cavalgado. Por causa disso, os {TXT_KEY_BUILDING_STABLE[2]} e quartéis de cavalaria eram frequentemente muito mais luxuosos do que as habitações da pobre infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STADIUM_HEADING">
 			<Text>Estádio</Text>
@@ -4678,7 +4678,7 @@
 			<Text>Recursos são fontes de alimento, produtividade, cultura ou outros bônus especiais, todos úteis a uma civilização. Em uma análise mais ampla, a riqueza e o poder de sua civilização serão determinados pelo número e tipo de recursos que você controla. Para utilizar um recurso, ele deve estar dentro das fronteiras de sua civilização e você deve construir a "Melhoria" apropriada no hexágono (por exemplo: você deve construir a melhoria "Plantação" para receber os benefícios de um recurso "Banana"). Há três diferentes tipos de recursos: bônus, estratégicos e de luxo. Todos oferecem benefícios de rendimento às cidades próximas e recursos de luxo e estratégicos possuem benefícios adicionais importantes (veja abaixo). Embora você não tenha acesso a todo o tipo de recurso dentro de suas fronteiras, você pode negociá-los com outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE1_TEXT">
-			<Text>Note que nem todos os recursos são visíveis no início do jogo: alguns requerem conhecimento em uma tecnologia particular antes que apareçam no mapa. Cavalos, por exemplo, não aparecem até que você pesquise "Pecuária" e Ferro não aparece até que você aprenda a tecnologia "Ferro".</Text>
+			<Text>Note que nem todos os recursos são visíveis no início do jogo: alguns requerem conhecimento em uma tecnologia particular antes que apareçam no mapa. Cavalos, por exemplo, não aparecem até que você pesquise "{TXT_KEY_TECH_ANIMAL_HUSBANDRY}" e Ferro não aparece até que você aprenda a tecnologia "{TXT_KEY_TECH_IRON_WORKING}".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE2_TEXT">
 			<Text>Há três tipos de recursos em Civilization V:</Text>
@@ -8743,13 +8743,13 @@
 			<Text>O que são recursos estratégicos?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGIC_HEADING2_BODY">
-			<Text>Recursos estratégicos não são visíveis no início do jogo: eles requerem o conhecimento de uma tecnologia em particular antes de aparecerem no mapa. Cavalos, por exemplo, não aparecem até você aprender Pecuária, e ferro não aparece antes de se aprender a tecnologia Ferro.[NEWLINE][NEWLINE]Recursos estratégicos permitem a construção de certas unidades e edificações. Quando você constrói uma melhoria em um hexágono com um recurso estratégico, este fornece um número limitado destes recursos, que são consumidos ao se construírem unidades e edifícios relacionados ao recurso. Por exemplo, você consome um recurso de ferro para cada unidade {TXT_KEY_UNIT_SWORDSMAN} criada. Se você não tem ferro disponível, não poderá construir o {TXT_KEY_UNIT_SWORDSMAN}. O recurso fica disponível novamente se a unidade ou edificação construída for destruída. Se você perder o acesso a um recurso, as unidades que requeiram aquele recurso receberão uma severa penalidade de combate até que o recurso seja restaurado.[NEWLINE][NEWLINE]Você pode trocar recursos estratégicos com outras civilizações.[NEWLINE][NEWLINE]Você pode ver quantas unidades de cada recurso estratégico estão disponíveis no topo da sua tela principal.</Text>
+			<Text>Recursos estratégicos não são visíveis no início do jogo: eles requerem o conhecimento de uma tecnologia em particular antes de aparecerem no mapa. Cavalos, por exemplo, não aparecem até você aprender {TXT_KEY_TECH_ANIMAL_HUSBANDRY}, e ferro não aparece antes de se aprender a tecnologia {TXT_KEY_TECH_IRON_WORKING}.[NEWLINE][NEWLINE]Recursos estratégicos permitem a construção de certas unidades e edificações. Quando você constrói uma melhoria em um hexágono com um recurso estratégico, este fornece um número limitado destes recursos, que são consumidos ao se construírem unidades e edifícios relacionados ao recurso. Por exemplo, você consome um recurso de ferro para cada unidade {TXT_KEY_UNIT_SWORDSMAN} criada. Se você não tem ferro disponível, não poderá construir o {TXT_KEY_UNIT_SWORDSMAN}. O recurso fica disponível novamente se a unidade ou edificação construída for destruída. Se você perder o acesso a um recurso, as unidades que requeiram aquele recurso receberão uma severa penalidade de combate até que o recurso seja restaurado.[NEWLINE][NEWLINE]Você pode trocar recursos estratégicos com outras civilizações.[NEWLINE][NEWLINE]Você pode ver quantas unidades de cada recurso estratégico estão disponíveis no topo da sua tela principal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGIC_HEADING2_TITLE">
 			<Text>Recursos estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_BODY">
-			<Text>Alumínio (Mina/Eletricidade)[NEWLINE]Carvão (Mina/Teoria Científica)[NEWLINE]Cavalos (Pasto/Pecuária)[NEWLINE]Ferro (Mina/Ferro)[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/Biologia)[NEWLINE]Urânio (Mina/Teoria Atômica)</Text>
+			<Text>Alumínio (Mina/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão (Mina/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro (Mina/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio (Mina/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_TITLE">
 			<Text>Estratégico (Melhoria Necessária)</Text>
@@ -9634,7 +9634,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_HORSEMAN}[ENDCOLOR], uma unidade montada rápida e poderosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Um cavalo! Um cavalo!"[NEWLINE][TAB][TAB]Meu reino por um cavalo!"[NEWLINE][TAB][TAB] - Shakespeare (Ricardo Terceiro)[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Um cavalo! Um cavalo!"[NEWLINE][TAB][TAB]Meu reino por um cavalo!"[NEWLINE][TAB][TAB] - Shakespeare (Ricardo III)[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INCREASINGBEAKERS_ADV_QUEST">
 			<Text>Como posso acelerar a pesquisa?</Text>
@@ -10585,7 +10585,7 @@
 			<Text>O {TXT_KEY_UNIT_HORSEMAN} é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo-a-corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}, {TXT_KEY_UNIT_PIKEMAN} e similares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDIAN_WARELEPHANT_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT} é uma unidade indiana única, que substitui o {TXT_KEY_UNIT_CHARIOT_ARCHER}. É bem mais poderosa, embora mais lento, que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e pode se mover através de qualquer terreno sem as penalidades do seu predecessor. Por ser uma unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}.</Text>
+			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT} é uma unidade indiana exclusiva, que substitui a {TXT_KEY_UNIT_CHARIOT_ARCHER}. É bem mais poderoso, embora mais lento, que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e pode se mover através de qualquer terreno sem as penalidades do seu predecessor. Por ser uma unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INFANTRY_STRATEGY">
 			<Text>A Infantaria é a unidade de combate básica da Era Industrial. É significativamente mais forte que seu predecessor, o Fuzileiro. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, devem ser auxiliadas por Artilharias, Tanques e unidades aéreas (ou antiaéreas).</Text>
@@ -11392,7 +11392,7 @@
 			<Text>Poço de Petróleo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_BODY">
-			<Text>Requisitos Tecnológicos: Pecuária[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
+			<Text>Requisitos Tecnológicos: {TXT_KEY_TECH_ANIMAL_HUSBANDRY}[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_TITLE">
 			<Text>Pasto</Text>

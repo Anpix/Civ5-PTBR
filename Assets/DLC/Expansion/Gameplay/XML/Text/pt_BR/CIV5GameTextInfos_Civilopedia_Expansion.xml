@@ -1254,7 +1254,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-			<Text>Um anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de anfiteatros que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
+			<Text>Um {TXT_KEY_BUILDING_AMPHITHEATER} é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de {TXT_KEY_BUILDING_AMPHITHEATER[2]} que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
 			<Text>Shrines are sacred monuments typically built to memorialize revered cultural icons or religious figures. Represented in nearly every religious denomination found throughout the world, shrines play an important role in religious ceremonies in both public and private worship.</Text>
@@ -1391,7 +1391,7 @@
 			<Text>A modified form of the traditional galley, the Dromon was an integral part of the Byzantine navy throughout the empire's reign. Featuring both oar and sail power, the Dromon was highly maneuverable and agile, but also dangerously equipped for battle. Through the use of Greek Fire, a precursor to modern Napalm, the Byzantines used an early form of the flamethrower to strike fear in the hearts of any who opposed them on the sea.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BYZANTINE_CATAPHRACT_TEXT">
-			<Text>Entre as mais fortemente blindadas formas de cavalaria usadas na história, o {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT} era um oponente formidável no campo de batalha. Com cavalos cobertos de malha ou armadura de metal, e o cavaleiro em uma armadura igualmente impressionante, essas unidades montadas era usadas primariamente para esmagar através das linhas de infantaria inimigas que enfrentavam. O Império Bizantino era conhecido por fazer uso extensivo do {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT[2]} através de sua história, já que tiveram um papel proeminente na defesa do império depois do declínio do seu irmão Roma no oeste.</Text>
+			<Text>Entre as formas mais fortemente blindadas de cavalaria usadas ao longo da história, o {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT} era um oponente formidável no campo de batalha. Com cavalos envoltos em cota de malha ou armaduras chapeadas, e o próprio cavaleiro em uma armadura igualmente impressionante, essas unidades montadas eram usadas principalmente para esmagar as linhas de infantaria inimigas que enfrentavam. O Império Bizantino era conhecido por ter feito uso extensivo de {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT[2]} ao longo de sua história, já que eles desempenharam um papel proeminente na defesa do império após o declínio de seus irmãos romanos no Ocidente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CARTHAGINIAN_FOREST_ELEPHANT_TEXT">
 			<Text>Usado frequentemente pelas forças de Cartago sob o lendário general Aníbal durante suas campanhas contra os romanos, o elefante era um valioso animal de carga, bem como uma arma perigosa. Utilizado durante as Guerras Púnicas, com graus variados de sucesso, os elefantes de guerra cartaginenses foram treinados para atacar as linhas inimigas carregando soldados nas gigantescas gôndolas nas costas. Apesar de seu tamanho intimidante, os elefantes eram suscetíveis aos avanços da infantaria móvel, e as exigências de cuidado e manutenção de um animal tão grande muitas vezes levavam à sua morte nas árduas marchas do exército cartaginense.</Text>
@@ -1464,13 +1464,13 @@
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Anfiteatro[ENDCOLOR], que fornece um avanço na [ICON_CULTURE]Cultura.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_AMPHITHEATER}[ENDCOLOR], que fornece um impulso para a [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"O que o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O que é o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_DESC">
-			<Text>Drama and poetry are both forms of artistic expression, the former expressed through the use of visual performance, the latter through the written word. Drama is most commonly associated with theatrical performances - plays, musicals, and operas - although in modern times these traditional forms have been surpassed by television and movie productions. Poetry focuses on the use of written language to express both a literal meaning, and often a thought-provoking underlying message.</Text>
+			<Text>A dramaturgia e a poesia são formas de expressão artística, a primeira expressa pelo uso da performance visual, a segunda pela palavra escrita. O drama é mais comumente associado a performances teatrais - peças teatrais, musicais e óperas -, embora nos tempos modernos essas formas tradicionais tenham sido superadas pelas produções televisivas e cinematográficas. A poesia concentra-se no uso da linguagem escrita para expressar tanto um significado literal quanto uma mensagem subjacente instigante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_HELP">
 			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro. Além disso, permite às suas cidades converter [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edifícios.</Text>
@@ -1519,13 +1519,13 @@
 			<Text>As armas combinadas são uma doutrina militar adotada pela primeira vez há mais de mil anos, que envolve a combinação de tipos diferentes, mas complementares, de unidades em um esforço para melhorar a eficiência geral da força como um todo. Nos tempos antigos, a tática de armas combinadas era utilizada por muitas das principais potências, particularmente os gregos e romanos, que coordenavam cuidadosamente a infantaria leve e pesada, a cavalaria e as armas de longo alcance para criar formações coesas que minimizassem os pontos fortes e fracos de cada um. Nos dias atuais, o aumento do armamento baseado em aeronaves levou a variações ainda mais complexas no conceito tradicional de armas combinadas. Aeronaves não-tripuladas, mísseis guiados por satélite e bombardeiros de alta altitude são apenas alguns exemplos do conjunto de ferramentas disponíveis para os comandantes militares modernos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino Nuclear[ENDCOLOR], uma Unidade Naval invisível à maioria das outras Unidades e capaz de carregar 2 Mísseis. Também permite a construção do [COLOR_POSITIVE_TEXT]Abrigo Antiaéreo[ENDCOLOR], que reduz significativamente a perda de população em um ataque nuclear.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_NUCLEAR_SUBMARINE}[ENDCOLOR], uma Unidade Naval invisível à maioria das outras Unidades e capaz de carregar 2 Mísseis. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_BOMB_SHELTER}[ENDCOLOR], que reduz significativamente a perda de população em um ataque nuclear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Quanto mais elaboramos nossas formas de comunicação, menos nos comunicamos."[NEWLINE] - J.B. Priestly[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_DESC">
-			<Text>Telecommunication allows for the transmission of data and information over long distances using various types of signaling devices. Early forms of primitive ranged communication, including the use of smoke and signal flags, eventually gave way to telegraphs, and later, the telephone. Scientific research and engineering, particularly in the last 30 years, has led to breakthroughs in our ability to communicate globally. Orbiting satellites now provide a means for the transmission of data even to the most remote areas on Earth. Television, internet, cellular telephones, and GPS are now fully integrated into the daily lives of millions across the world because of telecommunications research.</Text>
+			<Text>A telecomunicação permite a transmissão de dados e informações por longas distâncias, usando vários tipos de dispositivos de sinalização. As primeiras formas de comunicação primitiva à distância, incluindo o uso de bandeiras de fumaça e sinal, acabaram cedendo lugar aos telégrafos e, mais tarde, ao telefone. A pesquisa científica e a engenharia, particularmente nos últimos 30 anos, levaram a avanços em nossa capacidade de nos comunicar globalmente. Satélites em órbita agora fornecem um meio para a transmissão de dados até mesmo para as áreas mais remotas da Terra. Televisão, internet, telefones celulares e GPS estão agora totalmente integrados ao cotidiano de milhões de pessoas em todo o mundo por causa da pesquisa em telecomunicações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MECHANIZED_INFANTRY}[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
@@ -1879,7 +1879,7 @@
 			<Text>Permite a construção do primeiro edifício [ICON_RESEARCH]Científico, a [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], que ajuda o seu Império a pesquisar novas tecnologias mais rapidamente. Também permite o estabelecimento de Embaixadas em outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-			<Text>A Casa de Ópera é um edifício da Renascença que aumenta a [ICON_CULTURE] Cultura da cidade. A cidade precisa ter um Anfiteatro para construir a Casa de Ópera.</Text>
+			<Text>A Casa de Ópera é um edifício da Renascença que aumenta a [ICON_CULTURE] Cultura da cidade. A cidade precisa ter um {TXT_KEY_BUILDING_AMPHITHEATER} para construir a Casa de Ópera.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ERA_FUTURE">
 			<Text>Information Era</Text>

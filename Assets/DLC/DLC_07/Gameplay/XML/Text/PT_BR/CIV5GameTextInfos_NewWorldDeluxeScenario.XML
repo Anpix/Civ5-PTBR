@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TITLE">
+			<Text>Conquest of the New World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DESC">
+			<Text>Sail west looking for a passage to the Orient and see what you find.  Or play as a Native American civilization facing an unexpected threat from the sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_NEWWORLD_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the first civilization to reach a score of 1000 VP. You earn bonus VP for reaching China with an exploring Caravel and for returning Treasure units to your capital. Play as many times as you like trying each of the six civs: the map of America changes each time you start a new game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion" that may cause them to lose health each turn they end outside friendly lands. Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). Move these civilian units to your capital to earn gold and VP.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TURNSREMAINING">
+			<Text>Turns Left: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BRIEFING">
+			<Text>Briefing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_FUTURE_TECH">
+			<Text>Treasures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_WONDERS">
+			<Text>Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+			<Text>{1_Num} from Treasures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_WONDERS">
+			<Text>{1_Num} from Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MAY_NOT_ATTACK_MOD">
+			<Text>May not attack this player until you research the Piracy technology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_DESC">
+			<Text>
+			  In its most basic form, Imperialism describes an unequal relationship between one nation and another, where the former has some amount of control over the latter country - usually in the form of some kind of empire.  Imperialistic dynasties can be found in all the histories of the world, from China to Rome to Britain, and imperialism as a concept has existed for thousands of years, just about as long as governments in general.  The term "imperialism", however, wasn't coined until the 16th century, where it was used to describe the foreign policies and proceedings of nations like Spain, Britain, Belgium, and the Netherlands, as they swiftly built up imperial ties with the Americas.[NEWLINE][NEWLINE]While Imperialism is traditionally connected with the large, iconic, militaristic empire, it can be exhibited in a much more subtle manner.  Formal control of the weaker state's government isn't always necessary, and a stronger civilization will sometimes control a weaker one purely through indirect economic, political or religious means.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Imperialism is a paper tiger."[NEWLINE][TAB][TAB] - Mao Zedong[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_DESC">
+			<Text>
+			  Naval Tradition describes both a civilization's dedication to sea travel and a standing navy, as well as the individual traditions and customs employed by those navies.  Many island and ocean-side civilizations like Britain and Spain have long standing naval traditions, as the ocean played a major part of their economic and political development.  While some landlocked countries employed professional soldiers to keep the peace and wage wars, naval-minded civs kept flotillas and fleets of ships rather than land-bound armies, plying the waves for enemy vessels and pirates.[NEWLINE][NEWLINE]Many traditions born aboard the earliest navies are still followed by sailors today, and others have expanded beyond the confines of the ship to people on land. Some practices, like wearing bellbottom pants, using decorative sleeve buttons on jackets, or "minding your P's and Q's" all have their roots in naval traditions.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_HELP">
+			<Text>Rise of the NEWORLDs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Don't talk to me about naval tradition. It's nothing but rum, sodomy and the lash."[NEWLINE][TAB][TAB] - Winston Churchill[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_DESC">
+			<Text>
+			  Professional soldiers are a marked improvement over the rag tag, cobbled-together militias exhibited by most early civilizations.  These fulltime soldiers are better-equipped, better trained, and are all-in-all more effective than your average farmer with a leather jerkin and a pitchfork.  The Roman Empire created one of the world's first standing armies staffed with professional soldiers, who were a key part to their sweeping military victories. In Europe, some of the first professional soldiers were employed by Charles VII of France in 1445, and later by King James II of Britain in 1685.[NEWLINE][NEWLINE]Professional soldiers are a staple part of a modern civilization's army and defense system, and can be found employed in many of the world's developed countries.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Although a soldier by profession, I have never felt any sort of fondness for war, and I have never advocated it, except as a means of peace."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_DESC">
+			<Text>
+			  Raiding, pillaging, unspeakable violence at sea - a pirate's life is a good one.  Often romanticized by popular film and media, pirates are anything but the witty, wisecracking Captain Jack Sparrows and Pirate Kings entertaining the young masses. These naval criminals took cargo by force from other ships, raided seaside towns, and were a general menace to all forms of civilized society. Piracy has probably been around for as long as civilizations have ported goods and peoples across the seas - one of the earliest records of piracy dates back to the 13th century BC.[NEWLINE][NEWLINE]Some of the most famous piracy accounts are attributed to the European Vikings, who terrorized coastal villages and holdings, and the Caribbean pirates, who generally liked to seize Spanish treasure ships fat and heavy with gold.  This “classic” era of piracy is the one most commonly depicted in films and books, and lasted from about 1560 to 1720.  While this illustrious pirate with saber sword and jaunty hat is relegated now to the work of fiction, piracy is still found rampant in many waters, especially off the coast of the Arabian Peninsula.   Piracy however should not be confused or interchanged with the act of privateering, a form of naval raiding authorized by a legal government, usually for wartime benefit.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Privateer[ENDCOLOR] and allows European powers to declare war on each other.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The only rules that really matter are these: what a man can do and what a man can't do... I can let you drown, but I can't bring this ship into Tortuga all by me onesies, savvy? So, can you sail under the command of a pirate, or can you not?"[NEWLINE][TAB][TAB] - Captain Jack Sparrow[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_DESC">
+			<Text>
+			  While many ships are engineered to cross oceans quickly or take the greatest amount of cargo in the smallest possible space, warships were designed for one purpose alone - destroying other ships.  Besides obviously being armed with some form of weapon (traditionally things like cannon or rams), warships can also withstand more damage and are much more maneuverable than something like a merchant or passenger vessel.[NEWLINE][NEWLINE]As naval technologies have advanced, so has the warship.  Galleys and triremes were early forms of warships capable of ramming enemy vessels, but usually combat was performed by the army onboard.  However, once cannon became capable of quick reloads, large sail-driven ships were employed which held rows of cannon along each side of the craft. Eventually these wooden ships were given up for ones made of iron and steel, and sails were abandoned for steam and nuclear power. While modern warships bear little resemblance to the earliest galleys, they still keep to the same basic design principles - be capable of destroying the other guy first, before he can take out you.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Damn the torpedoes, Full speed ahead!"[NEWLINE][TAB][TAB] - Admiral David Glasgow Farragut[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_DESC">
+			<Text>
+			  Usually formed by an elite group of armed retainers, royal guards are the traditional military or ceremonial unit employed to protect royalty or important clergy.  Historically, these elite members have also served a dual political purpose, as their unique position would allow them to sway a given monarch's opinion or play a key part in any sort of coup or uprising.[NEWLINE][NEWLINE]Some regiments of royal guards have become celebrated and well-known outside of their given countries, such as Spain's Tropas de la Casa Real and the French Musketeers. France's Musketeers were technically only a junior unit of the French Royal Guard, beneath the Garde de Corpe who actually performed most of the bodyguard responsibilities.  But thanks in part to Alexandre Dumas' work, The Three Musketeers, they have become some of the most popular and recognizable royal guards of any civilization.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Musketeer[ENDCOLOR], an enhanced version of the standard Musketman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"This world is an uncertain realm, filled with danger. Honor underminded by the pursuit of power, freedom sacrificed when the weak are oppressed by the strong. But there are those who oppose these powerful forces, who dedicate their lives to truth, honor, and freedom. These men are known as Musketeers. Rise"[NEWLINE][TAB][TAB] - King Louis[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_DESC">
+			<Text>
+			  In many world religions, there exist special communities and organizations of devout individuals who live apart from the majority of society, usually to keep more perfectly in line with their specific religious beliefs.  These religious orders often take the physical form of monasteries, a building or complex where the pious can work and live.[NEWLINE][NEWLINE]While some religious orders were content to reside and pray in their native countries, some instead were founded for the sole purpose of expansion and spreading their beliefs to new peoples.  The Jesuit missionaries in the Americas were one such religious order. These Jesuits traveled across the Atlantic and set up monasteries and missions on the American soil, where they taught the local people the tenets of their faith and the basics of western education.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The Jesuits I know who have died and all their lives were great teachers, they're the least remembered people."[NEWLINE][TAB][TAB] - Daniel Berrigan[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_DESC">
+			<Text>
+			  Once the Spanish arrived in the Americas and began shipping their new finds and treasures back to Europe, they needed to develop a new, more efficient method of sailing in order to combat the increased pressure of pirate raids on their ships.  The Spanish Treasure Fleet was the answer - a special convoy system of ships which was strictly regulated in both docking and sailing practices.  Ships departing from the Americas along the Spanish Main were instructed to sail en masse along a specific sea lane, allowing them to be more easily protected by a smaller armed force.  These ships then only sailed to restricted, protected, port towns (like Seville), again lessening the risk of pirate raid.[NEWLINE][NEWLINE]The Treasure Fleet was employed by Spain from the 16th to 18th century with much success, and is still counted as one of the most profitable and effective naval operations in history. However, the loss of some important coastal cities along the Spanish Main in the 1700s began to threaten the continued existence of the fleet.  In a bid to combat this, King Charles III loosened the rigorous system in 1765, and gave more colonies access to the fleet in the 1780s.  However, the last full fleet sailed in 1790 and shipping between the two continents was relegated to smaller groups of ships on an as-needed basis.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_HELP">
+			<Text>Grants the [COLOR_POSITIVE_TEXT]Defensive Embarkation[ENDCOLOR] promotion to all land units, allowing them to defend against naval attacks. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Gold is a treasure, and he who possesses it does all he wishes to in this world, and succeeds in helping souls into paradise."[NEWLINE][TAB][TAB] - Christpher Columbus[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_TEXT">
+			<Text>The Treasure Unit encompasses the entirety of the Spanish Treasure Fleet system in the New World, from mine to destination. After gold or silver was excavated in various locations in the Americas, it was shipped along land by llama and mule, traveling well-documented routes to specific port towns along the Spanish Main.  From these ports, the treasure was then loaded onto galleons and merchant vessels, which traveled together in a massive convoy across the Atlantic Ocean. These ships followed a precise path each time they crossed the Atlantic to Spain, allowing themselves to be easily protected from pirates and thieves.  These treasure units helped make Spain the wealthiest civilization at the time, and were instrumental in the creation of one of the world’s most impressive naval operations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_TREASURE_STRATEGY">
+			<Text>A civilian unit unique to this scenario that represents a land mule train (or when embarked a treasure fleet) containing gold or silver from the New World.  Return it to your capital to earn gold and victory points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_SPANISH_EXPLORER">
+			<Text>Columbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_FRENCH_EXPLORER">
+			<Text>Verrazano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_ENGLISH_EXPLORER">
+			<Text>Cabot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_HELP">
+			<Text>Dominant military Unit of the Renaissance Era. This Unit has a high [ICON_STRENGTH] Combat Strength as well as the Bonus vs Mounted (100) promotion. May be built by any civ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_STRATEGY">
+			<Text>This Unit is stronger in combat than the Musketman and fights at double-strength against mounted units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_HELP">
+			<Text>Renaissance Era unit that specializes in scouting and colonizing overseas. May be built by any civ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_STRATEGY">
+			<Text>The Conquistador is a multi-purpose unit that is strong both on land and at sea. It is an exceptional scout on land with extra visibility and the ability to found new cities. In the water, the Conquistador has the defensive embarkation promotion that allows it to defend itself against naval units. It also suffers no penalty when attacking cities, unlike the Knight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_HELP_MAYAN_ATLATLIST">
+			<Text>Only the Maya may build this unit. It is cheaper and available sooner than the Archer, which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST_STRATEGY">
+			<Text>The Atlatlist is the Mayan unique unit, replacing the Archer. Atlatlists are both cheaper than a traditional Archer, and available earlier without having to research Archery. This early game advantage allows other research priorities to come into play.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYAN_ATLATLIST_TEXT">
+			<Text>The Atlatlists were super-specialized dart-throwers, employing a long, wooden, spear-like object to hurl their darts towards the intended target at a great speed.  This implement, called an atlatl, had a small cup on one end on which the dart would rest, and a channel cut down the length for it to travel down.  Using an atlatl, the Atlatlist could launch a dart over 300 feet and up to 60 miles an hour - a good deal farther and faster than a simple hand-thrown projectile. The Mayan Atlatlists would have been capable of devastating enemy lines from afar, provided they had a clear line of sight to the target.[NEWLINE][NEWLINE]Some of the earliest atlatls date back to roughly 400,000 years ago, used by the extinct Homo heidelbergensis.  Homo sapiens are thought to have used an early version of the atlatl starting in the Upper Paleolithic Era, about 15,500 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_HELP">
+			<Text> This Unit has a higher [ICON_STRENGTH] Combat Strength than the Musketman, making it the most powerful melee unit in the game. May be built by any civ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_STRATEGY">
+			<Text>The Musketeer is significantly more powerful than the Musketman, making it the most powerful foot soldier unit in the game</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_SPAIN_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the first civilization to reach a score of 1000 VP. You earn bonus VP for reaching China with an exploring Caravel and for returning Treasure units to your capital. Play as many times as you like trying each of the six civs: the map of America changes each time you start a new game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion" that may cause them to lose health each turn they end outside friendly lands. Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). Move these civilian units to your capital to earn gold and VP.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_ENGLAND_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the first civilization to reach a score of 1000 VP. You earn bonus VP for reaching China with an exploring Caravel and for returning Treasure units to your capital. Play as many times as you like trying each of the six civs: the map of America changes each time you start a new game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion" that may cause them to lose health each turn they end outside friendly lands. Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). Move these civilian units to your capital to earn gold and VP.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_FRANCE_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the first civilization to reach a score of 1000 VP. You earn bonus VP for reaching China with an exploring Caravel and for returning Treasure units to your capital. Play as many times as you like trying each of the six civs: the map of America changes each time you start a new game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion" that may cause them to lose health each turn they end outside friendly lands. Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). Move these civilian units to your capital to earn gold and VP.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_INCA_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the first civilization to reach a score of 1000 VP. You earn bonus VP for reaching China with an exploring Caravel and for returning Treasure units to your capital. Play as many times as you like trying each of the six civs: the map of America changes each time you start a new game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion" that may cause them to lose health each turn they end outside friendly lands. Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). Move these civilian units to your capital to earn gold and VP.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_AZTECS_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the first civilization to reach a score of 1000 VP. You earn bonus VP for reaching China with an exploring Caravel and for returning Treasure units to your capital. Play as many times as you like trying each of the six civs: the map of America changes each time you start a new game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion" that may cause them to lose health each turn they end outside friendly lands. Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). Move these civilian units to your capital to earn gold and VP.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_IROQUOIS_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the first civilization to reach a score of 1000 VP. You earn bonus VP for reaching China with an exploring Caravel and for returning Treasure units to your capital. Play as many times as you like trying each of the six civs: the map of America changes each time you start a new game.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion" that may cause them to lose health each turn they end outside friendly lands. Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). Move these civilian units to your capital to earn gold and VP.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>Welcome. I am Francis I, a great patron of Renaissance art!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>Welcome, Stranger! I am Francis I, King of France! I am loyal to my friends, death to my enemies. Which will you be?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>Ah. We meet at last. I am Francis I, King of France. Come: let us discuss the division of the lands over the sea between our two great nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>Greetings. I am Francis I, Valois King of France. Care to see my latest chateau?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_SUBTITLE">
+			<Text>King of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_LIVED">
+			<Text>1494 - 1547 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_1">
+			<Text>Francis I was King of France from 1515 until 1547, during which time he helped form the Franco-Ottoman alliance with Suleiman I. The Holy Roman Emperor Charles V was Francis’s greatest nemesis and would be the target of several military campaigns. At the Battle of Pavia in 1525, Francis would be captured by Charles and held captive for over a year until turning over his two sons, Henry and Francis, in exchange for his freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+			<Text>Native Allies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCURVY">
+			<Text>Scurvy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCURVY_HELP">
+			<Text>65% Chance Takes 1 Damage If Ends Turn Outside Friendly Territory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SCURVY">
+			<Text>Loses Health outside Friendly Lands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MISC_YOU_UNIT_WAS_DESTROYED_ATTRITION">
+			<Text>Your {@1_UnitName} was destroyed by scurvy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MISC_YOU_UNIT_WAS_DAMAGED_ATTRITION">
+			<Text>Scurvy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_CIRCUMNAVIGATION">
+			<Text>{@1_UnitName} has reached China!  For this first feat of circumnavigation you receive {3_VPAmount} Victory Points. Two more Great Admirals can earn rewards for sailing to China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_SECOND_CIRCUMNAVIGATION">
+			<Text>{@1_UnitName} has reached China!  For this second feat of circumnavigation you receive {3_VPAmount} Victory Points. One more Great Admiral can earn rewards for sailing to China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_THIRD_CIRCUMNAVIGATION">
+			<Text>{@1_UnitName} has reached China!  For this third feat of circumnavigation you receive {3_VPAmount} Victory Points. No additional awards will be given for sailing to China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_OTHER_CIRCUMNAVIGATION">
+			<Text>An explorer from {@1_PlyrName} has reached China.  {2_Num} more Great Admiral(s) can receive victory points for sailing to China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_FOUND">
+			<Text>Treasure Found</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RAZED_CITY">
+			<Text>A treasure has been generated from the razing of {@1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_CAPTURED_CITY">
+			<Text>3 treasures have been generated from the capture of {@1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_NATURAL_WONDER">
+			<Text>A treasure has been found near {@1_NWName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RETURNED_SHORT">
+			<Text>Treasure Returned</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RETURNED">
+			<Text>A treasure has been returned to {@1_CityName}, earning you {2_GoldAmount} [ICON_GOLD] Gold and {3_VPAmount} Victory Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_RESCH_AGREEMENT_NO_TECH">
+			<Text>Trading of research agreements is not allowed in this scenario.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ABLTY_DECLARE_WAR_ALL">
+			<Text>Allows declarations of war against any power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TRAPPING_HELP">
+			<Text>Allows your Workers to construct [COLOR_POSITIVE_TEXT]Camps[ENDCOLOR] on sources of [ICON_RES_DEER] Deer, [ICON_RES_IVORY] Ivory and [ICON_RES_FUR] Fur.[ENDCOLOR], which increases the [ICON_GOLD] Gold output of map tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MATHEMATICS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Catapult[ENDCOLOR], a powerful siege weapon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVIGATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Navigation School[ENDCOLOR], a building which eliminates scurvy from units at sea.  Also allows coastal cities to build the [COLOR_POSITIVE_TEXT]Seaport[ENDCOLOR], which provides [ICON_PRODUCTION] Production from sea resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_HELP">
+			<Text>[ICON_CULTURE] Culture cost of acquiring new tiles reduced by 75% in this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INUIT_TEXT">
+			<Text>The Inuits are indigenous people inhabiting the Arctic regions of Greenland and North America.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SEMINOLE_TEXT">
+			<Text>The Seminoles are some of the indigenous people of Florida, and are closely related to the Muscogee (both are Creek peoples).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_LAKOTA_TEXT">
+			<Text>The Lakotas are a group of indigenous inhabitants of the North American plains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CARIB_TEXT">
+			<Text>The Caribs are some of the indigenous people of the West Indies. They fought some of the earliest wars against the Spanish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CHEROKEE_TEXT">
+			<Text>The Cherokee are a group of indigenous inhabitants of the southeastern Unites States. They are closely related to the Iroquois, so it is thought they migrated south from the Great Lakes in prehistoric times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ALGONQUIN_TEXT">
+			<Text>The Algonquin are a group of indigenous inhabitants of Quebec. They became archrivals of the Iroquois with whom they competed in the fur trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_HURON_TEXT">
+			<Text>The Hurons are some of the indigenous people of Canada, primarily living on the north shore of Lake Ontario at the time of European contact.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MUSCOGEE_TEXT">
+			<Text>The Muscogee are some of the indigenous people of the southeastern United States and descended from the Mississippian culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_WABANAKI_TEXT">
+			<Text>The Wabanaki are the "people of the dawn" -- indigenous people of the maritime provinces of eastern Canada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAPUCHE_TEXT">
+			<Text>The Mapuche are some of the indigenous people of Chile and Argentina. They were referred to as Araucanians by the Spanish colonists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ARAWAK_TEXT">
+			<Text>The Arawaks are a group of indigenous inhabitants of the West Indies. They were the first natives encountered by Christopher Columbus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT">
+			<Text>The Maya are indigenous inhabitants of the Yucatan peninsula.  They were a civilization skilled in mathematics and astronomy and builders of elaborate carved stone pyramids.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_YANOMAMI_TEXT">
+			<Text>The Yanomami are an indigenous tribe of the Amazon basin. They are a stone age culture that had no known contact with Europeans until 1929.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MUISCA_TEXT">
+			<Text>The Muisca are a group of indigenous inhabitants of the central highlands of Colombia. They first had contact with the Spanish in 1537 and are a likely source of the legend of El Dorado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_HOPI_TEXT">
+			<Text>The Hopi are some of the indigenous people of the southwestern United States. They were the first encountered by Coronado's expedition in 1540.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANASAZI_TEXT">
+			<Text>The Anasazi are an ancient indigenous culture, forerunners of the modern Puebloan peoples. The Anasazi are known for having build the Mesa Verde cliff dwellings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD_SHORT">
+			<Text>Great Andean Road</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD">
+			<Text>Units ignore terrain costs when moving into any tile with Hills. No maintenance costs for improvements in Hills; half cost elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_INCA_TITLE">
+			<Text>Inca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES_SHORT">
+			<Text>Seven Cities of Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES">
+			<Text>[ICON_GOLD] Gold bonus for discovering a Natural Wonder (bonus enhanced if first to discover it). [ICON_CULTURE] Culture, [ICON_HAPPINESS_1] Happiness, and tile yields from Natural Wonders doubled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_SPAIN_TITLE">
+			<Text>Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_TITLE">
+			<Text>Conquest of the New World Deluxe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_DESC">
+			<Text>Sail west looking for a passage to the Orient, or play as a Native American civilization facing an unexpected threat from the sea. Based on the original Conquest of the New World scenario, experience the New World like never before.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_CIV5_NEWWORLD_BRIEFING_TEXT">
+			<Text>
+			  VICTORY CONDITIONS[NEWLINE]Victory goes to the highest score after 150 turns. And powers can earn bonus VP for reaching China with an exploring Great Admiral.[NEWLINE][NEWLINE]Americans earn 1 victory point for every 2 [ICON_PEACE] Faith from:[NEWLINE][ICON_BULLET]Faith earned at the start of the turn[NEWLINE][ICON_BULLET]Faith earned from combat kills[NEWLINE][ICON_BULLET]Faith earned by the Shoshone pathfinder[NEWLINE][NEWLINE]Europeans earn 1 victory point for every 12 [ICON_GOLD] Gold from:[NEWLINE][ICON_BULLET]Total Gold Income at the start of the turn[NEWLINE][ICON_BULLET]Gold earned from combat kills[NEWLINE][ICON_BULLET]Gold from Treasures returned to the capital[NEWLINE][ICON_BULLET]Gold from Trade Missions[NEWLINE][ICON_BULLET]Gold from reaching China with a Nau.[NEWLINE][ICON_BULLET]Gold from Spain's Unique Ability[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Units at sea are afflicted with Scurvy, a "promotion". Build the Navigation School national wonder to combat this malady. European powers may not declare war on one another until one of them researches the Piracy technology. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders (if they exist on this map). All cities can be [ICON_RAZING] razed except those in Europe and the last city of an American civ. All naval units have a -1 Sight penalty except Great Admirals (who have +2 Sight). Points toward Great Admiral generation are received automatically each turn and through feats of exploration. Information on both European and American religions can be found by mousing over the Faith information on the info bar at the top of the screen.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_CIV5_DAWN_AMERICAN_NEWWORLD_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of Europe come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the highest score after 150 turns. You earn bonus VP for reaching China with an exploring Great Admiral. Americans earn victory points for [ICON_PEACE] Faith and Europeans for [ICON_GOLD] Gold. Play as many times as you like trying each of the ten civs: the map of America changes each time.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders. All cities can be [ICON_RAZING] razed except those in Europe and the last city of an American civ. American civilization each get to found a minor religion on the first turn after they settle their capital. These minor religions consist of a single (powerful) Pantheon Belief and are spread to each new city founded. See the BRIEFING screen for full details on special rules.
+		  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_CIV5_DAWN_NEWWORLDLOAD_TEXT">
+			<Text>
+			  SCENARIO DESCRIPTION[NEWLINE]The year is 1492. To the courts of Europe come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Victory goes to the highest score after 150 turns. You earn bonus VP for reaching China with an exploring Great Admiral. Americans earn victory points for [ICON_PEACE] Faith and Europeans for [ICON_GOLD] Gold. Play as many times as you like trying each of the ten civs: the map of America changes each time.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]European powers may not declare war on one another until one of them researches Piracy. Treasure units are created when cities are razed or from the El Dorado and Potosi natural wonders. Units at sea are afflicted with Scurvy, a "promotion" build the Navigation School national wonder to combat this malady. European civs want to spread their religion to the New World. See the BRIEFING screen for full details on special rules.
+		  </Text>
+		</Row>
+		<!-- Diplo String-->
+		<Row Tag="TXT_KEY_SPECIFIC_DIPLO_STRING_1">
+			<Text>[COLOR_NEGATIVE_TEXT]Your lands belong to me.[ENDCOLOR]</Text>
+		</Row>
+		<!-- Eras-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_0">
+			<Text>Archaic Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_1">
+			<Text>Formative Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_2">
+			<Text>Woodland Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_3">
+			<Text>Classical Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_4">
+			<Text>Late Horizon Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_5">
+			<Text>Exploration Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_6">
+			<Text>Enlightenment Era</Text>
+		</Row>
+		<!-- Follower Beliefs-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TP_RELIGION_TOOLTIP">
+			<Text>Each European civilization starts the scenario as either a Catholic or Protestant nation. Even if the Holy City is not inside their borders, European nations get Founder Belief bonuses for spreading their form of Christianity to as many cities as possible. These Christian powers can build Missionaries and Inquisitors with Faith.[NEWLINE][NEWLINE]American civilization each get to found a minor religion on the first turn after they settle their capital. These minor religions consist of a single (powerful) Pantheon Belief and are spread to each new city founded. They can each buy their Unique Unit and Colosseums with Faith. However Missionaries and Inquisitors are never available.[NEWLINE][NEWLINE]Great Prophets and religious pressure are not active in this scenario. Religion only spreads through Missionary activity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RO_STATUS_CAN_CREATE_PANTHEON">
+			<Text>Can create minor religion one turn after settling capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_AUTO_FAITH_PURCHASE_DISABLED">
+			<Text>[COLOR_NEGATIVE_TEXT]Disabled for short scenario.[ENDCOLOR]</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_SUBTITLE">
+			<Text>Queen of Portugal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_LIVED">
+			<Text>1507- 1578 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_1">
+			<Text>An infanta of Castile, Catherine was the daughter of Joanna of Castile and Philip of Habsburg. At the age of 18 she was married to her first cousin John III of Portugal in 1525 AD, eventually bearing him nine children, two of which survived to majority. With John's death in 1557, she became regent for the heir, her grandson Sebastian. In 1562 she surrendered the regency to her brother-in-law Cardinal Henry, John's younger brother. As queen and later regent, Catherine had advocated Portugal's expansion in Brazil, as well as colonial ventures in Africa. She died at the age of 71 in February 1578, just months before King Sebastian's own demise in Morocco.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_1">
+			<Text>I am Catherine, Queen and Regent of Portugal. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_3">
+			<Text>I am Catherine, do you marriage proposal for our children?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_HAPPY">
+			<Text>How do you expect me to grow my colonial empire with such generosity?</Text>
+		</Row>
+		<!-- Pantheons-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CHOOSE_BELIEF_1">
+			<Text>Choose First Belief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CHOOSE_BELIEF_2">
+			<Text>Choose Second Belief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MAYA_PANTHEON_PARTIAL">
+			<Text>First Belief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MAYA_PANTHEON_CONFIRM">
+			<Text>Are you sure you want to adopt these beliefs?</Text>
+		</Row>
+		<!-- Policies-->
+		<Row Tag="TXT_KEY_POLICY_AMERICAN">
+			<Text>American</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AMERICAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]American[ENDCOLOR][NEWLINE]May build World Wonders. +1 [ICON_HAPPINESS_1] Happiness from every Temple.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ARISTOCRACY_NWS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Aristocracy[ENDCOLOR][NEWLINE]+15% [ICON_PRODUCTION] Production when building Wonders and +1 [ICON_PEACE] Faith from every Workshop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM">
+			<Text>Barter System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Barter System[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold from every Trading Post and Brazilwood Camp. +2 [ICON_HAPPINESS_1] Happiness from each Luxury resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_TEXT">
+			<Text>A barter system with a reciprocal exchange of goods or services prevailed in the New World, among the natives, between the natives and the European settlers, and between the colonists themselves. Until the first coins minted in the New World - copper maravedi in Santo Domingo in 1502 AD - barter was the basis of the Americas' economy. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CITIZENSHIP_NWS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Citizenship[ENDCOLOR][NEWLINE][ICON_GOLD] Gold cost of purchasing buildings reduced by 33%. +1 [ICON_PEACE] Faith from each building that requires an improved resource. (Chocolate House, Circus, Forge, Mint, and Stone Works)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CITY_SACK">
+			<Text>City Sack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CITY_SACK_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]City Sack[ENDCOLOR][NEWLINE]+33% [ICON_STRENGTH] Combat Strength when attacking cities and Treasure unit's movement is +1. (Units recieve the City Sack Promotion and all Treasure units start with the 1 Extra Movement promotion)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CITY_SACK_TEXT">
+			<Text>The sack of captured cities in the New World was conducted as a matter of policy by European invaders to break native morale, or occasionally simply for loot. An example of the former would be Gonzalo Pizzaro's sack of the new Incan capital of Vilcabamba in 1539 AD; of the latter, buccaneer Henry Morgan's sack of Panama City in 1671.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONQUEST">
+			<Text>Conquest of the New World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONQUEST_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Conquest of the New World[ENDCOLOR][NEWLINE]Receive a +25% attack bonus to all Military Units for the first 50 turns after this policy is chosen. Receives double [ICON_GOLD] Gold from Treasures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONQUEST_TEXT">
+			<Text>The period of exploration of the New World was followed by a period of conquest and state-sponsored colonization as the European powers sought to increase their power and wealth. Within 200 years of Columbus' voyage, Spain, Portugal, France, England, even the Netherlands and Sweden had joined the race to claim the vast territories of the Americas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONVOY_SYSTEM">
+			<Text>Convoy System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONVOY_SYSTEM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Convoy System[ENDCOLOR][NEWLINE]+6 [ICON_GOLD] Gold from all your sea trade routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONVOY_SYSTEM_TEXT">
+			<Text>Although convoys had been used since the 9th Century AD during times of war to protect troop transports and invasions, the increasing audacity of pirates and privateers in the Caribbean led the Spanish merchants and eventually the crown to institute a convoy system to guard the wealth being brought back to Europe from the New World. Some of the Spanish and Portuguese convoys might contain several hundred merchants, such as the Spanish bullion convoys that sailed from the 1520s until 1790.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_NWS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Collective Rule[ENDCOLOR][NEWLINE]Speeds the training of [COLOR_POSITIVE_TEXT]Settlers[ENDCOLOR] by 50% in the [ICON_CAPITAL] Capital and a free Settler appears near the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID">
+			<Text>Double Pyramid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Double Pyramid[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith from Shrines and Temples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_TEXT">
+			<Text>At the height of their empire's extent, the Aztecs constructed a number of double pyramids, which consisted of a massive pyramidal platform with a double stairway leading to twin temples, in some cases themselves pyramids. The earliest example yet discovered is that at Tenayuca, which was already built when the Aztecs conquered the town around 1434 AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_NWS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Entrepreneurship[ENDCOLOR][NEWLINE]A Great Merchant appears. Great Merchants are earned 100% faster. +2 [ICON_GOLD] for each Bank. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_EUROPEAN">
+			<Text>European</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_EUROPEAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]European[ENDCOLOR][NEWLINE]+50 [ICON_PEACE] Faith each turn your [ICON_CAPITAL] Capital is has its original religion. (England, France, and the Netherlands are Protestant; Portugal and Spain are Catholic).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS">
+			<Text>Horsemen of the Plains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Horsemen of the Plains[ENDCOLOR][NEWLINE]6 units are maintenance free. Receive 6 Comanche Riders (strong cavalry units who can defend against Missionaries) immediately.+8 [ICON_PEACE] Faith in the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS_TEXT">
+			<Text>Until Columbus imported horses to the West Indies on his second voyage in 1493 AD, there were no equines surviving in the Americas. Descended from stock abandoned by conquistadors, various breeds spread quickly across the North American plains, where the heretofore primitive nomads quickly made the horse the mainstay of their society and culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_NWS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Merchant Confederacy[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] Gold for trade routes with City States. Gain 4 more [ICON_INFLUENCE] Influence per turn (at Standard speed) with City-States you have a trade route with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_OVERSEAS_EMPIRE">
+			<Text>Overseas Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_OVERSEAS_EMPIRE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Overseas Empire[ENDCOLOR][NEWLINE]A Great Admiral. +2 [ICON_MOVES] Movement and +1 Sight for all Great Admirals. Great Admirals are earned 50% faster. +2 [ICON_MOVES] Movement for Naval Units. New Cities start with an extra 3 [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_OVERSEAS_EMPIRE_TEXT">
+			<Text>The motivation for overseas holdings was the result of a range of factors – limited economic growth, religious fervor, overpopulation, cultural stagnation, unbreakable military balance, among others – that spurred the European powers to seek to establish colonial empires. Already spanning the globe, from the Orient to Africa, the European monarchs saw the Americas as offering seemingly limitless opportunities to expand those empires.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PORTS_OF_CALL">
+			<Text>Ports of Call</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PORTS_OF_CALL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Ports of Call[ENDCOLOR][NEWLINE]Provides a Harbor in all cities and +2 [ICON_GOLD] Gold in all coastal Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PORTS_OF_CALL_TEXT">
+			<Text>A port of call is an intermediary stop on a ship's trade route where it can take on provisions and water and transfer cargo and passengers. Colonial ports such as San Juan and Santo Domingo in the Caribbean, St. Augustine and Philadelphia in North America, and Rio de Janeiro and Buenos Aires were instrumental in securing the New World for the Europeans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PUKARA">
+			<Text>Pukara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PUKARA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Pukara[ENDCOLOR][NEWLINE]+1 Local [ICON_HAPPINESS_1] Happiness, +1 [ICON_GOLD] Gold, and +1 [ICON_PEACE] Faith from Walls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PUKARA_TEXT">
+			<Text>A style of fortification, built of unmortised stone usually on steep hillsides, common to the native cultures of the central Andes: the Wari, the Tiwanaku, and later the Inca. The Inca often used these fortifications as administrative centers as well, such as Puka Pukara, the "red fortress" which guarded one of the approaches to Cuzco.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS">
+			<Text>Pyramid of the Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Pyramid of the Gods[ENDCOLOR][NEWLINE]+6 [ICON_PEACE] Faith from each World Wonder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_TEXT">
+			<Text>Mesoamerican step pyramids - more similar to Mesopotamian ziggurats than to smooth-sided pyramids - were the dominant architectural form for most religious structures in the Olmec, Aztec, Mayan, Zapotec, Tarascan and other societies. Often with elaborate symbolic carvings, reliefs, murals and mosaics, the largest of these (such as the Great Pyramid of Cholula) were enduring symbols of the power of these theocratic states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_RANSOM">
+			<Text>Ransom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_RANSOM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Ransom[ENDCOLOR][NEWLINE]Gain [ICON_GOLD] Gold for each enemy killed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_RANSOM_TEXT">
+			<Text>Following a continental tradition dating back to ancient times, the European adventurers took the leaders of native tribes prisoner and held them for ransom, often in the name of their own king. In 1532 AD, for instance, Francisco Pizzaro was awarded a ransom the modern equivalent of $2 billion by the Inca to have their prince Atahualpa freed (although Pizzaro reneged and had the prince executed).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SACRED_LAND">
+			<Text>Sacred Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SACRED_LAND_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Sacred Land[ENDCOLOR][NEWLINE]If you founded a minor religion, gain a bonus Reformation belief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SACRED_LAND_TEXT">
+			<Text>Many native North American religions are animistic, in that spiritual essences are embodied by natural physical objects - animals, plants, weather phenomena, and even certain places. For many tribes, from the Haudenausaunee (Iroquois) to the Lakota Sioux, protecting their sacred lands - such as the Cohoes Falls or Black Hills or Mount Shasta - was a matter of faith as well as tribal policy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TEMPLE_OF_THE_GODS">
+			<Text>Temple of the Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TEMPLE_OF_THE_GODS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Temple of the Gods[ENDCOLOR][NEWLINE]Build Temples in half the usual time. Temples increase a city's [ICON_GOLD] Gold output by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TEMPLE_OF_THE_GODS_TEXT">
+			<Text>Many of the early Mesoamerican kingdoms were animistic theocracies, and the "national" temple was as important as the palace in the capital. The oldest of these "temples of the gods" date to the PreClassic Era (roughly 1800 BC to 200 AD), many of these taking the form of pyramids dedicated to jaguar or serpent deities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIFIED_NATION">
+			<Text>Unified Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIFIED_NATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Unified Nation[ENDCOLOR][NEWLINE]+1 Local [ICON_HAPPINESS_1] Happiness and +1 [ICON_PEACE] Faith from every National Wonder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIFIED_NATION_TEXT">
+			<Text>As among other native peoples, in several places disparate tribes with a common cultural and/or linguistic heritage banded together into a single "nation," such as the Oneida, Cherokee and Navaho. Often the impetus for the unification of long-time enemies was the arrival of Europeans, for some native leaders recognized the threat these newcomers posed to the tribes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_EUROPEAN">
+			<Text>European</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_AMERICAN">
+			<Text>American</Text>
+		</Row>
+		<!-- Pop ups-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_NAU_CHINA">
+			<Text>Your Nau has reached China! You have received {1_GoldAmount} [ICON_GOLD] Gold and your Nau has now retired.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUROPEAN_CITYSTATE_FOUND">
+			<Text>You have earned {1_AdmiralPoints} Great Admiral Points for finding a City State. Use them to discover China or perform a "trade mission".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUROPEAN_MAJOR_CIV_FOUND">
+			<Text>You have earned {1_AdmiralPoints} Great Admiral Points for finding another Civilization. Use them to discover China or perform a "trade mission".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUROPEAN_NATURAL_WONDER_FOUNDFIRST">
+			<Text>You have earned {1_AdmiralPoints} Great Admiral Points for discovering a Natural Wonder before all other Europeans. Use them to discover China or perform a "trade mission".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOSHONE_NATURAL_WONDER_FOUNDFIRST">
+			<Text>You have earned {1_FaithPoints} [ICON_PEACE] Faith for discovering a Natural Wonder first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHOSHONE_NATURAL_WONDER_FOUNDLATER">
+			<Text>Your Pathfinder has earned you {1_FaithPoints} [ICON_PEACE] Faith for discovering a Natural Wonder after someone else</Text>
+		</Row>
+		<!-- Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_STATUE_ZEUS">
+			<Text>City Sack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_STATUE_ZEUS_HELP">
+			<Text>+33% [ICON_STRENGTH] Combat Strength when attacking cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_EMBARKATION_HELP">
+			<Text>Can embark onto [COLOR_POSITIVE_TEXT]Water Tiles[ENDCOLOR]. 10% Chance this unit takes 10 damage from [COLOR_NEGATIVE_TEXT]Scurvy[ENDCOLOR] each time it moves onto a neutral or enemy water tile (unless the Navigation School has been built).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENEMY_BLADE">
+			<Text>Trickster's Weapon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL_NWS_HELP">
+			<Text>+2 [ICON_MOVES] Movement and +1 Sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_NATIVE_TONGUE_HELP">
+			<Text>Receives [ICON_PEACE] Faith when a Natural Wonder is Discovered. (More if the first to discover it, but none if one of your other units with this promotion has already discovered it)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_NWS_HELP">
+			<Text>+2 [ICON_MOVES] Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OBSIDIAN_TIP">
+			<Text>Obsidian Tip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_SELL_EXOTIC_GOODS_HELP">
+			<Text>[ICON_GOLD] Gold for reaching China, but the unit disappears.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX">
+			<Text>Smallpox</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX5_HELP">
+			<Text>+5% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX10_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX15_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX20_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+		</Row>
+		<!-- Score -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO1">
+			<Text>Discovering China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_SCENARIO1">
+			<Text>{1_Num} for Discovering China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO2">
+			<Text>Faith Earned</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_SCENARIO2">
+			<Text>{1_Num} for Faith Earned</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO3">
+			<Text>Gold Earned</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_SCENARIO3">
+			<Text>{1_Num} for Gold Earned</Text>
+		</Row>
+		<!-- Title-->
+		<Row Tag="TXT_KEY_AMERICAN_TITLE">
+			<Text>Chief {1_PlayerName:textkey} of {2_CivName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUROPEAN_TITLE">
+			<Text>{@1: gender feminine?Queen; other?King;} {1_PlayerName:textkey} of {2_CivName:textkey}</Text>
+		</Row>
+		<!-- Traits-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_OCEAN_MOVEMENT">
+			<Text>+2 [ICON_MOVES] Movement for all naval units. [ICON_GOLDEN_AGE] Golden Ages last 50% longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LUXURY_RETENTION">
+			<Text>50% more trade routes available. (Round down)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LUXURY_RETENTION_SHORT">
+			<Text>Dutch West India Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LONG_COUNT_SHORT">
+			<Text>Hero Twins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LONG_COUNT">
+			<Text>Receive a second Pantheon Belief when forming their minor religion at the start of the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_KILLS">
+			<Text>Gains [ICON_PEACE] Faith from each enemy unit killed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_IGNORE_TERRAIN_IN_FOREST">
+			<Text>Treat Forest and Jungle as Roads (Movement bonus only in friendly territory). +1 [ICON_PEACE] Faith per city with an adjacent unimproved Forest. Bonus increases to +2 [ICON_PEACE] Faith in Cities with 3 or more adjacent unimproved Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PROMOTION_WITHDRAW_BEFORE_MELEE">
+			<Text>Withdraw Before Melee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BELIEF_MONASTERIES">
+			<Text>Use [ICON_PEACE] Faith to purchase Monasteries (+3 [ICON_PEACE] Faith, +2 [ICON_CULTURE] Culture, more with [ICON_RES_WINE] Wine or [ICON_RES_INCENSE] Incense)</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

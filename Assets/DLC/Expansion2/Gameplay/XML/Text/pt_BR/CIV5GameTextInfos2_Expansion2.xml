@@ -593,7 +593,7 @@
 			<Text>Rotas comerciais terrestres originárias desta cidade possuem um aumento de 50% no alcance e produzem um adicional de 2 de [ICON_GOLD]Ouro quando conectadas a outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_HELP">
-			<Text>Substituto Polonês único para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de XP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
+			<Text>Substituto Polonês exclusivo para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de XP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
 			<Text>Cada fonte de [ICON_RES_WHEAT]Trigo, [ICON_RES_BANANA]Bananas e [ICON_RES_DEER]Cervos explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]Permite que [ICON_FOOD]Alimento seja movido desta cidade para outros locais de sua civilização, via rotas comerciais.</Text>
