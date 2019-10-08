@@ -14,7 +14,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_CIV_BABYLON_SHORT_DESC">
 			<Text>Babilônia</Text>
-			<Gender>feminine:noart</Gender>
+			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>

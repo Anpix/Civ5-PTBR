@@ -3,7 +3,7 @@
     <Language_pt_BR>
         <Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
             <Text>Etíope|Etíopes</Text>
-            <Gender>neuter|neuter</Gender>
+            <Gender>neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ETHIOPIA_DESC">

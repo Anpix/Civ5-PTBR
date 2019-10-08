@@ -93,14 +93,14 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE">
-            <Text>Shoshone|Shoshone|Shoshones|Shoshones</Text>
+            <Text>Shoshone|Shoshones</Text>
             <Gender>neuter</Gender>
-            <Plurality>1|1|2|2</Plurality>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SHOSHONE_DESC">
-            <Text>Shoshones</Text>
+            <Text>Tribo Shoshone</Text>
             <Gender>masculine</Gender>
-            <Plurality>2</Plurality>
+            <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC">
             <Text>Shoshones</Text>
@@ -123,12 +123,12 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ZULU_ADJECTIVE">
-            <Text>Zulu|Zulu|Zulus|Zulus</Text>
+            <Text>Zulu|Zulus</Text>
             <Gender>neuter</Gender>
-            <Plurality>1|1|2|2</Plurality>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ZULU_DESC">
-            <Text>Reino dos Zulus</Text>
+            <Text>Reino Zulu</Text>
             <Gender>masculine</Gender>
             <Plurality>1</Plurality>
         </Row>

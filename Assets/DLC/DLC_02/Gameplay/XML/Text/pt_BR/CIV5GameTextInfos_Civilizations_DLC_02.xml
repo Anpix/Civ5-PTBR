@@ -3,34 +3,34 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CIV_INCA_ADJECTIVE">
-			<Text>Inca|Inca|Incas|Incas</Text>
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Text>Inca|Incas</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_INCA_DESC">
 			<Text>Império Inca</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_INCA_SHORT_DESC">
 			<Text>Incas</Text>
-			<Gender>masculine</Gender>			
+			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_SPAIN_ADJECTIVE">
 			<Text>Espanhol|Espanhola|Espanhóis|Espanholas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_SPAIN_DESC">
 			<Text>Império Espanhol</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_SPAIN_SHORT_DESC">
 			<Text>Espanha</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>
