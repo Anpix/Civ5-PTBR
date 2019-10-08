@@ -1891,7 +1891,7 @@
 			<Text>{TXT_KEY_BUILDING_STABLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STABLE_TEXT">
-			<Text>Em Civilization V, um estábulo é um quartel militar para unidades de cavalaria. Aqui, os soldados da cavalaria vivem, se alimentam e são treinados, assim como suas montarias. Durante grande parte da história, a cavalaria era favoritismo pelos filhos ricos da sociedade, já que só os jovens mais ricos montavam a cavalo. Por causa disso, estes estábulos eram geralmente mais luxuosos do que as pobres habitações da infantaria.</Text>
+			<Text>No Civilization V, um {TXT_KEY_BUILDING_STABLE} é um quartel militar para unidades de cavalaria. Aqui os soldados da cavalaria são alojados, alimentados e treinados, assim como suas montarias. Durante a maior parte da história, a cavalaria tem sido a arma preferida dos filhos ricos de uma sociedade, pela simples razão de que apenas os jovens mais ricos já terem cavalgado. Por causa disso, os {TXT_KEY_BUILDING_STABLE[2]} e quartéis de cavalaria eram frequentemente muito mais luxuosos do que as habitações da pobre infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STADIUM_HEADING">
 			<Text>Estádio</Text>
