@@ -6541,7 +6541,7 @@
 			<Text>{TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} (Songai)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MUSLIMCAVALRY_TEXT">
-			<Text>Como seus equivalentes do Norte, os exércitos Muçulmanos também continham unidades de cavalaria pesada, semelhante em forma e função aos {TXT_KEY_UNIT_KNIGHT} Europeus. Como os Europeus, os cavaleiros Muçulmanos também eram da parte mais alta da sociedade, possuindo as melhores armas, armaduras e cavalos. A armadura podia ser modificada para refletir as diferenças no clima - mesmo o mais nobre cavaleiro seria rapidamente assado, se vestisse a armadura em um verão do Oriente Médio - mas ainda assim dava-lhes uma grande vantagem sobre as outras unidades no campo de batalha. Relatos históricos admitem que cavaleiros Muçulmanos eram geralmente páreos para os seus adversários Europeus.</Text>
+			<Text>Como seus equivalentes do Norte, os exércitos Muçulmanos também continham unidades de cavalaria pesada, semelhante em forma e função aos {TXT_KEY_UNIT_KNIGHT[2]} Europeus. Como os Europeus, os cavaleiros Muçulmanos também eram da parte mais alta da sociedade, possuindo as melhores armas, armaduras e cavalos. A armadura podia ser modificada para refletir as diferenças no clima - mesmo o mais nobre cavaleiro seria rapidamente assado, se vestisse a armadura em um verão do Oriente Médio - mas ainda assim dava-lhes uma grande vantagem sobre as outras unidades no campo de batalha. Relatos históricos admitem que cavaleiros Muçulmanos eram geralmente páreos para os seus adversários Europeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_PIKEMAN_HEADING">
 			<Text>{TXT_KEY_UNIT_PIKEMAN}</Text>
@@ -10678,7 +10678,7 @@
 			<Text>Esta é a unidade siamesa exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. O {TXT_KEY_UNIT_SIAMESE_WARELEPHANT} é mais lento que o {TXT_KEY_UNIT_KNIGHT} mais é mais poderoso. Assim como o {TXT_KEY_UNIT_KNIGHT}, é capaz de se mover após atacar. Equipado com lanças, o {TXT_KEY_UNIT_SIAMESE_WARELEPHANT} ganha um bônus de combate significativo quando ataca outras unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>Esta é a unidade songai exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. Possui as mesmas características do {TXT_KEY_UNIT_KNIGHT}, mas ganha um significativo bônus quando ataca cidades. A {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover após atacar. Sua velocidade o torna uma unidade difícil para que o inimigo possa construir uma linha defensiva antes que ele alcance ao alvo.</Text>
+			<Text>Esta é a unidade Songai exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. Possui as mesmas características do {TXT_KEY_UNIT_KNIGHT}, mas ganha um significativo bônus quando ataca cidades. A {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover após atacar. Sua velocidade o torna uma unidade difícil para que o inimigo possa construir uma linha defensiva antes que ele alcance ao alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPEARMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_SPEARMAN} é a primeira unidade de ataque à distância disponível depois do Guerreiro. Ela é um pouco mais poderosa que o Guerreiro, entretanto, recebe um bônus significativo contra unidades montadas ({TXT_KEY_UNIT_CHARIOT_ARCHER}, {TXT_KEY_UNIT_HORSEMAN} e similares).</Text>

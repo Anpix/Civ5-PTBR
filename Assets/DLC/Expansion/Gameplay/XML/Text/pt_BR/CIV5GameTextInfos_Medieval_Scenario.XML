@@ -380,10 +380,10 @@
 		</Row>
 		<!-- Unique units and buildings -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Poderosa Unidade Montada Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Ayyubid podem treiná-la. Essa Unidade não é penalizada quando ataca Cidades, diferente do {TXT_KEY_UNIT_KNIGHT} que ela substitui.</Text>
+			<Text>Poderosa Unidade Montada Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Aiúbidas podem treiná-la. Essa Unidade não é penalizada quando ataca Cidades, diferente do {TXT_KEY_UNIT_KNIGHT} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>Essa é uma unidade exclusiva Ayyubid, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor atacando cidades. O Mameluke pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o Mameluke atingir o alvo.</Text>
+			<Text>Essa é uma unidade exclusiva Aiúbida, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor atacando cidades. A {TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de a {TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN_STRATEGY">
 			<Text>The Welsh Longbowman is a Celtic unique unit, replacing the Crossbowman. The Welsh Longbowman has a greater range than the Crossbowman, allowing it to attack enemies three hexes away, often destroying them before they can strike back. Like other ranged units, it is vulnerable to melee attack.</Text>
