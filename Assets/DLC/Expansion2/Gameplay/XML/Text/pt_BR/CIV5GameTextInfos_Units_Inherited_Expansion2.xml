@@ -73,13 +73,13 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_CAROLEAN">
 			<Text>Carolino|Carolinos</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA">
-			<Text>Hakapeliita|Hakapeliitas</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Hakkapeliitta|Hakkapeliittas</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN">
 			<Text>Arqueiro de Arco Composto|Arqueiros de Arcos Compostos</Text>

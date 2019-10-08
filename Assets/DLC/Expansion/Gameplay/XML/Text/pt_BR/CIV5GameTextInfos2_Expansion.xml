@@ -346,7 +346,7 @@
 			<Text>Forte unidade de infantaria, especializada no combate em terreno acidentado e na defesa da capital Etíope. Somente a civilização da Etiópia pode treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_CAROLEAN_STRATEGY">
-			<Text>Carolinos são a espinha dorsal do exército Sueco no início da Era Industrial. Eles começam com a promoção Marcha que lhes permite curar-se a cada turno, mesmo se realizarem alguma ação.</Text>
+			<Text>{TXT_KEY_UNIT_SWEDISH_CAROLEAN[2]} eram a espinha dorsal do exército Sueco no início da Era Industrial. Eles começam com a promoção Marcha que lhes permite curar-se a cada turno, mesmo se realizarem alguma ação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SWEDISH_CAROLEAN">
 			<Text>Forte unidade de infantaria, especializada em longas marchas, mesmo distantes do território Sueco. Somente a Suécia pode treiná-la.</Text>

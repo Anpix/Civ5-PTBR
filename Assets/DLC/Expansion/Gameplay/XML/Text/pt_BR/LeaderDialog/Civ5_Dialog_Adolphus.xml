@@ -7,13 +7,13 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1">
-            <Text>Saudações! Eu sou Gustavus Adolphus, o Rei Dourado da Suécia. Talvez possamos trabalhar juntos como aliados.</Text>
+            <Text>Saudações! Eu sou Gustavo Adolfo, o Rei Dourado da Suécia. Talvez possamos trabalhar juntos como aliados.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_2">
-            <Text>Seja bem-vindo às terras do Rei das Neves, estrangeiro. Eu sou Gustavus Adolphus, herdeiro e descendente da distinta Casa de Vasa.</Text>
+            <Text>Seja bem-vindo às terras do Rei das Neves, estrangeiro. Eu sou Gustavo Adolfo, herdeiro e descendente da distinta Casa de Vasa.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_3">
-            <Text>Oh! Um recém-chegado ao palco mundial.  Saudações! Eu sou Gustavus Adolphus, celebrado Rei da Suécia. Seja pacífico em minha corte.</Text>
+            <Text>Oh! Um recém-chegado ao palco mundial.  Saudações! Eu sou Gustavo Adolfo, celebrado Rei da Suécia. Seja pacífico em minha corte.</Text>
         </Row>
         <!--Reacts to his bluff being called -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_1">
