@@ -102,8 +102,8 @@
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
-            <Text>Abrigo Antiaéreo|Abrigos Antiaéreo</Text>
-            <Gender>masculine|masculine</Gender>
+            <Text>Abrigo Antiaéreo|Abrigos Antiaéreos</Text>
+            <Gender>masculine</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_CONSTABLE">

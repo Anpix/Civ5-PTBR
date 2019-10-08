@@ -76,8 +76,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
 			<Text>Abrigo Antiaéreo|Abrigos Antiaéreos</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE">
 			<Text>Guarda Policial|Guardas Policiais</Text>
