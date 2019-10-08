@@ -21,8 +21,8 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MARIA">
-			<Text>Maria Theresa</Text>
-      		<Gender>feminine</Gender>
+			<Text>Maria Teresa</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PACAL">
 			<Text>Pacal</Text>
@@ -33,15 +33,15 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_THEODORA">
-			<Text>Theodora</Text>
-      		<Gender>feminine</Gender>
+			<Text>Teodora</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM">
 			<Text>William</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA">
-			<Text>Isabella</Text>
+			<Text>Isabel</Text>
 			<Gender>feminine</Gender>
 		</Row>
 	</Language_pt_BR>
