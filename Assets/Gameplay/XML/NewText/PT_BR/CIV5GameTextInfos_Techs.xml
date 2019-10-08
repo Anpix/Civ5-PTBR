@@ -195,7 +195,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE">
-			<Text>Pecuária</Text>
+			<Text>{TXT_KEY_TECH_ANIMAL_HUSBANDRY}</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -256,6 +256,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_TITLE">
 			<Text>{TXT_KEY_TECH_CHIVALRY}</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_TITLE">
 			<Text>Cargos Públicos</Text>
@@ -349,6 +351,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE">
 			<Text>{TXT_KEY_TECH_HORSEBACK_RIDING}</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_TITLE">
 			<Text>Ferro</Text>
