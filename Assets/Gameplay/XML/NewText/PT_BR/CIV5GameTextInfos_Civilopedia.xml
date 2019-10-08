@@ -1397,16 +1397,16 @@
 			<Text>{TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_COMPANIONCAVALRY_TEXT">
-			<Text>Os Hetairoi, ou "Heteros", eram cavaleiros de combate de elite que acompanhavam Alexandre, o Grande. O termo "hetairoi" deriva do nome da aristocracia da Macedônia, e os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} procediam exclusivamente das melhores famílias da Macedônia (embora mais tarde fosse expandida para incluir a nobreza aliada e os vassalos). Cada cavaleiro estava armado com um "xyston" (lança) e um "kopis" (espada curva), protegido por uma couraça, ombreiras e capacete.[NEWLINE][NEWLINE]Em combate, Alexandre segurava seus companheiros até que o inimigo estivesse totalmente ocupado com suas falanges. O próprio Alexandre os conduzia contra os flancos ou a retaguarda do inimigo, semeando a confusão e desânimo deles. As forças rivais nunca encontraram uma resposta satisfatória para esta combinação e com isso, Alexandre conquistou a maior parte do mundo conhecido.</Text>
+			<Text>Os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}, ou Hetairoi, eram cavaleiros de elite que acompanhavam Alexandre, o Grande, em batalha. O termo "hetairoi" deriva do nome da aristocracia macedônica, e os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} provinham apenas das melhores famílias macedônicas (embora mais tarde isso tenha sido expandido para incluir a nobreza dos povos aliados e subjugados). Cada cavaleiro carregava um "xyston" (lança longa) e um "kopis" (espada curva), e usava uma couraça, ombreiras e capacete de bronze.[NEWLINE][NEWLINE]Em batalha, Alexandre geralmente segurava os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} até o inimigo estar totalmente envolvido com suas unidades de Falange. O próprio Alexandre então conduzia seus {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} contra o flanco ou retaguarda do inimigo, semeando confusão e desânimo no exército inimigo. As forças opostas nunca encontraram uma resposta satisfatória para essa combinação, e com ela Alexandre conquistou a maior parte do mundo conhecido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_GALLEY_HEADING">
 			<Text>{TXT_KEY_UNIT_GALLEY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_HEADING">
-			<Text>{TXT_KEY_UNIT_HELP_HOPLITE}</Text>
+			<Text>{TXT_KEY_UNIT_GREEK_HOPLITE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HOPLITE_TEXT">
-			<Text>Os Gregos dominaram a arte do combate com lança, criando armas longas de fio mortal que, nas mãos de {TXT_KEY_UNIT_HELP_HOPLITE[2]} altamente treinados em formação de falange, eram quase impossíveis de conter por parte da infantaria ou cavalaria regular. Ante uma falange Grega, um soldado não só tinha que lidar com o inimigo à frente, mas também contra as lanças dos três soldados que vinham atrás de seu rival. Os {TXT_KEY_UNIT_HELP_HOPLITE[2]} eram formidáveis adversários em terreno plano e aberto, mas eram parcialmente vulneráveis aos arqueiros e era quase impossível manter uma falange em terreno acidentado.</Text>
+			<Text>Os gregos dominavam a arte do combate com lança, criando armas longas de fio mortífero que, nas mãos de soldados {TXT_KEY_UNIT_GREEK_HOPLITE[2]} altamente treinados em formação de falange, eram quase impossíveis de derrotar pela infantaria padrão ou cavalaria da época. Um soldado de frente para uma falange grega tinha que enfrentar não apenas o inimigo em frente, mas também as lanças de dois ou três soldados atrás deste. O {TXT_KEY_UNIT_GREEK_HOPLITE} era um tanto vulnerável às flechas dos arqueiros, é claro, e era quase impossível manter a formação de uma falange em terrenos acidentados, mas em terreno plano e aberto, os {TXT_KEY_UNIT_GREEK_HOPLITE[2]} eram adversários extremamente difíceis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HORSEMAN_HEADING">
 			<Text>{TXT_KEY_UNIT_HORSEMAN}</Text>
