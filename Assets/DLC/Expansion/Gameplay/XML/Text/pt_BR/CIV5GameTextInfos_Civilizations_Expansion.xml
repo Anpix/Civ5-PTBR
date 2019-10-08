@@ -48,13 +48,13 @@
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">
             <Text>Celta|Celtas</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter|neuter</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_DESC">
             <Text>Império Celta</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+            <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_SHORT_DESC">
             <Text>Celtas</Text>

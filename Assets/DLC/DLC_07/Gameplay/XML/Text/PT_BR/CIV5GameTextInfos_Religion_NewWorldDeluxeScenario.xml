@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<!-- Follower Beliefs-->
+		<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES">
+			<Text>May build Meeting Houses with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES_SHORT">
+			<Text>Meeting Houses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BELIEF_HOLY_WARRIORS">
+			<Text>Use [ICON_PEACE] Faith to purchase Late Horizon (and Later) land units.</Text>
+		</Row>
+		<!-- Pantheons-->
+		<Row Tag="TXT_KEY_BELIEF_APU">
+			<Text>+3 [ICON_PEACE] Faith in cities with a [ICON_CONNECTED] City Connection, +1 [ICON_GOLD] Gold from Trading Posts, and use [ICON_PEACE] Faith to purchase Workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_APU_SHORT">
+			<Text>Apu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_COQUIHANI">
+			<Text>+2 [ICON_PEACE] Faith from Quarries, +15% [ICON_PRODUCTION] Production of Wonders, and may build Workshops with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COQUIHANI_SHORT">
+			<Text>Coquihani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_COYOTE">
+			<Text>+1 [ICON_PEACE] Faith and +1 [ICON_RESEARCH] Science from Plantations, and may build Libraries with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COYOTE_SHORT">
+			<Text>Coyote Steals Fire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HUNAHPU">
+			<Text>+1 [ICON_FOOD] Food from Camps, +1 [ICON_PEACE] Faith for each Banana, Citrus, and Wheat resource, and may build Temples with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HUNAHPU_SHORT">
+			<Text>Hunahpu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTI">
+			<Text>+15% Faster Border Growth, Temples provide +2 [ICON_HAPPINESS_1] Happiness, Temples provide +1 [ICON_PEACE] Faith, and use [ICON_PEACE] Faith to purchase Settlers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTI_SHORT">
+			<Text>Inti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_QUETZALCOATL">
+			<Text>10% faster [ICON_FOOD] Growth Rate, +3 [ICON_PEACE] Faith from Gardens, and may build Water Mills and Aqueducts with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QUETZALCOATL_SHORT">
+			<Text>Quetzalcoatl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SEDNA">
+			<Text>+1 [ICON_PEACE] Faith from Fishing Boats, +1 [ICON_PRODUCTION] Production from Lakes, Coast, and Ocean Tiles, and may build Lighthouses with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEDNA_SHORT">
+			<Text>Sedna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SOSONDOWAH">
+			<Text>+4 [ICON_PEACE] Faith from Citadels and +2 [ICON_PEACE] Faith Forts, +30% increase in city [ICON_RANGE_STRENGTH] Ranged Combat Strength, and may build Walls with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SOSONDOWAH_SHORT">
+			<Text>Sosondowah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_XBALANQUE">
+			<Text>Gain [ICON_PEACE] Faith if you win a battle, and use [ICON_PEACE] Faith to purchase Classical Era land units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XBALANQUE_SHORT">
+			<Text>Xbalanque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AZTEC_PANTHEON">
+			<Text>Aztec Pantheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_INCA_PANTHEON">
+			<Text>Inca Pantheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_IROQUOIS_PANTHEON">
+			<Text>Iroquois Pantheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MAYA_PANTHEON">
+			<Text>Maya Pantheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SHOSHONE_PANTHEON">
+			<Text>Shoshone Pantheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PANTHEON_NWS_PEDIA">
+			<Text>Gives them a free minor religion; for more information about religion mouse over the Faith information on the info bar at the top of the screen.</Text>
+		</Row>
+		<!-- Reformation Beliefs-->
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_NWS">
+			<Text>+2 [ICON_PEACE] Faith from Tundra tiles without Forest and +4 [ICON_PEACE] Faith from Snow tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_NWS">
+			<Text>+2 [ICON_PEACE] Faith from Desert tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EARTHS_BOUNTY">
+			<Text>+2 [ICON_PEACE] Faith from each Iron, Gems, Gold, Silver, Copper, and Salt resource</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EARTHS_BOUNTY_SHORT">
+			<Text>Earth's Bounty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ANIMALS">
+			<Text>+3 [ICON_PEACE] Faith from Pastures tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_ANIMALS_SHORT">
+			<Text>Holy Animals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_HIGH_GROUND">
+			<Text>+1 [ICON_PEACE] Faith from Hill tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_HIGH_GROUND_SHORT">
+			<Text>Holy High Ground</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_LOW_GROUND">
+			<Text>+3 [ICON_PEACE] Faith from Marsh and Flood Plains tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_LOW_GROUND_SHORT">
+			<Text>Holy Low Ground</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_NWS">
+			<Text>+2 [ICON_PEACE] Faith from Plantations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_NWS">
+			<Text>+8 [ICON_PEACE] Faith from Natural Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH_NWS">
+			<Text>+2 [ICON_PEACE] Faith from Jungle tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_NWS">
+			<Text>+2 [ICON_PEACE] Faith from Lakes, Coast, and Ocean tiles. +1 [ICON_HAPPINESS_1] Happiness from cities on rivers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TOTEMISM">
+			<Text>+2 [ICON_PEACE] Faith from Camps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOTEMISM_SHORT">
+			<Text>Totemism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WORLD_TREES">
+			<Text>+2 [ICON_PEACE] Faith from Forest tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_TREES_SHORT">
+			<Text>World Trees</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

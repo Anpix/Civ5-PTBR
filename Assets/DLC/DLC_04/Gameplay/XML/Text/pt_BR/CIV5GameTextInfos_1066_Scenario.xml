@@ -107,22 +107,22 @@
 			<Text>{TXT_KEY_UNIT_SWORDSMAN[2]} podem construir a melhoria exclusiva Motte e Bailey no mesmo tempo que um trabalhador leva para construir um Forte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_SAXON_HUSCARL_TEXT">
-			<Text>Os Guardiões anglo-saxões, o equivalente medieval da guarda moderna, foram profissionalmente treinados e soldados bem remunerados que serviram ao rei e à nobreza. Equipados com casacos de cota de malha, conhecidos como "Byrnies" e, normalmente, armados com machados de guerra, os Guardiões foram uma força defensiva intimidadora ao longo dos séculos 11 e 12.</Text>
+			<Text>Os {TXT_KEY_UNIT_SAXON_HUSCARL[2]} anglo-saxões, o equivalente medieval da guarda moderna, foram profissionalmente treinados e soldados bem remunerados que serviram ao rei e à nobreza. Equipados com casacos de cota de malha, conhecidos como "Byrnies" e, normalmente, armados com machados de guerra, os {TXT_KEY_UNIT_SAXON_HUSCARL[2]} foram uma força defensiva intimidadora ao longo dos séculos XI e XII.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL_STRATEGY">
-			<Text>O Guardião é a unidade exclusiva da Inglaterra anglo-saxã, que substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}. Esta unidade ganha as promoções Cobertura I e Bônus contra Montaria (50) por sua capacidade de criar muros de defesa, quando atacado.</Text>
+			<Text>O {TXT_KEY_UNIT_SAXON_HUSCARL} é a unidade exclusiva da Inglaterra anglo-saxã, que substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}. Esta unidade ganha as promoções Cobertura I e Bônus contra Montaria (50) por sua capacidade de criar muros de defesa, quando atacado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SAXON_HUSCARL">
-			<Text>Poderosa unidade medieval de ataque corpo-a-corpo. Fortes contra unidades de montaria e de ataque a distância. Possui as promoções Cobertura I e Bônus contra Montaria (50). Somente os Ingleses podem treiná-la. Substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}.</Text>
+			<Text>Poderosa unidade medieval de ataque corpo-a-corpo. Fortes contra unidades montadas e de ataque a distância. Possui as promoções Cobertura I e Bônus contra Montaria (50). Somente os Ingleses podem treiná-la. Substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_NORMAN_KNIGHT_TEXT">
-			<Text>Os Cavaleiros do exército Normando, que serviram durante a conquista da Inglaterra no século 11 eram equipados com camisas de cota de malha, conhecidas como "armaduras", e geralmente usavam um capacete de forma cônica, projetado (em teoria) para desviar flechas que o acertassem. Os Cavaleiros Normandos foram talvez mais conhecidos por carregarem os "Kites", escudos alongados, projetados para proteger a montaria e as pernas dos cavaleiros enquanto engajados em combate corpo-a-corpo.</Text>
+			<Text>Os {TXT_KEY_UNIT_KNIGHT[2]} do exército Normando, que serviram durante a conquista da Inglaterra no século 11 eram equipados com camisas de cota de malha, conhecidas como "armaduras", e geralmente usavam um capacete de forma cônica, projetado (em teoria) para desviar flechas que o acertassem. Os {TXT_KEY_UNIT_NORMAN_KNIGHT[2]} foram talvez mais conhecidos por carregarem os "Kites", escudos alongados, projetados para proteger a montaria e as pernas dos cavaleiros enquanto engajados em combate corpo-a-corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT_STRATEGY">
-			<Text>O Cavaleiro Normando é a unidade exclusiva normanda, substituindo o Cavaleiro padrão. Esta unidade é o Cavaleiro padrão com a adição da promoção Blitz, permitindo-lhe atacar mais de uma vez por turno.</Text>
+			<Text>O {TXT_KEY_UNIT_NORMAN_KNIGHT} é a unidade exclusiva normanda, substituindo o {TXT_KEY_UNIT_KNIGHT} padrão. Esta unidade é o {TXT_KEY_UNIT_KNIGHT} padrão com a adição da promoção Blitz, permitindo-lhe atacar mais de uma vez por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NORMAN_KNIGHT">
-			<Text>Poderosa unidade de montaria medieval. Fraco contra {TXT_KEY_UNIT_LANCER[2]}. Possui a promoção Blitz. Apenas os normandos pode treiná-la. Substitui o Cavaleiro padrão.</Text>
+			<Text>Poderosa Unidade Montada medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Possui a promoção Blitz. Apenas os normandos pode treiná-la. Substitui o {TXT_KEY_UNIT_KNIGHT} padrão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_HELP">
 			<Text>Fornece 5 de [ICON_GOLD]Ouro por turno. Seis deste edifício devem ser construídos para que o Livro do Juízo possa ser construído em Londres. Só pode ser construído em uma cidade originalmente controlada pela Inglaterra anglo-saxã e com 8 ou mais hexágonos de distância de Londres.</Text>

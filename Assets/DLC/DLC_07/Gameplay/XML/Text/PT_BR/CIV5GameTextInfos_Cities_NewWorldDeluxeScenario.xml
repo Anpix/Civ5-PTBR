@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<!-- Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_SANTO_DOMINGO">
+			<Text>Santo Domingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOMBRE_DE_DIOS">
+			<Text>Nombre de Dios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_JUAN">
+			<Text>San Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAVANA">
+			<Text>Havana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANAMA">
+			<Text>Panama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VERACRUZ">
+			<Text>Veracruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
+			<Text>Acapulco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARTAGENA">
+			<Text>Cartagena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUENOS_AIRES">
+			<Text>Buenos Aires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALLAO">
+			<Text>Callao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
+			<Text>Asuncion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALPARAISO">
+			<Text>Valparaiso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTIGUA">
+			<Text>Antigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROANOKE_ISLAND">
+			<Text>Roanoke Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAMESTOWN">
+			<Text>Jamestown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_GEORGE">
+			<Text>St. George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_JOHNS">
+			<Text>St. John's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH_COLONY">
+			<Text>Plymouth Colony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALEM">
+			<Text>Salem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WETHERSFIELD">
+			<Text>Wethersfield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_MARYS_CITY">
+			<Text>St. Mary's City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYBROOK">
+			<Text>Saybrook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROVIDENCE">
+			<Text>Providence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLESBOURG_ROYALE">
+			<Text>Charlesbourg Royale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MONTREAL">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FRANCE_ANTARCTIQUE">
+			<Text>France Antarctique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_CAROLINE">
+			<Text>Fort Caroline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TADOUSSAC">
+			<Text>Tadoussac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORT_ROYAL">
+			<Text>Port Royal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QUEBEC">
+			<Text>Quebec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAINT_CRISTOPHE">
+			<Text>Saint Cristophe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TROIS_RIVIERES">
+			<Text>Trois Rivieres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOMINICA">
+			<Text>Dominica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_SAINT_PIERRE">
+			<Text>Fort Saint Pierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAYENNE">
+			<Text>Cayenne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LA_GRENADE">
+			<Text>La Grenade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTO_SEGURO">
+			<Text>Porto Seguro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_VICENTE">
+			<Text>Sao Vicente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALVADOR_DA_BAHIA">
+			<Text>Salvador da Bahia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_CRISTOVAO">
+			<Text>Sao Cristovao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IGARASSU">
+			<Text>Igarassu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLINDA">
+			<Text>Olinda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BEVERWIJCK">
+			<Text>Beverwijck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEW_AMSTERDAM">
+			<Text>New Amsterdam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAVONIA">
+			<Text>Pavonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURACAO">
+			<Text>Curacao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BONAIRE">
+			<Text>Bonaire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARUBA">
+			<Text>Aruba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINT_EUSTATIUS">
+			<Text>Sint Eustatius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_GOEDE_HOOP">
+			<Text>Fort Goede Hoop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINT_MAARTEN">
+			<Text>Sint Maarten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SABA">
+			<Text>Saba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WILTWIJCK">
+			<Text>Wiltwijck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAMARIBO">
+			<Text>Paramaribo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_KYK_OVER_AL">
+			<Text>Fort Kyk-Over-Al</Text>
+		</Row>
+		<!-- MAYA -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHICHENITZA">
+			<Text>Chichen Itza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UXMAL">
+			<Text>Uxmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TULUM">
+			<Text>Tulum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COPAN">
+			<Text>Copan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COBA">
+			<Text>Coba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ELMIRADOR">
+			<Text>El Mirador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CALAKMUL">
+			<Text>Calakmul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_EDZNA">
+			<Text>Edzna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LAMANAI">
+			<Text>Lamanai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IZAPA">
+			<Text>Izapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UAXACTUN">
+			<Text>Uaxactun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COMALCALCO">
+			<Text>Comalcalco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PIEDRANEGRAS">
+			<Text>Piedras Negras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CANCUEN">
+			<Text>Cancuen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_YAXHA">
+			<Text>Yaxha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_QUIRIGUA">
+			<Text>Quirigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_QUMARKAJ">
+			<Text>Q'umarkaj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NAKBE">
+			<Text>Nakbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CERROS">
+			<Text>Cerros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_XUNANTUNICH">
+			<Text>Xunantunich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAKALIKABAJ">
+			<Text>Takalik Abaj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CIVAL">
+			<Text>Cival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANBARTOLO">
+			<Text>San Bartolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALTARDESACRIFICIOS">
+			<Text>Altar de Sacrificios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SEIBAL">
+			<Text>Seibal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CARACOL">
+			<Text>Caracol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NARANJO">
+			<Text>Naranjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DOSPILAS">
+			<Text>Dos Pilas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MAYAPAN">
+			<Text>Mayapan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IXINCHE">
+			<Text>Ixinche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZACULEU">
+			<Text>Zaculeu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KABAH">
+			<Text>Kabah</Text>
+		</Row>
+		<!-- NETHERLANDS -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AMSTERDAM">
+			<Text>Amsterdam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ROTTERDAM">
+			<Text>Rotterdam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UTRECHT">
+			<Text>Utrecht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRONINGEN">
+			<Text>Groningen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BREDA">
+			<Text>Breda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NIJMEGEN">
+			<Text>Nijmegen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_THEHAGUE">
+			<Text>The Hague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HAARLEM">
+			<Text>Haarlem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ARNHEM">
+			<Text>Arnhem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZUTPHEN">
+			<Text>Zutphen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MAASTRICHT">
+			<Text>Maastricht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TILBURG">
+			<Text>Tilburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_EINDHOVEN">
+			<Text>Eindhoven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DORDRECHT">
+			<Text>Dordrecht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LEIDEN">
+			<Text>Leiden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SHERTOGENBOSCH">
+			<Text>'s-Hertogenbosch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALMERE">
+			<Text>Almere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALKMAAR">
+			<Text>Alkmaar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BRIELLE">
+			<Text>Brielle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VLISSINGEN">
+			<Text>Vlissingen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_APELDOOM">
+			<Text>Apeldoorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ENSCHEDE">
+			<Text>Enschede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AMERSFOORT">
+			<Text>Amersfoort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZWOLLE">
+			<Text>Zwolle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VENLO">
+			<Text>Venlo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UDEN">
+			<Text>Uden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRAVE">
+			<Text>Grave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DELFT">
+			<Text>Delft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GOUDA">
+			<Text>Gouda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NIEUWSTADT">
+			<Text>Nieuwstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_WEESP">
+			<Text>Weesp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COEVORDEN">
+			<Text>Coevorden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KERKRADE">
+			<Text>Kerkrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CUSCO">
+			<Text>Cusco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TIWANAKU">
+			<Text>Tiwanaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MACHU">
+			<Text>Machu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_OLLANTAYTAMBO">
+			<Text>Ollantaytambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CORIHUAYACHINA">
+			<Text>Corihuayrachina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUAMANGA">
+			<Text>Huamanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VILCAS">
+			<Text>Vilcas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VILCABAMBA">
+			<Text>Vilcabamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VITCOS">
+			<Text>Vitcos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ANDAHUAYLAS">
+			<Text>Andahuaylas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ICA">
+			<Text>Ica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AREQUIPA">
+			<Text>Arequipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NASCA">
+			<Text>Nasca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ATICO">
+			<Text>Atico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_JULI">
+			<Text>Juli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUITO">
+			<Text>Chuito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUQUIAPO">
+			<Text>Chuquiapo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUANUCOPAMPA">
+			<Text>Huanuco Pampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAMBOCCOCHA">
+			<Text>Tambococha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUARAS">
+			<Text>Huaras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_RIOBAMBA">
+			<Text>Riobamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CAXAMALCA">
+			<Text>Caxamalca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SAUSA">
+			<Text>Sausa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAMBOCOLORADO">
+			<Text>Tambo Colorado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUACA">
+			<Text>Huaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TUMBES">
+			<Text>Tumbes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHAN_CHAN">
+			<Text>Chan Chan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SIPAN">
+			<Text>Sipan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PACHACAMAC">
+			<Text>Pachacamac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LLACTAPATA">
+			<Text>Llactapata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PISAC">
+			<Text>Pisac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KUELAP">
+			<Text>Kuelap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PAJATEN">
+			<Text>Pajaten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUCUITO">
+			<Text>Chucuito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MADRID">
+			<Text>Madrid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BARCELONA">
+			<Text>Barcelona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SEVILLE">
+			<Text>Seville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CORDOBA">
+			<Text>Cordoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TOLEDO">
+			<Text>Toledo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANTIAGO">
+			<Text>Santiago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SALAMANCA">
+			<Text>Salamanca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VALENCIA">
+			<Text>Valencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZARAGOZA">
+			<Text>Zaragoza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PAMPLONA">
+			<Text>Pamplona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANTANDER">
+			<Text>Santander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VALLADOLID">
+			<Text>Valladolid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PALMA">
+			<Text>Palma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LEON">
+			<Text>Leon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BILBAO">
+			<Text>Bilbao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LA_CORUNA">
+			<Text>La Coruna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VITORIA">
+			<Text>Vitoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ASTURIAS">
+			<Text>Asturias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MURCIA">
+			<Text>Murcia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_JAEN">
+			<Text>Jaen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LOGRONO">
+			<Text>Logrono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TERUEL">
+			<Text>Teruel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALMERIA">
+			<Text>Almeria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZAMORA">
+			<Text>Zamora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MIDA">
+			<Text>Mida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LUGO">
+			<Text>Lugo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALICANTE">
+			<Text>Alicante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CADIZ">
+			<Text>Cadiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ELCHE">
+			<Text>Elche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALCORCON">
+			<Text>Alcorcon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BURGOS">
+			<Text>Burgos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VIGO">
+			<Text>Vigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BADAJOZ">
+			<Text>Badajoz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_OVIEDO">
+			<Text>Oviedo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SAN_SEBASTIAN">
+			<Text>San Sebastian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRANADA">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MERIDA">
+			<Text>Merida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUELVA">
+			<Text>Huelva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IBIZA">
+			<Text>Ibiza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LAS_PALMAS">
+			<Text>Las Palmas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TENERIFE">
+			<Text>Tenerife</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

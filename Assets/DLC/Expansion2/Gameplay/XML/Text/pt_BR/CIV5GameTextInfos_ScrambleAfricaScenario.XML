@@ -460,13 +460,13 @@
 			<Text>Two of the planned three Caio Duilia-class were built by the Italian Regia Marina in 1870s. These ocean-going ironclads were so revolutionary for their time, equipped with 100-ton rifled muzzle loaders and with 50mm armor plate, that the British scrapped their planned new class of battleship to design a counter to the Italian ships. Although the Caio Duilia and Enrico Dandolo never saw action and were scrapped in 1909 and 1920 respectively, they were deployed to the Mediterranean coast of Africa several times to protect or promote Italian interests.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DERVISH_CAVALRY">
-			<Text>Cavalry that spawns Great Generals faster and fights better in open terrain. Only the Egyptians can build it.</Text>
+			<Text>{TXT_KEY_UNIT_CAVALRY} que gera Grandes Generais mais rapidamente e luta melhor em terreno aberto. Apenas os Egípcios podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DERVISH_CAVALRY_STRATEGY">
-			<Text>Egyptian Cavalry replacement. Its promotions allow it to spawn Great Generals faster and fight better in open terrain.</Text>
+			<Text>Substituto egípcio da {TXT_KEY_UNIT_CAVALRY}. Suas promoções a permitem gerar Grandes Generais mais rapidamente e lutar melhor em terreno aberto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_DERVISH_CAVALRY_TEXT">
-			<Text>Referred to as the "Mad Mullah," the religious leader Mohammed Abdullah al-Hasan established a Dervish state in Somalia that fought an anti-imperialist war for 20 years against the British, Italians and Ethiopians. Of his forces, approximately 10000 were the feared Dervish cavalry, mostly used for interdiction of supply lines and paths of retreat. Unevenly armed and equipped, led by tribal chieftains, the dervish cavalry were marked by their fanaticism, making them fearsome opponents willing to take losses that would deter other units. Until 1920, when the Mullah was finally defeated, his most effective commanders were among the Dervish cavalry.</Text>
+			<Text>Chamado de "Mulá Maluco", o líder religioso Mohammed Abdullah al-Hasan estabeleceu um estado Dervixe na Somália que lutou uma guerra anti-imperialista por 20 anos contra os Britânicos, Italianos e Etíopes. Das suas forças, aproximadamente 10.000 eram a temida {TXT_KEY_UNIT_DERVISH_CAVALRY}, mais usada para interdição de linhas de suprimentos e caminhos de retirada. Desigualmente armada e equipada, liderada por chefes tribais, a {TXT_KEY_UNIT_DERVISH_CAVALRY} era marcada por seu fanatismo, tornando-as oponentes temidos que se dispunham a fazer sacrifícios para deter outras unidades. Até 1920, quando o Mullah foi finalmente derrotado, seus comandantes mais efetivos estavam entre a {TXT_KEY_UNIT_DERVISH_CAVALRY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_VOLUNTEERS">
 			<Text>Rifleman that specializes in defense and heals whenever it kills its oponent. Only the Boer Republics can build it.</Text>
@@ -537,22 +537,22 @@
 			<Text>[COLOR_NEGATIVE_TEXT]You may not adopt other policy branches in the Scramble for Africa scenario.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_CAP">
-			<Text>European</Text>
+			<Text>Europeus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]European[ENDCOLOR][NEWLINE][NEWLINE]Combat units may only heal if inside friendly territory. Land combat units (other than Explorers) have [COLOR_NEGATIVE_TEXT]-1 Visibility Range[ENDCOLOR]. May NOT build the Writers', Artists', or Musicians' Guild.</Text>
+			<Text>Unidades de Combate [COLOR_POSITIVE_TEXT]Europeias[ENDCOLOR][NEWLINE][NEWLINE] só podem se curar dentro de território amistoso. Unidades terrestres de combate (a não ser Exploradores) têm [COLOR_NEGATIVE_TEXT]-1 Alcance de Visão[ENDCOLOR]. NÃO pode construir a {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, nem a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_CAP">
-			<Text>North African</Text>
+			<Text>Norte-Africanos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]North African[ENDCOLOR][NEWLINE][NEWLINE]Earn [ICON_GOLD] Gold for each unit you kill. May NOT build the Writers', Artists', or Musicians' Guild.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Norte-Africanos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_GOLD]Ouro para cada unidade que você eliminar. NÃO pode construir a {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, nem a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_CAP">
-			<Text>Sub-Saharan</Text>
+			<Text>Sub-Saarianos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Sub-Saharan[ENDCOLOR][NEWLINE][NEWLINE]Earn [ICON_CULTURE] Culture for each unit you kill except barbarians. Allows cities to build the Writers', Artists', and Musicians' Guilds.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Sub-Saarianos[ENDCOLOR][NEWLINE][NEWLINE]Ganham [ICON_CULTURE]Cultura para cada unidade que você eliminar, exceto bárbaros. Permite as cidades construirem {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, e a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1">
 			<Text>Advanced Siege Tactics</Text>

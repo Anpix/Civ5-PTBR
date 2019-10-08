@@ -47,9 +47,9 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BERBER_CAVALRY">
-			<Text>Cavalaria Berber|Cavalarias Berberes</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Cavalaria Berbere|Cavalarias Berberes</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_VENETIAN_GALLEASS">
 			<Text>Grande Galeaça|Grandes Galeaças</Text>
@@ -57,14 +57,14 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SHOSHONE_PATHFINDER">
-			<Text>Batedor|Batedores</Text>
+			<Text>Rastreador|Rastreadores</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS">
-			<Text>Cavaleiro Comanche|Cavaleiros Comanches</Text>
+			<Text>Jinete Comanche|Jinetes Comanches</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN">
 			<Text>Espadachim Kris|Espadachins Kris</Text>

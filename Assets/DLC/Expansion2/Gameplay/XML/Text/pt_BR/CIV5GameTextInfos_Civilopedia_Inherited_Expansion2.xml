@@ -219,7 +219,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-			<Text>Um anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de anfiteatros que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
+			<Text>Um {TXT_KEY_BUILDING_AMPHITHEATER} é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de {TXT_KEY_BUILDING_AMPHITHEATER[2]} que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
 			<Text>Shrines are sacred monuments typically built to memorialize revered cultural icons or religious figures. Represented in nearly every religious denomination found throughout the world, shrines play an important role in religious ceremonies in both public and private worship.</Text>
@@ -278,16 +278,16 @@
 			<Text>The Panzer is the German unique unit, replacing the tank. It is both stronger and faster than the tank. It also can move after combat, allowing it to blow huge holes in enemy lines and then barrel through before the enemy can repair the gap. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANCER_STRATEGY">
-			<Text>The Lancer is the Renaissance horse unit that comes between the Knight and the Cavalry unit. It's faster and more powerful than the Knight, able to sweep those once-mighty units from the map. The Lancer can even take on the powerful Cavalry unit once it appears.</Text>
+			<Text>O {TXT_KEY_UNIT_LANCER} é a unidade montada da Renacença que fica entre o {TXT_KEY_UNIT_KNIGHT} e a {TXT_KEY_UNIT_CAVALRY}. É mais rápido e mais poderoso que o {TXT_KEY_UNIT_KNIGHT}, capaz de varrer aquelas antes poderosas unidades do mapa. O {TXT_KEY_UNIT_LANCER} pode até mesmo derrotar a poderosa {TXT_KEY_UNIT_CAVALRY} depois que ela aparece.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN_STRATEGY">
-			<Text>The Longswordsman is the standard medieval infantry combat unit. It is more powerful than the Knight, but much slower. It also outclasses the Pikeman, but doesn't receive that unit's bonus versus mounted units. Use Longswordsmen and Catapults to attack enemy cities.</Text>
+			<Text>The Longswordsman is the standard medieval infantry combat unit. It is more powerful than the {TXT_KEY_UNIT_KNIGHT}, but much slower. It also outclasses the {TXT_KEY_UNIT_PIKEMAN}, but doesn't receive that unit's bonus versus mounted units. Use Longswordsmen and Catapults to attack enemy cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR_STRATEGY">
 			<Text>Modern Armor is just like its predecessor, the Tank, only more-so. Modern Armor is much stronger than the Tank unit and possesses all the Tank's abilities, such as moving after combat.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>This is a Songhai unique unit, replacing the Knight. This unit has the same statistics as the Knight, but it is significantly better at attacking cities. The Mandekalu Cavalry can move after attacking. Its speed makes it difficult for an enemy to build a defensive line before the Mandekalu Cavalry reaches the target.</Text>
+			<Text>Essa é uma unidade exclusiva Songai, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor ao atacar cidades. O {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de o {TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TANK_STRATEGY">
 			<Text>The Tank is an extremely powerful and mobile land unit. It can move after combat, allowing it to blow holes in enemy lines and then move into the now-vacant hexes.</Text>
@@ -387,22 +387,22 @@
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Anfiteatro[ENDCOLOR], que fornece um avanço na [ICON_CULTURE]Cultura.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_AMPHITHEATER}[ENDCOLOR], que fornece um impulso para a [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"O que o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O que é o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_DESC">
-			<Text>Drama and poetry are both forms of artistic expression, the former expressed through the use of visual performance, the latter through the written word. Drama is most commonly associated with theatrical performances - plays, musicals, and operas - although in modern times these traditional forms have been surpassed by television and movie productions. Poetry focuses on the use of written language to express both a literal meaning, and often a thought-provoking underlying message.</Text>
+			<Text>A dramaturgia e a poesia são formas de expressão artística, a primeira expressa pelo uso da performance visual, a segunda pela palavra escrita. O drama é mais comumente associado a performances teatrais - peças teatrais, musicais e óperas -, embora nos tempos modernos essas formas tradicionais tenham sido superadas pelas produções televisivas e cinematográficas. A poesia concentra-se no uso da linguagem escrita para expressar tanto um significado literal quanto uma mensagem subjacente instigante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_HELP">
-			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro. Além disso, permite às suas cidades converter [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edifícios.</Text>
+			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_TRADING_POST}[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro. Além disso, permite às suas cidades converter [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edifícios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Os mercadores e negociantes chegaram; seus lucros são pré-estabelecidos..."[NEWLINE] - Sri Guru Granth Sahib[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_DESC">
-			<Text>In pre-industrial cities, craftsmen tended to form associations - or trade guilds - based upon their profession; these guilds were intended to both protect craft secrets as well as promote the influence and income of the craftsmen. Predecessors of the trade guilds were found as early as the 3rd Century BC in Rome and Han China. By 300 AD, the practice of craftsmen banding together had spread into Gupta India and Ptolemaic Egypt. In the Middle Ages, guild organizations spread rapidly from Italy throughout Europe; 12th Century records in Paris and London each list over 100 guilds chartered by the cities. In some cases, so powerful were some guilds that they became the governing body of cities, indicated by the guildhalls found in Germany, Switzerland and Holland.[NEWLINE][NEWLINE]Over time, the guilds took on the task of safeguarding quality and of instruction in the craft, with a life-long progression from apprentice to grandmaster. To insure product quality, the system of trademarks indicating that the item had passed both guild and government standards evolved. However, over time the influence and power of the guilds declined as they fragmented with the coming of new trades, government concerns, and mass production methods. In France, for instance, the guilds were abolished in 1791 AD by the Le Chapelier Law; other countries followed soon did the same. Although largely supplanted by unions in the Industrial Age, there are still examples of guilds in existence, notably in the realms of film, literature and other artistic professions.</Text>
+			<Text>Nas cidades pré-industriais, os artesãos tendiam a formar associações - ou guildas comerciais - baseadas em sua profissão; essas guildas tinham a intenção de proteger os segredos da arte, bem como promover a influência e a renda dos artesãos. Predecessores das guildas comerciais foram encontrados no século III a.C. em Roma e na China Han. Por volta de 300 d.C., a prática de artesãos se unindo se espalhou para Índia Gupta e Egito Ptolemaico. Na Idade Média, as organizações de guildas se espalharam rapidamente da Itália por toda a Europa; Registros do século XII em Paris e Londres listam mais de 100 guildas constituídas pelas cidades. Em alguns casos, eram tão poderosas algumas guildas que se tornaram o corpo governante das cidades, indicadas pelos guildhalls encontrados na Alemanha, Suíça e Holanda.[NEWLINE][NEWLINE]Com o tempo, as guildas assumiram a tarefa de salvaguardar a qualidade e instrução no ofício, com uma progressão ao longo da vida do aprendiz ao grande mestre. Para garantir a qualidade do produto, o sistema de marcas registradas que indicava que o item havia passado pelos padrões da guilda e do governo evoluiu. No entanto, com o passar do tempo, a influência e o poder das guildas diminuíram à medida que se fragmentavam com a chegada de novos negócios, preocupações do governo e métodos de produção em massa. Na França, por exemplo, as guildas foram abolidas em 1791 d.C. pela Lei Le Chapelier; outros países logo fizeram o mesmo. Embora largamente suplantado por sindicatos na Era Industrial, ainda existem exemplos de guildas existentes, notavelmente nos ramos do cinema, literatura e outras profissões artísticas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_HELP">
 			<Text>Permite a construção de várias Maravilhas que aumentam a [ICON_CULTURE]Cultura, a [ICON_RESEARCH]Ciência e a [ICON_HAPPINESS_1]Felicidade.</Text>
@@ -411,16 +411,16 @@
 			<Text>[NEWLINE][TAB][TAB]"A arquitetura começa onde a engenharia termina."[NEWLINE] - Walter Gropius[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_DESC">
-			<Text>Architecture can be considered both an art and a science. Encompassing everything from the initial planning and design of a structure, to the actual construction process, architecture has been a crucial element of the building process since ancient times. One of the earliest known discussions of architecture and its principles, "De Architectura," was written by the Roman architect Vitruvius in the first century BC. A ten volume set comprising all of the most intricate details of Roman construction methods, Vitruvius's work is widely recognized today as a crucial development in the evolution of the architectural design process.</Text>
+			<Text>A arquitetura pode ser considerada tanto uma arte quanto uma ciência. Englobando tudo, desde o planejamento inicial e design de uma estrutura até o processo de construção propriamente dito, a arquitetura tem sido um elemento crucial do processo de construção desde os tempos antigos. Uma das primeiras discussões conhecidas sobre arquitetura e seus princípios, "De Architectura", foi escrita pelo arquiteto romano Vitrúvio no século I a.C. Um conjunto de dez volumes que compreende todos os detalhes mais intricados dos métodos de construção romana, o trabalho de Vitrúvio é amplamente reconhecido hoje como um desenvolvimento crucial na evolução do processo de design arquitetônico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP">
-			<Text>Revela o [ICON_RES_COAL][COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]Fábrica[ENDCOLOR], um edifício que melhora muito a [ICON_PRODUCTION]Produção de uma cidade.</Text>
+			<Text>Revela o [ICON_RES_COAL][COLOR_POSITIVE_TEXT]Carvão[ENDCOLOR] e permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_FACTORY}[ENDCOLOR], um edifício que melhora muito a [ICON_PRODUCTION]Produção de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A industrialização baseada em maquinário, já referida como uma das características da nossa era, é apenas um aspecto da revolução que está sendo feita pela tecnologia."[NEWLINE] - Emily Greene Balch[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_DESC">
-			<Text>Industrialization is viewed as the transition from an agrarian society into an industrial one, which is typically accompanied by widespread social and economic change throughout the community. The Industrial Revolution, beginning in Europe during the 18th century, brought about immense changes in the way people lived their daily lives. With increasingly complex machinery and tools available, many trades that were once left to talented craftsmen became obsolete with the advent of assembly lines operated by droves of unskilled factory laborers.</Text>
+			<Text>A industrialização é vista como a transição de uma sociedade agrária para uma industrial, que é tipicamente acompanhada por uma ampla mudança social e econômica em toda a comunidade. A Revolução Industrial, que começou na Europa durante o século XVIII, trouxe mudanças imensas na forma como as pessoas viviam seu cotidiano. Com máquinas e ferramentas cada vez mais complexas disponíveis, muitos ofícios que antes eram deixados para artesãos talentosos tornaram-se obsoletos com o advento de linhas de montagem operadas por multidões de trabalhadores não qualificados em fábricas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BALLISTICS_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Arma Antiaérea[ENDCOLOR], útil para frustrar aeronaves inimigas e da [COLOR_POSITIVE_TEXT]Metralhadora Pesada[ENDCOLOR], uma poderosa unidade com alcance de 6 hexágonos.</Text>
@@ -433,31 +433,31 @@
 			<Text>TEMP Description text: BALLISTICS</Text>
 		</Row> -->
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque[ENDCOLOR], uma unidade blindada mortal e rápida, e da [COLOR_POSITIVE_TEXT]Arma Antitanque[ENDCOLOR], uma arma especializada em derrotar Tanques inimigos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_TANK}[ENDCOLOR], uma unidade blindada mortal e rápida, e da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_AT_GUN}[ENDCOLOR], uma arma especializada em derrotar Tanques inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A fonte do mal não é a construção de armas novas, e mais mortíferas. É o espírito de conquista."[NEWLINE] - Ludwig von Mises[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_DESC">
-			<Text>Combined arms is a military doctrine first adopted more than a thousand years ago, which involves the combination of different-but complimentary-unit types in an effort to improve the overall efficiency of the force as a whole. In ancient times, the combined arms tactic was utilized by many of the major powers, particularly the Greeks and Romans, who carefully coordinated light and heavy infantry, cavalry, and ranged weapons to create cohesive formations that played off each others' strengths and weaknesses. In the present day, the rise of aircraft-based weaponry has led to even more complex variations on the traditional concept of combined arms. Drone aircraft, satellite-guided missiles, and high-altitude bombers are just a few examples of the expanding toolset available to modern military commanders.</Text>
+			<Text>As armas combinadas são uma doutrina militar adotada pela primeira vez há mais de mil anos, que envolve a combinação de tipos diferentes, mas complementares, de unidades em um esforço para melhorar a eficiência geral da força como um todo. Nos tempos antigos, a tática de armas combinadas era utilizada por muitas das principais potências, particularmente os gregos e romanos, que coordenavam cuidadosamente a infantaria leve e pesada, a cavalaria e as armas de longo alcance para criar formações coesas que minimizassem os pontos fortes e fracos de cada um. Nos dias atuais, o aumento do armamento baseado em aeronaves levou a variações ainda mais complexas no conceito tradicional de armas combinadas. Aeronaves não-tripuladas, mísseis guiados por satélite e bombardeiros de alta altitude são apenas alguns exemplos do conjunto de ferramentas disponíveis para os comandantes militares modernos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino Nuclear[ENDCOLOR], uma Unidade Naval invisível à maioria das outras Unidades e capaz de carregar 2 Mísseis. Também permite a construção do [COLOR_POSITIVE_TEXT]Abrigo Antiaéreo[ENDCOLOR], que reduz significativamente a perda de população em um ataque nuclear.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_NUCLEAR_SUBMARINE}[ENDCOLOR], uma Unidade Naval invisível à maioria das outras Unidades e capaz de carregar 2 Mísseis. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_BOMB_SHELTER}[ENDCOLOR], que reduz significativamente a perda de população em um ataque nuclear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Quanto mais elaboramos nossas formas de comunicação, menos nos comunicamos."[NEWLINE] - J.B. Priestly[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_DESC">
-			<Text>Telecommunication allows for the transmission of data and information over long distances using various types of signaling devices. Early forms of primitive ranged communication, including the use of smoke and signal flags, eventually gave way to telegraphs, and later, the telephone. Scientific research and engineering, particularly in the last 30 years, has led to breakthroughs in our ability to communicate globally. Orbiting satellites now provide a means for the transmission of data even to the most remote areas on Earth. Television, internet, cellular telephones, and GPS are now fully integrated into the daily lives of millions across the world because of telecommunications research.</Text>
+			<Text>A telecomunicação permite a transmissão de dados e informações por longas distâncias, usando vários tipos de dispositivos de sinalização. As primeiras formas de comunicação primitiva à distância, incluindo o uso de bandeiras de fumaça e sinal, acabaram cedendo lugar aos telégrafos e, mais tarde, ao telefone. A pesquisa científica e a engenharia, particularmente nos últimos 30 anos, levaram a avanços em nossa capacidade de nos comunicar globalmente. Satélites em órbita agora fornecem um meio para a transmissão de dados até mesmo para as áreas mais remotas da Terra. Televisão, internet, telefones celulares e GPS estão agora totalmente integrados ao cotidiano de milhões de pessoas em todo o mundo por causa da pesquisa em telecomunicações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Infantaria Mecanizada[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MECHANIZED_INFANTRY}[ENDCOLOR], uma rápida e versátil unidade da fase avançada do jogo que não requer nenhum recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Todos podem ver essas táticas utilizadas onde eu conquiste, mas o que ninguém pode ver é a estratégia de que cada vitória evolui."[NEWLINE] - Sun Tzu[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_DESC">
-			<Text>Mobile tactics are strategies implemented by military forces to allow for quick, highly maneuverable units to get in and out of battle without becoming mired in an ongoing engagement. Mobile tactics are often used by irregular or guerilla units who specialize in hit-and-run attacks aimed at disorienting larger forces.</Text>
+			<Text>As {TXT_KEY_TECH_MOBILE_TACTICS} são estratégias implementadas pelas forças militares para permitir que unidades rápidas e altamente manobráveis entrem e saiam da batalha sem se envolverem em um engajamento contínuo. As {TXT_KEY_TECH_MOBILE_TACTICS} costumam ser usadas por unidades irregulares ou guerrilheiras que se especializam em ataques rápidos, com o objetivo de desorientar forças maiores.</Text>
 		</Row>
 		<!--CITY-STATES-->
 		<Row Tag="TXT_KEY_CIV5_ANTWERP_TEXT">
@@ -622,7 +622,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Celeiro[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], o primeiro edifício do jogo que fornece [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Biga Arqueira[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
 			<Text>Permite aconstrução de vários edifícos que impulsionam a produção de [ICON_GOLD]Ouro, como o  [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
@@ -634,10 +634,10 @@
 			<Text>Permite a construção de úteis edifícios especializados e Maravilhas que melhoram a produção de [ICON_PEACE]Fé e possibilitam a criação de novas [ICON_GREAT_PEOPLE]Grandes Pessoas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Cavaleiro[ENDCOLOR], uma unidade de montaria rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_KNIGHT}[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Longswordsman[ENDCOLOR], uma unidade medieval de ataque corpo-a-corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo-a-corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
@@ -649,10 +649,10 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD]Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção dos recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades de montaria, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades montadas, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_HELP">
-			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]Cavalaria[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
+			<Text>Permite o treinamento da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CAVALRY}[ENDCOLOR], uma unidade montada que possui grande resistência contra as fortes unidades de infantaria, e da [COLOR_POSITIVE_TEXT]Academia Militar[ENDCOLOR], que fornece a todas as Unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
 			<Text>Revela o [ICON_RES_ALUMINUM]Alumínio, um recurso utilizado por muitas unidades da fase avançada do jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro, da [COLOR_POSITIVE_TEXT]Usina Hidrelétrica[ENDCOLOR], que aumenta a [ICON_PRODUCTION]Produção de hexágonos próximos a um Rio, e do [COLOR_POSITIVE_TEXT]Distrito Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
@@ -802,7 +802,7 @@
 			<Text>In general, desert hexes are remarkably unuseful. They provide no benefits to cities (unless the desert contains an oasis or resource, of course, or if it has access to fresh water).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
-			<Text>The Cavalry mounted units are devastating against melee, ranged and siege weapons. Use them to destroy Musketmen and then break through the enemy's lines with their ability to move after attacking.</Text>
+			<Text>As unidades montadas {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades corpo-a-corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
 			<Text>Mountains are impassable, except to air units, and Carthaginian units (after earning a Great General). They provide nothing to cities.</Text>

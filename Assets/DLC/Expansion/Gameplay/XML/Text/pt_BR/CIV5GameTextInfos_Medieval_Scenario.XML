@@ -150,10 +150,10 @@
 			<Text>Viking Fury</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_BRAVEHEART">
-			<Text>Combat bonus (+20%) when fighting units from a civilization with more cities than the Celts.</Text>
+			<Text>Bônus de combate (+20%) quando lutando contra unidades de uma civilização com mais cidades que os Celtas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_BRAVEHEART_SHORT">
-			<Text>Braveheart</Text>
+			<Text>Coração Valente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAY_IGORS_CAMPAIGN">
 			<Text>All land combat units have +1 [ICON_MOVES] Movement. All units pay just 1 movement point to enter any tile adjacent to a river.</Text>
@@ -177,7 +177,7 @@
 			<Text>All land combat units have +1 [ICON_MOVES] Movement and the March promotion, allowing them to heal every turn.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_SEVEN_CITIES">
-			<Text>After researching Exploration, may send up to three Conquistadors to the western map edge for additional New World VP and [ICON_GOLD] Gold.</Text>
+			<Text>Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, pode enviar até três {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa para obter PVs do Novo Mundo e [ICON_GOLD]Ouro adicionais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAND_TRADE_GOLD">
 			<Text>+2 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route.</Text>
@@ -355,7 +355,7 @@
 		</Row>
 		<!-- Techs -->
 		<Row Tag="TXT_KEY_TECH_EXPLORATION_TITLE">
-			<Text>Exploration</Text>
+			<Text>Exploração</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EXPLORATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time."[NEWLINE][TAB][TAB] - T. S. Eliot[NEWLINE][TAB]</Text>
@@ -380,34 +380,34 @@
 		</Row>
 		<!-- Unique units and buildings -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_MUSLIM_CAVALRY">
-			<Text>Powerful Medieval Mounted Unit, weak to Pikemen. Only the Ayyubid may build it. This Unit is not penalized when attacking Cities, unlike the Knight which it replaces.</Text>
+			<Text>Poderosa Unidade Montada Medieval, fraca contra {TXT_KEY_UNIT_PIKEMAN[2]}. Apenas os Aiúbidas podem treiná-la. Essa Unidade não é penalizada quando ataca Cidades, diferente do {TXT_KEY_UNIT_KNIGHT} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
-			<Text>This is an Ayyubid unique unit, replacing the Knight. This unit has the same statistics as the Knight, but it is significantly better at attacking cities. The Mamluk can move after attacking. Its speed makes it difficult for an enemy to build a defensive line before the Mamluk reaches the target.</Text>
+			<Text>Essa é uma unidade exclusiva Aiúbida, substituindo o {TXT_KEY_UNIT_KNIGHT}. Essa unidade tem as mesmas estatísticas que o {TXT_KEY_UNIT_KNIGHT}, mas é significativamente melhor atacando cidades. A {TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY} pode se mover depois de atacar. Sua velocidade torna difícil para um inimigo montar uma linha de defesa antes de a {TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY} atingir o alvo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN_STRATEGY">
-			<Text>The Welsh Longbowman is a Celtic unique unit, replacing the Crossbowman. The Welsh Longbowman has a greater range than the Crossbowman, allowing it to attack enemies three hexes away, often destroying them before they can strike back. Like other ranged units, it is vulnerable to melee attack.</Text>
+			<Text>O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} é uma unidade exclusiva celta, substituindo o {TXT_KEY_UNIT_CROSSBOWMAN}. O {TXT_KEY_UNIT_WELSH_LONGBOWMAN} tem um alcance maior do que o {TXT_KEY_UNIT_CROSSBOWMAN}, permitindo que ele ataque os inimigos a três hexágonos de distância, destruindo-os com frequência antes que eles possam atacar de volta. Como outras unidades à distância, é vulnerável a ataques corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_CARAVEL_STRATEGY">
 			<Text>In this scenario, building a Caravel represents financing a major voyage of New World exploration. Once constructed, sail the Caravel to the western map edge where it will disappear (but score you VP).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_AUSTRIAN_HUSSAR_STRATEGY">
-			<Text>Hussars are great scouts and flank attackers. They are slightly stronger and faster than the Lancer which they replace. They start with Promotions that give them +1 Sight and increases their bonus when making a Flank Attack by 50%.</Text>
+			<Text>{TXT_KEY_UNIT_AUSTRIAN_HUSSAR[2]} são ótimos batedores e combatentes de flancos. São um pouco mais fortes e rápidos que o {TXT_KEY_UNIT_LANCER} que substituem. Eles começam com Promoções que lhes dão +1 Visão e aumentam em 50% seus bônus quando executando um Ataque de Flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_RUSSIAN_COSSACK_STRATEGY">
-			<Text>The Cossack is a Russian unique unit, replacing the Lancer. They are stronger than Lancers and get a strong combat bonus when battling damaged units. This makes Cossacks exceptionally strong at counter-attacking - let the enemy chew up the front-line peasants, then tear the weakened foe apart with a Cossack charge!</Text>
+			<Text>O {TXT_KEY_UNIT_RUSSIAN_COSSACK} é um unidade exclusiva russa, substituindo o {TXT_KEY_UNIT_LANCER}. Eles são mais fortes que os {TXT_KEY_UNIT_LANCER[2]} e ganham um forte bônus de combate quando batalhando com unidades feridas. Isso faz os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} excepcionalmente fortes no contra-ataque - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_CARAVEL">
 			<Text>Renaissance naval exploration unit. Move them to the western map edge to score VP. Fights as a naval melee unit.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HELP">
-			<Text>Medieval Era unit that specializes in scouting and colonizing overseas. Only Spain may build it. After researching Exploration, they may send 3 Conquistadors to the western map edge for New World VP and [ICON_GOLD] Gold. Replaces the Knight.</Text>
+			<Text>Unidade da Era Medieval especializada em exploração e colonização no além-mar. Somente a Espanha pode treiná-lo. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, eles podem enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa oeste para obter PVs do Novo Mundo e [ICON_GOLD]Ouro. Substitui o {TXT_KEY_UNIT_KNIGHT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
-			<Text>The Conquistador is a multi-purpose unit that is strong both on land and at sea. Replacing the Knight, it is an exceptional scout on land with extra visibility. It also has the ability to found new cities, but only on a foreign continent that does not contain the Spanish capital. In the water, the Conquistador has the defensive embarkation promotion that allows it to defend itself against naval units. It also suffers no penalty when attacking cities, unlike the Knight. After researching Exploration, Spain may may send 3 Conquistadors to the western map edge for New World VP and [ICON_GOLD] Gold.</Text>
+			<Text>O {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} é uma unidade polivalente que é forte tanto em terra como no mar. Substituindo o {TXT_KEY_UNIT_KNIGHT}, é um excepcional explorador em terra com visibilidade extra. Ele também tem a capacidade de fundar novas cidades, mas apenas em um continente estrangeiro que não contenha a capital espanhola. Na água, o Conquistador tem a promoção de embarque defensivo, que lhe permite defender-se contra unidades navais. Também não sofre penalidade ao atacar cidades, ao contrário do {TXT_KEY_UNIT_KNIGHT}. Depois de pesquisar {TXT_KEY_TECH_EXPLORATION_TITLE}, a Espanha pode enviar 3 {TXT_KEY_UNIT_SPANISH_CONQUISTADOR[2]} para a borda ocidental do mapa oeste para obter PVs do Novo Mundo e [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WELSH_LONGBOWMAN">
-			<Text>Medieval ranged infantry Unit. Only the Celts may build it. This Unit has 1 additional range compared to the Crossbowman, but is slightly weaker. This Unit may move through rough ground as though it were flat.</Text>
+			<Text>Unidade de infantaria medieval à distância. Somente os celtas podem treiná-lo. Esta unidade tem 1 alcance adicional comparado ao {TXT_KEY_UNIT_CROSSBOWMAN}, mas é um pouco mais fraco. Esta unidade pode mover-se pelo terreno acidentado como se fosse plano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH_STRATEGY">
 			<Text>The Stave Church increases the [ICON_PEACE]Fé of a city, speeding up the rate at which you can found and spread religions. The city must contain a Shrine before the Stave Church can be constructed. The Stave Church has no maintenance cost and takes half the time to build as the Temple, which it replaces.</Text>

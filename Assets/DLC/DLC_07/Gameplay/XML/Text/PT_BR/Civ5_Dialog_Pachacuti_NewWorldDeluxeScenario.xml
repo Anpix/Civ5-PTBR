@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+
+<GameData>
+	<Language_pt_BR>
+
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_FIRSTGREETING_1">
+			<Text>Greetings. I am Pachacuti, ruler of the Incans, the noblest, strongest and most beautiful people on the planet. I am always happy to meet Pachacutis of inferior civilizations!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_FIRSTGREETING_2">
+			<Text>Greetings, Stranger! I am Pachacuti, Pachacuti of the Incans. How honored you must be to meet us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_FIRSTGREETING_3">
+			<Text>Greetings, Stranger. I am Pachacuti, ruler of the peerless Incans. If there is any way that we can assist your inferior civilization please do not hesitate to ask.</Text>
+		</Row>
+		<!--Reacts to his bluff being called -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WARBLUFF_1">
+			<Text>Very well. We will show you mercy. For now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WARBLUFF_2">
+			<Text>Very well. The next time I shall not be so polite!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WARBLUFF_3">
+			<Text>Indeed? I trust that you will not live to regret your short-sightedness.</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WINWAR_1">
+			<Text>Did you really think you could defeat the mighty Incan empire? You poor deluded fool; I can almost feel sorry for you.</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LOSEWAR_1">
+			<Text>You have done surprisingly well. Clearly you've been studying me closely.</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEFEATED_1">
+			<Text>This is unbelievable! It can't be happening! I must be dreaming! Soon I'll wake up and this nightmare will be over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEFEATED_2">
+			<Text>I am defeated? But how has this happened? Clearly I have been betrayed!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEFEATED_3">
+			<Text>This cannot be. My greatness, my brilliance, all brought to ruin, by you? Somebody owes me an explanation!</Text>
+		</Row>
+
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_1">
+			<Text>Welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_2">
+			<Text>Hello.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_1">
+			<Text>Farewell.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_2">
+			<Text>Goodbye.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_YES_NEUTRAL">
+			<Text>Certainly. We are always happy to trade with lesser civilizations.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>You're not trying to cheat us, are you? That would be a very large mistake. You must improve your offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Can you do a little better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>That's not quite good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Almost...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NO_NEUTRAL">
+			<Text>Do you really think that your civilization has anything to offer us?</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_YES_NEUTRAL">
+			<Text>We are always happy to assist lesser civilizations!</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_NO_NEUTRAL">
+			<Text>Your greed is only exceeded by your arrogance. We refuse your ridiculous demands.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADEREQUEST_NEUTRAL">
+			<Text>The Incan people are offering you this eminently fair trade.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEMANDTRIBUTE_NEUTRAL">
+			<Text>It is time to repay the Incans for our friendship and protection. Do not disappoint us.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_1">
+			<Text>All right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_2">
+			<Text>Very Well.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_1">
+			<Text>Certainly Not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_2">
+			<Text>No.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_1">
+			<Text>I'm listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_2">
+			<Text>Yes?</Text>
+		</Row>
+
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_3">
+			<Text>Greetings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_4">
+			<Text>Good day.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_3">
+			<Text>Until we meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_4">
+			<Text>Goodbye.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_YES_HAPPY">
+			<Text>What an excellent idea! You show great promise as a leader.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I know that higher mathematics can be difficult, my friend, but that trade is not fair. You'll need to improve your offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Is that the best you can do?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_3">
+			<Text>You're almost there...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NO_HAPPY">
+			<Text>I am afraid that your offer is not acceptable, my friend.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_YES_HAPPY">
+			<Text>Certainly, my friend! It is clear that you would not survive without our aid.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_NO_HAPPY">
+			<Text>Alas! I am afraid that we cannot accede to your request. You'll have to try to get by without our assistance at this time.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEMANDTRIBUTE_HAPPY">
+			<Text>My friend, as difficult as it is to believe, the Incan people need your assistance. I trust that you will not refuse us?</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADEREQUEST_HAPPY">
+			<Text>My friend, I believe that this trade will be beneficial to both of our peoples.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_3">
+			<Text>Certainly.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_3">
+			<Text>We decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_4">
+			<Text>Of course not.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_3">
+			<Text>Proceed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_4">
+			<Text>You were saying?</Text>
+		</Row>
+
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_5">
+			<Text>Oh, it's you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_6">
+			<Text>What do you want?</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_5">
+			<Text>That is all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_6">
+			<Text>Our business here is done.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_YES_ANGRY">
+			<Text>That seems reasonable. I am surprised you thought it up.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Do you even understand the concept of 'fair trading'? Your offer is too light: you must improve it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_2">
+			<Text>That's not good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_3">
+			<Text>You must do better than that.</Text>
+		</Row>
+
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NO_ANGRY">
+			<Text>Much like yourself, your offer is offensive.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_YES_ANGRY">
+			<Text>Very well. I hope you may choke on it!"</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_NO_ANGRY">
+			<Text>Are you insane?</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEMANDTRIBUTE_ANGRY">
+			<Text>Give us what we want and perhaps your benighted civilization will survive to learn a little wisdom.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADEREQUEST_ANGRY">
+			<Text>The Incan people graciously offer your backwards people this trade.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_4">
+			<Text>Oh, very well.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_5">
+			<Text>I beg your pardon?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_6">
+			<Text>That's unacceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_7">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_5">
+			<Text>And?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DECLAREWAR_1">
+			<Text>Your people remain backwards and primitive. Clearly regime change is in order. Prepare for war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DECLAREWAR_2">
+			<Text>I will do your primitive people a favor and bring them into the Incan empire. Prepare for war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DECLAREWAR_3">
+			<Text>Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_ATTACKED_1">
+			<Text>I expected no better from you. You will not find us unprepared.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_ATTACKED_2">
+			<Text>Declare war on me?!? You can't, because I declare war on you first!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_ATTACKED_3">
+			<Text>You hopeless worm. How dare you threaten the matchless Incan empire!</Text>
+		</Row>
+
+	</Language_pt_BR>
+</GameData>

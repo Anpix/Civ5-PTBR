@@ -9,8 +9,8 @@
 		<!-- FALL OF ROME -->
 		<Row Tag="TXT_KEY_UNIT_CLIBANARII">
 			<Text>Clibanário|Clibanários</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN">
 			<Text>Machada|Machadas</Text>
@@ -70,14 +70,14 @@
 		</Row>
 		<!-- INTO THE RENAISSANCE -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY">
-			<Text>Mameluco|Mamelucos</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Cavalaria Mamluke|Cavalarias Mamluke</Text>
+			<Gender>feminine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
 			<Text>Arqueiro de Arco Longo Galês|Arqueiros de Arco Longo Galeses</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

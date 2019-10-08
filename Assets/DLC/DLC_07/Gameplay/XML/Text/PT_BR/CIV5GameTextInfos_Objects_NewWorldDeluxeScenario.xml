@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<!-- Builds -->
+		<Row Tag="TXT_KEY_BUILD_TIPI_HELP">
+			<Text>Constructs a Tipi, which increases the amount of [ICON_FOOD] Food, and [ICON_PEACE] Faith provided by this tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TIPI_REC">
+			<Text>It will increase the amount of [ICON_FOOD] Food, and [ICON_PEACE] Faith provided by this tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TIPI">
+			<Text>Construct a [LINK=IMPROVEMENT_TIPI]Tipi[\LINK]</Text>
+		</Row>
+		<!-- Improvements -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM">
+			<Text>Terrace Farm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TIPI">
+			<Text>Tipi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_HELP">
+			<Text>A Tipi can only be built on a Flat Plains tile (even if it has a feature). It may not be adjacent to another Tipi. Must be built in Shoshone territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_TEXT">
+			<Text>The tipi (or teepee) is a portable, conical tent constructed of tanned hides and wooden poles traditionally associated with the migratory North American Plains Indians. The word itself comes from the Lakota for "they dwell." Often elaborately painted, tipis not only sheltered the Shoshone but served to identify the separate tribes.[NEWLINE][NEWLINE]A Tipi can only be built on Flat Plains tile (even if it has a feature) not adjacent to another Tipi.</Text>
+		</Row>
+		<!-- Natural Wonders-->
+		<Row Tag="TXT_KEY_FEATURE_BELIZE_REEF">
+			<Text>Belize Barrier Reef</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_BELIZE_REEF_TEXT">
+			<Text>The Belize Barrier Reef is a 190-mile long section of the Mesoamerican Reef System, home to over 100 coral species and 500 species of fish. The third largest natural barrier reef in the world, it was designated a World Heritage Site in 1996 AD; it is endangered due to pollution and uncontrolled tourism, fishing and shipping with a 48% reduction in live coral observed over the past decade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CHIMBORAZO">
+			<Text>Chimborazo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_CHIMBORAZO_TEXT">
+			<Text>Chimborazo is a 20,500-foot stratovolcano (last eruption around 550 AD) in the Cordillera Occidental of the Andes. Widely believed by Europeans to be the highest peak in the world before the Himalayas were discovered, it was first climbed by an English-Italian team guided by Ecuadorian natives in 1880.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_TLALOC">
+			<Text>Mt. Tlaloc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_MT_TLALOC_TEXT">
+			<Text>Standing over 13,600 feet in central Mexico, Mount Tlaloc was revered by the Aztecs, who worshiped their rain god at a sanctuary on the summit. Archaeological research has shown a relationship between this shrine and surrounding temples may have been a way to track important ceremonial dates, associated with the sowing of maize in the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_TSOODZIL">
+			<Text>Tsoodzil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_TSOODZIL_TEXT">
+			<Text>To the Navajo, Tsoodzil, the "turquoise mountain," was one of the four sacred peaks marking the cardinal directions (in this case, south) and boundaries of their homeland in New Mexico. A 4100-foot dormant stratovolcano now named after President Zachary Taylor, for the Navaho Tsoodzil was home to the Black God, Turquoise Boy and Turquoise Girl.</Text>
+		</Row>
+
+	</Language_pt_BR>
+</GameData>

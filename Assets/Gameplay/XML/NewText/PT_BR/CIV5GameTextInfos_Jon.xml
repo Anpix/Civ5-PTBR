@@ -2003,7 +2003,7 @@
 			<Text>PACTO DEFENSIVO</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_NO_TECH">
-			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui a tecnologia necessária (Cavalaria) para negociar este item.</Text>
+			<Text>[NEWLINE][NEWLINE]Nenhum dos jogadores possui a tecnologia necessária ({TXT_KEY_TECH_CHIVALRY}) para negociar este item.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_EXISTS">
 			<Text>[NEWLINE][NEWLINE]Pacto defensivo já está em vigor!</Text>
@@ -2307,7 +2307,7 @@
 			<Text>Utilizados por poderosas unidades na fase inicial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_HORSES_HELP">
-			<Text>Utilizados por unidades de montaria.</Text>
+			<Text>Utilizados por unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_COAL_HELP">
 			<Text>Utilizados por fábricas e navios.</Text>
@@ -2443,7 +2443,7 @@
 			<Text>Construir Alfândega</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MANUFACTORY">
-			<Text>Construir Indústria</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL">
 			<Text>Construir Cidadela</Text>
@@ -2720,7 +2720,7 @@
 			<Text>Indica que esta cidade é a [ICON_CAPITAL]Capital do seu Império.[NEWLINE][NEWLINE][ICON_CONNECTED]Conectando outras cidades a sua [ICON_CAPITAL]Capital com estradas, mais [ICON_GOLD]Ouro será produzido.[NEWLINE][NEWLINE]+3 [ICON_PRODUCTION]Produção, +3 [ICON_RESEARCH]Ciência, +3 [ICON_GOLD]Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE_HELP">
-			<Text>+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de montaria.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_HORSE]Cavalos, [ICON_RES_SHEEP]Ovelhas e [ICON_RES_COW]Gado explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção. [NEWLINE][NEWLINE]A cidade precisa possuir ao menos uma fonte explorada de um desses recursos com um Pasto.</Text>
+			<Text>+15% de [ICON_PRODUCTION]Produção no treinamento de unidades montadas.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_HORSE]Cavalos, [ICON_RES_SHEEP]Ovelhas e [ICON_RES_COW]Gado explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção. [NEWLINE][NEWLINE]A cidade precisa possuir ao menos uma fonte explorada de um desses recursos com um Pasto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
 			<Text>+1 de [ICON_FOOD]Alimento de hexágonos oceânicos.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_FISH]Peixe explorada pela cidade produz +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
@@ -2795,7 +2795,7 @@
 			<Text>Requer 1 de [ICON_RES_URANIUM]Urânio. A cidade não pode possuir uma Usina Solar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY_HELP">
-			<Text>+50% de [ICON_PRODUCTION]Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma Fábrica.</Text>
+			<Text>+50% de [ICON_PRODUCTION]Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
 			<Text>Fornece +1 de cada Recurso de Luxo explorado pela cidade. Cada fonte de [ICON_RES_OIL]Petróleo e cada Oásis fornece +2 de [ICON_GOLD]Ouro.</Text>

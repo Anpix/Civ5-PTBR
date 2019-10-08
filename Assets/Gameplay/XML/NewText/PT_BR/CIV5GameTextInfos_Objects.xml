@@ -252,9 +252,9 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_MANUFACTORY">
-			<Text>Indústria|Indústrias</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Manufatura|Manufaturas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
 			<Text>Cidadela|Cidadelas</Text>

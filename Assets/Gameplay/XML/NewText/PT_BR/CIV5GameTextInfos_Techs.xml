@@ -195,7 +195,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE">
-			<Text>Pecuária</Text>
+			<Text>{TXT_KEY_TECH_ANIMAL_HUSBANDRY}</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -255,7 +255,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_TITLE">
-			<Text>Código de Cavalaria</Text>
+			<Text>{TXT_KEY_TECH_CHIVALRY}</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -350,7 +350,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE">
-			<Text>Montaria</Text>
+			<Text>{TXT_KEY_TECH_HORSEBACK_RIDING}</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

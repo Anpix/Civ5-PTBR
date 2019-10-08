@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<!-- Buildings-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE">
+			<Text>Chocolate House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GUNSMITH_SHOP">
+			<Text>Gunsmith Shop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID">
+			<Text>Pyramid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
+			<Text>Navigation School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE">
+			<Text>Meeting House</Text>
+		</Row>
+		<!-- National Wonder-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_BLYTHE_INTAGLIOS">
+			<Text>Blythe Intaglios</Text>
+		</Row>
+		<!-- World Wonders-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_WONDER_MOOREHEAD_CIRCLE">
+			<Text>Moorehead Circle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_WONDER_TEXCOTZINGO">
+			<Text>Texcotzingo</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

@@ -27,16 +27,16 @@
 			<Text>Com a ajuda de outra potência, mais uma grande civilização caiu. Nós conseguimos saquear uma moderada riqueza ({1_NumGold} gold) do tesouro deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_ALMATY_FALLEN">
-			<Text>A Cidade-Estado de Almaty caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Homens a Cavalo para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+			<Text>A Cidade-Estado de Almaty caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_HORSEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande {TXT_KEY_UNIT_MONGOL_KHAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DALI_FALLEN">
-			<Text>A Cidade-Estado de Dali caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Piqueiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+			<Text>A Cidade-Estado de Dali caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_PIKEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande {TXT_KEY_UNIT_MONGOL_KHAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_KOREA_FALLEN">
-			<Text>A Cidade-Estado da Coreia caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Besteiros para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.</Text>
+			<Text>A Cidade-Estado da Coreia caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_CROSSBOWMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande {TXT_KEY_UNIT_MONGOL_KHAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_XIA_FALLEN">
-			<Text>A Cidade-Estado de Xia Ocidental caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus Homens a Cavalo para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande Khan.[NEWLINE][NEWLINE]Aconselha-se que seja construída uma estrada, conectando esta cidade a sua Capital, para coletar recursos. Talvez você também queira alojar tropas mais fracas na cidade, para que os cidadãos fiquem um pouco mais felizes.</Text>
+			<Text>A Cidade-Estado de Xia Ocidental caiu frente as nossas forças Mongóis. Nós recrutamos {1_NumUnits} dos seus {TXT_KEY_UNIT_HORSEMAN[2]} para a nossa causa. Você {1: plural 1?o encontrará próximo; other?os encontrará próximos} à Karakorum, Grande {TXT_KEY_UNIT_MONGOL_KHAN}.[NEWLINE][NEWLINE]Aconselha-se que seja construída uma estrada, conectando esta cidade a sua Capital, para coletar recursos. Talvez você também queira alojar tropas mais fracas na cidade, para que os cidadãos fiquem um pouco mais felizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_FREE_TECH">
 			<Text>Tecnologia gratuita por conquistar grande civilização</Text>

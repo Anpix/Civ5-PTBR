@@ -318,10 +318,10 @@
 			<Text>20% less [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Population.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD_SHORT">
-			<Text>Inventor's Guild</Text>
+			<Text>Guilda de Inventores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD">
-			<Text>Earn Great Scientists 50% faster.</Text>
+			<Text>Produz Grandes Cientistas 50% mais rápido.</Text>
 		</Row>
 		<!-- Technologies-->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_HELP">
