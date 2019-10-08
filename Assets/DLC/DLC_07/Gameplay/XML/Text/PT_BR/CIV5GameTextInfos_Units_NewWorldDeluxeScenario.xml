@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_HEADING">
+			<Text>Treasure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER">
+			<Text>Slinger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_TERCIO">
+			<Text>Tercio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_CONQUISTADOR">
+			<Text>Conquistador</Text>
+		</Row>
+		<!-- Admirals-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLAUVELT">
+			<Text>Abraham Blauvelt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLOCK">
+			<Text>Adriaen Block</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_PORTUGUESE_EXPLORER">
+			<Text>Pedro Cabral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CABRILLO">
+			<Text>Juan Cabrillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_COELHO">
+			<Text>Goncalo Coelho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CORTE_REAL">
+			<Text>Miguel Corte-Real</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_DE_WEERT">
+			<Text>Sebald de Weert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LAVRADOR">
+			<Text>Joao Lavrador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LE_MARIE">
+			<Text>Jacob le Maire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_MARTINS">
+			<Text>Alvaro Martins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_DUTCH_EXPLORER">
+			<Text>Olivier van Noort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_VAN_RYEN">
+			<Text>Jan van Ryen</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS">
+			<Text>Comanche Rider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MYSTIC_WARRIOR">
+			<Text>Mystic Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST">
+			<Text>Atlatlist</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
+			<Text>Privateer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_LEON">
+			<Text>De Leon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_NARVAEZ">
+			<Text>Narvaez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_VACA">
+			<Text>De Vaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_MAGELLAN">
+			<Text>Magellan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_SOTO">
+			<Text>De Soto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ULLOA">
+			<Text>Ulloa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_VESPUCCI">
+			<Text>Vespucci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CARTIER">
+			<Text>Cartier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ROBERVAL">
+			<Text>Roberval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHAMPLAIN">
+			<Text>Champlain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_RUT">
+			<Text>Rut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHANCELLOR">
+			<Text>Chancellor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_WILLOUGHBY">
+			<Text>Willoughby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_GRENVILLE">
+			<Text>Grenville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_HUDSON">
+			<Text>Hudson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORTES">
+			<Text>Cortes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORDOVA">
+			<Text>Cordova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_PIZARRO">
+			<Text>Pizarro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_ORELLANA">
+			<Text>Orellana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORONADO">
+			<Text>Coronado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MONTEJO">
+			<Text>Montejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_BALBOA">
+			<Text>Balboa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_VILLEGAGNON">
+			<Text>Villegagnon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_LAUDONNIERRE">
+			<Text>Laudonnierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_RIBAULT">
+			<Text>Ribault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_DEVEREUX">
+			<Text>Devereux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_NORREYS">
+			<Text>Norreys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MOUNTJOY">
+			<Text>Mountjoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_SMITH">
+			<Text>Smith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_WINTHROP">
+			<Text>Winthrop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_MENENDEZ">
+			<Text>Menendez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_SANTA_CRUZ">
+			<Text>Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FLEURY">
+			<Text>Fleury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_CLERC">
+			<Text>Le Clerc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_TESTU">
+			<Text>Le Testu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DE_SORES">
+			<Text>De Sores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DRAKE">
+			<Text>Drake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_RALEIGH">
+			<Text>Raleigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_HAWKINS">
+			<Text>Hawkins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_CAVENDISH">
+			<Text>Cavendish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FROBISHER">
+			<Text>Frobisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_GILBERT">
+			<Text>Gilbert</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_pt_BR>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_ADJECTIVE">
+			<Text>Incan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_DESC">
+			<Text>Incan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_SHORT_DESC">
+			<Text>The Inca</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_ADJECTIVE">
+			<Text>Spanish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_DESC">
+			<Text>Spanish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_SHORT_DESC">
+			<Text>Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_ADJECTIVE">
+			<Text>Mayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_DESC">
+			<Text>Mayan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_SHORT_DESC">
+			<Text>The Maya</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_ADJECTIVE">
+			<Text>Dutch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_DESC">
+			<Text>Dutch Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_SHORT_DESC">
+			<Text>The Netherlands</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_ADJECTIVE">
+			<Text>Old World European</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_DESC">
+			<Text>Old World Europe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_SHORT_DESC">
+			<Text>Old World</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>

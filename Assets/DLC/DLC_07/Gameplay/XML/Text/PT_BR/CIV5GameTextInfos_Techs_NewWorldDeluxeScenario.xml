@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_pt_BR>
+		<!-- Technologies-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY">
+			<Text>Advanced Piracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_DESC">
+			<Text>The "Golden Age of Piracy" spanned, roughly, the years from 1650 to 1730 AD as the likes of Henry Morgan, Bartholomew Roberts and Calico Jack Rackham sailed the Spanish Main. It was brought about by both the incredible riches being shipped to Europe from the New World and by advances in shipbuilding, allowing fast and nimble sloops, brigantines and schooners to carry heavier weaponry and larger crews.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Sea Beggar[ENDCOLOR] a stronger pirate ship that can heal outside your territory. This technology also allows you to build the [ICON_GOLD] Gold-boosting buildng the [COLOR_POSITIVE_TEXT]Chocolate House[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"For I am a Pirate King! And it is, it is a glorious thing to be a Pirate King!"[NEWLINE][TAB][TAB] - W.S. Gilbert, The Pirates of Penzance[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_BANKING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Bank[ENDCOLOR] as well as the [COLOR_POSITIVE_TEXT]East India Company[ENDCOLOR], buildings which increase the [ICON_GOLD] Gold produced by a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
+			<Text>Provides a variety of benefits to [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Conquistador[ENDCOLOR], a unit that specializes in scouting and settling overseas. This technology also allows you to build the [COLOR_POSITIVE_TEXT]Courthouse[ENDCOLOR], a building which reduces the [ICON_HAPPINESS_4] Unhappiness from [ICON_OCCUPIED] Occupied Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE">
+			<Text>Line-Of-Battle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_DESC">
+			<Text>Although its first use in battle is a matter of debate (ranging from 1502 to 1652 AD), by 1675 the "line-of-battle" tactic was the most common formation being used by European navies. In contrast to the usual naval melees, in line-of-battle each warship could fire its broadside without hitting friendly vessels, allowing for both concentrated and continuous fire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_HELP">
+			<Text>Allows you to build the [ICON_GOLD] Gold-boosting building the [COLOR_POSITIVE_TEXT]Stock Exchange[ENDCOLOR] and to build the [COLOR_POSITIVE_TEXT]Ship of the Line[ENDCOLOR], the strongest unit and the unit with the farthest range. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"No captain can do very wrong if he places his ship alongside that of the enemy."[NEWLINE][TAB][TAB] - Horatio Nelson[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET">
+			<Text>Merchant Fleet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_DESC">
+			<Text>In the face of depredations from buccaneers and privateers, in the mid-1500s the Spanish and Portuguese adopted an early form of convoys for their merchant ships plying the Atlantic trade routes. Whereas the treasure fleets were usually accompanied by warships, the private merchant fleets were not; hence many of the galleons - laden with tobacco, spices, lumber, sugar, grain, pearls and other luxuries for the European markets - were armed with cannons and carronades to ward off the smaller pirate ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Nau[ENDCOLOR] the fastest ship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Gold is a treasure, and he who possesses it does all he wishes to in this world."[NEWLINE][TAB][TAB] -Christopher Columbus[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tercio[ENDCOLOR], a dominant melee unit and the [COLOR_POSITIVE_TEXT]Military Academy[ENDCOLOR], which gives all your units an experience boost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
+			<Text>Allows you to build buildings with [ICON_PEACE] Faith and the [COLOR_POSITIVE_TEXT]Grand Temple[ENDCOLOR], which allows all Missionaries to spread three times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Frigate[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], a Mounted unit that can pillage for free.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
+			<Text>Imperialism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
+			<Text>Naval Tradition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
+			<Text>Professional Soldiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
+			<Text>Piracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
+			<Text>Warships</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
+			<Text>Royal Guards</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
+			<Text>Religious Orders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
+			<Text>Treasure Fleet</Text>
+		</Row>
+	</Language_pt_BR>
+</GameData>
