@@ -219,7 +219,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-			<Text>Um anfiteatro é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de anfiteatros que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
+			<Text>Um {TXT_KEY_BUILDING_AMPHITHEATER} é uma arena externa desenhada para apresentações teatrais ao ar livre, bem como eventos esportivos e concertos. Os Romanos antigos são particularmente conhecidos pelas centenas de {TXT_KEY_BUILDING_AMPHITHEATER[2]} que construíram, onde combates de gladiadores, exibições e execuções públicas eram conduzidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT">
 			<Text>Shrines are sacred monuments typically built to memorialize revered cultural icons or religious figures. Represented in nearly every religious denomination found throughout the world, shrines play an important role in religious ceremonies in both public and private worship.</Text>
@@ -387,13 +387,13 @@
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Anfiteatro[ENDCOLOR], que fornece um avanço na [ICON_CULTURE]Cultura.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_AMPHITHEATER}[ENDCOLOR], que fornece um impulso para a [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"O que o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"O que é o drama senão a vida com seus momentos sem graça removidos?"[NEWLINE] - Alfred Hitchcock[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_DESC">
-			<Text>Drama and poetry are both forms of artistic expression, the former expressed through the use of visual performance, the latter through the written word. Drama is most commonly associated with theatrical performances - plays, musicals, and operas - although in modern times these traditional forms have been surpassed by television and movie productions. Poetry focuses on the use of written language to express both a literal meaning, and often a thought-provoking underlying message.</Text>
+			<Text>A dramaturgia e a poesia são formas de expressão artística, a primeira expressa pelo uso da performance visual, a segunda pela palavra escrita. O drama é mais comumente associado a performances teatrais - peças teatrais, musicais e óperas -, embora nos tempos modernos essas formas tradicionais tenham sido superadas pelas produções televisivas e cinematográficas. A poesia concentra-se no uso da linguagem escrita para expressar tanto um significado literal quanto uma mensagem subjacente instigante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_HELP">
 			<Text>Permite que Trabalhadores construam o [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro. Além disso, permite às suas cidades converter [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de destiná-la ao treinamento de unidades ou construção de edifícios.</Text>

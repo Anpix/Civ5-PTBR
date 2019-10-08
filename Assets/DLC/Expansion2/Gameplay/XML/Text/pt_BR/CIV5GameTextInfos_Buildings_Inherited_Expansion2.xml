@@ -88,7 +88,7 @@
         <!-- BUILDINGS -->
         <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
             <Text>Anfiteatro|Anfiteatros</Text>
-            <Gender>masculine|masculine</Gender>
+            <Gender>masculine</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_SHRINE">

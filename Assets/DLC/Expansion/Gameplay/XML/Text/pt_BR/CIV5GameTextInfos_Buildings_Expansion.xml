@@ -61,8 +61,8 @@
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
 			<Text>Anfiteatro|Anfiteatros</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			            
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SHRINE">
 			<Text>Santuário|Santuários</Text>
