@@ -57,12 +57,12 @@
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION">
 			<Text>Industrialização</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_TITLE">
-			<Text>Industrialização</Text>
+			<Text>{TXT_KEY_TECH_INDUSTRIALIZATION}</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS">
 			<Text>Táticas Móveis</Text>

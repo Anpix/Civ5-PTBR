@@ -87,7 +87,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FACTORY">
 			<Text>Fábrica|Fábricas</Text>
-			<Gender>feminine|feminine</Gender>
+			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FORBIDDEN_PALACE">
@@ -286,8 +286,8 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY">
-			<Text>Indústria Aeroespacial|Indústrias Aeroespaciais</Text>
-			<Gender>feminine|feminine</Gender>
+			<Text>Fábrica Aeroespacial|Fábricas Aeroespaciais</Text>
+			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE">

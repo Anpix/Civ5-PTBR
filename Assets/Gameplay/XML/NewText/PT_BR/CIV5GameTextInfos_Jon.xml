@@ -2443,7 +2443,7 @@
 			<Text>Construir Alfândega</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MANUFACTORY">
-			<Text>Construir Indústria</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL">
 			<Text>Construir Cidadela</Text>
@@ -2795,7 +2795,7 @@
 			<Text>Requer 1 de [ICON_RES_URANIUM]Urânio. A cidade não pode possuir uma Usina Solar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY_HELP">
-			<Text>+50% de [ICON_PRODUCTION]Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma Fábrica.</Text>
+			<Text>+50% de [ICON_PRODUCTION]Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
 			<Text>Fornece +1 de cada Recurso de Luxo explorado pela cidade. Cada fonte de [ICON_RES_OIL]Petróleo e cada Oásis fornece +2 de [ICON_GOLD]Ouro.</Text>

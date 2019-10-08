@@ -570,7 +570,7 @@
 			<Text>A Torre Eiffel proporciona uma grande quantidade de [ICON_HAPPINESS_1]Felicidade, bem como +1 de [ICON_CULTURE]Cultura e +2 pontos para o Grande Mercador. Esta maravilha é muito útil para se conseguir Eras Douradas na Era Moderna!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FACTORY_STRATEGY">
-			<Text>A Fábrica é um edifício da Era Industrial que aumenta muito a [ICON_PRODUCTION]Produção de uma cidade, que deve possuir uma Oficina (ou Maloca). 1 recurso de [ICON_RES_COAL]Carvão é consumido quando uma Fábrica é criada.</Text>
+			<Text>A {TXT_KEY_BUILDING_FACTORY} é um edifício da Era Industrial que aumenta muito a [ICON_PRODUCTION]Produção de uma cidade, que deve possuir uma Oficina (ou Maloca). 1 recurso de [ICON_RES_COAL]Carvão é consumido quando uma {TXT_KEY_BUILDING_FACTORY} é criada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_PEDIA">
 			<Text>O Jardim Flutuante é uma pequena ilha artificial construída em um lago de água doce para aumentar a terra cultivável. O lago irriga a ilha e proporciona material orgânico constantemente, resultando em um ambiente extremamente fértil para o cultivo. Os Astecas eram mestres neste tipo de agricultura, e os "Jardins Flutuantes de Xochimilco" são famosos até os dias de hoje.</Text>
@@ -777,7 +777,7 @@
 			<Text>A Central de Energia Solar é um edifício da fase avançada do jogo que aumenta significativamente a [ICON_PRODUCTION]Produção de uma cidade. Para poder construir este edifício, a cidade deve ser construída em um hexágono no deserto ou adjacente a ele, além de possuir uma Fábrica já construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY_STRATEGY">
-			<Text>A Indústria Aeroespacial aumenta a velocidade com que uma cidade constrói peças de espaçonaves. Este edifício requer um recurso de [ICON_RES_ALUMINUM]Alumínio e a cidade deve possuir uma Fábrica para poder construí-lo.</Text>
+			<Text>A {TXT_KEY_BUILDING_SPACESHIP_FACTORY} aumenta a velocidade com que uma cidade constrói peças de espaçonaves. Este edifício requer um recurso de [ICON_RES_ALUMINUM]Alumínio e a cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY} para poder construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE_STRATEGY">
 			<Text>O {TXT_KEY_BUILDING_STABLE} só pode ser construído em uma cidade que tenha nas proximidades uma fonte já explorada dos recursos [ICON_RES_HORSE]Cavalos, [ICON_RES_SHEEP]Ovelhas ou [ICON_RES_COW]Gado. Ele aumenta a velocidade de [ICON_PRODUCTION]Produção das unidades montadas.</Text>
@@ -1723,10 +1723,10 @@
 			<Text>O Coliseu é um edifício ao ar livre onde o público pode desfrutar de espetáculos desportivos. Dependendo do momento e lugar, os espetáculos poderiam ser lutas de gladiadores, partidas de Futebol Americano ou Futebol. Dos três mencionados, pode-se dizer que as batalhas de gladiadores eram as mais exigentes entre os participantes e, sem dúvida, as mais perigosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FACTORY_HEADING">
-			<Text>Fábrica</Text>
+			<Text>{TXT_KEY_BUILDING_FACTORY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FACTORY_TEXT">
-			<Text>A fábrica é um edifício que utiliza técnicas da Era Industrial para construir coisas - carros, espartilhos, vigas de aço, varas de pesca etc. As fábricas começaram a aparecer em grande escala nos séculos 17 e 18, ainda que menos humanitárias, sua produtividade superava a das pequenas oficinas ou indústrias caseiras. Contrariando a crença popular, Henry Ford não inventou a linha de montagem; que foi criada somente no século 19, nas indústrias dos Estados Unidos de empacotamento de carne do meio oeste. Um sistema de cintas transportadoras levava as carcaças bovinas de um posto a outro e cada trabalhador tinha um tempo limitado para cortar sua porção pré-determinada de carne antes que fosse transportada para outro posto. O trabalho em uma fábrica de embalagem de carne é um dos mais sujos e perigosos da história norte americana, e as histórias dessa época continuam aterrorizando até os dias de hoje.</Text>
+			<Text>A {TXT_KEY_BUILDING_FACTORY} é um edifício que utiliza técnicas da Era Industrial para construir coisas - carros, espartilhos, vigas de aço, varas de pesca etc. As fábricas começaram a aparecer em grande escala nos séculos 17 e 18, ainda que menos humanitárias, sua produtividade superava a das pequenas oficinas ou indústrias caseiras. Contrariando a crença popular, Henry Ford não inventou a linha de montagem; que foi criada somente no século 19, nas indústrias dos Estados Unidos de empacotamento de carne do meio oeste. Um sistema de cintas transportadoras levava as carcaças bovinas de um posto a outro e cada trabalhador tinha um tempo limitado para cortar sua porção pré-determinada de carne antes que fosse transportada para outro posto. O trabalho em uma fábrica de embalagem de carne é um dos mais sujos e perigosos da história norte americana, e as histórias dessa época continuam aterrorizando até os dias de hoje.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FLOATINGGARDENS_HEADING">
 			<Text>Jardins Flutuantes</Text>
@@ -3058,7 +3058,7 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MANUFACTORY_TEXT">
-			<Text>Uma Indústria é uma planta composta por um ou mais edifícios, nos quais as coisas são construídas. Os edifícios podem ser fundições, fábricas, linhas de montagem e assim por diante, e geralmente trabalham com ciclo completo de produção de um item - a fundição cria o aço, que a fábrica utiliza para criar rolos de folhas de aço, que os trabalhadores na linha de montagem utilizam para fazer latas, e assim por diante. Uma Indústria bem administrada pode ser extremamente produtiva.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} é uma planta composta por um ou mais edifícios, nos quais as coisas são construídas. Os edifícios podem ser fundições, fábricas, linhas de montagem e assim por diante, e geralmente trabalham com ciclo completo de produção de um item - a fundição cria o aço, que a fábrica utiliza para criar rolos de folhas de aço, que os trabalhadores na linha de montagem utilizam para fazer latas, e assim por diante. Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} bem administrada pode ser extremamente produtiva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MINE">
 			<Text>Mina</Text>
@@ -9148,13 +9148,13 @@
 			<Text>Hab. Especial: Tecnologia Grátis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MANUFACTORY_ADV_QUEST">
-			<Text>O que a melhoria especial Indústria faz?</Text>
+			<Text>O que a melhoria especial {TXT_KEY_IMPROVEMENT_MANUFACTORY} faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MANUFACTORY_HEADING4_BODY">
-			<Text>Você pode consumir um Engenheiro para criar uma Indústria. Uma Indústria fornece grande quantidade de produção (martelos) para a cidade, se forem trabalhados.</Text>
+			<Text>Você pode consumir um Engenheiro para criar uma {TXT_KEY_IMPROVEMENT_MANUFACTORY}. Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} fornece grande quantidade de produção (martelos) para a cidade, se forem trabalhados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MANUFACTORY_HEADING4_TITLE">
-			<Text>Melhoria Especial: Indústria</Text>
+			<Text>Melhoria Especial: {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_MERCHANT_ADV_QUEST">
 			<Text>O que o especialista Comerciante faz?</Text>
