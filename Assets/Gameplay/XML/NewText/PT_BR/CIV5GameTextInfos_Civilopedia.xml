@@ -10585,7 +10585,7 @@
 			<Text>O {TXT_KEY_UNIT_HORSEMAN} é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo-a-corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}, {TXT_KEY_UNIT_PIKEMAN} e similares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDIAN_WARELEPHANT_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT} é uma unidade indiana única, que substitui o {TXT_KEY_UNIT_CHARIOT_ARCHER}. É bem mais poderosa, embora mais lento, que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e pode se mover através de qualquer terreno sem as penalidades do seu predecessor. Por ser uma unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}.</Text>
+			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT} é uma unidade indiana exclusiva, que substitui a {TXT_KEY_UNIT_CHARIOT_ARCHER}. É bem mais poderoso, embora mais lento, que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e pode se mover através de qualquer terreno sem as penalidades do seu predecessor. Por ser uma unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INFANTRY_STRATEGY">
 			<Text>A Infantaria é a unidade de combate básica da Era Industrial. É significativamente mais forte que seu predecessor, o Fuzileiro. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, devem ser auxiliadas por Artilharias, Tanques e unidades aéreas (ou antiaéreas).</Text>
