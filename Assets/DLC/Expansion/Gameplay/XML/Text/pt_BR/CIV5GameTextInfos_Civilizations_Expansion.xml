@@ -47,19 +47,19 @@
 			<Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">
-            <Text>Celta|Celta|Celtas|Celtas</Text>
-			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+            <Text>Celta|Celtas</Text>
+            <Gender>neuter|neuter</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_DESC">
             <Text>Império Celta</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+            <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_SHORT_DESC">
-            <Text>Império Celta</Text>
+            <Text>Celtas</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+            <Plurality>2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
             <Text>Etíope|Etíopes</Text>

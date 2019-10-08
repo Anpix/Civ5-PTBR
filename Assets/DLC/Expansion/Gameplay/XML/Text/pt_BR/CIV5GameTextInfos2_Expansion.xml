@@ -286,10 +286,10 @@
 			<Text>Usado para remover outras Religiões de cidades. Somente pode ser obtido por meio de compra com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CELT_PICTISH_WARRIOR">
-			<Text>Somente os Celtas podem treinar esta unidade. Ela possui um bônus de combate ao lutar fora de território amigo e pode saquear melhorias inimigas sem custo de movimento. Ganha 50% da força do oponente como [ICON_PEACE]Fé ao eliminá-lo.</Text>
+			<Text>Somente os Celtas podem treinar esta unidade. Ela possui um bônus de combate ao lutar fora de território amistoso e pode pilhar as melhorias inimigas sem custo adicional de movimento. Ganha 50% da força do oponente como [ICON_PEACE]Fé ao eliminá-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CELT_PICTISH_WARRIOR_STRATEGY">
-			<Text>O Guerreiro Picto é a unidade exclusiva dos Celtas. Ideal para as primeiras investidas, um Guerreiro Picto pode devastar o território inimigo, saqueando e se movendo rapidamente no mesmo turno. Além disso, ele ganha [ICON_PEACE]Fé para cada unidade que eliminar, avançando constantemente seus objetivos religiosos enquanto está em guerra.</Text>
+			<Text>O {TXT_KEY_UNIT_CELT_PICTISH_WARRIOR} é a unidade exclusiva dos Celtas. Ideal para as investidas iniciais, um {TXT_KEY_UNIT_CELT_PICTISH_WARRIOR} pode arrasar as terras de um oponente, pilhando e movendo-se rapidamente no mesmo turno. Além disso, ele ganha [ICON_PEACE]Fé para cada unidade que eliminar, avançando constantemente seus objetivos religiosos enquanto está em guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MAYAN_ATLATLIST">
 			<Text>Somente os Maias podem treinar esta unidade. É mais barata e fica disponível antes do Arqueiro, unidade que ela substitui.</Text>

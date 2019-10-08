@@ -159,10 +159,10 @@
 			<Text>+2 [ICON_MOVES] Movement for all land combat units. Starts with Attila, the Scourge of God. 2 Battering Rams awarded after capturing city for the first time.  +2 [ICON_PRODUCTION] Production per Pasture.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS_SHORT">
-			<Text>Painted Rebels</Text>
+			<Text>Rebeldes Pintados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS">
-			<Text>Combat bonus (+50%) when fighting against a civilization with more cities. Treats forests in friendly territory as roads. Embarked units have +1 [ICON_MOVES] Movement and pay 1 movement point to move from sea to land.</Text>
+			<Text>Bônus de Combate (+50%) quando lutando com uma civilização com mais cidades. Trata florestas em território amigo como estradas. Unidades embarcadas têm +1 [ICON_MOVES]Movimento e pagam 1 ponto de movimento to move do mar para a terra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CLIBANARII_TEXT">
 			<Text>Os {TXT_KEY_UNIT_CLIBANARII[2]} são os equivalentes Sassânidas aos {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT[2]} Bizantinos, embora mais fortemente blindados. Tanto os cavalos como os cavaleiros são totalmente revestidos de malha de ferro, e eram usados em batalhas em cunhas para quebrar as formações de infantaria e de arqueiros inimigos. Os Sassânidas empregaram os {TXT_KEY_UNIT_CLIBANARII[2]} primariamente nos seus exércitos ocientais, principalmente contra as forças do Império Romano Oriental que eram mais afeitas a engajar em batalhas de campo do que as tribos bárbaras ao longo das fronteiras setentrional e oriental.</Text>
@@ -243,10 +243,10 @@
 			<Text>+1 [ICON_HAPPINESS_1] Happiness and +2 [ICON_GOLD] Gold.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_HELP_CELT_PICTISH_WARRIOR">
-			<Text>Only the Celts may build this unit. It has a combat bonus outside of friendly territory and can pillage enemy improvements at no additional movement cost. It also receives a 50% bonus to flank attacks.</Text>
+			<Text>Somente os celtas podem treinar esta unidade. Ela tem um bônus de combate fora do território amistoso e pode pilhar as melhorias inimigas sem custo adicional de movimento. Também recebe um bônus de 50% em ataques de flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_CELT_PICTISH_WARRIOR_STRATEGY">
-			<Text>The Pictish Warrior is the Celt unique unit. Perfectly suited for early rushes, a Pictish Warrior can lay waste to an opponents' lands, quickly pillaging and moving within the same turn. They are best when fighting in groups because of their Brothers in Arms promotion, which gives them a 50% bonus to flank attacks.</Text>
+			<Text>O {TXT_KEY_UNIT_CELT_PICTISH_WARRIOR} é a unidade exclusiva celta. Ideal para as investidas iniciais, um {TXT_KEY_UNIT_CELT_PICTISH_WARRIOR} pode arrasar as terras de um oponente, pilhando e movendo-se rapidamente no mesmo turno. Eles são melhores quando lutam em grupos por causa de sua promoção {TXT_KEY_PROMOTION_FLANK}, o que lhes dá um bônus de 50% em ataques de flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_VP_TECH">
 			<Text>Imperial City Control</Text>
@@ -549,10 +549,10 @@
 			<Text>Move along enemy roads as if they were your own.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FLANK">
-			<Text>Brothers in Arms</Text>
+			<Text>Irmãos de Armas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FLANK_HELP">
-			<Text>+50% modifier on flanking bonus.</Text>
+			<Text>Modificador +50% no bônus em ataques de flanco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_TP_GOLD_FROM_CULTURE">
 			<Text>{1_Num} from the finisher policy converting every 3  [ICON_CULTURE] culture into 1 [ICON_GOLD] gold.</Text>

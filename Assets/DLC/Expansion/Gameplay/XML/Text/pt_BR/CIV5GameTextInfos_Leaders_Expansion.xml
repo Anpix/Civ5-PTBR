@@ -9,8 +9,8 @@
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_BOUDICCA">
-			<Text>Boudicca</Text>
-     		<Gender>feminine</Gender>
+			<Text>Boadiceia</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_DIDO">
 			<Text>Dido</Text>

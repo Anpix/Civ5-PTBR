@@ -8,13 +8,13 @@
     <!--General phrases -->
     <!--Greeting (first time meeting) -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_1">
-      <Text>Saiba que você está agora nas terras dos Celtas. Eu sou Boudicca, sua rainha escolhida. Não me subestime.</Text>
+      <Text>Saiba que você está agora nas terras dos Celtas. Eu sou Boadiceia, sua rainha escolhida. Não me subestime.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_2">
-      <Text>Olá, colega guerreiro. Eu sou Boudicca, líder do povo Celta. Talvez possamos ser aliados neste mundo turbulento.</Text>
+      <Text>Olá, colega guerreiro. Eu sou Boadiceia, líder do povo Celta. Talvez possamos ser aliados neste mundo turbulento.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_3">
-      <Text>Saudações, líder estrangeiro. Eu sou Boudicca, Rainha dos Celtas, escolhida de Prasutagus. Em mim, vivem a vontade do meu povo e a alma de um Rei.</Text>
+      <Text>Saudações, líder estrangeiro. Eu sou Boadiceia, Rainha dos Celtas, escolhida de Prasutagus. Em mim, vivem a vontade do meu povo e a alma de um Rei.</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_1">
