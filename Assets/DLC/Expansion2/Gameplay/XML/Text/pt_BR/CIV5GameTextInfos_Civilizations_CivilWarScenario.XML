@@ -5,33 +5,33 @@
 		<!-- Civs and Leaders-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_DESC">
 			<Text>Estados Unidos da América</Text>
-            <Gender>masculine</Gender>
-            <Plurality>2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_SHORT_DESC">
 			<Text>União</Text>
-            <Gender>feminine</Gender>
-            <Plurality>1</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_ADJECTIVE">
 			<Text>da União|da União</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1|2</Plurality>			
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_DESC">
 			<Text>Estados Confederados da América</Text>
-            <Gender>masculine</Gender>
-            <Plurality>2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_SHORT_DESC">
-			<Text>Confederação</Text>
-            <Gender>feminine</Gender>
-            <Plurality>1</Plurality>			
+			<Text>Confederados</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_ADJECTIVE">
 			<Text>Confederado|Confederada|Confederados|Confederadas</Text>
-           <Gender>masculine|feminine|masculine|feminine</Gender>
-            <Plurality>1|1|2|2</Plurality>			
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>
