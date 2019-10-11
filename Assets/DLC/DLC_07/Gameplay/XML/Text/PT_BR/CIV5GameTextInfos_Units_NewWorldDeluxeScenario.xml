@@ -87,7 +87,7 @@
 		</Row>
 		<!-- Units-->
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS">
-			<Text>Jinetes Comanche|Jinetes Comanches</Text>
+			<Text>Jinete Comanche|Jinetes Comanches</Text>
 			<Gender>neuter:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -107,137 +107,137 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_LEON">
-			<Text>De León</Text>
+			<Text>Ponce De León</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_NARVAEZ">
-			<Text>Narváez</Text>
+			<Text>Pánfilo de Narváez</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_VACA">
-			<Text>De Vaca</Text>
+			<Text>Álvar Núñez Cabeza de Vaca</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_MAGELLAN">
-			<Text>Magalhães</Text>
+			<Text>Fernão de Magalhães</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_SOTO">
-			<Text>De Soto</Text>
+			<Text>Hernando de Soto</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ULLOA">
-			<Text>Ulloa</Text>
+			<Text>Francisco de Ulloa</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_VESPUCCI">
-			<Text>Vespúcio</Text>
+			<Text>Américo Vespúcio</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CARTIER">
-			<Text>Cartier</Text>
+			<Text>Jacques Cartier</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ROBERVAL">
-			<Text>Roberval</Text>
+			<Text>Sieur de Roberval</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHAMPLAIN">
-			<Text>Champlain</Text>
+			<Text>Samuel de Champlain</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_RUT">
-			<Text>Rut</Text>
+			<Text>John Rut</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHANCELLOR">
-			<Text>Chancellor</Text>
+			<Text>Richard Chancellor</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_WILLOUGHBY">
-			<Text>Willoughby</Text>
+			<Text>Hugh Willoughby</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_GRENVILLE">
-			<Text>Grenville</Text>
+			<Text>Richard Grenville</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_HUDSON">
-			<Text>Hudson</Text>
+			<Text>Henry Hudson</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORTES">
-			<Text>Cortés</Text>
+			<Text>Hernán Cortés</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORDOVA">
-			<Text>Córdoba</Text>
+			<Text>Francisco Hernández de Córdoba</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_PIZARRO">
-			<Text>Pizarro</Text>
+			<Text>Francisco Pizarro</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_ORELLANA">
-			<Text>Orellana</Text>
+			<Text>Francisco de Orellana</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORONADO">
-			<Text>Coronado</Text>
+			<Text>Francisco Vázquez de Coronado</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MONTEJO">
-			<Text>Montejo</Text>
+			<Text>Francisco de Montejo</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_BALBOA">
-			<Text>Balboa</Text>
+			<Text>Vasco Núñez de Balboa</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_VILLEGAGNON">
-			<Text>Villegagnon</Text>
+			<Text>Nicolas Durand de Villegagnon</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_LAUDONNIERRE">
-			<Text>Laudonnière</Text>
+			<Text>René Goulaine de Laudonnière</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_RIBAULT">
-			<Text>Ribault</Text>
+			<Text>Jean Ribault</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_DEVEREUX">
-			<Text>Devereux</Text>
+			<Text>Robert Devereux</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_NORREYS">
-			<Text>Norreys</Text>
+			<Text>John Norreys</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -247,17 +247,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_SMITH">
-			<Text>Smith</Text>
+			<Text>John Smith</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_WINTHROP">
-			<Text>Winthrop</Text>
+			<Text>John Winthrop</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_MENENDEZ">
-			<Text>Menéndez</Text>
+			<Text>Pedro Menéndez de Avilés</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -267,52 +267,52 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FLEURY">
-			<Text>Fleury</Text>
+			<Text>Jean Fleury</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_CLERC">
-			<Text>Le Clerc</Text>
+			<Text>François le Clerc</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_TESTU">
-			<Text>Le Testu</Text>
+			<Text>Guillaume Le Testu</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DE_SORES">
-			<Text>De Sores</Text>
+			<Text>Jacques de Sores</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DRAKE">
-			<Text>Drake</Text>
+			<Text>Francis Drake</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_RALEIGH">
-			<Text>Raleigh</Text>
+			<Text>Walter Raleigh</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_HAWKINS">
-			<Text>Hawkins</Text>
+			<Text>John Hawkins</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_CAVENDISH">
-			<Text>Cavendish</Text>
+			<Text>Thomas Cavendish</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FROBISHER">
-			<Text>Frobisher</Text>
+			<Text>Martin Frobisher</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_GILBERT">
-			<Text>Gilbert</Text>
+			<Text>Humphrey Gilbert</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1</Plurality>
 		</Row>
