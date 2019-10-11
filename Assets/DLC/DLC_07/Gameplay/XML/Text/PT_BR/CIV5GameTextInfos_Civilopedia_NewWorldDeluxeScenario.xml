@@ -399,10 +399,10 @@
 		</Row>
 		<!-- Improvements-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID_STRATEGY">
-			<Text>The Pyramid is an Ancient-era building unique to the Maya, replacing the Shrine. It increases the [ICON_RESEARCH] Science and [ICON_PEACE] Faith of a city, speeding Research and the civilization's acquisition of Religions.</Text>
+			<Text>A {TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID} é um edifício da era antiga exclusivo para os maias, substituindo o Santuário. Aumenta a [ICON_RESEARCH]Ciência e a [ICON_PEACE]Fé de uma cidade, acelerando a Pesquisa e a aquisição de Religiões pela civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_BUILDINGS_MAYA_PYRAMID_TEXT">
-			<Text>These impressive, pyramid-shaped structures were built by the Mayans for ceremonial purposes, beginning nearly 3,000 years ago.  The Mayan crafters hand-carved every stone of the building, giving the structures a "stepped" appearance.  A long staircase would run up one side of the pyramid, leading to a small shrine at the top, usually dedicated to one of the Mayan gods.  The largest Mayan Pyramid is located at El Mirador, measuring nearly 260 feet in height.  By volume (almost 99 million cubic feet) it is one of the largest pyramids in the world.  </Text>
+			<Text>Essas impressionantes estruturas em forma de pirâmide foram construídas pelos maias para fins cerimoniais, começando quase 3.000 anos atrás. Os artesãos maias esculpiram a mão todas as pedras do edifício, dando às estruturas uma aparência "de escada". Uma longa escadaria subia de um dos lados da pirâmide, levando a um pequeno santuário no topo, geralmente dedicado a um dos deuses maias. A maior {TXT_KEY_BUILDING_MAYA_PYRAMID} está localizada em El Mirador, medindo quase 80 metros de altura. Em volume (quase 3 milhões de metros cúbicos) é uma das maiores pirâmides do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_HELP">
 			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} pode ser construído apenas em {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} e {TXT_KEY_FEATURE_MARSH[2]}. Ele aumenta a produção de [ICON_FOOD]Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION]Produção e +2 de [ICON_GOLD]Ouro assim que a {TXT_KEY_TECH_ECONOMICS} for pesquisada.</Text>

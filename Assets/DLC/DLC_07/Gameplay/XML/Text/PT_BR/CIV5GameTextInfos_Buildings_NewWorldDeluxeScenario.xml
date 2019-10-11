@@ -11,7 +11,9 @@
 			<Text>Gunsmith Shop</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID">
-			<Text>Pyramid</Text>
+			<Text>Pirâmide Maia|Pirâmides Maias</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
 			<Text>Navigation School</Text>

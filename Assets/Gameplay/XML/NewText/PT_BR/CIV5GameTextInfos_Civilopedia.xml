@@ -693,7 +693,7 @@
 			<Text>O Monumento aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território urbano e a aquisição de Políticas Sociais por parte da civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_STRATEGY">
-			<Text>A Mesquita Piramidal de Lama é um edifício exclusivo Songai que substitui o Templo. Aumenta muito a [ICON_CULTURE]Cultura da cidade, acelerando o crescimento do território urbano e a aquisição de Políticas Sociais por parte da civilização. A Mesquita Piramidal de Lama não tem custos de manutenção.</Text>
+			<Text>A {TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC} é um edifício exclusivo Songai que substitui o {TXT_KEY_BUILDING_TEMPLE}. Aumenta muito a [ICON_CULTURE]Cultura da cidade, acelerando o crescimento do território urbano e a aquisição de Políticas Sociais por parte da civilização. A {TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC} não tem custos de manutenção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_PEDIA">
 			<Text>Os Mongóis eram um povo Islâmico que invadiu a Índia no século 15 e governou grande parte do subcontinente até meados do século 19. Durante este período, construíram fortalezas elaboradas por toda a zona rural que serviam como centros administrativos e moradia para seus ocupantes. Estas fortificações eram estruturas magníficas, palácios dignos de governantes de um vasto império. Vários deles - incluindo o "Forte Lahore" e o Forte Vermelho de Agra - sobrevivem até hoje e permanecem como algumas das maiores atrações turísticas da Índia e monumentos ao poder e estilo dos Mongóis.</Text>
@@ -759,7 +759,7 @@
 			<Text>A Escola Pública é um edifício da fase mediana do jogo que aumenta a produção [ICON_RESEARCH]Científica da cidade, que deve possuir uma Universidade ou Wat para poder construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID_STRATEGY">
-			<Text>As Pirâmides proporcionam um {TXT_KEY_BUILDING_GRANARY} grátis em cada cidade. Também fornece +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Engenheiro. Os {TXT_KEY_BUILDING_GRANARY[2]} aumentam em +2 o fluxo de [ICON_FOOD]Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
+			<Text>{TXT_KEY_BUILDING_PYRAMID} proporcionam um {TXT_KEY_BUILDING_GRANARY} grátis em cada cidade. Também fornece +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Engenheiro. Os {TXT_KEY_BUILDING_GRANARY[2]} aumentam em +2 o fluxo de [ICON_FOOD]Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_PEDIA">
 			<Text>"Sátrapa" é o título de um governador provisório do Império Aquemênida da Pérsia. Os Sátrapas eram nomeados pelo rei, e geralmente eram membros da família real. O Sátrapa era uma figura poderosa, recolhia impostos e constituía a máxima autoridade judicial da província. Ele também era responsável pelo recrutamento e manutenção de um exército e, portanto, tinha que ser uma pessoa de grande confiança para o monarca. À medida que o poder central persa foi se enfraquecendo durante o século 5 a.C., os Sátrapas se tornaram mais independentes e, de fato, alguns foram mais poderosos que o rei a que serviam.[NEWLINE][NEWLINE]Alexander manteve a administração dos Sátrapas após a conquista da Pérsia, às vezes substituindo os Sátrapas por seus generais e outras vezes mantendo os governadores se mantivessem a paz e continuassem pagando seus impostos.</Text>
@@ -1663,7 +1663,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDING_MUD_PYRAMID_MOSQUE_PEDIA">
-			<Text>A Mesquita Piramidal é na realidade um complexo de edifícios que se encontra na cidade de Gao. Conta com uma tumba, duas mesquitas, um cemitério e um campo de reuniões. Segundo a lenda, é o lugar onde está enterrado Askia Mohammad I, um dos maiores Imperadores de Songai. Embora não tão grandes como a Mesquita de Gao, podem ser encontrados outros edifícios parecidos por toda a África Ocidental que atestam a habilidade de construção dos Songai.</Text>
+			<Text>A {TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC} é na realidade um complexo de edifícios que se encontra na cidade de Gao. Conta com uma tumba, duas mesquitas, um cemitério e um campo de reuniões. Segundo a lenda, é o lugar onde está enterrado Askia Mohammad I, um dos maiores Imperadores de Songai. Embora não tão grandes como a Mesquita de Gao, podem ser encontrados outros edifícios parecidos por toda a África Ocidental que atestam a habilidade de construção dos Songai.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARMORY_HEADING">
 			<Text>Depósito de Armas</Text>
@@ -1813,7 +1813,7 @@
 			<Text>Monumento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MUDMOSQUE_HEADING">
-			<Text>Mesquita Piramidal de Barro</Text>
+			<Text>{TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MUGHALFORT_HEADING">
 			<Text>Forte Mughal</Text>
@@ -11184,7 +11184,7 @@
 			<Text>Criada pela quarta dinastia de governantes do Egito, as pirâmides representam o ápice da realização cultural do antigo Egito. Construídas no planalto de Gizé, fora do Cairo dos tempos modernos, essas estruturas foram túmulos e monumentos para os faraós, e podem ter levado gerações e dezenas de milhares de trabalhadores para serem concluídas. As pirâmides são as únicas das geralmente aceitas, maravilhas do mundo antigo feitas pelo homem, que continuam a existir atualmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PYRAMIDS_HEADING">
-			<Text>As Pirâmides</Text>
+			<Text>{TXT_KEY_BUILDING_PYRAMID}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PYRAMIDS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Oh, Não deixe que as dores da morte que te salteiam penetrem meus membros. Sou o deus Tem, e estou na parte mais dianteira do céu, e o poder que me protege é o que está com todos os deuses para sempre."[NEWLINE][TAB][TAB] - O livro dos Mortos, traduzido por Sir Ernest Alfred Wallis Budge[NEWLINE][TAB]</Text>

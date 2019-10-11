@@ -66,8 +66,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SHRINE">
 			<Text>Santuário|Santuários</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
 			<Text>Centro de Reciclagem|Centros de Reciclagens</Text>
@@ -112,9 +112,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_COFFEE_HOUSE">
-			<Text>Casa de Café</Text>
+			<Text>Casa de Café|Casas de Café</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STELE">
 			<Text>Estela</Text>
@@ -122,9 +122,9 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAYA_PYRAMID">
-			<Text>Pirâmide</Text>
+			<Text>Pirâmide Maia|Pirâmides Maias</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE">
 			<Text>Grande Templo</Text>
