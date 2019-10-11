@@ -5,167 +5,167 @@
         <!-- ETHIOPIA -->
         <Row Tag="TXT_KEY_CITY_NAME_ADDISABABA">
             <Text>Addis Ababa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_HARAR">
             <Text>Harar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_ADWA">
             <Text>Adwa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_LALIBELA">
             <Text>Lalibela</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_GONDAR">
             <Text>Gondar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_AXUM">
             <Text>Axum</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DIREDAWA">
             <Text>Dire Dawa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_BAHIRDAR">
             <Text>Bahir Dar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_ADAMA">
             <Text>Adama</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_MEKELE">
             <Text>Mek'ele</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_AWASA">
             <Text>Awasa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_JIMMA">
             <Text>Jimma</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_JIJIGA">
             <Text>Jijiga</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DESSIE">
             <Text>Dessie</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DEBREBERHAN">
             <Text>Debre Berhan</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SHASHAMANE">
             <Text>Shashamane</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DEBREZEYIT">
             <Text>Debre Zeyit</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SODO">
             <Text>Sodo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_HOSAENA">
             <Text>Hosaena</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_NEKEMTE">
             <Text>Nekemte</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_ASELLA">
             <Text>Asella</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DILA">
             <Text>Dila</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_ADIGRAT">
             <Text>Adigrat</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DEBREMARKOS">
             <Text>Debre Markos</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_KOMBOLCHA">
             <Text>Kombolcha</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_DEBRETABOR">
             <Text>Debre Tabor</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SEBETA">
             <Text>Sebeta</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_SHIRE">
             <Text>Shire</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_AMBO">
             <Text>Ambo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_NEGELEARSI">
             <Text>Negele Arsi</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_GAMBELA">
             <Text>Gambela</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_ZIWAY">
             <Text>Ziway</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITY_NAME_WELDIYA">
             <Text>Weldiya</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
     </Language_pt_BR>
