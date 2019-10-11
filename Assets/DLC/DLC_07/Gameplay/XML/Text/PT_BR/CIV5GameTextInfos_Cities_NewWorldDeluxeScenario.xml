@@ -6,593 +6,985 @@
 		<!-- Cities-->
 		<Row Tag="TXT_KEY_CITY_NAME_SANTO_DOMINGO">
 			<Text>Santo Domingo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NOMBRE_DE_DIOS">
 			<Text>Nombre de Dios</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAN_JUAN">
 			<Text>San Juan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HAVANA">
 			<Text>Havana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PANAMA">
-			<Text>Panama</Text>
+			<Text>Panamá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VERACRUZ">
 			<Text>Veracruz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
 			<Text>Acapulco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CARTAGENA">
 			<Text>Cartagena</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BUENOS_AIRES">
 			<Text>Buenos Aires</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CALLAO">
 			<Text>Callao</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
-			<Text>Asuncion</Text>
+			<Text>Assunção</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VALPARAISO">
-			<Text>Valparaiso</Text>
+			<Text>Valparaíso</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ANTIGUA">
-			<Text>Antigua</Text>
+			<Text>Antígua</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ROANOKE_ISLAND">
-			<Text>Roanoke Island</Text>
+			<Text>Ilha Roanoke</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JAMESTOWN">
 			<Text>Jamestown</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ST_GEORGE">
 			<Text>St. George</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ST_JOHNS">
 			<Text>St. John's</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH_COLONY">
-			<Text>Plymouth Colony</Text>
+			<Text>Colônia Plymouth</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SALEM">
 			<Text>Salem</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
 			<Text>Windsor</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WETHERSFIELD">
 			<Text>Wethersfield</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ST_MARYS_CITY">
 			<Text>St. Mary's City</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAYBROOK">
 			<Text>Saybrook</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PROVIDENCE">
 			<Text>Providence</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHARLESBOURG_ROYALE">
-			<Text>Charlesbourg Royale</Text>
+			<Text>Charlesbourg-Royal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MONTREAL">
 			<Text>Montreal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FRANCE_ANTARCTIQUE">
-			<Text>France Antarctique</Text>
+			<Text>França Antártica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FORT_CAROLINE">
-			<Text>Fort Caroline</Text>
+			<Text>Forte Carolina</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TADOUSSAC">
 			<Text>Tadoussac</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PORT_ROYAL">
 			<Text>Port Royal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_QUEBEC">
 			<Text>Quebec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAINT_CRISTOPHE">
-			<Text>Saint Cristophe</Text>
+			<Text>San Cristóbal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TROIS_RIVIERES">
-			<Text>Trois Rivieres</Text>
+			<Text>Trois-Rivières</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DOMINICA">
 			<Text>Dominica</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FORT_SAINT_PIERRE">
-			<Text>Fort Saint Pierre</Text>
+			<Text>Forte Saint Pierre</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CAYENNE">
-			<Text>Cayenne</Text>
+			<Text>Caiena</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LA_GRENADE">
 			<Text>La Grenade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PORTO_SEGURO">
 			<Text>Porto Seguro</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAO_VICENTE">
-			<Text>Sao Vicente</Text>
+			<Text>São Vicente</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SALVADOR_DA_BAHIA">
 			<Text>Salvador da Bahia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAO_CRISTOVAO">
-			<Text>Sao Cristovao</Text>
+			<Text>São Cristóvão</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_IGARASSU">
 			<Text>Igarassu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_OLINDA">
 			<Text>Olinda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BEVERWIJCK">
 			<Text>Beverwijck</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NEW_AMSTERDAM">
-			<Text>New Amsterdam</Text>
+			<Text>Nova Amsterdam</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PAVONIA">
 			<Text>Pavonia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CURACAO">
-			<Text>Curacao</Text>
+			<Text>Curaçau</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BONAIRE">
 			<Text>Bonaire</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ARUBA">
 			<Text>Aruba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SINT_EUSTATIUS">
-			<Text>Sint Eustatius</Text>
+			<Text>Santo Eustáquio</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FORT_GOEDE_HOOP">
-			<Text>Fort Goede Hoop</Text>
+			<Text>Forte Goede Hoop</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SINT_MAARTEN">
-			<Text>Sint Maarten</Text>
+			<Text>São Martinho</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SABA">
 			<Text>Saba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WILTWIJCK">
 			<Text>Wiltwijck</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PARAMARIBO">
 			<Text>Paramaribo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FORT_KYK_OVER_AL">
-			<Text>Fort Kyk-Over-Al</Text>
+			<Text>Forte Kyk-Over-Al</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<!-- MAYA -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHICHENITZA">
-			<Text>Chichen Itza</Text>
+			<Text>Chichén Itzá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UXMAL">
 			<Text>Uxmal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TULUM">
 			<Text>Tulum</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COPAN">
-			<Text>Copan</Text>
+			<Text>Copán</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COBA">
-			<Text>Coba</Text>
+			<Text>Cobá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ELMIRADOR">
 			<Text>El Mirador</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CALAKMUL">
 			<Text>Calakmul</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_EDZNA">
-			<Text>Edzna</Text>
+			<Text>Edzná</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LAMANAI">
 			<Text>Lamanai</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IZAPA">
 			<Text>Izapa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UAXACTUN">
-			<Text>Uaxactun</Text>
+			<Text>Uaxactún</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COMALCALCO">
 			<Text>Comalcalco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PIEDRANEGRAS">
 			<Text>Piedras Negras</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CANCUEN">
-			<Text>Cancuen</Text>
+			<Text>Cancuén</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_YAXHA">
-			<Text>Yaxha</Text>
+			<Text>Yaxhá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_QUIRIGUA">
-			<Text>Quirigua</Text>
+			<Text>Quiriguá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_QUMARKAJ">
 			<Text>Q'umarkaj</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NAKBE">
-			<Text>Nakbe</Text>
+			<Text>Nakbé</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CERROS">
 			<Text>Cerros</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_XUNANTUNICH">
 			<Text>Xunantunich</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAKALIKABAJ">
-			<Text>Takalik Abaj</Text>
+			<Text>Tak'alik A'baj</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CIVAL">
 			<Text>Cival</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANBARTOLO">
 			<Text>San Bartolo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALTARDESACRIFICIOS">
-			<Text>Altar de Sacrificios</Text>
+			<Text>Altar de Sacrifícios</Text>
+			<Gender>nasculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SEIBAL">
 			<Text>Seibal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CARACOL">
 			<Text>Caracol</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NARANJO">
-			<Text>Naranjo</Text>
+			<Text>El Naranjo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DOSPILAS">
 			<Text>Dos Pilas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MAYAPAN">
-			<Text>Mayapan</Text>
+			<Text>Mayapán</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IXINCHE">
-			<Text>Ixinche</Text>
+			<Text>Iximché</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZACULEU">
 			<Text>Zaculeu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KABAH">
 			<Text>Kabah</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<!-- NETHERLANDS -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AMSTERDAM">
-			<Text>Amsterdam</Text>
+			<Text>Amsterdã</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ROTTERDAM">
-			<Text>Rotterdam</Text>
+			<Text>Roterdão</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UTRECHT">
-			<Text>Utrecht</Text>
+			<Text>Utreque</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRONINGEN">
-			<Text>Groningen</Text>
+			<Text>Groninga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BREDA">
 			<Text>Breda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NIJMEGEN">
-			<Text>Nijmegen</Text>
+			<Text>Nimegue</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_THEHAGUE">
 			<Text>Haia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HAARLEM">
 			<Text>Haarlem</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ARNHEM">
 			<Text>Arnhem</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZUTPHEN">
 			<Text>Zutphen</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MAASTRICHT">
 			<Text>Mastrique</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TILBURG">
 			<Text>Tilburgo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_EINDHOVEN">
 			<Text>Eindhoven</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DORDRECHT">
 			<Text>Dordrecht</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LEIDEN">
-			<Text>Leiden</Text>
+			<Text>Leida</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SHERTOGENBOSCH">
 			<Text>'s-Hertogenbosch</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALMERE">
 			<Text>Almere</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALKMAAR">
 			<Text>Alkmaar</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BRIELLE">
 			<Text>Brielle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VLISSINGEN">
-			<Text>Vlissingen</Text>
+			<Text>Flessingue</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_APELDOOM">
 			<Text>Apeldoorn</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ENSCHEDE">
 			<Text>Enschede</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AMERSFOORT">
 			<Text>Amersfoort</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZWOLLE">
 			<Text>Zwolle</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VENLO">
 			<Text>Venlo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UDEN">
 			<Text>Uden</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRAVE">
 			<Text>Grave</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DELFT">
 			<Text>Delft</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GOUDA">
 			<Text>Gouda</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NIEUWSTADT">
 			<Text>Nieuwstadt</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_WEESP">
 			<Text>Weesp</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COEVORDEN">
 			<Text>Coevorden</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KERKRADE">
 			<Text>Kerkrade</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
+		<!-- PERU -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CUSCO">
 			<Text>Cusco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TIWANAKU">
-			<Text>Tiwanaku</Text>
+			<Text>Tiauanaco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MACHU">
 			<Text>Machu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_OLLANTAYTAMBO">
 			<Text>Ollantaytambo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CORIHUAYACHINA">
 			<Text>Corihuayrachina</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUAMANGA">
 			<Text>Huamanga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VILCAS">
 			<Text>Vilcas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VILCABAMBA">
 			<Text>Vilcabamba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VITCOS">
 			<Text>Vitcos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ANDAHUAYLAS">
 			<Text>Andahuaylas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ICA">
 			<Text>Ica</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AREQUIPA">
 			<Text>Arequipa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NASCA">
 			<Text>Nasca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ATICO">
 			<Text>Atico</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_JULI">
 			<Text>Juli</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUITO">
-			<Text>Chuito</Text>
+			<Text>Quito</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUQUIAPO">
 			<Text>Chuquiapo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUANUCOPAMPA">
-			<Text>Huanuco Pampa</Text>
+			<Text>Huánuco Pampa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAMBOCCOCHA">
 			<Text>Tambococha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUARAS">
 			<Text>Huaras</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_RIOBAMBA">
 			<Text>Riobamba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CAXAMALCA">
 			<Text>Caxamalca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SAUSA">
 			<Text>Sausa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAMBOCOLORADO">
 			<Text>Tambo Colorado</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUACA">
 			<Text>Huaca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TUMBES">
 			<Text>Tumbes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHAN_CHAN">
 			<Text>Chan Chan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SIPAN">
-			<Text>Sipan</Text>
+			<Text>Sipán</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PACHACAMAC">
-			<Text>Pachacamac</Text>
+			<Text>Pachacámac</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LLACTAPATA">
 			<Text>Llactapata</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PISAC">
 			<Text>Pisac</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KUELAP">
 			<Text>Kuelap</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PAJATEN">
-			<Text>Pajaten</Text>
+			<Text>Pajáten</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUCUITO">
 			<Text>Chucuito</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
+		<!-- SPAIN -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MADRID">
-			<Text>Madrid</Text>
+			<Text>Madri</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BARCELONA">
 			<Text>Barcelona</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SEVILLE">
-			<Text>Seville</Text>
+			<Text>Sevilha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CORDOBA">
-			<Text>Cordoba</Text>
+			<Text>Córdova</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TOLEDO">
 			<Text>Toledo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANTIAGO">
 			<Text>Santiago</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SALAMANCA">
 			<Text>Salamanca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VALENCIA">
-			<Text>Valencia</Text>
+			<Text>Valência</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZARAGOZA">
-			<Text>Zaragoza</Text>
+			<Text>Saragoça</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PAMPLONA">
 			<Text>Pamplona</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANTANDER">
 			<Text>Santander</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VALLADOLID">
-			<Text>Valladolid</Text>
+			<Text>Valhadolid</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PALMA">
 			<Text>Palma</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LEON">
-			<Text>Leon</Text>
+			<Text>Leão</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BILBAO">
-			<Text>Bilbao</Text>
+			<Text>Bilbau</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LA_CORUNA">
-			<Text>La Coruna</Text>
+			<Text>Corunha</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VITORIA">
-			<Text>Vitoria</Text>
+			<Text>Vitória</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ASTURIAS">
-			<Text>Asturias</Text>
+			<Text>Astúrias</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MURCIA">
-			<Text>Murcia</Text>
+			<Text>Múrcia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_JAEN">
-			<Text>Jaen</Text>
+			<Text>Xaén</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LOGRONO">
-			<Text>Logrono</Text>
+			<Text>Logronho</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TERUEL">
 			<Text>Teruel</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALMERIA">
 			<Text>Almeria</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZAMORA">
-			<Text>Zamora</Text>
+			<Text>Samora</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MIDA">
 			<Text>Mida</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LUGO">
 			<Text>Lugo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALICANTE">
 			<Text>Alicante</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CADIZ">
-			<Text>Cadiz</Text>
+			<Text>Cádis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ELCHE">
 			<Text>Elche</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALCORCON">
-			<Text>Alcorcon</Text>
+			<Text>Alcorcón</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BURGOS">
 			<Text>Burgos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VIGO">
 			<Text>Vigo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BADAJOZ">
 			<Text>Badajoz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_OVIEDO">
 			<Text>Oviedo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SAN_SEBASTIAN">
-			<Text>San Sebastian</Text>
+			<Text>San Sebastián</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRANADA">
 			<Text>Granada</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MERIDA">
-			<Text>Merida</Text>
+			<Text>Mérida</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUELVA">
 			<Text>Huelva</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IBIZA">
 			<Text>Ibiza</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LAS_PALMAS">
 			<Text>Las Palmas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TENERIFE">
 			<Text>Tenerife</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

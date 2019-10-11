@@ -6,113 +6,186 @@
 <!-- Game Text Cities -->
 <GameData>
 	<Language_pt_BR>
+		<!-- Cities-->
 		<Row Tag="TXT_KEY_CITY_NAME_SANTO_DOMINGO">
 			<Text>Santo Domingo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NOMBRE_DE_DIOS">
 			<Text>Nombre de Dios</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAN_JUAN">
 			<Text>San Juan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HAVANA">
 			<Text>Havana</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PANAMA">
-			<Text>Panama</Text>
+			<Text>Panamá</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VERACRUZ">
 			<Text>Veracruz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
 			<Text>Acapulco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CARTAGENA">
 			<Text>Cartagena</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BUENOS_AIRES">
 			<Text>Buenos Aires</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CALLAO">
 			<Text>Callao</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
 			<Text>Assunção</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VALPARAISO">
-			<Text>Valparaiso</Text>
+			<Text>Valparaíso</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ANTIGUA">
-			<Text>Antigua</Text>
+			<Text>Antígua</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ROANOKE_ISLAND">
 			<Text>Ilha Roanoke</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JAMESTOWN">
 			<Text>Jamestown</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ST_GEORGE">
 			<Text>St. George</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ST_JOHNS">
-			<Text>St. John</Text>
+			<Text>St. John's</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH_COLONY">
 			<Text>Colônia Plymouth</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SALEM">
 			<Text>Salem</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
 			<Text>Windsor</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WETHERSFIELD">
 			<Text>Wethersfield</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ST_MARYS_CITY">
-			<Text>St. Mary</Text>
+			<Text>St. Mary's City</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAYBROOK">
 			<Text>Saybrook</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PROVIDENCE">
 			<Text>Providence</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHARLESBOURG_ROYALE">
-			<Text>Charlesbourg Royale</Text>
+			<Text>Charlesbourg-Royal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MONTREAL">
 			<Text>Montreal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FRANCE_ANTARCTIQUE">
 			<Text>França Antártica</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FORT_CAROLINE">
-			<Text>Fort Caroline</Text>
+			<Text>Forte Carolina</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TADOUSSAC">
 			<Text>Tadoussac</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PORT_ROYAL">
 			<Text>Port Royal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_QUEBEC">
 			<Text>Quebec</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAINT_CRISTOPHE">
-			<Text>Saint Cristophe</Text>
+			<Text>San Cristóbal</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TROIS_RIVIERES">
-			<Text>Trois Rivieres</Text>
+			<Text>Trois-Rivières</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DOMINICA">
 			<Text>Dominica</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FORT_SAINT_PIERRE">
-			<Text>Fort Saint Pierre</Text>
+			<Text>Forte Saint Pierre</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CAYENNE">
-			<Text>Cayenne</Text>
+			<Text>Caiena</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LA_GRENADE">
 			<Text>La Grenade</Text>
