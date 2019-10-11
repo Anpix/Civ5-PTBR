@@ -289,7 +289,7 @@
 			<Text>Nijmegen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_THEHAGUE">
-			<Text>The Hague</Text>
+			<Text>Haia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HAARLEM">
 			<Text>Haarlem</Text>
@@ -301,10 +301,10 @@
 			<Text>Zutphen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MAASTRICHT">
-			<Text>Maastricht</Text>
+			<Text>Mastrique</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TILBURG">
-			<Text>Tilburg</Text>
+			<Text>Tilburgo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_EINDHOVEN">
 			<Text>Eindhoven</Text>
