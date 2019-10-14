@@ -1705,7 +1705,7 @@
 			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Celeiro[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]Santuário[ENDCOLOR], o primeiro edifício do jogo que fornece [ICON_PEACE]Fé.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRANARY}[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SHRINE}[ENDCOLOR], o primeiro edifício do jogo que fornece [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SAILING_HELP">
 			<Text>Permite a construção de embarcações militares e comerciais, úteis para exploração e colheita de recursos aquáticos como [ICON_RES_FISH][COLOR_POSITIVE_TEXT]Peixe[ENDCOLOR], [ICON_RES_PEARLS][COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR], [ICON_RES_WHALE][COLOR_POSITIVE_TEXT]Baleias[ENDCOLOR] e [ICON_RES_CRAB][COLOR_POSITIVE_TEXT]Caranguejo[ENDCOLOR].</Text>
