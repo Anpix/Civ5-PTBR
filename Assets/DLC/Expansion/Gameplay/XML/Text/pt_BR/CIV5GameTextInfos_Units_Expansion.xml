@@ -13,8 +13,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MISSIONARY">
 			<Text>Missionário|Missionários</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INQUISITOR">
 			<Text>Inquisidor|Inquisidores</Text>

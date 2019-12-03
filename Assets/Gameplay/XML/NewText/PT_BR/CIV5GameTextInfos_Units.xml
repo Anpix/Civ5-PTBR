@@ -127,9 +127,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE">
-			<Text>Navio de Linha</Text>
+			<Text>Navio de Linha|Navios de Linha</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FIGHTER">
 			<Text>Avião de Combate</Text>
@@ -147,9 +147,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRIGATE">
-			<Text>Fragata</Text>
+			<Text>Fragata|Fragatas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GALLEY">
 			<Text>Galé|Galés</Text>
