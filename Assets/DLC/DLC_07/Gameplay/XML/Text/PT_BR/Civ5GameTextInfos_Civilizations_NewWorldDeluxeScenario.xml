@@ -3,52 +3,79 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_ADJECTIVE">
-			<Text>Incan</Text>
+			<Text>Inca|Incas</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_DESC">
-			<Text>Incan Empire</Text>
+			<Text>Império Inca</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_SHORT_DESC">
-			<Text>The Inca</Text>
+			<Text>Incas</Text>
+			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_ADJECTIVE">
-			<Text>Spanish</Text>
+			<Text>Espanhol|Espanhola|Espanhóis|Espanholas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_DESC">
-			<Text>Spanish Empire</Text>
+			<Text>Império Espanhol</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_SHORT_DESC">
-			<Text>Spain</Text>
+			<Text>Espanha</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_ADJECTIVE">
-			<Text>Mayan</Text>
+			<Text>Maia|Maias</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_DESC">
-			<Text>Mayan Empire</Text>
+			<Text>Império Maia</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_SHORT_DESC">
-			<Text>The Maya</Text>
+			<Text>Maias</Text>
+			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_ADJECTIVE">
-			<Text>Dutch</Text>
+			<Text>Holandês|Holandesa|Holandeses|Holandesas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_DESC">
-			<Text>Dutch Empire</Text>
+			<Text>Império Holandês</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_SHORT_DESC">
-			<Text>The Netherlands</Text>
+			<Text>Países Baixos</Text>
+			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_ADJECTIVE">
-			<Text>Old World European</Text>
+			<Text>Europeu do Velho Mundo|Europeia do Velho Mundo|Europeus do Velho Mundo|Europeias do Velho Mundo</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_DESC">
-			<Text>Old World Europe</Text>
+			<Text>Europa do Velho Mundo</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_SHORT_DESC">
-			<Text>Old World</Text>
+			<Text>Velho Mundo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>
