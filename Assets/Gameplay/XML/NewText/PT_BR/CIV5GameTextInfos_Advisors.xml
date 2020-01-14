@@ -340,7 +340,7 @@
 			<Text>Mostre a unidade naval</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
-			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} permitem que você explore os recursos de peixes e baleias ao longo da sua costa. Assim que explorar esses locais, os TXT_KEY_UNIT_WORK_BOAT[2] serão convertidos definitivamente.</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} permitem que você explore os recursos de peixes e baleias ao longo da sua costa. Assim que explorar esses locais, os {TXT_KEY_UNIT_WORK_BOAT[2]} serão convertidos definitivamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
 			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>
