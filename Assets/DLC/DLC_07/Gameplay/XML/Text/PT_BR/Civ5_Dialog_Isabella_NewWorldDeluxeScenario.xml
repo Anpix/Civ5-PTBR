@@ -2,241 +2,240 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_1">
-			<Text>Very well.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_2">
-			<Text>All right.</Text>
+			<Text>Tudo bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_3">
-			<Text>Certainly.</Text>
+			<Text>Certamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_4">
-			<Text>With Heaven's blessing.</Text>
+			<Text>Com as bênçãos dos céus.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_1">
-			<Text>You dare attack me! By Heaven, I shall smite you!</Text>
+			<Text>Você se atreve a me atacar! Pelos céus, eu castigarei você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_2">
-			<Text>You loathsome spawn of evil, you shall pay!</Text>
+			<Text>Seu verme repugnante, você pagará!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_3">
-			<Text>With the aid of Heaven, I shall surely vanquish you.</Text>
+			<Text>Com a ajuda dos céus, eu certamente aniquilarei você.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_1">
-			<Text>As the sword of Heaven shall cleave the shield of Evil, so shall I vanquish you! Prepare for war!</Text>
+			<Text>Como a espada celestial quebrará o escudo do mal, também eu aniquilarei você! Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_2">
-			<Text>Heaven may forgive you; I shall not. Prepare for war!</Text>
+			<Text>Os céus podem até perdoar você, eu não perdoarei! Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_3">
-			<Text>I pray for your soul. Your body, on the other hand, I shall destroy. Prepare for war!</Text>
+			<Text>Eu rezarei por sua alma. Seu corpo, por outro lado, eu devo destruir. Prepare-se para a guerra!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_1">
-			<Text>Very well. This is surely Heaven's will; I must submit.</Text>
+			<Text>Muito bem. Isso certamente é a vontade dos Céus; eu devo aceitar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_2">
-			<Text>All is lost. Evil has triumphed - for now. But beware, for Heaven will surely be victorious in the end!</Text>
+			<Text>Tudo está perdido. O mal triunfou - por enquanto. Mas esteja preparado, pois os Céus certamente serão vitoriosos no final!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_3">
-			<Text>All is lost. Evil has triumphed - for now. But beware, for Heaven will surely be victorious in the end!</Text>
+			<Text>{TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_2}</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_ANGRY">
-			<Text>You could do much to shorten your stay in perdition by performing acts of charity while you are alive.</Text>
+			<Text>Você poderia encurtar sua estadia no purgatório realizando atos de caridade enquanto está vivo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_HAPPY">
-			<Text>My friend, I believe that Heaven would want you to give us the following.</Text>
+			<Text>Meu amigo, acredito que os Céus gostariam que você nos desse o seguinte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_NEUTRAL">
-			<Text>Spain needs the following from you to help fund her unending battle against the sinful.</Text>
+			<Text>A Espanha precisa do seguinte para ajudar na sua batalha sem fim contra os pecadores.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_1">
-			<Text>Before Heaven, I shall not.</Text>
+			<Text>Diante dos Céus, eu não devo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_2">
-			<Text>No.</Text>
+			<Text>Não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_3">
-			<Text>Certainly not.</Text>
+			<Text>Certamente não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_4">
-			<Text>That's unacceptable.</Text>
+			<Text>Isso é inaceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_5">
-			<Text>Of course not.</Text>
+			<Text>É claro que não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_6">
-			<Text>That's unacceptable.</Text>
+			<Text>Isso é inaceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_7">
-			<Text>You cannot be serious!</Text>
+			<Text>Você não pode estar falando sério!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_1">
-			<Text>By the grace of Almighty Heaven, I am Isabella, Queen of Spain. Are you a righteous ruler?</Text>
+			<Text>Pela graça do Todo-Poderoso Céu, eu sou Isabel, Rainha da Espanha. Você é um soberano justo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_2">
-			<Text>May the blessings of Heaven fall upon those who deserve them! I am Isabella of Spain.</Text>
+			<Text>Que as graças dos Céus caiam sobre aqueles que as merecem! Eu sou Isabel da Espanha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_3">
-			<Text>I am Isabella, Anointed Queen of Spain. Are you a heathen, or a believer?</Text>
+			<Text>Eu sou Isabel, Rainha Ungida da Espanha. Você é um pagão, ou um cristão?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_1">
-			<Text>May Heaven bless you!</Text>
+			<Text>Que os Céus abençoem você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_2">
-			<Text>Goodbye.</Text>
+			<Text>Adeus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_3">
-			<Text>Until we meet again.</Text>
+			<Text>Até nos vermos novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_4">
-			<Text>Go away now.</Text>
+			<Text>Vá agora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_5">
-			<Text>That is all.</Text>
+			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_6">
-			<Text>Farewell.</Text>
+			<Text>Até logo.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_1">
-			<Text>Blessings.</Text>
+			<Text>Bênçãos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_2">
-			<Text>Blessings be upon you.</Text>
+			<Text>Abençoado seja você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_3">
-			<Text>Greetings.</Text>
+			<Text>Saudações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_4">
-			<Text>Oh, it's you.</Text>
+			<Text>Oh, é você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_5">
-			<Text>Well?</Text>
+			<Text>Então?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_6">
-			<Text>What do you want?</Text>
+			<Text>O que você quer?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_1">
-			<Text>Go on.</Text>
+			<Text>Diga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_2">
-			<Text>Go ahead.</Text>
+			<Text>Vá em frente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_3">
-			<Text>Proceed.</Text>
+			<Text>Prossiga.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_4">
-			<Text>I'm listening.</Text>
+			<Text>Estou ouvindo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_5">
-			<Text>Yes?</Text>
+			<Text>Sim?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LOSEWAR_1">
-			<Text>Heaven will surely bless you for your mercy to a defeated foe.</Text>
+			<Text>Os Céus certamente abençoarão você pela sua misericórdia a um inimigo derrotado.</Text>
 		</Row>
-
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Greed is a sin, leading to everlasting perdition. I pray that you will improve your offer.</Text>
+			<Text>A ganância é um pecado que leva à perdição eterna. Eu rezo para que você melhore sua oferta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_2">
-			<Text>You must do better than that.</Text>
+			<Text>Você precisa fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_3">
-			<Text>That's not good enough.</Text>
+			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_1">
-			<Text>Avarice is a sin. Will you not improve your offer?</Text>
+			<Text>A avareza é um pecado. Você não melhoraria sua oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_2">
-			<Text>Is that the best you can do?</Text>
+			<Text>Isso é o melhor que você pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_3">
-			<Text>You're almost there...</Text>
+			<Text>Você está quase lá...</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Generosity is good for the soul. Can you not improve your offer?</Text>
+			<Text>A generosidade faz bem à alma. Você não pode melhorar sua oferta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_2">
-			<Text>That's not quite good enough."</Text>
+			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>Almost...</Text>
+		  <Text>Quase...</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_ANGRY">
-			<Text>I will not listen to your serpent's tongue. Your offer is declined.</Text>
+			<Text>Eu não vou dar ouvidos à sua língua de víbora. Sua oferta está recusada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_HAPPY">
-			<Text>If you search deep within your soul, you will see that your offer is unfair. I must decline it.</Text>
+			<Text>Se você olhar no fundo da sua alma, verá que sua oferta é injusta. Eu devo recusá-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_NEUTRAL">
-			<Text>I am appointed by Heaven to be custodian of my people's wealth. Your offer is unfair and I cannot agree to it.</Text>
+			<Text>Eu fui apontada pelos Céus para ser guardiã da riqueza do meu povo. Sua oferta é injusta e eu não posso concordar com ela.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_ANGRY">
-			<Text>We agree. You may go.</Text>
+			<Text>Nós aceitamos. Você pode ir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_HAPPY">
-			<Text>You are truly a fair and just negotiator. We agree.</Text>
+			<Text>Você é mesmo um negociador justo e honesto. Nós aceitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_NEUTRAL">
-			<Text>Your terms are just. We agree.</Text>
+			<Text>Seus termos são justos. Nós aceitamos.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_ANGRY">
-			<Text>As ruler of Spain, it is sometimes my duty to treat with people I find distasteful. Now is such a time.</Text>
+			<Text>Como soberana da Espanha, é meu dever às vezes tratar com pessoas que eu penso ser intragáveis. Agora é uma dessas vezes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_HAPPY">
-			<Text>My beloved friend, I believe that this trade will benefit us both and bring confusion to our enemies.</Text>
+			<Text>Meu querido amigo, acredito que este acordo benéficiará ambos os lados e trará confusão aos nossos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_NEUTRAL">
-			<Text>I hope that this trade receives your blessing.</Text>
+			<Text>Eu espero que este acordo receba suas bênçãos.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_ANGRY">
-			<Text>You dare? I am astonished that you have not been struck by lightning for your temerity!</Text>
+			<Text>Você se atreve? Estou surpresa por você não ter sido atingido por um raio por sua insolência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_HAPPY">
-			<Text>I cannot give you what you want now – but I promise to pray for your salvation.</Text>
+			<Text>Eu não posso dar o que você quer agora - mas eu prometo rezar por sua salvação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_NEUTRAL">
-			<Text>You are not worthy of such generosity.</Text>
+			<Text>Você não é merecedor de tanta generosidade.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_ANGRY">
-			<Text>I pray that your sinful heart will be shamed by our selfless generosity.</Text>
+			<Text>Eu rezo para que o seu coração pecador fique envergonhado por nossa generosidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_HAPPY">
-			<Text>Of course: the righteous must stand together against the unbelievers!</Text>
+			<Text>Claro: os justos devem ficar juntos contra os pagãos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_NEUTRAL">
-			<Text>Certainly: Heaven commands us to give generously to the needy.</Text>
+			<Text>Certamente: os Céus nos comandam a sermos generosos com quem precisa.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_1">
-			<Text>Heaven is very disappointed in you.</Text>
+			<Text>Os Céus estão muito desapontadoa com você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_2">
-			<Text>You are playing a dangerous game.</Text>
+			<Text>Você está jogando um jogo perigoso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_3">
-			<Text>Very well. The next time I shall not be so polite!</Text>
+			<Text>Muito bem. Na próxima vez eu não serei tão cortês!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WINWAR_1">
-			<Text>You are fortunate that Heaven asks us to be merciful, else I would destroy you.</Text>
+			<Text>Você é afortunado pelos Céus nos pedirem para sermos misericordiosos, senão eu destruiria você.</Text>
 		</Row>
 
 	</Language_pt_BR>
