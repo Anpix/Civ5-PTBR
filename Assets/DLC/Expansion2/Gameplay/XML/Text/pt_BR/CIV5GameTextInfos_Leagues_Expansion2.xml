@@ -1,4 +1,5 @@
-﻿<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
 <GameData>
 	<Language_pt_BR>
 		<!-- Diplomacy Screen-->
@@ -507,7 +508,7 @@
 			<Text>{1_ResolutionName} não foi aceita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_MEMBER_VOTE">
-			<Text>[ICON_BULLET]{1_NumVotes} para {2_ResolutionChoiceText} {@3: plural 2?{@3: gender feminine?das; other?dos;}; other?{@3: gender feminine?da; other?do;}; {@3_CivName}</Text>
+			<Text>[ICON_BULLET]{1_NumVotes} para {2_ResolutionChoiceText} {@3: plural 2?{@3: gender feminine?das; other?dos;}; other?{@3: gender feminine?da; other?do;};} {@3_CivName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_SOON">
 			<Text>Sessão Vindoura</Text>
@@ -598,7 +599,7 @@
 		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_START_UNITED_NATIONS_HELP">
 			<Text>A ideia inicial de uma paz permanente brotou no Congresso Mundial, que renasceu como a Organização das Nações Unidas. Uma sessão especial foi convocada para escolher o anfitrião desta nova e poderosa força diplomática. A Organização das Nações Unidas continuará a decidir os assuntos como antes, mas sessões normais se alternarão com sessões para escolher um Líder Mundial, possibilitando a [COLOR_POSITIVE_TEXT]Vitória Diplomática[ENDCOLOR].</Text>
 		</Row>
-		<!-- Resoluções-->
+		<!-- Resolutions-->
 		<Row Tag="TXT_KEY_RESOLUTION_DIPLO_VICTORY">
 			<Text>Líder Mundial</Text>
 		</Row>
