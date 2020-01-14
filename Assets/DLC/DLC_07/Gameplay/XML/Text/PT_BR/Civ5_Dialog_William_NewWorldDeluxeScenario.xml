@@ -4,292 +4,290 @@
 
 <GameData>
 	<Language_pt_BR>
-
 		<!--General phrases -->
 		<!--Greeting (first time meeting) -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_1">
-			<Text>I am William of Orange, of the Netherlands.	 Did you need something? I'm quite busy.</Text>
+			<Text>Eu sou William de Orange, da Holanda. Você precisa de algo? Estou bem ocupado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_2">
-			<Text>What business do you have in the Netherlands - I am William of Orange, its sovereign ruler.</Text>
+			<Text>Quais negócios você tem na Holanda? Eu sou William de Orange, seu soberano governante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_3">
-			<Text>Welcome to the court of William of Orange, father of the Netherlands.  Don't just stand there ... what do you want?</Text>
+			<Text>Seja bem-vindo à corte de William de Orange, pai da Holanda. Não fique aí parado... O que você quer?</Text>
 		</Row>
 		<!--Reacts to his bluff being called -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_1">
-			<Text>What a waste of time.</Text>
+			<Text>Que perda de tempo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_2">
-			<Text>This is ridiculous.</Text>
+			<Text>Isso é ridículo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_3">
-			<Text>How foolish of you.</Text>
+			<Text>Que tolice a sua.</Text>
 		</Row>
 		<!--Gloats after winning a war -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WINWAR_1">
-			<Text>May this serve as a lesson to you ... hopefully it will be remembered.</Text>
+			<Text>Que isso sirva de lição para você... espero que ela seja lembrada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WINWAR_2">
-			<Text>You're no better than a sad, foreign mercenary.	 You'll need to do much better to beat me.</Text>
+			<Text>Você não é melhor que um mercenário estrangeiro e deplorável. Você terá que fazer muito melhor para me derrotar.</Text>
 		</Row>
 		<!--Submissive after losing a war -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LOSEWAR_1">
-			<Text>... Inconceivable!	What trickery have you used to best me?</Text>
+			<Text>...Inconcebível! Que tipo de artimanha você usou para me superar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LOSEWAR_2">
-			<Text>I will remember this.  Mark my words.</Text>
+			<Text>Eu lembrarei disso. Escreva minhas palavras.</Text>
 		</Row>
 		<!--Defeated and removed from game -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_1">
-			<Text>My God, have pity on my soul; my God, have pity on these, my poor people.</Text>
+			<Text>Meu Deus, tenha piedade de minha alma; Meu Deus, tenha piedade desse meu pobre povo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_2">
-			<Text>Perhaps it is better this way ... now at least I won't witness your destruction of my beloved nation.</Text>
+			<Text>Talvez seja melhor assim... ao menos agora não terei que testemunhar a destruição da minha amada nação por você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_3">
-			<Text>Curse you! I had hoped to deliver my people from all foreign yokes, but it seems they shall continue to suffer under yours.</Text>
+			<Text>Maldito! Eu tinha esperança de proteger meu povo de todo tipo de escravidão estrangeira, mas aparentemente eles continuarão a sofrer sob o seu julgo.</Text>
 		</Row>
 
 		<!--Neutral -->
 		<!--Greetings (subsequent meetings) -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_1">
-			<Text>Good day.</Text>
+			<Text>Bom dia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_2">
-			<Text>Greetings.</Text>
+			<Text>Saudações.</Text>
 		</Row>
 		<!--Goodbye -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_1">
-			<Text>Until we meet again.</Text>
+			<Text>Até nos vermos novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_2">
-			<Text>Goodbye.</Text>
+			<Text>Adeus.</Text>
 		</Row>
 		<!--Trade offer from player - yes -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_NEUTRAL">
-			<Text>Very well.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>I still do not understand what about this is supposed to interest me.</Text>
+			<Text>Eu continuo não entendendo por que isso seria do meu interesse.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_2">
-			<Text>Can you do a little better?</Text>
+			<Text>Você pode fazer um pouco melhor?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>That's not quite good enough.</Text>
+			<Text>Isso não está bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_4">
-			<Text>Almost...</Text>
+			<Text>Quase...</Text>
 		</Row>
 		<!--Trade offer from player - no -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_NEUTRAL">
-			<Text>I am not interested.</Text>
+			<Text>Não estou interessado.</Text>
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL">
-			<Text>This will be the last time, I promise you.</Text>
+			<Text>Esta será a última vez, eu te prometo.</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_NEUTRAL">
-			<Text>... You were serious?</Text>
+			<Text>...Você fala sério?</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_NEUTRAL">
-			<Text>Come, I believe I have something which will interest you.</Text>
+			<Text>Venha, acredito ter algo que lhe interessará.</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL">
-			<Text>A small token of your gratitude would be appreciated at this juncture.</Text>
+			<Text>Uma pequena amostra da sua gratidão seria apreciada neste momento crítico.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_1">
-			<Text>All right.</Text>
+			<Text>Tudo bem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_2">
-			<Text>Very Well.</Text>
+			<Text>Muito bem.</Text>
 		</Row>
 		<!--Disagrees -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_1">
-			<Text>I must refuse.</Text>
+			<Text>Devo recusar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_2">
-			<Text>... No.</Text>
+			<Text>...Não.</Text>
 		</Row>
 		<!--Let's hear it -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_1">
-			<Text>What?</Text>
+			<Text>O quê?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_2">
-			<Text>Yes.</Text>
+			<Text>Sim.</Text>
 		</Row>
 
 		<!--Happy -->
 		<!--Greetings (subsequent meetings) -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_3">
-			<Text>Welcome.</Text>
+			<Text>Bem-vindo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_4">
-			<Text>Hello again.</Text>
+			<Text>Olá novamente.</Text>
 		</Row>
 		<!--Goodbye -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_3">
-			<Text>Farewell.</Text>
+			<Text>Até mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_4">
-			<Text>Goodbye.</Text>
+			<Text>Adeus.</Text>
 		</Row>
 		<!--Trade offer from player - yes -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_HAPPY">
-			<Text>Agreed.</Text>
+			<Text>Concordo.</Text>
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_1">
-			<Text>I cannot accept this with a clear conscience, not yet ...</Text>
+			<Text>Eu não posso aceitar isto de consciência limpa, não ainda...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_2">
-			<Text>Is that the best you can do?</Text>
+			<Text>Isso é o melhor que você pode fazer?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_3">
-			<Text>You're almost there...</Text>
+			<Text>Você está quase lá...</Text>
 		</Row>
 		<!--Trade offer from player - no -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_HAPPY">
-			<Text>... No.</Text>
+			<Text>{TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_2}</Text>
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">
-			<Text>We are always willing to help an ally in need.</Text>
+			<Text>Nós estamos sempre prontos para ajudar um aliado em dificuldade.</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_HAPPY">
-			<Text>Not this time, friend.	We have our own troubles to deal with.</Text>
+			<Text>Não desta vez, amigo. Temos nossos próprios problemas para lidar.</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_HAPPY">
-			<Text>I believe both our peoples may stand to profit from this arrangement.</Text>
+			<Text>Acredito que ambos os nossos povos possam lucrar com este arranjo.</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY">
-			<Text>Your assistance would be greatly appreciated, friend.  Your benevolent generosity is renowned.</Text>
+			<Text>Sua assistência seria muito apreciada, amigo. Sua generosidade benevolente é renomada.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_3">
-			<Text>Certainly.</Text>
+			<Text>Certamente.</Text>
 		</Row>
 		<!--Disagrees -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_3">
-			<Text>Certainly not.</Text>
+			<Text>Certamente não.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_4">
-			<Text>We decline.</Text>
+			<Text>Nós recusamos.</Text>
 		</Row>
 		<!--Let's hear it -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_3">
-			<Text>Proceed.</Text>
+			<Text>Continue.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_4">
-			<Text>I'm listening.</Text>
+			<Text>Estou ouvindo.</Text>
 		</Row>
 
 		<!--Angry -->
 		<!--Greetings (subsequent meetings) -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_5">
-			<Text>Oh, it's you.</Text>
+			<Text>Ah, é você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_6">
-			<Text>What do you want?</Text>
+			<Text>O que você quer?</Text>
 		</Row>
 		<!--Goodbye -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_5">
-			<Text>That is all.</Text>
+			<Text>Isso é tudo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_6">
-			<Text>Go away.</Text>
+			<Text>Vá embora.</Text>
 		</Row>
 		<!--Trade offer from player - yes -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_ANGRY">
-			<Text>Agreed.</Text>
+			<Text>Concordo.</Text>
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_1">
-			<Text>You are beginning to remind me of my second wife, and she was quite mad ...</Text>
+			<Text>Você está começando a me lembrar da minha segunda esposa, e ela era um tanto louca...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_2">
-			<Text>That's not good enough.</Text>
+			<Text>Isso não é bom o suficiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_3">
-			<Text>You must do better than that.</Text>
+			<Text>Você precisa fazer melhor que isso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_4">
-			<Text>Almost ...</Text>
+			<Text>Quase...</Text>
 		</Row>
 		<!--Trade offer from player - no -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_ANGRY">
-			<Text>I'm beginning to suspect this is some plot to neutralize me.  Go away!</Text>
+			<Text>Estou começando a suspeitar que isso é algum tipo de intriga para me neutralizar. Vá embora!</Text>
 		</Row>
 		<!--Demand for tribute from player - yes -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_ANGRY">
-			<Text>... Fine.</Text>
+			<Text>...está bem.</Text>
 		</Row>
 		<!--Demand for tribute from player - no -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_ANGRY">
-			<Text>For no terms under Heaven will this ever be agreeable.</Text>
+			<Text>Nem por condição divina isto poderá algum dia ser aceito.</Text>
 		</Row>
 		<!--Requests a trade -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_ANGRY">
-			<Text>My people come before my pride, as bitter as this is.</Text>
+			<Text>Meu povo vem antes do meu orgulho, por mais amargo que isso possa ser.</Text>
 		</Row>
 		<!--Demands tribute -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_ANGRY">
-			<Text>I shall let you continue in your miserable existence, if you appease me.</Text>
+			<Text>Eu permitirei que você continue em sua miserável existência, se você me agradar.</Text>
 		</Row>
 		<!--Agrees -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_4">
-			<Text>I suppose I must.</Text>
+			<Text>Suponho que eu tenha que aceitar.</Text>
 		</Row>
 		<!--Disagrees -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_5">
-			<Text>I beg your pardon?</Text>
+			<Text>Como é?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_6">
-			<Text>That's unacceptable.</Text>
+			<Text>Isso é inaceitável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_7">
-			<Text>You cannot be serious!</Text>
+			<Text>Você não pode estar falando sério!</Text>
 		</Row>
 		<!--Let's hear it -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_5">
-			<Text>Speak up.</Text>
+			<Text>Fale.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_1">
-			<Text>You have proven yourself an unfit ruler, and I can bear the cries of your people no longer.	 They will be liberated from your tyranny.</Text>
+			<Text>Você se provou um governante incapaz, e eu não posso mais suportar a lamúria do seu povo. Eles serão libertados de sua tirania.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_2">
-			<Text>You know what you have done, which has led us to this ... unfortunate turn of events.</Text>
+			<Text>Você sabe o que você fez para nos trazer a isto... infeliz sequência de eventos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_3">
-			<Text>As much as I hate war, I consider purging your existence a form of community service.</Text>
+			<Text>Embora eu odeie guerras, considero purgar sua existência uma forma de serviço público.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_1">
-			<Text>This wanton disregard for lives will not be tolerated.</Text>
+			<Text>Esse descaso injustificado pela vida não será mais tolerado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_2">
-			<Text>... So bet it.</Text>
+			<Text>...Que seja.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_3">
-			<Text>You call yourself a ruler of men, but all I see is a barbarian clad in finery.</Text>
+			<Text>Você se diz um governante de homens, mas tudo que vejo é um bárbaro com roupas finas.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_QUOTE_1">
-			<Text>There is one certain means by which I can be sure never to see my country's ruin - I will die in the last ditch.</Text>
+			<Text>Há uma forma garantida de me assegurar que eu nunca veja meu país em ruínas: vou morrer na última trincheira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_QUOTE_2">
-			<Text>It is not necessary to hope in order to act, nor to succeed in order to persevere.</Text>
+			<Text>Não é necessário ter esperança para agir, nem ter sucesso para perseverar.</Text>
 		</Row>
-
 	</Language_pt_BR>
 </GameData>
