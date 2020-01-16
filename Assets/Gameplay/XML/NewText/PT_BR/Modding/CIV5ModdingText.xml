@@ -314,7 +314,7 @@
       <Text>Aceitar</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_EULA_BODY">
-      <Text>Você está entrando no banco de dados do Civilization V. Os mods são pacotes de software criados pelos fãs que mudam a sua experiência de jogo.  [COLOR_WARNING_TEXT]Os mods que você usar são POR SUA CONTA E RISCO[ENDCOLOR]. Nós não analisamos, acompanhamos, endossamos ou garantimos o conteúdo criado por usuários. Antes de usar os mods, você deve tomar todas as precauções que toma quando baixa arquivos da Internet. Consulta o manual do jogo ou a documentação que se encontra em www.take2games.com/EULA antes de continuar.</Text>
+      <Text>Você está entrando no banco de dados do Civilization V. Os mods são pacotes de software criados pelos fãs que mudam a sua experiência de jogo. [COLOR_WARNING_TEXT]Os mods que você usar são POR SUA CONTA E RISCO.[ENDCOLOR] Nós não analisamos, acompanhamos, endossamos ou garantimos o conteúdo criado por usuários. Antes de usar os mods, você deve tomar todas as precauções que toma quando baixa arquivos da Internet. Consulte o manual do jogo ou a documentação que se encontra em www.take2games.com/EULA antes de continuar.</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_EULA_DECLINE">
       <Text>Rejeitar</Text>

@@ -5,63 +5,63 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_ADJECTIVE">
 			<Text>Hivano|Hivana|Hivanos|Hivanas</Text>
-      <Gender>masculine|feminine|masculine|feminine</Gender> 
-			<Plurality>1|1|2|2</Plurality>									
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_DESC">
 			<Text>Império Hivano</Text>
-      <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>						
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_SHORT_DESC">
 			<Text>Hiva</Text>
-      <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_ADJECTIVE">
-			<Text>Tonganense|Tonganense|Tonganenses|Tonganenses</Text>
-      <Gender>masculine|feminine|masculine|feminine</Gender> 
-			<Plurality>1|1|2|2</Plurality>
+			<Text>Tonganense|Tonganenses</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_DESC">
 			<Text>Império Tonga</Text>
-      <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_SHORT_DESC">
 			<Text>Tonga</Text>
-      <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_ADJECTIVE">
 			<Text>Samoano|Samoana|Samoanos|Samoanas</Text>
-      <Gender>masculine|feminine|masculine|feminine</Gender> 
-			<Plurality>1|1|2|2</Plurality>									
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_DESC">
 			<Text>Império Samoano</Text>
-      <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_SHORT_DESC">
 			<Text>Samoa</Text>
-      <Gender>feminine</Gender> 
-			<Plurality>1</Plurality>									
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_IROQUOIS_ADJECTIVE">
 			<Text>Taitiano|Taitiana|Taitianos|Taitianas</Text>
-      <Gender>masculine|feminine|masculine|feminine</Gender> 
-			<Plurality>1|1|2|2</Plurality>									
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_IROQUOIS_DESC">
 			<Text>Império Taitiano</Text>
-      <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_IROQUOIS_SHORT_DESC">
 			<Text>Taiti</Text>
-      <Gender>masculine</Gender> 
-			<Plurality>1</Plurality>									
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

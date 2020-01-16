@@ -1761,7 +1761,7 @@
 			<Text>AVISO: Número de jogadores[NEWLINE]não suportado!</Text>
 		</Row>
         <Row Tag="TXT_KEY_STEAM_CONNECTED_NO">
-            <Text>Para jogar na internet, o jogo precisa ser iniciado com o Steam ativado e com uma conexão de internet ativa.</Text>
+            <Text>Para jogar na Internet, o jogo precisa ser iniciado com o Steam ativado e com uma conexão de Internet ativa.</Text>
         </Row>
 		<Row Tag="TXT_KEY_LEGAL_BODY">
 			<Text>© 1991-2010 Take-Two Interactive Software e suas subsidiárias. Desenvolvido por Firaxis Games. Sid Meier's Civilizations V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software e os seus respectivos logos são todas marcas registradas da Take-Two Interactive Software, Inc.  Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Usa Animação Granny. Copyright © 1999-2010 por RAD Game Tools, Inc. Usa Sistema de Som Miles. Copyright © 1991-2010 por RAD Game Tools, Inc. O ícone de classificação é uma marca registrada da Associação de Softwares de Entretenimento. Todas as outras marcas e marcas registradas são propriedades de seus respectivos proprietários. Todos os direitos reservados. O conteúdo deste jogo é fictício e não é programado para representar ou descrever os registros atuais dos eventos, pessoas ou entidades nas opções de jogo.</Text>

@@ -5,11 +5,16 @@ Tradução do jogo Civilization V para Português Brasil
 1.0.3.279
 
 ## Colaboradores:
-- Rafael Tavares (Anpix)
+- Rafael Tavares (@Anpix)
 - Robson (Rubio)
 - Tales Viana (passarinhu)
 - Gabriel Simões (gdcs321)
+- Gabriel Farias (@gabrielsfarias)
+- Altieres Lima (@altiereslima)
 - Alexandre Folle de Menezes (@afmenez)
+- Franciuiz Ronniejosé (@Franciuiz)
+- @gdcs321
+- e outros que não se identificaram
 
 ## Como instalar:
 - Extraia a pasta Assets para a pasta de instalação do Civilization, e substitua os arquivos destino caso necessário.

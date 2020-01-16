@@ -41,9 +41,13 @@
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_DESC">
 			<Text>Império Manchu</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_ADJECTIVE">
-			<Text>Manchu</Text>
+			<Text>Manchu|Manchus</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS_SHORT">
 			<Text>Oito Bandeiras</Text>

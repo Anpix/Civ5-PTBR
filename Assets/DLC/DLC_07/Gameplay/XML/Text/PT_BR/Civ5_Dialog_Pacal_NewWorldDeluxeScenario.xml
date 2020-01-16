@@ -3,298 +3,294 @@
 <!--Copyright Firaxis Games 2010 -->
 
 <GameData>
-	<Language_pt_BR>
+    <Language_pt_BR>
+        <!--General phrases -->
+        <!--Greeting (first time meeting) -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_1">
+            <Text>Saudações, indomável. Eu sou conhecido como Pacal. Você traz uma mensagem dos Deuses? Eu posso sentí-los, seu hálito gelado em minha nuca.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_2">
+            <Text>Prazer, estrangeiro - você pode me chamar de Pacal, o Grande. Não que isso importe... acredito que não nos falaremos mais.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_3">
+            <Text>Que escuridão e desespero você traz ao poderoso Pacal? Eu ofereceria um refresco, mas eu tenho um apocalipse para me preparar.</Text>
+        </Row>
+        <!--Reacts to his bluff being called -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_1">
+            <Text>Você traz destruição para si!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_2">
+            <Text>Como você é decepcionante...</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_3">
+            <Text>Você enfureceu a Morte. Ela acordou!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_4">
+            <Text>Espere. As corujas da Morte virão por você em seguida.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_5">
+            <Text>Eu sabia que isso era uma perda de tempo...</Text>
+        </Row>
+        <!--Gloats after winning a war -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_1">
+            <Text>Sim, sim! Os Deuses me favorecem! Eu governarei supremo, mesmo que seja apenas até o fim!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_2">
+            <Text>Veja, eu disse que isso era sem sentido. E agora toda essa escuridão sobre nós e tantos possíveis sacrifícios, desperdiçados.</Text>
+        </Row>
+        <!--Submissive after losing a war -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_1">
+            <Text>Pegue o que você quiser - não faz mais diferença agora. Você não pode ver o que está no horizonte?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_2">
+            <Text>Ha ha! Seu tolo patético! Aproveite seus espólios enquanto pode - eles irão pesar quando o chão se abrir sob os seus pés.</Text>
+        </Row>
+        <!--Defeated and removed from game -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_1">
+            <Text>O fim! Posso sentir o lamento das estrelas enquanto caem do céu! Você está condenado a ver o mundo ser destruído, enquanto me salvou deste destino.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_2">
+            <Text>Aproveite o seu insignificante reino enquanto pode... nada mais importa. Eu não importo... você não importa... As corujas! Eu posso ouvir as corujas!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_3">
+            <Text>Quando os céus tiverem sido levados pela enchente, você também será levado pelas correntes. Você me fez um grande favor, não terei mais que testemunhar isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_4">
+            <Text>Você pode ter me derrotado, mas não pode parar o que já está em movimento. Nossos destinos estão prescritos em rocha - somente as lágrimas dos deuses podem remover seus entalhes.</Text>
+        </Row>
+        <!--Neutral -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_1">
+            <Text>Um bom dia para você, espero.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_2">
+            <Text>Saudações.</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_1">
+            <Text>Eu duvido que nos encontremos novamente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_2">
+            <Text>Adeus.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_NEUTRAL">
+            <Text>Muito bem.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Por que você deseja me enganar quando resta tão pouco tempo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Você pode fazer um pouco melhor?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Isso não está bom o suficiente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Quase...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_NEUTRAL">
+            <Text>Isso não vai dar.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_NEUTRAL">
+            <Text>Certo, pegue. Saiba que isso não lhe ajudará quando a Contagem Longa terminar.</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_NEUTRAL">
+            <Text>Que coisa ridícula é esta? Você não tem sacrifícios a fazer? Seria um melhor uso do seu tempo.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_NEUTRAL">
+            <Text>Que a ira dos deuses desça sobre você, caso você não atenda minha proposta.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Meus ancestrais dizem que preciso de mais riquezas para oferecer aos Deuses. Dê-me isso, para que nós dois possamos viver e ver o fim.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_1">
+            <Text>Tudo bem.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_2">
+            <Text>Por que não?</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_1">
+            <Text>Devo recusar.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_2">
+            <Text>Não, eu acho que não.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_1">
+            <Text>Vamos ouvir.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_2">
+            <Text>Não importa... continue.</Text>
+        </Row>
 
-		<!--General phrases -->
-		<!--Greeting (first time meeting) -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_1">
-			<Text>Greetings, wayward one.  I am known as Pacal. Do you bear a message from the Gods?  I can feel them, their icy breath down my neck.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_2">
-			<Text>Well met, stranger - you may call me Pacal the Great. Not that it really matters...I don't think we'll speak again.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_3">
-			<Text>What gloom and despair do you bring to the mighty Pacal?  I would offer refreshments, but I have an apocalypse to prepare for.</Text>
-		</Row>
-		<!--Reacts to his bluff being called -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_1">
-			<Text>You bring destruction upon yourself!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_2">
-			<Text>How disappointing you are...</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_3">
-			<Text>You have angered Death.  He wakes!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_4">
-			<Text>Wait. The owls of Death will come for you next.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_5">
-			<Text>I knew this was a waste of time...</Text>
-		</Row>
-		<!--Gloats after winning a war -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_1">
-			<Text>Yes, yes!  The Gods favor me! I shall rule supreme, if only until the end!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_2">
-			<Text>You see, I told you this was pointless, what with the great flood upon us.  All those possible sacrifices, wasted.</Text>
-		</Row>
-		<!--Submissive after losing a war -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_1">
-			<Text>Take what you want - it is meaningless now. Can you not see what lies on the horizon?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_2">
-			<Text>Haha.  You silly fool!  Enjoy what spoils while you can - they will weigh you down when the ground crumbles beneath your feet.</Text>
-		</Row>
-		<!--Defeated and removed from game -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_1">
-			<Text>The end! I can feel the stars' lament as they loose from the sky! You are doomed to see the world decay, while saving me from such a fate.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_2">
-			<Text>Enjoy your petty kingdom while you can...nothing matters anymore.  I don't matter...you don't matter...  The owls! I can hear the owls!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_3">
-			<Text>Once the heavens are awash in the flood, you too shall be swept away in the currents.  You have done me a great favor; I no longer must witness this.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_4">
-			<Text>You may have defeated me, but you cannot stop what is already in motion.  Our destinies are prescribed in stone - only the tears of the gods may wash away their carvings.</Text>
-		</Row>
+        <!--Happy -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_3">
+            <Text>Você vai passar o apocalipse comigo?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_4">
+            <Text>Olá novamente.</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_3">
+            <Text>Até breve, talvez nunca.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_4">
+            <Text>Adeus.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_HAPPY">
+            <Text>Concordo.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Pode ser o fim do mundo, mas eu tenho aparências a manter. Melhor isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Isso é o melhor que você pode fazer?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Você está quase lá...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_HAPPY">
+            <Text>Obrigado, mas não.</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_HAPPY">
+            <Text>Sim? Sim! Sei que esta oferta de generosidade me favorecerá diante dos deuses! Pegue o que quiser!</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_HAPPY">
+            <Text>Por que você quer roubar de Pacal? Você não tem nada melhor para fazer com o seu tempo antes do mundo se esfarelar em pó?</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_HAPPY">
+            <Text>Amigo, acredito ter encontrado uma forma de salvar nós todos! Veja... veja e aceite minha oferta!</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">
+            <Text>O céu... o céu exige sangue! Por favor me ajude, senão Kizin e seus demônios poderão vir atrás de nós.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_3">
+            <Text>Claro.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_3">
+            <Text>Não, não vai dar.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_4">
+            <Text>Recusamos.</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_3">
+            <Text>Continue.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_4">
+            <Text>Estou ouvindo.</Text>
+        </Row>
 
-		<!--Neutral -->
-		<!--Greetings (subsequent meetings) -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_1">
-			<Text>A good day to you, I hope.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_2">
-			<Text>Greetings.</Text>
-		</Row>
-		<!--Goodbye -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_1">
-			<Text>I doubt we'll meet again.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_2">
-			<Text>Goodbye.</Text>
-		</Row>
-		<!--Trade offer from player - yes -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_NEUTRAL">
-			<Text>Very well.</Text>
-		</Row>
-		<!--Trade offer from player - sweeten the deal -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_1">
-			<Text>Why do you wish to cheat me when there is so little time left?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_2">
-			<Text>Can you do a little better?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_3">
-			<Text>That's not quite good enough.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_4">
-			<Text>Almost...</Text>
-		</Row>
-		<!--Trade offer from player - no -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_NEUTRAL">
-			<Text>This will not do.</Text>
-		</Row>
-		<!--Demand for tribute from player - yes -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_NEUTRAL">
-			<Text>Fine, take it.  Know that it will not help you once the Long Count ends.</Text>
-		</Row>
-		<!--Demand for tribute from player - no -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_NEUTRAL">
-			<Text>What ridiculousness is this? Have you no sacrifices to make - it is a better use of your time.</Text>
-		</Row>
-		<!--Requests a trade -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_NEUTRAL">
-			<Text>The rage of the Gods be upon you, lest you heed my offer.</Text>
-		</Row>
-		<!--Demands tribute -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_NEUTRAL">
-			<Text>My ancestors say I need more wealth to offer Gods.  Give me this, so that we may both live to see the end.</Text>
-		</Row>
-		<!--Agrees -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_1">
-			<Text>All right.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_2">
-			<Text>Why not?</Text>
-		</Row>
-		<!--Disagrees -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_1">
-			<Text>I must refuse.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_2">
-			<Text>No, I think not.</Text>
-		</Row>
-		<!--Let's hear it -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_1">
-			<Text>Let's hear it.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_2">
-			<Text>It matters not - go ahead.</Text>
-		</Row>
+        <!--Angry -->
+        <!--Greetings (subsequent meetings) -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_5">
+            <Text>Ah, é você.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_6">
+            <Text>O que você quer?</Text>
+        </Row>
+        <!--Goodbye -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_5">
+            <Text>Isso é tudo.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_6">
+            <Text>Vá embora.</Text>
+        </Row>
+        <!--Trade offer from player - yes -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_ANGRY">
+            <Text>Concordo... não que isso tenha importância.</Text>
+        </Row>
+        <!--Trade offer from player - sweeten the deal -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_1">
+            <Text>A não ser que você queira ver seu sangue espalhado ao redor do meu altar, repense essa oferta.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Isso não é bom o suficiente.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Você precisa fazer melhor que isso.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Quase, camponês...</Text>
+        </Row>
+        <!--Trade offer from player - no -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_ANGRY">
+            <Text>Que a ira dos meus ancestrais caia sobre você! Você enfureceu a os deuses com sua imprudência. Saia!</Text>
+        </Row>
+        <!--Demand for tribute from player - yes -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_ANGRY">
+            <Text>Sim, pegue sua destruição com as mãos abertas. Os deuses riem da sua ganância!</Text>
+        </Row>
+        <!--Demand for tribute from player - no -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_ANGRY">
+            <Text>Não que isso vá importar em breve, mas eu nego sua exigência por puro despeito.</Text>
+        </Row>
+        <!--Requests a trade -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_ANGRY">
+            <Text>Embora eu não deseje nada além de derramar seu sangue sobre meu altar sagrado, vou pedir educadamente. Uma vez.</Text>
+        </Row>
+        <!--Demands tribute -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_ANGRY">
+            <Text>Dor e destruição caiam sobre aqueles que não atendem minhas exigências! O fim está próximo, e eu tenho um elaborado sacrifício para preparar.</Text>
+        </Row>
+        <!--Agrees -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_4">
+            <Text>Suponho que eu deva aceitar.</Text>
+        </Row>
+        <!--Disagrees -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_5">
+            <Text>Como é?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_6">
+            <Text>Isso é inaceitável.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_7">
+            <Text>Você não pode estar falando sério!</Text>
+        </Row>
+        <!--Let's hear it -->
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_5">
+            <Text>O que é agora?</Text>
+        </Row>
 
-		<!--Happy -->
-		<!--Greetings (subsequent meetings) -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_3">
-			<Text>Will you be spending the apocalypse with me?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_4">
-			<Text>Hello again.</Text>
-		</Row>
-		<!--Goodbye -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_3">
-			<Text>Farewell, perhaps forever.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_4">
-			<Text>Goodbye.</Text>
-		</Row>
-		<!--Trade offer from player - yes -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_HAPPY">
-			<Text>Agreed.</Text>
-		</Row>
-		<!--Trade offer from player - sweeten the deal -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_1">
-			<Text>It may be the end of the world, but I do have appearances to keep up. Improve this.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_2">
-			<Text>Is that the best you can do?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_3">
-			<Text>You're almost there...</Text>
-		</Row>
-		<!--Trade offer from player - no -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_HAPPY">
-			<Text>Thank you, but no.</Text>
-		</Row>
-		<!--Demand for tribute from player - yes -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_HAPPY">
-			<Text>Yes?  Yes! I know this offering of generosity will endear the gods towards me! Take what you will!</Text>
-		</Row>
-		<!--Demand for tribute from player - no -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_HAPPY">
-			<Text>Why do you wish to steal from Pacal?  Can you do nothing better with your time before the world crumbles to dust?</Text>
-		</Row>
-		<!--Requests a trade -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_HAPPY">
-			<Text>Friend, I believe I may have found a way to save us all! Look, look and accept my offering!</Text>
-		</Row>
-		<!--Demands tribute -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">
-			<Text>The sky, the sky demands blood!  Please help me, or else Kisin and his demons may come for us next.</Text>
-		</Row>
-		<!--Agrees -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_3">
-			<Text>Sure.</Text>
-		</Row>
-		<!--Disagrees -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_3">
-			<Text>No, it won't do.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_4">
-			<Text>We decline.</Text>
-		</Row>
-		<!--Let's hear it -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_3">
-			<Text>Proceed.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_4">
-			<Text>I'm listening.</Text>
-		</Row>
-
-		<!--Angry -->
-		<!--Greetings (subsequent meetings) -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_5">
-			<Text>Oh, it's you.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_6">
-			<Text>What do you want?</Text>
-		</Row>
-		<!--Goodbye -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_5">
-			<Text>That is all.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_6">
-			<Text>Go away now.</Text>
-		</Row>
-		<!--Trade offer from player - yes -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_ANGRY">
-			<Text>Agreed, not that it matters anyway.</Text>
-		</Row>
-		<!--Trade offer from player - sweeten the deal -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_1">
-			<Text>Unless you want your blood to be sprinkled next at my altar, rethink that offer.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_2">
-			<Text>That's not good enough.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_3">
-			<Text>You must do better than that.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_4">
-			<Text>Almost, peasant...</Text>
-		</Row>
-		<!--Trade offer from player - no -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_ANGRY">
-			<Text>The scourge of the ancestors be upon you!  You have angered the gods with your impudence. Leave!</Text>
-		</Row>
-		<!--Demand for tribute from player - yes -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_ANGRY">
-			<Text>Yes, take your destruction upon yourself with open hands.  The gods laugh at your greed!</Text>
-		</Row>
-		<!--Demand for tribute from player - no -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_ANGRY">
-			<Text>Not that it will matter shortly, but I deny you your request purely out of spite.</Text>
-		</Row>
-		<!--Requests a trade -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_ANGRY">
-			<Text>While I do wish nothing more than to spill your blood upon the sacred altar, I will ask politely.  Once.</Text>
-		</Row>
-		<!--Demands tribute -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_ANGRY">
-			<Text>Woe and destruction upon those who do not meet my demands!  The end is nigh, and I have quite an elaborate sacrifice to prepare for.</Text>
-		</Row>
-		<!--Agrees -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_4">
-			<Text>I suppose I must.</Text>
-		</Row>
-		<!--Disagrees -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_5">
-			<Text>I beg your pardon?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_6">
-			<Text>That's unacceptable.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_7">
-			<Text>You cannot be serious!</Text>
-		</Row>
-		<!--Let's hear it -->
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_5">
-			<Text>What now?</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_1">
-			<Text>Only one may live to see the end of the Long Count cycle, and it surely will not be witless nonbeliever like you! Prepare for destruction.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_2">
-			<Text>One hope, one hope remains.  If I defeat you, perhaps I can renew the God's faith in man and stop the teaming floods of ruin.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_3">
-			<Text>Yes! A sacrifice unlike all others must be made!  I shall stem the gods' tears with the blood of your entire people!</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_1">
-			<Text>Yes! A sacrifice unlike all others must be made!  I shall stem the gods' tears with the blood of your entire people!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_2">
-			<Text>Why bother with this charade and portentous dance?  None of this matters any more, none of it...</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_3">
-			<Text>The cycle is ending, I can feel it.  This is only the beginning - you have unleashed the cry for the end of time.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_4">
-			<Text>What is this?  You wish to hurry the end of days?  By all means, let us lay waste to this already doomed world.</Text>
-		</Row>
-
-	</Language_pt_BR>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_1">
+            <Text>Somente um poderá viver para ver o fim do ciclo da Contagem Longa, e não será um descrente estúpido como você! Prepare-se para a destruição.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_2">
+            <Text>Uma esperança, uma esperança resta. Se eu derrotar você, talvez eu possa renovar a fé dos Deuses nos homens e parar a grande inundação da ruína.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_3">
+            <Text>Sim! Um sacrifício como nenhum outro deve ser feito! Estancarei as lágrimas dos Deuses com o sangue de todo o seu povo!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_1">
+            <Text>{TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_3}</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_2">
+            <Text>Porque se importar com esta farsa e essa dança portentosa? Nada disso importa mais... nada.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_3">
+            <Text>O ciclo está terminando... eu posso sentir. Isto é a penas o começo - você libertou o grito do fim dos tempos.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_4">
+            <Text>O que é isso? Você quer apressar o fim dos dias? Claro, vamos arrasar este mundo já condenado.</Text>
+        </Row>
+    </Language_pt_BR>
 </GameData>
