@@ -163,7 +163,7 @@
 			<Text>Reduz em 75% a perda de população em um ataque nuclear.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_STRATEGY">
-			<Text>A Guarda Policial diminui a taxa de roubo de tecnologias de sua cidade por espiões inimigos.</Text>
+			<Text>O {TXT_KEY_BUILDING_CONSTABLE} diminui a taxa de roubo de tecnologias de sua cidade por espiões inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_HELP">
 			<Text>Reduz em 25% a taxa de roubo por espiões.</Text>
