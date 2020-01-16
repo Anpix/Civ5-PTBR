@@ -18,7 +18,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE">
-			<Text>Rifles Automáticos</Text>
+			<Text>Rifles de Repetição</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>

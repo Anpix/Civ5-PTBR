@@ -217,7 +217,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Our best officers estimate one man armed with a Spencer Carbine is equivalent to three with any other arm."[NEWLINE][TAB][TAB] - Major-General James H. Wilson[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_DESC">
-			<Text>The Civil War is frequently mentioned as the first "modern" war in history, due in part to the use of innovative weapons; one of the most decisive on the tactical level was the repeating rifle, a single-barreled gun that led multiple rounds of ammunition, in which the action that reloads the rifle also recocks the firing mechanism.</Text>
+			<Text>A Guerra Civil é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilha o mecanismo de disparo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
 			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Ironclads[ENDCOLOR], a powerful naval unit that will dominate wooden naval vessels.</Text>
