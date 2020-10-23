@@ -7,9 +7,9 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_INCAN_SLINGER">
-			<Text>Fundista|Fundistas</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>									
+			<Text>Fundeiro|Fundeiros</Text>
+			<Gender>masculine:human</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPANISH_TERCIO">
 			<Text>Terço|Terços</Text>

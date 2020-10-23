@@ -471,10 +471,10 @@
 			<Text>Naval Unit that specializes in attacking coastal cities to earn gold and capturing enemy ships.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_STRATEGY">
-			<Text>The Ship of the Line has a slightly higher Ranged Combat strength than the Frigate, and base strength. It can shoot hex farther than the Frigate, allowing it to dominate a greater area.</Text>
+			<Text>O {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} tem uma força de combate à distância um pouco maior que a {TXT_KEY_UNIT_FRIGATE}, mas força base equivalente. Ele pode disparar um hexágono mais longe que a {TXT_KEY_UNIT_FRIGATE}, permitindo que ela domine uma área maior.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_HELP">
-			<Text>Most powerful Renaissance Era Naval Unit used to wrest control of the seas.</Text>
+			<Text>A mais poderosa Unidade Naval da Era Renascentista usada para tomar o controle dos mares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER">
 			<Text>Excellent at exploring and fearsome in combat, this Shoshone Unique Unit replaces the Scout. It possesses a promotion that gives it [ICON_PEACE] Faith for discovering Natural Wonders.</Text>
