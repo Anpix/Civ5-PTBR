@@ -4,7 +4,7 @@
 	<Language_pt_BR>
 		<!-- Entry UI-->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO">
-			<Text>Leopold II</Text>
+			<Text>Leopoldo II</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH">
