@@ -4,9 +4,9 @@
     <Language_pt_BR>
         <!-- Civs and Leaders -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_ADJECTIVE">
-            <Text>Belga|Belga|Belgas|Belgas</Text>
+            <Text>Belga|Belgas</Text>
             <Gender>neuter</Gender>
-            <Plurality>1|1|2|2</Plurality>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_DESC">
             <Text>Bélgica</Text>
@@ -34,17 +34,17 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_ADJECTIVE">
-            <Text>Bôer|Bôer|Bôeres|Bôeres</Text>
+            <Text>Bôer|Bôeres</Text>
             <Gender>neuter</Gender>
-            <Plurality>1|1|2|2</Plurality>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_DESC">
-            <Text>Boer</Text>
+            <Text>Bôer</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_SHORT_DESC">
-            <Text>Boer</Text>
+            <Text>Bôer</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>

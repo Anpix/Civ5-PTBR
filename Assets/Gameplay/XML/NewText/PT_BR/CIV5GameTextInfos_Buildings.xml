@@ -101,8 +101,8 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY">
-			<Text>Celeiro|Celeiros</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Silo|Silos</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_LIBRARY">

@@ -8,8 +8,8 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_TECH_INTERNET_TITLE">
 			<Text>A Internet</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>						
+			<Gender>feminine:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SWORDSMAN}[ENDCOLOR], uma unidade de ataque corpo-a-corpo extremamente poderosa.</Text>

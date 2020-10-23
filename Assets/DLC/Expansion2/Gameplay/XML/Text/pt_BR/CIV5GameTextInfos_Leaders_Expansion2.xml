@@ -6,7 +6,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL">
-			<Text>Assurbanipal</Text>
+			<Text>Assurbanípal</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR">
@@ -30,7 +30,7 @@
       		<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PEDRO">
-			<Text>Pedro II</Text>
+			<Text>Dom Pedro II</Text>
 			<Gender>masculine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_POCATELLO">

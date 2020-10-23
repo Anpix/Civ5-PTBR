@@ -2003,7 +2003,7 @@
           <Text>Convite Steam</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE_TT">
-          <Text>Receber um convite Steam quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o jogo for jogado na internet e você seja amigo do anfitrião do jogo.</Text>
+          <Text>Receber um convite Steam quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o jogo for jogado na Internet e você seja amigo do anfitrião do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL">
           <Text>Email</Text>

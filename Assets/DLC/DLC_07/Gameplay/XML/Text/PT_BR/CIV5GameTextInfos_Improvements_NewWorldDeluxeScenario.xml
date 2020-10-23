@@ -3,7 +3,8 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER">
-			<Text>Polder</Text>
+			<Text>Pôlder|Pôlderes</Text>
+			<Plurality>1|2</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -5,132 +5,164 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
-			<Text>Inuit</Text>
+			<Text>Terra dos Inuítes</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>		  
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT_ADJ">
-			<Text>Inuit</Text>			
+			<Text>inuíte|inuítes</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE">
-			<Text>Seminole</Text>
+			<Text>Terra dos Seminoles</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE_ADJ">
-			<Text>Seminole</Text>
+			<Text>seminole|seminoles</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA">
-			<Text>Lakota</Text>
+			<Text>Terra dos Lakota</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
-			<Text>Lakota</Text>
+			<Text>lakota|lakota</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB">
-			<Text>Caribe</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Terra dos Caribes</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB_ADJ">
-			<Text>Carib</Text>
+			<Text>caribe|caribes</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE">
-			<Text>Cherokee</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Terra dos Cheroquis</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE_ADJ">
-			<Text>Cherokee</Text>
+			<Text>cheroqui|cheroquis</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN">
-			<Text>Algonquin</Text>
+			<Text>Terra dos Algonquinos</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN_ADJ">
-			<Text>Algonquin</Text>
+			<Text>algonquino|algonquina|algonquinos|algonquinas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON">
-			<Text>Huron</Text>
+			<Text>Hurão</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON_ADJ">
-			<Text>Huron</Text>
+			<Text>hurão|huraniana|hurões|huronianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE">
-			<Text>Muscogee</Text>
+			<Text>Terra dos Muscóguis</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE_ADJ">
-			<Text>Muscogee</Text>
+			<Text>muscógui|muscóguis</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI">
-			<Text>Wabanaki</Text>
+			<Text>Terra dos Abenaquis</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI_ADJ">
-			<Text>Wabanaki</Text>
+			<Text>abenaqui|abenaquis</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE">
-			<Text>Mapuche</Text>
+			<Text>Terra dos Mapuches</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE_ADJ">
-			<Text>Mapuche</Text>
+			<Text>mapuche|mapuches</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK">
-			<Text>Arawak</Text>
+			<Text>Terra dos Arauaques</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK_ADJ">
-			<Text>Arawak</Text>
+			<Text>arauaque|arauaques</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA">
-			<Text>Maya</Text>
+			<Text>Terra dos Maias</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA_ADJ">
-			<Text>Mayan</Text>
+			<Text>maia|maias</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI">
-			<Text>Yanomami</Text>
+			<Text>Terra dos Ianomâmis</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI_ADJ">
-			<Text>Yanomami</Text>
+			<Text>ianomâmi|ianomâmis</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA">
-			<Text>Muisca</Text>
+			<Text>Terra dos Muíscas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA_ADJ">
-			<Text>Muisca</Text>
+			<Text>muísca|muíscas</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI">
-			<Text>Hopi</Text>
+			<Text>Terra dos Hopis</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI_ADJ">
-			<Text>Hopi</Text>
+			<Text>hopi|hopis</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
-			<Text>Anasazi</Text>
+			<Text>Terra dos Anasazi</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
-			<Text>Anasazi</Text>
+			<Text>anasazi|anasazi</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

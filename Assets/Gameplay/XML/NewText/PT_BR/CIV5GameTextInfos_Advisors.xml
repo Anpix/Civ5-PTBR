@@ -340,7 +340,7 @@
 			<Text>Mostre a unidade naval</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
-			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} permitem que você explore os recursos de peixes e baleias ao longo da sua costa. Assim que explorar esses locais, os TXT_KEY_UNIT_WORK_BOAT[2] serão convertidos definitivamente.</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} permitem que você explore os recursos de peixes e baleias ao longo da sua costa. Assim que explorar esses locais, os {TXT_KEY_UNIT_WORK_BOAT[2]} serão convertidos definitivamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
 			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>
@@ -946,7 +946,7 @@
 			<Text>Precisamos aumentar nossa geração de [ICON_GOLD]Ouro para nos manter competitivos. Dispense unidades obsoletas para reduzir nosso custo de manutenção de unidades, use os nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construção de melhorias que aumentem a quantidade de [ICON_GOLD]Ouro do hexágono e faça edifícios que aumentem a nossa geração de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS">
-			<Text>Estamos trabalhando em uma Grande Pirâmide, então não precisamos construir celeiros em nossas outras cidades.</Text>
+			<Text>Estamos trabalhando em uma Grande Pirâmide, então não precisamos construir {TXT_KEY_BUILDING_GRANARY[2]} em nossas outras cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_TOO_MANY_UNITS">
 			<Text>Nossa [ICON_PRODUCTION]Produção está diminuindo em razão do número de unidades que temos. Devemos dispensar quaisquer unidades desnecessárias para que nossa civilização possa operar em plena capacidade.</Text>

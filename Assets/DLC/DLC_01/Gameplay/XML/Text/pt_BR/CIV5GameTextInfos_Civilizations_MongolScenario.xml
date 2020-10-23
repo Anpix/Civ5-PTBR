@@ -4,33 +4,33 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_ADJECTIVE">
 			<Text>Jin|Jin</Text>
-			<Gender>masculine|feminine</Gender>
-			<Plurality>1|1</Plurality>			
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_DESC">
 			<Text>Dinastia Jin</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_SHORT_DESC">
 			<Text>Jin</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_ADJECTIVE">
-			<Text>Bizante|Bizante</Text>
-			<Gender>masculine|feminine</Gender>
-			<Plurality>1|1</Plurality>			
+			<Text>Bizantino|Bizantina|Bizantinos|Bizantinas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_DESC">
-			<Text>Império Bizâncio</Text>
+			<Text>Império Bizantino</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_SHORT_DESC">
-			<Text>Bizante|Bizante</Text>
-			<Gender>masculine|feminine</Gender>
-			<Plurality>1|1</Plurality>			
+			<Text>Bizâncio</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

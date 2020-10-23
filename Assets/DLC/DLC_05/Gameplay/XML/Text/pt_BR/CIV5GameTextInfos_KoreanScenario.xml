@@ -41,9 +41,13 @@
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_DESC">
 			<Text>Império Manchu</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_ADJECTIVE">
-			<Text>Manchu</Text>
+			<Text>Manchu|Manchus</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS_SHORT">
 			<Text>Oito Bandeiras</Text>
@@ -58,7 +62,7 @@
 			<Text>Não são eliminados do jogo, mesmo se perderem sua última cidade. Periodicamente ganham unidades para retomarem cidades capturadas, como Barcos Tartaruga e Arqueiros capazes de recuar antes de um ataque corpo-a-corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_UNIT_HELP_SETTLER">
-			<Text>Funde novas cidades para expandir seu império. Cada nova cidade iniciará com um Monumento, um Celeiro e um Mercado.[NEWLINE][NEWLINE]O [ICON_FOOD]Crescimento da cidade é interrompido quando esta unidade está sendo treinada.</Text>
+			<Text>Funde novas cidades para expandir seu império. Cada nova cidade iniciará com um {TXT_KEY_BUILDING_MONUMENT}, um {TXT_KEY_BUILDING_GRANARY} e um {TXT_KEY_BUILDING_MARKET}.[NEWLINE][NEWLINE]O [ICON_FOOD]Crescimento da cidade é interrompido enquanto esta unidade estiver sendo treinada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_ANTIQUITY_SETTLER_TEXT">
 			<Text>Os clãs tribais Jurchen, antecessores da Dinastia Manchu e seu povo, habitavam a região conhecida como Manchúria, agora no atual norte da China. Antes da ascensão da Dinastia Manchu, no século XVII, os Jurchen se uniram brevemente sob a bandeira da Dinastia Jin, no século XII. Ao longo de sua história, os Jurchen eram conhecidos como hábeis caçadores e igualmente cavaleiros, orgulhando-se dos talentos de sua cavalaria.</Text>
