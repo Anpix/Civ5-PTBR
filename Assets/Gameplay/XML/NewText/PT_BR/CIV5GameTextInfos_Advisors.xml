@@ -1369,7 +1369,7 @@
 			<Text>Obrigado pela informação, mas não me lembre novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
-			<Text>Por favor não me diga isso de novo.</Text>
+			<Text>Por favor, não me diga isso de novo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFORMATION">
 			<Text>Assessor de Informações</Text>

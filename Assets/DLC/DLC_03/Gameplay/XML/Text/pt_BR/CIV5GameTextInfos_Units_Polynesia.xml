@@ -17,7 +17,7 @@
       <Plurality>1</Plurality>						            						
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HAKA_WAR_DANCE_HELP">
-			<Text>Unidades inimigas recebem penalidade de -10% de [ICON_STRENGTH]Força de Combate quando estão adjacentes a qualuer unidade com esta promoção.</Text>
+			<Text>Unidades inimigas recebem penalidade de -10% de [ICON_STRENGTH]Força de Combate quando estão adjacentes a qualquer unidade com esta promoção.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>
