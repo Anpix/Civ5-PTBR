@@ -222,7 +222,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_QUARRY">
-			<Text>Mina a Céu Aberto|Minas a Céu Aberto</Text>
+			<Text>Pedreira|Pedreiras</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -867,7 +867,7 @@
 			<Plurality>1</Plurality>						
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_GREAT_PEOPLE_TEXT">
-			<Text>Grandes Pessoas</Text>
+			<Text>Grandes Personalidades</Text>
 			<Gender>feminine</Gender>
 			<Plurality>2</Plurality>						
 		</Row>

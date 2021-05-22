@@ -97,8 +97,8 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY">
-			<Text>Infante|Infantes</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Infantaria I Guerra|Infantarias I Guerra</Text>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MARINE">
@@ -117,12 +117,12 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_TANK">
-			<Text>Tanque Ultrapesado|Tanques Ultrapesados</Text>
+			<Text>Tanque|Tanques</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MACHINE_GUN">
-			<Text>Metralhadora Pesada|Metralhadoras Pesadas</Text>
+			<Text>Metralhadora|Metralhadoras</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
@@ -142,11 +142,13 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
-			<Text>Corpo-a-Corpo - Naval</Text>
-			<Plurality>1</Plurality>
+			<Text>Unid. naval de abordagem|Unid. naval de abordagem</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">
-			<Text>A Distância - Naval</Text>
+			<Text>Unid. naval a distância|Unid. naval a distância</Text>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SPANISH_TERCIO">
@@ -236,7 +238,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ZINOVY_ROZHESTVENSKI">
-			<Text>Zinovy Rozhestvenski</Text>
+			<Text>Zinovy Rozhestvensky</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -256,17 +258,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HAYREDDIN_BARBAROSSA">
-			<Text>Hayreddin Barbarossa</Text>
+			<Text>Barba-Ruiva</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_TURGUT_REIS">
-			<Text>Turgut Reis</Text>
+			<Text>Dragute Arrais</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_MURAT_REIS">
-			<Text>Murat Reis</Text>
+			<Text>Morato Arrais</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -291,12 +293,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_ATILLIUS_REGULUS">
-			<Text>Marcus Atilius Regulus</Text>
+			<Text>Marco Atílio Régulo</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_VIPSANIUS_AGRIPPA">
-			<Text>Marcus Vipsanius Agrippa</Text>
+			<Text>Marco Vipsânio Agripa</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -311,7 +313,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_DOUKAS">
-			<Text>John Doukas</Text>
+			<Text>João Ducas</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -332,7 +334,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_BARTOLOME_DE_LAS_CASAS">
-			<Text>Bartolomé de las Casas</Text>
+			<Text>Bartolomeu de las Casas</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -347,7 +349,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONI_GAUDI">
-			<Text>Antoni Gaudi</Text>
+			<Text>Antoni Gaudí</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -428,7 +430,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREY_KOLMOGOROV">
-			<Text>Andrey Kolmogorov</Text>
+			<Text>Andrei Kolmogorov</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -438,7 +440,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_LINNAEUS">
-			<Text>Carl Linnaeus</Text>
+			<Text>Carlos Lineu</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -453,7 +455,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_DMITRY_MENDELEEV">
-			<Text>Dmitry Mendeleev</Text>
+			<Text>Dmitri Mendeleiev</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -474,7 +476,7 @@
 		</Row>
 		<!-- GREAT MERCHANTS -->
 		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_LICINIUS_CRASSUS">
-			<Text>Marcus Licinius Crassus</Text>
+			<Text>Marco Licínio Crasso</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

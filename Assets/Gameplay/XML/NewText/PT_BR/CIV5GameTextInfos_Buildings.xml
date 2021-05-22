@@ -96,7 +96,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FORGE">
-			<Text>Ferraria|Ferrarias</Text>
+			<Text>Forja|Forjas</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -412,7 +412,7 @@
 		</Row>
 		<!-- new text -->
 		<Row Tag="TXT_KEY_BUILDING_CIRCUS_MAXIMUS">
-			<Text>Circus Maximus|Circus Maximus</Text>
+			<Text>Circo Máximo|Circos Máximos</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -427,7 +427,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS">
-			<Text>Pedreira|Pedreiras</Text>
+			<Text>Cantaria|Cantarias</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

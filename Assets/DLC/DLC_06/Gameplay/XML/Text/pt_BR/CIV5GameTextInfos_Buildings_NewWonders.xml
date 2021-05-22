@@ -28,7 +28,7 @@
 			<Text>+10% de [ICON_FOOD]Crescimento em todas as cidades. +15% de [ICON_PRODUCTION]Produção quando estiver construindo unidades de ataque a distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MAUSOLEUM_HALICARNASSUS_HELP">
-			<Text>Ganhe 100 de [ICON_GOLD]Ouro sempre que uma Grande Pessoa for consumida. Cada fonte de [ICON_RES_MARBLE]Mármore ou [ICON_RES_STONE]Pedra explorada pela cidade produz +2 de [ICON_GOLD]Ouro.</Text>
+			<Text>Ganhe 100 de [ICON_GOLD]Ouro sempre que uma Grande Personalidade for consumida. Cada fonte de [ICON_RES_MARBLE]Mármore ou [ICON_RES_STONE]Pedra explorada pela cidade produz +2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_DESC">
 			<Text>Com mais de 12 metros de altura, a Estátua de Zeus, encontrada no Templo de Zeus em Olímpia, Grécia, foi outra das Sete Maravilhas do Mundo Antigo. Conhecida por ter sido construída pelo escultor grego Fídias, em 440 a.C., mesmo com Zeus sentado em um trono de ouro, a enorme estátua mal podia ser contida pelo próprio templo. Imagina-se que a estátua tenha sido destruída o mais tardar em 425 d.C., quando o templo de Zeus foi queimado. Se a estátua ainda estava presente naquele momento, é assunto de muito debate.</Text>

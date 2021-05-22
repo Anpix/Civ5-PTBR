@@ -147,8 +147,9 @@
             <Gender>masculine</Gender>
         </Row>
 		<Row Tag="TXT_KEY_BUILDING_HANSE_DESC">
-			<Text>Liga Hanseática</Text>
+			<Text>Hansa|Hansas</Text>
 			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>		
         <!-- LEAGUE PROJECT BUILDINGS -->
         <Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION">

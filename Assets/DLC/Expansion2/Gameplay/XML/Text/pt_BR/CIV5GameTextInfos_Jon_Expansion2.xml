@@ -20,22 +20,22 @@
             <Text>[COLOR_POSITIVE_TEXT]Tradição[ENDCOLOR] é melhor para pequenos Impérios.[NEWLINE][NEWLINE]A adoção de Tradição irá acelerar a taxa de crescimento das fronteiras em cidades e fornecer 3 pontos de [ICON_CULTURE]Cultura na [ICON_CAPITAL]Capital. Desbloqueia a construção dos Jardins Suspensos.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Tradição, serão fornecidos +15% de [ICON_FOOD]Crescimento e um Aqueduto gratuito nas suas 4 primeiras cidades. Além disso, ela também permite a compra de Grandes Engenheiros com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Liberdade[ENDCOLOR] é melhor para Civilizações que desejam se expandir mais rapidamente.[NEWLINE][NEWLINE]Ao adotar Liberdade você ganhará 1 ponto de [ICON_CULTURE]Cultura em cada cidade. Desbloqueia a construção das Pirâmides.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Liberdade, uma Grande Pessoa da sua escolha aparecerá próximo a sua [ICON_CAPITAL]Capital.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Liberdade[ENDCOLOR] é melhor para Civilizações que desejam se expandir mais rapidamente.[NEWLINE][NEWLINE]Ao adotar Liberdade você ganhará 1 ponto de [ICON_CULTURE]Cultura em cada cidade. Desbloqueia a construção das Pirâmides.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Liberdade, uma Grande Personalidade da sua escolha aparecerá próximo a sua [ICON_CAPITAL]Capital.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_HONOR_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Honra[ENDCOLOR] melhora a eficácia de seu exército de várias maneiras.[NEWLINE][NEWLINE]Adotando Honra, você ganhará um bônus de +33% no combate contra Bárbaros e será notificado quando surgir um novo acampamento bárbaro em território já revelado. Você também ganhará [ICON_CULTURE]Cultura para cada bárbaro morto. Desbloqueia a construção da Estátua de Zeus.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Honra você ganhará [ICON_GOLD]Ouro para cada unidade inimiga morta, além de permitir a compra de Grandes Generais com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo-a-corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital. Grandes Generais são produzidos 50% mais rápido.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo a corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital. Grandes Generais são produzidos 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Exército Profissional[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD]Ouro para atualizar unidades militares é reduzido em 33% e a construção de Quartéis, Arsenais e Academias Militares ocorre 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Piedade[ENDCOLOR] aumenta a [ICON_PEACE]Fé do Império.[NEWLINE][NEWLINE]Adotando Piedade, a construção de Santuários e Templos ocorre na metade do tempo normal. Desbloqueia a construção da Grande Mesquita de Djenné.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Piedade, um Grande Profeta aparecerá e Locais Santos fornecerão +3 de [ICON_CULTURE]Cultura.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Piedade[ENDCOLOR] aumenta a [ICON_PEACE]Fé do Império.[NEWLINE][NEWLINE]Adotando Piedade, a construção de Santuários e Templos ocorre na metade do tempo normal. Desbloqueia a construção da Grande Mesquita de Djenné.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Piedade, um Grande Profeta aparecerá e Locais Sagrados fornecerão +3 de [ICON_CULTURE]Cultura.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_THEOCRACY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Teocracia[ENDCOLOR][NEWLINE]Templos aumentam a produção de [ICON_GOLD]Ouro das cidades em 25%. Locais Santos fornecem +3 de [ICON_GOLD]Ouro.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Teocracia[ENDCOLOR][NEWLINE]Templos aumentam a produção de [ICON_GOLD]Ouro das cidades em 25%. Locais Sagrados fornecem +3 de [ICON_GOLD]Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Mandato Divino[ENDCOLOR][NEWLINE]20% de desconto em todas as compras de unidades e edifícios religiosos com [ICON_PEACE]Fé.</Text>
@@ -47,7 +47,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Reforma[ENDCOLOR][NEWLINE]Se você fundar uma religião, ganhe um bônus de crença da Reforma.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Patronato[ENDCOLOR] aumenta os benefícios ao manter amizade com Cidades-Estado.[NEWLINE][NEWLINE]Ao adotar o Patronato, a [ICON_INFLUENCE]Influência sobre Cidades-Estado decae 25% mais lento que o normal. Desbloqueia a construção do Palácio Proibido.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Patronato, Cidades-Estado aliadas ocasionalmente lhe presentearão com [ICON_GREAT_PEOPLE]Grandes Pessoas.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Patronato[ENDCOLOR] aumenta os benefícios ao manter amizade com Cidades-Estado.[NEWLINE][NEWLINE]Ao adotar o Patronato, a [ICON_INFLUENCE]Influência sobre Cidades-Estado decae 25% mais lento que o normal. Desbloqueia a construção do Palácio Proibido.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Patronato, Cidades-Estado aliadas ocasionalmente lhe presentearão com [ICON_GREAT_PEOPLE]Grandes Personalidades.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CONSULATES">
             <Text>Consulados</Text>
@@ -164,7 +164,7 @@
             <Text>Vanguarda</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_OPEN_SOCIETY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Vanguarda[ENDCOLOR][NEWLINE]A taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Pessoas aumenta em 25%.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Vanguarda[ENDCOLOR][NEWLINE]A taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Personalidades aumenta em 25%.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION">
             <Text>Expressão Criativa</Text>
@@ -215,7 +215,7 @@
             <Text>Nova Transação</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NEW_DEAL_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]Pontos de Referência e Grandes Pessoas melhoram a produção em +4 de seu respectivo rendimento.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]Pontos de Referência e Grandes Personalidades melhoram a produção em +4 de seu respectivo rendimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY">
             <Text>Arsenal da Democracia</Text>
@@ -245,7 +245,7 @@
             <Text>Herói do Povo</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_HERO_OF_THE_PEOPLE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Herói do Povo[ENDCOLOR][NEWLINE]A taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Pessoas aumenta em 25%.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Herói do Povo[ENDCOLOR][NEWLINE]A taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Personalidades aumenta em 25%.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_SOCIALIST_REALISM">
             <Text>Realismo Socialista</Text>
@@ -395,7 +395,7 @@
             <Text>Diplomacia Forçada</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Diplomacia Forçada[ENDCOLOR][NEWLINE]Ganhe +6 de [ICON_INFLUENCE]Influência (na velodidade de jogo Padrão) por turno com Cidades-Estado que você demandar tributos. Sua força militar é 50% mais efetiva em intimidar Cidades-Estado.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Diplomacia Forçada[ENDCOLOR][NEWLINE]Ganhe +6 de [ICON_INFLUENCE]Influência (na velocidade de jogo Padrão) por turno com Cidades-Estado que você demandar tributos. Sua força militar é 50% mais efetiva em intimidar Cidades-Estado.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NEW_ORDER">
             <Text>O Legado de Clausewitz</Text>
@@ -669,7 +669,7 @@
             <Text>Você deve ser capaz de declarar guerra contra o dono da rota comercial.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP">
-            <Text>Esta ordem consumirá a Grande Pessoa e criará uma nova Grande Obra na cidade mais próxima com um espaço do tipo apropriado.</Text>
+            <Text>Esta ordem consumirá a Grande Personalidade e criará uma nova Grande Obra na cidade mais próxima com um espaço do tipo apropriado.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_RESULT">
             <Text>A Grande Obra será colocado {1: gender *:noart?em; feminine?{1: plural 2?nas; other?na;}; masculine?{1: plural 2?nos; other?no;}; other?em;} {1_BuildingName} na cidade {2: gender *:noart?de; feminine?{2: plural 2?das; other?da;}; masculine?{2: plural 2?dos; other?do;}; other?de;} {2_CityName}.</Text>
@@ -678,16 +678,16 @@
             <Text>A unidade precisa estar adjacente ou em uma de suas cidades e deve haver um espaço de Grande Obra do tipo apropriado disponível em algum lugar do império.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS_HELP">
-            <Text>Esta unidade venderá seu carregamento, obtendo [ICON_GOLD]Ouro e XP. Você obtém mais se vender mais longe de sua capital. Isso só pode ser feito uma vez com esta unidade.</Text>
+            <Text>Esta unidade venderá seu carregamento, obtendo [ICON_GOLD]Ouro e EXP. Você obtém mais se vender mais longe de sua capital. Isso só pode ser feito uma vez com esta unidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS_DISABLED_HELP">
-            <Text>A unidade deve estar proxima a um hexágono pertencente a outra Civilização ou Cidade-Estado e esta habilidade já não pode ter sido utilizada.</Text>
+            <Text>A unidade deve estar próxima a um hexágono pertencente a outra Civilização ou Cidade-Estado e esta habilidade já não pode ter sido utilizada.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_GIVE_POLICIES_HELP">
-            <Text>Esta ordem consumirá a Grande Pessoa e obterá uma grande quantidade de [ICON_CULTURE]Cultura.</Text>
+            <Text>Esta ordem consumirá a Grande Personalidade e obterá uma grande quantidade de [ICON_CULTURE]Cultura.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_HELP">
-            <Text>Esta ordem consumirá a Grande Pessoa e espalhará uma grande quantidade de [ICON_TOURISM]Turismo à civilização onde o Músico está. Outras civilizações no jogo também recebem 20% deste [ICON_TOURISM]Turismo.</Text>
+            <Text>Esta ordem consumirá a Grande Personalidade e espalhará uma grande quantidade de [ICON_TOURISM]Turismo à civilização onde o Músico está. Outras civilizações no jogo também recebem 20% deste [ICON_TOURISM]Turismo.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_DISABLED_HELP">
             <Text>A unidade deve estar em um hexágono pertencente a uma civilização principal.</Text>
@@ -726,10 +726,10 @@
             <Text>Fornecerá uma cópia de cada tipo de Recurso de Luxo conectado a esta Cidade-Estado, independente de sua relação com ela. Também fornece um bônus defensivo.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_CHATEAU_HELP">
-            <Text>Constrói um Chateau que aumenta a [ICON_CULTURE]Cultura e [ICON_GOLD]Ouro do hexágono. Também fornece um bônus defensivo.</Text>
+            <Text>Constrói um Château que aumenta a [ICON_CULTURE]Cultura e [ICON_GOLD]Ouro do hexágono. Também fornece um bônus defensivo.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_CHATEAU_REC">
-            <Text>Um Chateau deve ser construído adjacente a um Recurso de Luxo. Não pode estar adjacente a outro Chateau.[NEWLINE][NEWLINE]Ele aumentará a [ICON_CULTURE]Cultura e o [ICON_GOLD]Ouro gerado pelo hexágono. Também fornece um bônus defensivo.</Text>
+            <Text>Um Château deve ser construído adjacente a um Recurso de Luxo. Não pode estar adjacente a outro Château.[NEWLINE][NEWLINE]Ele aumentará a [ICON_CULTURE]Cultura e o [ICON_GOLD]Ouro gerado pelo hexágono. Também fornece um bônus defensivo.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_LANDMARK_HELP">
             <Text>A unidade será consumida.</Text>
@@ -762,7 +762,7 @@
             <Text>Todas as novas unidades não aéreas nesta cidade recebem a Promoção [COLOR_POSITIVE_TEXT]Moral[ENDCOLOR], melhorando a [ICON_STRENGTH]Força de Combate em 15%. Contém 1 espaço para uma Grande Obra Literária.[NEWLINE][NEWLINE]É preciso ter construído Quartéis em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_HELP">
-            <Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas nesta cidade. Contém 1 espaço para uma Grande Obra Literária.[NEWLINE][NEWLINE]É preciso ter construído um Monumento em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
+            <Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Personalidades nesta cidade. Contém 1 espaço para uma Grande Obra Literária.[NEWLINE][NEWLINE]É preciso ter construído um Monumento em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_HERMITAGE_HELP">
             <Text>+50% de [ICON_CULTURE]Cultura nesta cidade. Contém 3 espaços para Grandes Obras de Arte.[NEWLINE][NEWLINE]É preciso ter construído uma Casa de Ópera em todas as cidades. O custo é proporcional à quantidade de cidades no império.</Text>
@@ -888,8 +888,7 @@
             <Text>Confederação Mercante</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_TEXT">
-            <Text>Mais comumente referida como uma liga comercial ou aliança de comércio, uma Confederação Mercante é criada para proteger os interesses econômicos e privilégios diplomáticos dos comerciantes em cidades e nações ao longo das rotas comerciais. Embora essas confederações de comerciantes não tivessem qualquer posição oficial, vários - como a Companhia de Aventureiros Mercadors de Londres (fundada em 1407 d.C.) e da ainda mais poderosa Liga Hanseática (formada em 1356) - tiveram significativa influência econômica e dominaram rotas comerciais específicas por longos períodos. Durante o Renascimento, as confederações comerciais foram estabelecidas em cidades-estado como Veneza e Gênova para proteger os interesses dos comerciantes de determinados produtos no estrangeiro. Estas ligas comerciais atingiram o seu auge durante os séculos 15 e 16, mas caíram depois que os governos nacionais e empresas patrocinadas pelas coroas gradualmente assumiram as responsabilidades de regulação
-                e diplomática que as ligas tinham anteriormente realizado.</Text>
+            <Text>Mais comumente referida como uma liga comercial ou aliança de comércio, uma Confederação Mercante é criada para proteger os interesses econômicos e privilégios diplomáticos dos comerciantes em cidades e nações ao longo das rotas comerciais. Embora essas confederações de comerciantes não tivessem qualquer posição oficial, vários - como a Companhia de Aventureiros Mercadores de Londres (fundada em 1407 d.C.) e da ainda mais poderosa Liga Hanseática (formada em 1356) - tiveram significativa influência econômica e dominaram rotas comerciais específicas por longos períodos. Durante o Renascimento, as confederações comerciais foram estabelecidas em cidades-estado como Veneza e Gênova para proteger os interesses dos comerciantes de determinados produtos no estrangeiro. Estas ligas comerciais atingiram o seu auge durante os séculos 15 e 16, mas caíram depois que os governos nacionais e empresas patrocinadas pelas coroas gradualmente assumiram as responsabilidades de regulação e diplomática que as ligas tinham anteriormente realizado.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Confederação Mercante[ENDCOLOR][NEWLINE]+2 de [ICON_GOLD]Ouro de rotas comerciais com Cidades-Estado.</Text>
@@ -916,7 +915,7 @@
             <Text> (Eles fingem não notar provocadores de guerra.)</Text>
         </Row>
 		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MINOR">
-			<Text>[COLOR_WARNING_TEXT]Eles possuem aguma preocupação anterior sobre suas provocações de guerra.[ENDCOLOR]</Text>
+			<Text>[COLOR_WARNING_TEXT]Eles possuem alguma preocupação anterior sobre suas provocações de guerra.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MAJOR">
 			<Text>[COLOR_NEGATIVE_TEXT]Eles claramente veem a ameaça potencial em suas provocações de guerra.[ENDCOLOR]</Text>

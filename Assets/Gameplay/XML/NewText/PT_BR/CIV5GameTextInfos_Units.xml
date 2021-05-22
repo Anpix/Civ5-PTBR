@@ -12,7 +12,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALUNIT_PEOPLE">
-			<Text>Exploradores, Missionários, Espiões, Grandes Pessoas</Text>
+			<Text>Exploradores, Missionários, Espiões, Grandes Personalidades</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>2</Plurality>
 		</Row>
@@ -97,7 +97,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER">
-			<Text>Arqueiro em Biga|Arqueiros em Biga</Text>
+			<Text>Carruagem Arqueira|Carruagens Arqueiras</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -112,9 +112,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DESTROYER">
-			<Text>Destróier</Text>
+			<Text>Contratorpedeiro|Contratorpedeiros</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EGYPT_WARCHARIOT">
 			<Text>Biga Egípcia|Bigas Egípcias</Text>
@@ -282,12 +282,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MOBILE_SAM">
-			<Text>SAM Móvel</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Text>Bateria Antiaérea Móvel|Baterias Antiaéreas Móveis</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR">
-			<Text>Tanque Blindado</Text>
+			<Text>Tanque Moderno</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -337,14 +337,14 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROCKET_ARTILLERY">
-			<Text>Artilharia de Foguetes</Text>
+			<Text>Artilharia de Foguete|Artilharias de Foguete</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROMAN_BALLISTA">
 			<Text>Balista</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROMAN_LEGION">
 			<Text>Legião</Text>
@@ -1245,7 +1245,7 @@
 			<Text>Incapaz de capturar cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ONLY_DEFENSIVE">
-			<Text>Não pode realizar ataques corpo-a-corpo</Text>
+			<Text>Não pode realizar ataques corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUSES">
 			<Text>Sem bônus terrestres defensivos</Text>
@@ -1375,7 +1375,7 @@
 			<Text>Unidade Naval especializada em derrubar aeronaves. Também pode conter 3 Mísseis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos ou até que ataque ou fique adjacente a outra unidade. Pode conter 2 Mísseis e é especializado em caçar outros Submarinos.</Text>
+			<Text>Invisível a todas as unidades, exceto aos Contratorpedeiros e a outros Submarinos ou até que ataque ou fique adjacente a outra unidade. Pode conter 2 Mísseis e é especializado em caçar outros Submarinos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARRIER">
 			<Text>Transporta até 3 aeronaves.</Text>
@@ -1384,7 +1384,7 @@
 			<Text>Unidade Naval mais poderosa em ataque direto do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos. Pode causar danos maiores a outros navios quando entra no campo de alcance sem ser detectado.</Text>
+			<Text>Invisível a todas as unidades, exceto aos Contratorpedeiros e a outros Submarinos. Pode causar danos maiores a outros navios quando entra no campo de alcance sem ser detectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
 			<Text>Barco rápido e muito efetivo em reconhecimento. Também usado para caçar e destruir Submarinos inimigos.</Text>
@@ -1561,10 +1561,10 @@
 			<Text>Uma rápida unidade de ataque a distância, altamente efetiva em terreno aberto, mas significativamente prejudicada em terreno acidentado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
-			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário do {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância em terreno aberto, mas com velocidade reduzida quando entra em terreno acidentado. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDIAN_WAR_ELEPHANT">
-			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH]Força de Combate e [ICON_STRENGTH]Força de Combate a Distância maiores que a do {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
+			<Text>Uma rápida unidade de ataque a distância altamente efetiva em terreno aberto. Apenas os Indianos podem treiná-la. Esta unidade possui [ICON_STRENGTH]Força de Combate e [ICON_STRENGTH]Força de Combate a Distância maiores que a da {TXT_KEY_UNIT_CHARIOT_ARCHER}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SPEARMAN">
 			<Text>Unidade da Era Antiga especializada em combater Unidades Montadas.</Text>

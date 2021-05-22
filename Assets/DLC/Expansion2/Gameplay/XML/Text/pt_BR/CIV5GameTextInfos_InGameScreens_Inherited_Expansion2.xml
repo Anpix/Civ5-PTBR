@@ -24,10 +24,10 @@
             <Text>Progresso do Grande Almirante</Text>
         </Row>
         <Row Tag="TXT_KEY_MO_ADMIRAL_TT">
-            <Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo Grande Almirante é baseado no XP ganho pelo combate de unidades navais.</Text>
+            <Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo Grande Almirante é baseado na EXP ganha pelo combate de unidades navais.</Text>
         </Row>
         <Row Tag="TXT_KEY_MO_GENERAL_TT">
-            <Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo Grande General é baseado no XP ganho pelo combate de unidades terrestres.</Text>
+            <Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo Grande General é baseado na EXP ganha pelo combate de unidades terrestres.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_GP_MOD">
             <Text>[ICON_BULLET]Bônus de Cidade: +{1_num}%</Text>
@@ -100,7 +100,7 @@
             <Text>É necessário o mínimo de {1_MinFaith} de [ICON_PEACE]Fé para o próximo Grande Profeta.</Text>
         </Row>
         <Row Tag="TXT_KEY_RO_POSSIBLE_GP">
-            <Text>Grandes Pessoas possíveis:</Text>
+            <Text>Grandes Personalidades possíveis:</Text>
         </Row>
         <Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE">
             <Text>Compra automática com [ICON_PEACE]Fé:</Text>
@@ -263,8 +263,8 @@
             <Text>O espião tentará promover um golpe de estado para tornar sua civilização aliada da Cidade-Estado, que já deve estar aliada a outra civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_STAGE_COUP_QUESTION">
-            <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} pode tentar um golpe de estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName}, colocando no poder um grupo que será nosso aliado. A facção líder apoiadora {4_CivShortDesc[2]} será deposta e sua influência diminuída. [NEWLINE][NEWLINE][COLOR_HIGHLIGHT_TEXT]Esta operação possui uma chance de {5_PERCENT}% de sucesso. [ENDCOLOR]Se for bem sucedida, você se tornará aliado {6: gender *:noart?em; feminine?{6: plural 2?nas; other?na;}; masculine?{6: plural 2?nos; other?no;}; other?em;} {6_CityName} e {7: gender *:noart?{}; feminine?{7: plural 2?as ; other?a ;}; masculine?{7: plural 2?os ; other?o ;}; other?{};}{7_CivShortDesc} {7: plural 2?terão; other?terá;} sua influência diminuída. Se você falhar, seu espião será morto na tentativa e sua influência sobre {8: gender *:noart?{}; feminine?{8: plural 2?as ; other?a ;}; masculine?{8: plural
-                2?os ; other?o ;}; other?{};}{8_CityName} cairá. [NEWLINE][NEWLINE]Deseja que {9: gender feminine?a; other?o;} {9_SpyRank} {10_SpyName} tente um golpe de estado {11: plural 2?{11: gender feminine?nas; masculine?nos; other?em;}; other?{11: gender feminine?na; masculine?no; other?em;};} {11_CityName}?
+            <Text>{2: gender feminine?A; other?O;} {1_SpyRank} {2_SpyName} pode tentar um golpe de estado {3: gender *:noart?em; feminine?{3: plural 2?nas; other?na;}; masculine?{3: plural 2?nos; other?no;}; other?em;} {3_CityName}, colocando no poder um grupo que será nosso aliado. A facção líder apoiadora {4_CivShortDesc[2]} será deposta e sua influência diminuída.[NEWLINE][NEWLINE][COLOR_HIGHLIGHT_TEXT]Esta operação possui uma chance de {5_PERCENT}% de sucesso.[ENDCOLOR]Se for bem sucedida, você se tornará aliado {6: gender *:noart?em; feminine?{6: plural 2?nas; other?na;}; masculine?{6: plural 2?nos; other?no;}; other?em;} {6_CityName} e {7: gender *:noart?{}; feminine?{7: plural 2?as ; other?a ;}; masculine?{7: plural 2?os ; other?o ;}; other?{};}{7_CivShortDesc} {7: plural 2?terão; other?terá;} sua influência diminuída. Se você falhar, seu espião será morto na tentativa e sua influência sobre {8: gender *:noart?{}; feminine?{8: plural 2?as ; other?a ;}; masculine?{8: plural
+                2?os ; other?o ;}; other?{};}{8_CityName} cairá.[NEWLINE][NEWLINE]Deseja que {9: gender feminine?a; other?o;} {9_SpyRank} {10_SpyName} tente um golpe de estado {11: plural 2?{11: gender feminine?nas; masculine?nos; other?em;}; other?{11: gender feminine?na; masculine?no; other?em;};} {11_CityName}?
             </Text>
         </Row>
         <Row Tag="TXT_KEY_EO_KIA">

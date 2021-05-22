@@ -8,55 +8,55 @@
 	<Language_pt_BR>
 		<!-- WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_ALHAMBRA">
-			<Text>Alhambra</Text>
+			<Text>Alambra|Alambras</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CN_TOWER">
-			<Text>Torre CN</Text>
+			<Text>Torre CN|Torres CN</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HUBBLE">
-			<Text>Telescópio Espacial Hubble</Text>
+			<Text>Telescópio Espacial Hubble|Telescópios Espaciais Hubble</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LEANING_TOWER">
-			<Text>Torre de Pisa</Text>
+			<Text>Torre de Pisa|Torres de Pisa</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE_OF_DJENNE">
-			<Text>Grande Mesquita de Djenné</Text>
+			<Text>Grande Mesquita de Djenné|Grandes Mesquitas de Djenné</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEUSCHWANSTEIN">
-			<Text>Castelo de Neuschwanstein</Text>
+			<Text>Castelo de Neuschwanstein|Castelos de Neuschwanstein</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PETRA">
-			<Text>Petra</Text>
+			<Text>Petra|Petras</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TERRACOTTA_ARMY">
-			<Text>Exército de Terracota</Text>
+			<Text>Exército de Terracota|Exércitos de Terracota</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL">
-			<Text>Grande Firewall</Text>
+			<Text>Grande Firewall|Grandes Firewalls</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<!-- NATIONAL WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY">
-			<Text>Agência Nacional de Inteligência</Text>
+			<Text>Agência Nacional de Inteligência|Agências Nacionais de Inteligência</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
@@ -80,8 +80,8 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE">
-			<Text>Guarda Policial|Guardas Policiais</Text>
-			<Gender>feminine|feminine</Gender>
+			<Text>Condestável|Condestáveis</Text>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION">
@@ -107,29 +107,29 @@
 		</Row>
 		<!-- UNIQUE BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_CEILIDH_HALL">
-			<Text>Salão Ceilidh</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Salão Ceilidh|Salões Ceilidh</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>		
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_COFFEE_HOUSE">
-			<Text>Casa de Café</Text>
+			<Text>Casa de Café|Casas de Café</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STELE">
-			<Text>Estela</Text>
+			<Text>Estela|Estelas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAYA_PYRAMID">
-			<Text>Pirâmide</Text>
+			<Text>Pirâmide|Pirâmides</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE">
-			<Text>Grande Templo</Text>
+			<Text>Grande Templo|Grandes Templos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>					  
+			<Plurality>1|2</Plurality>					  
 		</Row>		
 	</Language_pt_BR>
 </GameData>

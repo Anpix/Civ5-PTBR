@@ -204,7 +204,7 @@
 			<Text>History</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_1">
-			<Text>Francis I was King of France from 1515 until 1547, during which time he helped form the Franco-Ottoman alliance with Suleiman I. The Holy Roman Emperor Charles V was Francis’s greatest nemesis and would be the target of several military campaigns. At the Battle of Pavia in 1525, Francis would be captured by Charles and held captive for over a year until turning over his two sons, Henry and Francis, in exchange for his freedom.</Text>
+			<Text>Francis I was King of France from 1515 until 1547, during which time he helped form the Franco-Ottoman alliance with Solimão I. The Holy Roman Emperor Charles V was Francis’s greatest nemesis and would be the target of several military campaigns. At the Battle of Pavia in 1525, Francis would be captured by Charles and held captive for over a year until turning over his two sons, Henry and Francis, in exchange for his freedom.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
 			<Text>Native Allies</Text>
@@ -450,10 +450,10 @@
 			<Text>A barter system with a reciprocal exchange of goods or services prevailed in the New World, among the natives, between the natives and the European settlers, and between the colonists themselves. Until the first coins minted in the New World - copper maravedi in Santo Domingo in 1502 AD - barter was the basis of the Americas' economy. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CITIZENSHIP_NWS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Citizenship[ENDCOLOR][NEWLINE][ICON_GOLD] Gold cost of purchasing buildings reduced by 33%. +1 [ICON_PEACE] Faith from each building that requires an improved resource. (Chocolate House, Circus, Forge, Mint, and Stone Works)</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Cidadania[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD]Ouro da compra de edificações é reduzido em 33%. +1 de [ICON_PEACE]Fé por cada edificação que requer um recurso melhorado. (Fábrica de Chocolate, Circo, Forja, Casa da Moeda, e Cantaria)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CITY_SACK">
-			<Text>City Sack</Text>
+			<Text>Saque da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CITY_SACK_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]City Sack[ENDCOLOR][NEWLINE]+33% [ICON_STRENGTH] Combat Strength when attacking cities and Treasure unit's movement is +1. (Units recieve the City Sack Promotion and all Treasure units start with the 1 Extra Movement promotion)</Text>

@@ -65,7 +65,7 @@
 			<Text>Seja bem-vindo, forasteiro! Eu sou Miguel VIII, restaurador do Império Bizâncio. Damos-lhe saudações a nossa terra, recentemente recuperadas dos cavaleiros da Quarta Cruzada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_UIGHUR_TEXT">
-			<Text>Fundado em 742 d.C., a Era Dourada do Império Uighur rapidamente começou e se prolongou até o final do século VIII. Entretanto, o jovem e fraco Império foi conquistado pelos Kyrgyz em 840, e se dividiu em três reinos: Gansu, Turpan e Karakhanids. Este cenário trata Uighur em Turpan, um reino tribal bem sucedido que se manteve até a invasão Mongol de 1389. Os Mongóis eventualmente adotaram o sistema de escrita Uighur após se tornarem seus vassalos.</Text>
+			<Text>Fundado em 742 d.C., a Era Dourada do Império Uigur rapidamente começou e se prolongou até o final do século VIII. Entretanto, o jovem e fraco Império foi conquistado pelos Quirguizes em 840, e se dividiu em três reinos: Gansu, Turfã e Caracânida. Este cenário trata Uigur em Turfã, um reino tribal bem sucedido que se manteve até a invasão Mongol de 1389. Os Mongóis eventualmente adotaram o sistema de escrita Uigur após se tornarem seus vassalos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GEORGIA_TEXT">
 			<Text>Habitada desde o início da Era da Pedra, a unificação completa da área só ocorreu no século XI d.C., pelo Rei Bagrat V. O novo reino da Geórgia rapidamente floresceu e chegou ao seu apogeu apenas um pequeno século depois. Essa Renascença Georgiana trouxe uma grande quantidade de avanços à área, incluindo descobertas em filosofia, a escrita de épicas poesias e a construção de catedrais extraordinárias. Apesar de seu rápido e bem sucedido desenvolvimento, a Era Dourada Georgiana chegou ao fim com a invasão Mongol, em 1236; o reino entrou totalmente em colapso no final do século XV.</Text>
@@ -80,13 +80,13 @@
 			<Text>Localizado na moderna Província Yhunnan da China, o reino de Dali foi fundado em 937 d.C., após um período de pequenas dinastias turbulentas. O território do reino naturalmente fornecia proteção e dizia-se que apenas alguns poucos homens poderiam proteger o vale durante anos. Isso parecia ser verdade, já que os Mongóis tentaram invadir o reino várias vezes, todas sem sucesso. Registros mostram que o exército Mongol eventualmente encontrou um traidor em Dali para levá-los por uma passagem secreta sobre as montanhas, dando-lhes finalmente os meios para sobrepujar as defesas impenetráveis. Em 1253, os Mongóis completaram sua invasão do Estado, criando a Província de Yunnan, em 1274.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_ABBASIDS_TEXT">
-			<Text>O terceiro dos califados Islâmicos, a Dinastia Abbasid governou o reino da capital Bagdá. O califado foi fundado por descendentes do profeta Muhammad, em 750 d.C. e floresceu por muitas centenas de anos.  Os Abbasids continuaram no poder por séculos, mas seu domínio sobre as províncias locais foi diminuindo durante o tempo. Em 1258, os Mongóis invadiram o califado e saquearam Bagdá, removendo os Abbasids do poder político. O Califado foi formalmente desestabilizado com os Abbasids conseguindo controlar apenas uma pequena parte da autoridade religiosa.</Text>
+			<Text>O terceiro dos califados Islâmicos, a Dinastia Abbasid governou o reino da capital Bagdá. O califado foi fundado por descendentes do profeta Maomé, em 750 d.C. e floresceu por muitas centenas de anos.  Os Abbasids continuaram no poder por séculos, mas seu domínio sobre as províncias locais foi diminuindo durante o tempo. Em 1258, os Mongóis invadiram o califado e saquearam Bagdá, removendo os Abbasids do poder político. O Califado foi formalmente desestabilizado com os Abbasids conseguindo controlar apenas uma pequena parte da autoridade religiosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_CRUSADERS_TEXT">
 			<Text>Durante as cruzadas norte europeias da Terra Santa, um número de pequenos estados feudais foram criados durante os séculos XII e XIII. Os primeiros quatro Estados Cruzados foram criados em Levante, uma área que abrange a costa leste do Mediterrâneo. Posteriormente, durante a Terceira Cruzada, o reino do Chipre foi fundado por Ricardo Coração de Leão, onde continuou sendo a base para as forças Cristãs até 1571. Os Mongóis nunca fizeram um ataque formal contra os Estados Cruzados e a maioria sobreviveu até a série de invasões lideradas pelos Otomanos no século XVI.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_WESTERN_XIA_TEXT">
-			<Text>A Dinastia XI Ocidental, ou Império Tangut, foi fundada em 1038 d.C. quando um chefe Tangut se auto proclamou Imperador da região Xia. Não muito depois, o reino sofreu uma massiva destruição pela série de invasões Mongóis, lideradas por Genghis Khan - seis diferentes ataques no período de vinte e dois anos. Genghis morreu durante a última série de ataques (a causa da morte continua a ser debatida) e as forças mongóis tomaram a capital em 1227, destruindo edifícios e registros escritos, matando o imperador e dezenas de milhares de pessoas no processo.</Text>
+			<Text>A Dinastia XI Ocidental, ou Império Tangut, foi fundada em 1038 d.C. quando um chefe Tangut se auto proclamou Imperador da região Xia. Não muito depois, o reino sofreu uma massiva destruição pela série de invasões Mongóis, lideradas por Genghis Khan - seis diferentes ataques no período de vinte e dois anos. Genghis morreu durante a última série de ataques (a causa da morte continua a ser debatida) e as forças mongóis tomaram a capital em 1227, destruindo edificações e registros escritos, matando o imperador e dezenas de milhares de pessoas no processo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_KOREA_TEXT">
 			<Text>No tempo do Império Mongol, o reino da Coreia era governado pela Dinastia Goryeo, que tomou o poder em 918 d.C. Durante este reinando, a nação floresceu: suas leis eram escritas, um sistema de serviço civil foi introduzido e foram feitos grandes avanços culturais com a criação da primeira prensa metálica de impressão móvel do mundo. Entretanto, em 1230, o reino começou a ser ameaçado pelas forças Mongóis, que continuaram a tentar a invasão pelas próximas décadas. Em 1259, a nação pediu a trégua e um tratado foi realizado entre a Coreia e os Mongóis. Aos Goryeos foi permitido manter sua soberania, enquanto o Império Mongol anexou uma grande parte das províncias do norte.</Text>
@@ -117,7 +117,7 @@
 			<Text>Líder da Dinastia Jin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_LIVED">
-			<Text>1168 - 1208 d.C.</Text>
+			<Text>1168-1208 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_NAME">
 			<Text>Miguel VIII</Text>
@@ -126,7 +126,7 @@
 			<Text>Líder do Império Bizantino</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_LIVED">
-			<Text>1224 - 1282 d.C.</Text>
+			<Text>1224-1282 d.C.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

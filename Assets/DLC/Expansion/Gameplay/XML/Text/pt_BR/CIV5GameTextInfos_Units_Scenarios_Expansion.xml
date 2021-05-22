@@ -44,7 +44,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP">
-			<Text>Tanque Ultrapesado|Tanques Ultrapesados</Text>
+			<Text>Tanque|Tanques</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>

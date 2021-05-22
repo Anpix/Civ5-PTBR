@@ -149,7 +149,7 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_8">
-			<Text>Continue.</Text>
+			<Text>Continuar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LOSEWAR_1">
 			<Text>Tolo, tolo - permitindo-me viver. Você sempre deve destruir os galhos, tronco e raiz dos seus inimigos.</Text>
@@ -248,7 +248,7 @@
 			<Text>Da próxima vez não serei tão educado.</Text>
 		</Row>    
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WINWAR_1">
-			<Text> Isso foi refrescante. Se os demônios estão saciados, talvez eles nos dê em uma pequena trégua agora.</Text>
+			<Text>Isso foi refrescante. Se os demônios estão saciados, talvez eles nos dê em uma pequena trégua agora.</Text>
 		</Row>		
 	</Language_pt_BR>
 </GameData>

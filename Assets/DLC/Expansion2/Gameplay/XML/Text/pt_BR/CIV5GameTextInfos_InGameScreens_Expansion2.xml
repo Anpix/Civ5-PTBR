@@ -613,13 +613,13 @@
 		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+1 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]25% de redução no tempo de agitação/perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_POPULAR">
-		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+2 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 gradução acima em Cidades-Estados aliadas à civilização influenciada[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]50% de redução no tempo de agitação/perda de população</Text>
+		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+2 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 graduação acima em Cidades-Estado aliadas à civilização influenciada[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]50% de redução no tempo de agitação/perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_INFLUENTIAL">
-		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+3 [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 gradução acima nas cidades da civilização influenciada e nas Cidades-Estados aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]75% de redução no tempo de agitação/perda de população</Text>
+		  <Text>[NEWLINE][NEWLINE]Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+3 [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 1 graduação acima nas cidades da civilização influenciada e nas Cidades-Estado aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]75% de redução no tempo de agitação/perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_DOMINANT">
-		  <Text>Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+4 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 2 graduções acima nas cidades da civilização influenciada e nas Cidades-Estados aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]Não há tempo de agitação ou perda de população</Text>
+		  <Text>Benefícios resultantes:[NEWLINE]- Cada Rota Comercial para a civilização influenciada:[NEWLINE]+4 de [ICON_RESEARCH]Ciência[NEWLINE]- [ICON_SPY]Espiões realizam avaliação em 1 turno e operam em 2 graduações acima nas cidades da civilização influenciada e nas Cidades-Estado aliadas a ela[NEWLINE]- Quando conquistar cidades da civilização influenciada:[NEWLINE]Não há tempo de agitação ou perda de população</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_BONUS_CITY_STATE">
 		  <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Os espiões estão operando em {1_SpyBonus} {1_SpyBonus: plural 1?graduação; other?graduações;} acima do normal, já que esta Cidade-Estado é aliada a uma civilização sobre a qual você possui forte influência cultural.[ENDCOLOR]</Text>
@@ -637,7 +637,7 @@
             <Text>Produção de [ICON_TOURISM]Turismo ajustada</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENCE_TREND_HEADER_TT">
-            <Text>Indicador Levantando-se ou Decadente[NEWLINE](e se Levantando-se, o popup exibe o número de turnos até ficar Influente)</Text>
+            <Text>Indicador Levantando-se ou Decadente[NEWLINE](e se Levantando-se, a janela emergente exibe o número de turnos até ficar Influente)</Text>
         </Row>
         <Row Tag="TXT_KEY_CO_INFLUENTIAL_TURNS_TT">
             <Text>Influente em {1_Num} {1: plural 1:turno; other?turnos;} (assumindo que a produção de Turismo permaneça inalterada)</Text>
@@ -1147,7 +1147,7 @@
             <Text>Cenário VP 4</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
-            <Text>Uma ou outra vez ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo a sua volta - artistas, cientistas, generais, comerciantes e outros, cujo gênio colocava sua cabeça e seus ombros acima do resto. Neste jogo tais visionários são chamados de "Grandes Pessoas".[NEWLINE][NEWLINE]Há nove tipos diferentes de Grande Pessoa no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Pessoas através da construção de certos edifícios e maravilhas e, depois, desiginando a eles "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora especialistas não trabalhem nos ladrilhos da cidade, eles aceleraram muito a chegada de uma Grande Pessoa. Equilibrar a necessidade de produção e alimentos e o desejo de Grandes Pessoas é um desafio importante de gestão da cidade.</Text>
+            <Text>Uma ou outra vez ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo a sua volta - artistas, cientistas, generais, comerciantes e outros, cujo gênio colocava sua cabeça e seus ombros acima do resto. Neste jogo tais visionários são chamados de "Grandes Personalidades".[NEWLINE][NEWLINE]Há nove tipos diferentes de Grande Personalidade no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada um tem uma habilidade especial.[NEWLINE][NEWLINE]Sua civilização adquire Grandes Personalidades através da construção de certos edifícios e maravilhas e, depois, designando a eles "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora especialistas não trabalhem nos ladrilhos da cidade, eles aceleraram muito a chegada de uma Grande Personalidade. Equilibrar a necessidade de produção e alimentos e o desejo de Grandes Personalidades é um desafio importante de gestão da cidade.</Text>
         </Row>       <!--New Declare War Screen -->
         <Row Tag="TXT_KEY_DECLARE_WAR_TOP">
             <Text>Tem certeza que deseja declarar guerra contra {1_CivName}?</Text>

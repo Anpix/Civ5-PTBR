@@ -33,7 +33,7 @@
 			<Text>History</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BELGIUM_TEXT_1">
-			<Text>Having only gained its independence in 1830 AD, Belgium was a relative late-comer to the European scramble for colonies in Africa. Although the Belgian colonial holdings included the small territories of Rwanda and Burundi, it was primarily comprised of the Belgian Congo, a vast area drained by the Congo River. Unlike most colonies, the Congo was not administered by the government, but instead was the private property of King Leopold II of Belgium. From August 1879 to June 1884, while under contract to King Leopold to navigate the river, the explorer Henry Stanley negotiated treaties with a number of tribal chieftains whereby they transferred all rights to their respective lands to the Belgian king. Leopold proceeded to establish private military posts and plantations to harvest rubber. In 1884, the Berlin Conference, headed by the German chancellor Otto von Bismarck, recognized Leopold's ownership of the Congo. Leopold's brutal policies eventually led to international outcry however; in 1908, despite the aging Leopold's offers to reform his personal rule of the territory, the Belgian parliament reluctantly annexed the king's "Congo Free State" as a colony.</Text>
+			<Text>Having only gained its independence in 1830 AD, Belgium was a relative late-comer to the European scramble for colonies in Africa. Although the Belgian colonial holdings included the small territories of Rwanda and Burundi, it was primarily comprised of the Belgian Congo, a vast area drained by the Congo River. Unlike most colonies, the Congo was not administered by the government, but instead was the private property of King Leopold II of Belgium. From August 1879 to June 1884, while under contract to King Leopold to navigate the river, the explorer Henry Stanley negotiated treaties with a number of tribal chieftains whereby they transferred all rights to their respective lands to the Belgian king. Leopold proceeded to establish private military posts and plantations to harvest rubber. In 1884, the Berlim Conference, headed by the German chancellor Otto von Bismarck, recognized Leopold's ownership of the Congo. Leopold's brutal policies eventually led to international outcry however; in 1908, despite the aging Leopold's offers to reform his personal rule of the territory, the Belgian parliament reluctantly annexed the king's "Congo Free State" as a colony.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS_SHORT">
 			<Text>The Rhodes Colossus</Text>
@@ -48,7 +48,7 @@
 			<Text>Founded cities start with additional territory.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY_SHORT">
-			<Text>Gunboat Diplomacy</Text>
+			<Text>Diplomacia Forçada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY">
 			<Text>Gain 9 additional [ICON_INFLUENCE] Influence per turn com Cidades-Estado you could demand tribute from. City States also do not become upset by your intruding units.</Text>
@@ -181,7 +181,7 @@
 			<Text>History</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_TEXT_1">
-			<Text>Although the German chancellor Bismarck (served 1871-1890) saw German interest in Africa as distraction, he was intensely interested and intimately involved in the scramble for Africa through the Berlin Conference he organized in 1884 to formally settle various colonial claims. Besides settling several boundary disputes, the Berlin Conference under Bismarck's mediation determined that the Congo was Leopold II's private property, that the 14 signatory nations would have free trade throughout the Congo, that the Niger and Congo rivers were open to all traffic, that slavery was to be abolished in Islamic lands, and formalized the international procedures for establishing a colonial claim.</Text>
+			<Text>Although the German chancellor Bismarck (served 1871-1890) saw German interest in Africa as distraction, he was intensely interested and intimately involved in the scramble for Africa through the Berlim Conference he organized in 1884 to formally settle various colonial claims. Besides settling several boundary disputes, the Berlim Conference under Bismarck's mediation determined that the Congo was Leopold II's private property, that the 14 signatory nations would have free trade throughout the Congo, that the Niger and Congo rivers were open to all traffic, that slavery was to be abolished in Islamic lands, and formalized the international procedures for establishing a colonial claim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS}</Text>
@@ -301,7 +301,7 @@
 			<Text>History</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_TEXT_1">
-			<Text>Abdul Hamid II (ruled 1876-1909), Caliph of the Faithful, 34th sultan of the Ottoman Empire, was the last sultan to exert effective control over the empire's African territories. Following the Russian victory in 1878, the Congress of Berlin forced Abdul Hamid to "rent" Cyprus to Great Britain and allow British forces to occupy Egypt and the Sudan in 1882 to "bring order" to these contentious Ottoman provinces, a role that the British Empire did not relinquish until 1922.</Text>
+			<Text>Abdul Hamid II (ruled 1876-1909), Caliph of the Faithful, 34th sultan of the Ottoman Empire, was the last sultan to exert effective control over the empire's African territories. Following the Russian victory in 1878, the Congress of Berlim forced Abdul Hamid to "rent" Cyprus to Great Britain and allow British forces to occupy Egypt and the Sudan in 1882 to "bring order" to these contentious Ottoman provinces, a role that the British Empire did not relinquish until 1922.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_NAME">
 			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON}</Text>
@@ -436,7 +436,7 @@
 			<Text>The Force Publique served as a gendarmerie and military force in the Belgian Congo from 1908 through 1960, when it became the core of the Congolese Army upon independence. Made up of ethnically mixed Africans drawn mainly from the Haut-Congo, Zanzibar and other Belgian colonies, the Force Publique was officered by whites, either Belgian Army veterans or European mercenaries. Scattered across the region in small detachments, the force operated against poachers, Arab slave-traders, and rebellious tribes, as well as serving in the East African campaigns in both world wars.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY2">
-			<Text>The Foreign Legion is a French unique unit, replacing the rifleman. It receives a significant combat bonus when operating outside of home territory, making it an excellent unit to launch against enemy territory. </Text>
+			<Text>A Legião Estrangeira é a unidade francesa única, que substitui o Fuzileiro. Ela recebe um bônus de combate significativo quando opera fora de suas fronteiras, tornando-a uma excelente unidade para se lançar contra territórios inimigos. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION2">
 			<Text>Only the French may build it. This Unit has a combat bonus outside of friendly territory, unlike the Rifleman which it replaces.</Text>

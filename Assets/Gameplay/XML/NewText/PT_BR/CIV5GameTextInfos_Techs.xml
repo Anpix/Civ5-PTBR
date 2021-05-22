@@ -10,7 +10,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY">
-			<Text>Pecuária</Text>
+			<Text>Domesticação de Animais</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -70,7 +70,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH">
-			<Text>Tecnologia Futura</Text>
+			<Text>Futuras Tecnologias</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -85,7 +85,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERCHANGEABLE_PARTS">
-			<Text>Produção em Série</Text>
+			<Text>Partes Substituíveis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -335,7 +335,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">
-			<Text>Tecnologia Futura</Text>
+			<Text>Futuras Tecnologias</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -495,7 +495,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_TITLE">
-			<Text>Produção em Série</Text>
+			<Text>Partes Substituíveis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

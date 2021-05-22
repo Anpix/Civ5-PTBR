@@ -51,7 +51,7 @@
 			<Text>Os Incas usavam um intrincado sistema de nós em cordas tingidas para guardar informações contábeis.[NEWLINE][NEWLINE]Os Incas acreditavam que a planta da coca era sagrada e mágica, e suas folhas eram utilizadas em vários rituais religiosos.[NEWLINE][NEWLINE]O mais alto assentamento Inca permanente já encontrado até agora está localizado a incríveis 5.300 metros acima do nível do mar. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_PACHACUTI_LIVED">
-			<Text>1410 - 1471 d.C.</Text>
+			<Text>1410-1471 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_PACHACUTI_NAME">
 			<Text>Pachacuti</Text>
@@ -96,13 +96,13 @@
 			<Text>{TXT_KEY_UNIT_INCAN_SLINGER[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INCA_SLINGER_TEXT">
-			<Text>Os guerreiros Incas eram renomados {TXT_KEY_UNIT_INCAN_SLINGER[2]}. Seus projéteis preferidos eram pedras arredondadas. Apesar das fundas não possuírem um grande alcance ou o poder de um arco e flecha, fundas são armas notavelmente pequenas e leves, permitindo que a infantaria possa facilmente carregá-las sem se tornar sobrecarregada. E, como está escrito no Velho Testamento, um fundbulário bem treinado pode abater até mesmo o maior oponente apenas com uma única pedra...</Text>
+			<Text>Os guerreiros Incas eram renomados {TXT_KEY_UNIT_INCAN_SLINGER[2]}. Seus projéteis preferidos eram pedras arredondadas. Apesar das fundas não possuírem um grande alcance ou o poder de um arco e flecha, fundas são armas notavelmente pequenas e leves, permitindo que a infantaria possa facilmente carregá-las sem se tornar sobrecarregada. E, como está escrito no Velho Testamento, um fundibulário bem treinado pode abater até mesmo o maior oponente apenas com uma única pedra...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INCA_SLINGER_HELP">
-			<Text>Sendo uma das primeiras unidades de ataque à distância, esta unidade Inca exclusiva substitui o {TXT_KEY_UNIT_ARCHER}. O {TXT_KEY_UNIT_INCAN_SLINGER} não é mais poderoso que um {TXT_KEY_UNIT_ARCHER} e é até mais frágil se submetido a um ataque corpo-a-corpo. Entretanto ele possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque corpo-a-corpo inimigo possa ocorrer.</Text>
+			<Text>Sendo uma das primeiras unidades de ataque à distância, esta unidade Inca exclusiva substitui o {TXT_KEY_UNIT_ARCHER}. O {TXT_KEY_UNIT_INCAN_SLINGER} não é mais poderoso que um {TXT_KEY_UNIT_ARCHER} e é até mais frágil se submetido a um ataque corpo a corpo. Entretanto ele possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque corpo a corpo inimigo possa ocorrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INCA_SLINGER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_INCAN_SLINGER} é uma unidade de artilharia da Era Antiga que pode acertar alvos à distância. Esta unidade Inca exclusiva pode recuar ante a maioria dos ataques corpo-a-corpo: use isso para atormentar seus inimigos. Porém, o {TXT_KEY_UNIT_INCAN_SLINGER} pode ser facilmente derrotado se o inimigo o encurralar contra obstruções ou o perseguir com unidades rápidas.</Text>
+			<Text>O {TXT_KEY_UNIT_INCAN_SLINGER} é uma unidade de artilharia da Era Antiga que pode acertar alvos à distância. Esta unidade Inca exclusiva pode recuar ante a maioria dos ataques corpo a corpo: use isso para atormentar seus inimigos. Porém, o {TXT_KEY_UNIT_INCAN_SLINGER} pode ser facilmente derrotado se o inimigo o encurralar contra obstruções ou o perseguir com unidades rápidas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_TERRACE_FARM">
 			<Text>Fazenda em Terraços|Fazendas em Terraços</Text>

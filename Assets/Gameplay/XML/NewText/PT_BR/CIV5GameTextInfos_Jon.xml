@@ -217,7 +217,7 @@
 			<Text>Ninguém</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_CULTURED_TT">
-			<Text> A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Culta[ENDCOLOR] irá fornecer presentes de [ICON_CULTURE]Cultura, permitindo que você obtenha Políticas Sociais mais rapidamente.</Text>
+			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Culta[ENDCOLOR] irá fornecer presentes de [ICON_CULTURE]Cultura, permitindo que você obtenha Políticas Sociais mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_TT">
 			<Text>A amizade com uma Cidade-Estado [COLOR_POSITIVE_TEXT]Militarista[ENDCOLOR] irá fornecer ocasionalmente unidades avançadas como presente. Eles também solicitarão favores militares, naturalmente (exemplo: destruir um acampamento bárbaro ou capturar uma Cidade-Estado vizinha).</Text>
@@ -392,13 +392,13 @@
 			<Text>{1_CityName:textkey} pode disparar contra um inimigo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_ANOTHER">
-			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?{1: gender feminine?é reconhecida; masculine?é reconhecido; other? ;}; other?{1: gender feminine?são reconhecidas; masculine?são reconhecidos; other? ;};} como a civilização que mais possui Grandes Pessoas, ganhando {2_Num} {2: plural 1?ponto; other?pontos;} de Civilização por isso. Outro jogador precisará de pelo menos {3_Num} {3: plural 1?Grande Pessoa; other?Grandes Pessoas} para ganhar este título.</Text>
+			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?{1: gender feminine?é reconhecida; masculine?é reconhecido; other? ;}; other?{1: gender feminine?são reconhecidas; masculine?são reconhecidos; other? ;};} como a civilização que mais possui Grandes Personalidades, ganhando {2_Num} {2: plural 1?ponto; other?pontos;} de Civilização por isso. Outro jogador precisará de pelo menos {3_Num} {3: plural 1?Grande Personalidade; other?Grandes Personalidades} para ganhar este título.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_UNMET">
-			<Text>Uma desconhecida Civilização é a que mais possui Grandes Pessoas no mundo! Este título lhe dá {1_Num} {1: plural 1?ponto; other?pontos;} de Civilização. Outro jogador precisará de pelo menos {2_Num} {2: plural 1?Grande Pessoa; other?Grandes Pessoas} para ganhar este título.</Text>
+			<Text>Uma desconhecida Civilização é a que mais possui Grandes Personalidades no mundo! Este título lhe dá {1_Num} {1: plural 1?ponto; other?pontos;} de Civilização. Outro jogador precisará de pelo menos {2_Num} {2: plural 1?Grande Personalidade; other?Grandes Personalidades} para ganhar este título.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_YOU">
-			<Text>Sua Civilização é a que mais possui Grandes Pessoas em todo mundo, dando {1_Num} {1: plural 1?ponto; other?pontos} de Civilização a você por isso! Outro jogador precisará de pelo menos {2_Num} {2: plural 1?Grande Pessoa; other?Grandes Pessoas} para ganhar este título de você.</Text>
+			<Text>Sua Civilização é a que mais possui Grandes Personalidades em todo mundo, dando {1_Num} {1: plural 1?ponto; other?pontos} de Civilização a você por isso! Outro jogador precisará de pelo menos {2_Num} {2: plural 1?Grande Personalidade; other?Grandes Personalidades} para ganhar este título de você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_ANOTHER">
 			<Text>{1: plural 1?{1: gender *:noart? ; feminine?A; masculine?O; other? ;}; other?{1: gender *:noart? ; feminine?As; masculine?Os; other? ;};} {1_CivName:textkey} {1: plural 1?{1: gender feminine?é honrada por ser; masculine?é honrado por ser; other? ;}; other?{1: gender feminine?são honradas por serem; masculine?são honrados por serem; other? ;};} a Civilização que mais possui Políticas Sociais, ganhando {2_Num} {2: plural 1?ponto; other?pontos} de Civilização por isso. Outro jogador precisará ter pelo menos {3_Num} {3: plural 1?Política Social; other?Políticas Sociais} para ganhar este título.</Text>
@@ -916,25 +916,25 @@
 			<Text>{1_CivName:textkey} e {2_CivName:textkey} assinaram um acordo de pesquisa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON">
-			<Text>Uma Grande Pessoa nasceu {1: gender *:noart?em; masculine?{1: plural 1?no; other?nos;}; feminine?{1: plural 1?na; other?nas;};} {1_CivName:textkey}.</Text>
+			<Text>Uma Grande Personalidade nasceu {1: gender *:noart?em; masculine?{1: plural 1?no; other?nos;}; feminine?{1: plural 1?na; other?nas;};} {1_CivName:textkey}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON_ACTIVE_PLAYER">
-			<Text>Uma Grande Pessoa nasceu em sua Civilização!</Text>
+			<Text>Uma Grande Personalidade nasceu em sua Civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON_UNMET">
-			<Text>Uma Grande Pessoa nasceu em uma terra distante!</Text>
+			<Text>Uma Grande Personalidade nasceu em uma terra distante!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_LOST">
 			<Text>{1_CityName:textkey} foi capturada {2: gender masculine?{2: plural 1?pelo; other?pelos;}; feminine?{2: plural 1?pela; other?pelas;};} {@2_CivName}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_ANOTHER">
-			<Text>{1_CivName:textkey} {1: plural 1?possui; other?possuem;} a maioria das Grandes Pessoas</Text>
+			<Text>{1_CivName:textkey} {1: plural 1?possui; other?possuem;} a maioria das Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_UNMET">
-			<Text>Um jogador desconhecido possui a maioria das Grandes Pessoas</Text>
+			<Text>Um jogador desconhecido possui a maioria das Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_YOU">
-			<Text>Você possui a maioria das Grandes Pessoas!</Text>
+			<Text>Você possui a maioria das Grandes Personalidades!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_ANOTHER">
 			<Text>{1_CivName:textkey} tem a maioria das Políticas</Text>
@@ -1210,7 +1210,7 @@
 			<Text>Novo acordo de pesquisa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_PERSON">
-			<Text>Uma Grande Pessoa nasceu</Text>
+			<Text>Uma Grande Personalidade nasceu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WONDER_STARTED">
 			<Text>{1_CivName} iniciou a construção de {2_BldgName}.</Text>
@@ -1343,7 +1343,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Racionalismo[ENDCOLOR] fornece maior habilidade em usar e gerar [ICON_RESEARCH]Ciência.[NEWLINE][NEWLINE]Adotando Racionalismo, a [ICON_RESERACH]Ciência de Acordos de Pesquisa aumentará em 50%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Racionalismo, será fornecido +1 de [ICON_GOLD] para cada edifício [ICON_RESEARCH]Científico.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Piedade.[ENCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_FREEDOM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para pequenos e focados Impérios. Em particular, fornece bônus para [ICON_GREAT_PEOPLE]Grandes Pessoas e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Pessoas aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE]Era Dourada aumentará em 50%.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia.[ENCOLOR]</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Independência[ENDCOLOR] é melhor para pequenos e focados Impérios. Em particular, fornece bônus para [ICON_GREAT_PEOPLE]Grandes Personalidades e Especialistas.[NEWLINE][NEWLINE]Ao adotar Independência, a taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Personalidades aumentará em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Independência, a base de rendimento de Grandes Melhorias em hexágonos aumentará em 100% e a duração da [ICON_GOLDEN_AGE]Era Dourada aumentará em 50%.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Autocracia.[ENCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_ORDER_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Ordem[ENDCOLOR] é melhor para grandes Civilizações, aumentando a força do Império, baseando-se na quantidade de cidades existentes.[NEWLINE][NEWLINE]Adotando Ordem, você irá aumentar [ICON_HAPPINESS_1]Felicidade em +1 para cada cidade.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Ordem, você receberá +1 de [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção, [ICON_RESEARCH]Ciência, [ICON_GOLD]Ouro e [ICON_CULTURE]Cultura por cada cidade.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Autocracia.[ENDCOLOR]</Text>
@@ -1532,7 +1532,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Monarquia[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro e -1 de [ICON_HAPPINESS_4]Infelicidade para cada 2 [ICON_CITIZEN]Cidadãos em sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo-a-corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo a corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Disciplina[ENDCOLOR][NEWLINE]+10% de [ICON_STRENGTH]Força de Combate para unidades militares que tiverem outra unidade militar em um hexágono adjacente.</Text>
@@ -1574,7 +1574,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Diplomacia cultural[ENDCOLOR][NEWLINE]A quantidade de recursos oferecida pelas Cidades-Estado aumenta em 100%. A [ICON_HAPPINESS_1]Felicidade conseguida por recursos de luxo aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_EDUCATED_ELITE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Elite instruída[ENDCOLOR][NEWLINE]As Cidades-Estado aliadas irão dar ocasionalmente [ICON_GREAT_PEOPLE]Grandes Pessoas ao seu Império.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Elite instruída[ENDCOLOR][NEWLINE]As Cidades-Estado aliadas irão dar ocasionalmente [ICON_GREAT_PEOPLE]Grandes Personalidades ao seu Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Sindicatos[ENDCOLOR][NEWLINE]A [ICON_GOLD]manutenção de estradas e ferrovias diminuirá em 33%. Ancoradouros e Portos ganham +1 de [ICON_GOLD]Ouro.</Text>
@@ -2347,10 +2347,10 @@
 			<Text>Irá fornecer maior [ICON_STRENGTH]defesa a qualquer unidade militar que estiver neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FORT_HELP">
-			<Text>+50% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono.</Text>
+			<Text>+50% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
-			<Text>+100% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à Cidadela receberá 3 pontos de dano. Construindo a Cidadela, consumirá esta unidade.</Text>
+			<Text>+100% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à Cidadela receberá 3 pontos de dano. Construindo a Cidadela, consumirá esta unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL">
 			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]Serraria[\LINK]</Text>
@@ -2555,19 +2555,19 @@
 			<Text>Você executou uma Bomba de Cultura recentemente e não poderá fazê-la novamente por mais {1_Num} {1: plural 1?turno; other?turnos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_HELP">
-			<Text>Se a unidade estiver dentro do território de uma Cidade-Estado, que não esteja em guerra com você, o Grande Mercador realizará uma Missão Comercial, dando-lhe uma grande quantidade de [ICON_GOLD]Ouro e melhorando as suas relações com esta Cidade-Estado. Isso consumirá a Grande Pessoa.</Text>
+			<Text>Se a unidade estiver dentro do território de uma Cidade-Estado, que não esteja em guerra com você, o Grande Mercador realizará uma Missão Comercial, dando-lhe uma grande quantidade de [ICON_GOLD]Ouro e melhorando as suas relações com esta Cidade-Estado. Isso consumirá a Grande Personalidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_DISABLED_HELP">
 			<Text>A unidade deve estar no território de uma Cidade-Estado que não esteja em guerra com você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CONSTRUCT_HELP">
-			<Text>Você poderá construir uma Edificação Especial com esta Grande Pessoa. Isso irá consumi-la.</Text>
+			<Text>Você poderá construir uma Edificação Especial com esta Grande Personalidade. Isso irá consumi-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP">
-			<Text>Ordenará ao Grande Artista que crie uma Grande Obra em sua cidade atual. Isto consumirá a Grande Pessoa.</Text>
+			<Text>Ordenará ao Grande Artista que crie uma Grande Obra em sua cidade atual. Isto consumirá a Grande Personalidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_DISCOVER_TECH_HELP">
-			<Text>Isto fará com que a Grande Pessoa ajude a pesquisar uma tecnologia. Isso irá consumi-la.</Text>
+			<Text>Isto fará com que a Grande Personalidade ajude a pesquisar uma tecnologia. Isso irá consumi-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_DISCOVER_TECH_DISABLED_HELP">
 			<Text>Você precisa ter controle de uma cidade para descobrir uma nova tecnologia</Text>
@@ -2600,13 +2600,13 @@
 			<Text>Esta unidade não pode se curar fora de território amigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_HURRY_PRODUCTION_HELP">
-			<Text>Esta ordem fará com que aumente os esforços de produção da cidade. Isso consumirá a Grande Pessoa.</Text>
+			<Text>Esta ordem fará com que aumente os esforços de produção da cidade. Isso consumirá a Grande Personalidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_INTERCEPT_HELP">
 			<Text>Isto fará que a unidade aérea tente interceptar qualquer ataque aéreo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_JOIN_CITY_HELP">
-			<Text>Isto ordenará a Grande Pessoa que se junte a cidade tornando um super especialista. Isto irá consumi-la.</Text>
+			<Text>Isto ordenará a Grande Personalidade que se junte a cidade tornando um super especialista. Isto irá consumi-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_MOVE_TO_HELP">
 			<Text>Ordena a sua unidade que se mova para um hexágono específico.</Text>
@@ -2627,19 +2627,19 @@
 			<Text>Ordena à unidade que fique inativa até que receba novas ordens.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CULTURE_BOMB_HELP">
-			<Text>Esta ordem consumirá a Grande Pessoa e fará com que todos os hexágonos adjacentes à unidade passem a fazer parte seu território, mesmo elas pertencendo a outro jogador. Isso terá repercussões diplomáticas!</Text>
+			<Text>Esta ordem consumirá a Grande Personalidade e fará com que todos os hexágonos adjacentes à unidade passem a fazer parte seu território, mesmo elas pertencendo a outro jogador. Isso terá repercussões diplomáticas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CULTURE_BOMB_DISABLED_HELP">
 			<Text>A unidade deverá estar dentro ou próximo de um hexágono de sua propriedade, não podendo estar em território de outro jogador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_HELP">
-			<Text>Esta ordem consumirá a Grande Pessoa e dará início à [ICON_GOLDEN_AGE]Era Dourada ([ICON_PRODUCTION] e [ICON_GOLD] extras) por {1_Num} {1: plural 1?turno; other?turnos;}. Cada vez que uma Grande Pessoa inicia a Era Dourada, a duração de uma próxima diminuirá (para no mínimo 3 turnos).</Text>
+			<Text>Esta ordem consumirá a Grande Personalidade e dará início à [ICON_GOLDEN_AGE]Era Dourada ([ICON_PRODUCTION] e [ICON_GOLD] extras) por {1_Num} {1: plural 1?turno; other?turnos;}. Cada vez que uma Grande Personalidade inicia a Era Dourada, a duração de uma próxima diminuirá (para no mínimo 3 turnos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_DISABLED_HELP">
 			<Text>A unidade deverá estar em seu território para dar início à Era Dourada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_SPACESHIP_HELP">
-			<Text>Contribuir com uma parte para a Espaçonave Alpha Centauri.[NEWLINE][NEWLINE]A unidade será consumida.</Text>
+			<Text>Contribuir colocando uma parte na Espaçonave de Alpha Centauri.[NEWLINE][NEWLINE]A unidade será consumida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_SPACESHIP_DISABLED_HELP">
 			<Text>Unidade deve está em sua Capital.</Text>
@@ -2735,13 +2735,13 @@
 			<Text>+1 de [ICON_PRODUCTION]Produção e [ICON_GOLD]Ouro de recursos marinhos explorados pela cidade. +15% de [ICON_PRODUCTION]Produção quando estiver construindo unidades navais.[NEWLINE][NEWLINE]A cidade deve estar construída no litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BARRACKS_HELP">
-			<Text>+15 XP para todas as unidades.</Text>
+			<Text>+15 EXP para todas as unidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARMORY_HELP">
-			<Text>+15 XP para todas as unidades.[NEWLINE][NEWLINE]A cidade deve possuir um Quartel ou um Krepost.</Text>
+			<Text>+15 EXP para todas as unidades.[NEWLINE][NEWLINE]A cidade deve possuir um Quartel ou um Krepost.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MILITARY_ACADEMY_HELP">
-			<Text>+15 XP para todas as unidades.[NEWLINE][NEWLINE]A cidade deve possuir um Depósito de Armas.</Text>
+			<Text>+15 EXP para todas as unidades.[NEWLINE][NEWLINE]A cidade deve possuir um Depósito de Armas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARSENAL_HELP">
 			<Text>A cidade deve possuir um Castelo ou um Forte Mughal.</Text>
@@ -2756,7 +2756,7 @@
 			<Text>A cidade deve possuir um Arsenal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_KREPOST_HELP">
-			<Text>+15 XP para todas as unidades. O custo de [ICON_CULTURE]Cultura e [ICON_GOLD]Ouro para aquisição a novos hexágonos é reduzido em 25% na cidade.</Text>
+			<Text>+15 EXP para todas as unidades. O custo de [ICON_CULTURE]Cultura e [ICON_GOLD]Ouro para aquisição a novos hexágonos é reduzido em 25% na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WATERMILL_HELP">
 			<Text>A cidade deve ser construída próxima a um Rio.</Text>
@@ -2843,7 +2843,7 @@
 			<Text>+33% de [ICON_CULTURE]Cultura na cidade.[NEWLINE][NEWLINE]A cidade deve possuir um Museu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GARDEN_HELP">
-			<Text>+25% na geração de uma [ICON_GREAT_PEOPLE]Grande Pessoa na cidade.[NEWLINE][NEWLINE]A cidade deve ser construída próxima a um Lago ou Rio.</Text>
+			<Text>+25% na geração de uma [ICON_GREAT_PEOPLE]Grande Personalidade na cidade.[NEWLINE][NEWLINE]A cidade deve ser construída próxima a um Lago ou Rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MEDICAL_LAB_HELP">
 			<Text>25% de [ICON_FOOD]Alimento são produzidos após cada nascimento de um novo [ICON_CITIZEN]Cidadão (efeito acumula com o do Aqueduto).</Text>
@@ -2861,7 +2861,7 @@
 			<Text>Todas as novas unidades não aéreas treinadas na cidade recebem a promoção [COLOR_POSITIVE_TEXT]Moral[ENDCOLOR], aumentando a [ICON_STRENGTH]Força de Combate em 15%.[NEWLINE][NEWLINE]É necessário construir um Quartel em todas as cidades. O custo é proporcional ao número de cidades existentes no Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_HELP">
-			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas na cidade.[NEWLINE][NEWLINE]É necessário construir um Monumento em todas as cidades. O custo é proporcional ao número de cidades existentes no Império.</Text>
+			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Personalidades na cidade.[NEWLINE][NEWLINE]É necessário construir um Monumento em todas as cidades. O custo é proporcional ao número de cidades existentes no Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_COLLEGE_HELP">
 			<Text>É necessário construir uma Biblioteca em todas as cidades. O custo é proporcional ao número de cidades existentes no Império.</Text>
@@ -2903,7 +2903,7 @@
 			<Text>Unidades terrestres inimigas gastam 1 [ICON_MOVES]movimento extra por hexágono quando estão no seu território. Fornece Muralhas gratuitas na cidade onde ela for construída.[NEWLINE]Após a descoberta da Dinamite, A Grande Muralha se tornará obsoleta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
-			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas em todas as cidades. Uma [ICON_GREAT_PEOPLE]Grande Pessoa de sua escolha aparece próxima à [ICON_CAPITAL]Capital.</Text>
+			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Personalidades em todas as cidades. Uma [ICON_GREAT_PEOPLE]Grande Personalidade de sua escolha aparece próxima à [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP">
 			<Text>+25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Rotas Comerciais.[NEWLINE][NEWLINE]A cidade deve ser construída a no mínimo 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
@@ -2930,7 +2930,7 @@
 			<Text>O custo em [ICON_GOLD]Ouro para aquisições em todas as cidades é reduzido em 15%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_BRANDENBURG_GATE_HELP">
-			<Text>Um Grande General surge próximo à cidade onde a Maravilha for construída e +15 XP para todas as unidades produzidas pela cidade.</Text>
+			<Text>Um Grande General surge próximo à cidade onde a Maravilha for construída e +15 EXP para todas as unidades produzidas pela cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_LOUVRE_HELP">
 			<Text>2 Grandes Artistas surgem próximos à cidade onde a Maravilha for construída.</Text>

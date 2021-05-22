@@ -86,7 +86,7 @@
       <Text>Saudações. Sou Ramsés, governante do poderoso Egito. Também sou um Deus. Você demonstra um grande valor ao se dirigir a mim.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2">
-      <Text>Dou-lhe as boas vindas. Sou Ramsés do Egito. As estrelas haviam previsto a sua chegada.</Text>
+      <Text>Dou-lhe as boas-vindas. Sou Ramsés do Egito. As estrelas haviam previsto a sua chegada.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3">
       <Text>Saudações. Sou o Deus Ramsés, personificação viva do Egito, pai e mãe de todas as civilizações.</Text>
@@ -113,7 +113,7 @@
       <Text>Isso era tudo.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1">
-      <Text>Eu lhe dou as boas vindas.</Text>
+      <Text>Eu lhe dou as boas-vindas.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_2">
       <Text>Olá.</Text>
@@ -137,7 +137,7 @@
       <Text>Prossiga.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_2">
-      <Text>Continue.</Text>
+      <Text>Continuar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_3">
       <Text>Estamos ouvindo.</Text>
@@ -152,7 +152,7 @@
       <Text>E?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_7">
-      <Text>Continue.</Text>
+      <Text>Continuar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_RAMESSES_LOSEWAR_1">
       <Text>Eu poderia tê-lo destruído, você sabe, mas hoje me sinto especialmente generoso.</Text>

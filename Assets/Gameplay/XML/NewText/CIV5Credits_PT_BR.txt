@@ -5,12 +5,12 @@
 [1]Firaxis Games
 [N]
 [N]
-[2]EQUIPE DE DESIGN
+[2]EQUIPE DE PROJETO
 [3]Criador Original do Civilization
 [4]Sid Meier
 [3]Projetado por
 [4]Jon Shafer
-[3]Designer Adicional e Gameplay
+[3]Projeto Adicional e Jogabilidade
 [4]Ed Beach
 [4]Scott Lewis
 [N]
@@ -33,25 +33,25 @@
 [4]Tim Kipp
 [3]Lider de IA/Gameplay
 [4]Ed Beach
-[3]Lider Gráfico
+[3]Líder de Gráficos
 [4]Dan Baker
-[3]Lider de Interface
+[3]Líder de Interface
 [4]Marc Meyer
-[3]Líder do Multiplayer
+[3]Líder do Multijogador
 [4]Justin Randall
 [4]Jonathan Tanner
 [3]Lider de Ferramentas
 [4]Bart Muzzin
-[3]Programadores de IA/Gameplay
+[3]Programadores de IA
 [4]Scott Lewis
-[3]Programadores de Sistema
+[3]Programadores de Sistemas
 [4]Dom Cerquetti
 [4]Ken Grey
 [4]Greg Osefo
 [4]Don Wuenschell
-[3]Programador do Multiplayer
+[3]Programador do Modo Multijogador
 [4]Todd Smith
-[3]Programadores Gráficos
+[3]Programadores de Gráficos
 [4]Joshua Barczak
 [4]John Kloetzli
 [4]Marc Olano
@@ -75,19 +75,19 @@
 [4]Ervin Hearn
 [N]
 [2]EQUIPE ARTÍSTICA
-[3]Lider de Arte
+[3]Líder de Arte
 [4]Dorian Newcomb
 [3]Animador Principal
 [4]Chris Hickman
-[3]Lider de Personagem
+[3]Líder de Personagens
 [4]Brian Busatti
-[3]Lider de Estrutura
+[3]Líder de Estruturas
 [4]Arne Schmidt
-[3]Lider de Unidade
+[3]Líder de Unidades
 [4]Tom Symonds
-[3]Lider de Interface
+[3]Líder de Interface
 [4]Russell Vaccaro III
-[3]Lider de Efeitos
+[3]Líder de Efeitos
 [4]Todd Bilger
 [3]Artista Principal de Terreno
 [4]Steve Egrie
@@ -126,7 +126,7 @@
 [4]Paul Murphy
 [N]
 [2]EQUIPE DE ÁUDIO
-[3]Diretor Departamento de Áudio
+[3]Diretor do Departamento de Áudio
 [4]Michael Curran
 [3]Produtores de Som
 [4]Michael Curran
@@ -150,12 +150,12 @@
 [3]Mixador de Música e Engenheiro de Masterização
 [4]Scott Metcalfe
 [N]
-[2]EQUIPE GARANTIA DE QUALIDADE
-[3]Diretor de GQ
+[2]EQUIPE DE CONTROLE DE QUALIDADE
+[3]Diretor de Controle de Qualidade
 [4]Scott Wittbecker
-[3]Lider de GQ
+[3]Líder do Controle de Qualidade
 [4]Grant Frazier
-[3]Equipe de Teste
+[3]Equipe de Testes
 [4]Michael Argo 
 [4]Justice Avery
 [4]Matthew Beach
@@ -166,7 +166,7 @@
 [4]Mike Lemon
 [4]Patrick Miller
 [N]
-[3]GRUPO DE TESTE FRANKENSTEIN
+[3]GRUPO DE TESTES FRANKENSTEIN
 [4]bernie14
 [4]Bob Thomas
 [4]bobT
@@ -262,18 +262,18 @@
 [4]Matt Baros
 [3]Progetos Especiais
 [4]Susan Meier
-[3]SUPORTE DA AMD
+[3]SUPORTE TÉCNICO DA AMD
 [4]Steve Bell
 [4]Bill Bilodeau
 [4]Thomas Fortier
-[3]SUPORTE DA NVIDIA
+[3]SUPORTE TÉCNICO DA NVIDIA
 [4]Evan Hart
 [4]Brian Harvey
-[3]SUPORTE DA INTEL
+[3]SUPORTE TÉCNICO DA INTEL
 [4]Yannis Minadakis
 [4]Michael Katz
 [4]Aaron Davies
-[3]SUPORTE DA VALVE
+[3]SUPORTE TÉCNICO DA VALVE
 [4]John Bartkiw
 [4]Chris Boyd
 [4]Neil Kaethler
@@ -289,11 +289,11 @@
 [4]Kirk Gilmore
 [3]Fork
 [4]VFX Provisionado por Fork Particle
-[3]Microsoft Support
+[3]Suporte Técnico da Microsoft
 [4]Chuck Walbourne
 [3]Aerial Photographer
 [4]Steve Lowther
-[2]Agradecimento Especial
+[2]Agradecimentos Especiais
 [4]Joanne Miller
 [4]Maxwell Randall
 [4]Anastasia Randall
@@ -301,13 +301,13 @@
 [N]
 [N]
 [N]
-[4]Para todos os nossos familiares e entes queridos! Obrigado pela sua paciência e seu apoio!
+[4]Para todos os nossos familiares e entes queridos! Obrigado por sua paciência e apoio!
 [N]
 [N]
 [N]
 [N]
 [4]Publicado pela 2K Games.
-[4]2K Games é uma divisão da 2K, um selo de publicação pela Take-Two Interactive Software.
+[4]2K Games é uma divisão da 2K, um selo de publicação da Take-Two Interactive Software.
 [N]
 [N]
 [N]
@@ -487,17 +487,17 @@
 [4]Synthesis Iberia
 [4]Localização de ferramentas e apoio provido por XLOC Inc.
 [N]
-[2]2K GARANTIA DE QUALIDADE INTERNACIONAL
-[3]Gerente de GQ
+[2]CONTROLE DE QUALIDADE DA 2K INTERNACIONAL
+[3]Gerente de Controle de Qualidade
 [4]Ghulam Khan
-[3]Supervisor de GQ
+[3]Supervisor de Controle de Qualidade
 [4]Sebastian Frank
 [4]Hugo Sieiro
 [3]Engenheiro de Masterização
 [4]Wayne Boyce
-[3]Condutor de Projeto e Localização de GQ
+[3]Condutor de Projeto e Localização de Controle de Qualidade
 [4]Lena Brenk
-[3]Localização de Técnicos de GQ
+[3]Localização de Técnicos de Controle de Qualidade
 [4]Anthony Busselier
 [4]Alba Loureiro
 [4]Andreas Strothmann

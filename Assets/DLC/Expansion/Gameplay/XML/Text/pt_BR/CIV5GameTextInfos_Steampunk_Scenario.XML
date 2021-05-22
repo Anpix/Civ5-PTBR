@@ -331,7 +331,7 @@
 			<Text>[NEWLINE][TAB][TAB]"There will always be plenty of things to compute in the detailed affairs of millions of people doing complicated things."[NEWLINE] - Vannevar Bush[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_REPLACEABLE_PARTS_HELP">
-			<Text>Gives access to [COLOR_POSITIVE_TEXT]Great War Infantry[ENDCOLOR], the most advanced infantry unit in the world.</Text>
+			<Text>Dá acesso a [COLOR_POSITIVE_TEXT]Infantaria da Guerra Mundial[ENDCOLOR], a unidade de infantaria mais avançada do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RAILROAD_HELP">
 			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Land Ironclad[ENDCOLOR], the first landship unit.  Also allows Workers to build [COLOR_POSITIVE_TEXT]Railroads[ENDCOLOR] on map tiles.</Text>
@@ -349,7 +349,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Avarice, the spur of industry."[NEWLINE] - David Hume[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Destróier[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Flyer[ENDCOLOR], which is the first air unit.</Text>
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Contratorpedeiro[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Flyer[ENDCOLOR], which is the first air unit.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"To invent an airplane is nothing. To build an airplane is something. But to fly... is everything."[NEWLINE] - Ferdinand Ferber[NEWLINE][TAB]</Text>
@@ -502,7 +502,7 @@
 			<Text>Airship Units</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
-			<Text>Great War Infantry is the strongest infantry unit in the game.  It can capture cities, but struggles when going up against landship and airship units.</Text>
+			<Text>A Infantaria da Guerra Mundial é a unidade de infantaria mais forte do jogo. Pode capturar cidades, mas tem dificuldades contra aviões e tanques.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_GREAT_WAR_INFANTRY">
 			<Text>Strongest infantry unit in the game.</Text>
@@ -511,10 +511,10 @@
 			<Text>Most powerful ranged Naval unit in the game.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_SUBMARINE_STRATEGY">
-			<Text>The Submarine is a specialized ship-killing vessel. It is invisible to most units - except for Destróiers and other Submarines - until it attacks, or is adjacent to another unit. The Submarine can enter ice hexes. Use the Submarine to patrol enemy waters and sink enemy ships, and to guard your own ships against attacks from enemy subs. </Text>
+			<Text>The Submarine is a specialized ship-killing vessel. It is invisible to most units - except for Contratorpedeiros and other Submarines - until it attacks, or is adjacent to another unit. The Submarine can enter ice hexes. Use the Submarine to patrol enemy waters and sink enemy ships, and to guard your own ships against attacks from enemy subs. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_SUBMARINE">
-			<Text>Invisible to all Units except Destróiers and other Submarines. Can cause major damage to other ships if they get into range without being seen.</Text>
+			<Text>Invisible to all Units except Contratorpedeiros and other Submarines. Can cause major damage to other ships if they get into range without being seen.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_ANTI_AIRCRAFT_GUN">
 			<Text>Will intercept enemy Flyers which try to attack nearby Units.  Also effective against airships.</Text>

@@ -121,17 +121,17 @@
             <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
-            <Text>Wittenberg</Text>
+            <Text>Vitemberga</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
-            <Text>Wittenberguiano|Wittenberguiana|Wittenberguianos|Wittenberguianas</Text>
+            <Text>Vitemberguiano|Vitemberguiana|Vitemberguianos|Vitemberguianas</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
             <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_YEREVAN">
-            <Text>Erevan</Text>
+            <Text>Erevã</Text>
             <Gender>neuter</Gender>
             <Plurality>1</Plurality>
         </Row>

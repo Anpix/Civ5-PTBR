@@ -86,7 +86,7 @@
 			<Text>Era da Informação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_HOLY_SITE">
-			<Text>Local Santo|Locais Santos</Text>
+			<Text>Local Sagrado|Locais Sagrados</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>						
 		</Row>

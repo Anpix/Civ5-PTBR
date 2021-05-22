@@ -55,7 +55,7 @@
 			<Text>Soldados profissionais são um avanço sobre as milícias maltrapilhas que a maioria das civilizações possuía. Esses soldados com dedicação em tempo integral são mais bem treinados e, em tudo, mais efetivos que a média dos camponeses com coletes de couro e uma forquilha. O Império Romano criou um dos primeiros exércitos personalizados com soldados profissionais, que eram a parte essencial para suas completas vitórias militares. Na Europa, alguns dos primeiros soldados profissionais eram empregados por Carlos VII, da França, em 1445 e, depois, pelo Rei James II da Bretanha, em 1685.[NEWLINE][NEWLINE]Soldados Profissionais são a parte mais importante do exército e sistema de defesa de uma civilização moderna e podem ser encontrados em muitos dos países desenvolvidos do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPANISH_TERCIO}[ENDCOLOR], uma unidade dominante de ataque corpo-a-corpo.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPANISH_TERCIO}[ENDCOLOR], uma unidade dominante de ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Apesar de ser um soldado por profissão, eu nunca gostei da guerra e nunca a defendi, exceto como uma forma de chegar à paz."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
@@ -88,7 +88,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Este mundo é um domínio incerto, cheio de perigos. A honra minada pela busca de poder e a liberdade sacrificada quando o mais fraco é oprimido pelo mais forte. Mas há aqueles que se opõem a essas poderosas forças, que dedicam suas vidas à verdade, honra e liberdade. Esses homens são conhecidos como Mosqueteiros."[NEWLINE][TAB][TAB] - Rei Luís[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_DESC">
-			<Text>Em muitas religiões do mundo, há comunidades e organizações especiais de devotos individuais que vivem à margem da maioria da sociedade, normalmente para se manter mais perfeitamente alinhadas com suas crenças religiosas específicas. Essas ordens religiosas frequentemente possuem a forma física de monastérios, um edifício ou complexo onde os piedosos podem trabalhar e ver.[NEWLINE][NEWLINE]Embora algumas ordens religiosas se satisfaçam em residir e rezar em seus países nativos, outras, porém, são fundadas para o único objetivo de se expandir e espalhar sua crença para novas pessoas. Os missionários Jesuítas nas Américas são um exemplo. Eles viajaram através do Atlântico, construíram monastérios e missões em solo Americano, onde ensinaram aos povos locais sobre sua fé e o básico da educação ocidental.
+			<Text>Em muitas religiões do mundo, há comunidades e organizações especiais de devotos individuais que vivem à margem da maioria da sociedade, normalmente para se manter mais perfeitamente alinhadas com suas crenças religiosas específicas. Essas ordens religiosas frequentemente possuem a forma física de monastérios, uma edificação ou complexo onde os piedosos podem trabalhar e ver.[NEWLINE][NEWLINE]Embora algumas ordens religiosas se satisfaçam em residir e rezar em seus países nativos, outras, porém, são fundadas para o único objetivo de se expandir e espalhar sua crença para novas pessoas. Os missionários Jesuítas nas Américas são um exemplo. Eles viajaram através do Atlântico, construíram monastérios e missões em solo Americano, onde ensinaram aos povos locais sobre sua fé e o básico da educação ocidental.
       </Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
@@ -98,7 +98,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Os Jesuítas que sei que já morreram e foram grandes mestres em suas vidas, são os menos lembrados."[NEWLINE][TAB][TAB] - Daniel Berrigan[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_DESC">
-			<Text>Assim que os Espanhóis chegaram às Américas e conheçeram a enviar seus novos achados e tesouros de volta à Europa, eles precisaram criar um novo e eficiente método de navegação para combater a crescente pressão de ataques piratas contra suas embarcações. A Fragata Preciosa Espanhola foi a resposta: um sistema especial de comboio de embarcações que eram rigorosamente reguladas tanto nas práticas de ancoragem quanto de navegação. Barcos que saíam das Américas com destino à Espanha eram instruídos a viajarem em grupo e em uma linha de navegação específica, o que lhes permitia serem facilmente protegidas por uma força armada pequena. Essas embarcações, portanto, somente navegavam para cidades portuárias protegidas (como Sevilha), para evitar o risco de ataques piratas.[NEWLINE][NEWLINE]A Fragata Preciosa foi empregada pela Espanha do século XVI até o XVIII com muito sucesso e ainda é contabilizada como uma das operações navais mais proveitosas e eficientes de toda a história. No entanto, a perda de importantes cidades costeiras, no início dos anos 1700, começou a ameaçar a continuidade da existência da frota. Na aposta para combater isso, o Rei Carlos III afrouxou o rigoroso sistema em 1765 e deu a várias colônias acesso a frota, em 1780. Porém, a última frota completa navegou em 1790 e viagens entre os dois continentes foram restritas a pequenos grupos de embarcações, somente quando necessário.</Text>
+			<Text>Assim que os Espanhóis chegaram às Américas e conheceram a enviar seus novos achados e tesouros de volta à Europa, eles precisaram criar um novo e eficiente método de navegação para combater a crescente pressão de ataques piratas contra suas embarcações. A Fragata Preciosa Espanhola foi a resposta: um sistema especial de comboio de embarcações que eram rigorosamente reguladas tanto nas práticas de ancoragem quanto de navegação. Barcos que saíam das Américas com destino à Espanha eram instruídos a viajarem em grupo e em uma linha de navegação específica, o que lhes permitia serem facilmente protegidas por uma força armada pequena. Essas embarcações, portanto, somente navegavam para cidades portuárias protegidas (como Sevilha), para evitar o risco de ataques piratas.[NEWLINE][NEWLINE]A Fragata Preciosa foi empregada pela Espanha do século XVI até o XVIII com muito sucesso e ainda é contabilizada como uma das operações navais mais proveitosas e eficientes de toda a história. No entanto, a perda de importantes cidades costeiras, no início dos anos 1700, começou a ameaçar a continuidade da existência da frota. Na aposta para combater isso, o Rei Carlos III afrouxou o rigoroso sistema em 1765 e deu a várias colônias acesso a frota, em 1780. Porém, a última frota completa navegou em 1790 e viagens entre os dois continentes foram restritas a pequenos grupos de embarcações, somente quando necessário.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_HELP">
 			<Text>Concede a promoção [COLOR_POSITIVE_TEXT]Embarque Defensivo[ENDCOLOR] a todas as unidades terrestres, permitindo que elas se defendam contra ataques navais.</Text>
@@ -137,7 +137,7 @@
 			<Text>O {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} é uma unidade multitarefa que é forte tanto na terra quanto no mar. É um explorador excepcional em terra com visibilidade extra e a habilidade de fundar novas cidades. Na água, o {TXT_KEY_UNIT_SPANISH_CONQUISTADOR} possui a promoção Embarque Defensivo que lhe permite se defender de unidades navais. Além disso, não sofre penalidade quando ataca cidades, ao contrário do {TXT_KEY_UNIT_KNIGHT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_HELP">
-			<Text>Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do Mosquete, o que a torna a unidade de ataque corpo-a-corpo mais poderosa do jogo. Pode ser treinada por qualquer civilização.</Text>
+			<Text>Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do Mosquete, o que a torna a unidade de ataque corpo a corpo mais poderosa do jogo. Pode ser treinada por qualquer civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_STRATEGY">
 			<Text>O Mosqueteiro é significantemente mais forte que o Mosquete, o que o torna o soldado terrestre mais poderoso do jogo.</Text>
@@ -182,7 +182,7 @@
 			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_1">
-			<Text>Francisco I foi o rei da França de 1515 até 1547, período em que ajudou os Franco-Otomanos a se unirem com Suleiman I. O Sagrado Imperador Romano Carlos V era o maior inimigo de Francisco e foi o alvo de várias campanhas militares. Na Batalha de Pavia, em 1525, Francisco teria sido capturado por Carlos e mantido assim por mais de um ano, até se virar contra seus dois filhos, Henrique e Francisco, em troca de sua liberdade.</Text>
+			<Text>Francisco I foi o rei da França de 1515 até 1547, período em que ajudou os Franco-Otomanos a se unirem com Solimão I. O Sagrado Imperador Romano Carlos V era o maior inimigo de Francisco e foi o alvo de várias campanhas militares. Na Batalha de Pavia, em 1525, Francisco teria sido capturado por Carlos e mantido assim por mais de um ano, até se virar contra seus dois filhos, Henrique e Francisco, em troca de sua liberdade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
 			<Text>Aliados Nativos</Text>
@@ -245,16 +245,16 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Catapulta[ENDCOLOR], uma poderosa arma de cerco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas. Também oferece uma variedade de outros benefícios à [ICON_RESEARCH]Ciência.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], uma edificação que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas. Também oferece uma variedade de outros benefícios à [ICON_RESEARCH]Ciência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVIGATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR], um edifício que elimina o escorbuto de unidades navais. Também permite a construção, em cidades costeiras, do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que oferece [ICON_PRODUCTION]Produção de recursos marinhos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR], uma edificação que elimina o escorbuto de unidades navais. Também permite a construção, em cidades costeiras, do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que oferece [ICON_PRODUCTION]Produção de recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_HELP">
 			<Text>O custo de [ICON_CULTURE]Cultura para aquisição de novos hexágonos é reduzido em 75% na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
-			<Text>O Monastério aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do seu território e a aquisição de Políticas Sociais. Além disso, ele quadriplica a taxa de crescimento das fronteiras culturais da cidade.</Text>
+			<Text>O Monastério aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do seu território e a aquisição de Políticas Sociais. Além disso, ele quadruplica a taxa de crescimento das fronteiras culturais da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
 			<Text>Corsário</Text>
@@ -263,7 +263,7 @@
 			<Text>O Corsário é a unidade disponibilizada pela tecnologia Pirataria, que deve ser pesquisada antes que as civilizações Europeias possam declarar guerra. Use Corsários para atacar embarcações inimigas e roubar unidades preciosas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_TEXT">
-			<Text>Rondando os mares à procura da sua próxima vítima, o Corsário é um pirata legal, entregando cartas com a marca do seu soberano para atacar embarcações inimigas em tempo de guerra. O principal objetivo de um Corsário é interromper as rotas comerciais do inimigo, enfraquecendo a sua economia ou a habilidade de guarnecer sua fragata e exército. Normalmente, o Corsário era um comerciante empreendedor que já possuía sua própria embarcação, tripulação e conhecia bem o mar e suas rotas comerciais. Em geral, o Corsário trabalhava sozinho, mas, às vezes, ele se juntava a outros para formarem uma grande frota, a fim de abater alguns dos grandes inimigos.[NEWLINE][NEWLINE]O Corsário não visava o naufrágio da embarcação inimiga - somente sua captura e seus bens. O espólio era normalmente leiloado, com os ganhos repartidos entre o Corsário, algum possível investidor financeiro e a coroa.</Text>
+			<Text>Rondando os mares à procura da sua próxima vítima, o Corsário é um pirata legal, que conta com uma carta de corso do seu soberano para atacar embarcações inimigas em tempo de guerra. O principal objetivo de um Corsário é interromper as rotas comerciais do inimigo, enfraquecendo a sua economia ou a habilidade de guarnecer sua fragata e exército. Normalmente, o Corsário era um comerciante empreendedor que já possuía sua própria embarcação, tripulação e conhecia bem o mar e suas rotas comerciais. Em geral, o Corsário trabalhava sozinho, mas, às vezes, ele se juntava a outros para formarem uma grande frota, a fim de abater alguns dos grandes inimigos.[NEWLINE][NEWLINE]O Corsário não visava o naufrágio da embarcação inimiga - somente sua captura e seus bens. O espólio era normalmente leiloado, com os ganhos repartidos entre o Corsário, algum possível investidor financeiro e a coroa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_HELP">
 			<Text>Unidade naval da Renascença, usada para atacar civilizações Europeias e roubar tesouros.</Text>
@@ -407,7 +407,7 @@
 			<Text>Gilbert</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INUIT_TEXT">
-			<Text>Os Inuítes eram um povo indígena que habitava as regiões árticas da Groelândia e América do Norte.</Text>
+			<Text>Os Inuítes eram um povo indígena que habitava as regiões árticas da Groenlândia e América do Norte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SEMINOLE_TEXT">
 			<Text>Os Seminoles eram alguns dos povos indígenas da Flórida e tinham relação próxima com os Muscógui (ambos são povos Creek).</Text>

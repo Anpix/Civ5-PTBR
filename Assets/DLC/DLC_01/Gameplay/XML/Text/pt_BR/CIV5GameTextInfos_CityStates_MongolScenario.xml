@@ -4,13 +4,13 @@
 <GameData>
   <Language_pt_BR>
 	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR">
-		  <Text>Uighur</Text>
+		  <Text>Uigur</Text>
 		  <Gender>feminine</Gender>
 		  <Plurality>1</Plurality>		  
 	  </Row>
 	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR_ADJ">
-		  <Text>Uighuriano|Uighuriana</Text>
-		  <Gender>masculine|feminine</Gender>
+		  <Text>Uigure</Text>
+		  <Gender>masculine</Gender>
 		  <Plurality>1|1</Plurality>		  
 	  </Row>
 	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA">
