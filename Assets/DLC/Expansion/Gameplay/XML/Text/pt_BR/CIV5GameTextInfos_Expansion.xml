@@ -6,16 +6,16 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT">
-			<Text>ESCOLHER BÔNUS DA CONTA LONGA</Text>
+			<Text>ESCOLHER BÔNUS DA CONTAGEM LONGA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT_TT">
-			<Text>Você pode escolher um bônus grátis para celebrar o fim do atual b'ak'tun da Conta Longa (calendário vigesimal) Maia!</Text>
+			<Text>Você pode escolher um bônus grátis para celebrar o fim do atual b'ak'tun da Contagem Longa (calendário vigesimal) Maia!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON">
-			<Text>ESCOLHER GRANDE PESSOA PELA FÉ</Text>
+			<Text>ESCOLHER GRANDE PERSONALIDADE PELA FÉ</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON_TT">
-			<Text>Você pode escolher uma das seguintes Grandes Pessoas como benefício por sua Fé acumulada!</Text>
+			<Text>Você pode escolher uma das seguintes Grandes Personalidades como benefício por sua Fé acumulada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SELECTED_EARLIER_BAKTUN">
 			<Text>Já escolhido como o bônus para celebrar o fim do B'ak'tun {1_Num}.</Text>
@@ -24,7 +24,7 @@
 			<Text> {1_Num} b'ak'tun, {2_Num} k'atun, {3_Num} tun, {4_Num} winal, {5_Num} k'in</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAYA_DATE_TOOLTIP">
-			<Text>Seus cientistas e teólogos introduziram as maravilhas do calendário Maia. Quando o atual b'ak'tun terminar, você receberá uma Grande Pessoa à escolha, como parte da celebração.[NEWLINE][NEWLINE]A atual data na Conta Longa Maia é:[NEWLINE]{1_LongMayaCalendarString}[NEWLINE][NEWLINE]({2_TraditionalDateString} no resto do mundo).</Text>
+			<Text>Seus cientistas e teólogos introduziram as maravilhas do calendário Maia. Quando o atual b'ak'tun terminar, você receberá uma Grande Personalidade à escolha, como parte da celebração.[NEWLINE][NEWLINE]A atual data na Contagem Longa Maia é:[NEWLINE]{1_LongMayaCalendarString}[NEWLINE][NEWLINE]({2_TraditionalDateString} no resto do mundo).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NO_MERCHANT_FROM_FAITH">
 			<Text>Um Grande Mercador somente pode ser selecionado se você tiver iniciado o ramo da Política Social Comércio.</Text>
@@ -48,16 +48,16 @@
 			<Text>Um Grande Profeta não pode ser selecionado, pois você ainda não fundou uma religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION">
-			<Text>Sem Religião</Text>
+			<Text>Desativar Religiões</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION_HELP">
-			<Text>Desabilita o sistema religioso. Fé não é gerada. Panteões e Religiões não podem ser fundados.</Text>
+			<Text>Desativa o sistema de religiões. Fé não é gerada. Panteões e Religiões não podem ser fundados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_PUPPET">
 			<Text>[NEWLINE][ICON_BULLET]Modificador por Fantoche: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_YIELD_BELIEF">
-			<Text>[NEWLINE][ICON_BULLET]Modificador pela Religião: {1_Num}%</Text>
+			<Text>[NEWLINE][ICON_BULLET]Modificador por Religião: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
 			<Text>Você saqueou {1_Num} de [ICON_GOLD]Ouro e {2_Num} de [ICON_CULTURE]Cultura pela captura {@3: gender *:noart?de; feminine?{@3: plural 2?das; other?da;}; masculine?{@3: plural 2?dos; other?do;}; other?de;} {@3_CityName}!!!</Text>
@@ -65,10 +65,10 @@
 
 		<!-- Faith Info -->
 		<Row Tag="TXT_KEY_BUILD_CULTURE_STRING">
-			<Text>{1_Num}[ENDCOLOR] [ICON_CULTURE]Cultura</Text>
+			<Text>{1_Num}[ENDCOLOR] de [ICON_CULTURE]Cultura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FAITH_STRING">
-			<Text>{1_Num}[ENDCOLOR] [ICON_PEACE]Fé</Text>
+			<Text>{1_Num}[ENDCOLOR] de [ICON_PEACE]Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FAITH">
 			<Text>[ICON_PEACE]Fé: +{1_Num}</Text>
@@ -80,7 +80,7 @@
 			<Text>{1_Num} de [ICON_CULTURE]Cultura pela Religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FAITH_FROM_BUILDINGS">
-			<Text>{1_Num} de [ICON_PEACE]Fé dos Edifícios</Text>
+			<Text>{1_Num} de [ICON_PEACE]Fé das Edificações</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FAITH_FROM_TERRAIN">
 			<Text>{1_Num} de [ICON_PEACE]Fé do Terreno</Text>
@@ -98,7 +98,7 @@
 			<Text>{2_Num} {2: plural 1?Cidadão; other?Cidadãos;}: {1_ReligionString}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_HOLY_CITY">
-			<Text>(Cidade Santa)</Text>
+			<Text> (Cidade Santa)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_RELIGION_SPREADING">
 			<Text>(espalhando agora para cidades adjacentes)</Text>
@@ -117,7 +117,7 @@
 		</Row>
 		<!-- City-States-->
 		<Row Tag="TXT_KEY_POPUP_MINOR_GIFT_TILE_IMPROVEMENT">
-			<Text>{1_NumGold} de [ICON_GOLD]Ouro - Melhorar o Recurso</Text>
+			<Text>{1_NumGold} de [ICON_GOLD]Ouro - Melhorar um Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_MINOR_BULLY_GOLD_AMOUNT">
 			<Text>Pegar {1_NumGold} de [ICON_GOLD]Ouro - perderá {2_NumInfluence} de [ICON_INFLUENCE]Influência.</Text>
@@ -158,7 +158,7 @@
 			<Text>{@1: gender *:noart?{}; feminine?{@1: plural 2?As ; other?A ;}; masculine?{@1: plural 2?Os ; other?O ;}; other?{};}{@1_MinorCivName} {@1: plural 2?votaram; other?votou;} {@2: gender *:noart?em; feminine?{@2: plural 2?nas; other?na;}; masculine?{@2: plural 2?nos; other?no;}; other?em;} {@2_RecipientCivName}, porque {@2: gender *:noart?{}; feminine?{@2: plural 2?as ; other?a ;}; masculine?{@2: plural 2?os ; other?o ;}; other?{};}{@2_RecipientCivName} os {@2: plural 2?libertaram ou são aliados}; other?libertou ou é aliado;} deles atualmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_UN_ELEC_PRELIMINARY_ALT">
-			<Text>Esta pesquisa preliminar mostra quais potências mundiais são apoiadas pelos jogadores nas Nações Unidas. Os jogadores não podem votar em si. A partir do próximo voto, a Vitória Diplomática será possível.</Text>
+			<Text>Esta pesquisa preliminar mostra quais potências mundiais são apoiadas pelos jogadores nas Nações Unidas. Os jogadores não podem votar em si mesmos. A partir do próximo voto, a Vitória Diplomática será possível.</Text>
 		</Row>
 		<!-- ===================================-->
 		<!-- == END new Diplomacy Victory text keys ==-->

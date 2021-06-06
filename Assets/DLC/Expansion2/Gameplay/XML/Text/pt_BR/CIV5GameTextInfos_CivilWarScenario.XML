@@ -4,21 +4,21 @@
 	<Language_pt_BR>
 		<!-- Entry UI-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TITLE">
-			<Text>American Civil War</Text>
+			<Text>Guerra Civil Americana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_DESC">
-			<Text>From 1861 to 1865, America suffers through a bloody civil war with the brunt of the action centered between the capital cities of Washington and Richmond. Can you lead one of these fledgling nations to victory?</Text>
+			<Text>De 1861 a 1865, a América sofre através de uma sangrenta guerra civil com o peso da ação centrada entre as capitais de Washington e Richmond. Você pode levar uma dessas nações à vitória?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TURNS_REMAINING">
-			<Text>Turns Left: {1_TurnsRemaining}</Text>
+			<Text>Turnos restantes: {1_TurnsRemaining}</Text>
 		</Row>
 		<!-- Dawn of Man-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_DAWN_TEXT">
-			<Text>SCENARIO DESCRIPTION[NEWLINE]April the 12th, 1861. Confederate mortars open fire on Fort Sumter in Charleston harbor, signaling the start of America's Civil War. President Abraham Lincoln issues a call for volunteers for 90-day enlistments, confident that the rebellion can be put down in short order. Jefferson Davis, newly elected President of the Confederates States, is equally optimistic. Davis boldly moves his government to Richmond, Virginia, just 100 miles from Washington, D.C.  Can you win the swift victory both sides are predicting? Or will this war test if a nation conceived in liberty can long endure?[NEWLINE][NEWLINE]VICTORY CONDITIONS[NEWLINE]Win by capturing your opponent's capital before time runs out.[NEWLINE][NEWLINE]SPECIAL RULES[NEWLINE]City razing and settlers are off. Only cities with one of these production buildings may create units: either the {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL} (Infantry), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE} (Cavalry), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS} (Artillery), or {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD} (Naval Units). Capture enemy cities to control these production centers and the Manpower resource, necessary for Infantry units. All units of the player moving first receive just half their usual movement on the opening turn. Cities have no range strike and only minimal defense above the combat strength of any garrison. Great Generals' range increased to 5 and they are displaced to a nearby city rather than killed.</Text>
+			<Text>DESCRIÇÃO DO CENÁRIO[NEWLINE]12 de abril de 1861. Os morteiros confederados abrem fogo contra o Forte Sumter no porto de Charleston, sinalizando o início da Guerra Civil Americana. O presidente Abraham Lincoln pede que os voluntários se alistem por 90 dias, confiando que a rebelião pode ser sufocada em pouco tempo. Jefferson Davis, recém-eleito presidente dos Estados Confederados, é igualmente otimista. Davis corajosamente muda seu governo para Richmond, Virgínia, apenas a 160 quilômetros de Washington d.C. Você pode ganhar a rápida vitória que ambos os lados estão prevendo? Ou será que esta guerra irá durar por muitos anos?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]Captures a capital inimiga antes que o tempo acabe.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Foi desativado a devastação de cidades e a criação de colonos. Apenas as cidades com um desses edifícios de produção podem criar unidades: {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL} (Infantaria), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE} (Cavalaria), {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS} (Artilharia), ou {TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD} (Unidades Navais). Capture as cidades inimigas para controlar esses centros de produção e o recurso de mão de obra, necessários para unidades de infantaria. Todas as unidades do jogador que se movem primeiro recebem apenas metade do movimento habitual no primeiro turno. As cidades não têm um ataque à distância e apenas uma defesa mínima acima da força de combate de qualquer guarnição. O alcance de grandes generais aumenta para 5 e eles são deslocados para uma cidade próxima em vez de morrerem.</Text>
 		</Row>
 		<!-- Turns Remaining UI-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BRIEFING_BUTTON">
-			<Text>Briefing</Text>
+			<Text>Resumo</Text>
 		</Row>
 		<!-- Victory-->
 		<!-- Civilopedia-->
@@ -26,20 +26,20 @@
 			<Text>Abraham Lincoln</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_SUBTITLE">
-			<Text>President of the United States of America</Text>
+			<Text>Presidente dos Estados Unidos da América</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_LIVED">
-			<Text>1809 - 1865 AD</Text>
+			<Text>1809-1865 d.C</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_1">
 			<Text>Born in 1809 in a small cabin in central Kentucky, Abraham Lincoln rose from seemingly humble beginnings to become one of the greatest statesmen in American history. In his early 20s, Lincoln served in a number of small government roles before his election to the Illinois General Assembly in 1834. In 1836 he began practicing law, and it wasn't long before he established a reputation as a savvy lawyer willing to take on a wide variety of cases. During successive terms in the Illinois House of Representatives and later a single term in the U.S. House of Representatives, Lincoln became known for his views opposing the further spread of slavery in the United States, a key issue that became a hallmark of his political career.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_2">
-			<Text>Election</Text>
+			<Text>Eleição</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_2">
 			<Text>In 1860, Lincoln successfully campaigned to become the 16th President of the United States. It was during the now famous Lincoln-Douglas debates that the specter of southern secession was first raised, when Lincoln continually rebuked the notion of allowing slavery to spread into the western territories of the United States. The southern states, united in their continued support for slavery, were prepared to abandon the United States if Lincoln were to be elected.
@@ -70,7 +70,7 @@
 			<Text>Judgement of History</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_6">
-			<Text>Following nearly five years of warfare, during which time over 500,000 Americans fought and died, the Civil War ended with the surrender of General Robert E. Lee in April of 1865. Just five days later, while attending a play at Ford's Theater in Washington D.C., Lincoln was assassinated by the Confederate sympathizer John Wilkes Booth. Although Lincoln did not survive to see the eventual outcome of his efforts to reestablish the nation and abolish slavery, the legacy of his deeds has long since established his position among America's greatest presidents.
+			<Text>Following nearly five years of warfare, during which time over 500,000 Americans fought and died, the Civil War ended with the surrender of General Robert E. Lee in April of 1865. Just five days later, while attending a play at Ford's Theater in Washington d.C., Lincoln was assassinated by the Confederate sympathizer John Wilkes Booth. Although Lincoln did not survive to see the eventual outcome of his efforts to reestablish the nation and abolish slavery, the legacy of his deeds has long since established his position among America's greatest presidents.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_UNITEDSTATES_HEADING_1">

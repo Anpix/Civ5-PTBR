@@ -31,13 +31,13 @@
             <Text>A mais forte unidade de combate na Polinésia (antes da chegada da arma de fogo).</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_STRATEGY">
-            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo-a-corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
+            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo a corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_HELP_TRIREME">
             <Text>Unidade naval da Era Medieval, usada para arrebatar o controle dos mares.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_TRIREME_STRATEGY">
-            <Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo-a-corpo. O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto oceano, fora das bordas da cidade).</Text>			
+            <Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo a corpo. O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto oceano, fora das bordas da cidade).</Text>			
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_IMPROVEMENTS_MOAI_HELP">
             <Text>O Moai só pode ser construído no litoral. Se for construído próximo a outro Moai, [ICON_CULTUE]Cultura extra será fornecida.</Text>
@@ -76,7 +76,7 @@
             <Text>Tatuagem é a arte de criar padrões à tinta permanentes no corpo de uma pessoa, carregada de um alto grau de sofisticação e que significa muito para os Polinésios. A primeira referência a esta palavra vem do naturalista Britânico Joseph Banks, a bordo da "Endeavor" em 1769, e deriva da palavra Polinésia "tatau".[NEWLINE][NEWLINE]As tatuagens Polinésias eram grandes, frequentemente cobrindo grandes partes do corpo. Os Maoris e as tatuagens Polinésias ocidentais geralmente incluíam elaboradas figuras faciais. As tatuagens eram frequentemente associadas à posição social e status, sendo que as mais intrincadas e elaboradas eram reservadas para chefes e líderes. Os desenhos eram predominantemente padrões geométricos de linhas e imaginavam ter significado espiritual para quem a portasse. O processo Polinésio de tatuagem envolvia bater um largo e afiado pente, feito de dentes de javalis, na pele e uma tintura feita de fuligem de lava queimada. Métodos modernos de tatuagem são considerados os descendentes diretos do processo Polinésio, com ferramentas mais sofisticadas e absolutamente sem nenhuma redução da dor.[NEWLINE][NEWLINE]Um jovem adulto que fosse receber uma tatuagem, tinha o processo conduzido por um número de sessões, espalhadas por dias. A tatuagem masculina geralmente era mais ritualizada que as femininas e a pessoa poderia rejeitar a tatuagem ou interromper a sessão, normalmente sob pena de um significante estigma social.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_HELP">
-            <Text>Permite a melhoria de sua força militar com a construção de edifícios como o [COLOR_POSITIVE_TEXT]Quartel[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Ato Heroico[ENDCOLOR].</Text>
+            <Text>Permite a melhoria de sua força militar com a construção de edificações como o [COLOR_POSITIVE_TEXT]Quartel[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Ato Heroico[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_QUOTE">
             <Text>[NEWLINE][TAB][TAB]"Um homem sem tatuagens é invisível aos deuses."[NEWLINE][TAB][TAB] - Provérbio Iban[NEWLINE][TAB]</Text>
@@ -100,7 +100,7 @@
             <Text>[NEWLINE][TAB][TAB]"Sobre as gratas águas do mar azul escuro, nossos pensamentos sem limites e nossas almas livres, longe a brisa pode levar, as ondas espumam, procuram nosso Império e olha para nossa casa!"[NEWLINE][TAB][TAB] - Lord Byron[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ASTRONOMY_HELP">
-            <Text>Fornece +1 de [ICON_MOVES]Movimento para unidades embarcadas. Permite a construção do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], o primeiro edifício que melhora a produção de pontos de ciência. Também permite a construção do [COLOR_POSITIVE_TEXT]Farol[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], edifícios que melhoram a sua produção de [ICON_FOOD]Alimento de hexágonos aquáticos e conectam rotas comerciais sobre as águas.</Text>
+            <Text>Fornece +1 de [ICON_MOVES]Movimento para unidades embarcadas. Permite a construção do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], a primeira edificação que melhora a produção de pontos de ciência. Também permite a construção do [COLOR_POSITIVE_TEXT]Farol[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], edificações que melhoram a sua produção de [ICON_FOOD]Alimento de hexágonos aquáticos e conectam rotas comerciais sobre as águas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_COMPASS_HELP">
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval da Renascença.</Text>
@@ -109,13 +109,13 @@
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Muralha[ENDCOLOR], que melhora e muito a defesa das cidades contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
-            <Text>Permite a construção do impulsionador de [ICON_GOLD]Ouro [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR], a melhoria de hexágonos com  [COLOR_POSITIVE_TEXT]Postos Comerciais[ENDCOLOR] e também permite que suas cidades convertam [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de trabalharem em unidades e edifícios.</Text>
+            <Text>Permite a construção do impulsionador de [ICON_GOLD]Ouro [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR], a melhoria de hexágonos com  [COLOR_POSITIVE_TEXT]Postos Comerciais[ENDCOLOR] e também permite que suas cidades convertam [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de trabalharem em unidades e edificações.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
             <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Mosquete[ENDCOLOR], a primeira unidade do jogo com armas de fogo. Também fornece certos benefícios econômicos para representar a nova tecnologia ganha ao contatar os Europeus.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MASONRY_HELP">
-            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]Monumentos[ENDCOLOR], que melhoram a produção de cultura das cidades. Também permite a construção de [COLOR_POSITIVE_TEXT]Minas a Céu Aberto[ENDCOLOR] em recursos de [ICON_RES_MARBLE]Mármore e a [COLOR_POSITIVE_TEXT]Limpeza de Pântanos[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
+            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]Monumentos[ENDCOLOR], que melhoram a produção de cultura das cidades. Também permite a construção de [COLOR_POSITIVE_TEXT]Pedreiras[ENDCOLOR] em recursos de [ICON_RES_MARBLE]Mármore e a [COLOR_POSITIVE_TEXT]Limpeza de Pântanos[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MINING_HELP">
             <Text>Permite a construção de [COLOR_POSITIVE_TEXT]Minas[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção, [COLOR_POSITIVE_TEXT]Derrubar Florestas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Remover Selvas[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
@@ -133,7 +133,7 @@
             <Text>Esta tecnologia não fornece nenhum benefício. Ela deve ser pesquisada se você terminar o resto da árvore Medieval antes da chegada dos Europeus no Pacífico. Ela representa a estagnação da tecnologia Polinésia antes do contato com civilizações mais avançadas. Ela será dada a cada civilização que entrar em contato com a expedição do Capitão James Cook.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_THEOLOGY_HELP">
-            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR] que melhoram a sua produção de [ICON_CULTURE]Cultura e [ICON_RESEARCH]Ciência, respectivamente. Também permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas.</Text>
+            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR] que melhoram a sua produção de [ICON_CULTURE]Cultura e [ICON_RESEARCH]Ciência, respectivamente. Também permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], uma edificação que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
             <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]Acampamentos[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles.</Text>
@@ -250,7 +250,7 @@
             <Text>Mana</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Mana[ENDCOLOR][NEWLINE]A taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Pessoas aumenta em 100%.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Mana[ENDCOLOR][NEWLINE]A taxa de nascimento de [ICON_GREAT_PEOPLE]Grandes Personalidades aumenta em 100%.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_DESC">
             <Text>Mana é o centro da espiritualidade Polinésia - é a mítica força ou essência que está em toda criação. A palavra, embora traduzida ligeiramente diferente pela Polinésia, mantém sua importância e significado central. Grandes feitos e ações são resultados da Mana e traz mais Mana à pessoa que os realiza. A Mana impõe autoridade, respeito e poder ao seu possuidor e perder Mana é perder poder. Além disso, é muito difícil lançar algum feitiço se você estiver sem Mana.
@@ -260,7 +260,7 @@
             <Text>Cura Kahuna</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Cura Kahuna[ENDCOLOR][NEWLINE]Unidades de combate corpo-a-corpo ganham a promoção Médico.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Cura Kahuna[ENDCOLOR][NEWLINE]Unidades de combate corpo a corpo ganham a promoção Médico.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_DESC">
             <Text>Kahuna é uma palavra Havaiana para designar sacerdotes ou curandeiros shamans Polinésios. Esses curandeiros ajudavam o povo com suas medicinas de ervas e "Ho'oponopono", um processo de reconciliação com os ancestrais, espíritos, deuses e pessoas injustiçadas. A cura Kahuna enfatizava que a mútua e construtiva resolução e restauração do indivíduo poderia contribuir para a harmonia da cultura Polinésia. Atualmente, a Kahuna está experimentando certo tipo de renascimento entre os Havaianos e em toda a Polinésia, em geral.</Text>
@@ -290,7 +290,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Powhiri[ENDCOLOR][NEWLINE]Presentes em [ICON_GOLD]Ouro a Cidades-Estado produzem 25% mais [ICON_INFLUENCE]Influência.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_DESC">
-            <Text>As cerimônias de boas vindas Maori para dignitários são um complexo ritual. Tradicionalmente, elas começam com um ritual ameaçador ao visitante (esta é considerada a parte mais excitante do Powhiri), durante o qual a firmeza do visitante é julgada e as proezas marciais do anfitrião são exibidas, para que não haja qualquer confusão sobre como as coisas devem ser. O visitante aceita o rautapu, uma oferenda simbólica da Atua da Paz, onde os dois lados trocam um hongi, pressionando seus narizes um contra o outro e compartilhando o ar e, então, a cerimônia termina.</Text>
+            <Text>As cerimônias de boas-vindas Maori para dignitários são um complexo ritual. Tradicionalmente, elas começam com um ritual ameaçador ao visitante (esta é considerada a parte mais excitante do Powhiri), durante o qual a firmeza do visitante é julgada e as proezas marciais do anfitrião são exibidas, para que não haja qualquer confusão sobre como as coisas devem ser. O visitante aceita o rautapu, uma oferenda simbólica da Atua da Paz, onde os dois lados trocam um hongi, pressionando seus narizes um contra o outro e compartilhando o ar e, então, a cerimônia termina.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU">
             <Text>Tapu</Text>
@@ -507,7 +507,7 @@
             <Text>Ah, um amigo explorador! Seja bem-vindo a grande ilha da Polinésia! Eu, o intrépido explorador Hotu Matua, convido você para compartilhar meu banquete e fogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_2">
-            <Text>Bem vindo, estrangeiro! Eu sou Hotu Matua, líder de Hiva. Venha, devemos fazer uma grande hula para celebrar nosso encontro.</Text>
+            <Text>Bem-vindo, estrangeiro! Eu sou Hotu Matua, líder de Hiva. Venha, devemos fazer uma grande hula para celebrar nosso encontro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_3">
             <Text>Saudações e que bênçãos caiam sobre você, amigo. Eu sou Hotu Mata, rei de Hiva. Vamos compartilhar nossos recursos e trabalhar juntos em harmonia!</Text>
@@ -516,7 +516,7 @@
             <Text>Saudações, estrangeiro. Eu sou Pomare, rei do Taiti. Nós procuramos paz com todos, mas não fugimos de uma guerra.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_2">
-            <Text>Eu sou Pomare I, líder do povo do Taiti. Eu lhe dou as boas vindas e espero que nossos dois grandes povos possam ser amigos.</Text>
+            <Text>Eu sou Pomare I, líder do povo do Taiti. Eu lhe dou as boas-vindas e espero que nossos dois grandes povos possam ser amigos.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_3">
             <Text>Saudações, estrangeiro ao Taiti. Eu sou Pomare, mas você pode me chamar de Tu-nui-ea-i-te-atua-i-Tarahoi Vairaatoa Taina Pomare I, para encurtar. Procuramos paz com todos, mas não fugimos da guerra.</Text>

@@ -3,7 +3,7 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">			
-			<Text>Esta unidade e todas as outras adjacentes [COLOR_POSITIVE_TEXT]se curam 15 HP's adicionais[ENDCOLOR] por turno.</Text>
+			<Text>Esta unidade e todas as outras adjacentes [COLOR_POSITIVE_TEXT]se curam 15 PV adicionais[ENDCOLOR] por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ACTION_AUTOMATE_TRADE">
 			<Text>Negociar (Automático)</Text>
@@ -180,13 +180,13 @@
 			<Text>Unidade montada especializada em ataques rápidos. Só pode ser treinada pelos Shoshones.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDONESIAN_KRIS_SWORDSMAN">
-			<Text>Unidade de ataque corpo-a-corpo da Era Clássica que possui uma arma mística, cujas habilidades serão descobertas na primeira vez que for usada em combate. Só pode ser treinada pela Indonésia.</Text>
+			<Text>Unidade de ataque corpo a corpo da Era Clássica que possui uma arma mística, cujas habilidades serão descobertas na primeira vez que for usada em combate. Só pode ser treinada pela Indonésia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BAZOOKA">
 			<Text>Unidade de ataque a distância da Era Atômica que deve estar adjacente a um inimigo para atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_AXMAN">
-			<Text>O substituto Bárbaro para o {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
+			<Text>O substituto Bárbaro para a {TXT_KEY_UNIT_CHARIOT_ARCHER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARCHAEOLOGIST">
 			<Text>{TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são um subtipo especial de {TXT_KEY_UNIT_WORKER} que são usados para escavar Sítios Arqueológicos, seja para criar melhorias do tipo {TXT_KEY_IMPROVEMENT_LANDMARK} ou para extrair Artefatos destinados a preencher Espaços de Grandes Obras de Arte em {TXT_KEY_BUILDING_MUSEUM[2]}, {TXT_KEY_BUILDING_PALACE[2]}, {TXT_KEY_BUILDING_HERMITAGE[2]} e Maravilhas específicas. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} podem trabalhar em território de qualquer jogador. Eles são consumidos quando completam uma Escavação Arqueológica em Sítio Arqueológico. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} não podem ser comprados com [ICON_GOLD]Ouro e só podem ser treinados em uma cidade que possua uma Universidade.</Text>
@@ -195,7 +195,7 @@
 			<Text>Especializados em derrotar {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ASSYRIAN_SIEGE_TOWER">
-			<Text>Unidade poderosa de cerco corpo-a-corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
+			<Text>Unidade poderosa de cerco corpo a corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA">
 			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE]Era Dourada quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
@@ -204,7 +204,7 @@
 			<Text>Pesada unidade montada, especializada em derrotar outras unidades montadas inimigas. Esta unidade é mais rápida e mais poderosa que o {TXT_KEY_UNIT_LANCER}, a qual substitui. Ela força os defensores a recuarem quando ela causa um dano maior do que o dano que recebe. Só pode ser treinada pelos Poloneses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU">
-			<Text>Unidade naval de combate corpo-a-corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES]Movimento que a {TXT_KEY_UNIT_CARAVEL}, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD]Ouro e XP. Só pode ser construída pelos Portugueses.</Text>
+			<Text>Unidade naval de combate corpo a corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES]Movimento que a {TXT_KEY_UNIT_CARAVEL}, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD]Ouro e EXP. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
 			<Text>Forte unidade de infantaria capaz de aterrissar em até 9 hexágonos de um território amigo. {TXT_KEY_UNIT_PARATROOPER[2]} também podem se mover e saquear após a aterrissagem, mas não podem entrar em combate até o turno seguinte.</Text>
@@ -216,7 +216,7 @@
 			<Text>Unidade montada especializada em guerrear no deserto e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no deserto ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARGO_SHIP">
-			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD]Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
+			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD]Ouro, entre duas civilizações. Também pode ser utilizado para transportar [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARAVAN">
 			<Text>Estabelece Rotas Comerciais terrestres, que geram [ICON_GOLD]Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
@@ -225,10 +225,10 @@
 			<Text>Unidade de infantaria futurística especializada em enfrentar o perigo em qualquer lugar do mundo. O {TXT_KEY_UNIT_XCOM_SQUAD} pode se mover e saquear após aterrissar, mas não pode entrar em combate até o próximo turno.[NEWLINE][NEWLINE][COLOR_CYAN]Boa sorte, Comandante![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
-			<Text>Unidade de infantaria especial da Era Moderna. Só pode ser obtida ao adotar o Princípio {TXT_KEY_POLICY_VOLUNTEER_ARMY} da Ideologia Independência. Esta unidade possui um bônus de combate quando luta fora de território amigo, no mais é muito similar ao {TXT_KEY_UNIT_GREAT_WAR_INFANTRY}.</Text>
+			<Text>Unidade de infantaria especial da Era Moderna. Só pode ser obtida ao adotar o Princípio {TXT_KEY_POLICY_VOLUNTEER_ARMY} da Ideologia Independência. Esta unidade possui um bônus de combate quando luta fora de território amigo, no mais é muito similar a {TXT_KEY_UNIT_GREAT_WAR_INFANTRY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_MERCHANT">
-			<Text>Esta Grande Pessoa única de Veneza substitui o Grande Mercador. Além da habilidade de conduzir uma Missão Comercial, o {TXT_KEY_UNIT_VENETIAN_MERCHANT} pode comprar Cidades-Estado, trazendo-as ao controle Veneziano como um Fantoche.</Text>
+			<Text>Esta Grande Personalidade única de Veneza substitui o Grande Mercador. Além da habilidade de conduzir uma Missão Comercial, o {TXT_KEY_UNIT_VENETIAN_MERCHANT} pode comprar Cidades-Estado, trazendo-as ao controle Veneziano como um Fantoche.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GP_MUSICIAN_DETAILS">
 			<Text>[ICON_PLUS] Grandes Músicos</Text>
@@ -394,7 +394,7 @@
 			<Text>Força o defensor a recuar se causar mais dano que receber. Um defensor que não pode recuar recebe dano extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_GUNPOWDER_HELP">
-			<Text>Antes de atacar corpo-a-corpo, esta unidade possui um ataque extra.</Text>
+			<Text>Antes de atacar corpo a corpo, esta unidade possui um ataque extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST">
 			<Text>Peito de Búfalo</Text>
@@ -460,7 +460,7 @@
 			<Text>Invulnerabilidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INVULNERABIILITY_HELP">
-			<Text>+30% de Bônus de Combate quando estiver se defendendo. +20 de HP quando estiver se curando</Text>
+			<Text>+30% de Bônus de Combate quando estiver se defendendo. +20 de PV quando estiver se curando</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SNEAK_ATTACK">
 			<Text>Ataque Furtivo</Text>
@@ -574,35 +574,35 @@
 			<Text>Carga Exótica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SELL_EXOTIC_GOODS_HELP">
-			<Text>Pode vender bens exóticos quando estiver adjacente a um hexágono estrangeiro para obter [ICON_GOLD]Ouro e XP baseados na distância da capital. Só pode usar esta habilidade uma vez.</Text>
+			<Text>Pode vender bens exóticos quando estiver adjacente a um hexágono estrangeiro para obter [ICON_GOLD]Ouro e EXP baseados na distância da capital. Só pode usar esta habilidade uma vez.</Text>
 		</Row>
 		<!-- BUILDINGS HELP -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
-			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Mansões) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
+			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Château) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
-			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa para a geração de um Grande Artista. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa por especialista).</Text>
+			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade para a geração de um Grande Artista. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
 			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL]Petróleo e todos os Oásis fornecem +2 de [ICON_GOLD]Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um {TXT_KEY_BUILDING_BAZAAR_DESC} gerarão +2 de [ICON_GOLD]Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD]Ouro adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CANDI_HELP">
-			<Text>Substituto Indonésio único para o {TXT_KEY_BUILDING_GARDEN}. +25% de geração de [ICON_GREAT_PEOPLE]Grandes Pessoas nesta cidade e +2 de [ICON_PEACE]Fé para cada Religião Mundial que possua ao menos 1 seguidor na cidade.[NEWLINE][NEWLINE]A cidade deve estar construída próximo a um Rio ou Lago.</Text>
+			<Text>Substituto Indonésio único para o {TXT_KEY_BUILDING_GARDEN}. +25% de geração de [ICON_GREAT_PEOPLE]Grandes Personalidades nesta cidade e +2 de [ICON_PEACE]Fé para cada Religião Mundial que possua ao menos 1 seguidor na cidade.[NEWLINE][NEWLINE]A cidade deve estar construída próximo a um Rio ou Lago.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARAVANSARY_HELP">
 			<Text>Rotas comerciais terrestres originárias desta cidade possuem um aumento de 50% no alcance e produzem um adicional de 2 de [ICON_GOLD]Ouro quando conectadas a outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_HELP">
-			<Text>Substituto Polonês exclusivo para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de XP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
+			<Text>Substituto Polonês exclusivo para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de EXP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
 			<Text>Cada fonte de [ICON_RES_WHEAT]Trigo, [ICON_RES_BANANA]Bananas e [ICON_RES_DEER]Cervos explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]Permite que [ICON_FOOD]Alimento seja movido desta cidade para outros locais de sua civilização, via rotas comerciais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HANSE_HELP">
-			<Text>Substituição exclusiva do banco alemão. + 5% [ICON_PRODUCTION] Produção para cada rota comercial que sua civilização possui com uma Cidade-Estado. As rotas comerciais que outros jogadores fazem para uma cidade com uma Liga Hanseática geram 1 [ICON_GOLD] de ouro extra para o proprietário da cidade e o proprietário da rota comercial ganha 1 [ICON_GOLD] de ouro adicional para a rota comercial.</Text>
+			<Text>Substituição exclusiva do banco alemão. + 5% [ICON_PRODUCTION] Produção para cada rota comercial que sua civilização possui com uma Cidade-Estado. As rotas comerciais que outros jogadores fazem para uma cidade com uma Hansa geram 1 [ICON_GOLD] de ouro extra para o proprietário da cidade e o proprietário da rota comercial ganha 1 [ICON_GOLD] de ouro adicional para a rota comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_YIELD_HANSE">
-			<Text>[NEWLINE][ICON_BULLET]Modificador para Liga Hanseática: {1_Num}%</Text>
+			<Text>[NEWLINE][ICON_BULLET]Modificador para Hansa: {1_Num}%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HARBOR_HELP">
 			<Text>Cria uma [ICON_CONNECTED]Conexão com a [ICON_CAPITAL]Capital pela a água (se já não estiverem [ICON_CONNECTED]conectadas via terrestre). Rotas comerciais marítimas originárias desta cidade possuem um aumento de 50% no alcance e produzem 2 de [ICON_GOLD]Ouro adicionais quando conectadas com outra civilização.[NEWLINE][NEWLINE]A cidade de estar construída na costa.</Text>
@@ -611,19 +611,19 @@
 			<Text>50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moais, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo dos Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
-			<Text>Substituta Zulu único para o {TXT_KEY_BUILDING_BARRACKS}. Concede promoções únicas para unidades de ataque corpo-a-corpo pré-pólvora.</Text>
+			<Text>Substituta Zulu único para o {TXT_KEY_BUILDING_BARRACKS}. Concede promoções únicas para unidades de ataque corpo a corpo pré-pólvora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
 			<Text>+1 de [ICON_FOOD]Alimento de hexágonos costeiros e oceânicos. +1 de [ICON_PRODUCTION]Produção de recursos marítimos explorados por esta cidade.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_FISH]Peixe explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]A cidade deve estar construída na costa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD_HELP">
-			<Text>Fornece 3 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa para geração de um Grande Músico. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Músico (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa por especialista).</Text>
+			<Text>Fornece 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade para geração de um Grande Músico. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Músico (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP">
 			<Text>É preciso ter construído um {TXT_KEY_BUILDING_MARKET } em todas as cidades. O custo é proporcional à quantidade de cidades no império. Rotas comerciais que outros jogadores conectarem com uma cidade com uma {TXT_KEY_BUILDING_EAST_INDIA} gerarão 4 de [ICON_GOLD]Ouro extras para o dono da cidade e o dono da rota comercial ganhará 2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
-			<Text>Substituta Assíria única para a {TXT_KEY_BUILDING_LIBRARY}. +1 DE [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece XP extra para unidades treinadas.</Text>
+			<Text>Substituta Assíria única para a {TXT_KEY_BUILDING_LIBRARY}. +1 DE [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos nesta cidade. Além disso, possui um espaço para uma Grande Obra Literária que, quando preenchido, fornece EXP extra para unidades treinadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_HELP">
 			<Text>É preciso ter construído {TXT_KEY_BUILDING_HOTEL} em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE]Cultura vinda de Maravilhas Mundiais, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 100%.</Text>
@@ -635,10 +635,10 @@
 			<Text>Permite que [ICON_PRODUCTION]Produção seja movida desta cidade para outros pontos da sua civilização, via rotas comerciais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD_HELP">
-			<Text>Fornece 1 ponto de [ICON_GREAT_PEOPLE]Grande Pessoa para geração de um Grande Escritor. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Escritor (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa por especialista).</Text>
+			<Text>Fornece 1 ponto de [ICON_GREAT_PEOPLE]Grande Personalidade para geração de um Grande Escritor. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Escritor (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Personalidade por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STADIUM_HELP">
-			<Text> Não pode fornecer mais [ICON_HAPPINESS_1]Felicidade que [ICON_CITIZEN]Cidadãos existentes em uma cidade. A cidade precisa possuir um Zoológico.</Text>
+			<Text>Não pode fornecer mais [ICON_HAPPINESS_1]Felicidade que [ICON_CITIZEN]Cidadãos existentes em uma cidade. A cidade precisa possuir um Zoológico.</Text>
 		</Row>
 		<!-- IMPROVEMENTS HELP -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_HELP">

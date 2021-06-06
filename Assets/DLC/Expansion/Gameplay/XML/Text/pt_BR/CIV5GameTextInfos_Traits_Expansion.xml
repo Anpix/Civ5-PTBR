@@ -21,7 +21,7 @@
 			<Text>Patriarca de Constantinopla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
-			<Text>Ganhe 90 de [ICON_INFLUENCE]Influência ao presentear uma Grande Pessoa a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Pessoas.</Text>
+			<Text>Ganhe 90 de [ICON_INFLUENCE]Influência ao presentear uma Grande Personalidade a uma Cidade-Estado. Quando declarar amizade, a Suécia e seus amigos ganham +10% de aumento na produção de Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
 			<Text>Prêmio Nobel</Text>
@@ -36,7 +36,7 @@
 			<Text>Pode gastar [ICON_GOLD]Ouro para anexar ou transformar em fantoche uma Cidade-Estado que esteja aliada a você por 5 turnos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT">
-			<Text>Casamento Diplomático</Text>
+			<Text>Matrimônio diplomático</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
 			<Text>Todas as cidades costeiras ganham um Ancoradouro gratuito. As unidades podem se movimentar sobre montanhas após o primeiro Grande General ser obtido, recebendo 50 pontos de dano se terminarem o turno sobre a montanha.</Text>
@@ -45,10 +45,10 @@
 			<Text>Herança Fenícia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT">
-			<Text>Após pesquisar a Teologia, receba uma Grande Pessoa como bônus ao fim de cada ciclo do calendário Maia Conta Longa (a cada 394 anos). Cada Grande Pessoa deste bônus pode ser escolhida somente uma vez.</Text>
+			<Text>Após pesquisar a Teologia, receba uma Grande Personalidade como bônus ao fim de cada ciclo do calendário maia de Contagem Longa (a cada 394 anos). Cada Grande Personalidade deste bônus pode ser escolhida somente uma vez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT_SHORT">
-			<Text>A Conta Longa</Text>
+			<Text>A Contagem Longa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH">
 			<Text>Bônus de combate (+20%) quando está lutando contra civilizações com mais cidades que a Etiópia.</Text>

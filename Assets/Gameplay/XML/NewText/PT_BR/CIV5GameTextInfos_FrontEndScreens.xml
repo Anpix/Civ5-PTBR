@@ -480,7 +480,7 @@
             <Text>Cordilheiras em estilo fractal: pequenas, numerosas e bem distribuídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_RANGES">
-            <Text>Intervalos</Text>
+            <Text>Cordilheiras</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_RANGES_HELP">
             <Text>Cordilheiras em estilo fractal: médias, serpenteadas e altamente aleatórias.</Text>

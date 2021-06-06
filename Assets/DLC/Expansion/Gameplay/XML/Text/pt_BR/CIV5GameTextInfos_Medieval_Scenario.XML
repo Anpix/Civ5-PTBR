@@ -107,13 +107,13 @@
 			<Text>The "Ottoman Turks" first became known to Western Europe in 1227 AD when the tribe migrated into the Seljuk kingdom in Anatolia. Their chieftain Ertugrul would found a principality amid the decaying Seljuk lands in western Anatolia. His son Osman (for whom the kingdom was named by Europeans) and grandson Orhan would greatly expand the empire. Militarily sophisticated, by 1362, these Turks would cross the Dardanelles strait into the last vestiges of the Byzantine Balkans. The Turks became a great power when, in 1453, Sultan Mehmed II captured Byzantium, renaming it Istanbul and making it his capital. The Ottoman Empire would become the largest and longest lasting one of the Middle Ages.[NEWLINE][NEWLINE]Having taken Constantinople, seat of Orthodox Christianity, Mehmed displayed his political acumen by meeting with the Orthodox patriarch Gennadios. Although the empire would be Muslim, in exchange for tolerance and maintaining its holdings and authority, the Orthodox Church agreed to accept Ottoman authority in all things secular. The Christians within the empire became supporters of the regime and even joined the Ottomans in their efforts against the Catholic West.[NEWLINE][NEWLINE]Following the fall of Constantinople, the Turks began an unrelenting effort to expand westward and southward. They overran the Balkans, spread across the Levant and Egypt, dominated the Eastern Mediterranean. Their sea-borne trade routes reached across the Black, Aegean and Mediterranean seas and, via the Red Sea, reached the Indian Ocean and the Orient. Expansion into Europe was not halted until the Turkish defeats at the gates of Vienna in 1529 and 1532. Thwarted, they turned to the conquest of the North African coast. By 1566, the Turkish Empire stretched from Bagdad to Budapest to Algiers to Mecca.[NEWLINE][NEWLINE]During this period of expansion, the Ottomans were blessed with a long series of able and enlightened sultans, from Mehmed through Selim I and Suleiman the Magnificent. Religious tolerance of Orthodox Christianity and Judaism brought economic and intellectual benefits. The cultural traditions and social institutions of the polyglot empire blended to insure a golden age of art and science. Free education in madrasas, expanding literacy, and patronage by the ruling elite made the empire more stable and peaceful than the Western kingdoms.[NEWLINE][NEWLINE]But by the 1600s, the empire would begin its long decline. The rise of Muscovite Russia and the Mongol onslaught from the east would end Ottoman efforts to spread into Catholic Europe. In the Mediterranean, a coalition of Catholic powers led by Philip II of Spain would end Turkish dominance at Lepanto in 1571. The influx of wealth from the New World made Europe less reliant on the trade routes to and through the Ottoman Empire. Despite the upheaval of the Protestant Reformation, the Turks would never again threaten Christian Europe.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_1">
-			<Text>By my beard and belly, I am glad to meet you! I am Suleiman, leader of the mighty Turks!</Text>
+			<Text>Pelas barbas do profeta, estou muito satisfeito em conhecê-lo! Eu sou Solimão, líder dos poderosos Turcos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_2">
-			<Text>The Turkish nation greets you, Stranger! I am Suleiman!</Text>
+			<Text>A nação Turca lhe dá saudações, estrangeiro! Eu sou Solimão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_3">
-			<Text>Greetings, Stranger! I am Suleiman, leader of the Turks! Let us feast to celebrate this grand occasion!</Text>
+			<Text>Saudações, estrangeiro! Eu sou Solimão, líder dos Turcos! Deixe-nos celebrar esta grande ocasião!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_NAME">
 			<Text>Francisco I</Text>
@@ -122,7 +122,7 @@
 			<Text>Rei da França</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_LIVED">
-			<Text>1494 - 1547 d.C.</Text>
+			<Text>1494-1547 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_HEADING_1">
 			<Text>História</Text>
@@ -208,51 +208,51 @@
 			<Text>Situated along the delta of the Vistula River, the Gdansk region has been settled for over 2000 years. The city of Gdansk (Danzig in German) was founded in 980 when Duke Mieszko I of Poland built a fortress here. Today Gdansk is the fourth largest city in Poland and that country's principal seaport.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_DESC">
-			<Text>Polotsk was the dominant Slavic power in the area of modern Belarus from the 10th to 12th Centuries. However in the 13th Century it became a vassal of the Lithuanian princes and started to fade in importance. Two battles were fought near Polotsk during Napoleon's 1812 invasion of Russia.</Text>
+			<Text>Polatsk foi a potência preponderante na área da atual Bielorrússia entre os séculos 10 e 12. No entanto, no século 13, ela se converteu em vassala dos príncipes lituanos e começou a perder a importância. Durante a invasão napoleônica da Rússia em 1812, foram travadas duas batalhas em Polatsk.</Text>
 		</Row>
 		<!-- Beliefs -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_MESSIAH">
-			<Text>When each Reformer enters, 40% of Catholics in nearby cities convert</Text>
+			<Text>Para cada Reformista que entre, 40% dos católicos das cidades próximas serão convertidos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_RELIGIOUS_TEXTS">
-			<Text>Religion spreads 5 times faster (9 times faster with Printing Press)</Text>
+			<Text>A religião se propaga 5 vezes mais rápida (9 vezes vezes mais rápida com a Imprensa)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_PAPAL_PRIMACY">
-			<Text>+15 to [ICON_INFLUENCE] Influence resting point with [ICON_RELIGION_CHRISTIANITY] Catholic City-States</Text>
+			<Text>+15 ao limite de [ICON_INFLUENCE]Influência com as cidades [ICON_RELIGION_CHRISTIANITY]Católicas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHORAL_MUSIC">
-			<Text>+4 [ICON_CULTURE] Culture for Temples in cities with 5 followers</Text>
+			<Text>+4 para a [ICON_CULTURE]Cultura por Templos em cidades com 5 devotos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_INDULGENCES">
-			<Text>+2 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route</Text>
+			<Text>+2 de [ICON_GOLD]Ouro por cada [ICON_CONNECTED]Rota Comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_THIRD_ROME">
-			<Text>Holy City switches to largest following city if captured</Text>
+			<Text>Se capturada, a Cidade Sagrada passa a ser a maior cidade devota</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY">
-			<Text>+2 [ICON_CULTURE] Culture and +1 [ICON_PEACE]Fé from Temples</Text>
+			<Text>+2 para a [ICON_CULTURE]Cultura e +1 para a [ICON_PEACE]Fé por Templos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HAJJ">
-			<Text>+5 [ICON_CULTURE] Culture and +5 [ICON_PEACE]Fé</Text>
+			<Text>+5 para a [ICON_CULTURE]Cultura e +5 para a [ICON_PEACE]Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SALAT">
-			<Text>+2 [ICON_PEACE]Fé from Shrines and Temples</Text>
+			<Text>+2 para a [ICON_PEACE]Fé por Santuários e Templos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_WORK_ETHIC">
-			<Text>+8 [ICON_PRODUCTION] Production in each following city</Text>
+			<Text>+8 para a [ICON_PRODUCTION]Produção em cada cidade que siga essa religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE">
-			<Text>+3 [ICON_HAPPINESS_1] Happiness from Shrines and Temples</Text>
+			<Text>+3 para a [ICON_HAPPINESS_1]Felicidade por Santuários e Templos</Text>
 		</Row>
 		<!-- Religions -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY_PEDIA">
-			<Text>Roman Catholicism refers to the theology and doctrine of the Christian church under the auspices of the Holy See, the papacy based in Rome. According to ecclesiastical scholars, Catholicism is distinguished from other branches of Christianity by its commitment to the church's traditions, to the sacraments, and its priesthood as interpreters of the Bible.[NEWLINE][NEWLINE]The earliest known use of the term "Catholic Church" is by Ignatius of Antioch around 107 AD. The early church was organized based on the rule of three patriarchs, those of Rome, Alexandria and Antioch - to which were later added the patriarchs of Constantinople and Jerusalem. The patriarch of Rome claimed special authority based on the connection between St. Peter and the city. For 1000 years, Roman Catholicism dominated Europe, until the Great Schism of 1054 AD that gave rise to Eastern Orthodoxy. Some 500 years later another major division in Christianity occurred with the Protestant Reformation, which saw many in Europe reject the teachings and practices of Catholicism in favor of more personal expressions of belief.[NEWLINE][NEWLINE]Presently, the Roman Catholic Church considers those not in communion with the Vatican to be "non-Catholics" but tolerates differing interpretations of the Bible. Roman Catholicism remains the largest Christian church, with over a billion members worldwide.</Text>
+			<Text>O Catolicismo romano é a teologia e a doutrina da Igreja Cristã sob os auspícios da Santa Sé, o papado que se encontra em Roma. De acordo com os acadêmicos, o catolicismo se distingue de outros ramos do cristianismo pelo seu compromisso com as tradições da Igreja Católica, os sacramentos e a contemplação do clero como intérprete da Bíblia.[NEWLINE][NEWLINE]A primeira aparição conhecida do termo "Igreja Católica" se deve a Inácio de Antioquia, em torno de 107 d.C. A igreja primitiva foi organizada em torno da autoridade de três patriarcas: os de Roma, Alexandria e Antioquia, aos quais mais tarde seriam adicionados os de Constantinopla e Jerusalém. O patriarca de Roma reivindicou uma autoridade especial baseada em sua relação com São Pedro e a cidade. Por 1.000 anos, o catolicismo romano dominou a Europa, até o Grande Cisma de 1054, que deu origem à Ortodoxia Oriental. Cerca de 500 anos depois, houve outra importante divisão entre o cristianismo e a Reforma Protestante, que viu muitos europeus rejeitaram os ensinamentos católicos em favor de uma expressão mais pessoal de fé.[NEWLINE][NEWLINE]Atualmente, a Igreja Católica Romana considera que aqueles que não comungam com o Vaticano "não são católicos", mas toleram diferentes interpretações da Bíblia. O Catolicismo romano continua sendo a maior igreja cristã, com mais de um bilhão de fieis ao redor do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY_PEDIA">
-			<Text>The Eastern Orthodox Church is currently the second-largest Christian denomination, with an estimated 300 million adherents. The goal of Orthodox Christians is to draw nearer to God throughout their lives through theosis, a spiritual pilgrimage to become more "Christ-like."[NEWLINE][NEWLINE]The church traces its roots to the Great Schism. During the 9th and 10th centuries AD the Christian church under the Patriarch of Constantinople made significant conversions among the peoples of eastern Europe, including Kievan Russia and the Balkans. Doctrinal issues such as the filioque split and the authority of the Pope over the Patriarch in matters religious, exacerbated by the political and economic rivalry of Rome and Constantinople, led to a schism. The final breach between these two branches of Christianity is acknowledged as the sacking of Constantinople by the Catholic crusaders in 1204 AD. Moreover, after the fall of Constantinople to the Ottomans in 1453, the Eastern Church became even more isolated from Rome under the relatively tolerant rule of the Turks. The Orthodox Church, which saw itself as the true heir to the teachings and practices of the early Christians, flourished under the Russian Tsars. Although somewhat diminished by Communist rule and Balkan secularism, Eastern Orthodoxy has experienced a resurgence in recent decades and remains a vital aspect of Christianity.</Text>
+			<Text>A Igreja Ortodoxa Oriental é a segunda maior denominação cristã do mundo, com cerca de 300 milhões de seguidores estimados. O objetivo desta igreja é aproximar seus fiéis de Deus através de uma vida de deificação, uma peregrinação espiritual para ser mais "semelhante a Cristo".[NEWLINE][NEWLINE]A origem da igreja remonta ao Grande Cisma. Durante os séculos  9 e 10 d.C., a igreja cristã do patriarca de Constantinopla realizou conversões importantes entre os povos da Europa Oriental, incluindo a Rússia de Quieve e os Bálcãs. Problemas doutrinários, como a cláusula filioque e a autoridade do Papa sobre o patriarca em questões religiosas, exacerbadas pela rivalidade econômica e política de Roma e Constantinopla, levaram a um cisma. A ruptura final entre esses dois ramos do cristianismo marca os saques realizados pelos cruzados católicos em 1204 d.C. Além disso, após a queda de Constantinopla antes dos otomanos em 1453, a Igreja Oriental era ainda mais isolada de Roma, embora sob a tolerância relativa dos turcos. A Igreja Ortodoxa, que considera-se a autêntica herdeira dos ensinamentos e práticas dos primeiros cristãos, floresceu durante a Rússia dos czares. Embora um pouco diminuída pelo comunismo e pelo secularismo dos Bálcãs, a ortodoxia oriental experimentou um ressurgimento nas últimas décadas e continua a ser um aspecto vital do cristianismo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM_PEDIA">
-			<Text>The Protestant Reformation, as a movement that would eventually divide Christian Europe, began as a protest in Germany against Catholic doctrine and practices, especially in regard to salvation, justification and interpretation of the Bible.[NEWLINE][NEWLINE]Based upon his readings of humanist scholars, in 1517 AD Martin Luther, a German priest in the university town of Wittenberg, published his 95 theses criticizing certain practices of the Catholic Church. His example saw other liberal religious thinkers advance their own critiques of the church, and "evangelical" Lutheran denominations sprang up across Germany and Scandinavia, "reformed" creeds in Switzerland under John Calvin. Meanwhile religion became mixed with politics in England and elsewhere, bringing yet more Protestant churches into existence. Although with some differences, all the Protestant movements maintained two tenets: that the Bible, rather than papal interpretation, was the sole source of authority for Christians; and that salvation comes only through a personal connection with Jesus as the Christ rather than through good works or indulgences.[NEWLINE][NEWLINE]The split in the Catholic faith would ignite a series of religious wars, echoes of which resonate still. Despite numerous movements and divisions with Protestantism since, its many denominations together number about 670 million members.</Text>
+			<Text>A Reforma Protestante, como um movimento que acabaria por dividir a Europa cristã, começou como um protesto na Alemanha contra as doutrinas e práticas católicas, especialmente em relação à salvação, justificação e interpretação da Bíblia.[NEWLINE][NEWLINE]Baseado em suas leituras de estudiosos humanistas, em 1517 Martin Luther, um padre alemão na cidade universitária de Vitemberga, publicou suas 95 teses criticando certas práticas da Igreja Católica. Seu exemplo viu outros pensadores religiosos liberais promoverem suas próprias críticas à igreja, e denominações luteranas "evangélicas" surgiram na Alemanha e na Escandinávia, "reformaram" credos na Suíça sob João Calvino. Enquanto isso, a religião se misturou com a política na Inglaterra e em outros lugares, trazendo ainda mais igrejas protestantes à existência. Embora com algumas diferenças, todos os movimentos protestantes mantiveram dois princípios: que a Bíblia, em vez da interpretação papal, era a única fonte de autoridade para os cristãos; e que a salvação vem somente através de uma conexão pessoal com Jesus como o Cristo, e não através de boas obras ou indulgências.[NEWLINE][NEWLINE]A divisão na fé católica provocaria uma série de guerras religiosas, cujos ecos ainda ressoam. Apesar dos numerosos movimentos e divisões com o protestantismo desde então, suas muitas denominações somam cerca de 670 milhões de membros.</Text>
 		</Row>
 		<!-- Victory Conditions -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_UNITED_NATIONS_HELP">

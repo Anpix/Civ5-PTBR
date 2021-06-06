@@ -24,7 +24,7 @@
             <Plurality>1</Plurality>			
         </Row>
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD">
-            <Text>Arsenal de Marinha</Text>
+            <Text>Estaleiro da Marinha|Estaleiros da Marinha</Text>
             <Gender>masculine</Gender>
             <Plurality>1</Plurality>			
         </Row>
@@ -87,7 +87,7 @@
         </Row>
                 
         <Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS_STRATEGY">
-            <Text>As Defesas da Capital são um anel de barro forte que aumentam a Força de Defesa de uma cidade em 10 e em 100 HPs, tornando a cidade muito mais difícil de capturar.</Text>
+            <Text>As Defesas da Capital são um anel de barro forte que aumentam a Força de Defesa de uma cidade em 10 e em 100 PV, tornando a cidade muito mais difícil de capturar.</Text>
         </Row>
         <!-- Scramble for Africa -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_FEATURE_FOUNTAIN_YOUTH">

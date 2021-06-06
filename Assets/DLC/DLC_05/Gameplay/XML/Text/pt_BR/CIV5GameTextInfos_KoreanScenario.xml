@@ -59,7 +59,7 @@
 			<Text>Exército Honrado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY">
-			<Text>Não são eliminados do jogo, mesmo se perderem sua última cidade. Periodicamente ganham unidades para retomarem cidades capturadas, como Barcos Tartaruga e Arqueiros capazes de recuar antes de um ataque corpo-a-corpo.</Text>
+			<Text>Não são eliminados do jogo, mesmo se perderem sua última cidade. Periodicamente ganham unidades para retomarem cidades capturadas, como Barcos Tartaruga e Arqueiros capazes de recuar antes de um ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_UNIT_HELP_SETTLER">
 			<Text>Funde novas cidades para expandir seu império. Cada nova cidade iniciará com um {TXT_KEY_BUILDING_MONUMENT}, um {TXT_KEY_BUILDING_GRANARY} e um {TXT_KEY_BUILDING_MARKET}.[NEWLINE][NEWLINE]O [ICON_FOOD]Crescimento da cidade é interrompido enquanto esta unidade estiver sendo treinada.</Text>
@@ -98,7 +98,7 @@
 			<Text>Khan da Antiga Dinastia Jin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_LIVED">
-			<Text>1558 - 1626 d.C.</Text>
+			<Text>1558-1626 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_HEADING_1">
 			<Text>História</Text>
@@ -107,7 +107,7 @@
 			<Text>Nurhaci, chefe estimado dos Jurchen, é creditado pela união das tribos nômades Jurchen da China e pela criação das bases da Dinastia Manchu. Líder durante a segunda metade do século XVI, Nurhaci foi o primeiro Khan da Dinastia Jin, que mais tarde veio a ser conhecida como Qing ou a Dinastia Manchu após a sua morte. Durante seu reinado, Nurhaci colocou o seu povo em uma missão para ultrapassar a rival Dinastia Ming da China e, eventualmente, a Dinastia Choson da Coréia. Nurhaci é notavelmente creditado pela criação dos Oito Bandeiras, um sistema organizacional para seus militares, que dividiu as tropas em companhias bandeiras de tamanho variável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_STRATEGY">
-			<Text>O Papeleiro é o edifício exclusivo dos Chineses e substitui o Banco. O Papeleiro aumenta a entrada de [ICON_GOLD]Ouro da cidade.</Text>
+			<Text>O Papeleiro é a edificação exclusiva dos Chineses e substitui o Banco. O Papeleiro aumenta a entrada de [ICON_GOLD]Ouro da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_HELP">
 			<Text>+4 de [ICON_GOLD]Ouro.</Text>
@@ -143,16 +143,16 @@
 			<Text>{1_Num} de Seul e Pequim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW">
-			<Text>Guerrilha se retira antes do combate corpo-a-corpo</Text>
+			<Text>Guerrilha se retira antes do combate corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW_HELP">
-			<Text>A unidade se retirará quando encontrar um combate corpo-a-corpo. A chance de retirada cai contra unidades inimigas rápidas ou se houver hexágonos abertos limitados atrás da unidade.</Text>
+			<Text>A unidade se retirará quando encontrar um combate corpo a corpo. A chance de retirada cai contra unidades inimigas rápidas ou se houver hexágonos abertos limitados atrás da unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PORCELAIN_TOWER_STRATEGY">
-			<Text>A Torre de Porcelana aumenta a velocidade de produção de unidades de ataque corpo-a-corpo e navais.</Text>
+			<Text>A Torre de Porcelana aumenta a velocidade de produção de unidades de ataque corpo a corpo e navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_WONDER_PORCELAIN_TOWER_HELP">
-			<Text>+15% de [ICON_PRODUCTION]Produção quando estiver construindo unidades de ataque corpo-a-corpo ou navais.</Text>
+			<Text>+15% de [ICON_PRODUCTION]Produção quando estiver construindo unidades de ataque corpo a corpo ou navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_GUERILLAS_SPAWNED">
 			<Text>Coreia recebeu novas unidades de guerrilha em razão de característica "Exército Honrado".</Text>

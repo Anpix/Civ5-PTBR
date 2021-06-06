@@ -389,7 +389,7 @@
             <Text>Plato</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_PTOLEMY">
-            <Text>Ptolemy</Text>
+            <Text>Ptolomeu</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_PYTHEAS">
             <Text>Pytheas</Text>
@@ -548,7 +548,7 @@
             <Text>Delete</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_DOWN_ARROW">
-            <Text>Seta p/ Baixo</Text>
+            <Text>Seta para Baixo</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_END_KEY">
             <Text>Tecla End</Text>
@@ -569,7 +569,7 @@
             <Text>Tecla Alt Esquerdo</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_LEFT_ARROW">
-            <Text>Seta p/ Esquerda</Text>
+            <Text>Seta para Esquerda</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_LEFT_CONTROL_KEY">
             <Text>Tecla Control Esquerdo</Text>
@@ -650,7 +650,7 @@
             <Text>Tecla Alt Direito</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_RIGHT_ARROW">
-            <Text>Seta p/ Direita</Text>
+            <Text>Seta para Direita</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_RIGHT_CONTROL_KEY">
             <Text>Tecla Control Direita</Text>
@@ -668,7 +668,7 @@
             <Text>SYSRQ</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_UP_ARROW">
-            <Text>Seta p/ Cima</Text>
+            <Text>Seta para Cima</Text>
         </Row>
         <Row Tag="TXT_KEY_KEYBOARD_VOLUME_DOWN">
             <Text>Abaixar volume</Text>
@@ -728,7 +728,7 @@
             <Text>Todas as Civilizações conduziram seus turnos ao mesmo tempo</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TAKEOVER_AI_HELP">
-            <Text>Os jogadores podem "tomar as rédeas" de uma Civilização IA a qualquer momento.</Text>
+            <Text>Os jogadores podem "tomar as rédeas" de uma IA de Civilização a qualquer momento.</Text>
         </Row>
         <Row Tag="TXT_KEY_MP_OPTION_TURN_TIMER_HELP">
             <Text>Os turnos são limitados por um temporizador que se adapta de acordo o tamanho da civilização.</Text>
@@ -770,7 +770,7 @@
             <Text>Aéreo</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_MELEE">
-            <Text>Corpo-a-corpo</Text>
+            <Text>Corpo a corpo</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_RECON">
             <Text>Reconhecimento</Text>
@@ -1064,10 +1064,10 @@
             <Text>A taxa na qual os Bárbaros se procriam é gigantescamente aumentada.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES">
-            <Text>Grandes Pessoas aleatórias</Text>
+            <Text>Grandes Personalidades aleatórias</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES_HELP">
-            <Text>Em vez de agir como eles normalmente fazem, uma Grande Pessoa aleatória será escolhida de cada líder da IA (Inteligência Artificial), fazendo o jogo mais imprevisível.</Text>
+            <Text>Em vez de agir como eles normalmente fazem, uma Grande Personalidade aleatória será escolhida de cada líder da IA (Inteligência Artificial), fazendo o jogo mais imprevisível.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_DISABLE_START_BIAS">
             <Text>Desabilitar tendência inicial</Text>
@@ -1253,7 +1253,7 @@
             <Text>{1_GPName} nasceu no estrangeiro!</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GREAT_PERSON">
-            <Text>Grande Pessoa: {1_Curr}/{2_Need} [ICON_GREATPEOPLE]</Text>
+            <Text>Grande Personalidade: {1_Curr}/{2_Need} [ICON_GREATPEOPLE]</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_IMP_DESTROYED">
             <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_ImpName}} foi destruído por {@2: gender masculine?um; feminine?uma;} {@3_civ_adjective} {@2_UnitName} {@2: gender masculine?saqueador; feminine?saqueadora;}!</Text>
@@ -1493,7 +1493,7 @@
             <Text>Construir</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK">
-            <Text>Criar Grande Trabalhador</Text>
+            <Text>Criar Grande Obra</Text>
         </Row>
         <Row Tag="TXT_KEY_MISSION_DISCOVER_TECH">
             <Text>Descobrir Tecnologia</Text>
@@ -1670,7 +1670,7 @@
             <Text>Não</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_ANNEX_PUPPET">
-            <Text>Você quer anexar o fantoche de {@1_CityName} ao seu Império? Isso permitirá a você escolher a produção, mas aumentará sua [ICON_HAPPINESS_4]Infelicidade e deixará lenta a aquisição de novas Políticas Sociais e Grandes Pessoas. Você não será capaz de reverter a anexação.</Text>
+            <Text>Você quer anexar o fantoche de {@1_CityName} ao seu Império? Isso permitirá a você escolher a produção, mas aumentará sua [ICON_HAPPINESS_4]Infelicidade e deixará lenta a aquisição de novas Políticas Sociais e Grandes Personalidades. Você não será capaz de reverter a anexação.</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_NO_PUPPET">
             <Text>Não, converter em fantoche</Text>
@@ -1819,10 +1819,10 @@
 			<Text>{@1: gender masculine?{@1: plural 1?Seu; other?Seus;}; feminine?{@1: plural 1?Sua; other?Suas;};} {@1_UnitName} {@1: gender masculine?{@1: plural 1?foi destruído; other?foram destruídos;}; feminine?{@1: plural 1?foi destruída; other?foram destruídas;};} por desgaste!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_FRIENDLY_UNIT_WITHDREW">
-			<Text>{@1: gender masculine?{@1: plural 1?Nosso; other?Nossos;}; feminine?{@1: plural 1?Nossa; other?Nossas;};} {@1_Num} {@1: plural 1?recuou; other?recuaram;} de um ataque corpo-a-corpo inimigo.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?Nosso; other?Nossos;}; feminine?{@1: plural 1?Nossa; other?Nossas;};} {@1_Num} {@1: plural 1?recuou; other?recuaram;} de um ataque corpo a corpo inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ENEMY_UNIT_WITHDREW">
-			<Text>{@1: gender masculine?{@1: plural 1?Um; other?Uns;}; feminine?{@1: plural 1?Uma; other?Umas;};} {@1_Num} {@1: gender masculine?{@1: plural 1?inimigo fugiu; other?inimigos fugiram;}; feminine?{@1: plural 1?inimiga fugiu; other?inimigas fugiram;};} do seu ataque corpo-a-corpo.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?Um; other?Uns;}; feminine?{@1: plural 1?Uma; other?Umas;};} {@1_Num} {@1: gender masculine?{@1: plural 1?inimigo fugiu; other?inimigos fugiram;}; feminine?{@1: plural 1?inimiga fugiu; other?inimigas fugiram;};} do seu ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PROTECTED_CITY_STATE">
       <Text>Isso significa GUERRA contra {1_Team}?!? Eles estão sob proteção de: </Text>
@@ -1831,13 +1831,13 @@
             <Text>[COLOR_POSITIVE_TEXT]Anexar[ENDCOLOR] a cidade ao seu Império faz com que ela se torne uma cidade normal, que produz uma quantidade significativa de [ICON_HAPPINESS_4]infelicidade extra.[NEWLINE][NEWLINE]Anexar esta cidade aumentará a [ICON_HAPPINESS_4]infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_PUPPET">
-			<Text>Ao transformar a cidade em um [COLOR_POSITIVE_TEXT]Fantoche[ENDCOLOR], ela gerará Ouro, Ciência, Cultura etc., mas você [COLOR_POSITIVE_TEXT]pode não conseguir escolher o que é produzido[ENDCOLOR] ou personalizar a cidade.[NEWLINE][NEWLINE]Ela contribuirá com muito menos [ICON_HAPPINESS_4]Infelicidade que uma cidade anexada e não aumentará o custo para aquisição de Políticas Sociais e geração de Grandes Pessoas. Se você escolher isso, você pode anexar a cidade depois.[NEWLINE][NEWLINE]Tornar esta cidade um fantoche aumentará a [ICON_HAPPINESS_4]Infelicidade em {1_Num}.</Text>
+			<Text>Ao transformar a cidade em um [COLOR_POSITIVE_TEXT]Fantoche[ENDCOLOR], ela gerará Ouro, Ciência, Cultura etc., mas você [COLOR_POSITIVE_TEXT]pode não conseguir escolher o que é produzido[ENDCOLOR] ou personalizar a cidade.[NEWLINE][NEWLINE]Ela contribuirá com muito menos [ICON_HAPPINESS_4]Infelicidade que uma cidade anexada e não aumentará o custo para aquisição de Políticas Sociais e geração de Grandes Personalidades. Se você escolher isso, você pode anexar a cidade depois.[NEWLINE][NEWLINE]Tornar esta cidade um fantoche aumentará a [ICON_HAPPINESS_4]Infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_RAZE">
 			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4]infelicidade extra durante a destruição.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Eliminar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4]infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4]infelicidade diminuirá em 1 a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY_DETAILS">
-			<Text>Vá para a tela da cidadea. Você não pode puder nada enquanto estiver dentro.</Text>
+			<Text>Vá para a tela da cidade. Você não pode puder nada enquanto estiver dentro.</Text>
          </Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY">
 			<Text>Exibir cidade</Text>
@@ -1865,7 +1865,7 @@
 			<Text>Caribe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_CARRIBEAN_DESC">
-			<Text>Explore o Caribe e todo o seu explendor tropical.</Text>
+			<Text>Explore o Caribe e todo o seu esplendor tropical.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SP_MAP_PACK_EUS_TITLE">
 			<Text>Leste dos Estados Unidos</Text>
@@ -1903,7 +1903,7 @@
 		</Row>
 		<!-- GREAT PERSON UI PANEL TEXT -->
 		<Row Tag="TXT_KEY_IC_GP">
-			<Text>Lista de Grandes Pessoas</Text>
+			<Text>Lista de Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GP_CITY">
 			<Text>Nome da Cidade</Text>
@@ -1954,10 +1954,10 @@
 			<Text>{1_Progress}/{2_Threshold}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_CHECKBOX">
-			<Text>Habilitar Autosalvamento no Fim do Turno</Text>
+			<Text>Habilitar salvamento automático no Fim do Turno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_CHECKBOX_PBEM">
-			<Text>Habilitar Modo Jogar Por Email</Text>
+			<Text>Habilitar Modo Jogar Por E-mail</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PBEM_NOTICE">
 			<Text>Seu turno acabou. Por favor, envie o arquivo salvo ao próximo jogador da fila. Você pode encontrar o jogo salvo em seu diretório saves/pbem.</Text>
@@ -1984,10 +1984,10 @@
             <Text>ABRA 2 dedos na tela para diminuir o Zoom e JUNTE 2 dedos na tela para aumentar o Zoom.</Text>
         </Row>       
         <Row Tag="TXT_KEY_TOOL_TIPS_TITLE">
-            <Text>Popups e Movimento</Text>
+            <Text>Janelas Emergentes e Movimento</Text>
         </Row>       
         <Row Tag="TXT_KEY_TOOL_TIPS_DETAILS">
-            <Text>ARRASTE 1 dedo sobre botões ou terreno para ver popups.[NEWLINE]ARRASTE uma unidade para fora do seu hexágono para entrar no modo de movimento.</Text>
+            <Text>ARRASTE 1 dedo sobre botões ou terreno para ver janelas emergentes.[NEWLINE]ARRASTE uma unidade para fora do seu hexágono para entrar no modo de movimento.</Text>
         </Row>       
         <Row Tag="TXT_KEY_SCROLLING_TITLE">
             <Text>Rolando e Fixando a tela</Text>

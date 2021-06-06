@@ -6,10 +6,10 @@
 <GameData>
 	<Language_pt_BR>	
 		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
-			<Text>Esta unidade e todas as outras adjacentes [COLOR_POSITIVE_TEXT]são curadas com 15 HP's adicionais[ENDCOLOR] por turno.</Text>
+			<Text>Esta unidade e todas as outras adjacentes [COLOR_POSITIVE_TEXT]são curadas com 15 PV adicionais[ENDCOLOR] por turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_MONGOL_KHAN} é a Grande Pessoa exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o {TXT_KEY_UNIT_MONGOL_KHAN} se move na mesma taxa que o {TXT_KEY_UNIT_MONGOL_KESHIK} (5 pontos por turno) e pode curar unidades adjacentes (15 HP's adicionais por turno). Este vigoroso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
+			<Text>O {TXT_KEY_UNIT_MONGOL_KHAN} é a Grande Personalidade exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o {TXT_KEY_UNIT_MONGOL_KHAN} se move na mesma taxa que o {TXT_KEY_UNIT_MONGOL_KESHIK} (5 pontos por turno) e pode curar unidades adjacentes (15 PV adicionais por turno). Este vigoroso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

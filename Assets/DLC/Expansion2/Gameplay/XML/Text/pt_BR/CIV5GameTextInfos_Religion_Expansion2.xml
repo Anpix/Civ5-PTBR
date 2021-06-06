@@ -25,7 +25,7 @@
 			<Text>Todas as compras de edifícios com [ICON_PEACE]Fé fornecem 2 de [ICON_TOURISM]Turismo cada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD">
-			<Text>Usar [ICON_PEACE]Fé para comprar qualquer tipo de [ICON_GREAT_PEOPLE]Grande Pessoa, iniciando na Era Industrial.</Text>
+			<Text>Usar [ICON_PEACE]Fé para comprar qualquer tipo de [ICON_GREAT_PEOPLE]Grande Personalidade, iniciando na Era Industrial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT">
 			<Text>Seus espiões exercem pressão religiosa nas cidades que eles ocupam.</Text>

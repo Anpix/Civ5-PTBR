@@ -81,7 +81,7 @@
             <Text>Ordenar por ataque a distância</Text>
         </Row>
         <Row Tag="TXT_KEY_MO_GENERAL_TT">
-            <Text>{1_current}/{2_needed}[NEWLINE]O progresso para chegar ao próximo Grande General é baseado do XP ganhados pelas unidades de combate.</Text>
+            <Text>{1_current}/{2_needed}[NEWLINE]O progresso para chegar ao próximo Grande General é baseado na EXP adquirida pelas unidades de combate.</Text>
         </Row>
         <!-- End Game Screen -->
         <Row Tag="TXT_KEY_VICTORY_INFO">
@@ -238,7 +238,7 @@
             <Text>Tecnologias</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_FUTURE_TECH">
-          <Text>Tecnologia Futura</Text>
+          <Text>Futuras Tecnologias</Text>
         </Row>
         <Row Tag="TXT_KEY_VP_TURNS_TT">
             <Text>Turnos antes do fim do jogo</Text>
@@ -665,7 +665,7 @@
             <Text>Nome da unidade desbloqueada</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_REQUIRED_BUILDING_NAME">
-            <Text>Nome do edifício requerido</Text>
+            <Text>Nome da edificação requerida</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_RESOURCE_NAME">
             <Text>Nome do recurso</Text>
@@ -707,7 +707,7 @@
             <Text>Nome da unidade exclusiva</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIQUEBLDG_NAME">
-            <Text>Nome do edifício exclusivo</Text>
+            <Text>Nome da edificação exclusiva</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIQUEIMPR_NAME">
             <Text>Nome da melhoria exclusiva</Text>
@@ -752,10 +752,10 @@
             <Text>Civilopédia</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_LABEL">
-            <Text>Página inicial da Civilopédia</Text>
+            <Text>Página Inicial da Civilopédia</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL">
-            <Text>Página inicial - Conceitos do jogo</Text>
+            <Text>Página Inicial - Conceitos do jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_HELP_TEXT">
             <Text>Civilization V pesquisou toda a história humana - desde o mais profundo passado até os dias de amanhã. O "Conceito do Jogo" é a parte da Civilopédia que explica as partes mais importantes do jogo - de como construir e gerenciar suas cidades, como combater em guerras, como pesquisar tecnologias e assim por diante. A Barra de Navegação a sua esquerda lista os principais conceitos; clique em uma das seções para visualizar as subseções dentro delas.[NEWLINE][NEWLINE]Você poderá ler os Conceitos do Jogo do início ao fim, se você for a mãe do autor, mas, se esse não for o caso, sugerimos que leia conforme vá jogando, segundo suas necessidades. Se fizemos um bom trabalho, o tutorial do jogo será tudo o que você precisará para compreender como navegar no início do jogo.</Text>
@@ -764,7 +764,7 @@
             <Text>A Tecnologia é extremamente importante para o sucesso ou fracasso de sua civilização. São 70 tecnologias no jogo, e cada uma oferece vantagens importantes. Algumas tecnologias permitirão construir novos edifícios e maravilhas, outras aumentarão a produção dos seus terrenos e minas, outras permitirão a construção de ferrovias ou armamentos avançados.[NEWLINE][NEWLINE]É extremamente importante que sua civilização se mantenha competitiva na corrida tecnológica. Se ficar para trás um ou mais passos, poderá encarar o mesmo dilema dos Astecas que enfrentaram mosquetes e canhões espanhóis com espadas e estilingues. E como a própria história nos mostra, o aprimoramento avançado de tecnologias terá sempre sucesso nesses encontros.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNITS_HELP_TEXT">
-			<Text>As Unidades representam a parte móvel da sua Civilização, os trabalhadores em suas colheitas e mineração, os colonizadores que constroem cidades, as Grandes Pessoas que sozinhas podem mudar o rumo de um país, por meio de sua genialidade ou criatividade. E claro, as Unidades Militares do seu Império.[NEWLINE][NEWLINE]A maioria das unidades é construída ou treinada nas cidades. Use-as com sabedoria. Certifique-se sempre de possuir Unidades de Combate suficientes para realizar tarefas militares ou para defender suas cidades, mas não extrapole, senão você terá custos com mendigos em sua Civilização. Atualize sempre que puder suas Unidades Militares e não hesite em destruí-las caso fique sobrecarregado. Da mesma forma, tenha trabalhadores suficientes para o trabalho, mas cuidado pois são caros para manter. Fique de olho em suas finanças.[NEWLINE][NEWLINE]Sempre no início do jogo envie unidades para explorar o mundo! Se você não souber o que se passa ao seu redor, poderá ter surpresas desagradáveis de possíveis vizinhos gananciosos!</Text>
+			<Text>As Unidades representam a parte móvel da sua Civilização, os trabalhadores em suas colheitas e mineração, os colonizadores que constroem cidades, as Grandes Personalidades que sozinhas podem mudar o rumo de um país, por meio de sua genialidade ou criatividade. E claro, as Unidades Militares do seu Império.[NEWLINE][NEWLINE]A maioria das unidades é construída ou treinada nas cidades. Use-as com sabedoria. Certifique-se sempre de possuir Unidades de Combate suficientes para realizar tarefas militares ou para defender suas cidades, mas não extrapole, senão você terá custos com mendigos em sua Civilização. Atualize sempre que puder suas Unidades Militares e não hesite em destruí-las caso fique sobrecarregado. Da mesma forma, tenha trabalhadores suficientes para o trabalho, mas cuidado pois são caros para manter. Fique de olho em suas finanças.[NEWLINE][NEWLINE]Sempre no início do jogo envie unidades para explorar o mundo! Se você não souber o que se passa ao seu redor, poderá ter surpresas desagradáveis de possíveis vizinhos gananciosos!</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_PROMOTIONS_HELP_TEXT">
             <Text>Suas unidades ganharão promoções através de combates e também quando são treinadas em cidades com Quartéis ou outros edifícios militares. Estas promoções melhoram significativamente a capacidade de combate, aumentam a circulação ou a taxa de cura das suas unidades. Uma unidade que possui várias promoções é valiosíssima. Use-as com sabedoria nas batalhas e as atualize sempre que possível.</Text>
@@ -779,7 +779,7 @@
             <Text>Políticas Sociais representam a forma pela qual você escolheu governar seu povo. Você será um governante autoritário, sacrificando um pouco da liberdade em favor da disciplina e aumento da produtividade? Você guiará sua civilização para ter um exército forte ou concentrará seus esforços na expansão cultural? Será um monarca ou um democrata?[NEWLINE][NEWLINE]As Políticas Sociais possuem efeitos concretos no jogo. Algumas poderão aumentar a produção das suas cidades, outras gerar mais riquezas ou ainda criar unidades militares mais eficazes.[NEWLINE][NEWLINE]Não há certo ou errado em suas escolhas nas Políticas Sociais. Uma política pode ser circunstancialmente melhor que a outra (suponhamos que se você estiver rodeado de civilizações agressivas, poderá tomar um caminho diferente se estivesse relativamente isolado), podendo se adequar melhor ao seu estilo de jogo. Experimente-as e veja.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
-            <Text>Por vezes ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade colocava sua cabeça e ombros acima do resto. Neste jogo, esses visionários são chamados "Grandes Pessoas". [NEWLINE] [NEWLINE] Existem cinco tipos diferentes de Grandes Pessoas no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros e Grandes Generais. Cada um tem uma habilidade especial. [NEWLINE] [NEWLINE] Sua civilização adquire Grandes Pessoas por meio da construção de certos edifícios e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram e muito a chegada de Grandes Pessoas. Equilibrar a necessidade de alimentos e o desejo de Grandes Pessoas é um desafio importante da gestão da cidade.</Text>
+            <Text>Por vezes ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade colocava sua cabeça e ombros acima do resto. Neste jogo, esses visionários são chamados "Grandes Personalidades". [NEWLINE] [NEWLINE] Existem cinco tipos diferentes de Grandes Personalidades no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros e Grandes Generais. Cada um tem uma habilidade especial. [NEWLINE] [NEWLINE] Sua civilização adquire Grandes Personalidades por meio da construção de certos edifícios e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram e muito a chegada de Grandes Personalidades. Equilibrar a necessidade de alimentos e o desejo de Grandes Personalidades é um desafio importante da gestão da cidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CIVS_HELP_TEXT">
             <Text>Há uma grande variedade de civilizações e líderes a serem escolhidos no jogo. Cada um possui suas próprias unidades especiais, edifícios e/ou habilidades - a América tem o {TXT_KEY_UNIT_AMERICAN_MINUTEMAN} e o {TXT_KEY_UNIT_AMERICAN_B17}, Roma recebeu a Legião e a Balista, a Rússia o {TXT_KEY_UNIT_RUSSIAN_COSSACK} e o Krepost. Aprender os pontos fortes e fracos de cada civilização torna o jogo mais divertido, tornando-o diferente a cada vez. Se você jogar com o Egito, utilizando a mesma estratégia de quando joga com a Índia, você pode não ter entendido muito bem o sentido do jogo.</Text>
@@ -803,7 +803,7 @@
             <Text>O mundo está recheado de vários "recursos" que farão sua Civilização crescer e se desenvolver, por exemplo: o gado, trigo, carvão, ferro, baleias e petróleo. Durante o jogo, você vai querer construir suas cidades próximas a estes recursos e aproveitar as bonificações os mesmos. Alguns Recursos - peixe e ouro, por exemplo - são visíveis bem no início do jogo. Já outros - como alumínio, petróleo ou urânio - estarão ocultos até que sua Civilização domine a tecnologia apropriada.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_HELP_TEXT">
-            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, minas a céu aberto, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
+            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, pedreiras, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECH_PAGE_LABEL">
             <Text>Página Inicial - Tecnologias</Text>
@@ -815,7 +815,7 @@
             <Text>Página Inicial - Promoções</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_BUILDINGS_PAGE_LABEL">
-            <Text>Página Inicial - Edifícios</Text>
+            <Text>Página Inicial - Edificações</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_WONDERS_PAGE_LABEL">
             <Text>Página Inicial - Maravilhas</Text>
@@ -824,7 +824,7 @@
             <Text>Página Inicial - Políticas Sociais</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_PEOPLE_PAGE_LABEL">
-            <Text>Especialistas e Grandes Pessoas</Text>
+            <Text>Especialistas e Grandes Personalidades</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CIVILIZATIONS_PAGE_LABEL">
             <Text>Página Inicial - Civilizações e Líderes</Text>
@@ -912,7 +912,7 @@
             <Text>Políticas Sociais</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CATEGORY_9_LABEL">
-            <Text>Especialistas e Grandes Pessoas</Text>
+            <Text>Especialistas e Grandes Personalidades</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CATEGORY_10_LABEL">
             <Text>Civilizações e Líderes</Text>
@@ -984,7 +984,7 @@
             <Text>Unidades exclusivas:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIQUEBLDG_LABEL">
-            <Text>Edifícios exclusivos:</Text>
+            <Text>Edificações exclusivas:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_UNIQUEIMPRV_LABEL">
             <Text>Melhorias exclusivas:</Text>
@@ -1062,7 +1062,7 @@
             <Text>Produção:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GP_LABEL">
-            <Text>Grande Pessoa:</Text>
+            <Text>Grande Personalidade:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_COMBATTYPE_LABEL">
             <Text>Tipo de combate:</Text>
@@ -1086,7 +1086,7 @@
             <Text>Encontrado em:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_RESOURCESFOUND_LABEL">
-            <Text>Recursos Encontrados:</Text>
+            <Text>Recursos encontrados:</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_FOUNDON_LABEL">
             <Text>Pode ser construído em:</Text>
@@ -1143,7 +1143,7 @@
             <Text>Especialistas</Text>
         </Row>
         <Row Tag="TXT_KEY_PEOPLE_SECTION_2">
-            <Text>Grande Pessoa</Text>
+            <Text>Grande Personalidade</Text>
         </Row>
         <Row Tag="TXT_KEY_CIVILIZATIONS_SECTION_1">
             <Text>Civilizações</Text>
@@ -1219,7 +1219,7 @@
             <Text>Assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_15">
-            <Text>Grandes Pessoas e Especialistas</Text>
+            <Text>Grandes Person. e Especialistas</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_16">
             <Text>Cidades-Estado</Text>
@@ -1322,7 +1322,7 @@
             <Text>Quantidade de conselhos que você receberá dos seus assessores.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RESET_TUTORIAL">
-            <Text>Resetar as mensagens dos assessores</Text>
+            <Text>Restaurar as mensagens dos assessores</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RESET_TUTORIAL_TT">
             <Text>Reinicia o sistema de assessoramento de modo que receberá todas as mensagens de seus assessores.</Text>
@@ -1373,40 +1373,40 @@
             <Text>Encerrar automaticamente o turno no modo multijogador</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN_TT">
-            <Text>Habilitar autoturnos cíclicos em jogos de multijogador.</Text>
+            <Text>Habilitar a troca de turno automático em jogos multijogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN">
             <Text>Encerrar automaticamente o turno no modo um jogador</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN_TT">
-            <Text>Habilitar autoturnos cíclicos no modo um jogador.</Text>
+            <Text>Habilitar a troca de turno automático no modo um jogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_END_TURN_TIMER_LENGTH">
             <Text>Duração para o fim de um turno: 10 segundos</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_1_TIMER_LENGTH">
-            <Text>Tempo de Info no Mapa: {1_Num} segundos</Text>
+            <Text>Tempo das informações do mapa: {1_Num} {1: plural 1?segundo; other?segundos;}</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_1_TIMER_LENGTH_TT">
-            <Text>Número de segundos de exibição das dicas no mapa.</Text>
+            <Text>Número de segundos que levará para que a janela de informações do mapa apareça.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_2_TIMER_LENGTH">
-            <Text>Duração da exibição de dicas nível 2: {1_Num} segundos</Text>
+            <Text>Duração da janela de informações 2: {1_Num} {1: plural 1?segundo; other?segundos;}</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_2_TIMER_LENGTH_TT">
-            <Text>Número de segundos de exibição das dicas do nível 2 no mapa.</Text>
+            <Text>Número de segundos que levará para o nível 2 da janela de informação aparecer.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES">
-            <Text>Turnos entre auto gravação:</Text>
+            <Text>Turnos para o salvam. automático:</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES_TT">
-            <Text>A periodicidade em que o jogo salvará automaticamente.</Text>
+            <Text>A frequência em que o jogo salvará automaticamente.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT">
-            <Text>Número máximo de auto gravações:</Text>
+            <Text>Máximo de salvamentos automáticos:</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT">
-            <Text>Número máximo de auto gravações mantidas até que o jogo comece apagar as antigas</Text>
+            <Text>Número máximo de salvamentos automáticos mantidos até que o jogo comece apagar os antigos</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI">
             <Text>Tamanho automático da interface</Text>
@@ -1433,10 +1433,10 @@
             <Text>A visão estratégia usará resolução com alta qualidade de textura, permitindo um zoom maior. Isso vai exigir mais do seu computador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SCORE_LIST">
-            <Text>Lista de Pontuação em modo Um Jogador</Text>
+            <Text>Lista de pontuações em modo "Um Jogador"</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SCORE_LIST_TT">
-            <Text>Exibe a lista simples de classificação em jogos de um jogador.</Text>
+            <Text>Exibe a lista simples de classificação de jogos de Um Jogador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_CAMERA_ZOOM">
             <Text>Alternar modo de cursor de zoom</Text>
@@ -1463,19 +1463,19 @@
             <Text>Você terá que reiniciar para que as alterações sejam aplicadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_VSYNC">
-            <Text>VSync</Text>
+            <Text>Sincronização vertical</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MINIMIZE_GRAY_TILES">
-            <Text>Minimizar Hexágonos Cinzas</Text>
+            <Text>Minimizar hexágonos cinzas</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MINIMIZE_GRAY_TILES_TT">
-            <Text>Minimiza hexágonos cinzas enquanto percorre o mapa. Isso pode causar sobressaltos.</Text>
+            <Text>Minimiza os hexágonos cinzas que são vistos ao navegar pelo mapa. Pode causar imagens borradas.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_FADE_SHADOWS">
-            <Text>Permitir Esmaecimento de Sombra</Text>
+            <Text>Permitir esmaecimento de sombra</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_FADE_SHADOWS_TT">
-            <Text>Permite que sombras desbotem em zooms distantes. Melhora o desempenho nestes níveis de zoom.</Text>
+            <Text>Permite que sombras desbotem em níveis de zoom distantes. Melhora o desempenho nestes níveis de zoom.</Text>
         </Row>		
         <Row Tag="TXT_KEY_OPSCREEN_BLOCK_LOAD">
             <Text>Aguardar carregamento total do terreno</Text>
@@ -1490,19 +1490,19 @@
             <Text>Permite fronteiras culturais avançadas. Isso usará mais recursos do hardware de seu computador.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MSAA">
-            <Text>Anti-Aliasing</Text>
+            <Text>Anti-serrilhado</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MSAA_OFF">
-            <Text>DESL</Text>
+            <Text>Desativado</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MSAA_2X">
-            <Text>2X MSAA</Text>
+            <Text>MSAA 2X</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MSAA_4X">
-            <Text>4X MSAA</Text>
+            <Text>MSAA 4X</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MSAA_8X">
-            <Text>8X MSAA</Text>
+            <Text>MSAA 8X</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SKIP_INTRO_VIDEO">
             <Text>Pular vídeo de introdução</Text>
@@ -1514,7 +1514,7 @@
             <Text>Qualidade da sombra</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_FOW_QUALITY">
-            <Text>Qualidade da névoa de guerra</Text>
+            <Text>Qualidade da névoa</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TERRAIN_DETAIL_LEVEL">
             <Text>Detalhes do terreno</Text>
@@ -1553,7 +1553,7 @@
             <Text>Você tem certeza?</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_DEFAULTS_BUTTON_TT">
-            <Text>Resetar configurações para os valores padrões.</Text>
+            <Text>Restaurar configurações para os valores padrões.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_CANCEL_BUTTON">
             <Text>Cancelar</Text>
@@ -1574,7 +1574,7 @@
             <Text>Salva as opções e retorna para o Menu.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_RESOLUTION_TIMER">
-            <Text>Você deseja manter esta resolução? (Será resetado ao esgotar o tempo)</Text>
+            <Text>Você deseja manter esta resolução? (Será restaurado ao esgotar o tempo)</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_LANGUAGE_TIMER">
             <!--Text>Para alterar o idioma irá recarregar toda interface. De acordo? </Text-->
@@ -1614,23 +1614,23 @@
             <Text>Jogador experiente</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_MEDIUM">
-            <Text>Novo em Civ 5</Text>
+            <Text>Novo em Civilization 5</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LOW">
-            <Text>Novo em Civ.</Text>
+            <Text>Novo em Civilization</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_OFF">
             <Text>Desligar conselhos</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SELECT_LANG">
-            <Text>Linguagem escrita</Text>
+            <Text>Idioma escrito</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SELECT_SPOKEN_LANG">
-            <Text>Linguagem falada</Text>
+            <Text>Idioma falado</Text>
         </Row>
         <!--Misc UI Text Overlay and  Help text-->
         <Row Tag="TXT_KEY_RESEARCH_ONGOING">
-            <Text>PESQUISANDO:</Text>
+            <Text> PESQUISANDO: </Text>
         </Row>
         <Row Tag="TXT_KEY_RESEARCH_FINISHED">
             <Text>CONCLUÍDO:</Text>
@@ -1684,7 +1684,7 @@
             <Text>Ainda não disponível</Text>
         </Row>
         <Row Tag="TXT_KEY_TECH_AVAILABLE">
-            <Text>Disponível</Text>
+            <Text> Disponível</Text>
         </Row>
         <Row Tag="TXT_KEY_TECH_CURR_RESEARCH">
             <Text>Pesquisando</Text>
@@ -1905,49 +1905,49 @@
             <Text>Movimento rápido</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_QUICK_MOVEMENT_TT" >
-            <Text>Unidades se movem instanteneamente para o seu destino</Text>
+            <Text>Unidades se movem instantaneamente para o seu destino</Text>
         </Row>		
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_COMBAT">
             <Text>Combate rápido em "Multijogador"</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_COMBAT_TT">
-            <Text>Habilita resolução rápida do combate em jogos "multijogador".</Text>
+            <Text>Habilita resolução rápida do combate em jogos "Multijogador".</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_MOVEMENT">
-            <Text>Movimento rápido em "Multijogador"</Text>
+            <Text>Movimento rápido em modo "Multijogador"</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_MOVEMENT_TT">
-            <Text>Habilita movimento rápido de unidades em jogos "multijogador".</Text>
+            <Text>Habilita movimento rápido de unidades em jogos "Multijogador".</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_COMBAT">
-            <Text>Combate rápido em "Um Jogador"</Text>
+            <Text>Combate rápido em modo "Um Jogador"</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_COMBAT_TT">
-            <Text>Habilita resolução rápida do combate em jogos "um jogador".</Text>
+            <Text>Habilita resolução rápida do combate em jogos "Um Jogador".</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_MOVEMENT">
             <Text>Movimento rápido em "Um Jogador"</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_MOVEMENT_TT">
-            <Text>Habilita movimento rápido de unidades em jogos "um jogador".</Text>
+            <Text>Habilita movimento rápido de unidades em jogos "Um Jogador".</Text>
         </Row>		
         <Row Tag="TXT_KEY_OPSCREEN_SKIP_INTRO_VIDEO_TT">
             <Text>Pula a exibição do vídeo de introdução.</Text>
         </Row>		
 		<Row Tag="TXT_KEY_EO_SORT_FAITH">
-			<Text>Ordernar por Fé</Text>
+			<Text>Ordenar por Fé</Text>
 		</Row>		
         <Row Tag="TXT_KEY_OPSCREEN_GPU_TEXTURE_DECODE">
-            <Text>Decodificar Textura pela GPU</Text>
+            <Text>Decodificação de textura pela GPU</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_GPU_TEXTURE_DECODE_TT">
             <Text>A GPU será usada para decodificar texturas comprimidas quando apropriado.</Text>
         </Row>		
         <Row Tag="TXT_KEY_OPSCREEN_ENABLE_MAP_INERTIA">
-            <Text>Habilitar Inércia do Mapa</Text>
+            <Text>Habilitar inércia do mapa</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_ENABLE_MAP_INERTIA_TT">
-            <Text>Habilita a inércia quando estiver arrastando o mapa.</Text>
+            <Text>Habilita a inércia ao arrastar o mapa.</Text>
         </Row>		
 		<Row Tag="TXT_KEY_MENU_RESTART_GAME_BUTTON">
 			<Text>REINICIAR JOGO</Text>
@@ -1980,13 +1980,13 @@
           <Text>OPÇÕES MULTIJOGADOR</Text>
         </Row>		
         <Row Tag="TXT_KEY_OPSCREEN_MP_SCORE_LIST">
-          <Text>Lista de Pontuação em modo Multijogador</Text>
+          <Text>Lista de pontuações em modo "Multijogador"</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_MP_SCORE_LIST_TT">
-          <Text>Exibe uma lista simples de pontuação em jogos multijogador.</Text>
+          <Text>Exibe uma lista simples de pontuação de jogos Multijogador.</Text>
         </Row>		
         <Row Tag="TXT_KEY_OPSCREEN_QUICK_SELECTION_ADVANCE">
-            <Text>Avanço Rápido de Seleção</Text>
+            <Text>Avanço de rápido de seleção</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_QUICK_SELECTION_ADVANCE_TT">
             <Text>A próxima unidade será automaticamente selecionada assim que um comando for dado e não aguardará o término das animações.</Text>
@@ -1994,10 +1994,10 @@
 
         <!-- Multiplayer Options Text -->
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_OPTIONS">
-          <Text>Notificações de Turnos Pitboss</Text>
+          <Text>Notif. de turnos do Pitboss</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_HOST_OPTIONS">
-          <Text>Notificações de Turnos Pitboss - Anfitrião</Text>
+          <Text>Notif.(anfitrião Pitboss)</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE">
           <Text>Convite Steam</Text>
@@ -2006,28 +2006,28 @@
           <Text>Receber um convite Steam quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o jogo for jogado na Internet e você seja amigo do anfitrião do jogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL">
-          <Text>Email</Text>
+          <Text>E-mail</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_TT">
-          <Text>Receber um email quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o anfitrião tiver configurado o jogo para notificações por email.</Text>
+          <Text>Receber um e-mail quando for sua vez em um jogo Pitboss. Esta notificação só funciona se o anfitrião tiver configurado o jogo para notificações por e-mail.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_ADDRESS">
-          <Text>Endereço de Email</Text>
+          <Text>Endereço de E-mail</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_ADDRESS_TT">
-          <Text>Endereço de Email para receber notificações de turnos em jogos Pitboss.</Text>
+          <Text>Endereço de E-mail para receber notificações de turnos em jogos Pitboss.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_HOST">
-          <Text>Servidor de Email (SMTP)</Text>
+          <Text>Servidor de E-mail (SMTP)</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_HOST_TT">
           <Text>Servidor SMTP para enviar notificações de turnos como anfitrião.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_USERNAME">
-          <Text>Nome de Usuário</Text>
+          <Text>Nome de usuário</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_USERNAME_TT">
-          <Text>Nome de Usuário para o servidor SMTP.</Text>
+          <Text>Nome de usuário para o servidor SMTP.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORD">
           <Text>Senha</Text>
@@ -2036,19 +2036,19 @@
           <Text>Senha para o servidor SMTP.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_RETYPE_PASSWORD">
-          <Text>Reinforme a Senha</Text>
+          <Text>Repetir senha</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_RETYPE_PASSWORD_TT">
-          <Text>Reinformar a Senha</Text>
+          <Text>Repetir a senha</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_MATCH">
-          <Text>Senhas ok</Text>
+          <Text>Coincidem</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_MATCH_TT">
           <Text>As senhas SMTP são iguais.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_NOT_MATCH">
-          <Text>Senhas não ok</Text>
+          <Text>Não coincidem</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_NOT_MATCH_TT">
           <Text>As senhas SMTP não são iguais.</Text>
@@ -2076,13 +2076,13 @@
       
       <!-- Turn Notification Emails -->
       <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_SUBJECT">
-        <Text>Notificação de Turno Civilization 5:  Jogo "{1_GameName}" Turno {2_Turn}</Text>
+        <Text>Aviso de turno de Civilization 5:  Jogo "{1_GameName}" Turno {2_Turn}</Text>
       </Row>
       <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_GENERIC_RECIPENT">
-        <Text>Jogadores Pitboss</Text>
+        <Text>Jogadores do Pitboss</Text>
       </Row>
       <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_SENDER">
-        <Text>Pitboss Civilization 5</Text>
+        <Text>Pitboss de Civilization 5</Text>
       </Row>
       <Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_BODY_HEADER">
         <Text>Olá!&lt;br&gt;&lt;br&gt;É a vez do seu turno no jogo "{1_GameName}".&lt;br&gt;&lt;br&gt;</Text>

@@ -179,7 +179,7 @@
         </Row>
         <!--Demands tribute -->
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">
-            <Text>O céu... o céu exige sangue! Por favor me ajude, senão Kizin e seus demônios poderão vir atrás de nós.</Text>
+            <Text>O céu... o céu exige sangue! Por favor, me ajude, senão Kizin e seus demônios poderão vir atrás de nós.</Text>
         </Row>
         <!--Agrees -->
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_3">
@@ -194,7 +194,7 @@
         </Row>
         <!--Let's hear it -->
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_3">
-            <Text>Continue.</Text>
+            <Text>Continuar.</Text>
         </Row>
         <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_4">
             <Text>Estou ouvindo.</Text>

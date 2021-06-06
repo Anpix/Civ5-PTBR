@@ -173,7 +173,7 @@
 			<Text>(embarcado)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_MIL_UNIT_STRENGTH">
-			<Text>{1_CivName} ({2_Player}), {3_Num}[ICON_STRENGTH], {4_Num}HP {5_Num}</Text>
+			<Text>{1_CivName} ({2_Player}), {3_Num}[ICON_STRENGTH], {4_Num}PV {5_Num}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_CIV">
 			<Text>{@2_UnitName} {@2: gender masculine?{@2: plural 1?{@1[1]}; other?{@1[3]};}; feminine?{@2: plural 1?{@1[2]}; other?{@1[4]};};}</Text>
@@ -182,7 +182,7 @@
 			<Text>{1_PlayerName}: {2_UnitName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_UNIT_HP">
-			<Text>{1_Num} HP</Text>
+			<Text>{1_Num}PV</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OWNED_CIV">
 			<Text>Ladrilho adquirido {2_CivName: gender masculine?{2_CivName: plural 1?pelo; other?pelos;}; feminine?{2_CivName: plural 1?pela; other?pelas;};} {1_CivName:textkey}</Text>
@@ -708,7 +708,7 @@
 			<Text>Foco em [ICON_CULTURE]Cultura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GREAT_PERSON_TEXT">
-			<Text>Foco em [ICON_GREAT_PEOPLE]Grande Pessoa</Text>
+			<Text>Foco em [ICON_GREAT_PEOPLE]Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FOOD_TT">
 			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_FOOD]Alimento.</Text>
@@ -726,7 +726,7 @@
 			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GREAT_PERSON_TT">
-			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_GREAT_PEOPLE]Grandes Pessoas.</Text>
+			<Text>Clique aqui para que esta cidade acentue a geração de [ICON_GREAT_PEOPLE]Grandes Personalidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BALANCED_TT">
 			<Text>Clique aqui para que esta Cidade use a distribuição padrão dos cidadãos.</Text>
@@ -762,7 +762,7 @@
 			<Text>Alimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_EMPTY_SLOT">
-			<Text>Local vazio para especialistas</Text>
+			<Text>Espaço vazio para especialista</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNEMPLOYED_TEXT">
 			<Text>Cidadãos desempregados</Text>
@@ -873,7 +873,7 @@
 			<Text>Progresso de Grande General</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_GP_PROGRGRESS">
-			<Text>Progresso de Grande Pessoa</Text>
+			<Text>Progresso de Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RETURN_TO_MAP">
 			<Text>Voltar ao mapa</Text>

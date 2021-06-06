@@ -939,7 +939,7 @@
  			<Text>Saudações da Alemanha. Espero que você esteja bem.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_POLITE_HELLO_1">
- 			<Text>Olá novamente, querido amigo. A Índia lhe dá as boas vindas de braços abertos.</Text>
+ 			<Text>Olá novamente, querido amigo. A Índia lhe dá as boas-vindas de braços abertos.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_POLITE_HELLO_1">
  			<Text>Os espíritos profetizaram sua chegada. O que o traz aqui, amigo?</Text>
@@ -981,7 +981,7 @@
  			<Text>Bem-vindo. O que o traz a rica e poderosa China?</Text>
  		</Row>
  		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_NEUTRAL_HELLO_1">
- 			<Text>O rei e faraó do Egito te dá as boas vindas.</Text>
+ 			<Text>O rei e faraó do Egito te dá as boas-vindas.</Text>
  		</Row>
  		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_NEUTRAL_HELLO_1">
  			<Text>Bem-vindo à Inglaterra.</Text>

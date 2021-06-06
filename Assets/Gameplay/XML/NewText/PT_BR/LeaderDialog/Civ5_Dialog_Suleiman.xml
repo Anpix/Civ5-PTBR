@@ -38,10 +38,10 @@
 			<Text>Você foi útil... até agora. Prepare-se para a guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_3">
-			<Text>Pela minha barba e barriga, seu futuro está atrás de você! Prepare-se para a guerra!</Text>
+			<Text>Pelas barbas do profeta, seu futuro está atrás de você! Prepare-se para a guerra!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_1">
-			<Text>Isso é terrível! Eu fui derrotado! Pela minha barba e barriga, como isso pode ter acontecido?</Text>
+			<Text>Isso é terrível! Eu fui derrotado! Pelas barbas do profeta, como isso pode ter acontecido?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_2">
 			<Text>Meus exércitos foram vencidos, tudo está perdido. Como isso é possível?</Text>
@@ -80,13 +80,13 @@
 			<Text>Como...?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_1">
-			<Text>Pela minha barba e barriga, estou muito satisfeito em conhecê-lo! Eu sou Suleiman, líder dos poderosos Otomanos!</Text>
+			<Text>Pelas barbas do profeta, estou muito satisfeito em conhecê-lo! Eu sou Solimão, líder dos poderosos Otomanos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_2">
-			<Text>A nação Otomana lhe dá saudações, estrangeiro! Eu sou Suleiman!</Text>
+			<Text>A nação Otomana lhe dá saudações, estrangeiro! Eu sou Solimão!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_3">
-			<Text>Saudações, estrangeiro! Eu sou Suleiman, líder dos Otomanos! Deixe-nos celebrar esta grande ocasião!</Text>
+			<Text>Saudações, estrangeiro! Eu sou Solimão, líder dos Otomanos! Deixe-nos celebrar esta grande ocasião!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_1">
 			<Text>Bom dia.</Text>
@@ -149,7 +149,7 @@
 			<Text>E?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_7">
-			<Text>Continue.</Text>
+			<Text>Continuar.</Text>
 			</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_LOSEWAR_1">
 			<Text>Quero parabenizá-lo pela sua vitória e espero que essa paz dure para sempre.</Text>
@@ -215,13 +215,13 @@
 			<Text>Descendente de macacos! Você realmente acha que pode me subordinar? Você deve estar louco!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_HAPPY">
-			<Text>É assim que amigos tratam uns aos outros? Pela minha barba e barriga, eu acho que não!</Text>
+			<Text>É assim que amigos tratam uns aos outros? Pelas barbas do profeta, eu acho que não!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_NEUTRAL">
 			<Text>Por que não pergunta ao meu filho primogênito também? Não!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_ANGRY">
-			<Text>Você está na frente agora. Mas, pela minha barba e barriga, não será sempre assim!</Text>
+			<Text>Você está na frente agora. Mas, pelas barbas do profeta, não será sempre assim!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_HAPPY">
 			<Text>Claro! Minha generosidade é conhecida, não é?</Text>

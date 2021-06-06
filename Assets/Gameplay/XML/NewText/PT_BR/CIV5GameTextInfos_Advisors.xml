@@ -55,7 +55,7 @@
 			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está.  Em combate, ambas as unidades atacam e se defendem e podem sofrer danos. Ao final do combate, uma das duas pode ser destruída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
-			<Text>Combate corpo-a-corpo</Text>
+			<Text>Combate corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
 			<Text>Mostre a unidade de combate</Text>
@@ -496,13 +496,13 @@
 		  <Text>Mostre a unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
-		  <Text>Parabéns! Uma Grande Pessoa nasceu em sua civilização! Essas pessoas brilhantes podem fazer uma série de coisas para você: iniciar uma Era Dourada, construir uma melhoria única no Império ou usar seu poder especial de grande efeito!</Text>
+		  <Text>Parabéns! Uma Grande Personalidade nasceu em sua civilização! Essas pessoas brilhantes podem fazer uma série de coisas para você: iniciar uma Era Dourada, construir uma melhoria única no Império ou usar seu poder especial de grande efeito!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
-		  <Text>Grande Pessoa</Text>
+		  <Text>Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_ACTIVATE_BUTTON">
-		  <Text>Mostre a Grande Pessoa</Text>
+		  <Text>Mostre a Grande Personalidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_BODY">
 			<Text>Há várias maneiras de se tornar a maior civilização e ganhar o jogo. Na verdade, são quatro maneiras: pela força militar, pela tecnologia, pela diplomacia ou pela cultura!</Text>
@@ -826,7 +826,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SPECIALISTS_AND_GREAT_PEOPLE">
-			<Text>Especialistas e Grandes Pessoas</Text>
+			<Text>Especialistas e Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_MINOR_CIV_LIST">
 			<Text>Cidades-Estado</Text>
@@ -1369,7 +1369,7 @@
 			<Text>Obrigado pela informação, mas não me lembre novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
-			<Text>Por favor não me diga isso de novo.</Text>
+			<Text>Por favor, não me diga isso de novo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFORMATION">
 			<Text>Assessor de Informações</Text>

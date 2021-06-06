@@ -281,7 +281,7 @@
 			<Text>{@1_GreatPersonType}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_GREAT_PERSON_TILE_IMPROVEMENT_CULTURE">
-			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada hexágono com melhorias de Grandes Pessoas</Text>
+			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada hexágono com melhorias de Grandes Personalidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_LANDMARK_CULTURE">
 			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada Ponto de Referência arqueológica</Text>
@@ -730,7 +730,7 @@
 			<Text>Pontos de Referência Históricos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS_HELP">
-			<Text>Melhorias de Grandes Pessoas fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e Pontos de Referência construídos por Arqueólogos fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Arqueologia.</Text>
+			<Text>Melhorias de Grandes Personalidades fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e Pontos de Referência construídos por Arqueólogos fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Arqueologia.</Text>
 		</Row>
 		<!-- Resolution Decisions-->
 		<Row Tag="TXT_KEY_RESOLUTION_DECISION_NONE">

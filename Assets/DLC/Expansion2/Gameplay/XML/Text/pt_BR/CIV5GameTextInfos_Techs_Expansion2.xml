@@ -12,7 +12,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SWORDSMAN}[ENDCOLOR], uma unidade de ataque corpo-a-corpo extremamente poderosa.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SWORDSMAN}[ENDCOLOR], uma unidade de ataque corpo a corpo extremamente poderosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP">
 			<Text>Revela [ICON_RES_IRON][COLOR_POSITIVE_TEXT]{TXT_KEY_RESOURCE_IRON[1]}[ENDCOLOR] e permite aos seus {TXT_KEY_UNIT_WORKER[2]} [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILD_REMOVE_JUNGLE}[ENDCOLOR], limpando o hexágono para que outras melhorias possam ser construídas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPEARMAN}[ENDCOLOR], uma unidade militar forte contra inimigos montados.</Text>

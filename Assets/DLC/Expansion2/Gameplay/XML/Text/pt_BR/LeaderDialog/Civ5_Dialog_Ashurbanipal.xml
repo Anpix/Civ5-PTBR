@@ -7,7 +7,7 @@
         <!--General phrases -->
         <!--Greeting (first time meeting) -->
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_FIRSTGREETING_1">
-            <Text>Eu sou Assurbanipal da Assíria. Quem é esse que está diante de mim?</Text>
+            <Text>Eu sou Assurbanípal da Assíria. Quem é esse que está diante de mim?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_FIRSTGREETING_2">
             <Text>Eu o recebo ao grande reino da Assíria... você veio ver a minha biblioteca?</Text>
@@ -120,7 +120,7 @@
             <Text>Vá em frente.</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LETSHEARIT_2">
-            <Text>Continue.</Text>
+            <Text>Continuar.</Text>
         </Row>
         <!--Happy -->
         <!--Greetings (subsequent meetings) -->

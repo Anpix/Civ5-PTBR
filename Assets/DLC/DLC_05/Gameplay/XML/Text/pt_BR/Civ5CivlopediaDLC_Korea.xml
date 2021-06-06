@@ -85,7 +85,7 @@
 			<Text>A Coreia do Sul é famosa por sua cultura de vídeo games, especialmente um caso de amor com o título clássico da Blizzard "Starcraft". Jogos e torneios profissionais recebem atenção da mídia em todo o país, incluindo transmissões em várias redes de televisão. [NEWLINE][NEWLINE]Os caracteres chineses para Choson eram muitas vezes traduzidos em Inglês como "Alvorada Tranquila", que mais tarde evoluiu para o apelido de "A Terra da Alvorada Tranquila", referindo-se a toda a Coréia. [NEWLINE][NEWLINE]Kimchi, o prato nativo amplamente reconhecido da Coréia, em geral, acompanha todas as refeições da cozinha Coreana. Normalmente feito de repolho fermentado, rabanete, cebolinha ou pepinos, existem literalmente centenas de receitas originais e variedades de Kimchi disponíveis hoje. [NEWLINE][NEWLINE]O esporte nacional da Coréia do Sul, Tae Kwon Do, é atribuído aos nove "Kwans" originais, ou escolas de Tae Kwon Do, que se desenvolveram após o fim da ocupação Japonesa da Coreia. Acredita-se que o esporte em si tenha se originado com a arte marcial tradicional Coreana conhecida como "Taekkyeon".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SEJONG_LIVED">
-			<Text>1397 - 1450 d.C.</Text>
+			<Text>1397-1450 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SEJONG_NAME">
 			<Text>Sejong - O Grande</Text>
@@ -142,7 +142,7 @@
 			<Text>Fatos Curiosos de Sejong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SEJONG_FACTOID_TEXT">
-			<Text>A Marinha da República da Coreia emprega uma classe de Destróier de mísseis guiados conhecida como "Rei Sejong, o Grande", desenvolvida no programa "Destróier Coreano Experimental (KDX)". [NEWLINE][NEWLINE]A gravura do Rei Sejong - o Grande, aparece na nota (moeda) Coreana de 10.000 Won.[NEWLINE][NEWLINE]Um drama de televisão Coreana, produzida em 2008, intitulado "Daewang Sejong", narrou a vida de Sejong - o Grande, durante o seu reinado. [NEWLINE][NEWLINE]Designado um Patrimônio Mundial da UNESCO em 2009, o túmulo do rei Sejong, conhecido como Yeongneung, está localizado em Gyeonggi-do na atual Coréia do Sul.</Text>
+			<Text>A Marinha da República da Coreia emprega uma classe de Contratorpedeiro de mísseis guiados conhecida como "Rei Sejong, o Grande", desenvolvida no programa "Contratorpedeiro Coreano Experimental (KDX)". [NEWLINE][NEWLINE]A gravura do Rei Sejong - o Grande, aparece na nota (moeda) Coreana de 10.000 Won.[NEWLINE][NEWLINE]Um drama de televisão Coreana, produzida em 2008, intitulado "Daewang Sejong", narrou a vida de Sejong - o Grande, durante o seu reinado. [NEWLINE][NEWLINE]Designado um Patrimônio Mundial da UNESCO em 2009, o túmulo do rei Sejong, conhecido como Yeongneung, está localizado em Gyeonggi-do na atual Coréia do Sul.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_TEXT">
 			<Text>Estes grandes barcos encouraçados da Dinastia Choson desempenharam um papel crucial na defesa da Coreia durante as invasões Japonesas do século XVI. Normalmente tripulados por igualmente elogiados soldados e remadores, o Barco Tartaruga ofereceu um agressivo assalto naval para a marinha da Coréia. Projetado para causar medo no inimigo, cada Barco Tartaruga apresentava uma figura de dragão esculpida na proa, que, dizem, emitia uma nuvem de fumaça sulfurosa para disfarçar abordagem da embarcação. Ao contrário dos projetos familiares usados pelos navios do período, o Barco Tartaruga não tinha convés superior. O nível superior do navio foi coberto de espinhos de ferro para impedir o embarque, com os remadores e soldados segregados em decks separados abaixo. Armado com até duas dezenas de canhões e outras armas de projétil de pequeno porte, o Barco Tartaruga era um inimigo perigoso para as marinhas despreparadas dos inimigos da Coréia.</Text>
@@ -160,7 +160,7 @@
 			<Text>Unidade de foguetes anti-infantaria da Era Medieval. Forte contra unidades terrestres, mas fraca contra cidades. Somente a Coreia pode construí-la. Substitui o Trabuco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_STRATEGY">
-			<Text>O Veículo de Fogo é extremamente eficaz contra unidades terrestres inimigas. É lenta e vulnerável a ataques corpo-a-corpo inimigos; sempre deve ser apoiado por outras unidades quando estiver no campo de batalha. O Veículo de Fogo deve ser "preparado" (1 Ponto de Movimento) antes de atacar.</Text>
+			<Text>O Veículo de Fogo é extremamente eficaz contra unidades terrestres inimigas. É lenta e vulnerável a ataques corpo a corpo inimigos; sempre deve ser apoiado por outras unidades quando estiver no campo de batalha. O Veículo de Fogo deve ser "preparado" (1 Ponto de Movimento) antes de atacar.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

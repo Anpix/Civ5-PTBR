@@ -278,7 +278,7 @@
             <Text>FECHAR PESQUISA</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_GREAT_PERSON_CHOOSE_TECH">
-            <Text>Uma Grande Pessoa descobriu uma nova tecnologia para sua civilização.</Text>
+            <Text>Uma Grande Personalidade descobriu uma nova tecnologia para sua civilização.</Text>
         </Row>
         <Row Tag="TXT_KEY_MISC_UNKNOWN">
             <Text>Desconhecido</Text>
@@ -470,7 +470,7 @@
 		  <Text>{1_PlayerName:textkey} é o novo servidor do jogo.</Text>
 		</Row>		
         <Row Tag="TXT_KEY_EXPERIENCE_POPUP">
-            <Text>[COLOR_XP_BLUE]+{1_Num} de XP[ENDCOLOR]</Text>
+            <Text>[COLOR_XP_BLUE]+{1_Num} de EXP[ENDCOLOR]</Text>
         </Row>
         <Row Tag="TXT_KEY_TALK_TO_PLAYER">
             <Text>Clique aqui para falar com o dirigente desta Cidade</Text>
@@ -658,7 +658,7 @@
             <Text>{1_Num} [ICON_CULTURE] dos Terrenos</Text>
         </Row>
         <Row Tag="TXT_KEY_CULTURE_FROM_TRAITS">
-            <Text>{1_Num} [ICON_CULTURE] da Característica Única</Text>
+            <Text>{1_Num} [ICON_CULTURE] pela Característica Única</Text>
         </Row>
         <Row Tag="TXT_KEY_CULTURE_WONDER_BONUS">
             <Text>+{1_Num}% [ICON_CULTURE] por possuir uma Maravilha Mundial</Text>
@@ -843,7 +843,7 @@
             <Text>Ruínas exploradas!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_GREAT_PERSON_BORN">
-            <Text>Uma Grande Pessoa nasceu!</Text>
+            <Text>Uma Grande Personalidade nasceu!</Text>
         </Row>
         <Row Tag="TXT_KEY_POP_CSTATES">
             <Text>Cidades-Estado</Text>
@@ -1058,7 +1058,7 @@
             <Text>{1_Num} da Tecnologia</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_MY_SCORE_FUTURE_TECH">
-            <Text>{1_Num} da Tecnologia Futura</Text>
+            <Text>{1_Num} por Futuras Tecnologias</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_DIPLOMACY_BUTTON">
             <Text>DIPLOMACIA</Text>
@@ -1192,10 +1192,10 @@
         </Row>
 		<!-- new text -->
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON">
-		  <Text>ESCOLHER GRANDE PESSOA</Text>
+		  <Text>ESCOLHER GRANDE PERSONALIDADE</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON_TT">
-		  <Text>Você pode escolher uma Grande Pessoa gratuitamente para o seu Império!</Text>
+		  <Text>Você pode escolher uma Grande Personalidade gratuitamente para o seu Império!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PROMOTION">
 		  <Text>PROMOVER UMA UNIDADE</Text>

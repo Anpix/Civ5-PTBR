@@ -43,7 +43,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_TITLE">
-			<Text>Tanques Ultrapesados</Text>
+			<Text>Tanques</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>			
 		</Row>

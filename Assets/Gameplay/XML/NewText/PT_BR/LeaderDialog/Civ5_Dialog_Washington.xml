@@ -86,10 +86,10 @@
       <Text>Como...?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_1">
-      <Text>O povo dos Estados Unidos da América lhe dá as boas vindas.</Text>
+      <Text>O povo dos Estados Unidos da América lhe dá as boas-vindas.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_2">
-      <Text>Em nome dos cidadãos Americanos, eu lhe dou as boas vindas!</Text>
+      <Text>Em nome dos cidadãos Americanos, eu lhe dou as boas-vindas!</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_3">
       <Text>É uma honra conhecer você. Acredito que nossos povos viverão em paz e prosperidade.</Text>
@@ -158,7 +158,7 @@
       <Text>E?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_8">
-      <Text>Continue.</Text>
+      <Text>Continuar.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WASHINGTON_LOSEWAR_1">
       <Text>Ficamos felizes em ter feito as pazes com sua grande nação. Rezo para que não existam desentendimentos entre nossos povos.</Text>

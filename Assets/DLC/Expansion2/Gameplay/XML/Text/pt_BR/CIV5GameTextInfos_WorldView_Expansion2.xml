@@ -36,7 +36,7 @@
 			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 20, o Império está revoltoso! Cidades podem abandonar seu império e passar a fazer parte da civilização que possua maior influência cultural sobre o seu povo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
-			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 10, o Império está inquieto! Motins podem ocorrer com unidades rebeldes (bárbaras) aparecendo em seu território. Isso ocorrerá a cada poucos turnos até você corrigir esta situação!</Text>
+			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 10, o Império está agitado! Motins podem ocorrer com unidades rebeldes (bárbaras) aparecendo em seu território. Isso ocorrerá a cada poucos turnos até você corrigir esta situação!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
 			<Text>Cidades crescerão apenas a 1/4 da velocidade normal enquanto o Império estiver [ICON_HAPPINESS_3]infeliz! [NEWLINE]A geração de [ICON_GOLD]Ouro e [ICON_PRODUCTION]Produção é reduzida em 2% para cada ponto de Infelicidade. A mesma penalidade é aplicada a unidades em combate!</Text>

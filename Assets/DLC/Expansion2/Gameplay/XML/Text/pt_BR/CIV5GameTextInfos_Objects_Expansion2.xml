@@ -40,7 +40,7 @@
       <Text>Construir uma [LINK=IMPROVEMENT_FEITORIA]Feitoria[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_CHATEAU">
-      <Text>Construir uma [LINK=IMPROVEMENT_CHATEAU]Mansão[\LINK]</Text>
+      <Text>Construir um [LINK=IMPROVEMENT_CHATEAU]Château[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG">
       <Text>Escavação Arqueológica</Text>
@@ -59,8 +59,9 @@
 	  <Gender>feminine</Gender>
     </Row>
     <Row Tag="TXT_KEY_IMPROVEMENT_CHATEAU">
-      <Text>Mansão</Text>
-	  <Gender>feminine</Gender>
+      <Text>Château|Chateaux</Text>
+	  <Gender>masculine</Gender>
+	  <Plurality>1|2</Plurality>
     </Row>
     <!-- Archaeological Artifacts-->
     <Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RUIN">
@@ -527,7 +528,7 @@
       <Text>Yusef e Zuleykha</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_THE_ASCENT_OF_MUHAMMAD">
-      <Text>A Ascensão de Muhammad ao Paraíso</Text>
+      <Text>A Ascensão de Maomé ao Paraíso</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_LIBERTY_LEADING_THE_PEOPLE">
       <Text>Liberdade Liderando o Povo</Text>
@@ -884,7 +885,7 @@
       <Text>Pedra de Rök</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_HAMMURABI">
-      <Text>Código de Hamurabi</Text>
+      <Text>Código de Hamurábi</Text>
     </Row>
     <Row Tag="TXT_KEY_GREAT_WORK_BAKHSHALI">
       <Text>Manuscrito Bakshali</Text>

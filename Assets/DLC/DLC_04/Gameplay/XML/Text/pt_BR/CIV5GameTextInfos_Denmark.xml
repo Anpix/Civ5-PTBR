@@ -6,7 +6,7 @@
 			<Text>Fúria Viking</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_VIKING_FURY">
-			<Text>Unidades embarcadas possuem +1 de [ICON_MOVES]Movimento e gastam apenas 1 ponto de movimento para se moverem da água para a terra. Unidades de ataque corpo-a-corpo não gastam pontos de movimento para realizarem saques.</Text>
+			<Text>Unidades embarcadas possuem +1 de [ICON_MOVES]Movimento e gastam apenas 1 ponto de movimento para se moverem da água para a terra. Unidades de ataque corpo a corpo não gastam pontos de movimento para realizarem saques.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

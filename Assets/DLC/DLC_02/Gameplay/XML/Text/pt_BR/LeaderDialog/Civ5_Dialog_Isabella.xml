@@ -198,7 +198,7 @@
 			<Text>Como soberana da Espanha, é meu dever às vezes tratar com pessoas que eu penso ser intragáveis. Agora é uma dessas vezes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_HAPPY">
-			<Text>Meu querido amigo, acredito que este acordo benéficiará ambos os lados e trará confusão aos nossos inimigos.</Text>
+			<Text>Meu querido amigo, acredito que este acordo beneficiará ambos os lados e trará confusão aos nossos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_NEUTRAL">
 			<Text>Eu espero que este acordo receba suas bênçãos.</Text>
@@ -225,7 +225,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_1">
-			<Text>Os Céus estão muito desapontadoa com você.</Text>
+			<Text>Os Céus estão muito desapontados com você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_2">
 			<Text>Você está jogando um jogo perigoso.</Text>
