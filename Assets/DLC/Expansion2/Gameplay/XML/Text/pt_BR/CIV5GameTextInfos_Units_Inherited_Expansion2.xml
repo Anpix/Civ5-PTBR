@@ -32,8 +32,8 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_DROMON">
-			<Text>Dromon|Dromons</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Dromunda|Dromundas</Text>
+			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_CATAPHRACT">
