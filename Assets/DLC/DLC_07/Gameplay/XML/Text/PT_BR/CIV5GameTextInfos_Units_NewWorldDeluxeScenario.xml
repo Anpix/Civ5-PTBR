@@ -97,7 +97,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST">
-			<Text>Atirador|Atiradores</Text>
+			<Text>Atlatlista|Atlatlistas</Text>
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

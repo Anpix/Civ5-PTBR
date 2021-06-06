@@ -295,7 +295,7 @@
 			<Text>Somente os Maias podem treinar esta unidade. É mais barata e fica disponível antes do Arqueiro, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST_STRATEGY">
-			<Text>O Atlatlist é a unidade exclusiva dos Maias e substitui o Arqueiro. Atlatlists são mais baratos que o Arqueiro tradicional e ficam disponíveis sem ter que pesquisar a tecnologia Arco e Flecha. Esta vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
+			<Text>O Atlatlista é a unidade exclusiva dos Maias e substitui o Arqueiro. Os Atlatlistas são mais baratos que o Arqueiro tradicional e ficam disponíveis sem ter que pesquisar a tecnologia Arco e Flecha. Esta vantagem no início do jogo permite priorizar outras pesquisas tecnológicas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_DROMON_STRATEGY">
 			<Text>Somente os Bizantinos podem construir esta unidade. Ataca com o letal Fogo Grego, tornando-a a primeira unidade naval com um ataque a distância. Esta unidade combate com +50% de força contra outras unidades navais. Entretanto, ela não pode navegar em águas oceânicas fora dos limites da cidade.</Text>

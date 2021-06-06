@@ -27,7 +27,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST">
-			<Text>Atlatlist|Atlatlists</Text>
+			<Text>Atlatlista|Atlatlistas</Text>
 			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
