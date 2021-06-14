@@ -290,7 +290,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Powhiri[ENDCOLOR][NEWLINE]Presentes em [ICON_GOLD]Ouro a Cidades-Estado produzem 25% mais [ICON_INFLUENCE]Influência.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_DESC">
-            <Text>As cerimônias de boas vindas Maori para dignitários são um complexo ritual. Tradicionalmente, elas começam com um ritual ameaçador ao visitante (esta é considerada a parte mais excitante do Powhiri), durante o qual a firmeza do visitante é julgada e as proezas marciais do anfitrião são exibidas, para que não haja qualquer confusão sobre como as coisas devem ser. O visitante aceita o rautapu, uma oferenda simbólica da Atua da Paz, onde os dois lados trocam um hongi, pressionando seus narizes um contra o outro e compartilhando o ar e, então, a cerimônia termina.</Text>
+            <Text>As cerimônias de boas-vindas Maori para dignitários são um complexo ritual. Tradicionalmente, elas começam com um ritual ameaçador ao visitante (esta é considerada a parte mais excitante do Powhiri), durante o qual a firmeza do visitante é julgada e as proezas marciais do anfitrião são exibidas, para que não haja qualquer confusão sobre como as coisas devem ser. O visitante aceita o rautapu, uma oferenda simbólica da Atua da Paz, onde os dois lados trocam um hongi, pressionando seus narizes um contra o outro e compartilhando o ar e, então, a cerimônia termina.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU">
             <Text>Tapu</Text>
@@ -507,7 +507,7 @@
             <Text>Ah, um amigo explorador! Seja bem-vindo a grande ilha da Polinésia! Eu, o intrépido explorador Hotu Matua, convido você para compartilhar meu banquete e fogo.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_2">
-            <Text>Bem vindo, estrangeiro! Eu sou Hotu Matua, líder de Hiva. Venha, devemos fazer uma grande hula para celebrar nosso encontro.</Text>
+            <Text>Bem-vindo, estrangeiro! Eu sou Hotu Matua, líder de Hiva. Venha, devemos fazer uma grande hula para celebrar nosso encontro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_3">
             <Text>Saudações e que bênçãos caiam sobre você, amigo. Eu sou Hotu Mata, rei de Hiva. Vamos compartilhar nossos recursos e trabalhar juntos em harmonia!</Text>
@@ -516,7 +516,7 @@
             <Text>Saudações, estrangeiro. Eu sou Pomare, rei do Taiti. Nós procuramos paz com todos, mas não fugimos de uma guerra.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_2">
-            <Text>Eu sou Pomare I, líder do povo do Taiti. Eu lhe dou as boas vindas e espero que nossos dois grandes povos possam ser amigos.</Text>
+            <Text>Eu sou Pomare I, líder do povo do Taiti. Eu lhe dou as boas-vindas e espero que nossos dois grandes povos possam ser amigos.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_3">
             <Text>Saudações, estrangeiro ao Taiti. Eu sou Pomare, mas você pode me chamar de Tu-nui-ea-i-te-atua-i-Tarahoi Vairaatoa Taina Pomare I, para encurtar. Procuramos paz com todos, mas não fugimos da guerra.</Text>
