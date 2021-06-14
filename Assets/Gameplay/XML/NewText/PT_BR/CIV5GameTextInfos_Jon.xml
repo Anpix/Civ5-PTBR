@@ -1532,7 +1532,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Monarquia[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro e -1 de [ICON_HAPPINESS_4]Infelicidade para cada 2 [ICON_CITIZEN]Cidadãos em sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo-a-corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo a corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Disciplina[ENDCOLOR][NEWLINE]+10% de [ICON_STRENGTH]Força de Combate para unidades militares que tiverem outra unidade militar em um hexágono adjacente.</Text>

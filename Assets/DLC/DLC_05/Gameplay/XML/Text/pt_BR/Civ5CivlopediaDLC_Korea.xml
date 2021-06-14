@@ -160,7 +160,7 @@
 			<Text>Unidade de foguetes anti-infantaria da Era Medieval. Forte contra unidades terrestres, mas fraca contra cidades. Somente a Coreia pode construí-la. Substitui o Trabuco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_STRATEGY">
-			<Text>O Veículo de Fogo é extremamente eficaz contra unidades terrestres inimigas. É lenta e vulnerável a ataques corpo-a-corpo inimigos; sempre deve ser apoiado por outras unidades quando estiver no campo de batalha. O Veículo de Fogo deve ser "preparado" (1 Ponto de Movimento) antes de atacar.</Text>
+			<Text>O Veículo de Fogo é extremamente eficaz contra unidades terrestres inimigas. É lenta e vulnerável a ataques corpo a corpo inimigos; sempre deve ser apoiado por outras unidades quando estiver no campo de batalha. O Veículo de Fogo deve ser "preparado" (1 Ponto de Movimento) antes de atacar.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -102,7 +102,7 @@
 			<Text>A {TXT_KEY_UNIT_SUMERIAN_PHALANX} é a unidade exclusiva dos Sumérios, substituindo o {TXT_KEY_UNIT_SPEARMAN}. Ela fica disponível com tecnologia mais antiga que o {TXT_KEY_UNIT_SPEARMAN} (Mineração ao invés de Bronze).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUMERIAN_PHALANX_HELP">
-			<Text>Unidade de ataque corpo-a-corpo da Era Antiga, forte contra unidades montadas. Possui a promoção Bônus vs Montaria (100). Somente os Sumérios podem treiná-la. Esta unidade possui uma maior [ICON_STRENGTH]Força de Combate que o {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
+			<Text>Unidade de ataque corpo a corpo da Era Antiga, forte contra unidades montadas. Possui a promoção Bônus vs Montaria (100). Somente os Sumérios podem treiná-la. Esta unidade possui uma maior [ICON_STRENGTH]Força de Combate que o {TXT_KEY_UNIT_SPEARMAN}, que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT">
 			<Text>Biga Hitita|Bigas Hititas</Text>

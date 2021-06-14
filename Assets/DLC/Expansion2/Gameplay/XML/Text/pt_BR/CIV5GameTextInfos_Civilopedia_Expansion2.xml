@@ -1123,7 +1123,7 @@
 			<Text>Envie um {TXT_KEY_UNIT_ARCHAEOLOGIST} para examinar cada Sítio Arqueológico perto de sua civilização e decida se deseja enviar um Artefato a uma de suas cidades ou criar um {TXT_KEY_IMPROVEMENT_LANDMARK} naquele hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER_STRATEGY">
-			<Text>Esta unidade de cerco de ataque corpo-a-corpo deve mover-se próximo de uma cidade inimiga para ser eficiente, mas assim que consegue, é devastadora. Ela não só tem um ataque poderoso contra cidades, mas também confere um bônus para qualquer uma de suas unidades próximas que também esteja atacando a cidade. Complemente a {TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER} com unidades de ataque corpo-a-corpo ou unidades de ataque a distância, certifique-se de que ela chegue ao seu alvo antes de ser destruída e as cidades vão cair muito mais rápido.</Text>
+			<Text>Esta unidade de cerco de ataque corpo a corpo deve mover-se próximo de uma cidade inimiga para ser eficiente, mas assim que consegue, é devastadora. Ela não só tem um ataque poderoso contra cidades, mas também confere um bônus para qualquer uma de suas unidades próximas que também esteja atacando a cidade. Complemente a {TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER} com unidades de ataque corpo a corpo ou unidades de ataque a distância, certifique-se de que ela chegue ao seu alvo antes de ser destruída e as cidades vão cair muito mais rápido.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AXMAN_STRATEGY">
 			<Text>Mais forte do que um {TXT_KEY_UNIT_ARCHER}, mas limitado por seu alcance de apenas um hexágono.</Text>
@@ -1135,7 +1135,7 @@
 			<Text>Esta unidade de montaria substitui a {TXT_KEY_UNIT_CAVALRY} e é um guerreiro feroz nos desertos do Marrocos. Recebe bônus de combate tanto para combates em desertos quanto para combates em território marroquino (estes bônus se acumulam).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BRAZILIAN_PRACINHA_STRATEGY">
-			<Text>Esta unidade de ataque corpo-a-corpo, quando derrota um inimigo, ganha pontos que ajudam a iniciar o próximo Carnaval no Brasil. Use-a para lutar em terras estrangeiras, ajudando o Brasil a conquistar uma vitória Cultural.</Text>
+			<Text>Esta unidade de ataque corpo a corpo, quando derrota um inimigo, ganha pontos que ajudam a iniciar o próximo Carnaval no Brasil. Use-a para lutar em terras estrangeiras, ajudando o Brasil a conquistar uma vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARAVAN_STRATEGY">
 			<Text>A {TXT_KEY_UNIT_CARAVAN} permite estabelecer uma rota comercial terrestre entre duas civilizações, gerando [ICON_GOLD]Ouro tanto para a civilização proprietária da unidade quanto a de destino. A construção de um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP} em sua cidade natal também permite que você transporte [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção entre suas próprias cidades. Uma vez que você atribui a {TXT_KEY_UNIT_CARAVAN} a uma rota, ela não poderá se defender, por isso certifique-se de que o caminho esteja livre de perigo.</Text>
@@ -1156,13 +1156,13 @@
 			<Text>O {TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN} substitui o {TXT_KEY_UNIT_SWORDSMAN} padrão. Utilize-o em combate o mais rápido possível para desbloquear as propriedades secretas de sua espada Kris de lâmina curva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MACHINE_GUN_STRATEGY">
-			<Text>A {TXT_KEY_UNIT_MACHINE_GUN} é a penúltima unidade de ataque a distância que não serve para cerco. Ela é mais poderosa do que as unidades de ataque a distância anteriores. Como a {TXT_KEY_UNIT_GATLINGGUN}, possui apenas um hexágono de alcance, mas ainda pode causar dano significativo em outras unidades. É vulnerável a ataques corpo-a-corpo. Coloque {TXT_KEY_UNIT_MACHINE_GUN[2]} em sua cidade para a defesa.</Text>
+			<Text>A {TXT_KEY_UNIT_MACHINE_GUN} é a penúltima unidade de ataque a distância que não serve para cerco. Ela é mais poderosa do que as unidades de ataque a distância anteriores. Como a {TXT_KEY_UNIT_GATLINGGUN}, possui apenas um hexágono de alcance, mas ainda pode causar dano significativo em outras unidades. É vulnerável a ataques corpo a corpo. Coloque {TXT_KEY_UNIT_MACHINE_GUN[2]} em sua cidade para a defesa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_POLISH_WINGED_HUSSAR_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_POLISH_WINGED_HUSSAR} substitui o {TXT_KEY_UNIT_LANCER} e apenas os Poloneses podem treiná-la. Mais rápido e mais poderoso do que o {TXT_KEY_UNIT_LANCER}, o {TXT_KEY_UNIT_POLISH_WINGED_HUSSAR} obriga o defensor a recuar quando inflige mais dano do que recebe. Um defensor que não possa recuar recebe dano extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PORTUGUESE_NAU_STRATEGY">
-			<Text>Esta unidade naval de ataque corpo-a-corpo substitui a {TXT_KEY_UNIT_CARAVEL} e é hábil em exploração. Quando ela está ao lado de terras pertencentes à outra civilização ou Cidade-Estado que você está em paz, pode realizar uma única missão comercial para obter [ICON_GOLD]Ouro e XP. Quanto mais distante as terras estão de sua capital, maior o bônus, por isso é melhor usá-la com jogadores distantes. Utilize esta unidade para explorar o mapa e descobrir a localização dos outros jogadores.</Text>
+			<Text>Esta unidade naval de ataque corpo a corpo substitui a {TXT_KEY_UNIT_CARAVEL} e é hábil em exploração. Quando ela está ao lado de terras pertencentes à outra civilização ou Cidade-Estado que você está em paz, pode realizar uma única missão comercial para obter [ICON_GOLD]Ouro e XP. Quanto mais distante as terras estão de sua capital, maior o bônus, por isso é melhor usá-la com jogadores distantes. Utilize esta unidade para explorar o mapa e descobrir a localização dos outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS} substitui a {TXT_KEY_UNIT_CAVALRY} e somente os Shoshones podem treiná-la. Mais barato e mais rápido do que a unidade padrão.</Text>
@@ -1183,7 +1183,7 @@
 			<Text>A {TXT_KEY_UNIT_FRENCH_FOREIGNLEGION} é uma unidade especial, disponível apenas através do princípio {TXT_KEY_POLICY_VOLUNTEER_ARMY}, da ideologia {TXT_KEY_POLICY_BRANCH_FREEDOM}. Ela recebe um bônus de combate significativo ao operar fora do território nacional, tornando-se uma excelente unidade para ganhar o controle de terras estrangeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ZULU_IMPI_STRATEGY">
-			<Text>Antes de se envolver em um ataque corpo-a-corpo, o {TXT_KEY_UNIT_ZULU_IMPI} arremessa sua lança que pode ferir ou matar unidades inimigas antes de fazer contato. Apenas os Zulus podem treiná-la.</Text>
+			<Text>Antes de se envolver em um ataque corpo a corpo, o {TXT_KEY_UNIT_ZULU_IMPI} arremessa sua lança que pode ferir ou matar unidades inimigas antes de fazer contato. Apenas os Zulus podem treiná-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_MUSICIAN_STRATEGY">
 			<Text>Crie {TXT_KEY_SPECIALIST_MUSICIAN[2]} para aumentar a produção de [ICON_CULTURE]Cultura de uma cidade e para acelerar a geração de {TXT_KEY_UNIT_GREAT_MUSICIAN[2]}.</Text>
@@ -1249,7 +1249,7 @@
 			<Text>Reconhecendo a ameaça potencial de {TXT_KEY_UNIT_MECH[2]}, alienígenas e outras ameaças externas, a Iniciativa XCOM nasceu para proteger a população dos inimigos conhecidos e desconhecidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ZULU_IMPI_TEXT">
-			<Text>"Impi" é a palavra Zulu para um corpo de homens armados, embora no uso comum durante os anos de 1800 referia-se a um dos regimentos do império Zulu. Enquanto os Impis tenham sido uma característica da cultura Zulu, seu grande chefe Shaka instituiu amplas inovações após sua ascensão ao trono, em 1816. Além de seu taco tradicional e lança de arremesso, Shaka armou suas tropas com a azagaia, uma curta lança com uma longa lâmina. Ele introduziu um escudo de couro maior, mais pesado (isihlangu) e treinou suas forças para atacar rapidamente o inimigo em um devastador combate corpo-a-corpo. Estrategicamente, os Impis contavam com a velocidade e o ataque surpresa para oprimir seu inimigo. Usando esses métodos, as vitórias eram impressionantes, mesmo contra os europeus e seus rifles, embora suas perdas fossem mas altas.</Text>
+			<Text>"Impi" é a palavra Zulu para um corpo de homens armados, embora no uso comum durante os anos de 1800 referia-se a um dos regimentos do império Zulu. Enquanto os Impis tenham sido uma característica da cultura Zulu, seu grande chefe Shaka instituiu amplas inovações após sua ascensão ao trono, em 1816. Além de seu taco tradicional e lança de arremesso, Shaka armou suas tropas com a azagaia, uma curta lança com uma longa lâmina. Ele introduziu um escudo de couro maior, mais pesado (isihlangu) e treinou suas forças para atacar rapidamente o inimigo em um devastador combate corpo a corpo. Estrategicamente, os Impis contavam com a velocidade e o ataque surpresa para oprimir seu inimigo. Usando esses métodos, as vitórias eram impressionantes, mesmo contra os europeus e seus rifles, embora suas perdas fossem mas altas.</Text>
 		</Row>
 		<!-- TECHS -->
 		<Row Tag="TXT_KEY_TECH_INTERNET_DESC">

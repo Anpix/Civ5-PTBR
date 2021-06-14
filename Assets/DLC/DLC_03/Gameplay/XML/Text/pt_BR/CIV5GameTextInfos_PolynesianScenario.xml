@@ -31,13 +31,13 @@
             <Text>A mais forte unidade de combate na Polinésia (antes da chegada da arma de fogo).</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_STRATEGY">
-            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo-a-corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
+            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo a corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_HELP_TRIREME">
             <Text>Unidade naval da Era Medieval, usada para arrebatar o controle dos mares.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_TRIREME_STRATEGY">
-            <Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo-a-corpo. O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto oceano, fora das bordas da cidade).</Text>			
+            <Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo a corpo. O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto oceano, fora das bordas da cidade).</Text>			
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_IMPROVEMENTS_MOAI_HELP">
             <Text>O Moai só pode ser construído no litoral. Se for construído próximo a outro Moai, [ICON_CULTUE]Cultura extra será fornecida.</Text>
@@ -260,7 +260,7 @@
             <Text>Cura Kahuna</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Cura Kahuna[ENDCOLOR][NEWLINE]Unidades de combate corpo-a-corpo ganham a promoção Médico.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Cura Kahuna[ENDCOLOR][NEWLINE]Unidades de combate corpo a corpo ganham a promoção Médico.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_DESC">
             <Text>Kahuna é uma palavra Havaiana para designar sacerdotes ou curandeiros shamans Polinésios. Esses curandeiros ajudavam o povo com suas medicinas de ervas e "Ho'oponopono", um processo de reconciliação com os ancestrais, espíritos, deuses e pessoas injustiçadas. A cura Kahuna enfatizava que a mútua e construtiva resolução e restauração do indivíduo poderia contribuir para a harmonia da cultura Polinésia. Atualmente, a Kahuna está experimentando certo tipo de renascimento entre os Havaianos e em toda a Polinésia, em geral.</Text>
