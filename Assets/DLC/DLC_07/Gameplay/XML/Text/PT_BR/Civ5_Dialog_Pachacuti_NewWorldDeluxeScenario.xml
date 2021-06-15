@@ -62,7 +62,7 @@
 		</Row>
 		<!--Trade offer from player - yes -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_YES_NEUTRAL">
-			<Text>Certamente. Nós sempre ficamos contentes em negaciar com civilizações inferiores.</Text>
+			<Text>Certamente. Nós sempre ficamos contentes em negociar com civilizações inferiores.</Text>
 		</Row>
 		<!--Trade offer from player - sweeten the deal -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_1">
