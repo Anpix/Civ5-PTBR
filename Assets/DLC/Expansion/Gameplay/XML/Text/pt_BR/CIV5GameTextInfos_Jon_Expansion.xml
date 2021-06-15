@@ -632,7 +632,7 @@
 			<Text>[ICON_FOOD]Alimento, [ICON_CULTURE]Cultura e [ICON_PEACE]Fé de Cidades-Estado amigas aumentam em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS">
-			<Text>Todas as unidades navais de ataque corpo-a-corpo possuem a promoção Embarcação Premiada, que lhes permite capturar embarcações derrotadas. A manutenção de unidades navais é reduzida para um terço do valor normal.</Text>
+			<Text>Todas as unidades navais de ataque corpo a corpo possuem a promoção Embarcação Premiada, que lhes permite capturar embarcações derrotadas. A manutenção de unidades navais é reduzida para um terço do valor normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT">
 			<Text>+2 de [ICON_MOVES]Pontos de Movimento para todas as unidades navais. Um espião extra é concedido.</Text>
@@ -821,7 +821,7 @@
 			<Text>Declarar guerra contra {1_LeaderName}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Disciplina[ENDCOLOR][NEWLINE]+15% de [ICON_STRENGTH]Força de Combate para unidades de combate corpo-a-corpo que possuírem outra unidade militar no hexágono adjacente.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Disciplina[ENDCOLOR][NEWLINE]+15% de [ICON_STRENGTH]Força de Combate para unidades de combate corpo a corpo que possuírem outra unidade militar no hexágono adjacente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
 			<Text>+100% [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo a uma Cidadela recebe 30 de dano (o dano não acumula com outras Cidadelas). Ao construir a Cidadela você expandirá suas fronteiras culturais ao redor da construção e consumirá esta unidade. Se a nova fronteira cultural reivindicar hexágonos pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>

@@ -228,7 +228,7 @@
 			<Text>Unidade de infantaria da Era Clássica que ataca a distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN_STRATEGY">
-			<Text>O Arqueiro de Arco Composto é mais poderoso que o Arqueiro. Sendo uma unidade de ataque a distância, ele pode causar danos significativos a outras unidades até dois hexágonos de distância, mas é vulnerável a ataques corpo-a-corpo. Coloque Arqueiros de Arcos Compostos em suas cidades para defendê-las e proteja-os com unidades de ataque corpo-a-corpo quando precisarem se movimentar.</Text>
+			<Text>O Arqueiro de Arco Composto é mais poderoso que o Arqueiro. Sendo uma unidade de ataque a distância, ele pode causar danos significativos a outras unidades até dois hexágonos de distância, mas é vulnerável a ataques corpo a corpo. Coloque Arqueiros de Arcos Compostos em suas cidades para defendê-las e proteja-os com unidades de ataque corpo a corpo quando precisarem se movimentar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_GATLINGGUN">
 			<Text>Unidade de infantaria com ataque a distância da fase mediana do jogo. Precisa estar adjacente ao inimigo para atacá-lo.</Text>
@@ -240,7 +240,7 @@
 			<Text>Unidade naval da Era Medieval, usada para tomar o controle dos mares com seu ataque a distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GALLEASS_STRATEGY">
-			<Text>A Galeaça é a primeira unidade naval com ataque a distância a ficar disponível à civilização no jogo. É muito mais poderosa do que as unidades navais anteriores, mas é um pouco mais lenta. Não pode iniciar um ataque corpo-a-corpo. A Galeaça é útil para eliminar embarcações inimigas das águas costeiras. Ela não pode navegar em águas oceânicas, a não ser que seja da Polinésia.</Text>
+			<Text>A Galeaça é a primeira unidade naval com ataque a distância a ficar disponível à civilização no jogo. É muito mais poderosa do que as unidades navais anteriores, mas é um pouco mais lenta. Não pode iniciar um ataque corpo a corpo. A Galeaça é útil para eliminar embarcações inimigas das águas costeiras. Ela não pode navegar em águas oceânicas, a não ser que seja da Polinésia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_GREAT_WAR_INFANTRY">
 			<Text>Unidade de infantaria básica da Era Moderna.</Text>
@@ -276,7 +276,7 @@
 			<Text>Unidade naval especializada em atacar cidades costeiras para obter ouro e capturar embarcações inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PRIVATEER_STRATEGY">
-			<Text>Unidade naval que realiza ataques corpo-a-corpo. Começa com a promoção Viajante Costeiro I, que lhe permite obter ouro em ataques contra cidades costeiras. Pode capturar qualquer unidade naval inimiga que derrotar como embarcação prêmio.</Text>
+			<Text>Unidade naval que realiza ataques corpo a corpo. Começa com a promoção Viajante Costeiro I, que lhe permite obter ouro em ataques contra cidades costeiras. Pode capturar qualquer unidade naval inimiga que derrotar como embarcação prêmio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SEA_BEGGAR">
 			<Text>Unidade naval especializada em atacar cidades costeiras para obter ouro e capturar embarcações inimigas. Somente os Holandeses podem construí-la.</Text>
@@ -345,7 +345,7 @@
 			<Text>Uma rápida unidade de ataque a distância. Apenas os Egípcios podem treiná-la. Esta unidade não necessita de [ICON_RES_HORSE]Cavalos para ser treinada, ao contrário do {TXT_KEY_UNIT_CHARIOT_ARCHER}, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN_STRATEGY">
-			<Text>O Besteiro é mais poderoso que o Arqueiro de Arco Composto. Sendo uma unidade de ataque a distância, ele pode causar dano significativo a outras unidades da Era Medieval até dois hexágonos de distância, mas é vulnerável a ataques corpo-a-corpo. Coloque Besteiros em sua cidade para defendê-la e os proteja com unidades de ataque corpo-a-corpo quando se movimentarem.</Text>
+			<Text>O Besteiro é mais poderoso que o Arqueiro de Arco Composto. Sendo uma unidade de ataque a distância, ele pode causar dano significativo a outras unidades da Era Medieval até dois hexágonos de distância, mas é vulnerável a ataques corpo a corpo. Coloque Besteiros em sua cidade para defendê-la e os proteja com unidades de ataque corpo a corpo quando se movimentarem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INFANTRY">
 			<Text>Unidade de infantaria mais poderosa no jogo, até a Infantaria Mecanizada.</Text>
@@ -354,31 +354,31 @@
 			<Text>A Infantaria é significativamente mais forte que seu predecessor, o Infante. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, devem ser auxiliadas por Artilharias, Tanques e unidades aéreas (ou antiaéreas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
-			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque corpo-a-corpo que avança sobre unidades no mar ou cidades (mas sem ser por ataque a distância). O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
+			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque corpo a corpo que avança sobre unidades no mar ou cidades (mas sem ser por ataque a distância). O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TRIREME">
-			<Text>Unidade naval da Era Antiga, usada para arrebatar o controle dos mares por meio de ataques corpo-a-corpo contra unidades e cidades inimigas.</Text>
+			<Text>Unidade naval da Era Antiga, usada para arrebatar o controle dos mares por meio de ataques corpo a corpo contra unidades e cidades inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GALLEY_STRATEGY">
-			<Text>A Galé é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Sendo uma unidade de ataque corpo-a-corpo, a Galé pode importunar cidades costeiras e unidades embarcadas (não com ataque a distância).</Text>
+			<Text>A Galé é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Sendo uma unidade de ataque corpo a corpo, a Galé pode importunar cidades costeiras e unidades embarcadas (não com ataque a distância).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARAVEL_STRATEGY">
-			<Text>A Caravela é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque corpo-a-corpo, é mais forte e mais rápida que o Trirreme e pode navegar em águas oceânicas profundas. Ela possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo-a-corpo possa ocorrer. A Caravela possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na fase mediana do jogo. Esse raio de visão é perdido se a Caravela for atualizada para um Destróier.</Text>
+			<Text>A Caravela é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque corpo a corpo, é mais forte e mais rápida que o Trirreme e pode navegar em águas oceânicas profundas. Ela possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo a corpo possa ocorrer. A Caravela possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na fase mediana do jogo. Esse raio de visão é perdido se a Caravela for atualizada para um Destróier.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARAVEL">
-			<Text>Rápida unidade de exploração da Renascença com um grande campo de visão e que pode navegar em águas oceânicas. Combate como uma unidade naval de ataque corpo-a-corpo.</Text>			
+			<Text>Rápida unidade de exploração da Renascença com um grande campo de visão e que pode navegar em águas oceânicas. Combate como uma unidade naval de ataque corpo a corpo.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DESTROYER_STRATEGY">
-			<Text>O Destróier é uma unidade naval de ataque corpo-a-corpo preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades embarcáveis, Super Couraçado e Porta-Aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Destróier possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo-a-corpo possa ocorrer.</Text>
+			<Text>O Destróier é uma unidade naval de ataque corpo a corpo preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades embarcáveis, Super Couraçado e Porta-Aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Destróier possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo a corpo possa ocorrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
-			<Text>Rápida embarcação da fase avançada do jogo, muito efetiva em reconhecimento. Também usada para caçar e destruir Submarinos inimigos. Combate como uma unidade naval de ataque corpo-a-corpo.</Text>			
+			<Text>Rápida embarcação da fase avançada do jogo, muito efetiva em reconhecimento. Também usada para caçar e destruir Submarinos inimigos. Combate como uma unidade naval de ataque corpo a corpo.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IRONCLAD_STRATEGY">
-			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo-a-corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
+			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo a corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
-			<Text>Uma unidade naval de ataque corpo-a-corpo muito poderosa, o Couraçado paga o preço por ser muito forte: é mais lento no oceano.</Text>			
+			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o Couraçado paga o preço por ser muito forte: é mais lento no oceano.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
 			<Text>Unidade especializada em combater Tanques e Tanques Blindados. É capaz de pairar sobre montanhas, mas recebe dano se terminar o turno sobre uma.</Text>		
@@ -523,7 +523,7 @@
 			<Text>+5 pontos de vida curados fora de território amigo e mais 25% de Defesa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_3_HELP">
-			<Text>A unidade irá [COLOR_POSITIVE_TEXT]se curar em todos os turnos[ENDCOLOR], mesmo se fizer alguma ação. A unidade irá tentar recuar ao se deparar com um ataque corpo-a-corpo.</Text>
+			<Text>A unidade irá [COLOR_POSITIVE_TEXT]se curar em todos os turnos[ENDCOLOR], mesmo se fizer alguma ação. A unidade irá tentar recuar ao se deparar com um ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
 			<Text>+15% de [ICON_STRENGTH]Força de Combate quando possuir uma unidade amiga adjacente.</Text>
@@ -577,13 +577,13 @@
 			<Text>+20% de [ICON_STRENGTH]Força de Combate ao atacar [COLOR_POSITIVE_TEXT]Cidades[ENDCOLOR]. Rouba ouro igual a 34% do dano causado em uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_1_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo-a-corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo a corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_2_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo-a-corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo a corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_3_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo-a-corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate em ataques corpo a corpo contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WAR_CANOES_HELP">
 			<Text>Unidades embarcadas possuem o dobro da [ICON_STRENGTH]Força de Defesa usual e um alcance visual maior que uma unidade embarcada normal.</Text>
@@ -1205,7 +1205,7 @@
 			<Text>As unidades navais não podem se curar, a não ser que estejam em território amigo, onde 20 pontos de vida são recuperados por turno.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_HEADING4_BODY">
-			<Text>Um Grande General fornece um bônus de combate de 15% para todas as unidades aliadas num espaço de 2 hexágonos. Este bônus aplica-se a todas as formas de combate: corpo-a-corpo, a distância, defesa e assim por diante.</Text>
+			<Text>Um Grande General fornece um bônus de combate de 15% para todas as unidades aliadas num espaço de 2 hexágonos. Este bônus aplica-se a todas as formas de combate: corpo a corpo, a distância, defesa e assim por diante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_TITLE">
 			<Text>Grande Almirante</Text>
@@ -1220,7 +1220,7 @@
 			<Text>Habilidade Especial: Bônus de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_BODY">
-			<Text>Um Grande Almirante fornece um bônus de combate de 15% a todas as unidades navais amigas num raio de 2 hexágonos. Este bônus de combate se aplica a todas as formas de combate: corpo-a-corpo, a distância, defesa e assim por diante.</Text>
+			<Text>Um Grande Almirante fornece um bônus de combate de 15% a todas as unidades navais amigas num raio de 2 hexágonos. Este bônus de combate se aplica a todas as formas de combate: corpo a corpo, a distância, defesa e assim por diante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_ADV_QUEST">
 			<Text>Quais são as habilidades do Grande Almirante?</Text>
@@ -1665,10 +1665,10 @@
 			<Text>O dono de uma cidade pode estacionar uma unidade militar dentro da cidade para apoiar sua defesa. Parte da força de combate da unidade alojada é adicionada à força da cidade. A unidade alojada não receberá dano quando a cidade for atacada. Entretanto, se a cidade for capturada, a unidade será destruída.[NEWLINE][NEWLINE]Uma unidade alojada pode atacar unidades inimigas próximas sem que a cidade perca o bônus de alojamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
-		  <Text>Recuar Antes de Ataque Corpo-a-Corpo</Text>
+		  <Text>Recuar Antes de Ataque corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
-		  <Text>A unidade irá recuar quando for sofrer um ataque corpo-a-corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
+		  <Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
 		</Row>		
 	</Language_pt_BR>
 </GameData>

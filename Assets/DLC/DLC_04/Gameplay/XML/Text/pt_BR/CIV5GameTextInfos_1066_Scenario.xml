@@ -113,10 +113,10 @@
 			<Text>O {TXT_KEY_UNIT_SAXON_HUSCARL} é a unidade exclusiva da Inglaterra anglo-saxã, que substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}. Esta unidade ganha as promoções Cobertura I e Bônus contra Montaria (50) por sua capacidade de criar muros de defesa, quando atacado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SAXON_HUSCARL">
-			<Text>Poderosa unidade medieval de ataque corpo-a-corpo. Fortes contra unidades montadas e de ataque a distância. Possui as promoções Cobertura I e Bônus contra Montaria (50). Somente os Ingleses podem treiná-la. Substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}.</Text>
+			<Text>Poderosa unidade medieval de ataque corpo a corpo. Fortes contra unidades montadas e de ataque a distância. Possui as promoções Cobertura I e Bônus contra Montaria (50). Somente os Ingleses podem treiná-la. Substitui o {TXT_KEY_UNIT_LONGSWORDSMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_NORMAN_KNIGHT_TEXT">
-			<Text>Os {TXT_KEY_UNIT_KNIGHT[2]} do exército Normando, que serviram durante a conquista da Inglaterra no século 11 eram equipados com camisas de cota de malha, conhecidas como "armaduras", e geralmente usavam um capacete de forma cônica, projetado (em teoria) para desviar flechas que o acertassem. Os {TXT_KEY_UNIT_NORMAN_KNIGHT[2]} foram talvez mais conhecidos por carregarem os "Kites", escudos alongados, projetados para proteger a montaria e as pernas dos cavaleiros enquanto engajados em combate corpo-a-corpo.</Text>
+			<Text>Os {TXT_KEY_UNIT_KNIGHT[2]} do exército Normando, que serviram durante a conquista da Inglaterra no século 11 eram equipados com camisas de cota de malha, conhecidas como "armaduras", e geralmente usavam um capacete de forma cônica, projetado (em teoria) para desviar flechas que o acertassem. Os {TXT_KEY_UNIT_NORMAN_KNIGHT[2]} foram talvez mais conhecidos por carregarem os "Kites", escudos alongados, projetados para proteger a montaria e as pernas dos cavaleiros enquanto engajados em combate corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_NORMAN_KNIGHT} é a unidade exclusiva normanda, substituindo o {TXT_KEY_UNIT_KNIGHT} padrão. Esta unidade é o {TXT_KEY_UNIT_KNIGHT} padrão com a adição da promoção Blitz, permitindo-lhe atacar mais de uma vez por turno.</Text>

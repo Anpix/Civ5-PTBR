@@ -26,7 +26,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Honra[ENDCOLOR] melhora a eficácia de seu exército de várias maneiras.[NEWLINE][NEWLINE]Adotando Honra, você ganhará um bônus de +33% no combate contra Bárbaros e será notificado quando surgir um novo acampamento bárbaro em território já revelado. Você também ganhará [ICON_CULTURE]Cultura para cada bárbaro morto. Desbloqueia a construção da Estátua de Zeus.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Honra você ganhará [ICON_GOLD]Ouro para cada unidade inimiga morta, além de permitir a compra de Grandes Generais com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo-a-corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital. Grandes Generais são produzidos 50% mais rápido.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Código Militar[ENDCOLOR][NEWLINE]+15% de [ICON_PRODUCTION]Produção no treinamento de unidades de ataque corpo a corpo e um [ICON_GREAT_PEOPLE]Grande General aparece próximo a sua [ICON_CAPITAL]Capital. Grandes Generais são produzidos 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Exército Profissional[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD]Ouro para atualizar unidades militares é reduzido em 33% e a construção de Quartéis, Arsenais e Academias Militares ocorre 50% mais rápido.</Text>

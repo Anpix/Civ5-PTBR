@@ -1729,7 +1729,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_KNIGHT}[ENDCOLOR], uma unidade montada rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Castelo[ENDCOLOR] para melhorar a [ICON_STRENGTH]Defesa de suas cidades. Além disso, permite o estabelecimento de Pactos Defensivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo-a-corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
@@ -1912,7 +1912,7 @@
 			<Text>In general, desert hexes are remarkably unuseful. They provide no benefits to cities (unless the desert contains an oasis or resource, of course, or if it has access to fresh water).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
-			<Text>As unidades montadas {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades corpo-a-corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
+			<Text>As unidades montadas {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades corpo a corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
 			<Text>Mountains are impassable, except to air units, and Carthaginian units (after earning a Great General). They provide nothing to cities.</Text>

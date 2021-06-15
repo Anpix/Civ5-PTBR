@@ -933,10 +933,10 @@
 			<Text>Designação de trabalhos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_ATTACKINGCITY_ADV_QUEST">
-			<Text>Como se ataca uma cidade com unidades de ataque corpo-a-corpo?</Text>
+			<Text>Como se ataca uma cidade com unidades de ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_ATTACKINGCITY_HEADING3_BODY">
-			<Text>Para atacar uma cidade inimiga, ordene a sua unidade de ataque corpo-a-corpo que entre no hexágono da cidade. Um assalto de combate irá começar e tanto sua unidade quanto a da cidade receberão dano. Se os pontos de vida de sua unidade chegar a zero, ela é destruída. Se os pontos da cidade chegar a zero, sua unidade a capturará.</Text>
+			<Text>Para atacar uma cidade inimiga, ordene a sua unidade de ataque corpo a corpo que entre no hexágono da cidade. Um assalto de combate irá começar e tanto sua unidade quanto a da cidade receberão dano. Se os pontos de vida de sua unidade chegar a zero, ela é destruída. Se os pontos da cidade chegar a zero, sua unidade a capturará.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_ATTACKINGCITY_HEADING3_TITLE">
 			<Text>Atacando uma cidade</Text>
@@ -945,7 +945,7 @@
 			<Text>Como se ataca uma cidade com unidades de combate a distância?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_ATTACKINGRANGEDUNITS_HEADING3_BODY">
-			<Text>Ainda que possa atacar uma cidade e enfraquecê-la com unidades de combate a distância, você não poderá capturá-la; para isso você deve mover uma unidade de ataque corpo-a-corpo até a cidade para tomá-la. Do mesmo jeito, as unidades aéreas e aquáticas não podem capturar uma cidade, mas podem enfraquecer suas defesas até que desapareçam.</Text>
+			<Text>Ainda que possa atacar uma cidade e enfraquecê-la com unidades de combate a distância, você não poderá capturá-la; para isso você deve mover uma unidade de ataque corpo a corpo até a cidade para tomá-la. Do mesmo jeito, as unidades aéreas e aquáticas não podem capturar uma cidade, mas podem enfraquecer suas defesas até que desapareçam.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_ATTACKINGRANGEDUNITS_HEADING3_TITLE">
 			<Text>Atacando a distância</Text>
@@ -1062,7 +1062,7 @@
 			<Text>O que pode ser feito para ajudar a defender uma cidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_DEFENDINGCITY_HEADING2_BODY">
-			<Text>Há uma série de coisas que pode fazer para melhorar as defesas de uma cidade. Você pode "fortificá-la" com uma unidade forte. Uma unidade de ataque corpo-a-corpo aumentará consideravelmente a força defensiva da cidade, enquanto que uma unidade de combate a distância te permitirá disparar dela contras as unidades inimigas nas proximidades.[NEWLINE][NEWLINE]Você também pode levantar a Muralha e o Castelo que irão melhorar a força da cidade. Uma cidade construída em uma colina recebe uma bonificação defensiva.[NEWLINE][NEWLINE]Não importa o quão poderosa é uma cidade, é muito importante ter unidades fora dela para apoiá-la.[NEWLINE][NEWLINE]Consulte a seção sobre Combate para obter mais detalhes.</Text>
+			<Text>Há uma série de coisas que pode fazer para melhorar as defesas de uma cidade. Você pode "fortificá-la" com uma unidade forte. Uma unidade de ataque corpo a corpo aumentará consideravelmente a força defensiva da cidade, enquanto que uma unidade de combate a distância te permitirá disparar dela contras as unidades inimigas nas proximidades.[NEWLINE][NEWLINE]Você também pode levantar a Muralha e o Castelo que irão melhorar a força da cidade. Uma cidade construída em uma colina recebe uma bonificação defensiva.[NEWLINE][NEWLINE]Não importa o quão poderosa é uma cidade, é muito importante ter unidades fora dela para apoiá-la.[NEWLINE][NEWLINE]Consulte a seção sobre Combate para obter mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_DEFENDINGCITY_HEADING2_TITLE">
 			<Text>Defendendo uma cidade</Text>
@@ -6517,7 +6517,7 @@
 			<Text>{TXT_KEY_UNIT_LONGSWORDSMAN} (Inglaterra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LONGSWORDSMAN_TEXT">
-			<Text>A espada longa era a arma mais versátil do campo de batalha Medieval/Renascentista. Era mais leve e mais fácil de transportar que um pique e ela poderia ser usada com uma ou duas mãos, tornando possível para o espadachim também carregar um escudo. Em ataques corpo-a-corpo contra os {TXT_KEY_UNIT_PIKEMAN[2]}, os {TXT_KEY_UNIT_LONGSWORDSMAN[2]} estavam em desvantagem significativa, sendo vítimas das armas de maior alcance. No entanto, as unidades de espada longa eram mais rápidas e mais manobráveis que {TXT_KEY_UNIT_PIKEMAN[2]} - e se eles conseguissem chegar aos seus oponentes pelos flancos, os {TXT_KEY_UNIT_PIKEMAN[2]} estariam perdidos.</Text>
+			<Text>A espada longa era a arma mais versátil do campo de batalha Medieval/Renascentista. Era mais leve e mais fácil de transportar que um pique e ela poderia ser usada com uma ou duas mãos, tornando possível para o espadachim também carregar um escudo. Em ataques corpo a corpo contra os {TXT_KEY_UNIT_PIKEMAN[2]}, os {TXT_KEY_UNIT_LONGSWORDSMAN[2]} estavam em desvantagem significativa, sendo vítimas das armas de maior alcance. No entanto, as unidades de espada longa eram mais rápidas e mais manobráveis que {TXT_KEY_UNIT_PIKEMAN[2]} - e se eles conseguissem chegar aos seus oponentes pelos flancos, os {TXT_KEY_UNIT_PIKEMAN[2]} estariam perdidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MINUTEMAN_HEADING">
 			<Text>Milícia (Estados Unidos)</Text>
@@ -6697,7 +6697,7 @@
 			<Text>Como a experiência é acumulada durante o combate?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ACQUIRINGXP_HEADING3_BODY">
-			<Text>Uma unidade ganha XPs por sobreviver um ciclo de combate. A unidade não tem que ganhar o combate ou destruir o inimigo para obter a experiência, que é acrescida a cada rodada que a unidade sobreviva.[NEWLINE][NEWLINE]A quantidade de XP que a unidade recebe depende das circunstâncias do combate. Geralmente, as unidades obtêm mais XP ao atacar que ao se defender, e muito mais quando entra em combate corpo-a-corpo que para os outros tipos. Aqui estão alguns números (veja a seção de gráficos e tabelas para uma lista completa):[NEWLINE]Uma unidade atacando em combate corpo-a-corpo: 5 XPs[NEWLINE]Defesa contra um ataque corpo-a-corpo: 4 XPs[NEWLINE]Unidade atacando a distância: 2 XPs[NEWLINE]Sendo atacada a distância: 2 XPs[NEWLINE]Limitações Bárbaras: uma vez que uma unidade obtenha 30 XPs, não receberá qualquer XP adicional para combater Bárbaros.</Text>
+			<Text>Uma unidade ganha XPs por sobreviver um ciclo de combate. A unidade não tem que ganhar o combate ou destruir o inimigo para obter a experiência, que é acrescida a cada rodada que a unidade sobreviva.[NEWLINE][NEWLINE]A quantidade de XP que a unidade recebe depende das circunstâncias do combate. Geralmente, as unidades obtêm mais XP ao atacar que ao se defender, e muito mais quando entra em combate corpo a corpo que para os outros tipos. Aqui estão alguns números (veja a seção de gráficos e tabelas para uma lista completa):[NEWLINE]Uma unidade atacando em combate corpo a corpo: 5 XPs[NEWLINE]Defesa contra um ataque corpo a corpo: 4 XPs[NEWLINE]Unidade atacando a distância: 2 XPs[NEWLINE]Sendo atacada a distância: 2 XPs[NEWLINE]Limitações Bárbaras: uma vez que uma unidade obtenha 30 XPs, não receberá qualquer XP adicional para combater Bárbaros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ACQUIRINGXP_HEADING3_TITLE">
 			<Text>Ganhando XPs pelo combate</Text>
@@ -6724,19 +6724,19 @@
 			<Text>Atacando outra unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ATTACKWITHMELEECOMBAT_ADV_QUEST">
-			<Text>Quando uma unidade se engaja em combate corpo-a-corpo contra uma cidade, a cidade poderá ter prejuízos aos seus pontos de vida e a unidade de ataque corpo-a-corpo pode sofrer danos também. Não importa quão poucos pontos de vida que a cidade ainda tenha, ela sempre se defenderá com sua força de combate completa.</Text>
+			<Text>Quando uma unidade se engaja em combate corpo a corpo contra uma cidade, a cidade poderá ter prejuízos aos seus pontos de vida e a unidade de ataque corpo a corpo pode sofrer danos também. Não importa quão poucos pontos de vida que a cidade ainda tenha, ela sempre se defenderá com sua força de combate completa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ATTACKWITHMELEECOMBAT_HEADING3_BODY">
-			<Text>Quando uma unidade se engaja em combate corpo-a-corpo contra uma cidade, a cidade poderá ter prejuízos aos seus pontos de vida e a unidade de ataque corpo-a-corpo pode sofrer danos também. Não importa quão poucos pontos de vida que a cidade ainda tenha, ela sempre se defenderá com sua força de combate completa.</Text>
+			<Text>Quando uma unidade se engaja em combate corpo a corpo contra uma cidade, a cidade poderá ter prejuízos aos seus pontos de vida e a unidade de ataque corpo a corpo pode sofrer danos também. Não importa quão poucos pontos de vida que a cidade ainda tenha, ela sempre se defenderá com sua força de combate completa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ATTACKWITHMELEECOMBAT_HEADING3_TITLE">
-			<Text>Atacando cidades corpo-a-corpo</Text>
+			<Text>Atacando cidades corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ATTACKWITHRANGEDUNITS_ADV_QUEST">
 			<Text>Como atacar cidades com unidades de ataque a distância?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ATTACKWITHRANGEDUNITS_HEADING3_BODY">
-			<Text>Para atacar uma cidade com uma unidade de ataque a distância, mova a unidade para que a cidade fique dentro da área de alcance da unidade e, em seguida, pressione o botão direito do mouse sobre a cidade. Dependendo do poder por trás do ataque, os pontos de vida da cidade atingida podem ser reduzidos pelo ataque. (A unidade de ataque não é danificada, claro). Note que um ataque a distância não pode deixar a cidade com menos de 1 HP (Hit Point - Pontos de Vida); a cidade deve ser capturada por uma unidade de ataque corpo-a-corpo.</Text>
+			<Text>Para atacar uma cidade com uma unidade de ataque a distância, mova a unidade para que a cidade fique dentro da área de alcance da unidade e, em seguida, pressione o botão direito do mouse sobre a cidade. Dependendo do poder por trás do ataque, os pontos de vida da cidade atingida podem ser reduzidos pelo ataque. (A unidade de ataque não é danificada, claro). Note que um ataque a distância não pode deixar a cidade com menos de 1 HP (Hit Point - Pontos de Vida); a cidade deve ser capturada por uma unidade de ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_ATTACKWITHRANGEDUNITS_HEADING3_TITLE">
 			<Text>Atacando cidades a distância</Text>
@@ -6811,7 +6811,7 @@
 			<Text>Como posso determinar os resultados do combate a distância?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_COMBATRESULTS_HEADING3_BODY">
-			<Text>No final do combate a distância, a unidade alvo pode não ter sofrido nenhum dano, algum dano ou pode ter sido destruída. Lembre-se que a unidade de ataque nunca vai sofrer dano durante o combate a distância (exceto, possivelmente, para as unidades aéreas). Se a unidade destino for destruída, a unidade atacante não entra automaticamente no hexágono agora vago (que é o que geralmente acontece no combate corpo-a-corpo), mas você pode, naturalmente, enviar outra unidade para o espaço vazio, se você tem uma com pontos de movimento disponíveis.[NEWLINE]As unidades de ataque e defesa podem receber "pontos de experiência" (XPs) como resultado do combate. Veja a seção sobre "Promoções" para mais detalhes.</Text>
+			<Text>No final do combate a distância, a unidade alvo pode não ter sofrido nenhum dano, algum dano ou pode ter sido destruída. Lembre-se que a unidade de ataque nunca vai sofrer dano durante o combate a distância (exceto, possivelmente, para as unidades aéreas). Se a unidade destino for destruída, a unidade atacante não entra automaticamente no hexágono agora vago (que é o que geralmente acontece no combate corpo a corpo), mas você pode, naturalmente, enviar outra unidade para o espaço vazio, se você tem uma com pontos de movimento disponíveis.[NEWLINE]As unidades de ataque e defesa podem receber "pontos de experiência" (XPs) como resultado do combate. Veja a seção sobre "Promoções" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_COMBATRESULTS_HEADING3_TITLE">
 			<Text>Resultado de combate a distância</Text>
@@ -6820,7 +6820,7 @@
 			<Text>Como funcionam a força de combate de uma unidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_COMBATSTRENGTH_HEADING3_BODY">
-			<Text>Todas as unidades militares possuem Força de Combate. Unidades de ataque corpo-a-corpo usam-na ao atacar ou defender. Unidades de ataque a distância para se defenderem.</Text>
+			<Text>Todas as unidades militares possuem Força de Combate. Unidades de ataque corpo a corpo usam-na ao atacar ou defender. Unidades de ataque a distância para se defenderem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_COMBATSTRENGTH_HEADING3_TITLE">
 			<Text>Força de combate</Text>
@@ -6928,7 +6928,7 @@
 			<Text>Quais unidades podem se fortificar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_FORTIFY_HEADING4_BODY">
-			<Text>A maioria das unidades de ataque corpo-a-corpo podem se fortificar. As unidades não-militares, montadas, navais, blindadas e aéreas não podem. Estas unidades podem "dormir", o que significa que elas vão permanecer inativas até serem atacadas ou serem ativadas manualmente, mas elas não recebem o bônus defensivo.</Text>
+			<Text>A maioria das unidades de ataque corpo a corpo podem se fortificar. As unidades não-militares, montadas, navais, blindadas e aéreas não podem. Estas unidades podem "dormir", o que significa que elas vão permanecer inativas até serem atacadas ou serem ativadas manualmente, mas elas não recebem o bônus defensivo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_FORTIFY_HEADING4_TITLE">
 			<Text>Quais unidades podem se fortificar</Text>
@@ -6937,7 +6937,7 @@
 			<Text>O que significa alojar uma unidade em uma cidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_GARRISONINCITIES_HEADING3_BODY">
-			<Text>O dono de uma cidade pode "alojar" uma unidade militar no interior da cidade para reforçar suas defesas. Uma parte da força de combate da unidade alojada é adicionada à força da cidade. A unidade alojada não sofrerá nenhum dano quando a cidade for atacada. Porém, se a cidade for capturada, a unidade alojada é destruída.[NEWLINE][NEWLINE]Uma unidade estacionada na cidade pode atacar unidades inimigas ao redor, mas se o fizer a cidade perde seu bônus de alojamento e, se for um ataque corpo-a-corpo, a unidade pode sofrer danos durante o combate, como em um combate normal.</Text>
+			<Text>O dono de uma cidade pode "alojar" uma unidade militar no interior da cidade para reforçar suas defesas. Uma parte da força de combate da unidade alojada é adicionada à força da cidade. A unidade alojada não sofrerá nenhum dano quando a cidade for atacada. Porém, se a cidade for capturada, a unidade alojada é destruída.[NEWLINE][NEWLINE]Uma unidade estacionada na cidade pode atacar unidades inimigas ao redor, mas se o fizer a cidade perde seu bônus de alojamento e, se for um ataque corpo a corpo, a unidade pode sofrer danos durante o combate, como em um combate normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_GARRISONINCITIES_HEADING3_TITLE">
 			<Text>Alojar unidades em cidades</Text>
@@ -6952,7 +6952,7 @@
 			<Text>Grandes Generais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_HEADING1_BODY">
-			<Text>Combate ocorre entre duas entidades políticas que estão em guerra. Uma civilização pode estar em guerra com outra civilização ou com uma Cidade-Estado. Bárbaros estão sempre em guerra com todas as civilizações e Cidades-Estado.[NEWLINE]Existem três formas principais de combate: corpo-a-corpo, a distância e aéreo. Os dois primeiros ocorrem em quase todo o jogo, enquanto o último não acontece (naturalmente) até que alguém descubra o voo.[NEWLINE][NEWLINE]Já que isso ocorre bem tarde no jogo, você não precisa se preocupar como realizar ataques aéreos quando começar a jogar.</Text>
+			<Text>Combate ocorre entre duas entidades políticas que estão em guerra. Uma civilização pode estar em guerra com outra civilização ou com uma Cidade-Estado. Bárbaros estão sempre em guerra com todas as civilizações e Cidades-Estado.[NEWLINE]Existem três formas principais de combate: corpo a corpo, a distância e aéreo. Os dois primeiros ocorrem em quase todo o jogo, enquanto o último não acontece (naturalmente) até que alguém descubra o voo.[NEWLINE][NEWLINE]Já que isso ocorre bem tarde no jogo, você não precisa se preocupar como realizar ataques aéreos quando começar a jogar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_HEADING1_TITLE">
 			<Text>Combate</Text>
@@ -6985,13 +6985,13 @@
 			<Text>Pontos de vida</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_INITIATINGMELEE_ADV_QUEST">
-			<Text>Como posso iniciar um ataque corpo-a-corpo?</Text>
+			<Text>Como posso iniciar um ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_INITIATINGMELEE_HEADING3_BODY">
-			<Text>A unidade inicia o ataque corpo-a-corpo quando se move para o hexágono do inimigo. O atacante não pode iniciar o combate se não puder alcançar o hexágono do defensor. (Em outras palavras, um {TXT_KEY_UNIT_SPEARMAN} não pode entrar em combate corpo-a-corpo contra um barco, já que não pode entrar nesse espaço, exceto quando embarcaram)[NEWLINE][NEWLINE]Para ordenar a uma unidade ativa que ataque, clique com botão direito do mouse no alvo. A unidade ativa vai iniciar o combate.</Text>
+			<Text>A unidade inicia o ataque corpo a corpo quando se move para o hexágono do inimigo. O atacante não pode iniciar o combate se não puder alcançar o hexágono do defensor. (Em outras palavras, um {TXT_KEY_UNIT_SPEARMAN} não pode entrar em combate corpo a corpo contra um barco, já que não pode entrar nesse espaço, exceto quando embarcaram)[NEWLINE][NEWLINE]Para ordenar a uma unidade ativa que ataque, clique com botão direito do mouse no alvo. A unidade ativa vai iniciar o combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_INITIATINGMELEE_HEADING3_TITLE">
-			<Text>Iniciando o ataque corpo-a-corpo</Text>
+			<Text>Iniciando o ataque corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_INITIATINGRANGE_ADV_QUEST">
 			<Text>Como posso iniciar o combate a distância?</Text>
@@ -7012,31 +7012,31 @@
 			<Text>Campo de visão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEE_ADV_QUEST">
-			<Text>Como funciona o ataque corpo-a-corpo?</Text>
+			<Text>Como funciona o ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEE_HEADING2_BODY">
-			<Text>O ataque corpo-a-corpo ocorre quando uma unidade (qualquer unidade militar que não tenha a capacidade de atacar a distância) ataca uma unidade inimiga ou cidade. Não importa se o defensor é uma unidade de ataque a distância; desde que o atacante não tenha o ataque a distância a batalha resultante será física.</Text>
+			<Text>O ataque corpo a corpo ocorre quando uma unidade (qualquer unidade militar que não tenha a capacidade de atacar a distância) ataca uma unidade inimiga ou cidade. Não importa se o defensor é uma unidade de ataque a distância; desde que o atacante não tenha o ataque a distância a batalha resultante será física.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEE_HEADING2_TITLE">
-			<Text>Ataque corpo-a-corpo</Text>
+			<Text>Ataque corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_ADV_QUEST">
-			<Text>Como termina o ataque corpo-a-corpo?</Text>
+			<Text>Como termina o ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_HEADING3_BODY">
-			<Text>Quando duas unidades entram em combate corpo-a-corpo, o resultado é determinado pela relação de forças entre as duas unidades - por exemplo, se uma unidade poderosa luta com uma fraca, a unidade poderosa é susceptível de fazer muito mais dano ao seu inimigo, possivelmente a destruindo completamente.[NEWLINE][NEWLINE]No entanto, muitos fatores diferentes podem afetar a força de uma unidade em combate. Muitas unidades recebem "bônus de defesa", que irão aumentar a sua força de ataque corpo-a-corpo quando elas são atacadas, enquanto ocupam florestas ou montanhas ou estão fortificadas. Algumas unidades recebem bônus quando lutam contra outros tipos de unidade específica ({TXT_KEY_UNIT_SPEARMAN[2]} ganham bônus quando lutam contra unidades montadas, por exemplo). Além disso, os ferimentos de uma unidade podem reduzir a sua força de combate atual. (Veja a seção sobre bônus de combate para obter detalhes.)[NEWLINE][NEWLINE]A Tabela de Informações de Combate vai ajudar a determinar a relação de forças entre duas unidades de ataque corpo-a-corpo durante o seu turno.</Text>
+			<Text>Quando duas unidades entram em combate corpo a corpo, o resultado é determinado pela relação de forças entre as duas unidades - por exemplo, se uma unidade poderosa luta com uma fraca, a unidade poderosa é susceptível de fazer muito mais dano ao seu inimigo, possivelmente a destruindo completamente.[NEWLINE][NEWLINE]No entanto, muitos fatores diferentes podem afetar a força de uma unidade em combate. Muitas unidades recebem "bônus de defesa", que irão aumentar a sua força de ataque corpo a corpo quando elas são atacadas, enquanto ocupam florestas ou montanhas ou estão fortificadas. Algumas unidades recebem bônus quando lutam contra outros tipos de unidade específica ({TXT_KEY_UNIT_SPEARMAN[2]} ganham bônus quando lutam contra unidades montadas, por exemplo). Além disso, os ferimentos de uma unidade podem reduzir a sua força de combate atual. (Veja a seção sobre bônus de combate para obter detalhes.)[NEWLINE][NEWLINE]A Tabela de Informações de Combate vai ajudar a determinar a relação de forças entre duas unidades de ataque corpo a corpo durante o seu turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_HEADING3_TITLE">
-			<Text>Terminando o ataque corpo-a-corpo</Text>
+			<Text>Terminando o ataque corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEERESULTS_ADV_QUEST">
-			<Text>Como posso saber o que ocorreu após o ataque corpo-a-corpo?</Text>
+			<Text>Como posso saber o que ocorreu após o ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEERESULTS_HEADING3_BODY">
-			<Text>No final do ataque corpo-a-corpo, uma ou ambas as unidades podem ter danos sofridos e terem perdido "pontos de vida". Se os pontos de vida de uma unidade forem reduzidos a 0, essa unidade será destruída. Se depois do ataque corpo-a-corpo a unidade defensora for destruída e a atacante sobreviver, a unidade atacante mover-se-á para o hexágono do defensor, capturando todas as unidades não militares que, por ventura, estiverem lá. Se a unidade defensora sobreviver, manterá a posse de seus hexágonos e quaisquer outras unidades naquele espaço.[NEWLINE][NEWLINE]A maioria das unidades usa todos os seus pontos de movimento quando ataca. Algumas, no entanto, possuem a capacidade de se mover após o combate - se sobreviverem à batalha e possuírem pontos de movimento restando.[NEWLINE][NEWLINE]Qualquer unidade sobrevivente envolvida no combate receberá "pontos de experiência" (XPs), que podem ser gastos para dar promoções à unidade.</Text>
+			<Text>No final do ataque corpo a corpo, uma ou ambas as unidades podem ter danos sofridos e terem perdido "pontos de vida". Se os pontos de vida de uma unidade forem reduzidos a 0, essa unidade será destruída. Se depois do ataque corpo a corpo a unidade defensora for destruída e a atacante sobreviver, a unidade atacante mover-se-á para o hexágono do defensor, capturando todas as unidades não militares que, por ventura, estiverem lá. Se a unidade defensora sobreviver, manterá a posse de seus hexágonos e quaisquer outras unidades naquele espaço.[NEWLINE][NEWLINE]A maioria das unidades usa todos os seus pontos de movimento quando ataca. Algumas, no entanto, possuem a capacidade de se mover após o combate - se sobreviverem à batalha e possuírem pontos de movimento restando.[NEWLINE][NEWLINE]Qualquer unidade sobrevivente envolvida no combate receberá "pontos de experiência" (XPs), que podem ser gastos para dar promoções à unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEERESULTS_HEADING3_TITLE">
-			<Text>Resultados do ataque corpo-a-corpo</Text>
+			<Text>Resultados do ataque corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_METHODSOFXP_ADV_QUEST">
 			<Text>Como uma unidade pode ganhar experiência sem combater?</Text>
@@ -7048,7 +7048,7 @@
 			<Text>Outros métodos para ganhar XP</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MULTIPLECOMBAT_ADV_QUEST">
-			<Text>Como outras unidades afetam ataques corpo-a-corpo?</Text>
+			<Text>Como outras unidades afetam ataques corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MULTIPLECOMBAT_HEADING3_BODY">
 			<Text>Unidades recebem um Bônus de Flanco (Ataque) de 15% para cada unidade adjacente à unidade alvo. Algumas promoções e Políticas Sociais dão a uma unidade atacante bônus adicionais, além do bônus de flanco básico. Estes bônus podem ser incrivelmente poderosos. Em geral, quanto mais unidades "cercarem" a unidade alvo, melhor!</Text>
@@ -7108,7 +7108,7 @@
 			<Text>Como funciona o combate a distância?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_RANGED_HEADING2_BODY">
-			<Text>Algumas unidades, como Arqueiros, Catapultas e Trirremes se envolvem em Combate a Distância (isto é, eles atiram projéteis contra unidades inimigas) ao atacarem, ao invés de entrar em combate corpo-a-corpo. Essas unidades possuem duas vantagens sobre unidades de ataque corpo-a-corpo: em primeiro lugar, elas podem atacar unidades inimigas que não estão adjacentes a elas e, em segundo, elas não sofrem dano quando atacam.</Text>
+			<Text>Algumas unidades, como Arqueiros, Catapultas e Trirremes se envolvem em Combate a Distância (isto é, eles atiram projéteis contra unidades inimigas) ao atacarem, ao invés de entrar em combate corpo a corpo. Essas unidades possuem duas vantagens sobre unidades de ataque corpo a corpo: em primeiro lugar, elas podem atacar unidades inimigas que não estão adjacentes a elas e, em segundo, elas não sofrem dano quando atacam.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_RANGED_HEADING2_TITLE">
 			<Text>Combate a distância</Text>
@@ -7141,7 +7141,7 @@
 			<Text>Como armas de cerco funcionam?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_SEIGEWEAPONS_HEADING2_BODY">
-			<Text>Algumas armas de ataque a distância são classificadas como "armas de cerco" - Catapultas, Balistas, Trabucos etc. Estas unidades ganham bônus de combate quando atacam cidades inimigas. Elas são extremamente vulneráveis a ataques corpo-a-corpo e devem ser acompanhadas por outras unidades para defendê-las de ataques inimigos.[NEWLINE][NEWLINE]A maioria das armas de cerco deve ser "despreparada” para se mover pelo mapa. Quando chegam ao seu local de destino, elas devem gastar um ponto de movimento para "se preparar". Elas não podem atacar enquanto não estiverem montadas.[NEWLINE][NEWLINE]Armas de cerco são muito importantes. É muito difícil capturar uma cidade bem protegida sem elas!</Text>
+			<Text>Algumas armas de ataque a distância são classificadas como "armas de cerco" - Catapultas, Balistas, Trabucos etc. Estas unidades ganham bônus de combate quando atacam cidades inimigas. Elas são extremamente vulneráveis a ataques corpo a corpo e devem ser acompanhadas por outras unidades para defendê-las de ataques inimigos.[NEWLINE][NEWLINE]A maioria das armas de cerco deve ser "despreparada” para se mover pelo mapa. Quando chegam ao seu local de destino, elas devem gastar um ponto de movimento para "se preparar". Elas não podem atacar enquanto não estiverem montadas.[NEWLINE][NEWLINE]Armas de cerco são muito importantes. É muito difícil capturar uma cidade bem protegida sem elas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_SEIGEWEAPONS_HEADING2_TITLE">
 			<Text>Armas de cerco</Text>
@@ -7159,7 +7159,7 @@
 			<Text>Como os bônus de terrenos funcionam?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_TERRAINBONUS_HEADING3_BODY">
-			<Text>Unidades de Defesa recebem importantes bônus ao ocupar florestas, savanas ou colinas. Unidades de ataque corpo-a-corpo são penalizadas se atacarem um inimigo do outro lado de um rio. Atacar unidades dá bônus quando atacando de uma colina. Veja a seção "Terrenos" para maiores detalhes.</Text>
+			<Text>Unidades de Defesa recebem importantes bônus ao ocupar florestas, savanas ou colinas. Unidades de ataque corpo a corpo são penalizadas se atacarem um inimigo do outro lado de um rio. Atacar unidades dá bônus quando atacando de uma colina. Veja a seção "Terrenos" para maiores detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_TERRAINBONUS_HEADING3_TITLE">
 			<Text>Bônus de terrenos</Text>
@@ -8386,7 +8386,7 @@
 			<Text>Sem Bônus Defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ONLY_DEFENSIVE">
-			<Text>Não Pode Realizar ataques corpo-a-corpo</Text>
+			<Text>Não Pode Realizar ataques corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_OCEAN_IMPASSABLE_ASTRO">
 			<Text>É Necessário Astronomia</Text>
@@ -9001,7 +9001,7 @@
 			<Text>O que a habilidade especial bônus de combate faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_HEADING4_BODY">
-			<Text>Um Grande General fornece um bônus de combate de 20% para todas as unidades aliadas num espaço de 2 hexágonos. Este bônus aplica-se a todas as formas de combate: corpo-a-corpo, a distância, defesa, e assim por diante.</Text>
+			<Text>Um Grande General fornece um bônus de combate de 20% para todas as unidades aliadas num espaço de 2 hexágonos. Este bônus aplica-se a todas as formas de combate: corpo a corpo, a distância, defesa, e assim por diante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_HEADING4_TITLE">
 			<Text>Hab. especial: Bônus de Combate</Text>
@@ -9649,7 +9649,7 @@
 			<Text>A Siderurgia é tão velha quanto à história. O primeiro ferro fundido provavelmente veio dos meteoritos; quando este útil material não podia ser encontrado, as pessoas primitivas provavelmente procuravam por substâncias similares. A fundição - a extração do metal do minério de ferro - parece ter sido descoberta no século XII a.C., na Cordilheira do Cáucaso, Ásia Menor, ou possivelmente na Índia. A produção de ferro fundido data de aproximadamente 1.000 anos A.C. [NEWLINE][NEWLINE]Os exemplos mais antigos de objetos feitos de ferro de meteoritos foram encontrados no Egito Antigo e na Suméria e datam de 4.000 anos A.C. O ferro era extremamente raro naquele tempo e historiadores especulavam que ele valia mais que ouro.[NEWLINE][NEWLINE]Por volto do século XII a.C., o ferro substituiu largamente o bronze como metal preferido para ferramentas e armas no Mediterrâneo Oriental. O ferro da época não era um metal muito melhor do que o bronze que ele substitui, mas era bem mais abundante e era encontrado em muitos lugares em que o cobre e o estanho não estavam disponíveis, tornando-se mais barato.[NEWLINE][NEWLINE]O aço "moderno" foi primeiramente produzido em eras pré-históricas, mas a tecnologia para produção em larga escala só foi desenvolvimento em meados do século XVII d.C. Assim que o aço tornou-se mais barato e comum, ele suplantou o ferro em muitos usos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_HELP">
-			<Text>Revela [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]Ferro[ENDCOLOR] e permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SWORDSMAN}[ENDCOLOR], uma unidade poderosa de ataque corpo-a-corpo que requer o metal.</Text>
+			<Text>Revela [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]Ferro[ENDCOLOR] e permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SWORDSMAN}[ENDCOLOR], uma unidade poderosa de ataque corpo a corpo que requer o metal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Não espere o ferro esfriar para bater; deixe-o quente batendo."[NEWLINE][TAB][TAB] - William Butler Yeats[NEWLINE][TAB]</Text>
@@ -10468,13 +10468,13 @@
 			<Text>Essas unidades de artilharia especializadas atacarão automaticamente qualquer unidade aérea que bombardear um alvo a dois hexágonos de distância (Elas podem interceptar uma unidade por turno). Elas são bastante fracas em contate contra unidades terrestres e devem ser protegidas por unidades mais fortes contra ataques do chão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARABIAN_CAMELARCHER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade árabe exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é mais fraco que o {TXT_KEY_UNIT_KNIGHT} em ataque corpo-a-corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
+			<Text>O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade árabe exclusiva, que substitui o {TXT_KEY_UNIT_KNIGHT}. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é uma unidade de ataque a distância poderosa, permitindo causar dano em inimigos que estejam a dois hexágonos de distância. Ela pode mover-se após o combate. O {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} é mais fraco que o {TXT_KEY_UNIT_KNIGHT} em ataque corpo a corpo. Sendo uma unidade montada, ela é vulnerável ao ataque dos {TXT_KEY_UNIT_PIKEMAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARCHER_STRATEGY">
-			<Text>Esta é a primeira unidade de ataque a distância. Ela pode atacar inimigos a 1 ou 2 hexágonos de distância e é extremamente importante no início do jogo, quando estiver atacando cidades. Entretanto, é bastante fraca quando atacada por outras unidades. Designe-a para fortalecer cidades ou a mantenha atrás de suas linhas, protegidas por unidades de ataque corpo-a-corpo.</Text>
+			<Text>Esta é a primeira unidade de ataque a distância. Ela pode atacar inimigos a 1 ou 2 hexágonos de distância e é extremamente importante no início do jogo, quando estiver atacando cidades. Entretanto, é bastante fraca quando atacada por outras unidades. Designe-a para fortalecer cidades ou a mantenha atrás de suas linhas, protegidas por unidades de ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARTILLERY_STRATEGY">
-			<Text>Artilharia é uma arma de certo mortal, mais poderosa que o canhão e um grande alcance. Como o canhão, ela possui visibilidade limitada e deve ser preparada (1 pm) antes de atacar, mas sua força de "Combate a Distância" é tremenda. A Artilharia também possui a habilidade "foro indireto", que lhe permite atirar sobre alvos obstruídos, impossíveis de ela ver. Como outras armas de cerco, a Artilharia é vulnerável a um ataque corpo-a-corpo.</Text>
+			<Text>Artilharia é uma arma de certo mortal, mais poderosa que o canhão e um grande alcance. Como o canhão, ela possui visibilidade limitada e deve ser preparada (1 pm) antes de atacar, mas sua força de "Combate a Distância" é tremenda. A Artilharia também possui a habilidade "foro indireto", que lhe permite atirar sobre alvos obstruídos, impossíveis de ela ver. Como outras armas de cerco, a Artilharia é vulnerável a um ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AT_GUN_STRATEGY">
 			<Text>A {TXT_KEY_UNIT_AT_GUN} é uma unidade de combate especializada, que é bastante potente contra {TXT_KEY_UNIT_TANK[2]} inimigos, mas fraca quando combatente com outras unidades. Use seus próprios {TXT_KEY_UNIT_TANK[2]} para protegê-la e artilharia para uma enérgica força de luta.</Text>
@@ -10495,7 +10495,7 @@
 			<Text>O Bombardeiro é uma unidade aérea. É efetivo contra alvos terrestres, mas não tanto contra alvos marítimos e é bastante vulnerável às aeronaves inimigas. O Bombardeiro pode estar baseado em uma cidade aliada ou a bordo de um Porta-aviões. Ele pode ser mover de uma base à outra e realizar missões em um alcance de "10". Use Bombardeiros para atacar unidades e cidades inimigas. Quando possível, envie Aviões de Combate primeiro para "usar" as defesas antiaéreas do inimigo naquele turno. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CANNON_STRATEGY">
-			<Text>O Canhão é uma unidade de certo muito importante no meio do jogo, capaz de devastar civilizações que ainda não o possuem. Como outras unidades de cerco, o Canhão deve gastar 1 ponto de movimento para se preparar para o ataque. Canhões permanecem potentes durante a Era Industrial. Canhões não podem ver tão longe como outras unidades e devem ser protegidas por unidades de ataque corpo-a-corpo.</Text>
+			<Text>O Canhão é uma unidade de certo muito importante no meio do jogo, capaz de devastar civilizações que ainda não o possuem. Como outras unidades de cerco, o Canhão deve gastar 1 ponto de movimento para se preparar para o ataque. Canhões permanecem potentes durante a Era Industrial. Canhões não podem ver tão longe como outras unidades e devem ser protegidas por unidades de ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARAVEL_STRATEGY">
 			<Text>A Caravela é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque a distância, é mais forte e mais rápida que o Barco a Remo e pode navegar em águas oceânicas profundas. A Caravela possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na metade do jogo. Esse raio de visão é perdido se a Caravela for atualizada para um Destróier.</Text>
@@ -10504,10 +10504,10 @@
 			<Text>O Porta-aviões é uma embarcação especializada que transporta Aviões de Combate, Bombardeiros (exceto Bombardeiros Furtivos) e Bombas Atômicas. O Porta-aviões em si é incapaz de atacar, mas as aeronaves que ele transporta o tornam a mais poderosa arma ofensiva flutuante. Defensivamente, por outro lado, o Porta-aviões é fraco e deveria ser escoltado por Destróiers e Submarinos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CATAPULT_STRATEGY">
-			<Text>A Catapulta é uma arma de cerco, extremamente útil quando atacando cidades inimigas no início do jogo. É lenta e extremamente vulnerável aos ataques corpo-a-corpo dos inimigos; ela sempre deve estar amparada por outras unidades quando em campo. A Catapulta deve se preparar (1 ponto de movimento) antes de atacar.</Text>
+			<Text>A Catapulta é uma arma de cerco, extremamente útil quando atacando cidades inimigas no início do jogo. É lenta e extremamente vulnerável aos ataques corpo a corpo dos inimigos; ela sempre deve estar amparada por outras unidades quando em campo. A Catapulta deve se preparar (1 ponto de movimento) antes de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
-			<Text>As unidades de {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades de ataque corpo-a-corpo, a distância ou de cerco, mas pouco efetiva contra outras unidades montadas. Use-as para destruir Mosqueteiros e entrar nas linhas inimigas com sua habilidade de se mover após um ataque. A {TXT_KEY_UNIT_CAVALRY} é bastante vulnerável ao destruidor de unidades montadas, o {TXT_KEY_UNIT_LANCER}.</Text>
+			<Text>As unidades de {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades de ataque corpo a corpo, a distância ou de cerco, mas pouco efetiva contra outras unidades montadas. Use-as para destruir Mosqueteiros e entrar nas linhas inimigas com sua habilidade de se mover após um ataque. A {TXT_KEY_UNIT_CAVALRY} é bastante vulnerável ao destruidor de unidades montadas, o {TXT_KEY_UNIT_LANCER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER_STRATEGY">
 			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em campo aberto. Eles são um pouco mais poderosos que o {TXT_KEY_UNIT_ARCHER} e podem se mover a distâncias duas vezes maiores. Entretanto, {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} sofrem uma penalidade de movimento quando entram em terrenos com Florestas, Selvas ou Colinas (a não ser que estradas tenham sido construídas neles). Como toda unidade montada, os {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são vulneráveis ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
@@ -10516,7 +10516,7 @@
 			<Text>O Chu-Ko-Nu é a unidade chinesa única, que substitui o Besteiro. O Chu-Ko-Nu é um pouco menos poderoso que o Besteiro, mas ele pode atacar duas vezes durante um turno, dando grande vantagem ofensiva. Esta unidade é particularmente mortal quando fortificando uma cidade que esteja sendo atacada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN_STRATEGY">
-			<Text>O Besteiro é muito mais poderoso que o Arqueiro. Como uma unidade de ataque a distância, ele pode causar dano significativo a outras unidades da Era Medieval até dois hexágonos de distância, mas é vulnerável a ataque corpo-a-corpo. Coloque Besteiros em sua cidade para defendê-la e as proteja com unidades de ataque corpo-a-corpo quando se moverem.</Text>
+			<Text>O Besteiro é muito mais poderoso que o Arqueiro. Como uma unidade de ataque a distância, ele pode causar dano significativo a outras unidades da Era Medieval até dois hexágonos de distância, mas é vulnerável a ataque corpo a corpo. Coloque Besteiros em sua cidade para defendê-la e as proteja com unidades de ataque corpo a corpo quando se moverem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DESTROYER_STRATEGY">
 			<Text>O Destróier é preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades "embarcáveis", Super Couraçados e Porta-aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Destróier é surpreendentemente rápido e seu fogo indireto lhe permite bombardear alvos que ele não pode ver.</Text>
@@ -10525,7 +10525,7 @@
 			<Text>A {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é uma unidade egípcia exclusiva, que substitui o {TXT_KEY_UNIT_CHARIOT_ARCHER}. É mais rápida que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e o jogador egípcio pode construí-la mesmo não tendo o recurso [ICON_RES_HORSE]Cavalo. Sendo uma unidade montada, a {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é bastante vulnerável ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_LONGBOWMAN_STRATEGY">
-			<Text>O Arqueiro de Arco Longo é a unidade inglesa única, que substitui o Besteiro. O Arqueiro de Arco Longo possui um maior alcance que o Besteiro, o que o torna capaz de atacar inimigos a três hexágonos de distância, muitas vezes os destruindo antes que eles possam atacar de volta. Como outras unidades de ataque a distância,o Arqueiro de Arco Longo é vulnerável a ataques corpo-a-corpo.</Text>
+			<Text>O Arqueiro de Arco Longo é a unidade inglesa única, que substitui o Besteiro. O Arqueiro de Arco Longo possui um maior alcance que o Besteiro, o que o torna capaz de atacar inimigos a três hexágonos de distância, muitas vezes os destruindo antes que eles possam atacar de volta. Como outras unidades de ataque a distância,o Arqueiro de Arco Longo é vulnerável a ataques corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE_STRATEGY">
 			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} é a unidade inglesa exclusiva, que substitui a {TXT_KEY_UNIT_FRIGATE}. O {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} tem uma força de combate à distância um pouco maior que a {TXT_KEY_UNIT_FRIGATE} e é mais barato para construir. Ele pode ver um hexágono a mais que a {TXT_KEY_UNIT_FRIGATE}, permitindo-lhe descobrir inimigos em uma porção significativamente grande do oceano.</Text>
@@ -10582,7 +10582,7 @@
 			<Text>O Helicóptero Armado é uma unidade aérea mortal que, para todos os efeitos, age como uma unidade terrestre, exceto que não pode capturar cidades. Seu movimento de "6" o torna extremamente rápido e pode se movimentar sobre qualquer tipo de terreno, incluindo montanhas, mas devem "embarcar" para atravessar a água. Os Helicópteros Armados recebem um grande bônus de combate quando atacam Tanques.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_HORSEMAN} é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo-a-corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}, {TXT_KEY_UNIT_PIKEMAN} e similares.</Text>
+			<Text>O {TXT_KEY_UNIT_HORSEMAN} é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo a corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}, {TXT_KEY_UNIT_PIKEMAN} e similares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INDIAN_WARELEPHANT_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT} é uma unidade indiana exclusiva, que substitui a {TXT_KEY_UNIT_CHARIOT_ARCHER}. É bem mais poderoso, embora mais lento, que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e pode se mover através de qualquer terreno sem as penalidades do seu predecessor. Por ser uma unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}.</Text>
@@ -10663,7 +10663,7 @@
 			<Text>Unidade única romana, mais poderosa que a Catapulta, que substitui, a Balista é uma excelente arma de cerco. É extremamente útil contra cidades, mas é muito vulnerável a ataques. Certifique-se de proteger a Balista com outras unidades militares. A Balista deve primeiro se preparar (1 ponto de movimento) antes de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROMAN_LEGION_STRATEGY">
-			<Text>A Legião é a unidade romana única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. É mais poderosa que o seu predecessor, tornando-a a unidade de ataque corpo-a-corpo mais poderosa da Era Clássica. A Legião também pode construir estradas e é a única unidade militar capaz de fazê-lo.</Text>
+			<Text>A Legião é a unidade romana única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. É mais poderosa que o seu predecessor, tornando-a a unidade de ataque corpo a corpo mais poderosa da Era Clássica. A Legião também pode construir estradas e é a única unidade militar capaz de fazê-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RUSSIAN_COSSACK_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_RUSSIAN_COSSACK} é a unidade russa exclusiva, que substitui a {TXT_KEY_UNIT_CAVALRY}. Ele possui a mesma força que a {TXT_KEY_UNIT_CAVALRY} e podem se mover após atacar. Entretanto, recebem um forte bônus quando atacam unidades danificadas. Isso o torna excepcionalmente forte em contra-ataques - deixe o inimigo mastigar a linha de frente, e então acabe com ele com uma carga de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]}!</Text>
@@ -10690,16 +10690,16 @@
 			<Text>O Submarino é uma embarcação especializada em afundar outras embarcações. É invisível para a maioria das outras unidades - exceto aos Destróiers e a outros Submarinos - até que ela ataque ou fique adjacente a outra unidade. O Submarino por entrar em hexágonos com gelo. Use-o para patrulhar águas inimigas, destruir embarcações e guardar suas próprias embarcações de outros submarinos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWORDSMAN_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SWORDSMAN} é uma unidade padrão de ataque corpo-a-corpo poderosa da Era Clássica, sendo muito mais forte que o {TXT_KEY_UNIT_SPEARMAN} e o Guerreiro. São bastante úteis para atacar cidades do início do jogo.</Text>
+			<Text>O {TXT_KEY_UNIT_SWORDSMAN} é uma unidade padrão de ataque corpo a corpo poderosa da Era Clássica, sendo muito mais forte que o {TXT_KEY_UNIT_SPEARMAN} e o Guerreiro. São bastante úteis para atacar cidades do início do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TANK_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_TANK} é uma unidade terrestre móvel extremamente poderosa. Pode se mover após atacar, o que o torna capaz de fazer grandes furos nas linhas inimigas e, então, se preparar em novos hexágonos vazios. O {TXT_KEY_UNIT_TANK} recebe uma pequena penalidade quando ataca cidades inimigas, portanto, é uma boa ideia iniciar o ataque com um {TXT_KEY_UNIT_TANK} e terminar com o avanço da Artilharia ou Infantaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TREBUCHET_STRATEGY">
-			<Text>O Trabuco é uma arma de cerco medieval, significativamente mais poderosa que sua unidade predecessora, a Catapulta. O Trabuco deve gastar 1 ponto de movimento para se preparar, mas assim que estiver em posição, pode causar sérios danos às cidades inimigas fortificadas. Defenda seus Trabucos com unidades de ataque corpo-a-corpo e a distância, para evitar que inimigos cheguem muito perto.</Text>
+			<Text>O Trabuco é uma arma de cerco medieval, significativamente mais poderosa que sua unidade predecessora, a Catapulta. O Trabuco deve gastar 1 ponto de movimento para se preparar, mas assim que estiver em posição, pode causar sérios danos às cidades inimigas fortificadas. Defenda seus Trabucos com unidades de ataque corpo a corpo e a distância, para evitar que inimigos cheguem muito perto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
-			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta "Força de Ataque a Distância". Não é capaz de iniciar um ataque corpo-a-corpo. O Barco a Remo é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
+			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta "Força de Ataque a Distância". Não é capaz de iniciar um ataque corpo a corpo. O Barco a Remo é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WARRIOR_STRATEGY">
 			<Text>O Guerreiro é a primeira unidade de combate disponível, útil para combater Bárbaros, defender as cidades iniciais e para fazer explorações pequenas. Normalmente Guerreiros não são fortes o suficiente para tomar cidades inimigas, a não ser que sejam fortemente auxiliados por Arqueiros e Catapultas - e mesmo assim eles não podem ser fortes o bastante.</Text>
@@ -10744,7 +10744,7 @@
 			<Text>Quais sãos os tipos de unidades de combate?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_COMBATUNITS_HEADING2_BODY">
-			<Text>Unidades de combate são divididas em várias categorias, incluindo "Unidades de ataque corpo-a-corpo", "Unidades de Ataque a Distância", "Unidades Navais" e "Unidades Aéreas".</Text>
+			<Text>Unidades de combate são divididas em várias categorias, incluindo "Unidades de ataque corpo a corpo", "Unidades de Ataque a Distância", "Unidades Navais" e "Unidades Aéreas".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_COMBATUNITS_HEADING2_TITLE">
 			<Text>Unidades de Combate</Text>
@@ -10822,7 +10822,7 @@
 			<Text>Como as unidades podem lutar?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_UNITCOMBAT_HEADING2_BODY">
-			<Text>Unidades militares podem entrar em combate contra outras unidades ou cidades. A maioria das unidades militares é de "ataque corpo-a-corpo", o que significa que podem atacar apenas os inimigos que estejam em hexágonos diretamente adjacentes a elas. Algumas unidades militares são de "ataque a distância", significando que podem atacar inimigos a um ou mais hexágonos de distância.[NEWLINE][NEWLINE]Veja a seção "Combate" para detalhes.</Text>
+			<Text>Unidades militares podem entrar em combate contra outras unidades ou cidades. A maioria das unidades militares é de "ataque corpo a corpo", o que significa que podem atacar apenas os inimigos que estejam em hexágonos diretamente adjacentes a elas. Algumas unidades militares são de "ataque a distância", significando que podem atacar inimigos a um ou mais hexágonos de distância.[NEWLINE][NEWLINE]Veja a seção "Combate" para detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_UNITCOMBAT_HEADING2_TITLE">
 			<Text>Unidade de Combate</Text>

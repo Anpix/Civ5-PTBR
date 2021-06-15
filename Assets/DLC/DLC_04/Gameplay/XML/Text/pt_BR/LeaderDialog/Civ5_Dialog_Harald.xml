@@ -14,7 +14,7 @@
       <Text>Salve, pequeno líder! Tu te encontras na presença do grande Harald Bluetooth. Hmm... com que conto de bravura devo satisfazer-te hoje?</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_3">
-      <Text>Oh, fantástico! Um novo desafiante! Harald Bluetooth deseja-te boas vindas em suas terras. Talvez um dia teremos a honra de treinarmos juntos!</Text>
+      <Text>Oh, fantástico! Um novo desafiante! Harald Bluetooth deseja-te boas-vindas em suas terras. Talvez um dia teremos a honra de treinarmos juntos!</Text>
     </Row>
     <!--Reacts to his bluff being called -->
     <Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_1">

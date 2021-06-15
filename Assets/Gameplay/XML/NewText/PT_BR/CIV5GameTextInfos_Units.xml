@@ -1245,7 +1245,7 @@
 			<Text>Incapaz de capturar cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ONLY_DEFENSIVE">
-			<Text>Não pode realizar ataques corpo-a-corpo</Text>
+			<Text>Não pode realizar ataques corpo a corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUSES">
 			<Text>Sem bônus terrestres defensivos</Text>

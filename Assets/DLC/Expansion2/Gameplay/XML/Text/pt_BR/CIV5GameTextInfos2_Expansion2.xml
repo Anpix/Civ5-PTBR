@@ -180,7 +180,7 @@
 			<Text>Unidade montada especializada em ataques rápidos. Só pode ser treinada pelos Shoshones.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INDONESIAN_KRIS_SWORDSMAN">
-			<Text>Unidade de ataque corpo-a-corpo da Era Clássica que possui uma arma mística, cujas habilidades serão descobertas na primeira vez que for usada em combate. Só pode ser treinada pela Indonésia.</Text>
+			<Text>Unidade de ataque corpo a corpo da Era Clássica que possui uma arma mística, cujas habilidades serão descobertas na primeira vez que for usada em combate. Só pode ser treinada pela Indonésia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BAZOOKA">
 			<Text>Unidade de ataque a distância da Era Atômica que deve estar adjacente a um inimigo para atacar.</Text>
@@ -195,7 +195,7 @@
 			<Text>Especializados em derrotar {TXT_KEY_UNIT_KNIGHT[2]} e outras unidades montadas. Somente os Zulus podem treiná-los. Além disso, realizam um primeiro ataque a distância antes do combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ASSYRIAN_SIEGE_TOWER">
-			<Text>Unidade poderosa de cerco corpo-a-corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
+			<Text>Unidade poderosa de cerco corpo a corpo que fornece às unidades próximas um bônus de ataque a cidades, quando estiverem perto de uma cidade inimiga. Só pode ser construída pelos {TXT_KEY_CIV_ASSYRIA_ADJECTIVE[3]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA">
 			<Text>Unidade de infantaria da Era Moderna que ganha pontos para geração de uma [ICON_GOLDEN_AGE]Era Dourada quando derrota um inimigo. Só pode ser treinada pelo Brasil.</Text>
@@ -204,7 +204,7 @@
 			<Text>Pesada unidade montada, especializada em derrotar outras unidades montadas inimigas. Esta unidade é mais rápida e mais poderosa que o {TXT_KEY_UNIT_LANCER}, a qual substitui. Ela força os defensores a recuarem quando ela causa um dano maior do que o dano que recebe. Só pode ser treinada pelos Poloneses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU">
-			<Text>Unidade naval de combate corpo-a-corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES]Movimento que a {TXT_KEY_UNIT_CARAVEL}, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD]Ouro e XP. Só pode ser construída pelos Portugueses.</Text>
+			<Text>Unidade naval de combate corpo a corpo, excelente na exploração marítima. Possui mais pontos de [ICON_MOVES]Movimento que a {TXT_KEY_UNIT_CARAVEL}, a qual ela substitui, e pode utilizar uma habilidade de uso único próximo a território estrangeiro para ganhar [ICON_GOLD]Ouro e XP. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
 			<Text>Forte unidade de infantaria capaz de aterrissar em até 9 hexágonos de um território amigo. {TXT_KEY_UNIT_PARATROOPER[2]} também podem se mover e saquear após a aterrissagem, mas não podem entrar em combate até o turno seguinte.</Text>
@@ -394,7 +394,7 @@
 			<Text>Força o defensor a recuar se causar mais dano que receber. Um defensor que não pode recuar recebe dano extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_GUNPOWDER_HELP">
-			<Text>Antes de atacar corpo-a-corpo, esta unidade possui um ataque extra.</Text>
+			<Text>Antes de atacar corpo a corpo, esta unidade possui um ataque extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST">
 			<Text>Peito de Búfalo</Text>
@@ -611,7 +611,7 @@
 			<Text>50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moais, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo dos Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
-			<Text>Substituta Zulu único para o {TXT_KEY_BUILDING_BARRACKS}. Concede promoções únicas para unidades de ataque corpo-a-corpo pré-pólvora.</Text>
+			<Text>Substituta Zulu único para o {TXT_KEY_BUILDING_BARRACKS}. Concede promoções únicas para unidades de ataque corpo a corpo pré-pólvora.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
 			<Text>+1 de [ICON_FOOD]Alimento de hexágonos costeiros e oceânicos. +1 de [ICON_PRODUCTION]Produção de recursos marítimos explorados por esta cidade.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_FISH]Peixe explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]A cidade deve estar construída na costa.</Text>

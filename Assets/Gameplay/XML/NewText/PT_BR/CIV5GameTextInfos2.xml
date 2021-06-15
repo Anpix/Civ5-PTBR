@@ -770,7 +770,7 @@
             <Text>Aéreo</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_MELEE">
-            <Text>Corpo-a-corpo</Text>
+            <Text>corpo a corpo</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_RECON">
             <Text>Reconhecimento</Text>
@@ -1819,10 +1819,10 @@
 			<Text>{@1: gender masculine?{@1: plural 1?Seu; other?Seus;}; feminine?{@1: plural 1?Sua; other?Suas;};} {@1_UnitName} {@1: gender masculine?{@1: plural 1?foi destruído; other?foram destruídos;}; feminine?{@1: plural 1?foi destruída; other?foram destruídas;};} por desgaste!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_FRIENDLY_UNIT_WITHDREW">
-			<Text>{@1: gender masculine?{@1: plural 1?Nosso; other?Nossos;}; feminine?{@1: plural 1?Nossa; other?Nossas;};} {@1_Num} {@1: plural 1?recuou; other?recuaram;} de um ataque corpo-a-corpo inimigo.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?Nosso; other?Nossos;}; feminine?{@1: plural 1?Nossa; other?Nossas;};} {@1_Num} {@1: plural 1?recuou; other?recuaram;} de um ataque corpo a corpo inimigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_ENEMY_UNIT_WITHDREW">
-			<Text>{@1: gender masculine?{@1: plural 1?Um; other?Uns;}; feminine?{@1: plural 1?Uma; other?Umas;};} {@1_Num} {@1: gender masculine?{@1: plural 1?inimigo fugiu; other?inimigos fugiram;}; feminine?{@1: plural 1?inimiga fugiu; other?inimigas fugiram;};} do seu ataque corpo-a-corpo.</Text>
+			<Text>{@1: gender masculine?{@1: plural 1?Um; other?Uns;}; feminine?{@1: plural 1?Uma; other?Umas;};} {@1_Num} {@1: gender masculine?{@1: plural 1?inimigo fugiu; other?inimigos fugiram;}; feminine?{@1: plural 1?inimiga fugiu; other?inimigas fugiram;};} do seu ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PROTECTED_CITY_STATE">
       <Text>Isso significa GUERRA contra {1_Team}?!? Eles estão sob proteção de: </Text>
