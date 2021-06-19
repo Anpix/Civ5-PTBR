@@ -142,7 +142,7 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
-			<Text>corpo a corpo - Naval</Text>
+			<Text>Corpo a Corpo - Naval</Text>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">

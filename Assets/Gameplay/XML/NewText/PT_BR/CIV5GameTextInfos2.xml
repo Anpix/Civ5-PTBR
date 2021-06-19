@@ -770,7 +770,7 @@
             <Text>Aéreo</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_MELEE">
-            <Text>corpo a corpo</Text>
+            <Text>Corpo a Corpo</Text>
         </Row>
         <Row Tag="TXT_KEY_UNITCOMBAT_RECON">
             <Text>Reconhecimento</Text>
