@@ -335,7 +335,7 @@
 			<Text>Combat Bonus in Forest/Jungle (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HOLY_SITE_TEXT">
-			<Text>A place of religious significance, holy sites are locations held sacred as a testament to the gods, prophets, and traditions of a given religion. Often the destination for religious pilgrims, these sites are often visited by the faithful in the hopes of strengthening their connection to God, while also paying their respects.</Text>
+			<Text>Um lugar de significado religioso, os {TXT_KEY_IMPROVEMENT_HOLY_SITE[2]} são locais considerados sagrados como um testamento aos deuses, profetas e tradições de uma determinada religião. Muitas vezes, destino de peregrinos religiosos, esses locais são frequentemente visitados pelos fiéis na esperança de fortalecer sua conexão com Deus, ao mesmo tempo em que prestam homenagem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MEHAL_SEFARI_TEXT">
 			<Text>The Mehal Sefari was an elite unit of Imperial guardsmen who protected the emperors of Ethiopia in the 19th and 20th centuries. Originally serving as the personal bodyguards for the emperors of Ethiopia, the Mehal Sefari grew to become a formidable brigade of the Ethiopian military. Consisting of specialized units of infantry, cavalry, artillery and marksmen, the Mehal Sefari's status as the elite force of Ethiopia was ensured by the rigorous training and modern equipment provided to them.</Text>

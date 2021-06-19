@@ -32,10 +32,10 @@
             <Text>[COLOR_POSITIVE_TEXT]Exército Profissional[ENDCOLOR][NEWLINE]O custo em [ICON_GOLD]Ouro para atualizar unidades militares é reduzido em 33% e a construção de Quartéis, Arsenais e Academias Militares ocorre 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Piedade[ENDCOLOR] aumenta a [ICON_PEACE]Fé do Império.[NEWLINE][NEWLINE]Adotando Piedade, a construção de Santuários e Templos ocorre na metade do tempo normal. Desbloqueia a construção da Grande Mesquita de Djenné.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Piedade, um Grande Profeta aparecerá e Locais Santos fornecerão +3 de [ICON_CULTURE]Cultura.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Piedade[ENDCOLOR] aumenta a [ICON_PEACE]Fé do Império.[NEWLINE][NEWLINE]Adotando Piedade, a construção de Santuários e Templos ocorre na metade do tempo normal. Desbloqueia a construção da Grande Mesquita de Djenné.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Piedade, um Grande Profeta aparecerá e {TXT_KEY_IMPROVEMENT_HOLY_SITE[2]} fornecerão +3 de [ICON_CULTURE]Cultura.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_THEOCRACY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Teocracia[ENDCOLOR][NEWLINE]Templos aumentam a produção de [ICON_GOLD]Ouro das cidades em 25%. Locais Santos fornecem +3 de [ICON_GOLD]Ouro.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Teocracia[ENDCOLOR][NEWLINE]Templos aumentam a produção de [ICON_GOLD]Ouro das cidades em 25%. {TXT_KEY_IMPROVEMENT_HOLY_SITE[2]} fornecem +3 de [ICON_GOLD]Ouro.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Mandato Divino[ENDCOLOR][NEWLINE]20% de desconto em todas as compras de unidades e edifícios religiosos com [ICON_PEACE]Fé.</Text>

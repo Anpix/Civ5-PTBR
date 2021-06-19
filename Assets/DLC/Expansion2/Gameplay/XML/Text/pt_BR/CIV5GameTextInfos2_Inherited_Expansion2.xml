@@ -204,7 +204,7 @@
 		</Row>
 		<!--UNITS-->
 		<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY">
-			<Text>O Grande Profeta é a única unidade que pode fundar e aperfeiçoar uma religião. Ele também pode construir a melhoria especial Local Santo que, quando explorado, produz grande quantidade de [ICON_PEACE]Fé. Alternadamente, o Grande Profeta pode disseminar religião 4 vezes (substituindo qualquer religião existente na cidade). O Grande Profeta é consumido quando usado em qualquer uma dessas formas.</Text>
+			<Text>O Grande Profeta é a única unidade que pode fundar e aperfeiçoar uma religião. Ele também pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_HOLY_SITE} que, quando explorado, produz grande quantidade de [ICON_PEACE]Fé. Alternadamente, o Grande Profeta pode disseminar religião 4 vezes (substituindo qualquer religião existente na cidade). O Grande Profeta é consumido quando usado em qualquer uma dessas formas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MISSIONARY_STRATEGY">
 			<Text>Pode ser comprado com [ICON_PEACE]Fé em qualquer cidade com uma Religião predominante. Uma vez adjacente a uma cidade, ele pode disseminar sua religião a ela (consumindo o Missionário após o segundo uso). Se um Missionário entrar em território de outra civilização sem o acordo de Abertura de Fronteiras, sua Força Religiosa é reduzida a cada turno. Se a Força Religiosa do Missionário chegar a zero, ele será destruído.</Text>
@@ -950,7 +950,7 @@
 			<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_SUMMARY">
-			<Text>[ICON_PEACE]Fé é a moeda que lhe permite fundar um Panteão, criar um Grande Profeta e pode ser usada para comprar unidades e edifícios religiosos.[NEWLINE][NEWLINE]Há várias fontes para pontos de [ICON_PEACE]Fé. Há edifícios e maravilhas que fornecem certa quantidade de [ICON_PEACE]Fé por turno, se você construí-los em suas cidades. Algumas Maravilhas Naturais também podem gerá-la quando estão sendo exploradas. Você pode encontrar [ICON_PEACE]Fé em uma Ruína Antiga. Se você for amigo de uma Cidade-Estado religiosa, ela também irá contribuir regularmente com presentes. E a última fonte de [ICON_PEACE]Fé é a melhoria Local Santo, que Grandes Profetas podem construir em seu território.</Text>
+			<Text>[ICON_PEACE]Fé é a moeda que lhe permite fundar um Panteão, criar um Grande Profeta e pode ser usada para comprar unidades e edifícios religiosos.[NEWLINE][NEWLINE]Há várias fontes para pontos de [ICON_PEACE]Fé. Há edifícios e maravilhas que fornecem certa quantidade de [ICON_PEACE]Fé por turno, se você construí-los em suas cidades. Algumas Maravilhas Naturais também podem gerá-la quando estão sendo exploradas. Você pode encontrar [ICON_PEACE]Fé em uma Ruína Antiga. Se você for amigo de uma Cidade-Estado religiosa, ela também irá contribuir regularmente com presentes. E a última fonte de [ICON_PEACE]Fé é a melhoria {TXT_KEY_IMPROVEMENT_HOLY_SITE}, que Grandes Profetas podem construir em seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_ADVISOR_QUESTION">
 			<Text>Como posso obter Fé?</Text>
@@ -1265,10 +1265,10 @@
 			<Text>Quais são as habilidades especiais do Grande Profeta?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_TITLE">
-			<Text>Melhoria Especial: Local Santo</Text>
+			<Text>Melhoria Especial: {TXT_KEY_IMPROVEMENT_HOLY_SITE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_BODY">
-			<Text>Um Grande Profeta pode construir a melhoria especial Local Santo que, quando explorado, produz [ICON_PEACE]Fé adicional. O Grande Profeta é consumido quando usado desta forma.</Text>
+			<Text>Um Grande Profeta pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_HOLY_SITE} que, quando explorado, produz [ICON_PEACE]Fé adicional. O Grande Profeta é consumido quando usado desta forma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_ADV_QUEST">
 			<Text>O Grande Profeta pode criar uma melhoria?</Text>
