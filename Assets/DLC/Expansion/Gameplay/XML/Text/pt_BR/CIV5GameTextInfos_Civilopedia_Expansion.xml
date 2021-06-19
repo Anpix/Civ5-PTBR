@@ -1460,7 +1460,7 @@
 			<Text>Inquisitors were widely utilized throughout Europe as part of a broad effort to eliminate enemies of the Catholic Church. Those branded as heretics by the Inquisition were oftentimes tortured and executed for their alleged crimes, and there was typically little room for defense against the inquisitor's accusations.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
-			<Text>The Helicopter Gunship is a deadly air unit that in most respects acts like any ground unit, except that it cannot capture cities. Its movement of 6 makes it extremely quick, and it can move over all terrain types including mountains as if they were clear, but it must embark to cross water. Gunships receive a hefty combat bonus when fighting tanks.</Text>
+			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu movimento de "6" o torna extremamente rápido e pode se movimentar sobre qualquer tipo de terreno, incluindo montanhas, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando atacam {TXT_KEY_UNIT_TANK[2]}.</Text>
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
@@ -1786,7 +1786,7 @@
 			<Text>Uma tecnologia importante, Foguetes permitem o desenvolvimento do [COLOR_POSITIVE_TEXT]Programa Apollo[ENDCOLOR], um projeto necessário para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Também permite a construção da [COLOR_POSITIVE_TEXT]Artilharia de Foguetes[ENDCOLOR] e do [COLOR_POSITIVE_TEXT]SAM Móvel[ENDCOLOR], uma unidade rápida e especializada em frustrar ataques de aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPUTERS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Helicóptero Armado[ENDCOLOR], uma unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_HELICOPTER_GUNSHIP}[ENDCOLOR], uma unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM]Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssel Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>

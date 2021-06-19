@@ -207,9 +207,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP">
-			<Text>Helicóptero Armado</Text>
+			<Text>Helicóptero de Assalto|Helicópteros de Assalto</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN">
 			<Text>Jinete|Jinetes</Text>

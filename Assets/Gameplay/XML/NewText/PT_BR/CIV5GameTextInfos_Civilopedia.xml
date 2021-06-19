@@ -126,7 +126,7 @@
 			<Text>Quais são as unidades aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRUNITS_HEADING2_BODY">
-			<Text>Em Civilization V há cinco tipos de unidades aéreas: helicópteros de combate, mísseis, caças, bombardeiros e unidades antiaéreas. Os helicópteros de combate são as mais parecidas com as unidades normais de combate terrestres e serão discutidas separadamente.[NEWLINE][NEWLINE]Das demais unidades aéreas, os mísseis são em essência armas "de um só uso": você o dispara, caem sobre seu alvo e desaparecem. Os caças são utilizados basicamente para se defender contra outra potência aérea e para limpar o alvo de interceptores para permitir que seus bombardeiros façam seu trabalho. Os bombardeiros causam dano a alvos em terra, se não forem interceptados. As unidades antiaéreas defendem contra caças e bombardeiros.</Text>
+			<Text>Em Civilization V há cinco tipos de unidades aéreas: {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]}, mísseis, caças, bombardeiros e unidades antiaéreas. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} são os mais parecidas com as unidades normais de combate terrestres e serão discutidas separadamente.[NEWLINE][NEWLINE]Das demais unidades aéreas, os mísseis são em essência armas "de um só uso": você o dispara, caem sobre seu alvo e desaparecem. Os caças são utilizados basicamente para se defender contra outra potência aérea e para limpar o alvo de interceptores para permitir que seus bombardeiros façam seu trabalho. Os bombardeiros causam dano a alvos em terra, se não forem interceptados. As unidades antiaéreas defendem contra caças e bombardeiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRUNITS_HEADING2_TITLE">
 			<Text>Unidades Aéreas</Text>
@@ -141,10 +141,10 @@
 			<Text>Todos os Mísseis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ANTITANKBONUS_ADV_QUEST">
-			<Text>Quão eficazes são os helicópteros de combate contras os {TXT_KEY_UNIT_TANK[2]}?</Text>
+			<Text>Quão eficazes são os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} contras os {TXT_KEY_UNIT_TANK[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ANTITANKBONUS_HEADING3_BODY">
-			<Text>Os helicópteros de combate podem causar graves danos às unidades de {TXT_KEY_UNIT_TANK[2]} (é porque a maioria dos blindados mais modernos conta com antiaéreos).</Text>
+			<Text>Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} podem causar graves danos às unidades de {TXT_KEY_UNIT_TANK[2]} (é porque a maioria dos blindados mais modernos conta com antiaéreos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ANTITANKBONUS_HEADING3_TITLE">
 			<Text>Bônus Antitanque</Text>
@@ -219,13 +219,13 @@
 			<Text>Pode Aéreo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_HELIGUNSHIPS_ADV_QUEST">
-			<Text>Como funcionam os helicópteros de combate?</Text>
+			<Text>Como funcionam os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_HELIGUNSHIPS_HEADING2_BODY">
-			<Text>Como mencionado antes, os helicópteros de combate são bastante similares às unidades terrestres normais. Eles são extremamente eficazes para acabar com {TXT_KEY_UNIT_TANK[2]}, mas permanecem vulneráveis ao fogo antiaéreo.</Text>
+			<Text>Como mencionado antes, os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} são bastante similares às unidades terrestres normais. Eles são extremamente eficazes para acabar com {TXT_KEY_UNIT_TANK[2]}, mas permanecem vulneráveis ao fogo antiaéreo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_HELIGUNSHIPS_HEADING2_TITLE">
-			<Text>Helicópteros de Combate</Text>
+			<Text>{TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_INTERCEPTION_ADV_QUEST">
 			<Text>Como funciona a interceptação com as unidades aéreas?</Text>
@@ -264,10 +264,10 @@
 			<Text>Missões</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_MOVEMENT_ADV_QUEST">
-			<Text>Quais são as regras sobre o movimento dos helicópteros de combate?</Text>
+			<Text>Quais são as regras sobre o movimento dos {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_MOVEMENT_HEADING3_BODY">
-			<Text>Os helicópteros de combate podem se movimentar sobre todos os tipos de terreno, incluindo montanhas e gelo, a um custo de 1 PM cada um. Também podem sobrevoar águas costeiras pelo mesmo preço mas não podem se adentrar em águas profundas a menos que se embarquem.</Text>
+			<Text>Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} podem se movimentar sobre todos os tipos de terreno, incluindo montanhas e gelo, a um custo de 1 PM cada um. Também podem sobrevoar águas costeiras pelo mesmo preço mas não podem se adentrar em águas profundas a menos que se embarquem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_MOVEMENT_HEADING3_TITLE">
 			<Text>Movimentos do Helicóptero</Text>
@@ -6574,10 +6574,10 @@
 			<Text>Há uma série de tecnologias avançadas de mísseis guiados por rastreamento disponíveis para o designer de mísseis modernos. Alguns mísseis são automáticos, perseguindo seus alvos usando radar ou calor. Alguns mísseis podem "ver" um laser que "ilumina" o inimigo. Outros são dirigidos por uma mão humana, ligada ao míssil pelo rádio ou mesmo fio. Naturalmente, como as armas ficaram "mais espertas" elas também ficaram mais caras, com um único míssil guiado potencialmente custando dezenas de milhares de dólares, ou até mais. Um exército que usa tais armas sem os devidos cuidados, pode encontrar desafios com a falta de fundos para outras coisas importantes - alimentos, por exemplo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_HELICOPTERGUNSHIP_HEADING">
-			<Text>Helicóptero Armado</Text>
+			<Text>{TXT_KEY_UNIT_HELICOPTER_GUNSHIP}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_HELICOPTERGUNSHIP_TEXT">
-			<Text>Os helicópteros ficaram limitados como veículos de transporte na Segunda Guerra Mundial e na Guerra da Coreia. Durante a guerra do Vietnã o exército dos EUA decidiu criar um veículo mais forte e blindado especificamente para o combate. Desde esse período, o helicóptero tem evoluído principalmente em um tanque de matar. Capaz de voar muito perto do chão, se aproximar para um tiro rápido e depois correr para longe em níveis baixos, antes que as defesas do inimigo pudessem responder, os helicópteros eram quase imparáveis, exceto pelo poder aéreo, até a criação de mísseis "terra-ar", como os que Mujahidin usava contra os helicópteros Soviéticos, no Afeganistão. Helicópteros de combate modernos executam outras funções, como apoio aéreo, aproximando as unidades de infantaria ou transporte rápido para as equipes de operações especiais, mas a sua principal missão permanece como máquinas de matar.</Text>
+			<Text>Os helicópteros ficaram limitados como veículos de transporte na Segunda Guerra Mundial e na Guerra da Coreia. Durante a guerra do Vietnã o exército dos EUA decidiu criar um veículo mais forte e blindado especificamente para o combate. Desde esse período, o helicóptero tem evoluído principalmente em um tanque de matar. Capaz de voar muito perto do chão, se aproximar para um tiro rápido e depois correr para longe em níveis baixos, antes que as defesas do inimigo pudessem responder, os helicópteros eram quase imparáveis, exceto pelo poder aéreo, até a criação de mísseis "terra-ar", como os que Mujahidin usava contra os helicópteros Soviéticos, no Afeganistão. {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} modernos executam outras funções, como apoio aéreo, aproximando as unidades de infantaria ou transporte rápido para as equipes de operações especiais, mas a sua principal missão permanece como máquinas de matar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_JETFIGHTER_HEADING">
 			<Text>Caça a Jato</Text>
@@ -9973,7 +9973,7 @@
 			<Text>O primeiro voo conhecido de um foguete é um duvidoso, porém geralmente acredita-se que tenha ocorrido por volta de 1230 d.C., na China, durante uma operação militar. Já o primeiro lançamento registrado ocorreu na China, em 1264, como parte de uma combustão interna de um fogo de artifício. Esses foguetes antigos eram puro combustível, normalmente pólvora, e não voavam muito (talvez uns 60 metros).[NEWLINE][NEWLINE]A invenção dos modernos foguetes pode ser atribuída diretamente ao professor Robert Goddard quando ele postulou que o combustível deveria ser queimado em um pequeno e separado tambor, que o foguete deveria ser construído em estágios separados e que a aceleração da descarga poderia ser aumentada usando um bico especial em forma de ampulheta chamado "Bocal de Laval". Até este ponto, os foguetes queimavam todo o seu combustível em um único e largo tambor e não eram capazes de se lançar com grande velocidade ou viajar distâncias intercontinentais.[NEWLINE][NEWLINE]Atualmente, os foguetes geralmente utilizam uma combinação de combustíveis líquidos, que são capazes de acelerar o foguete às velocidades supersônicas com grande eficiência e por um preço relativamente baixo. Além de o seu óbvio uso militar para carregar ogivas por grandes distâncias, foguetes também são utilizados como fogos de artifícios, assentos ejetores, pesquisas científicas atmosféricas e, claro, voo espacial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY_HELP">
-			<Text>Uma tecnologia importante, Foguetes permitem o desenvolvimento do [COLOR_POSITIVE_TEXT]Programa Apollo[ENDCOLOR], um projeto necessário para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Também permite a construção da [COLOR_POSITIVE_TEXT]Artilharia de Foguetes[ENDCOLOR] e do [COLOR_POSITIVE_TEXT]Helicóptero Armado[ENDCOLOR].</Text>
+			<Text>Uma tecnologia importante, Foguetes permitem o desenvolvimento do [COLOR_POSITIVE_TEXT]Programa Apollo[ENDCOLOR], um projeto necessário para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Também permite a construção da [COLOR_POSITIVE_TEXT]Artilharia de Foguetes[ENDCOLOR] e do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_HELICOPTER_GUNSHIP}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Uma boa regra para os testadores de foguetes seguirem é essa: presumam sempre que ele irá explodir."[NEWLINE][TAB][TAB] - Revista Astronáutica, 1937[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10579,7 +10579,7 @@
 			<Text>O Míssil Guiado é uma unidade de lançamento único que é destruída quando ataca um alvo inimigo. Pode ser baseado em uma cidade aliada ou a bordo de um Submarino Nuclear ou Cruzador. Podem se mover de uma base à outra ou atacar unidades inimigas que estejam a um alcance de "8". Veja as regras na seção "Mísseis" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
-			<Text>O Helicóptero Armado é uma unidade aérea mortal que, para todos os efeitos, age como uma unidade terrestre, exceto que não pode capturar cidades. Seu movimento de "6" o torna extremamente rápido e pode se movimentar sobre qualquer tipo de terreno, incluindo montanhas, mas devem "embarcar" para atravessar a água. Os Helicópteros Armados recebem um grande bônus de combate quando atacam {TXT_KEY_UNIT_TANK[2]}.</Text>
+			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu movimento de "6" o torna extremamente rápido e pode se movimentar sobre qualquer tipo de terreno, incluindo montanhas, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando atacam {TXT_KEY_UNIT_TANK[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_HORSEMAN} é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo a corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}, {TXT_KEY_UNIT_PIKEMAN} e similares.</Text>
