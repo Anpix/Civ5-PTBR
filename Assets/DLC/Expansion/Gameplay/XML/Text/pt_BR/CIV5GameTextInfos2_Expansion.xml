@@ -460,7 +460,7 @@
 			<Text>Unidade rápida e poderosa da fase avançada do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PANZER">
-			<Text>Unidade rápida e poderosa da fase avançada do jogo.[NEWLINE][NEWLINE]Apenas os Alemães podem construí-la. Esta unidade possui 1 ponto de movimento adicional, comparada ao Tanque que ela substitui.</Text>			
+			<Text>Unidade rápida e poderosa da fase avançada do jogo.[NEWLINE][NEWLINE]Apenas os Alemães podem construí-la. Esta unidade possui 1 ponto de movimento adicional, comparada ao {TXT_KEY_UNIT_TANK} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAVALRY">
 			<Text>Unidade Montada capaz de enfrentar de igual para igual unidades de infantaria contemporâneas.</Text>
@@ -493,7 +493,7 @@
 			<Text>Unidade de infantaria básica da Era Moderna. Apenas os Franceses podem treiná-la. Esta unidade possui um bônus de combate fora de território amigo, ao contrário do Infante, unidade que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_INFANTRY_STRATEGY">
-			<Text>A Infantaria é significativamente mais forte que seu predecessor, o Infante. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de Tanques. Quando possível, devem ser auxiliadas por Artilharias, Tanques e unidades aéreas (ou antiaéreas).</Text>
+			<Text>A Infantaria é significativamente mais forte que seu predecessor, o Infante. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de {TXT_KEY_UNIT_TANK[2]}. Quando possível, devem ser auxiliadas por Artilharias, {TXT_KEY_UNIT_TANK[2]} e unidades aéreas (ou antiaéreas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
 			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque corpo a corpo que avança sobre unidades no mar ou cidades (mas sem ser por ataque a distância). O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
@@ -523,7 +523,7 @@
 			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o Couraçado paga o preço por ser muito forte: é mais lento no oceano.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
-			<Text>Unidade especializada em combater Tanques e Tanques Blindados. É capaz de pairar sobre montanhas, mas recebe dano se terminar o turno sobre uma.</Text>		
+			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} e {TXT_KEY_UNIT_MODERN_ARMOR[2]}. É capaz de pairar sobre montanhas, mas recebe dano se terminar o turno sobre uma.</Text>
 		</Row>
 		<!--PROMOTIONS-->
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP">
@@ -812,7 +812,7 @@
 			<Text>Bônus vs Submarinos (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
-			<Text>Bônus vs Tanques (100)</Text>
+			<Text>Bônus vs {TXT_KEY_UNIT_TANK[2]} (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_PENALTY">
 			<Text>Penalidade vs Unidades Navais (50)</Text>
