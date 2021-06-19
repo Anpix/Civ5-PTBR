@@ -207,9 +207,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP">
-			<Text>Helicóptero Armado</Text>
+			<Text>Helicóptero de Assalto|Helicópteros de Assalto</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN">
 			<Text>Jinete|Jinetes</Text>
@@ -1423,7 +1423,7 @@
 			<Text>A mais rápida e poderosa unidade da fase final do jogo. Recebe penalidade quando ataca cidades ou quando fica na defesa, mas é incrivelmente efetiva em terreno aberto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
-			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} (blindados ou não). É capaz de pairar sobre montanhas.</Text>
+			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} (blindados ou não). É capaz de pairar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MOBILE_SAM">
 			<Text>Intercepta aeronaves inimigas que tentam bombardear unidades próximas.</Text>
