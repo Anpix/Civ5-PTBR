@@ -730,7 +730,7 @@
 			<Text>Pontos de Referência Históricos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS_HELP">
-			<Text>Melhorias de Grandes Pessoas fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e Pontos de Referência construídos por Arqueólogos fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Arqueologia.</Text>
+			<Text>Melhorias de Grandes Pessoas fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e Pontos de Referência construídos por {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY}.</Text>
 		</Row>
 		<!-- Resolution Decisions-->
 		<Row Tag="TXT_KEY_RESOLUTION_DECISION_NONE">

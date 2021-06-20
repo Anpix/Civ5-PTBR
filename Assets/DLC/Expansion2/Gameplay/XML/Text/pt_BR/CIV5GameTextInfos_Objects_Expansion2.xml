@@ -5,12 +5,16 @@
     <Row Tag="TXT_KEY_CITYVIEW_GREAT_WORK_BUILDINGS_TEXT">
       <Text>Edifícios de Grande Obra</Text>
     </Row>
-    <Row Tag="TXT_KEY_RESOURCE_ARTIFACTS">
-      <Text>Sítio Arqueológico</Text>
-    </Row>
-    <Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS">
-      <Text>Sítio Arqueológico Escondido</Text>
-    </Row>
+	<Row Tag="TXT_KEY_RESOURCE_ARTIFACTS">
+		<Text>Sítio Arqueológico|Sítios Arqueológicos</Text>
+		<Gender>masculine</Gender>
+		<Plurality>1|2</Plurality>
+	</Row>
+	<Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS">
+		<Text>Sítio Arqueológico Escondido|Sítios Arqueológicos Escondidos</Text>
+		<Gender>masculine</Gender>
+		<Plurality>1|2</Plurality>
+	</Row>
     <Row Tag="TXT_KEY_RESOURCE_NUTMEG">
       <Text>Noz-Moscada|Nozes-Moscadas</Text>
 	  <Gender>feminine</Gender>
@@ -28,7 +32,7 @@
     </Row>
     <!-- Improvements-->
     <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG">
-      <Text>Construir uma [LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]Escavação Arqueológica[\LINK]</Text>
+      <Text>Construir uma [LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]{TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}[\LINK]</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP">
       <Text>Construir um [LINK=IMPROVEMENT_BRAZILWOOD_CAMP]Acampamento Pau-Brasil[\LINK]</Text>
@@ -42,10 +46,11 @@
     <Row Tag="TXT_KEY_BUILD_CHATEAU">
       <Text>Construir uma [LINK=IMPROVEMENT_CHATEAU]Mansão[\LINK]</Text>
     </Row>
-    <Row Tag="TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG">
-      <Text>Escavação Arqueológica</Text>
-	  <Gender>feminine</Gender>
-    </Row>
+	<Row Tag="TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG">
+		<Text>Escavação Arqueológica|Escavações Arqueológicas</Text>
+		<Gender>feminine</Gender>
+		<Plurality>1|2</Plurality>
+	</Row>
     <Row Tag="TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP">
       <Text>Acampamento Pau-Brasil</Text>
     </Row>
