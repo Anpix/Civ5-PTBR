@@ -284,7 +284,7 @@
 			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada hexágono com melhorias de Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_LANDMARK_CULTURE">
-			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada Ponto de Referência arqueológica</Text>
+			<Text>+{1_NumCulture} de [ICON_CULTURE]Cultura por cada {TXT_KEY_IMPROVEMENT_LANDMARK} arqueológico</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CHANGE_NAME">
 			<Text>Alterar Nome</Text>
@@ -727,10 +727,10 @@
 			<Text>Aumenta a geração de Grandes Cientistas, Engenheiros e Mercadores em 33%. Diminui a geração de Grandes Escritores, Artistas e Músicos em 33%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS">
-			<Text>Pontos de Referência Históricos</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_LANDMARK[2]} Históricos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS_HELP">
-			<Text>Melhorias de Grandes Pessoas fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e Pontos de Referência construídos por Arqueólogos fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Arqueologia.</Text>
+			<Text>Melhorias de Grandes Pessoas fornecem +2 de [ICON_CULTURE]Cultura quando trabalhadas e {TXT_KEY_IMPROVEMENT_LANDMARK[2]} construídos por {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} fornecem +4 de [ICON_CULTURE]Cultura quando trabalhados.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY}.</Text>
 		</Row>
 		<!-- Resolution Decisions-->
 		<Row Tag="TXT_KEY_RESOLUTION_DECISION_NONE">

@@ -2431,7 +2431,7 @@
 			<Text>Conectará o [ICON_RES_OIL]Petróleo deste hexágono a sua rede comercial, permitindo a construção de unidades avançadas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LANDMARK">
-			<Text>Construir Ponto de Referência</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_LANDMARK}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LANDMARK_HELP">
 			<Text>Unidade será consumida.[NEWLINE][NEWLINE]+6 de [ICON_CULTURE]Cultura.[NEWLINE][NEWLINE]Grandes Melhorias conectarão Recursos Estratégicos deste hexágono à rede comercial.</Text>

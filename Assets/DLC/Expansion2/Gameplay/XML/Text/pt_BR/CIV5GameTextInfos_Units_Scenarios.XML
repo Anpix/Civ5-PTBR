@@ -497,9 +497,11 @@
     <Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS">
       <Text>Foreign Volunteer</Text>
     </Row>
-    <Row Tag="TXT_KEY_UNIT_EXPLORER">
-      <Text>Explorer</Text>
-    </Row>
+	<Row Tag="TXT_KEY_UNIT_EXPLORER">
+		<Text>Explorador|Exploradores</Text>
+		<Gender>masculine</Gender>
+		<Plurality>1|2</Plurality>
+	</Row>
     <Row Tag="TXT_KEY_UNIT_RIFLED_CANNON">
       <Text>Rifled Cannon</Text>
     </Row>
