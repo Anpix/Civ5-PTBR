@@ -109,16 +109,16 @@
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Muralha[ENDCOLOR], que melhora e muito a defesa das cidades contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
-            <Text>Permite a construção do impulsionador de [ICON_GOLD]Ouro [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR], a melhoria de hexágonos com  [COLOR_POSITIVE_TEXT]Postos Comerciais[ENDCOLOR] e também permite que suas cidades convertam [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de trabalharem em unidades e edifícios.</Text>
+            <Text>Permite a construção do impulsionador de [ICON_GOLD]Ouro [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_MARKET}[ENDCOLOR], a melhoria de hexágonos com [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_TRADING_POST[2]}[ENDCOLOR] e também permite que suas cidades convertam [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de trabalharem em unidades e edifícios.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
             <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Mosquete[ENDCOLOR], a primeira unidade do jogo com armas de fogo. Também fornece certos benefícios econômicos para representar a nova tecnologia ganha ao contatar os Europeus.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MASONRY_HELP">
-            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]Monumentos[ENDCOLOR], que melhoram a produção de cultura das cidades. Também permite a construção de [COLOR_POSITIVE_TEXT]Minas a Céu Aberto[ENDCOLOR] em recursos de [ICON_RES_MARBLE]Mármore e a [COLOR_POSITIVE_TEXT]Limpeza de Pântanos[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
+            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_MONUMENT_DESC[2]}[ENDCOLOR], que melhoram a produção de cultura das cidades. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_QUARRY[2]}[ENDCOLOR] em recursos de [ICON_RES_MARBLE]Mármore e a [COLOR_POSITIVE_TEXT]Limpeza de Pântanos[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MINING_HELP">
-            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]Minas[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção, [COLOR_POSITIVE_TEXT]Derrubar Florestas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Remover Selvas[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
+            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_MINE[2]}[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção, [COLOR_POSITIVE_TEXT]Derrubar Florestas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Remover Selvas[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_NAVIGATION_HELP">
             <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Trirreme[ENDCOLOR], a primeira embarcação de guerra do cenário. Também permite que unidades embarcadas possam se defender quando atacadas por barcos de guerra.</Text>

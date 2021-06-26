@@ -1314,7 +1314,7 @@
 			<Text>+1 de [ICON_CULTURE]Cultura e +1 de [ICON_PEACE]Fé para cada Ouro e Prata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES">
-			<Text>+2 de [ICON_PEACE]Fé de Minas a Céu Aberto</Text>
+			<Text>+2 de [ICON_PEACE]Fé de {TXT_KEY_IMPROVEMENT_QUARRY[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_WAR">
 			<Text>Obtenha [ICON_PEACE]Fé se você vencer uma batalha a 4 hexágonos de distância de sua cidade</Text>

@@ -766,13 +766,13 @@
 			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]alimento. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES">
-			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção.</Text>
+			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_MINE[2]} que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_PROGRESS">
-			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. ({3_Num} {3_Num: plural 1?mina; other?minas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_MINE[2]} que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. ({3_Num} {3_Num: plural 1?{TXT_KEY_IMPROVEMENT_MINE}; other?{TXT_KEY_IMPROVEMENT_MINE[2]};} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_COMPLETE">
-			<Text>Construa {1_Num} minas que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. Completo!</Text>
+			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_MINE[2]} que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_3_COMPLETE">
 			<Text>Você completou o tutorial Melhorando Cidades! Belo trabalho!</Text>
@@ -982,7 +982,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_FOOD]alimentos para crescer e se tornar uma grande cidade. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir fazendas nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION]Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir minas nas proximidades.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION]Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir {TXT_KEY_IMPROVEMENT_MINE[2]} nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_HAVE_TRAINING_FACILITY">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui edifícios que aumentam a nossa produção militar. Devemos construir novas unidades para o nosso exército em [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR], o que nos tornará mais eficazes.</Text>
