@@ -427,7 +427,7 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS">
-			<Text>Pedreira|Pedreiras</Text>
+			<Text>Cantaria|Cantarias</Text>
 			<Gender>feminine|feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>

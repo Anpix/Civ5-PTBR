@@ -2359,7 +2359,7 @@
 			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, enquanto mantém sua Floresta intacta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MINE">
-			<Text>Construir [LINK=IMPROVEMENT_MINE]Mina[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_MINE]{TXT_KEY_IMPROVEMENT_MINE}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PROD_REC">
 			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, aumentando a velocidade na construção de qualquer coisa na cidade.</Text>
@@ -2377,7 +2377,7 @@
 			<Text>Construir [LINK=IMPROVEMENT_PLANTATION]Plantação[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_QUARRY">
-			<Text>Construir [LINK=IMPROVEMENT_QUARRY]Mina a Céu Aberto[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_QUARRY]{TXT_KEY_IMPROVEMENT_QUARRY}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_QUARRY_REC">
 			<Text>Conectará o [ICON_RES_MARBLE]Mármore a nossa rede comercial, aumentando a [ICON_HAPPINESS_1]Felicidade em todo o Império!</Text>
@@ -3349,7 +3349,7 @@
 			<Text>Além de +5 de [ICON_HAPPINESS_1]Felicidade, a Torre Eiffel também fornece +1 de [ICON_HAPPINESS_1]Felicidade adicional para cada duas Políticas que você tenha adotado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP">
-			<Text>Cada fonte explorada de [ICON_RES_MARBLE]Mármore e [ICON_RES_STONE]Pedra pela cidade fornecerá +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade deve possuir ao menos um desses recursos explorados por uma Mina a Céu Aberto.[NEWLINE][NEWLINE]A cidade não deve estar em Planícies.</Text>
+			<Text>Cada fonte explorada de [ICON_RES_MARBLE]Mármore e [ICON_RES_STONE]Pedra pela cidade fornecerá +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade deve possuir ao menos um desses recursos explorados por uma {TXT_KEY_IMPROVEMENT_QUARRY}.[NEWLINE][NEWLINE]A cidade não deve estar em Planícies.</Text>
 		</Row>
 		<!-- 383 -->
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_SCIENCE_OFF">

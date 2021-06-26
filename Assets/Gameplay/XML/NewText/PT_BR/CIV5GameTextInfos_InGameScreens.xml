@@ -803,7 +803,7 @@
             <Text>O mundo está recheado de vários "recursos" que farão sua Civilização crescer e se desenvolver, por exemplo: o gado, trigo, carvão, ferro, baleias e petróleo. Durante o jogo, você vai querer construir suas cidades próximas a estes recursos e aproveitar as bonificações os mesmos. Alguns Recursos - peixe e ouro, por exemplo - são visíveis bem no início do jogo. Já outros - como alumínio, petróleo ou urânio - estarão ocultos até que sua Civilização domine a tecnologia apropriada.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_HELP_TEXT">
-            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, minas a céu aberto, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
+            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, {TXT_KEY_IMPROVEMENT_QUARRY[2]}, {TXT_KEY_IMPROVEMENT_MINE[2]} e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECH_PAGE_LABEL">
             <Text>Página Inicial - Tecnologias</Text>

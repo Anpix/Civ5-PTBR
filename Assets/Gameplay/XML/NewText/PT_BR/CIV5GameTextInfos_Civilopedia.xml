@@ -1095,7 +1095,7 @@
 			<Text>Como melhorar a terra ao redor de uma cidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_IMPROVINGLAND_HEADING3_BODY">
-			<Text>Ainda que certos hexágonos proporcionem naturalmente grande quantidade de alimentos, ouro, e assim por diante, muitos podem ser "explorados" para proporcionar ainda mais, aumentando o crescimento, ouro, produção ou ciência da cidade. Você precisa criar "Trabalhadores" para melhorar as terras. Quando tiver um Trabalhador, você poderá ordenar que ele construa melhorias (fazendas, minas etc.) que tornarão a terra ao redor de suas cidades muito mais produtivas. Consulte a seção sobre Trabalhadores para obter mais detalhes.</Text>
+			<Text>Ainda que certos hexágonos proporcionem naturalmente grande quantidade de alimentos, ouro, e assim por diante, muitos podem ser "explorados" para proporcionar ainda mais, aumentando o crescimento, ouro, produção ou ciência da cidade. Você precisa criar "Trabalhadores" para melhorar as terras. Quando tiver um Trabalhador, você poderá ordenar que ele construa melhorias ({TXT_KEY_IMPROVEMENT_FARM[2]}, {TXT_KEY_IMPROVEMENT_MINE[2]}, etc.) que tornarão a terra ao redor de suas cidades muito mais produtivas. Consulte a seção sobre Trabalhadores para obter mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_IMPROVINGLAND_HEADING3_TITLE">
 			<Text>Melhorando o terreno</Text>
@@ -3034,7 +3034,7 @@
 			<Text>Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HEADING_TEXT">
-			<Text>Civilizações podem contratar Trabalhadores para a construção de "melhorias" - Fazendas, Minas, Pastos e assim por diante - em torno de suas cidades, para melhor explorar a terra, aumentando a oferta de alimentos, produtividade e recursos essenciais. Nem todos os recursos estão disponíveis para uma civilização no início do jogo: alguns exigem conhecimento de uma tecnologia específica. O hexágono deve estar dentro das fronteiras da sua civilização para que você seja capaz de construir uma melhoria sobre ele.</Text>
+			<Text>Civilizações podem contratar Trabalhadores para a construção de "melhorias" - {TXT_KEY_IMPROVEMENT_FARM[2]}, {TXT_KEY_IMPROVEMENT_MINE[2]}, {TXT_KEY_IMPROVEMENT_PASTURE[2]} e assim por diante - em torno de suas cidades, para melhor explorar a terra, aumentando a oferta de alimentos, produtividade e recursos essenciais. Nem todos os recursos estão disponíveis para uma civilização no início do jogo: alguns exigem conhecimento de uma tecnologia específica. O hexágono deve estar dentro das fronteiras da sua civilização para que você seja capaz de construir uma melhoria sobre ele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LANDMARK_TEXT">
 			<Text>Um {TXT_KEY_IMPROVEMENT_LANDMARK} é qualquer artefato magnífico, estrutura, trabalho de arte ou maravilha da natureza que atrai visitantes a um local. A Coluna de Nelson, em Londres, é um {TXT_KEY_IMPROVEMENT_LANDMARK}, assim como o Monte Rushmore, nos Estados Unidos. Não só objetos de grandes dimensões são considerados {TXT_KEY_IMPROVEMENT_LANDMARK}: a Maior Bola de Barbante do Mundo, embora não tenha uma grande dimensão, pode muito bem valer à pena uma visita.</Text>
@@ -3061,10 +3061,10 @@
 			<Text>Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} é uma planta composta por um ou mais edifícios, nos quais as coisas são construídas. Os edifícios podem ser fundições, fábricas, linhas de montagem e assim por diante, e geralmente trabalham com ciclo completo de produção de um item - a fundição cria o aço, que a fábrica utiliza para criar rolos de folhas de aço, que os trabalhadores na linha de montagem utilizam para fazer latas, e assim por diante. Uma {TXT_KEY_IMPROVEMENT_MANUFACTORY} bem administrada pode ser extremamente produtiva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MINE">
-			<Text>Mina</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_MINE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MINE_TEXT">
-			<Text>As minas estão entre as melhorias mais importantes do Civilization V. Não só aumentam a produtividade de um hexágono - a alta produtividade permite o treinamento mais rápido de unidades e a construção de estruturas e maravilhas - mas também proporcionam acesso a alguns dos recursos mais importantes do jogo: ferro, carvão e urânio, só para citar alguns.</Text>
+			<Text>As {TXT_KEY_IMPROVEMENT_MINE[2]} estão entre as melhorias mais importantes do Civilization V. Não só aumentam a produtividade de um hexágono - a alta produtividade permite o treinamento mais rápido de unidades e a construção de estruturas e maravilhas - mas também proporcionam acesso a alguns dos recursos mais importantes do jogo: ferro, carvão e urânio, só para citar alguns.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MINE_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3133,10 +3133,12 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_QUARRY">
-			<Text>Mina a Céu Aberto</Text>
+			<Text>Pedreira|Pedreiras</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_QUARRY_TEXT">
-			<Text>De maneira geral, uma Mina a Céu Aberto é um lugar onde se produz qualquer pedra ou cascalho. Em Civilization V, Minas a Céu Aberto aumentam a produção de recursos de pedra e fornecem acesso o recurso de luxo Mármore, uma pedra de alto valor, utilizada na construção e em obras de arte.</Text>
+			<Text>De maneira geral, uma {TXT_KEY_CIV5_IMPROVEMENTS_QUARRY} é um lugar onde se produz qualquer pedra ou cascalho. Em Civilization V, {TXT_KEY_CIV5_IMPROVEMENTS_QUARRY[2]} aumentam a produção de recursos de pedra e fornecem acesso o recurso de luxo Mármore, uma pedra de alto valor, utilizada na construção e em obras de arte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_QUARRY_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -4498,7 +4500,7 @@
 			<Text>Prata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_SILVER_TEXT">
-			<Text>A Prata é um metal precioso brilhante, macio e maleável. É altamente valiosa por sua beleza e, por séculos, tem sido usada em ornamentos, joias, utensílios e moeda em culturas por todo o mundo. A prata também possui uma excelente condutividade térmica e elétrica, tornando-a muito útil em muitas aplicações eletrônicas. A mina tem sido extraída de minas por pelo menos 6.000 anos, e talvez bem mais. Em 1859, o "Veio Comstock" foi descoberto em Nevada, EUA. Este foi um poderoso depósito de prata que levou a um "boom" na economia local. Os bons tempos duraram em torno de vinte e três anos, até que o fundo da mina começou a se inundar e a extração da prata se enfraqueceu, período em que as chamadas "cidades boom" simplesmente secaram e morreram.</Text>
+			<Text>A Prata é um metal precioso brilhante, macio e maleável. É altamente valiosa por sua beleza e, por séculos, tem sido usada em ornamentos, joias, utensílios e moeda em culturas por todo o mundo. A prata também possui uma excelente condutividade térmica e elétrica, tornando-a muito útil em muitas aplicações eletrônicas. A prata tem sido extraída de minas por pelo menos 6.000 anos, e talvez bem mais. Em 1859, o "Veio Comstock" foi descoberto em Nevada, EUA. Este foi um poderoso depósito de prata que levou a um "boom" na economia local. Os bons tempos duraram em torno de vinte e três anos, até que o fundo da mina começou a se inundar e a extração da prata se enfraqueceu, período em que as chamadas "cidades boom" simplesmente secaram e morreram.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_SILVER_TEXT1">
 			<Text>Sempre Visível</Text>
@@ -8701,7 +8703,7 @@
 			<Text>Recursos bônus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_BODY">
-			<Text>Bananas (Plantação)[NEWLINE]Gado (Pasto)[NEWLINE]Cervo (Campo de Caça)[NEWLINE]Peixe ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Trigo (Fazenda)</Text>
+			<Text>Bananas ({TXT_KEY_IMPROVEMENT_PLANTATION})[NEWLINE]Gado ({TXT_KEY_IMPROVEMENT_PASTURE})[NEWLINE]Cervo ({TXT_KEY_IMPROVEMENT_CAMP})[NEWLINE]Peixe ({TXT_KEY_IMPROVEMENT_FISHING_BOATS})[NEWLINE]Trigo ({TXT_KEY_IMPROVEMENT_FARM})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_BONUSLIST_HEADING3_TITLE">
 			<Text>Bônus (Melhoria Necessária)</Text>
@@ -8734,7 +8736,7 @@
 			<Text>Recursos de luxo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_BODY">
-			<Text>Algodão (Plantação)[NEWLINE]Tintas (Plantação)[NEWLINE]Peles (Campo de Caça)[NEWLINE]Gemas (Mina)[NEWLINE]Ouro (Mina)[NEWLINE]Incenso (Plantação)[NEWLINE]Marfim (Campo de Caça)[NEWLINE]Mármore (Mina a Céu Aberto)[NEWLINE]Pérolas ({TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]})[NEWLINE]Seda (Plantação)[NEWLINE]Prata (Mina)[NEWLINE]Especiarias (Plantação)[NEWLINE]Açúcar (Plantação)[NEWLINE]Baleias ({TXT_KEY_IMPROVEMENT_FISHING_BOATS}[2])[NEWLINE]Vinho (Plantação)</Text>
+			<Text>Algodão ({TXT_KEY_IMPROVEMENT_PLANTATION})[NEWLINE]Tintas ({TXT_KEY_IMPROVEMENT_PLANTATION})[NEWLINE]Peles ({TXT_KEY_IMPROVEMENT_CAMP})[NEWLINE]Gemas ({TXT_KEY_IMPROVEMENT_MINE})[NEWLINE]Ouro ({TXT_KEY_IMPROVEMENT_MINE})[NEWLINE]Incenso ({TXT_KEY_IMPROVEMENT_PLANTATION})[NEWLINE]Marfim ({TXT_KEY_IMPROVEMENT_CAMP})[NEWLINE]Mármore ({TXT_KEY_IMPROVEMENT_QUARRY})[NEWLINE]Pérolas ({TXT_KEY_IMPROVEMENT_FISHING_BOATS})[NEWLINE]Seda ({TXT_KEY_IMPROVEMENT_PLANTATION})[NEWLINE]Prata ({TXT_KEY_IMPROVEMENT_MINE})[NEWLINE]Especiarias ({TXT_KEY_IMPROVEMENT_PLANTATION})[NEWLINE]Açúcar ({TXT_KEY_IMPROVEMENT_PLANTATION})[NEWLINE]Baleias ({TXT_KEY_IMPROVEMENT_FISHING_BOATS})[NEWLINE]Vinho ({TXT_KEY_IMPROVEMENT_PLANTATION})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_LUXURYLIST_HEADING3_TITLE">
 			<Text>Luxos (Melhoria Necessária)</Text>
@@ -8749,7 +8751,7 @@
 			<Text>Recursos estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_BODY">
-			<Text>Alumínio (Mina/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão (Mina/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro (Mina/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio (Mina/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
+			<Text>Alumínio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_TITLE">
 			<Text>Estratégico (Melhoria Necessária)</Text>
@@ -9679,7 +9681,7 @@
 			<Text>A Alvenaria é o processo de construção de estruturas, por meio de blocos individuais unidos por algum tipo de argamassa. Os blocos podem ser feitos de rocha, concreto ou podem ser apenas argila. A argamassa é um tipo de pasta trabalhável que resseca em um material extremamente durável. Normalmente é composta por uma mistura de areia, cimento ou cal, e água.[NEWLINE][NEWLINE]Os antigos Egípcios dominavam a arte da Alvenaria desde o quarto milênio A.C., construindo seus templos, palácios e pirâmides com a grande quantidade de pedras calcárias, arenitos, granitos e basaltos que possuíam nas encostas do Rio Nilo. Os antigos Assírios do Crescente Fértil não tinham acesso fácil a tais pedras mas tinham ricos depósitos de argila, que eles secavam ao sol como blocos. Já que esses blocos de argila eram vulneráveis à umidade, muitas vezes eles cobriam suas estruturas com telhas cozidas no forno ou esmaltadas, que eram mais resistentes à água.[NEWLINE][NEWLINE]Os Romanos inventaram o concreto, que era uma argamassa muito superior àquelas utilizadas por civilizações passadas (normalmente baseadas em argila), e que podia ser utilizado como o próprio bloco de construção. Esta, então chamada, "resolução do concreto" permitiu que os Romanos construíssem edificações antes impossíveis para os materiais primitivos. No século XIX, um jardineiro francês pensou em introduzir uma malha de ferro em seus tubos de concreto e potes; sua invenção para reforçar o concreto aumentou significativamente a "força de tensão" do material, o que o torna mais adequado para edifícios mais altos, que eram suscetíveis à pressão do vento, vibrações e, até mesmo, terremotos. Inovações mais recentes incrementaram a forma e flexibilidade do material de construção mais utilizado, dentre todos. E, apesar de muitos edifícios modernos serem construídos de vidro e ferro, todos eles descansam sobre fundações feitas com técnicas antigas de alvenaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASONRY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Muralha[ENDCOLOR], que melhora significativamente a [ICON_STRENGTH]Defesa da cidade contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]Minas a Céu Aberto[ENDCOLOR] em recursos de [ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]Mármore[ENDCOLOR], além de [COLOR_POSITIVE_TEXT]Remover Pântanos[ENDCOLOR], possibilitando que outras melhorias sejam construídas no local.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_WALLS}[ENDCOLOR], que melhora significativamente a [ICON_STRENGTH]Defesa da cidade contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_QUARRY[2]}[ENDCOLOR] em recursos de [ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]Mármore[ENDCOLOR], além de [COLOR_POSITIVE_TEXT]Remover Pântanos[ENDCOLOR], possibilitando que outras melhorias sejam construídas no local.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASONRY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Como são felizes aqueles que têm seus muros já levantados!"[NEWLINE][TAB][TAB] - Virgil[NEWLINE][TAB]</Text>
@@ -9736,7 +9738,7 @@
 			<Text>Mineração é o processo de extrair várias substâncias úteis de baixo da superfície terrestre. Os primeiros elementos minerados incluem o cobre, ferro, diamante, ouro, prata, sal e carvão. Já que ninguém pode comer nenhuma dessas coisas (exceto o sal, claro - mas você entendeu onde queremos chegar), mineiros devem fazer parte de uma comunidade que seja capaz de produzir comida suficiente para mantê-los, além de suas famílias.[NEWLINE][NEWLINE]A mina mais antiga foi descoberta em Suazilândia, África. Ela foi cavada por volta de 40.000 anos atrás para extração de ocre, um mineral utilizado em cerimônias fúnebres e como tatuagens corporais. O sílex, um mineral brilhante e fácil de entalhar, utilizado por pelos primeiros hominídeos para raspar, como facas ou pontas de flechas foi o primeiro item minerado em larga escala na Europa. Minas de sílex, que chegam a 100 metros de profundidade e datam do período Neolítico (8000 - 2000 a.C.), foram descobertas na França e Inglaterra.[NEWLINE][NEWLINE]Mineiros modernos empregam uma variedade de métodos para obter uma extensa quantidade de materiais do subsolo. Minas de carvão, às vezes, destroem montanhas inteiras para extraírem o precioso mineral negro. Na África, algumas grandes companhias de mineração têm cavado quilômetros no solo em busca de diamantes. Empresas estão cavando minas em todo o lugar - do leito oceânico ao solo gelado do hemisfério norte - à procura do mais cobiçado líquido de todos: petróleo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MINING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Minas[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção nos terrenos do mapa e [COLOR_POSITIVE_TEXT]Derrubar Florestas[ENDCOLOR], permitindo a construção de outras melhorias.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_MINE[2]}[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção nos terrenos do mapa e [COLOR_POSITIVE_TEXT]Derrubar Florestas[ENDCOLOR], permitindo a construção de outras melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MINING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Os humildes herdarão a Terra, mas não os direitos sobre os seus minerais."[NEWLINE][TAB][TAB] - J. Paul Getty[NEWLINE][TAB]</Text>
@@ -10708,7 +10710,7 @@
 			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o {TXT_KEY_UNIT_WORK_BOAT} para explorar recursos aquáticos - [ICON_RES_FISH]Peixe, baleia, petróleo etc. O {TXT_KEY_UNIT_WORK_BOAT} é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. {TXT_KEY_UNIT_WORK_BOAT[2]} não podem combater.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORKER_STRATEGY">
-			<Text>Esta unidade constrói estradas, ferrovias e melhorias como fazendas e minas. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
+			<Text>Esta unidade constrói estradas, ferrovias e melhorias como fazendas e {TXT_KEY_IMPROVEMENT_MINE[2]}. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_ADV_QUEST">
 			<Text>O que são unidades?</Text>
@@ -11341,7 +11343,7 @@
 			<Text>As Melhorias das Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_HEADING1_BODY">
-			<Text>Os trabalhadores representam os homens e mulheres que constroem seu império. Eles limpam as florestas e constroem as fazendas que alimentam suas cidades. Eles cavam as minas que fornecem o precioso ouro e poderoso ferro. Colocam as estradas que ligam suas cidades. Apesar de não serem unidades militares, os trabalhadores são importantes.[NEWLINE][NEWLINE]Melhorias aumentam a produção de, ouro e / ou a produção de alimentos dos hexágonos. Elas também fornecem acesso aos bônus especiais fornecidos por determinados recursos. Se você não melhorar a sua terra, sua civilização quase que certamente será superada por outras que fizerem.</Text>
+			<Text>Os trabalhadores representam os homens e mulheres que constroem seu império. Eles limpam as florestas e constroem as fazendas que alimentam suas cidades. Eles cavam as {TXT_KEY_IMPROVEMENT_MINE[2]} que fornecem o precioso ouro e poderoso ferro. Colocam as estradas que ligam suas cidades. Apesar de não serem unidades militares, os trabalhadores são importantes.[NEWLINE][NEWLINE]Melhorias aumentam a produção de, ouro e / ou a produção de alimentos dos hexágonos. Elas também fornecem acesso aos bônus especiais fornecidos por determinados recursos. Se você não melhorar a sua terra, sua civilização quase que certamente será superada por outras que fizerem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_HEADING1_TITLE">
 			<Text>Trabalhadores e Melhorias</Text>
@@ -11371,13 +11373,13 @@
 			<Text>Serraria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_ADV_QUEST">
-			<Text>Como a melhoria Mina funciona?</Text>
+			<Text>Como a melhoria {TXT_KEY_IMPROVEMENT_MINE} funciona?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_HEADING3_BODY">
-			<Text>A melhoria mina é aprendida quando sua civilização adquire a tecnologia de Mineração. Ela pode ser usada para aumentar o volume de produção de vários hexágonos, e também abre uma variedade de recursos. A mina é tão importante quanto à fazenda.[NEWLINE]Requisitos Tecnológicos: Mineração[NEWLINE]Pode ser construída em: Apenas em hexágonos de Colina. Minas aumentam a produção do hexágono por 1.[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Floresta: Minas podem ser construídas em hexágonos de floresta. A floresta é removida quando a mina é construída. Tempo de Construção Total: 9 Turnos.[NEWLINE]Selva: Minas podem ser construídas em hexágonos de selva uma vez que você aprende a tecnologia Bronze. A selva é removida quando a mina é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]Pântano: Minas podem ser construídas em hexágonos de pântano quando você aprende a tecnologia Alvenaria. O pântano é removido quando a mina é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: Minas habilitam recursos de Ferro, Carvão, Alumínio, Urânio, Gemas, Ouro e Prata. Veja a entrada de recursos individuais para mais detalhes.</Text>
+			<Text>A melhoria {TXT_KEY_IMPROVEMENT_MINE} é aprendida quando sua civilização adquire a tecnologia de Mineração. Ela pode ser usada para aumentar o volume de produção de vários hexágonos, e também abre uma variedade de recursos. A {TXT_KEY_IMPROVEMENT_MINE} é tão importante quanto à fazenda.[NEWLINE]Requisitos Tecnológicos: Mineração[NEWLINE]Pode ser construída em: Apenas em hexágonos de Colina. {TXT_KEY_IMPROVEMENT_MINE[2]} aumentam a produção do hexágono por 1.[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Floresta: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de floresta. A floresta é removida quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 9 Turnos.[NEWLINE]Selva: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de selva uma vez que você aprende a tecnologia Bronze. A selva é removida quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]Pântano: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de pântano quando você aprende a tecnologia Alvenaria. O pântano é removido quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: {TXT_KEY_IMPROVEMENT_MINE[2]} habilitam recursos de Ferro, Carvão, Alumínio, Urânio, Gemas, Ouro e Prata. Veja a entrada de recursos individuais para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_HEADING3_TITLE">
-			<Text>Melhoria Mina</Text>
+			<Text>Melhoria {TXT_KEY_IMPROVEMENT_MINE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_OFFSHOREPLATFORM_HEADING3_BODY">
 			<Text>Requisitos Tecnológicos: Refrigeração[NEWLINE]Tempo de Construção: Imediatamente[NEWLINE]Acesso aos Recursos: Petróleo (no mar; Poço de Petróleo é necessário para petróleo em terra)</Text>
@@ -11416,7 +11418,7 @@
 			<Text>Requisitos Tecnológicos: Alvenaria[NEWLINE]Tempo de Construção: 7 Turnos[NEWLINE]Acesso aos Recursos: Mármore</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_QUARRY_HEADING3_TITLE">
-			<Text>Mina a Céu Aberto</Text>
+			<Text>{TXT_KEY_CIV5_IMPROVEMENTS_QUARRY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_REPAIRINGROADS_ADV_QUEST">
 			<Text>Como posso consertar uma Estrada ou Melhoria saqueada?</Text>
@@ -11473,7 +11475,7 @@
 			<Text>Onde as Melhorias podem ser construídas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WHERETOCONSTRUCT_HEADING3_BODY">
-			<Text>As melhorias só podem ser construídas em locais apropriados. (Fazendas não pode ser construído em gelo, por exemplo, e as minas não podem ser construídas em cima de recursos de gado.) O Painel de Ação do Trabalhador só irá mostrar as melhorias que a sua civilização tem a tecnologia para construir e as que são apropriadas para o hexágono que o trabalhador ativo está. Geralmente, as fazendas e minas podem ser construídas em qualquer hexágono que não houver um recurso. Se o hexágono não possui um recurso, apenas as Melhorias apropriadas podem ser construídas.</Text>
+			<Text>As melhorias só podem ser construídas em locais apropriados. (Fazendas não pode ser construído em gelo, por exemplo, e {TXT_KEY_IMPROVEMENT_MINE[2]} não podem ser construídas em cima de recursos de gado.) O Painel de Ação do Trabalhador só irá mostrar as melhorias que a sua civilização tem a tecnologia para construir e as que são apropriadas para o hexágono que o trabalhador ativo está. Geralmente, as fazendas e {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em qualquer hexágono que não houver um recurso. Se o hexágono não possui um recurso, apenas as Melhorias apropriadas podem ser construídas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WHERETOCONSTRUCT_HEADING3_TITLE">
 			<Text>Onde Construir Melhorias</Text>
@@ -11492,7 +11494,7 @@
 			<Text>O Aqueduto diminui em 40% a quantidade de [ICON_FOOD]Alimento que uma cidade precisa para crescer. Construa Aquedutos em cidades que você quer ver crescer muito com o tempo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_STRATEGY">
-			<Text>A Pedreira só pode ser construída em cidades próximas a fontes exploradas dos recursos [ICON_RES_STONE]Pedra ou [ICON_RES_MARBLE]Mármore. A Pedreira aumenta a [ICON_PRODUCTION]Produção de uma cidade, que precisa estar em uma Planície.</Text>
+			<Text>A {TXT_KEY_BUILDING_STONE_WORKS} só pode ser construída em cidades próximas a fontes exploradas dos recursos [ICON_RES_STONE]Pedra ou [ICON_RES_MARBLE]Mármore. A {TXT_KEY_BUILDING_STONE_WORKS} aumenta a [ICON_PRODUCTION]Produção de uma cidade, que precisa estar em uma Planície.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ARABIA_FACTOID_HEADING">
 			<Text>Fatos Curiosos Árabes</Text>
@@ -11501,10 +11503,12 @@
 			<Text>Durante o reinado do Califa no século VII, os primeiros exemplos conhecidos de pensão e previdência social foram adotados. Os idosos e deficientes, bem como as viúvas e órfãos foram elegíveis para receber assistência e renda do governo. [NEWLINE][NEWLINE]Diz-se que Harun Al-Rashid presenteou Carlos Magno com um dos primeiros exemplos Islâmica do "Relógio de Água", um dispositivo sofisticado que iria gravar a passagem do tempo através da medição do fluxo de água de um navio para outro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STONE_WORKS">
-			<Text>Pedreira</Text>
+			<Text>Cantaria|Cantarias</Text>
+			<Gender>feminine|feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STONE_WORKS_TEXT">
-			<Text>A Pedreira serve como a oficina de pedreiros, que dá forma e processa de vários tipos de pedras para criar elementos artísticos e estruturais durante o processo de construção. A arte da cantaria é um das mais antigas profissões do mundo, englobando tudo, desde a extração de pedra das pedreiras, a escultura propriamente dita de formas geométricas e a montagem destas pedras no local da construção. Historicamente, pedreiros trabalharam com tudo, de pedra calcária, que foi usada principalmente na construção de estruturas maciças, até granito e mármore que eram mais comumente encontrados em estátuas e monumentos.</Text>
+			<Text>A {TXT_KEY_CIV5_BUILDINGS_STONE_WORKS} serve como a oficina de pedreiros, que dá forma e processa de vários tipos de pedras para criar elementos artísticos e estruturais durante o processo de construção. A arte da {TXT_KEY_CIV5_BUILDINGS_STONE_WORKS} é um das mais antigas profissões do mundo, englobando tudo, desde a extração de pedra das pedreiras, a escultura propriamente dita de formas geométricas e a montagem destas pedras no local da construção. Historicamente, pedreiros trabalharam com tudo, de pedra calcária, que foi usada principalmente na construção de estruturas maciças, até granito e mármore que eram mais comumente encontrados em estátuas e monumentos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AQUEDUCT">
 			<Text>Aqueduto</Text>

@@ -614,7 +614,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção de [ICON_RESEARCH]Ciência da cidade em 25%. A construção de Fábricas demora metade do tempo normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_COMMUNISM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Comunismo[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada Mina ou Mina a Céu Aberto.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_COMMUNISM}[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada {TXT_KEY_IMPROVEMENT_MINE} ou {TXT_KEY_IMPROVEMENT_QUARRY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FASCISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Fascismo[ENDCOLOR][NEWLINE]A quantidade de recursos estratégicos produzidos pelo Império aumenta em 100%. Todos os Grandes Generais recebem de +2 [ICON_MOVES]Pontos de Movimento.</Text>			

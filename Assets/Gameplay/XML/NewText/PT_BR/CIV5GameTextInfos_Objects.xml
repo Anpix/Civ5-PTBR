@@ -222,9 +222,9 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_QUARRY">
-			<Text>Mina a Céu Aberto|Minas a Céu Aberto</Text>
+			<Text>Pedreira|Pedreiras</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_TRADING_POST">
 			<Text>Posto Comercial|Postos Comerciais</Text>
