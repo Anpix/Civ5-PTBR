@@ -752,10 +752,10 @@
             <Text>Civilopédia</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_HOME_PAGE_LABEL">
-            <Text>Página inicial da Civilopédia</Text>
+            <Text>Página Inicial da Civilopédia</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL">
-            <Text>Página inicial - Conceitos do jogo</Text>
+            <Text>Página Inicial - Conceitos do jogo</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_HELP_TEXT">
             <Text>Civilization V pesquisou toda a história humana - desde o mais profundo passado até os dias de amanhã. O "Conceito do Jogo" é a parte da Civilopédia que explica as partes mais importantes do jogo - de como construir e gerenciar suas cidades, como combater em guerras, como pesquisar tecnologias e assim por diante. A Barra de Navegação a sua esquerda lista os principais conceitos; clique em uma das seções para visualizar as subseções dentro delas.[NEWLINE][NEWLINE]Você poderá ler os Conceitos do Jogo do início ao fim, se você for a mãe do autor, mas, se esse não for o caso, sugerimos que leia conforme vá jogando, segundo suas necessidades. Se fizemos um bom trabalho, o tutorial do jogo será tudo o que você precisará para compreender como navegar no início do jogo.</Text>

@@ -208,7 +208,7 @@
 			<Text>The Great Firewall is a restrictive internet monitoring and censorship program used to control the flow of information available to a civilization's people through the internet. By limiting the public's access to potentially volatile information available online, government agencies can limit potential backlash and other dissension regarding unpopular policies and government programs.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_FIREWALL_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"A desconfiaça e a precaução são os pais da segurança."[NEWLINE]- Benjamin Franklin[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"A desconfiança e a precaução são os pais da segurança."[NEWLINE]- Benjamin Franklin[NEWLINE][TAB]</Text>
 		</Row>
 		<!-- NATIONAL WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_TEXT">
@@ -278,7 +278,7 @@
 			<Text>The Panzer is the German unique unit, replacing the tank. It is both stronger and faster than the tank. It also can move after combat, allowing it to blow huge holes in enemy lines and then barrel through before the enemy can repair the gap. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANCER_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_LANCER} é a unidade montada da Renacença que fica entre o {TXT_KEY_UNIT_KNIGHT} e a {TXT_KEY_UNIT_CAVALRY}. É mais rápido e mais poderoso que o {TXT_KEY_UNIT_KNIGHT}, capaz de varrer aquelas antes poderosas unidades do mapa. O {TXT_KEY_UNIT_LANCER} pode até mesmo derrotar a poderosa {TXT_KEY_UNIT_CAVALRY} depois que ela aparece.</Text>
+			<Text>O {TXT_KEY_UNIT_LANCER} é a unidade montada da Renascença que fica entre o {TXT_KEY_UNIT_KNIGHT} e a {TXT_KEY_UNIT_CAVALRY}. É mais rápido e mais poderoso que o {TXT_KEY_UNIT_KNIGHT}, capaz de varrer aquelas antes poderosas unidades do mapa. O {TXT_KEY_UNIT_LANCER} pode até mesmo derrotar a poderosa {TXT_KEY_UNIT_CAVALRY} depois que ela aparece.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN_STRATEGY">
 			<Text>The Longswordsman is the standard medieval infantry combat unit. It is more powerful than the {TXT_KEY_UNIT_KNIGHT}, but much slower. It also outclasses the {TXT_KEY_UNIT_PIKEMAN}, but doesn't receive that unit's bonus versus mounted units. Use Longswordsmen and Catapults to attack enemy cities.</Text>

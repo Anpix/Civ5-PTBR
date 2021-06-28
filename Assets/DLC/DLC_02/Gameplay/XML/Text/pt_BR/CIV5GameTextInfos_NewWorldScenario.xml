@@ -254,7 +254,7 @@
 			<Text>O custo de [ICON_CULTURE]Cultura para aquisição de novos hexágonos é reduzido em 75% na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
-			<Text>O Monastério aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do seu território e a aquisição de Políticas Sociais. Além disso, ele quadriplica a taxa de crescimento das fronteiras culturais da cidade.</Text>
+			<Text>O Monastério aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do seu território e a aquisição de Políticas Sociais. Além disso, ele quadruplica a taxa de crescimento das fronteiras culturais da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
 			<Text>Corsário</Text>
@@ -407,7 +407,7 @@
 			<Text>Gilbert</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INUIT_TEXT">
-			<Text>Os Inuítes eram um povo indígena que habitava as regiões árticas da Groelândia e América do Norte.</Text>
+			<Text>Os Inuítes eram um povo indígena que habitava as regiões árticas da Groenlândia e América do Norte.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SEMINOLE_TEXT">
 			<Text>Os Seminoles eram alguns dos povos indígenas da Flórida e tinham relação próxima com os Muscógui (ambos são povos Creek).</Text>

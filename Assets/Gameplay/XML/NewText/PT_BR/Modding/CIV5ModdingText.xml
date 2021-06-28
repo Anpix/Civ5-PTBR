@@ -356,7 +356,7 @@
       <Text>Infringe um copyright ou marca comercial</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FLAG_REASON_2">
-      <Text>Malicioso (contém um vírus ou cavalo de tróia)</Text>
+      <Text>Malicioso (contém um vírus ou cavalo de troia)</Text>
     </Row>
     <Row Tag="TXT_KEY_MODDING_FLAG_REASON_3">
       <Text>Conteúdo ofensivo</Text>
