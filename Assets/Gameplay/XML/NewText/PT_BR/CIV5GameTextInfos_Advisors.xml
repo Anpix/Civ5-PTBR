@@ -55,7 +55,7 @@
 			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está.  Em combate, ambas as unidades atacam e se defendem e podem sofrer danos. Ao final do combate, uma das duas pode ser destruída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
-			<Text>Combate corpo a corpo</Text>
+			<Text>Combate Corpo a Corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
 			<Text>Mostre a unidade de combate</Text>

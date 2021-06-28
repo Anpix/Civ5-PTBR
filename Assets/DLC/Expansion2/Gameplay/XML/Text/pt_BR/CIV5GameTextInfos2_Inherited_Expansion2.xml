@@ -1665,10 +1665,10 @@
 			<Text>O dono de uma cidade pode estacionar uma unidade militar dentro da cidade para apoiar sua defesa. Parte da força de combate da unidade alojada é adicionada à força da cidade. A unidade alojada não receberá dano quando a cidade for atacada. Entretanto, se a cidade for capturada, a unidade será destruída.[NEWLINE][NEWLINE]Uma unidade alojada pode atacar unidades inimigas próximas sem que a cidade perca o bônus de alojamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
-		  <Text>Recuar Antes de Ataque corpo a corpo</Text>
+		  <Text>Recuar Antes de Ataque Corpo a Corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
 		  <Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
-		</Row>		
+		</Row>
 	</Language_pt_BR>
 </GameData>

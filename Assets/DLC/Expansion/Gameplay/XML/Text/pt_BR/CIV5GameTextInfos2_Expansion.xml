@@ -917,11 +917,11 @@
 			<Text>A unidade pode sobrevoar Montanhas, mas recebe dano se terminar o turno sobre uma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
-		  <Text>Recuar Antes de Ataque corpo a corpo</Text>
+		  <Text>Recuar Antes de Ataque Corpo a Corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
 		  <Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
-		</Row>				
+		</Row>
 		<!-- New Concepts and Advisor messages-->
 			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC">
 				<Text>Espiões</Text>
