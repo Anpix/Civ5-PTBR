@@ -1495,7 +1495,7 @@
 			<Text>+1 de [ICON_CULTURE]Cultura e +1 [ICON_PEACE]Fé por cada Vinho e Incenso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION">
-			<Text>+1 de [ICON_CULTURE]Cultura de Plantações</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura de {TXT_KEY_IMPROVEMENT_PLANTATION[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP">
 			<Text>+1 de [ICON_CULTURE]Cultura de Santuários</Text>
