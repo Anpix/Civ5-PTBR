@@ -2326,7 +2326,7 @@
 			<Text>Unidade será consumida.[NEWLINE][NEWLINE]Grandes Melhorias conectarão Recursos Estratégicos deste hexágono à rede comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CAMP">
-			<Text>Construir [LINK=IMPROVEMENT_CAMP]Campo de Caça[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_CAMP]{TXT_KEY_IMPROVEMENT_CAMP}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FARM">
 			<Text>Construir [LINK=IMPROVEMENT_FARM]Fazenda[\LINK]</Text>
@@ -2371,10 +2371,10 @@
 			<Text>Conecta este hexágono com [ICON_RES_OIL]Petróleo a nossa rede comercial, o que nos permite construir unidades avançadas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PASTURE">
-			<Text>Construir [LINK=IMPROVEMENT_PASTURE]Pasto[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_PASTURE]{TXT_KEY_IMPROVEMENT_PASTURE}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PLANTATION">
-			<Text>Construir [LINK=IMPROVEMENT_PLANTATION]Plantação[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_PLANTATION]{TXT_KEY_IMPROVEMENT_PLANTATION}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_QUARRY">
 			<Text>Construir [LINK=IMPROVEMENT_QUARRY]{TXT_KEY_IMPROVEMENT_QUARRY}[\LINK]</Text>
@@ -2720,7 +2720,7 @@
 			<Text>Indica que esta cidade é a [ICON_CAPITAL]Capital do seu Império.[NEWLINE][NEWLINE][ICON_CONNECTED]Conectando outras cidades a sua [ICON_CAPITAL]Capital com estradas, mais [ICON_GOLD]Ouro será produzido.[NEWLINE][NEWLINE]+3 [ICON_PRODUCTION]Produção, +3 [ICON_RESEARCH]Ciência, +3 [ICON_GOLD]Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE_HELP">
-			<Text>+15% de [ICON_PRODUCTION]Produção no treinamento de unidades montadas.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_HORSE]Cavalos, [ICON_RES_SHEEP]Ovelhas e [ICON_RES_COW]Gado explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção. [NEWLINE][NEWLINE]A cidade precisa possuir ao menos uma fonte explorada de um desses recursos com um Pasto.</Text>
+			<Text>+15% de [ICON_PRODUCTION]Produção no treinamento de unidades montadas.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_HORSE]Cavalos, [ICON_RES_SHEEP]Ovelhas e [ICON_RES_COW]Gado explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção. [NEWLINE][NEWLINE]A cidade precisa possuir ao menos uma fonte explorada de um desses recursos com um {TXT_KEY_IMPROVEMENT_PASTURE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
 			<Text>+1 de [ICON_FOOD]Alimento de hexágonos oceânicos.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_FISH]Peixe explorada pela cidade produz +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>

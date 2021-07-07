@@ -2908,10 +2908,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CAMP">
-			<Text>Campo de Caça</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_CAMP}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CAMP_TEXT">
-			<Text>Caçar animais selvagens foi uma das primeiras formas utilizadas pelo homem antigo para coletar os recursos existentes no mundo. Um campo de caça permite o acesso aos recursos Cervos, Peles e Marfim.</Text>
+			<Text>Caçar animais selvagens foi uma das primeiras formas utilizadas pelo homem antigo para coletar os recursos existentes no mundo. Um {TXT_KEY_IMPROVEMENT_CAMP} permite o acesso aos recursos Cervos, Peles e Marfim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CAMP_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3097,10 +3097,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PASTURE">
-			<Text>Pasto</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_PASTURE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PASTURE_TEXT">
-			<Text>O pasto é uma porção de terra cercada, onde é plantada grama com o objetivo de alimentar animais de pasto como cavalos ou vacas.</Text>
+			<Text>O {TXT_KEY_IMPROVEMENT_PASTURE} é uma porção de terra cercada, onde é plantada grama com o objetivo de alimentar animais de pastagem como cavalos ou vacas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PASTURE_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3115,10 +3115,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANTATION">
-			<Text>Plantação</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_PLANTATION}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANTATION_TEXT">
-			<Text>Plantação é outra forma de nomear uma fazenda. É geralmente aplicada a grandes propriedades localizadas em locais semi-tropicais ou tropicais, e especialmente aqueles que produzem lavouras para exportação e não para o consumo local. O termo adquiriu um sentido pejorativo devido a sua associação com a escravidão nos Estados Unidos e no Caribe, mas não há nada inerentemente mau sobre uma plantação bem administrada, que emprega trabalhadores livres.</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_PLANTATION} é outra forma de nomear uma fazenda. É geralmente aplicada a grandes propriedades localizadas em locais semi-tropicais ou tropicais, e especialmente aqueles que produzem lavouras para exportação e não para o consumo local. O termo adquiriu um sentido pejorativo devido a sua associação com a escravidão nos Estados Unidos e no Caribe, mas não há nada inerentemente mau sobre uma {TXT_KEY_IMPROVEMENT_PLANTATION} bem administrada, que emprega trabalhadores livres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANTATION_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -8751,7 +8751,7 @@
 			<Text>Recursos estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_BODY">
-			<Text>Alumínio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos (Pasto/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
+			<Text>Alumínio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos ({TXT_KEY_IMPROVEMENT_PASTURE}/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_TITLE">
 			<Text>Estratégico (Melhoria Necessária)</Text>
@@ -9384,7 +9384,7 @@
 			<Text>Um Calendário é um método de manter registros dos dias. Em muitas culturas antigas os calendários serviram para finalidades religiosas e práticas: certos dias do ano eram dedicados à adoração de certas divindades e caso isso não ocorresse seria muito ruim, pois os deuses estariam sendo ofendidos. Mais rotineiramente, calendários permitem as pessoas registrar o clima em área, dizendo-lhes quando plantar, quando colher etc.[NEWLINE][NEWLINE]Ao que parece, os egípcios foram os primeiros a desenvolver um calendário útil, que foi apropriadamente aperfeiçoado pelos romanos no Calendário Juliano, posteriormente. O Calendário Gregoriano, que é quase universalmente utilizado atualmente, foi baseado no Calendário Juliano. Proclamado em 1582, pelo Papa Gregório XIII, o Calendário Gregoriano define com mais precisão os anos solares, corrigindo uma pequena imperfeição no Juliano. No Calendário Juliano o ano solar era de 365 dias e 6 horas de duração, enquanto que no Gregoriano o ano era 12 minutos mais curto, ou seja, 365 dias, 5 horas e 48 minutos. Este erro persistiu durante séculos, fazendo com que o Calendário Juliano, segundo o Gregoriano, ficasse 14 dias fora de sincronia com as estações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALENDAR_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Plantações[ENDCOLOR] em locais com Recursos de Luxo que são extremamente importantes para o [ICON_FOOD]Crescimento e [ICON_HAPPINESS_1]Felicidade. (Nota: muitos recursos exigem que antes você derrube uma floresta ou desmate uma selva, o que requer outras Tecnologias.)</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_PLANTATION[2]}[ENDCOLOR] em locais com Recursos de Luxo que são extremamente importantes para o [ICON_FOOD]Crescimento e [ICON_HAPPINESS_1]Felicidade. (Nota: muitos recursos exigem que antes você derrube uma floresta ou desmate uma selva, o que requer outras Tecnologias.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALENDAR_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios."[NEWLINE][TAB][TAB] - A Bíblia, Salmos, 90:12[NEWLINE][TAB]</Text>
@@ -10110,7 +10110,7 @@
 			<Text>O Homem tem feito armadilhas para animais por milênios. É uma forma de caçar tão antiga quanto o próprio Homem. Através da história, caçadores tem usado uma grande variedade de armadilhas para capturar suas presas - empregando de tudo, desde sementes encobertas, redes escondidas, até jaulas de metal com contrapesos. Nos séculos XVII e XVIII, os caçadores norte americanos e franco-canadenses passaram anos capturando uma grande quantidade de peles de animais, antes de levá-las ao lado leste para venda, sendo que a maioria das valiosas peles acabou se tornando chapéus e outros artigos de vestuário para os ricos da Europa. Caçadores russos fizeram praticamente o mesmo na Sibéria e outros territórios remotos da Eurásia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles de Animais. Também permite a construção do [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro no Império.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles de Animais. Também permite a construção do [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro no Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Mesmo os animais ferozes e pássaros distraídos caem na mesma armadilha duas vezes."[NEWLINE][TAB][TAB] - São Jerônimo[NEWLINE][TAB]</Text>
@@ -11262,7 +11262,7 @@
 			<Text>Requisitos Tecnológicos: Armadilhas[NEWLINE]Tempo de Construção: 7 Turnos[NEWLINE]Acesso aos Recursos: Marfim, Pele, Cervos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_CAMP_HEADING3_TITLE">
-			<Text>Campo de Caça</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_CAMP}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_CLEARINGLAND_ADV_QUEST">
 			<Text>Como Limpar Terreno funciona?</Text>
@@ -11397,7 +11397,7 @@
 			<Text>Requisitos Tecnológicos: {TXT_KEY_TECH_ANIMAL_HUSBANDRY}[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_TITLE">
-			<Text>Pasto</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_PASTURE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PILLAGINGROADS_ADV_QUETS">
 			<Text>Como eu faço para saquear uma Melhoria ou Estrada?</Text>
@@ -11412,7 +11412,7 @@
 			<Text>Requisitos Tecnológicos: Calendário[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Acesso aos Recursos: Bananas, Corante, Seda, Especiarias, Açúcar, Algodão, Vinho, Incenso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PLANTATION_HEADING3_TITLE">
-			<Text>Plantação</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_PLANTATION}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_QUARRY_HEADING3_BODY">
 			<Text>Requisitos Tecnológicos: Alvenaria[NEWLINE]Tempo de Construção: 7 Turnos[NEWLINE]Acesso aos Recursos: Mármore</Text>

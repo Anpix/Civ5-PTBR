@@ -616,7 +616,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRANARY}[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SHRINE}[ENDCOLOR], o primeiro edifício do jogo que fornece [ICON_PEACE]Fé.</Text>
