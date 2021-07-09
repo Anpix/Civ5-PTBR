@@ -311,7 +311,7 @@
             <Text>Plano Quinquenal</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Plano Quinquenal[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada Mina ou Mina a Céu Aberto.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Plano Quinquenal[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada {TXT_KEY_IMPROVEMENT_MINE} ou {TXT_KEY_IMPROVEMENT_QUARRY}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT">
             <Text>Ditarua do Proletariado</Text>
