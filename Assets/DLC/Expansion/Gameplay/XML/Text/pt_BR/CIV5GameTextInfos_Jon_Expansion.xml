@@ -716,7 +716,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Você os perdoou pela espionagem.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_HOLY_SITE">
-			<Text>Construir um Local Santo</Text>
+			<Text>Construir um {TXT_KEY_IMPROVEMENT_HOLY_SITE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_HOLY_SITE_HELP">
 			<Text>A unidade será consumida.[NEWLINE][NEWLINE]Grandes Melhorias conectarão recursos estratégicos deste hexágono à rota comercial.</Text>

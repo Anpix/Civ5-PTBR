@@ -1379,7 +1379,7 @@
 			<Text>Combat Bonus in Forest/Jungle (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HOLY_SITE_TEXT">
-			<Text>A place of religious significance, holy sites are locations held sacred as a testament to the gods, prophets, and traditions of a given religion. Often the destination for religious pilgrims, these sites are often visited by the faithful in the hopes of strengthening their connection to God, while also paying their respects.</Text>
+			<Text>Um lugar de significado religioso, os {TXT_KEY_IMPROVEMENT_HOLY_SITE[2]} são locais considerados sagrados como um testamento aos deuses, profetas e tradições de uma determinada religião. Muitas vezes, destino de peregrinos religiosos, esses locais são frequentemente visitados pelos fiéis na esperança de fortalecer sua conexão com Deus, ao mesmo tempo em que prestam homenagem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYAN_ATLATLIST_TEXT">
 			<Text>The Atlatlists were super-specialized dart-throwers, employing a long, wooden, spear-like object to hurl their darts towards the intended target at a great speed.  This implement, called an atlatl, had a small cup on one end on which the dart would rest, and a channel cut down the length for it to travel down.  Using an atlatl, the Atlatlist could launch a dart over 300 feet and up to 60 miles an hour - a good deal farther and faster than a simple hand-thrown projectile. The Mayan Atlatlists would have been capable of devastating enemy lines from afar, provided they had a clear line of sight to the target.[NEWLINE][NEWLINE]Some of the earliest atlatls date back to roughly 400,000 years ago, used by the extinct Homo heidelbergensis.  Homo sapiens are thought to have used an early version of the atlatl starting in the Upper Paleolithic Era, about 15,500 BC.</Text>
@@ -1941,7 +1941,7 @@
 			<Text>The Musketman is the first gunpowder unit in the game, and it replaces all of the older foot-soldier types - Longswordsmen, Pikemen, and the like. It is not a ranged unit, however, and cannot attack an enemy that is more than one hex away.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_TEXT">
-			<Text>Um Grande Templo é um local santo, considerado sagrado entre os seguidores de uma dada religião. Estes templos geralmente ostentam uma arquitetura esplendorosa e inscrições ornamentadas que permanecem por séculos como um testamento de fé dos adeptos da religião. Embora não haja consenso sobre qual dos muitos templos encontrados no mundo seja o mais antigo, muitos acreditam que Göbekli Tepe - localizado na moderna Turquia e construído há mais de 12.000 anos - seja a estrutura religiosa feita pelo homem mais antiga já descoberta.</Text>
+			<Text>Um Grande Templo é um {TXT_KEY_IMPROVEMENT_HOLY_SITE}, considerado sagrado entre os seguidores de uma dada religião. Estes templos geralmente ostentam uma arquitetura esplendorosa e inscrições ornamentadas que permanecem por séculos como um testamento de fé dos adeptos da religião. Embora não haja consenso sobre qual dos muitos templos encontrados no mundo seja o mais antigo, muitos acreditam que Göbekli Tepe - localizado na moderna Turquia e construído há mais de 12.000 anos - seja a estrutura religiosa feita pelo homem mais antiga já descoberta.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_CITIES_INDESTRUCTIBLECITY_HEADING3_BODY">
 			<Text>Você não pode destruir uma cidade fundada por você (outra Civilização pode, você não). Além disso, você não pode destruir a Capital de outra Civilização ou a Cidade Sagrada de qualquer religião.</Text>
