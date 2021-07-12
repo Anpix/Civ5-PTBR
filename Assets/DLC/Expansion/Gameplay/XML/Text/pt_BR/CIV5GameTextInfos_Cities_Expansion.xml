@@ -9,7 +9,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SALZBURG">
-			<Text>Salzburg</Text>
+			<Text>Salzburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -34,7 +34,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_INNSBRUCK">
-			<Text>Innsbruck</Text>
+			<Text>Insbruque</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -94,7 +94,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WOLFSBERG">
-			<Text>Wolfsberg</Text>
+			<Text>Wolfsburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -358,7 +358,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_THEHAGUE">
-			<Text>The Hague</Text>
+			<Text>Haia</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -378,12 +378,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MAASTRICHT">
-			<Text>Maastricht</Text>
+			<Text>Mastrique</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TILBURG">
-			<Text>Tilburg</Text>
+			<Text>Tilburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -901,7 +901,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GOTHENBURG">
-			<Text>Gothenburg</Text>
+			<Text>Gotenburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>

@@ -4,656 +4,656 @@
         <!-- BELGIUM -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOMA">
             <Text>Boma</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LEOPOLDVILLE">
             <Text>Leopoldville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANNINGVILLE">
             <Text>Banningville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ELIZABETHVILLE">
             <Text>Elizabethville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_STANLEYVILLE">
             <Text>Stanleyville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COQUILHATVILLE">
             <Text>Coquilhatville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALBERTVILLE">
             <Text>Albertville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LULUABOURG">
             <Text>Luluabourg</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_THYSVILLE">
             <Text>Thysville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JADOTVILLE">
             <Text>Jadotville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TSHIKAPA">
             <Text>Tshikapa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COSTERMANSVILLE">
             <Text>Costermansville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAKWANGA">
             <Text>Bakwanga</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KINDU">
             <Text>Kindu</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANANA">
             <Text>Banana</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- ENGLAND -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOMBASA">
             <Text>Mombasa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_SUDAN">
             <Text>Port Sudan</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HARGEISA">
             <Text>Hargeisa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASERU">
             <Text>Maseru</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAFEKING">
             <Text>Mafeking</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZOMBA">
             <Text>Zomba</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ENTEBBE">
             <Text>Entebbe</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NAIROBI">
             <Text>Nairobi</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZUNGERU">
             <Text>Zungeru</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SALISBURY">
             <Text>Salisbury</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KAMPALA">
             <Text>Kampala</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSAKA">
             <Text>Lusaka</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LILONGWE">
             <Text>Lilongwe</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TAMALE">
             <Text>Tamale</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISUMU">
             <Text>Kisumu</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- FRANCE -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMAKO">
             <Text>Bamako</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAZZAVILLE">
             <Text>Brazzaville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NDJAMENA">
             <Text>N'Djamena</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NIAMEY">
             <Text>Niamey</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NOUAKCHOTT">
             <Text>Nouakchott</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANGUI">
             <Text>Bangui</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJIBOUTI">
             <Text>Djibouti</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FORT_DAUPHIN">
             <Text>Fort Dauphin</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CONAKRY">
             <Text>Conakry</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POINT_NOIRE">
             <Text>Pointe-Noire</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOUAKE">
             <Text>Bouake</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOBO_DIOULASSO">
             <Text>Bobo-Dioulasso</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJOUGOU">
             <Text>Djougou</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BECHAR">
             <Text>Bechar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- GERMANY -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DOUALA">
             <Text>Douala</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SWAKOPMUND">
             <Text>Swakopmund</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_YAOUNDE">
             <Text>Yaounde</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOME">
             <Text>Lome</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAGAMOYO">
             <Text>Bagamoyo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMENDA">
             <Text>Bamenda</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINDHOEK">
             <Text>Windhoek</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UJIJI">
             <Text>Ujiji</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROUA">
             <Text>Garoua</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KARA">
             <Text>Kara</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUEDERITZ">
             <Text>Luederitz</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KIGALI">
             <Text>Kigali</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAROUA">
             <Text>Maroua</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DODOMA">
             <Text>Dodoma</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BERTOUA">
             <Text>Bertoua</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- ITALY -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASMARA">
             <Text>Asmara</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOSASO">
             <Text>Bosaso</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASSAB">
             <Text>Assab</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BELEDWEYNE">
             <Text>Beledweyne</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KEREN">
             <Text>Keren</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAIDOA">
             <Text>Baidoa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GALKAYO">
             <Text>Galkayo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISMAYO">
             <Text>Kismayo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASSAWA">
             <Text>Massawa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOWHAR">
             <Text>Jowhar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROOWE">
             <Text>Garoowe</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BARDERA">
             <Text>Bardera</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QARDHO">
             <Text>Qardho</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ADI_UGRI">
             <Text>Adi Ugri</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- PORTUGAL -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LISBON">
             <Text>Nova Lisboa</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SA_DA_BANDEIRA">
             <Text>Sá da Bandeira</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_PERY">
             <Text>Vila Pery</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SILVA_PORTO">
             <Text>Silva Porto</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TETE">
             <Text>Tete</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_BABRAL">
             <Text>Vila Cabral</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_AMELIA">
             <Text>Porto Amélia</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MALANJE">
             <Text>Malanje</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_JUNQUEIRO">
             <Text>Vila Junqueiro</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_XAI_XAI">
             <Text>Xai-Xai</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSO">
             <Text>Luso</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HENRIQUE">
             <Text>Henrique de Carvalho</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOCAMEDES">
             <Text>Mocamedes</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LAMEGO">
             <Text>New Lamego</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- EGYPT -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KHARTOUM">
             <Text>Khartoum</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KASSALA">
             <Text>Kassala</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KOSTI">
             <Text>Kosti</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUXOR">
             <Text>Luxor</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NYALA">
             <Text>Nyala</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASYUT">
             <Text>Asyut</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WAD_MADANI">
             <Text>Wad Madani</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_QADARIF">
             <Text>Al Qadarif</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASWAN">
             <Text>Aswan</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_FASHIR">
             <Text>Al-Fashir</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_EDFU">
             <Text>Edfu</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- OTTOMAN -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SABHA">
             <Text>Sabha</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TOBRUK">
             <Text>Tobruk</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SFAX">
             <Text>Sfax</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HUN">
             <Text>Hun</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SIRTE">
             <Text>Sirte</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NALUT">
             <Text>Nalut</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UBARI">
             <Text>Ubari</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_JAWF">
             <Text>Al Jawf</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAK">
             <Text>Brak</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MURZUK">
             <Text>Murzuk</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZELLA">
             <Text>Zella</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAT">
             <Text>Gat</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QAMINIS">
             <Text>Qaminis</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AWJILA">
             <Text>Awjila</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- BOER -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PRETORIA">
             <Text>Pretoria</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BLOEMFONTEIN">
             <Text>Bloemfontein</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOHANNESBURG">
-            <Text>Johannesburg</Text>
-            <Gender>neuter</Gender>
+            <Text>Joanesburgo</Text>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KLEIN_VRYSTAAT">
             <Text>Klein Vrystaat</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POTCHEFSTROOM">
             <Text>Potchefstroom</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VRYBURG">
             <Text>Vryburg</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINBURG">
             <Text>Winburg</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PIETERSBURG">
             <Text>Pietersburg</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENONI">
             <Text>Benoni</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HEIDELBERG">
-            <Text>Heidelberg</Text>
-            <Gender>neuter</Gender>
+            <Text>Heidelberga</Text>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MESSINA">
             <Text>Messina</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VIRGINIA">
             <Text>Virginia</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOKSBURG">
             <Text>Boksburg</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!--City Name Lists -->
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GIBRALTAR">
             <Text>Gibraltar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FREETOWN">
             <Text>Freetown</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ACCRA">
             <Text>Accra</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LAGOS">
             <Text>Lagos</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAPE_TOWN">
@@ -663,183 +663,183 @@
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_ELIZABETH">
             <Text>Porto Elizabete</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VICTORIA">
             <Text>Victoria</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALGIERS">
-            <Text>Algiers</Text>
-            <Gender>neuter</Gender>
+            <Text>Argel</Text>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DAKAR">
             <Text>Dakar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ABIDJAN">
             <Text>Abidjan</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_NOVO">
             <Text>Porto Novo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LIBREVILLE">
             <Text>Libreville</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MORONI">
             <Text>Moroni</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAGLIARI">
             <Text>Cagliari</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CATANZARO">
             <Text>Catanzaro</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PALERMO">
             <Text>Palermo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BISSAU">
             <Text>Bissau</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SAO_TOME">
             <Text>São Tome and Príncipe</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUANDA">
             <Text>Luanda</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGUELA">
             <Text>Benguela</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOURENCO_MARQUES">
             <Text>Lourenço Marques</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BEIRA">
             <Text>Beira</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOZAMBIQUE">
             <Text>Mozambique</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAIRO">
             <Text>Cairo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALEXANDRIA">
             <Text>Alexandria</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SUEZ">
             <Text>Suez</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TUNIS">
-            <Text>Tunis</Text>
-            <Gender>neuter</Gender>
+            <Text>Túnis</Text>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TRIPOLI">
             <Text>Tripoli</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGHAZI">
             <Text>Benghazi</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <!-- CITY STATES -->
         <Row Tag="TXT_KEY_CITYSTATE_SOKOTO">
             <Text>Sokoto</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_SOKOTO_ADJ">
             <Text>Sokoto</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_BUNKEYA">
             <Text>Bunkeya</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_BUNKEYA_ADJ">
             <Text>Bunkeya</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_SEGOU">
             <Text>Segou</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_SEGOU_ADJ">
             <Text>Segou</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_BORNU">
             <Text>Bornu</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_BORNU_ADJ">
             <Text>Bornu</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_OUGADOUGOU">
             <Text>Ouagadougou</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_OUGADOUGOU_ADJ">
             <Text>Ouagadougou</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_LUBA">
             <Text>Luba</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_LUBA_ADJ">
             <Text>Luba</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
     </Language_pt_BR>
