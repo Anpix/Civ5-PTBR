@@ -100,7 +100,7 @@
             <Text>[NEWLINE][TAB][TAB]"Sobre as gratas águas do mar azul escuro, nossos pensamentos sem limites e nossas almas livres, longe a brisa pode levar, as ondas espumam, procuram nosso Império e olha para nossa casa!"[NEWLINE][TAB][TAB] - Lord Byron[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ASTRONOMY_HELP">
-            <Text>Fornece +1 de [ICON_MOVES]Movimento para unidades embarcadas. Permite a construção do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], o primeiro edifício que melhora a produção de pontos de ciência. Também permite a construção do [COLOR_POSITIVE_TEXT]Farol[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], edifícios que melhoram a sua produção de [ICON_FOOD]Alimento de hexágonos aquáticos e conectam rotas comerciais sobre as águas.</Text>
+            <Text>Fornece +1 de [ICON_MOVES]Movimento para unidades embarcadas. Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_OBSERVATORY}[ENDCOLOR], o primeiro edifício que melhora a produção de pontos de ciência. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_LIGHTHOUSE}[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_HARBOR}[ENDCOLOR], edifícios que melhoram a sua produção de [ICON_FOOD]Alimento de ladrilhos aquáticos e conectam rotas comerciais sobre as águas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_COMPASS_HELP">
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval da Renascença.</Text>
@@ -214,7 +214,7 @@
             <Text>Rongo-Rongo</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Rongo-Rongo[ENDCOLOR][NEWLINE]Aumenta em 50% a produção de pontos de [ICON_RESEARCH]Ciência de Bibliotecas e Observatórios.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO}[ENDCOLOR][NEWLINE]Aumenta em 50% a produção de pontos de [ICON_RESEARCH]Ciência de {TXT_KEY_BUILDING_LIBRARY[2]} e {TXT_KEY_BUILDING_OBSERVATORY[2]}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO_DESC">
             <Text>Os enigmáticos Moais da Ilha de Páscoa não são o único mistério da ilha. O Rongo-Rongo é uma coleção de tábuas com glifos datadas do século XVIII, cobertas com um tipo de proto-idioma que desafia a decodificação. Há aproximadamente duas dezenas de objetos rongo-rongo legítimos com caracteres consistentes neles, mas mesmo os métodos estatísticos mais avançados falharam em descobrir seus significados. A teoria que lidera neste momento é que rongo-rongo são dispositivos mnemônicos para sacerdotes e encantadores, já que a palavra "rongo-rongo" deriva do Rapa Nui para "recitar, cantar". Um detalhe enlouquecedor sobre os mistérios do rongo-rongo são inúmeros relatos de que havia muito mais desses objetos, mas como os segredos da linguagem foram perdidos, a madeira das tábuas rongo-rongo foi utilizada para construir canoas, carretéis de pesca e até mesmo para servir como lenha aos ilhéus!</Text>

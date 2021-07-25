@@ -1732,7 +1732,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos, e do [COLOR_POSITIVE_TEXT]Observatório[ENDCOLOR], que fornece um significante impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os oceanos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARAVEL}[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_OBSERVATORY}[ENDCOLOR], que fornece um significativo impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro produzido pela cidade, além da [COLOR_POSITIVE_TEXT]Guarda Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>

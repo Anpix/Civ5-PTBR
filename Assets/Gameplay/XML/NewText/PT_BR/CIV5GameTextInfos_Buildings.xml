@@ -266,8 +266,8 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY">
-			<Text>Planetário|Planetários</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Observatório|Observatórios</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID">

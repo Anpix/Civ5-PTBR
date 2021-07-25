@@ -1601,7 +1601,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Pensamento Livre[ENDCOLOR][NEWLINE]+1 de [ICON_RESEARCH]Ciência vindos de cada Posto Comercial e +17% de [ICON_RESEARCH]Ciência de Universidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Humanismo[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade vindos de cada Universidade, Observatório e Escola Pública.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_HUMANISM}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade vindos de cada {TXT_KEY_BUILDING_UNIVERSITY}, {TXT_KEY_BUILDING_OBSERVATORY} e {TXT_KEY_BUILDING_PUBLIC_SCHOOL}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Revolução Científica[ENDCOLOR][NEWLINE]2 tecnologias grátis.</Text>
@@ -2819,7 +2819,7 @@
 			<Text>+1 de [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos na Cidade. +2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY_HELP">
-			<Text>A cidade deve ser construída próxima a uma Montanha.</Text>
+			<Text>A cidade deve estar construída próxima a uma {TXT_KEY_TERRAIN_MOUNTAIN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
 			<Text>+2 de [ICON_RESEARCH]Ciência por hexágonos com Selva explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma Biblioteca.</Text>

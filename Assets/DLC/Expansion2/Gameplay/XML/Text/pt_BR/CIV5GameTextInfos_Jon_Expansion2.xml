@@ -281,7 +281,7 @@
             <Text>Academia de Ciências</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ACADEMY_SCIENCES_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Academia de Ciências[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade Local de cada Observatório, Escola Pública ou Laboratório de Ciências.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_ACADEMY_SCIENCES}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade Local de cada {TXT_KEY_BUILDING_OBSERVATORY}, {TXT_KEY_BUILDING_PUBLIC_SCHOOL} ou {TXT_KEY_BUILDING_LABORATORY}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP">
             <Text>Liderança Partidária</Text>
