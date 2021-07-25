@@ -277,49 +277,49 @@
 			<Text>Tela da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_BODY">
-			<Text>Florestas diminuem o movimento da unidade. Mover-se em hexágonos com floresta irá consumir todos os pontos de movimento da sua unidade. Florestas bloqueiam a vista de objetos por trás delas.</Text>
+			<Text>{TXT_KEY_FEATURE_FOREST[2]} diminuem o movimento da unidade. Mover-se em hexágonos com {TXT_KEY_FEATURE_FOREST} irá consumir todos os pontos de movimento da sua unidade. {TXT_KEY_FEATURE_FOREST[2]} bloqueiam a vista de objetos por trás delas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_DISPLAY">
-			<Text>Movimento: Florestas</Text>
+			<Text>Movimento: {TXT_KEY_FEATURE_FOREST[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_ACTIVATE_BUTTON">
-			<Text>Mostre a floresta</Text>
+			<Text>Mostre a {TXT_KEY_FEATURE_FOREST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_BODY">
-			<Text>Colinas diminuem os movimentos de uma unidade, mas fornecem uma vantagem de vista, permitindo que a unidade veja sobre as árvores e outros morros. Mover uma unidade sobre uma colina pode consumir todos os seus pontos de movimento. Colinas bloqueiam a vista de objetos atrás delas.</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]} diminuem os movimentos de uma unidade, mas fornecem uma vantagem de vista, permitindo que a unidade veja sobre as árvores e outros morros. Mover uma unidade sobre uma {TXT_KEY_TERRAIN_HILL} pode consumir todos os seus pontos de movimento. {TXT_KEY_TERRAIN_HILL[2]} bloqueiam a vista de objetos atrás delas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_DISPLAY">
-			<Text>Movimento: Colinas</Text>
+			<Text>Movimento: {TXT_KEY_TERRAIN_HILL[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_ACTIVATE_BUTTON">
-			<Text>Mostre a colina</Text>
+			<Text>Mostre a {TXT_KEY_TERRAIN_HILL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY">
-			<Text>Pântanos diminuem os movimentos de uma unidade. Mover-se sobre um pântano irá consumir todos os pontos de movimentos da sua unidade. Elas estarão em um momento difícil para se defender quando estiverem em um pântano, por isso tome cuidado!</Text>
+			<Text>{TXT_KEY_FEATURE_MARSH[2]} diminuem os movimentos de uma unidade. Mover-se sobre um {TXT_KEY_FEATURE_MARSH} irá consumir todos os pontos de movimentos da sua unidade. Elas estarão em um momento difícil para se defender quando estiverem em um {TXT_KEY_FEATURE_MARSH}, por isso tome cuidado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY">
-			<Text>Movimento: Pântanos</Text>
+			<Text>Movimento: {TXT_KEY_FEATURE_MARSH[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON">
-			<Text>Mostre o pântano</Text>
+			<Text>Mostre o {TXT_KEY_FEATURE_MARSH}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_BODY">
-			<Text>Unidades terrestres não podem se mover através de montanhas; você precisa contorná-la. Montanhas podem ser vistas de uma distância razoável.</Text>
+			<Text>Unidades terrestres não podem se mover através de {TXT_KEY_TERRAIN_MOUNTAIN[2]}; você precisa contorná-la. {TXT_KEY_TERRAIN_MOUNTAIN[2]} podem ser vistas de uma distância razoável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_DISPLAY">
-			<Text>Movimento: Montanhas</Text>
+			<Text>Movimento: {TXT_KEY_TERRAIN_MOUNTAIN[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_ACTIVATE_BUTTON">
-			<Text>Mostre a montanha</Text>
+			<Text>Mostre a {TXT_KEY_TERRAIN_MOUNTAIN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY">
-			<Text>Selvas diminuem os movimentos de uma unidade. Mover-se sobre uma selva irá consumir todos os pontos de movimentos da sua unidade. Selvas bloqueiam a vista de objetos atrás delas e são bastante quentes e úmidas, mas isso não importa.</Text>
+			<Text>{TXT_KEY_FEATURE_JUNGLE[2]} diminuem os movimentos de uma unidade. Mover-se sobre uma {TXT_KEY_FEATURE_JUNGLE} irá consumir todos os pontos de movimentos da sua unidade. {TXT_KEY_FEATURE_JUNGLE[2]} bloqueiam a vista de objetos atrás delas e são bastante quentes e úmidas, mas isso não importa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY">
-			<Text>Movimento: Selvas</Text>
+			<Text>Movimento: {TXT_KEY_FEATURE_JUNGLE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON">
-			<Text>Mostre a selva</Text>
+			<Text>Mostre a {TXT_KEY_FEATURE_JUNGLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
 			<Text>Movimentar-se sobre rios diminui os movimentos da unidade. Mover-se através de um rio cosumirá todos os pontos de movimentos da sua unidade e é extremamente difícil para as unidades atacarem quando atravessam um rio, então posicione suas unidades com cuidado.</Text>
@@ -331,7 +331,7 @@
 			<Text>Mostre o rio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_BODY">
-			<Text>Ter uma marinha forte é a única maneira de defender e explorar os oceanos em torno da nossa civilização. Unidades navais também podem causar estragos nos inimigos com seus poderosos ataques a distância!</Text>
+			<Text>Ter uma marinha forte é a única maneira de defender e explorar os {TXT_KEY_TERRAIN_OCEAN[2]} em torno da nossa civilização. Unidades navais também podem causar estragos nos inimigos com seus poderosos ataques a distância!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_DISPLAY">
 			<Text>Unidades Navais</Text>

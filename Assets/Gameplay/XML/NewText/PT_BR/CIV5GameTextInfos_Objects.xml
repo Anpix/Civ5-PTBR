@@ -64,37 +64,37 @@
 		<Row Tag="TXT_KEY_FEATURE_FALLOUT">
 			<Text>Chuva Radioativa</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_FLOOD_PLAINS">
-			<Text>Planícies Inundadas</Text>
+			<Text>Planície Alagada|Planícies Alagadas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_FOREST">
-			<Text>Floresta</Text>
+			<Text>Floresta|Florestas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_ICE">
 			<Text>Gelo</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_JUNGLE">
-			<Text>Selva</Text>
+			<Text>Selva|Selvas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_MARSH">
-			<Text>Pântano</Text>
+			<Text>Pântano|Pântanos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_OASIS">
-			<Text>Oásis</Text>
+			<Text>Oásis|Oásis</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GAMESPEED_EPIC">
 			<Text>Épico</Text>
@@ -214,7 +214,7 @@
 		<Row Tag="TXT_KEY_IMPROVEMENT_PASTURE">
 			<Text>Pasto|Pastos</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_PLANTATION">
 			<Text>Plantação|Plantações</Text>
@@ -557,44 +557,44 @@
 			<Plurality>2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_DESERT">
-			<Text>Deserto</Text>
+			<Text>Deserto|Desertos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASS">
-			<Text>Pradaria</Text>
+			<Text>Pradaria|Pradarias</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_HILL">
-			<Text>Colina</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
-		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN">
-			<Text>Montanha</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
-		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_OCEAN">
-			<Text>Oceano</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
-		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_PLAINS">
-			<Text>Planície</Text>
+			<Text>Colina|Colinas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_SNOW">
-			<Text>Neve</Text>
+		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN">
+			<Text>Montanha|Montanhas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_OCEAN">
+			<Text>Oceano|Oceanos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_PLAINS">
+			<Text>Planície|Planícies</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SNOW">
+			<Text>Neve|Neves</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TUNDRA">
-			<Text>Tundra</Text>
+			<Text>Tundra|Tundras</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_CULTURE">
 			<Text>Cultura</Text>
@@ -794,7 +794,7 @@
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_DESC">
 			<Text>Maloca|Malocas</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_DESC">
 			<Text>Jardins Flutuantes</Text>

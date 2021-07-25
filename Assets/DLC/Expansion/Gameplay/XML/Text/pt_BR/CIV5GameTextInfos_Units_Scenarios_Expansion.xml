@@ -33,9 +33,9 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD">
-			<Text>Castigo de Deus|Castigos de Deus</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Flagelo de Deus|Flagelos de Deus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<!-- EMPIRES OF THE SMOKY SKIES -->
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD">

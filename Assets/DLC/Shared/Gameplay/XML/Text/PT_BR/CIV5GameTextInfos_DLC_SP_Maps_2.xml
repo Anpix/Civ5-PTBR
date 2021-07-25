@@ -125,7 +125,7 @@
 		<Text>América do Norte - Enorme</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DESC">
-		<Text>Um mapa da América do Norte medindo da Colômbia ao Alasca, onde as paisagens e a tundra são constantes e todos os outros terrenos e características randômicos.</Text>
+		<Text>Um mapa da América do Norte medindo da Colômbia ao Alasca, onde as paisagens e a {TXT_KEY_TERRAIN_TUNDRA} são constantes e todos os outros terrenos e características são randomizados.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA">
 		<Text>América do Sul</Text>
@@ -137,7 +137,7 @@
 		<Text>América do Sul - Padrão</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_DESC">
-      <Text>Um mapa da América do Sul, onde a paisagem é constante e todos os outros terrenos e características randômicos, incluindo as cadeias de montanhas móveis.</Text>
+      <Text>Um mapa da América do Sul, onde a paisagem é constante e todos os outros terrenos e características randomizadas, incluindo as cadeias de montanhas.</Text>
     </Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST">
 		<Text>Oriente Médio</Text>

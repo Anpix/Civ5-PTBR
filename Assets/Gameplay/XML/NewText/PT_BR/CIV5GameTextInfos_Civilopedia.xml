@@ -267,7 +267,7 @@
 			<Text>Quais são as regras sobre o movimento dos {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_MOVEMENT_HEADING3_BODY">
-			<Text>Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} podem se movimentar sobre todos os tipos de terreno, incluindo montanhas e gelo, a um custo de 1 PM cada um. Também podem sobrevoar águas costeiras pelo mesmo preço mas não podem se adentrar em águas profundas a menos que se embarquem.</Text>
+			<Text>Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} podem se movimentar sobre todos os tipos de terreno, incluindo {TXT_KEY_TERRAIN_MOUNTAIN[2]} e {TXT_KEY_FEATURE_ICE}, a um custo de 1 PM cada um. Também podem sobrevoar águas costeiras pelo mesmo custo mas não podem se adentrar em águas profundas a menos que se embarquem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_MOVEMENT_HEADING3_TITLE">
 			<Text>Movimentos do Helicóptero</Text>
@@ -429,7 +429,7 @@
 			<Text>Como aparecem novos acampamentos bárbaros?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_NEWENCAMPMENTS_HEADING4_BODY">
-			<Text>Os acampamentos bárbaros podem aparecer em qualquer espaço neutro que não pode ser visto por uma cidade ou unidade de uma civilização. Se quiser impedir que os acampamentos bárbaros se multipliquem ao redor de sua civilização, coloque as unidades em colinas para manter à vista o máximo do terreno possível.</Text>
+			<Text>Os acampamentos bárbaros podem aparecer em qualquer espaço neutro que não pode ser visto por uma cidade ou unidade de uma civilização. Se quiser impedir que os acampamentos bárbaros se multipliquem ao redor de sua civilização, coloque as unidades em {TXT_KEY_TERRAIN_HILL[2]} para manter à vista o máximo do terreno possível.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_NEWENCAMPMENTS_HEADING4_TITLE">
 			<Text>Novos Acampamentos</Text>
@@ -519,7 +519,7 @@
 			<Text>Os Quartéis proporcionam experiência para as unidades militares criadas na cidade. Esta experiência pode ser usada para dar Promoções às unidades, tornando-as mais eficazes em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_STRATEGY">
-			<Text>O Bazar é o edifício exclusivo árabe que substitui o Mercado. O Bazar fornece um bônus de [ICON_GOLD]Ouro para a cidade. A civilização ganha uma cópia adicional de cada recurso de luxo fornecido por uma cidade que possua um Bazar. Este edifício fornece +2 de [ICON_GOLD]Ouro em [ICON_RES_OIL]Petróleo e Oásis.</Text>
+			<Text>O {TXT_KEY_BUILDING_BAZAAR_DESC} é o edifício exclusivo árabe que substitui o {TXT_KEY_BUILDING_MARKET}. O {TXT_KEY_BUILDING_BAZAAR_DESC} fornece um bônus de [ICON_GOLD]Ouro para a cidade. A civilização ganha uma cópia adicional de cada recurso de luxo fornecido por uma cidade que possua um {TXT_KEY_BUILDING_BAZAAR_DESC}. Este edifício fornece +2 de [ICON_GOLD]Ouro em [ICON_RES_OIL]Petróleo e {TXT_KEY_FEATURE_OASIS}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BIG_BEN_STRATEGY">
 			<Text>Esta cara Maravilha reduz em 25% o custo de aquisição de edifícios, unidades e Maravilhas em TODAS as cidades. Além disso, todos os especialistas de todas as cidades darão +2 de [ICON_CULTURE]Cultura cada um. Finalmente, o Big Ben proporciona +1 de [ICON_CULTURE]Cultura e +2 de pontos de Grandes Mercadores.</Text>
@@ -657,7 +657,7 @@
 			<Text>Durante grande parte de sua história, a maioria dos Iroqueses viviam em aldeias compostas de uma ou mais "Malocas," edifícios comunais construídos com árvores jovens revestidas de casca de olmo. Na verdade, os Iroqueses se chamam a si mesmos de "Hodenosaunee," que significa "Povo da Maloca." Estes edifícios poderiam ter entre 12 e 120 metros de comprimento e 24 metros de largura. Se dividiam em compartimentos por divisórias internas, cada uma conectada por um corredor central aberto. Vários desses compartimentos compartilhavam o fogo para cozinhar no corredor central, com uma abertura no teto agindo como uma chaminé.[NEWLINE][NEWLINE]As Malocas são estruturas eficientes, mais baratos de se construir do que as moradias individuais, exigindo menos recursos naturais do que outros tipos de casas. São representativos do desejo da cultura Iroquesa de sobreviver e crescer em harmonia com o ambiente ao seu redor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_STRATEGY">
-			<Text>A Maloca é uma construção Iroquesa, substituindo a Oficina. Aumenta o regime de [ICON_PRODUCTION]Produção por cada floresta que se encontre no raio da cidade.</Text>
+			<Text>A {TXT_KEY_BUILDING_LONGHOUSE_DESC} é uma construção exclusiva Iroquesa, substituindo a {TXT_KEY_BUILDING_WORKSHOP}. Ela aumenta o regime de [ICON_PRODUCTION]Produção por cada {TXT_KEY_FEATURE_FOREST} que se encontre no raio da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LOUVRE_STRATEGY">
 			<Text>O Louvre fornece um museu gratuito em todas as cidades de sua civilização. Também proporciona +1 em [ICON_CULTURE]Cultura e +2 pontos de Grande Artista. Os Museus não são baratos e cada um concede +5 em [ICON_CULTURE]Cultura por turno, o que pode representar um impulso cultural massivo durante o Renascimento.</Text>
@@ -774,7 +774,7 @@
 			<Text>A Maravilha Capela Sistina aumenta em 50% a produção [ICON_CULTURE]cultural de TODAS as cidades e fornece +1 para [ICON_CULTURE]Cultura e +2 pontos de Grande Artista. Esta é uma das Maravilhas mais poderosas da Renascença.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SOLAR_PLANT_STRATEGY">
-			<Text>A Central de Energia Solar é um edifício da fase avançada do jogo que aumenta significativamente a [ICON_PRODUCTION]Produção de uma cidade. Para poder construir este edifício, a cidade deve ser construída em um hexágono no deserto ou adjacente a ele, além de possuir uma Fábrica já construída.</Text>
+			<Text>A Central de Energia Solar é um edifício da fase avançada do jogo que aumenta significativamente a [ICON_PRODUCTION]Produção de uma cidade. Para poder construir este edifício, a cidade deve ser construída em um hexágono de {TXT_KEY_TERRAIN_DESERT} ou adjacente a ele, além de possuir uma Fábrica já construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY_STRATEGY">
 			<Text>A {TXT_KEY_BUILDING_SPACESHIP_FACTORY} aumenta a velocidade com que uma cidade constrói peças de espaçonaves. Este edifício requer um recurso de [ICON_RES_ALUMINUM]Alumínio e a cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY} para poder construí-lo.</Text>
@@ -813,7 +813,7 @@
 			<Text>As Nações Unidas desencadeia a votação da Vitória Diplomática. Consulte a seção sobre Vitória para obter mais detalhes, mas em resumo, se um líder tem boas relações com outros líderes, ele pode ser votado como Líder Mundial e ganhar o jogo. O jogador que construir as Nações Unidas receberá um voto adicional na escolha do Líder Mundial. A ONU também proporciona +1 em [ICON_CULTURE]Cultura e +2 pontos de Grande Mercador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_STRATEGY">
-			<Text>A Universidade é um edifício da Era Medieval. Aumenta a produção [ICON_RESEARCH]científica da cidade e ainda é mais eficaz se a cidade estiver construída próximo de hexágonos com selva. A cidade deve ter uma Biblioteca (ou Fábrica de Papel) para poder construir uma Universidade.</Text>
+			<Text>A Universidade é um edifício da Era Medieval. Aumenta a produção [ICON_RESEARCH]científica da cidade e ainda é mais eficaz se a cidade estiver construída próximo de hexágonos com {TXT_KEY_FEATURE_JUNGLE}. A cidade deve ter uma Biblioteca (ou Fábrica de Papel) para poder construir uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
 			<Text>A Muralha aumenta a [ICON_STRENGTH]Defesa da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>
@@ -828,7 +828,7 @@
 			<Text>O Moinho d'Água só poder ser construído em uma cidade próxima a um rio. Aumenta o fluxo de [ICON_FOOD]Alimentos da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WINDMILL_STRATEGY">
-			<Text>O Moinho de Vento é um edifício da Renascença que aumenta o rendimento de [ICON_PRODUCTION]Produção de uma cidade quando ela estiver construindo edifícios. Não é possível construir Moinhos de Vento em cidades construídas sobre colinas.</Text>
+			<Text>O Moinho de Vento é um edifício da Renascença que aumenta o rendimento de [ICON_PRODUCTION]Produção de uma cidade quando ela estiver construindo edifícios. Não é possível construir Moinhos de Vento em cidades construídas sobre {TXT_KEY_TERRAIN_HILL[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WORKSHOP_STRATEGY">
 			<Text>A Oficina aumenta a [ICON_PRODUCTION]Produção de uma cidade.</Text>
@@ -1062,7 +1062,7 @@
 			<Text>O que pode ser feito para ajudar a defender uma cidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_DEFENDINGCITY_HEADING2_BODY">
-			<Text>Há uma série de coisas que pode fazer para melhorar as defesas de uma cidade. Você pode "fortificá-la" com uma unidade forte. Uma unidade de ataque corpo a corpo aumentará consideravelmente a força defensiva da cidade, enquanto que uma unidade de combate a distância te permitirá disparar dela contras as unidades inimigas nas proximidades.[NEWLINE][NEWLINE]Você também pode levantar a Muralha e o Castelo que irão melhorar a força da cidade. Uma cidade construída em uma colina recebe uma bonificação defensiva.[NEWLINE][NEWLINE]Não importa o quão poderosa é uma cidade, é muito importante ter unidades fora dela para apoiá-la.[NEWLINE][NEWLINE]Consulte a seção sobre Combate para obter mais detalhes.</Text>
+			<Text>Há uma série de coisas que pode fazer para melhorar as defesas de uma cidade. Você pode "fortificá-la" com uma unidade forte. Uma unidade de ataque corpo a corpo aumentará consideravelmente a força defensiva da cidade, enquanto que uma unidade de combate a distância te permitirá disparar dela contras as unidades inimigas nas proximidades.[NEWLINE][NEWLINE]Você também pode levantar a Muralha e o Castelo que irão melhorar a força da cidade. Uma cidade construída em uma {TXT_KEY_TERRAIN_HILL} recebe uma bonificação defensiva.[NEWLINE][NEWLINE]Não importa o quão poderosa é uma cidade, é muito importante ter unidades fora dela para apoiá-la.[NEWLINE][NEWLINE]Consulte a seção sobre Combate para obter mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_DEFENDINGCITY_HEADING2_TITLE">
 			<Text>Defendendo uma cidade</Text>
@@ -1167,7 +1167,7 @@
 			<Text>Onde devem ser fundadas as cidades?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_WHERETOCONSTRUCT_HEADING2_BODY">
-			<Text>As cidades devem ser fundadas em lugares com abundância de alimentos e produção e acesso a recursos como o trigo, a pesca e o gado. É uma boa ideia construir uma cidade em um hexágono com um rio ou litoral. As cidades fundadas em colinas ganham uma bonificação defensiva, o que dificulta que os inimigos a capturem.</Text>
+			<Text>As cidades devem ser fundadas em lugares com abundância de alimentos e produção e acesso a recursos como o trigo, a pesca e o gado. É uma boa ideia construir uma cidade em um hexágono com um rio ou litoral. As cidades fundadas em {TXT_KEY_TERRAIN_HILL[2]} ganham uma bonificação defensiva, o que dificulta que os inimigos a capturem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_WHERETOCONSTRUCT_HEADING2_TITLE">
 			<Text>Onde fundar cidades</Text>
@@ -1391,7 +1391,7 @@
 			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_CHARIOTARCHER_TEXT">
-			<Text>Antes da invenção do estribo, era praticamente impossível combater a cavalo. Ao menor esforço poderia derrubar o cavaleiro, com resultados desastrosos. Os primeiros cavalos apareceram pela primeira vez em combate puxando carroças. Uma equipe de biga consistia em um ou dois cavalos, um condutor e um arqueiro. A mobilidade das bigas as fazia especialmente perigosas contra a infantaria: podiam correr até o alcance para disparar flechas e fugir antes que os soldados os alcançassem. Sua maior fraqueza consistia em sua incapacidade para manobrar e, terrenos acidentados. Nas planícies se converteram nos reis do campo de batalha, mas em colinas ou florestas ficavam com uma desvantagem significativa.</Text>
+			<Text>Antes da invenção do estribo, era praticamente impossível combater a cavalo. Ao menor esforço poderia derrubar o cavaleiro, com resultados desastrosos. Os primeiros cavalos apareceram pela primeira vez em combate puxando carroças. Uma equipe de biga consistia em um ou dois cavalos, um condutor e um arqueiro. A mobilidade das bigas as fazia especialmente perigosas contra a infantaria: podiam correr até o alcance para disparar flechas e fugir antes que os soldados os alcançassem. Sua maior fraqueza consistia em sua incapacidade para manobrar e, terrenos acidentados. Nas planícies se converteram nos reis do campo de batalha, mas em {TXT_KEY_TERRAIN_HILL[2]} ou {TXT_KEY_FEATURE_FOREST[2]} ficavam com uma desvantagem significativa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_COMPANIONCAVALRY_HEADING">
 			<Text>{TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY}</Text>
@@ -1427,10 +1427,10 @@
 			<Text>O {TXT_KEY_UNIT_INDIAN_WARELEPHANT}, uma visão aterradora no campo de batalha e que alguns o consideram a primeira arma de destruição massiva, era tão perigoso para o inimigo quanto para o dono. Os Indianos usaram os elefantes em guerra até que a invenção da pólvora os deixou obsoletos. Na batalha pré-pólvora, o {TXT_KEY_UNIT_INDIAN_WARELEPHANT} servia a dois propósitos. Primeiro, seu odor aterrorizava os cavalos inutilizando a cavalaria inimiga. Segundo, eles podiam romper as linhas de infantaria mais fortes esmagando muros de lanças que nenhum cavalo poderia superar. Os elefantes eram muito difíceis de matar e a história fala de elefantes que sobreviveram a mais de 60 flechas. O principal problema dos elefantes era sua tendência a enlouquecer com a dor ou a fúria, e nesse momento eles se tornavam impossíveis de se controlar. Os peões de elefante levavam um ferrão e um bastão para matar o animal caso ataque suas próprias tropas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_JAGUAR_HEADING">
-			<Text>Jaguar</Text>
+			<Text>{TXT_KEY_UNIT_AZTEC_JAGUAR}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_JAGUAR_TEXT">
-			<Text>Na cultura Asteca, a guerra era tanto um ritual religioso como uma ferramenta política. Os jovens tinham que capturar ou matar inimigos para melhorarem suas posições e a cada vez precisavam de mais prisioneiros para sacrifício nos rituais sagrados. Os Cavaleiros Jaguares eram a elite dos soldados profissionais Astecas. Eram protegidos por peles de jaguar e equipados com as mortais "macuahuitls" (espadas de madeira recobertas de obsidiana). Os Jaguares, foram talvez, a infantaria leve mais perigosa do norte e centro da América Pré-Colombiana.</Text>
+			<Text>Na cultura Asteca, a guerra era tanto um ritual religioso como uma ferramenta política. Os jovens tinham que capturar ou matar inimigos para melhorarem suas posições e a cada vez precisavam de mais prisioneiros para sacrifício nos rituais sagrados. Os Cavaleiros {TXT_KEY_UNIT_AZTEC_JAGUAR[2]} eram a elite dos soldados profissionais Astecas. Eram protegidos por peles de jaguar e equipados com as mortais "macuahuitls" (espadas de madeira recobertas de obsidiana). Os {TXT_KEY_UNIT_AZTEC_JAGUAR[2]}, foram talvez, a infantaria leve mais perigosa do norte e centro da América Pré-Colombiana.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_LEGION_HEADING">
 			<Text>Legião</Text>
@@ -1774,7 +1774,7 @@
 			<Text>Desde que o homem se aventurou ao mar em navios, ele construiu faróis na costa para orientar os navios para retornar de volta ao porto e para avisar seus capitães de rochas e cardumes perigosos. O mais antigo farol conhecido foi o Pharos (Grande Farol) de Alexandria. Construído na pequena ilha de Pharos, na costa de Alexandria, ele sobreviveu por mais de mil anos e guiou incontáveis de milhares de navios até o porto de Alexandria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LONGHOUSE_HEADING">
-			<Text>Maloca</Text>
+			<Text>{TXT_KEY_BUILDING_LONGHOUSE_DESC}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MARKET_HEADING">
 			<Text>Mercado</Text>
@@ -2319,10 +2319,10 @@
 			<Text>Com seu cume a mais de 9.000 metros, o Monte Everest é a montanha mais alta do planeta. Localizado no Nepal, Ásia, o Everest é parte da cadeia de montanhas do Himalaia. Ele foi escalado pela primeira vez em 1953 (com a ajuda de tanques de oxigênio) por Edmund Hillary e Tenzing Norgay; em 1978, Reinhold Messner e Peter Habeler fizeram a primeira subida bem sucedida sem oxigênio adicional. Mais de 210 pessoas morreram enquanto tentavam escalar a montanha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FLOODPLAINS">
-			<Text>Planícies inundadas</Text>
+			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FLOODPLAINS_TEXT">
-			<Text>Planícies inundadas são áreas baixas próximas aos rios. Todo ano o rio transborda, fornecendo irrigação natural e ricos nutrientes a terra, tornando as planícies inundadas férteis e a área cultivável mais produtiva do mundo. Os Egípcios antigos conseguiram grande parte de sua riqueza e poder por meio das inundações anuais do poderoso Rio Nilo.</Text>
+			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS[2]} são áreas baixas próximas aos rios. Todo ano o rio transborda, fornecendo irrigação natural e ricos nutrientes a terra, tornando as {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} férteis e a área cultivável mais produtiva do mundo. Os Egípcios antigos conseguiram grande parte de sua riqueza e poder por meio das inundações anuais do poderoso Rio Nilo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FLOODPLAINS_TITLE1">
 			<Text>Modificador de Rendimento da Cidade</Text>
@@ -2340,7 +2340,7 @@
 			<Text>Aparece em</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FOREST">
-			<Text>Floresta</Text>
+			<Text>{TXT_KEY_FEATURE_FOREST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_FOREST_TEXT">
 			<Text>Para os primeiros humanos, as florestas eram grandes fontes de recompensa, fornecendo madeira para o fogo, ferramentas e abrigo, além de muitos animais para o sustento e vestimentas. À medida que a cidade cresce maior é a tentação de derrubar as florestas para criação de terras plantáveis, mas um líder sábio sempre deixará algumas em pé - pela produtividade e para elevar o espírito do seu povo. Além disso, unidades militares estacionadas em florestas recebem um significante bônus de defesa.</Text> 
@@ -2376,13 +2376,13 @@
 			<Text>Características do terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_HEADING_TEXT">
-			<Text>Características são elementos do terreno ou vegetação que aparecem em um hexágono, sobre o terreno do hexágono. (Um hexágono com pasto pode ter floresta ou pântano sobre ele também, por exemplo). Características modificam a produtividade do hexágono e também podem alterar a quantidade de "pontos de movimento" (MP) que uma unidade deve gastar para entrar no hexágono. As características também podem fornecer bônus defensivo ou penalidades de combate para uma unidade que ocupa o hexágono.</Text>
+			<Text>Características são elementos do terreno ou vegetação que aparecem em um hexágono, sobre o terreno do hexágono. (Um hexágono com {TXT_KEY_TERRAIN_GRASS} pode ter {TXT_KEY_FEATURE_FOREST} ou {TXT_KEY_FEATURE_MARSH} sobre ele também, por exemplo). Características modificam a produtividade do hexágono e também podem alterar a quantidade de "pontos de movimento" (MP) que uma unidade deve gastar para entrar no hexágono. As características também podem fornecer bônus defensivo ou penalidades de combate para uma unidade que ocupa o hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_JUNGLE">
-			<Text>Selva</Text>
+			<Text>{TXT_KEY_FEATURE_JUNGLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_JUNGLE_TEXT">
-			<Text>Escura, proibida e mortal aos iniciantes, as selvas são ricas em fontes de madeira àqueles com a habilidade e conhecimento para viverem dentro delas. Entretanto, as selvas não oferecem muitos outros materiais e uma civilização crescente tende a acabar com elas, para transformá-las em áreas limpas. Ocorre que unidades militares estacionadas em selvas recebem um significante bônus defensivo.</Text>
+			<Text>Escura, proibida e mortal aos iniciantes, as {TXT_KEY_FEATURE_JUNGLE[2]} são ricas em fontes de madeira àqueles com a habilidade e conhecimento para viverem dentro delas. Entretanto, as {TXT_KEY_FEATURE_JUNGLE[2]} não oferecem muitos outros materiais e uma civilização crescente tende a acabar com elas, para transformá-las em áreas limpas. Ocorre que unidades militares estacionadas em {TXT_KEY_FEATURE_JUNGLE[2]} recebem um significante bônus defensivo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_JUNGLE_TITLE1">
 			<Text>Modificador de Rendimento da Cidade</Text>
@@ -2403,10 +2403,10 @@
 			<Text>O Krakatoa é uma ilha vulcânica localizada na Indonésia, entre as ilhas de Java e Sumatra. O vulcão explodiu violentamente em agosto de 1883, com uma força equivalente a 13.000 bombas nucleares de Hiroshima. A erupção destruiu quase metade da ilha e foi ouvida em partes da Austrália, quase 3.500 quilômetros de distância. Aproximadamente 37.000 pessoas morreram com a erupção e tsunamis que se seguiram. O vulcão tem expelido lava constantemente pelos últimos oito anos, reconstruindo o cume a uma taxa de 4,5 metros por ano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_MARSH">
-			<Text>Pântano</Text>
+			<Text>{TXT_KEY_FEATURE_MARSH}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_MARSH_TEXT">
-			<Text>Embora rico em biodiversidade, os pântanos possuem pouco a oferecer a uma faminta civilização, já que eles devem ser drenados, ou alterados, antes que possam fornecer qualquer bônus à cidade. Note que unidades militares em pântanos recebem uma PENALIDADE significante quando atacadas.</Text>
+			<Text>Embora rico em biodiversidade, os {TXT_KEY_FEATURE_MARSH[2]} possuem pouco a oferecer a uma faminta civilização, já que eles devem ser drenados, ou alterados, antes que possam fornecer qualquer bônus à cidade. Note que unidades militares em {TXT_KEY_FEATURE_MARSH[2]} recebem uma PENALIDADE significante quando atacadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_MARSH_TITLE1">
 			<Text>Modificador de Rendimento da Cidade</Text>
@@ -2445,10 +2445,10 @@
 			<Text>Aparece em</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_OASIS">
-			<Text>Oásis</Text>
+			<Text>{TXT_KEY_FEATURE_OASIS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_OASIS_TEXT">
-			<Text>Um Oásis é uma área exuberante e verdejante dentro de um deserto, normalmente porque ele está em uma fonte de água limpa e abundante. Oásis são recursos extremamente valiosos em um contrastante deserto estéril e sem vida. Numerosas batalhas ocorreram entre desesperadas tribos do deserto pela posse deles.</Text>
+			<Text>Um {TXT_KEY_FEATURE_OASIS} é uma área exuberante e verdejante dentro de um deserto, normalmente porque ele está em uma fonte de água limpa e abundante. {TXT_KEY_FEATURE_OASIS[2]} são recursos extremamente valiosos em um contrastante deserto estéril e sem vida. Numerosas batalhas ocorreram entre desesperadas tribos do deserto pela posse deles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_OASIS_TITLE1">
 			<Text>Modificador de Rendimento da Cidade</Text>
@@ -2475,7 +2475,7 @@
 			<Text>Lagos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_LAKE_TEXT">
-			<Text>Um lago é qualquer corpo d'água, com dez ou menos hexágonos de tamanho, que esteja cercado por terra (qualquer corpo maior de água é considerado oceano). Quando explorados, os lagos fornecem 2 de Alimento e 1 de Ouro à cidade mais próxima. Lagos são fontes de água fresca, permitindo a construção de fazendas em colinas e tundras próximas. Fazendas perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada.</Text>
+			<Text>Um lago é qualquer corpo d'água, com dez ou menos hexágonos de tamanho, que esteja cercado por terra (qualquer corpo maior de água é considerado oceano). Quando explorados, os lagos fornecem 2 de Alimento e 1 de Ouro à cidade mais próxima. Lagos são fontes de água fresca, permitindo a construção de fazendas em {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_TUNDRA[2]} próximas. Fazendas perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_RIVER_TITLE">
 			<Text>Rios</Text>
@@ -2484,7 +2484,7 @@
 			<Text>Pontos Restantes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_RIVER_TEXT">
-			<Text>Quando explorados pelas cidades, hexágonos adjacentes aos rios recebem um bônus de 1 Ouro. Além do mais, rios são fontes de água fresca, permitindo a construção de fazendas em colinas e tundras próximas. Fazendas perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada. Unidades gastam todos os seus pontos de movimento quando cruzam rios. Isso ocorre mesmo quando os hexágonos estão conectados por estradas, até que a civilização pesquise a tecnologia "Engenharia". Finalmente, unidades recebem uma penalidade de 20% quando atacam por sobre um rio.</Text>
+			<Text>Quando explorados pelas cidades, hexágonos adjacentes aos rios recebem um bônus de 1 Ouro. Além do mais, rios são fontes de água fresca, permitindo a construção de fazendas em {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_TUNDRA[2]} próximas. Fazendas perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada. Unidades gastam todos os seus pontos de movimento quando cruzam rios. Isso ocorre mesmo quando os hexágonos estão conectados por estradas, até que a civilização pesquise a tecnologia "Engenharia". Finalmente, unidades recebem uma penalidade de 20% quando atacam por sobre um rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FLORENCE_TEXT">
 			<Text>Florença (em italiano, "Firenze") é uma das cidades mais interessantes e belas da Europa. Encontra-se no rio Arno, no norte da Itália, no coração da região da bonita Toscana. Florença foi fundada em 59 a.C., por Júlio César, como uma solução para os ex-soldados Romanos, no local estratégico onde a Via Cássia (a principal rota norte de Roma) atravessa a Arno. Ela foi construída em um padrão de xadrez, no estilo de um acampamento militar. Sua posição permitiu Florença prosperar com o comércio entre Roma e o norte e, em 300 d.C., a cidade se tornou a capital da província de Tuscia (Toscana). Pelos próximos cem anos, a cidade ficou sob ataque de ambos os Ostrogodos e Bizantinos, e seu comando mudou de mãos várias vezes até 774 d.C., quando Carlos Magno assumiu e manteve a cidade, acabando com os ataques estrangeiros.[NEWLINE][NEWLINE]Florença recuperou a sua riqueza e proeminência nos séculos seguintes, tornando-se uma das mais ricas e poderosas Cidades-Estado de qualquer lugar da Europa. Em 1252, a República de Florença lançou sua própria moeda, o florim de ouro. Florins foram aceitos em grande parte pelos do Mediterrâneo e na Europa, e comerciantes e banqueiros florentinos rapidamente se espalharam por todo o mundo conhecido.[NEWLINE][NEWLINE]Durante a Renascença, Florença era controlada por várias famílias extremamente ricas e implacáveis, incluindo os Médici. Quando não está envolvida nas lutas mortais entre si pelo poder, a nobreza de Florença era grande patrona das artes; Lorenzo de Médici sozinho comissionou obras de Michelangelo, Botticelli e Leonardo da Vinci, para citar apenas três dos homens brilhantes que ele apoiava. Nos meados do século XV, os Médici foram feitos os Grão-Duques hereditários da Toscana, governando a província e Florença durante vários séculos. Em 1737, Florença se tornou parte dos territórios da Áustria, em 1859 ela foi transferida para o Reino da Sardenha-Piemonte e, em 1861, tornou-se parte do Reino recém-unido da Itália.[NEWLINE][NEWLINE]A Florença moderna é um próspero centro turístico de cerca de 500.000 cidadãos; uma cidade que aprecia suas histórias Romana, Medieval e Renascentista. Ela continua sendo um dos lugares mais bonitos e evocativos na Europa e, na verdade, em todo o mundo.</Text>
@@ -3043,7 +3043,7 @@
 			<Text>Serraria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LUMBERMILL_TEXT">
-			<Text>Uma serraria permite melhorar o volume de [ICON_PRODUCTION]Produção dos hexágonos de Floresta.</Text>
+			<Text>Uma serraria permite melhorar o volume de [ICON_PRODUCTION]Produção dos hexágonos de {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LUMBERMILL_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3100,7 +3100,7 @@
 			<Text>{TXT_KEY_IMPROVEMENT_PASTURE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PASTURE_TEXT">
-			<Text>O {TXT_KEY_IMPROVEMENT_PASTURE} é uma porção de terra cercada, onde é plantada grama com o objetivo de alimentar animais de pastagem como cavalos ou vacas.</Text>
+			<Text>O {TXT_KEY_IMPROVEMENT_PASTURE} é uma porção de terra cercada, onde é plantado capim com o objetivo de alimentar animais de pastagem como cavalos ou vacas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PASTURE_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3204,7 +3204,7 @@
 			<Text>Algumas melhorias aumentam a produção de alimentos (fazenda), ciência (escola) ou a produtividade (mina) dos hexágonos. Outras podem fornecer acesso a recursos - uma plantação, por exemplo, pode ser construída sobre um suprimento de bananas, proporcionando o acesso ao benefício econômico associado ao recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE2_TEXT">
-			<Text>Em alguns casos, você poderá escolher quais melhorias construir. Por exemplo, em um hexágono de planície você poderá construir uma fazenda, para melhorar a sua produção de alimentos, uma mina, para melhorar sua produtividade, ou uma escola, para melhorar a sua produção científica. No entanto, se o hexágono contém um recurso, só é possível construir a melhoria que acessa esse recurso - você não pode construir uma fazenda sobre um hexágono contendo cavalos. Você só pode construir um pasto ali.</Text>
+			<Text>Em alguns casos, você poderá escolher quais melhorias construir. Por exemplo, em um hexágono de {TXT_KEY_TERRAIN_PLAINS} você poderá construir uma fazenda, para melhorar a sua produção de alimentos, uma mina, para melhorar sua produtividade, ou uma escola, para melhorar a sua produção científica. No entanto, se o hexágono contém um recurso, só é possível construir a melhoria que acessa esse recurso - você não pode construir uma fazenda sobre um hexágono contendo cavalos. Você só pode construir um {TXT_KEY_IMPROVEMENT_PASTURE} ali.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE3_TEXT">
 			<Text>Para construir uma melhoria, mova um trabalhador para o hexágono. Os botões de ação do trabalhador irão exibir todas as melhorias que podem ser construídas naquele momento naquele hexágono. Clique no botão e a construção começará. A melhoria será concluída em um determinado número de turnos. A quantidade depende do tipo de melhoria e do terreno.</Text>
@@ -5045,19 +5045,19 @@
 			<Text>Existem vários tipos "especiais" de terreno em Civilization V. Cada um tem importantes efeitos no decorrer do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS">
-			<Text>Colinas</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT">
-			<Text>Colinas proporcionam um aumento na produtividade de uma cidade próxima. Também oferecem um bônus de combate importante às unidades estacionadas em um hexágono de colina. Este bônus é reduzido se a característica da Colina for Deserto ou Neve.</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]} proporcionam um aumento na produtividade de uma cidade próxima. Também oferecem um bônus de combate importante às unidades estacionadas em um hexágono de {TXT_KEY_TERRAIN_HILL}. Este bônus é reduzido se a característica da {TXT_KEY_TERRAIN_HILL} for {TXT_KEY_TERRAIN_DESERT} ou {TXT_KEY_TERRAIN_SNOW}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT1">
-			<Text>Colinas aumentam em +1 a [ICON_PRODUCTION]Produção de um hexágono e dão uma penalidade de -1 à geração de Alimento do hexágono.</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]} aumentam em +1 a [ICON_PRODUCTION]Produção de um hexágono e dão uma penalidade de -1 à geração de Alimento do hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT2">
-			<Text>Uma unidade recebe um bônus defensivo de 25% quando está em uma colina. Uma cidade construída sobre uma colina recebe um bônus defensivo de ??.</Text>
+			<Text>Uma unidade recebe um bônus defensivo de 25% quando está em uma {TXT_KEY_TERRAIN_HILL}. Uma cidade construída sobre uma {TXT_KEY_TERRAIN_HILL} recebe um bônus defensivo de ??.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT3">
-			<Text>2 pontos de movimento para entrar em um hexágono de colina.</Text>
+			<Text>2 pontos de movimento para entrar em um hexágono de {TXT_KEY_TERRAIN_HILL}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TITLE1">
 			<Text>Modificador de Rendimento da Cidade</Text>
@@ -5069,13 +5069,13 @@
 			<Text>Custo de Movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_ICE">
-			<Text>Gelo</Text>
+			<Text>{TXT_KEY_FEATURE_ICE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS">
-			<Text>Montanhas</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
-			<Text>Montanhas são intransitáveis, exceto para unidades aéreas. Elas não oferecem nada para as cidades.</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]} são intransitáveis, exceto para unidades aéreas. Elas não oferecem nada para as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_RIVERS">
 			<Text>Rios</Text>
@@ -5108,10 +5108,10 @@
 			<Text>Efeito na Movimentação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_SNOW">
-			<Text>Neve</Text>
+			<Text>{TXT_KEY_TERRAIN_SNOW}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_SNOW_TEXT">
-			<Text>Neve, quando transitável, não oferece benefícios para a sua civilização.</Text>
+			<Text>{TXT_KEY_TERRAIN_SNOW}, quando transitável, não oferece benefícios para a sua civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_STOCKHOLM_TEXT">
 			<Text>A mais antiga documentação escrita sobre Estocolmo remonta a 1252 d.C. e a descreve como uma cidade comerciante de ferro, mas em algumas sagas nórdicas é reivindicada como a cidade perdida de Agnafit (onde o lendário Rei Agne foi enforcado por sua noiva cativa, Skjalf). Outra narrativa de estado aponta a cidade como fundada por Jarl Birger da Suécia, para proteger o inexperiente país de frotas invasoras. Independentemente de qual estiver realmente correta, a cidade cresceu rapidamente como um centro para o comércio, mineração e pesca. Estocolmo ao longo do tempo se transformou em uma importante cidade mercantil Dinamarquesa, assim como o comércio no Mar Báltico disparou, com o advento da Liga Hanseática (uma guilda de comerciantes).[NEWLINE][NEWLINE]No século XV, um movimento de independência nacional começou a se formar em Estocolmo, já que o povo da Suécia ansiava por derrubar seus governantes Dinamarqueses. A Revolução não correu bem, infelizmente, e em 1520 o rei Dinamarquês Christian II adentrou a cidade e incitou o Banho de Sangue de Estocolmo, um massacre horrível de muitas das forças Suecas de oposição. Outras revoltas por todo o país, nos próximos anos, foram mais bem sucedidas e acabaram por quebrarem o controle da União de Kalmar (o nome agradável dado ao controle Dinamarquês da Escandinávia) e a Suécia conquistou a sua independência dos Dinamarqueses. O primeiro rei da Suécia, Gustav Vasa, foi coroado em 1523 e a população de Estocolmo começou a crescer rapidamente. Dentro de cem anos, já havia aumentado mais de seis vezes.[NEWLINE][NEWLINE]Em 1634, Estocolmo foi nomeada a capital do Império Sueco e diversas leis novas de comércio deram um controle completo sobre o comércio entre comerciantes estrangeiros e os seus próprios, nos territórios Suecos. Esta "Idade Dourada" terminou enfaticamente cerca de quarenta anos depois, quando a Peste Negra chegou à cidade e a guerra entre a Suécia e seus aliados irrompeu. Devido às duas catástrofes, Estocolmo estagnou economicamente por algum tempo, mas continuou seu desenvolvimento cultural. Demorou quase 200 anos para a cidade recuperar o seu papel de liderança econômica.[NEWLINE][NEWLINE]Durante a última metade do século XX, Estocolmo se tornou o centro tecnológico e econômico do país. Para abrir caminho à indústria em expansão e o crescimento da população, muitos edifícios históricos (a grande maioria dos quais estavam de pé desde meados da Idade Média) foram derrubados e substituídos por novas e imponentes estruturas arquitetônicas. A cidade continuou a se afastar de suas raízes de mineração, pesca e outras indústrias de trabalho intensivo e avançou para a alta tecnologia em eletrônica, arquitetura e serviços modernos.</Text>
@@ -5143,13 +5143,13 @@
 			<Text>Modificador de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT">
-			<Text>Deserto</Text>
+			<Text>{TXT_KEY_TERRAIN_DESERT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TEXT">
-			<Text>Em geral, os hexágonos desérticos são realmente inúteis. Eles não fornecem benefícios para as cidades (a menos que o deserto possua um oásis ou recursos, é claro, ou tenha acesso à água fresca), e unidades que os ocupam recebem uma pena significativa à defesa em combate.</Text>
+			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável), e unidades que os ocupam recebem uma penalidade significativa à defesa em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TEXT5">
-			<Text>Penalidade Defensiva em Terras Planas: uma unidade que esteja em hexágonos de pastos, planícies, desertos, tundras ou neve, que não tenha uma floresta sobre ele, ou que não estiver fortificada, sofre uma penalidade automática de -25% à taxa de defesa.</Text>
+			<Text>Penalidade Defensiva em Terras Planas: uma unidade que esteja em hexágonos de {TXT_KEY_TERRAIN_GRASS[2]}, {TXT_KEY_TERRAIN_PLAINS[2]}, {TXT_KEY_TERRAIN_DESERT[2]}, {TXT_KEY_TERRAIN_TUNDRA} ou {TXT_KEY_TERRAIN_SNOW}, que não tenha uma {TXT_KEY_FEATURE_FOREST} sobre ele, ou que não estiver fortificada, sofre uma penalidade automática de -25% à taxa de defesa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TITLE1">
 			<Text>Rendimento da Cidade</Text>
@@ -5167,13 +5167,13 @@
 			<Text>Modificador de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND">
-			<Text>Pasto</Text>
+			<Text>{TXT_KEY_TERRAIN_GRASS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TEXT">
-			<Text>Geralmente, os pastos produzem mais alimentos que qualquer tipo de terreno. Cidades construídas perto de pastos tenderão a crescer mais rapidamente que as cidades construídas em outros lugares. A principal desvantagem do pasto é a penalidade defensiva que uma unidade despreparada pode sofrer, se atacada neste tipo de terreno.</Text>
+			<Text>Geralmente, as {TXT_KEY_TERRAIN_GRASS[2]} produzem mais alimento que qualquer tipo de terreno. Cidades construídas perto de {TXT_KEY_TERRAIN_GRASS[2]} tenderão a crescer mais rapidamente que as construídas em outros lugares. A principal desvantagem da {TXT_KEY_TERRAIN_GRASS} é a penalidade defensiva que uma unidade despreparada pode sofrer, se atacada neste tipo de terreno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TEXT5">
-			<Text>Penalidade Defensiva em Terras Planas: uma unidade que esteja em hexágonos de pastos, planícies, desertos, tundras ou neve, que não tenha uma floresta sobre ele, ou que não estiver fortificada, sofre uma penalidade automática de -25% à taxa de defesa.</Text>
+			<Text>Penalidade Defensiva em Terras Planas: uma unidade que esteja em hexágonos de {TXT_KEY_TERRAIN_GRASS[2]}, {TXT_KEY_TERRAIN_PLAINS[2]}, {TXT_KEY_TERRAIN_DESERT[2]}, {TXT_KEY_TERRAIN_TUNDRA} ou {TXT_KEY_TERRAIN_SNOW}, que não tenha uma {TXT_KEY_FEATURE_FOREST} sobre ele, ou que não estiver fortificada, sofre uma penalidade automática de -25% à taxa de defesa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TITLE1">
 			<Text>Rendimento da Cidade</Text>
@@ -5197,10 +5197,10 @@
 			<Text>Existem sete tipos básicos de terreno em Civilization V. Juntamente com diversos outros fatores (como tipos de características e recursos) um tipo de terreno básico de um hexágono determina a sua utilidade  para uma cidade, assim como vários outros fatores. (Note que você não pode ver todos os tipos de terreno em um determinado jogo.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_OCEAN">
-			<Text>Oceano</Text>
+			<Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_OCEAN_TEXT">
-			<Text>Ladrilhos oceânicos são os espaços com águas profundas. Eles fornecem Alimento e ouro para a cidade que tiver a tecnologia para acessá-los.</Text>
+			<Text>Ladrilhos de {TXT_KEY_TERRAIN_OCEAN} são os espaços com águas profundas. Eles fornecem Alimento e ouro para a cidade que tiver a tecnologia para acessá-los.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_OCEAN_TITLE1">
 			<Text>Rendimento da Cidade</Text>
@@ -5218,13 +5218,13 @@
 			<Text>Modificador de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_PLAINS">
-			<Text>Planícies</Text>
+			<Text>{TXT_KEY_TERRAIN_PLAINS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TEXT">
-			<Text>Planícies fornecem uma combinação de [ICON_FOOD]alimento e [ICON_PRODUCTION]produção para uma cidade próxima. Uma cidade cercada por planícies vai crescer mais lentamente que uma em pastos, mas será muito mais produtiva.</Text>
+			<Text>{TXT_KEY_TERRAIN_PLAINS[2]} fornecem uma combinação de [ICON_FOOD]alimento e [ICON_PRODUCTION]produção para uma cidade próxima. Uma cidade cercada por {TXT_KEY_TERRAIN_PLAINS[2]} vai crescer mais lentamente que uma em {TXT_KEY_TERRAIN_GRASS[2]}, mas será muito mais produtiva.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TEXT5">
-			<Text>Penalidade Defensiva em Terras Planas: uma unidade que esteja em hexágonos de pastos, planícies, desertos, tundras ou neve, que não tenha uma floresta sobre ele, ou que não estiver fortificada, sofre uma penalidade automática de -25% à taxa de defesa.</Text>
+			<Text>Penalidade Defensiva em Terras Planas: uma unidade que esteja em hexágonos de {TXT_KEY_TERRAIN_GRASS[2]}, {TXT_KEY_TERRAIN_PLAINS[2]}, {TXT_KEY_TERRAIN_DESERT[2]}, {TXT_KEY_TERRAIN_TUNDRA} ou {TXT_KEY_TERRAIN_SNOW}, que não tenha uma {TXT_KEY_FEATURE_FOREST} sobre ele, ou que não estiver fortificada, sofre uma penalidade automática de -25% à taxa de defesa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TITLE1">
 			<Text>Rendimento da Cidade</Text>
@@ -5242,13 +5242,13 @@
 			<Text>Modificadores de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_SNOW">
-			<Text>Neve</Text>
+			<Text>{TXT_KEY_TERRAIN_SNOW}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_SNOW_TEXT">
-			<Text>A neve é bastante improdutiva, sem benefícios de alimentos ou produção para uma cidade próxima. É claro que a neve pode conter um recurso útil, mas fora isto, é apenas um local frio e estéril.</Text>
+			<Text>A {TXT_KEY_TERRAIN_SNOW} é bastante improdutiva, sem benefícios de alimentos ou produção para uma cidade próxima. É claro que a {TXT_KEY_TERRAIN_SNOW} pode conter um recurso útil, mas fora isto, é apenas um local frio e estéril.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_SNOW_TEXT5">
-			<Text>Penalidade Defensiva: uma unidade em um hexágono com pasto, planície, tundra, deserto ou neve que não possua uma floresta sobre ele ou que não esteja fortificada sofrerá uma penalidade de -25% em sua defesa.</Text>
+			<Text>Penalidade Defensiva: uma unidade em um hexágono com {TXT_KEY_TERRAIN_GRASS}, {TXT_KEY_TERRAIN_PLAINS}, {TXT_KEY_TERRAIN_TUNDRA}, {TXT_KEY_TERRAIN_DESERT} ou {TXT_KEY_TERRAIN_SNOW} que não possua uma {TXT_KEY_FEATURE_FOREST} sobre ele ou que não esteja fortificada sofrerá uma penalidade de -25% em sua defesa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_SNOW_TITLE1">
 			<Text>Rendimento da Cidade</Text>
@@ -5266,10 +5266,10 @@
 			<Text>Modificadores de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_TUNDRA">
-			<Text>Tundra</Text>
+			<Text>{TXT_KEY_TERRAIN_TUNDRA}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_TUNDRA_TEXT">
-			<Text>A Tundra é a terra semicongelada encontrada nos climas mais frios do mundo. É menos útil que planícies ou pastos, mas um pouco melhor que o deserto. Ninguém constrói cidades na Tundra, a não ser que esteja desesperado por recursos ou não possua outro lugar para ir.</Text>
+			<Text>A {TXT_KEY_TERRAIN_TUNDRA} é a terra semicongelada encontrada nos climas mais frios do mundo. É menos útil que {TXT_KEY_TERRAIN_PLAINS[2]} ou {TXT_KEY_TERRAIN_GRASS[2]}, mas um pouco melhor que o {TXT_KEY_TERRAIN_DESERT}. Ninguém constrói cidades na {TXT_KEY_TERRAIN_TUNDRA}, a não ser que esteja desesperado por recursos ou não possua outro lugar para ir.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_TUNDRA_TITLE1">
 			<Text>Rendimento da Cidade</Text>
@@ -6513,7 +6513,7 @@
 			<Text>Arqueiro de Arco Longo (Inglaterra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LONGBOWMAN_TEXT">
-			<Text>O arco longo Inglês foi desenvolvido durante o século XII, à medida que os Ingleses estavam lutando para conquistar o País de Gales. O arco longo era feito de teixo ou olmo e era 5-7 pés de altura (dependendo da altura e da força do usuário). O arco longo era extremamente difícil de dominar, mas Arqueiros de Arco Longo Ingleses bem treinados podiam atirar mais longe, mais rápido e com mais precisão que os Besteiros da época. Mas isso exigia anos de treinamento. Como a população do país cresceu, as pradarias Inglesas foram transformadas em terras agrícolas. Oportunidades para a caça desapareceram e os pequenos proprietários rurais Ingleses se tornaram menos capazes com arco e flecha. Isso, mais até do que o advento da pólvora, levou ao declínio do arco longo Inglês.</Text>
+			<Text>O arco longo inglês foi desenvolvido durante o século XII, à medida que os Ingleses estavam lutando para conquistar o País de Gales. O arco longo era feito de teixo ou olmo e era 5-7 pés de altura (dependendo da altura e da força do usuário). O arco longo era extremamente difícil de dominar, mas Arqueiros de Arco Longo Ingleses bem treinados podiam atirar mais longe, mais rápido e com mais precisão que os Besteiros da época. Mas isso exigia anos de treinamento. Como a população do país cresceu, as pradarias inglesas foram transformadas em terras agrícolas. Oportunidades para a caça desapareceram e os pequenos proprietários rurais ingleses se tornaram menos capazes com arco e flecha. Isso, mais até do que o advento da pólvora, levou ao declínio do arco longo inglês.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_LONGSWORDSMAN_HEADING">
 			<Text>{TXT_KEY_UNIT_LONGSWORDSMAN} (Inglaterra)</Text>
@@ -7008,7 +7008,7 @@
 			<Text>Como o campo de visão funciona em unidades de ataque a distância?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_LINEOFSIGHT_HEADING3_BODY">
-			<Text>Geralmente, uma unidade de ataque a distância deve ser capaz de "ver" seu alvo, a fim de ser capaz de disparar contra ele (com exceção das unidades com a promoção "fogo indireto"). A unidade não pode ver um alvo se um objeto de bloqueio estiver entre os dois - uma montanha ou colina, por exemplo, ou um hexágono com floresta. A unidade pode sempre ver dentro do hexágono, mesmo que contenha terreno bloqueador, mas não pode ver objetos em hexágonos além do terreno com bloqueio. Note que as unidades sobre as colinas e as unidades de voo geralmente podem ver além do terreno bloqueador.</Text>
+			<Text>Geralmente, uma unidade de ataque a distância deve ser capaz de "ver" seu alvo, a fim de ser capaz de disparar contra ele (com exceção das unidades com a promoção "fogo indireto"). A unidade não pode ver um alvo se um objeto de bloqueio estiver entre os dois - uma {TXT_KEY_TERRAIN_MOUNTAIN} ou {TXT_KEY_TERRAIN_HILL}, por exemplo, ou um hexágono com {TXT_KEY_FEATURE_FOREST}. A unidade pode sempre ver dentro do hexágono, mesmo que contenha terreno bloqueador, mas não pode ver objetos em hexágonos além do terreno com bloqueio. Note que as unidades sobre as {TXT_KEY_TERRAIN_HILL[2]} e as unidades de voo geralmente podem ver além do terreno bloqueador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_LINEOFSIGHT_HEADING3_TITLE">
 			<Text>Campo de visão</Text>
@@ -7026,7 +7026,7 @@
 			<Text>Como termina o ataque corpo a corpo?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_HEADING3_BODY">
-			<Text>Quando duas unidades entram em combate corpo a corpo, o resultado é determinado pela relação de forças entre as duas unidades - por exemplo, se uma unidade poderosa luta com uma fraca, a unidade poderosa é susceptível de fazer muito mais dano ao seu inimigo, possivelmente a destruindo completamente.[NEWLINE][NEWLINE]No entanto, muitos fatores diferentes podem afetar a força de uma unidade em combate. Muitas unidades recebem "bônus de defesa", que irão aumentar a sua força de ataque corpo a corpo quando elas são atacadas, enquanto ocupam florestas ou montanhas ou estão fortificadas. Algumas unidades recebem bônus quando lutam contra outros tipos de unidade específica ({TXT_KEY_UNIT_SPEARMAN[2]} ganham bônus quando lutam contra unidades montadas, por exemplo). Além disso, os ferimentos de uma unidade podem reduzir a sua força de combate atual. (Veja a seção sobre bônus de combate para obter detalhes.)[NEWLINE][NEWLINE]A Tabela de Informações de Combate vai ajudar a determinar a relação de forças entre duas unidades de ataque corpo a corpo durante o seu turno.</Text>
+			<Text>Quando duas unidades entram em combate corpo a corpo, o resultado é determinado pela relação de forças entre as duas unidades - por exemplo, se uma unidade poderosa luta com uma fraca, a unidade poderosa é susceptível de fazer muito mais dano ao seu inimigo, possivelmente a destruindo completamente.[NEWLINE][NEWLINE]No entanto, muitos fatores diferentes podem afetar a força de uma unidade em combate. Muitas unidades recebem "bônus de defesa", que irão aumentar a sua força de ataque corpo a corpo quando elas são atacadas, enquanto ocupam {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_TERRAIN_MOUNTAIN[2]} ou estão fortificadas. Algumas unidades recebem bônus quando lutam contra outros tipos de unidade específica ({TXT_KEY_UNIT_SPEARMAN[2]} ganham bônus quando lutam contra unidades montadas, por exemplo). Além disso, os ferimentos de uma unidade podem reduzir a sua força de combate atual. (Veja a seção sobre bônus de combate para obter detalhes.)[NEWLINE][NEWLINE]A Tabela de Informações de Combate vai ajudar a determinar a relação de forças entre duas unidades de ataque corpo a corpo durante o seu turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_HEADING3_TITLE">
 			<Text>Terminando o ataque corpo a corpo</Text>
@@ -7161,7 +7161,7 @@
 			<Text>Como os bônus de terrenos funcionam?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_TERRAINBONUS_HEADING3_BODY">
-			<Text>Unidades de Defesa recebem importantes bônus ao ocupar florestas, savanas ou colinas. Unidades de ataque corpo a corpo são penalizadas se atacarem um inimigo do outro lado de um rio. Atacar unidades dá bônus quando atacando de uma colina. Veja a seção "Terrenos" para maiores detalhes.</Text>
+			<Text>Unidades de Defesa recebem importantes bônus ao ocupar {TXT_KEY_FEATURE_FOREST[2]}, savanas ou {TXT_KEY_TERRAIN_HILL[2]}. Unidades de ataque corpo a corpo são penalizadas se atacarem um inimigo do outro lado de um rio. Atacar unidades dá bônus quando atacando de uma {TXT_KEY_TERRAIN_HILL}. Veja a seção "Terrenos" para maiores detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_TERRAINBONUS_HEADING3_TITLE">
 			<Text>Bônus de terrenos</Text>
@@ -7542,7 +7542,7 @@
 			<Text>A Chuva Radioativa é a radiação residual que se segue a uma explosão nuclear. A chuva radioativa "precipita-se" do ar como uma camada de partículas radioativas que são altamente perigosas a plantas e animais, matando-os imediatamente ou causando danos aos seus DNA's, dando-lhes cânceres, outras doenças ou lamentáveis mutações. Dependendo do tipo de explosão nuclear, a terra pode permanecer envenenada por décadas, possivelmente séculos. A limpeza requer a substituição de construções contaminadas, solo e vegetação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_ICE_PEDIA">
-			<Text>O gelo é intransitável, exceto para unidades aéreas e submarinos. Ele não oferece nada às cidades.</Text>
+			<Text>O {TXT_KEY_FEATURE_ICE} é intransitável, exceto para unidades aéreas e submarinos. Ele não oferece nada às cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_ADV_QUEST">
 			<Text>O que é a neblina de guerra?</Text>
@@ -7566,7 +7566,7 @@
 			<Text>O que é fogo indireto?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_INDIRECTFIRE_HEADING2_BODY">
-			<Text>Algumas unidades de longo alcance são capazes de "fogo indireto", o que significa que elas podem atirar sobre obstáculos como florestas ou colinas, que normalmente bloquearia o ataque de uma unidade de longo alcance.</Text>
+			<Text>Algumas unidades de longo alcance são capazes de "fogo indireto", o que significa que elas podem atirar sobre obstáculos como {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_TERRAIN_HILL[2]}, que normalmente bloquearia o ataque de uma unidade de longo alcance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_INDIRECTFIRE_HEADING2_TITLE">
 			<Text>Fogo Indireto</Text>
@@ -7575,7 +7575,7 @@
 			<Text>O que atrapalha a visibilidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_OBSCURINGTERRAIN_HEADING2_BODY">
-			<Text>Montanhas e Maravilhas Naturais são impenetráveis, elas barram totalmente a visibilidade do que está atrás para tudo (exceto por unidades aéreas).[NEWLINE] Florestas, montanhas e colinas estão todas "bloqueando" terrenos. Unidades podem ver esses espaços, mas não podem ver além deles - a menos que elas estejam ocupando uma colina. Unidades em colinas podem ver hexágonos além de um terreno bloqueado.</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]} e Maravilhas Naturais são impenetráveis, elas barram totalmente a visibilidade do que está atrás para tudo (exceto por unidades aéreas).[NEWLINE] {TXT_KEY_FEATURE_FOREST[2]}, {TXT_KEY_TERRAIN_MOUNTAIN[2]} e {TXT_KEY_TERRAIN_HILL[2]} estão todas bloqueando terrenos. Unidades podem ver esses espaços, mas não podem ver além deles - a menos que elas estejam ocupando uma {TXT_KEY_TERRAIN_HILL}. Unidades em {TXT_KEY_TERRAIN_HILL[2]} podem ver hexágonos além de um terreno bloqueado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_OBSCURINGTERRAIN_HEADING2_TITLE">
 			<Text>Obscurecendo terrenos</Text>
@@ -7593,7 +7593,7 @@
 			<Text>O que é visibilidade para um jogador?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_SEEN_HEADING2_BODY">
-			<Text>Você sempre pode ver tudo dentro de suas fronteiras, como se tudo estivesse a um hexágono de distância. A maioria das unidades podem ver tudo dentro de 2 hexágonos (exceto por hexágonos atrás de montanhas e bloqueados). Unidades em colinas podem ver além de hexágonos bloqueados. Certas promoções irão estender o alcance da visão das unidades em 1 hexágono e, também, um número de unidades navais da fase avançada do jogo têm visão estendida.</Text>
+			<Text>Você sempre pode ver tudo dentro de suas fronteiras, como se tudo estivesse a um hexágono de distância. A maioria das unidades podem ver tudo dentro de 2 hexágonos (exceto por hexágonos atrás de {TXT_KEY_TERRAIN_MOUNTAIN[2]} e bloqueados). Unidades em {TXT_KEY_TERRAIN_HILL[2]} podem ver além de hexágonos bloqueados. Certas promoções irão estender o alcance da visão das unidades em 1 hexágono e, também, um número de unidades navais da fase avançada do jogo têm visão estendida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_SEEN_HEADING2_TITLE">
 			<Text>O Que é Visto</Text>
@@ -7629,7 +7629,7 @@
 			<Text>Quais hexágonos oferecem mais alimento?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_BESTTILES_HEADING3_BODY">
-			<Text>Os tipos de hexágono que oferecem bastante alimento incluem Oásis, Planícies Fluviais e Pradarias.</Text>
+			<Text>Os tipos de hexágono que oferecem bastante alimento incluem {TXT_KEY_FEATURE_OASIS[2]}, {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} e {TXT_KEY_TERRAIN_GRASS[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_BESTTILES_HEADING3_TITLE">
 			<Text>Melhores Ladrilhos Com Alimentos</Text>
@@ -7683,13 +7683,13 @@
 			<Text>Crescimento da Cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_FLOODPLAINS_ADV_QUEST">
-			<Text>Planícies fluviais dão bastante alimento?</Text>
+			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS[2]} dão bastante alimento?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_FLOODPLAINS_HEADING4_BODY">
-			<Text>Planícies Fluviais dão muito alimento, particularmente se explorada com uma fazenda.</Text>
+			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS[2]} dão muito alimento, particularmente se explorada com uma fazenda.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_FLOODPLAINS_HEADING4_TITLE">
-			<Text>Planícies Fluviais</Text>
+			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_GETFOOD_ADV_QUEST">
 			<Text>Como você pode conseguir mais alimento para uma cidade?</Text>
@@ -7701,13 +7701,13 @@
 			<Text>Conseguindo Mais Alimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_GRASSLAND_ADV_QUEST">
-			<Text>Espaços de Pradarias e Selvas oferecem uma boa quantidade de alimento?</Text>
+			<Text>Espaços de {TXT_KEY_TERRAIN_GRASS[2]} e {TXT_KEY_FEATURE_JUNGLE[2]} oferecem uma boa quantidade de alimento?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_GRASSLAND_HEADING4_BODY">
 			<Text>Esses espaços também oferecem uma boa quantidade de alimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_GRASSLAND_HEADING4_TITLE">
-			<Text>Pradarias e Selvas</Text>
+			<Text>{TXT_KEY_TERRAIN_GRASS[2]} e {TXT_KEY_FEATURE_JUNGLE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_HEADING1_BODY">
 			<Text>Alimento abundante é o fator mais importante, determinando o crescimento de uma civilização humana. Já que humanos tinham que gastar virtualmente todo o tempo do dia caçando e juntando alimento para eles e suas famílias ou tribos, eles tinham pouco tempo ou energia para outras atividades - fazer pinturas rupestres, por exemplo, criar uma linguagem escrita, ou descobrir ruínas. Uma vez que um excesso de alimento é disponível, então todo o resto é possível.</Text>
@@ -7734,13 +7734,13 @@
 			<Text>Cidades-Estado Navais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_OASIS_ADV_QUEST">
-			<Text>Oásis produzem bastante alimento?</Text>
+			<Text>{TXT_KEY_FEATURE_OASIS[2]} produzem bastante alimento?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_OASIS_HEADING4_BODY">
-			<Text>Oásis oferecem bastante alimento, particularmente quando comparado ao deserto, onde eles são geralmente encontrados.</Text>
+			<Text>{TXT_KEY_FEATURE_OASIS[2]} oferecem bastante alimento, particularmente quando comparado ao {TXT_KEY_TERRAIN_DESERT}, onde eles são geralmente encontrados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_OASIS_HEADING4_TITLE">
-			<Text>Oásis</Text>
+			<Text>{TXT_KEY_FEATURE_OASIS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_SETTLERS_ADV_QUEST">
 			<Text>Como o treinamento de Colonizadores afetam o uso do alimento de uma cidade?</Text>
@@ -7962,7 +7962,7 @@
 			<Text>Como eu posso conseguir ouro do terreno?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_TERRAIN_HEADING3_BODY">
-			<Text>Esses hexágonos te oferecem ouro quando seus cidadãos os exploram:[NEWLINE]- Espaços Litorâneos[NEWLINE]- Espaços Oceânicos[NEWLINE]- Espaços de Rios[NEWLINE]- Maravilhas Naturais[NEWLINE]- Oásis.</Text>
+			<Text>Esses hexágonos te oferecem ouro quando seus cidadãos os exploram:[NEWLINE]- Espaços Litorâneos[NEWLINE]- Espaços Oceânicos[NEWLINE]- Espaços de Rios[NEWLINE]- Maravilhas Naturais[NEWLINE]- {TXT_KEY_FEATURE_OASIS}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_TERRAIN_HEADING3_TITLE">
 			<Text>Tipos de terrenos e ouro</Text>
@@ -8145,7 +8145,7 @@
 			<Text>Como os Pontos de Movimento são consumidos?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_EXPENDINGPOINTS_HEADING3_BODY">
-			<Text>Unidades gastam Pontos de Movimento ao entrarem em hexágonos. O terreno desse hexágono determina o custo de pontos do movimento. Não te custa nada deixar seu hexágono atual; O custo de pontos de movimento é determinado pelo hexágono em que você entra.[NEWLINE][NEWLINE]Veja as regras dos terrenos para detalhes em custos de Pontos de Movimento, mas geralmente terrenos abertos, como Pradarias e Planícies, custam 1 PM para entrar, enquanto Florestas e Savanas custam 2. Os PMs de uma unidade são todos gastos também para que a unidade atravesse um rio (a menos que tenha uma estrada lá). [NEWLINE][NEWLINE]Uma unidade sempre pode se mover um hexágono se possuir qualquer PM sobrando. Não importa o custo; desde que a unidade tenha algo sobrando, ela pode entrar. Quando a unidade tiver gastado todos seus PMs, ela deve parar.</Text>
+			<Text>Unidades gastam Pontos de Movimento ao entrarem em hexágonos. O terreno desse hexágono determina o custo de pontos do movimento. Não te custa nada deixar seu hexágono atual; O custo de pontos de movimento é determinado pelo hexágono em que você entra.[NEWLINE][NEWLINE]Veja as regras dos terrenos para detalhes em custos de Pontos de Movimento, mas geralmente terrenos abertos, como {TXT_KEY_TERRAIN_GRASS[2]} e {TXT_KEY_TERRAIN_PLAINS[2]}, custam 1 PM para entrar, enquanto {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_TERRAIN_PLAINS[2]} custam 2. Os PMs de uma unidade são todos gastos também para que a unidade atravesse um rio (a menos que tenha uma estrada lá). [NEWLINE][NEWLINE]Uma unidade sempre pode se mover um hexágono se possuir qualquer PM sobrando. Não importa o custo; desde que a unidade tenha algo sobrando, ela pode entrar. Quando a unidade tiver gastado todos seus PMs, ela deve parar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_EXPENDINGPOINTS_HEADING3_TITLE">
 			<Text>Gastando Pontos de Movimentos</Text>
@@ -8169,7 +8169,7 @@
 			<Text>Quais movimentos são ilegais?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_ILLEGAL_HEADING2_BODY">
-			<Text>Certos hexágonos não podem ser ocupados por certas unidades. Uma unidade naval não pode entrar num hexágono terrestre "não cidade", por exemplo, e uma unidade terrestre não pode entrar numa montanha ou no oceano. Se uma unidade não pode entrar num hexágono, você não será capaz de ordenar que ela se mova até lá. Às vezes, um movimento é revelado como ilegal durante um movimento de uma unidade. Se este é o caso, a unidade irá parar quando descobrir a ilegalidade e esperar por novos comandos.</Text>
+			<Text>Certos hexágonos não podem ser ocupados por certas unidades. Uma unidade naval não pode entrar num hexágono terrestre "não cidade", por exemplo, e uma unidade terrestre não pode entrar numa {TXT_KEY_TERRAIN_MOUNTAIN} ou no {TXT_KEY_TERRAIN_OCEAN}. Se uma unidade não pode entrar num hexágono, você não será capaz de ordenar que ela se mova até lá. Às vezes, um movimento é revelado como ilegal durante um movimento de uma unidade. Se este é o caso, a unidade irá parar quando descobrir a ilegalidade e esperar por novos comandos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_ILLEGAL_HEADING2_TITLE">
 			<Text>Movimentos Ilegais</Text>
@@ -8205,7 +8205,7 @@
 			<Text>Como se movem as unidades navais?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_NAVAL_HEADING2_BODY">
-			<Text>Em geral as unidades navais seguem as mesmas regras das unidades terrestres, sendo que a diferença está no fato de que elas se movimentam na água. Os navios iniciais básicos são limitados às águas costeiras (aquelas adjacentes aos hexágonos terrestres) e cidades costeiras. Eventualmente você irá produzir unidades navais que podem entrar no oceano profundo e explorar o mundo. Unidades navais geralmente não podem entrar em áreas congeladas (exceto submarinos que podem atravessar por "baixo" do gelo).</Text>
+			<Text>Em geral as unidades navais seguem as mesmas regras das unidades terrestres, sendo que a diferença está no fato de que elas se movimentam na água. Os navios iniciais básicos são limitados às águas costeiras (aquelas adjacentes aos hexágonos terrestres) e cidades costeiras. Eventualmente você irá produzir unidades navais que podem entrar no {TXT_KEY_TERRAIN_OCEAN} profundo e explorar o mundo. Unidades navais geralmente não podem entrar em áreas congeladas (exceto submarinos que podem atravessar por "baixo" do {TXT_KEY_FEATURE_ICE}).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_NAVAL_HEADING2_TITLE">
 			<Text>Movimento Naval</Text>
@@ -8292,7 +8292,7 @@
 			<Text>Pode Mover Após Atacar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CAN_MOVE_IMPASSABLE">
-			<Text>Pode Entrar em Ladrilhos de Gelo</Text>
+			<Text>Pode Entrar em Ladrilhos de {TXT_KEY_FEATURE_ICE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CARGO_I">
 			<Text>Pode Transportar 1 Carga</Text>
@@ -8331,7 +8331,7 @@
 			<Text>Todos os Ladrilhos Custam 1 de Mov.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_FOLIAGE_IMPASSABLE">
-			<Text>Não Pode Entrar em Floresta ou Selva</Text>
+			<Text>Não Pode Entrar em {TXT_KEY_FEATURE_FOREST} ou {TXT_KEY_FEATURE_JUNGLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_FOREIGN_LANDS">
 			<Text>Bônus em Terras Estrangeiras</Text>
@@ -8367,10 +8367,10 @@
 			<Text>É invisível (Submarino)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_JAGUAR">
-			<Text>Bônus em Combate na Selva (50)</Text>
+			<Text>Bônus em Combate na {TXT_KEY_FEATURE_JUNGLE} (50)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MOHAWK">
-			<Text>Bônus na Floresta/Selva (25)</Text>
+			<Text>Bônus na {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE} (25)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MOUNTED_PENALTY">
 			<Text>Penalidade vs Montarias</Text>
@@ -8394,7 +8394,7 @@
 			<Text>É Necessário Astronomia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_OCEAN_IMPASSABLE">
-			<Text>Não Pode Entrar no Oceano</Text>
+			<Text>Não Pode Entrar no {TXT_KEY_TERRAIN_OCEAN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_OCEAN_MOVEMENT">
 			<Text>Movimento Naval</Text>
@@ -9243,7 +9243,7 @@
 			<Text>[NEWLINE][TAB][TAB]"Nosso poder científico superou nosso poder espiritual. Nós guiamos mísseis, mas descaminhamos homens."[NEWLINE][TAB][TAB] - Martin Luther King, Jr.[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_AGRICULTURE_DESC">
-			<Text>Agricultura é a produção de plantas e animais, principalmente para comida, mas também para vestuário, abrigo, medicina, recreação e diversos outros usos. A técnica da colheita provavelmente se desenvolveu de forma independente em vários lugares. A evidência mais remota de agriculta já descoberta data de antes do fim da era do gelo, há aproximadamente 11.000 anos. Surpreendentemente, parece que a agricultura não foi inventada por caçadores-coletores famintos que procuravam desesperadamente novas fontes de sustento; ao contrário, evidências sugerem que os antigos agricultores eram bem sucedidos e saudáveis caçadores-coletores que provavelmente já possuíam boa quantidade de comida. Isso faz sentido: pessoas com excesso de comida podem gastar tempo experimentando novas tecnologias, enquanto que as famintas irão gastar todas as suas energias em métodos já conhecidos de obter o sustento.[NEWLINE][NEWLINE]No início, a agricultura era lenta. Um processo cíclico. Sementes eram lançadas na primavera, campos eram cuidados e irrigados até que a plantação estivesse pronta para a colheita, muitas vezes, meses depois. Já que poucos lugares possuem um clima favorável para uma produção agrícola durante todo o ano, agricultores precisavam ser capazes de estocar comida para os escassos meses de inverno ou negociar com aqueles que conseguiam estocar comida durante o ano por meio da caça, pesca e demais métodos. Agricultores sempre estiveram à mercê da natureza e do clima: se não chovesse um ano ou pragas comessem a plantação, a família poderia simplesmente morrer de fome.[NEWLINE][NEWLINE]Agricultura moderna(ou "agroindústria") é uma complicada ciência de manipulação genética, inseticidas e fertilizantes avançados, sistemas de irrigação computadorizado e colheitadeiras automatizadas. Avanços na tecnologia aumentaram tanto a produção de comida em um pedaço de terra, que alguns países - incluindo os Estados Unidos da América - ocasionalmente sofrem não com a fome, mas com a fartura de comida, resultando em obesidades crônicas em seus cidadãos e preços tão baratos que ameaçam a sobrevivência de agricultores que dependem da venda da comida que produzem.</Text>
+			<Text>Agricultura é a produção de plantas e animais, principalmente para comida, mas também para vestuário, abrigo, medicina, recreação e diversos outros usos. A técnica da colheita provavelmente se desenvolveu de forma independente em vários lugares. A evidência mais remota de agriculta já descoberta data de antes do fim da Era do Gelo, há aproximadamente 11.000 anos. Surpreendentemente, parece que a agricultura não foi inventada por caçadores-coletores famintos que procuravam desesperadamente novas fontes de sustento; ao contrário, evidências sugerem que os antigos agricultores eram bem sucedidos e saudáveis caçadores-coletores que provavelmente já possuíam boa quantidade de comida. Isso faz sentido: pessoas com excesso de comida podem gastar tempo experimentando novas tecnologias, enquanto que as famintas irão gastar todas as suas energias em métodos já conhecidos de obter o sustento.[NEWLINE][NEWLINE]No início, a agricultura era lenta. Um processo cíclico. Sementes eram lançadas na primavera, campos eram cuidados e irrigados até que a plantação estivesse pronta para a colheita, muitas vezes, meses depois. Já que poucos lugares possuem um clima favorável para uma produção agrícola durante todo o ano, agricultores precisavam ser capazes de estocar comida para os escassos meses de inverno ou negociar com aqueles que conseguiam estocar comida durante o ano por meio da caça, pesca e demais métodos. Agricultores sempre estiveram à mercê da natureza e do clima: se não chovesse um ano ou pragas comessem a plantação, a família poderia simplesmente morrer de fome.[NEWLINE][NEWLINE]Agricultura moderna(ou "agroindústria") é uma complicada ciência de manipulação genética, inseticidas e fertilizantes avançados, sistemas de irrigação computadorizado e colheitadeiras automatizadas. Avanços na tecnologia aumentaram tanto a produção de comida em um pedaço de terra, que alguns países - incluindo os Estados Unidos da América - ocasionalmente sofrem não com a fome, mas com a fartura de comida, resultando em obesidades crônicas em seus cidadãos e preços tão baratos que ameaçam a sobrevivência de agricultores que dependem da venda da comida que produzem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_AGRICULTURE_HELP">
 			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Fazendas[ENDCOLOR], vitais para aumentar a produção de [ICON_FOOD][COLOR_POSITIVE_TEXT]Alimento[ENDCOLOR].</Text>
@@ -9261,10 +9261,10 @@
 			<Text>Ruínas Antigas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_DESC">
-			<Text>Aparentemente a criação de animais ocorreu quase na mesma época da invenção da agricultura. Ao que parece, o cão foi o primeiro animal domesticado, provavelmente treinado para ajudar na caça. Evidencias sugerem que eles foram primeiramente domesticados e treinados na China - de fato, geneticistas acreditam que quase 95% dos cães atuais são descendentes de poucos animais chineses. Cabras e ovelhas foram domesticadas no Oriente Médio, provavelmente por volta de 10.000 anos A.C.[NEWLINE][NEWLINE]Para ser domesticado com sucesso, um animal precisa se encaixar em alguns critérios: deve ser capaz de consumir comida que seja menos atrativa aos humanos, por exemplo, grama, insetos ou restos de comida da mesa; deve crescer rápido, tornando-se útil em pouco tempo e possibilitando ser alterado geneticamente repetidamente pelas suas gerações; Deve possuir uma disposição calma; Não deve entrar em pânico com facilidade, ou se entrar, deve permanecer junto com outros de sua espécie, proporcionando aos humanos ou cães pastoreá-los em grupo; finalmente, é extremamente útil se o animal puder ser treinado para pensar no humano como seu líder.[NEWLINE][NEWLINE]Cientistas acreditam que o cavalo foi domesticado primeiramente na região da Ucrânia, entre 4000-3500 a.C. aproximadamente. É possível que os primeiros cavalos tenham sido criados para prover carne, não para servir como animais de trabalho. Há quase meio milênio, o cavalo tem sido empregado como um animal de tração em grande parte da Europa e Ásia. Durante milhares de anos, programas intensivos de treinamento resultaram em um animal domesticado bem maior e mais forte que o cavalo selvagem original. E com a invenção da biga e, depois, da sela e do estribo, o cavalo se tornou o animal domesticado mais importante na história humana. (Ao menos na Eurásia e norte da África, já que o Norte indígena, América Central e do Norte comeram todos seus cavalos antes que eles fossem domesticados.)</Text>
+			<Text>Aparentemente a criação de animais ocorreu quase na mesma época da invenção da agricultura. Ao que parece, o cão foi o primeiro animal domesticado, provavelmente treinado para ajudar na caça. Evidencias sugerem que eles foram primeiramente domesticados e treinados na China - de fato, geneticistas acreditam que quase 95% dos cães atuais são descendentes de poucos animais chineses. Cabras e ovelhas foram domesticadas no Oriente Médio, provavelmente por volta de 10.000 anos A.C.[NEWLINE][NEWLINE]Para ser domesticado com sucesso, um animal precisa se encaixar em alguns critérios: deve ser capaz de consumir comida que seja menos atrativa aos humanos, por exemplo, capim, insetos ou restos de comida da mesa; deve crescer rápido, tornando-se útil em pouco tempo e possibilitando ser alterado geneticamente repetidamente pelas suas gerações; Deve possuir uma disposição calma; Não deve entrar em pânico com facilidade, ou se entrar, deve permanecer junto com outros de sua espécie, proporcionando aos humanos ou cães pastoreá-los em grupo; finalmente, é extremamente útil se o animal puder ser treinado para pensar no humano como seu líder.[NEWLINE][NEWLINE]Cientistas acreditam que o cavalo foi domesticado primeiramente na região da Ucrânia, entre 4000-3500 a.C. aproximadamente. É possível que os primeiros cavalos tenham sido criados para prover carne, não para servir como animais de trabalho. Há quase meio milênio, o cavalo tem sido empregado como um animal de tração em grande parte da Europa e Ásia. Durante milhares de anos, programas intensivos de treinamento resultaram em um animal domesticado bem maior e mais forte que o cavalo selvagem original. E com a invenção da biga e, depois, da sela e do estribo, o cavalo se tornou o animal domesticado mais importante na história humana. (Ao menos na Eurásia e norte da África, já que o Norte indígena, América Central e do Norte comeram todos seus cavalos antes que eles fossem domesticados.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Pastos[ENDCOLOR] para [ICON_RES_COW][COLOR_POSITIVE_TEXT]Gado[ENDCOLOR] e [ICON_RES_SHEEP][COLOR_POSITIVE_TEXT]Ovelhas[ENDCOLOR]. Também revela [ICON_RES_HORSE]Cavalos, que são usados para formar poderosas unidades montadas.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_PASTURE[2]}[ENDCOLOR] para [ICON_RES_COW][COLOR_POSITIVE_TEXT]Gado[ENDCOLOR] e [ICON_RES_SHEEP][COLOR_POSITIVE_TEXT]Ovelhas[ENDCOLOR]. Também revela [ICON_RES_HORSE]Cavalos, que são usados para formar poderosas unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Não atarás a boca do boi que debulha o grão."[NEWLINE][TAB][TAB] - A Bíblia, Deuteronômio, 25:4[NEWLINE][TAB]</Text>
@@ -9294,7 +9294,7 @@
 			<Text>Astronomia é o estudo de objetos no espaço - de poeira estelar a asteroides, luas, planetas, estrelas e galáxias - além de outros mais exóticos como buracos negros. Astronomia é a mais antiga das ciências naturais, com suas origens em práticas pré-históricas relacionadas à religião e à astrologia.[NEWLINE][NEWLINE]Muito da astronomia antiga estava relacionada com religião. Estrelas e outros corpos celestiais eram associados a deuses e acreditava-se que essas divindades tinham controle direto sobre o Homem e o universo físico. Se certa estrela ou constelação aparecia todos os anos durante a época da colheita, eventualmente, o homem decidia que a estrela era a casa do deus que controlava a safra. Se um sacrifício de uma cabra fosse realizado no dia do aparecimento da estrela, o deus poderia abençoar a colheita daquele ano. Este tipo de pensamento definiu a raiz dos antigos estudos astronômicos bem como a criação de calendários, de onde a astronomia tem sido historicamente dissipada.[NEWLINE][NEWLINE]Durante a Renascença, a astronomia abandonou muitos dos seus religiosos, armadilhas astronômicas, tornando-se uma ciência pura trilhando seu próprio caminho. Em 1543 Nicolau Copérnico publicou a obra "Da revolução de esferas celestes", que postulava que o sol estava no centro do universo, não a Terra, que o nosso planeta orbitava o sol e que a lua orbitava a Terra. Além da vitória da pesquisa científica sobre os dogmas religiosos, o livro de Copérnico também argumentou que o uso da matemática ajudaria a humanidade a entender o universo. Apesar de esse trabalho ter sido profundamente controverso naqueles dias, hoje Copérnico é conhecido como um dos grandes cientistas da história e um dos pais da Revolução Científica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval capaz de explorar os oceanos. Também permite o embarque de unidades terrestres e o seu transporte pelos mares.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARAVEL}[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}. Também permite o embarque de unidades terrestres e o seu transporte pelos mares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Ulisses ficou satisfeito com aquele vento, quando içou a vela e sentou-se junto do leme, como um marinheiro."[NEWLINE][TAB][TAB] - Homero[NEWLINE][TAB]</Text>
@@ -9357,7 +9357,7 @@
 			<Text>Bronze é uma "liga" (mistura) de cobre e estanho. O material resultante é mais duro e forte que os metais originais e mais fácil de fundir e ser moldado (por exemplo, para fabricar moldes de pontas de lanças e outros itens). Provavelmente o cobre foi usado pela primeira vez no Egito antes de 5.000 a.C. A primeira evidência do bronze apareceu por volta de 1.300 anos depois na forma de um bastão de bronze, encontrado em uma pirâmide datada em 3.700 a.C. O bronze apareceu na Ásia muito depois, por volta de 1.500 a.C., e nas Américas ainda mais tarde, entre 100-200 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP">
-			<Text>Permite [COLOR_POSITIVE_TEXT]Desmatar Selva[ENDCOLOR], que limpa o terreno para que outras instalações possam ser construídas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPEARMAN}[ENDCOLOR], uma unidade militar poderosa contra inimigos montados.</Text>
+			<Text>Permite [COLOR_POSITIVE_TEXT]Desmatar {TXT_KEY_FEATURE_JUNGLE}[ENDCOLOR], que limpa o terreno para que outras instalações possam ser construídas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SPEARMAN}[ENDCOLOR], uma unidade militar poderosa contra inimigos montados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"E entrou o guerreiro, Heitor, levando a forte lança de onze cúbitos em sua mão, com reluzente extremidade de bronze firmada por um círculo de ouro."[NEWLINE][TAB][TAB] - Homero[NEWLINE][TAB]</Text>
@@ -9384,7 +9384,7 @@
 			<Text>Um Calendário é um método de manter registros dos dias. Em muitas culturas antigas os calendários serviram para finalidades religiosas e práticas: certos dias do ano eram dedicados à adoração de certas divindades e caso isso não ocorresse seria muito ruim, pois os deuses estariam sendo ofendidos. Mais rotineiramente, calendários permitem as pessoas registrar o clima em área, dizendo-lhes quando plantar, quando colher etc.[NEWLINE][NEWLINE]Ao que parece, os egípcios foram os primeiros a desenvolver um calendário útil, que foi apropriadamente aperfeiçoado pelos romanos no Calendário Juliano, posteriormente. O Calendário Gregoriano, que é quase universalmente utilizado atualmente, foi baseado no Calendário Juliano. Proclamado em 1582, pelo Papa Gregório XIII, o Calendário Gregoriano define com mais precisão os anos solares, corrigindo uma pequena imperfeição no Juliano. No Calendário Juliano o ano solar era de 365 dias e 6 horas de duração, enquanto que no Gregoriano o ano era 12 minutos mais curto, ou seja, 365 dias, 5 horas e 48 minutos. Este erro persistiu durante séculos, fazendo com que o Calendário Juliano, segundo o Gregoriano, ficasse 14 dias fora de sincronia com as estações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALENDAR_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_PLANTATION[2]}[ENDCOLOR] em locais com Recursos de Luxo que são extremamente importantes para o [ICON_FOOD]Crescimento e [ICON_HAPPINESS_1]Felicidade. (Nota: muitos recursos exigem que antes você derrube uma floresta ou desmate uma selva, o que requer outras Tecnologias.)</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_PLANTATION[2]}[ENDCOLOR] em locais com Recursos de Luxo que são extremamente importantes para o [ICON_FOOD]Crescimento e [ICON_HAPPINESS_1]Felicidade. (Nota: muitos recursos exigem que antes você derrube uma {TXT_KEY_FEATURE_FOREST} ou desmate uma {TXT_KEY_FEATURE_JUNGLE}, o que requer outras Tecnologias.)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALENDAR_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios."[NEWLINE][TAB][TAB] - A Bíblia, Salmos, 90:12[NEWLINE][TAB]</Text>
@@ -9480,7 +9480,7 @@
 			<Text>Construção representa o avanço no estudo da alvenaria, por adicionar aço e outros metais na caixa de ferramentas do construtor. Apesar de notavelmente duráveis, a rocha e o tijolo também são pesados e inflexíveis. É impossível construir estruturas muito altas com estes materiais, a não ser a estrutura em questão sem uma rocha sólida ou em formato de pirâmide, pois elas entrariam em colapso sob seu próprio peso ou contra uma ventania muito forte.[NEWLINE][NEWLINE]Estruturas metálicas ou alvenaria reforçada com metais, por outro lado, pode ser bem altas, bonitas e estilosas. Utilizando metal, alguém pode criar altas pontes, túneis profundos, grandes arranha-céus e rodovias elevadas. Sem a Construção nenhuma das grandes cidades do mundo poderia existir. Não com sua magnífica arquitetura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com florestas, aumentando a sua [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com {TXT_KEY_FEATURE_FOREST[2]}, aumentando a sua [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Três coisas que devem ser examinadas em uma construção: que está no lugar certo; que sua fundação é segura; que é executada com sucesso."[NEWLINE][TAB][TAB] - Johann Wolfgang von Goethe[NEWLINE][TAB]</Text>
@@ -9510,7 +9510,7 @@
 			<Text>Sem ser uma tecnologia por si só, a Ecologia é um estudo interdisciplinar de todas as formas de interações e reações de organismos com seu ambiente, ou melhor, o estudo de ecossistemas Por assim dizer, tudo em um dado ecossistema - as rochas, solo, pássaros, insetos, árvores etc. - tem um efeito e uma conexão com todas as demais coisas do ecossistema, seja diretamente ou por meio de uma séria de relações em série. Apesar de todas as coisas estarem conectadas, ecologistas também acreditam no conceito de holismo, ou seja, que embora todas as pequenas interações possam ser explicadas, não é possível determinar todas as possíveis reações e que o sistema deve ser avaliado como um todo, não em partes. Ecologia estuda como tudo isso está conectado e como a mudança de um elemento pode afetar, beneficiar ou destruir outro.[NEWLINE][NEWLINE]A ciência moderna da Ecologia ainda é jovem, mas ela ganhou muita popularidade durante o movimento ambiental da década de 1960. A Ecologia cresceu recentemente para se preocupar com a preservação da biodiversidade e os efeitos adversos que o desenvolvimento humano pode ter sobre o ambiente e seus organismos. Estudos demorados estão em andamento para registrar estes efeitos. O mais longo deles, ainda em curso, começou em 1856.[NEWLINE][NEWLINE]Aplicações práticas já foram desenvolvidas a partir dos resultados destes estudos, como o uso mais eficiente e sustentável dos recursos naturais (água e florestas, por exemplo), desenvolvimento de melhores práticas no planejamento urbano etc. O campo da Ecologia também desenvolveu uma metodologia básica para melhor entendimento de como as pessoas interagem socialmente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Usina Solar[ENDCOLOR], uma edificação que aumenta a [ICON_PRODUCTION]Produção e que só pode ser construída em cidades no deserto, ou que estejam próximas a ele.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SOLAR_PLANT}[ENDCOLOR], uma edificação que aumenta a [ICON_PRODUCTION]Produção e que só pode ser construída em cidades no {TXT_KEY_TERRAIN_DESERT}, ou que estejam próximas a ele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Em um pequeno período de tempo, representado pelo presente século, uma espécie, Homem, adquiriu poder suficiente para alterar a natureza de seu mundo."[NEWLINE][TAB][TAB] - Rachel Carson[NEWLINE][TAB][TAB][TAB]</Text>
@@ -9681,7 +9681,7 @@
 			<Text>A Alvenaria é o processo de construção de estruturas, por meio de blocos individuais unidos por algum tipo de argamassa. Os blocos podem ser feitos de rocha, concreto ou podem ser apenas argila. A argamassa é um tipo de pasta trabalhável que resseca em um material extremamente durável. Normalmente é composta por uma mistura de areia, cimento ou cal, e água.[NEWLINE][NEWLINE]Os antigos Egípcios dominavam a arte da Alvenaria desde o quarto milênio A.C., construindo seus templos, palácios e pirâmides com a grande quantidade de pedras calcárias, arenitos, granitos e basaltos que possuíam nas encostas do Rio Nilo. Os antigos Assírios do Crescente Fértil não tinham acesso fácil a tais pedras mas tinham ricos depósitos de argila, que eles secavam ao sol como blocos. Já que esses blocos de argila eram vulneráveis à umidade, muitas vezes eles cobriam suas estruturas com telhas cozidas no forno ou esmaltadas, que eram mais resistentes à água.[NEWLINE][NEWLINE]Os Romanos inventaram o concreto, que era uma argamassa muito superior àquelas utilizadas por civilizações passadas (normalmente baseadas em argila), e que podia ser utilizado como o próprio bloco de construção. Esta, então chamada, "resolução do concreto" permitiu que os Romanos construíssem edificações antes impossíveis para os materiais primitivos. No século XIX, um jardineiro francês pensou em introduzir uma malha de ferro em seus tubos de concreto e potes; sua invenção para reforçar o concreto aumentou significativamente a "força de tensão" do material, o que o torna mais adequado para edifícios mais altos, que eram suscetíveis à pressão do vento, vibrações e, até mesmo, terremotos. Inovações mais recentes incrementaram a forma e flexibilidade do material de construção mais utilizado, dentre todos. E, apesar de muitos edifícios modernos serem construídos de vidro e ferro, todos eles descansam sobre fundações feitas com técnicas antigas de alvenaria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASONRY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_WALLS}[ENDCOLOR], que melhora significativamente a [ICON_STRENGTH]Defesa da cidade contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_QUARRY[2]}[ENDCOLOR] em recursos de [ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]Mármore[ENDCOLOR], além de [COLOR_POSITIVE_TEXT]Remover Pântanos[ENDCOLOR], possibilitando que outras melhorias sejam construídas no local.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_WALLS}[ENDCOLOR], que melhora significativamente a [ICON_STRENGTH]Defesa da cidade contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_QUARRY[2]}[ENDCOLOR] em recursos de [ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]Mármore[ENDCOLOR], além de [COLOR_POSITIVE_TEXT]Remover {TXT_KEY_FEATURE_MARSH[2]}[ENDCOLOR], possibilitando que outras melhorias sejam construídas no local.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASONRY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Como são felizes aqueles que têm seus muros já levantados!"[NEWLINE][TAB][TAB] - Virgil[NEWLINE][TAB]</Text>
@@ -9738,7 +9738,7 @@
 			<Text>Mineração é o processo de extrair várias substâncias úteis de baixo da superfície terrestre. Os primeiros elementos minerados incluem o cobre, ferro, diamante, ouro, prata, sal e carvão. Já que ninguém pode comer nenhuma dessas coisas (exceto o sal, claro - mas você entendeu onde queremos chegar), mineiros devem fazer parte de uma comunidade que seja capaz de produzir comida suficiente para mantê-los, além de suas famílias.[NEWLINE][NEWLINE]A mina mais antiga foi descoberta em Suazilândia, África. Ela foi cavada por volta de 40.000 anos atrás para extração de ocre, um mineral utilizado em cerimônias fúnebres e como tatuagens corporais. O sílex, um mineral brilhante e fácil de entalhar, utilizado por pelos primeiros hominídeos para raspar, como facas ou pontas de flechas foi o primeiro item minerado em larga escala na Europa. Minas de sílex, que chegam a 100 metros de profundidade e datam do período Neolítico (8000 - 2000 a.C.), foram descobertas na França e Inglaterra.[NEWLINE][NEWLINE]Mineiros modernos empregam uma variedade de métodos para obter uma extensa quantidade de materiais do subsolo. Minas de carvão, às vezes, destroem montanhas inteiras para extraírem o precioso mineral negro. Na África, algumas grandes companhias de mineração têm cavado quilômetros no solo em busca de diamantes. Empresas estão cavando minas em todo o lugar - do leito oceânico ao solo gelado do hemisfério norte - à procura do mais cobiçado líquido de todos: petróleo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MINING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_MINE[2]}[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção nos terrenos do mapa e [COLOR_POSITIVE_TEXT]Derrubar Florestas[ENDCOLOR], permitindo a construção de outras melhorias.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_MINE[2]}[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção nos terrenos do mapa e [COLOR_POSITIVE_TEXT]Derrubar {TXT_KEY_FEATURE_FOREST[2]}[ENDCOLOR], permitindo a construção de outras melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MINING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Os humildes herdarão a Terra, mas não os direitos sobre os seus minerais."[NEWLINE][TAB][TAB] - J. Paul Getty[NEWLINE][TAB]</Text>
@@ -10155,13 +10155,13 @@
 			<Text>Litoral</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_DESERT_ADV_QUEST">
-			<Text>O que você pode me dizer sobre os desertos?</Text>
+			<Text>O que você pode me dizer sobre os {TXT_KEY_TERRAIN_DESERT[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_DESERT_HEADING3_BODY">
-			<Text>Em geral, terrenos desérticos são notadamente inúteis. Eles não fornecem nenhum benefício às cidades (a não ser que o deserto possua um oásis ou algum recurso, claro, ou acesso à água fresca), e unidades que ocupam desertos recebem uma penalidade defensiva significativa quando em combate.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva quando em combate</Text>
+			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável), e unidades que os ocupam recebem uma penalidade significativa à defesa em combate.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva quando em combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_DESERT_HEADING3_TITLE">
-			<Text>Deserto</Text>
+			<Text>{TXT_KEY_TERRAIN_DESERT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_EXPLAINVALUES_ADV_QUEST">
 			<Text>O que os valores dos terrenos significam?</Text>
@@ -10185,7 +10185,7 @@
 			<Text>O que são as características do terreno?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FEATURES_HEADING2_BODY">
-			<Text>As características são elementos do terreno ou vegetação que aparecem sobre eles. (Um terreno com Pradaria pode ter florestas ou pântanos nele também, por exemplo). As características do terreno modificam a sua produtividade e também podem alterar a quantidade de "pontos de movimento" (MP) que uma unidade gasta ao entrar naquele terreno. Elas também podem fornecer bônus de combate defensivos ou penalidades às unidades que estiverem ocupando aquele terreno.</Text>
+			<Text>As características são elementos do terreno ou vegetação que aparecem sobre eles. (Um terreno com {TXT_KEY_TERRAIN_GRASS} pode ter {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_MARSH[2]} nele também, por exemplo). As características do terreno modificam a sua produtividade e também podem alterar a quantidade de "pontos de movimento" (MP) que uma unidade gasta ao entrar naquele terreno. Elas também podem fornecer bônus de combate defensivos ou penalidades às unidades que estiverem ocupando aquele terreno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FEATURES_HEADING2_TITLE">
 			<Text>Características do terreno</Text>
@@ -10200,82 +10200,82 @@
 			<Text>Valores das características</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FLOODPLAINS_ADV_QUEST">
-			<Text>O que você pode me dizer sobre as planícies inundadas?</Text>
+			<Text>O que você pode me dizer sobre as {TXT_KEY_FEATURE_FLOOD_PLAINS[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FLOODPLAINS_HEADING3_BODY">
-			<Text>As planícies inundadas são as áreas baixas adjacentes aos rios. Todos os anos o rio transborda, fornecendo irrigação natural e ricos nutrientes a terra, tornando as planícies inundadas incrivelmente férteis e a parte de terra mais produtível do mundo. O Egito antigo deve grande parte de sua prosperidade e poder às cheias anuais do grande Rio Nilo. [NEWLINE][NEWLINE]Rendimento: 2 alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
+			<Text>As {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} são as áreas baixas adjacentes aos rios. Todos os anos o rio transborda, fornecendo irrigação natural e ricos nutrientes a terra, tornando as {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} incrivelmente férteis e a parte de terra mais produtível do mundo. O Egito antigo deve grande parte de sua prosperidade e poder às cheias anuais do grande Rio Nilo. [NEWLINE][NEWLINE]Rendimento: 2 alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FLOODPLAINS_HEADING3_TITLE">
-			<Text>Planícies inundadas</Text>
+			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FOREST_ADV_QUEST">
-			<Text>O que você pode me dizer sobre as florestas?</Text>
+			<Text>O que você pode me dizer sobre as {TXT_KEY_FEATURE_FOREST[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FOREST_HEADING3_BODY">
-			<Text>Para os primeiros homens, as florestas eram uma grande fonte de recursos, provendo madeira para o fogo, ferramentas e abrigo, além de muitos animais para o sustento e vestuário. À medida que as cidades cresciam, era grande a tentação de derrubar as florestas para o estabelecimento de fazendas, mas um sábio líder sempre deixava um pouco de pé - para a produtividade e para melhorar a moral da população. Também, unidades militares estacionadas em florestas recebem um bônus de defesa significante.[NEWLINE][NEWLINE]Lembre-se que terrenos com florestas sempre rendem 1 Alimento e 1 produção, não importando o tipo de terreno ou se o terreno é montanhoso.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>Para os primeiros homens, as {TXT_KEY_FEATURE_FOREST[2]} eram uma grande fonte de recursos, provendo madeira para o fogo, ferramentas e abrigo, além de muitos animais para o sustento e vestuário. À medida que as cidades cresciam, era grande a tentação de derrubar as {TXT_KEY_FEATURE_FOREST[2]} para o estabelecimento de fazendas, mas um sábio líder sempre deixava um pouco de pé - para a produtividade e para melhorar a moral da população. Também, unidades militares estacionadas em {TXT_KEY_FEATURE_FOREST[2]} recebem um bônus de defesa significante.[NEWLINE][NEWLINE]Lembre-se que terrenos com {TXT_KEY_FEATURE_FOREST[2]} sempre rendem 1 Alimento e 1 produção, não importando o tipo de terreno ou se o terreno é montanhoso.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FOREST_HEADING3_TITLE">
-			<Text>Floresta</Text>
+			<Text>{TXT_KEY_FEATURE_FOREST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_ADV_QUEST">
-			<Text>O que você pode me dizer sobre as pradarias?</Text>
+			<Text>O que você pode me dizer sobre as {TXT_KEY_TERRAIN_GRASS[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_HEADING3_BODY">
-			<Text>Geralmente, pradarias produzem mais Alimento que qualquer outro tipo de terreno. Cidades construídas próximas às pradarias tendem a crescer mais rapidamente que outras edificadas em outro lugar. A maior desvantagem é a penalidade defensiva que uma unidade despreparada pode receber se atacada em uma pradaria.[NEWLINE][NEWLINE]Rendimento: 2 alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
+			<Text>Geralmente, {TXT_KEY_TERRAIN_GRASS[2]} produzem mais Alimento que qualquer outro tipo de terreno. Cidades construídas próximas às {TXT_KEY_TERRAIN_GRASS[2]} tendem a crescer mais rapidamente que outras edificadas em outro lugar. A maior desvantagem é a penalidade defensiva que uma unidade despreparada pode receber se atacada em uma {TXT_KEY_TERRAIN_GRASS}.[NEWLINE][NEWLINE]Rendimento: 2 alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_HEADING3_TITLE">
-			<Text>Pradaria</Text>
+			<Text>{TXT_KEY_TERRAIN_GRASS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_HEADING1_BODY">
-			<Text>Em Civilization V, o mundo é feito de terrenos em forma de hexágonos (ocasionalmente também chamados de espaços ou hexágonos). Esses espaços são de uma variedade de tipos de terreno - deserto, planícies, pradaria, colinas e por aí vai - e muitos também incluem "características" como florestas e selvas. Estes elementos ajudam a determinar a utilidade de um terreno para uma cidade próxima, bem como quão difícil ou fácil é se mover por ele. Um espaço de terreno e suas características podem ter efeitos importantes em um combate que possa ocorrer ali.</Text>
+			<Text>Em Civilization V, o mundo é feito de terrenos em forma de hexágonos (ocasionalmente também chamados de espaços ou hexágonos). Esses espaços são de uma variedade de tipos de terreno - {TXT_KEY_TERRAIN_DESERT[2]}, {TXT_KEY_TERRAIN_PLAINS[2]}, {TXT_KEY_TERRAIN_GRASS[2]}, {TXT_KEY_TERRAIN_HILL[2]} e por aí vai - e muitos também incluem características como {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]}. Estes elementos ajudam a determinar a utilidade de um terreno para uma cidade próxima, bem como quão difícil ou fácil é se mover por ele. Um espaço de terreno e suas características podem ter efeitos importantes em um combate que possa ocorrer ali.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_HEADING1_TITLE">
 			<Text>Terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_HILLS_ADV_QUEST">
-			<Text>O que você pode me dizer sobre as colinas?</Text>
+			<Text>O que você pode me dizer sobre as {TXT_KEY_TERRAIN_HILL[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_HILLS_HEADING3_BODY">
-			<Text>Colinas são... amontoadas. Elas dificultam a agricultura e a movimentação, mas fornecem um ótimo bônus defensivo e muitos recursos diferentes. [NEWLINE][NEWLINE]Rendimento: 2 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo para a unidade em uma colina.</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]} são... amontoadas. Elas dificultam a agricultura e a movimentação, mas fornecem um ótimo bônus defensivo e muitos recursos diferentes. [NEWLINE][NEWLINE]Rendimento: 2 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo para a unidade em uma {TXT_KEY_TERRAIN_HILL}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_HILLS_HEADING3_TITLE">
-			<Text>Colinas</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_ICE_ADV_QUEST">
-			<Text>O que você pode me dizer sobre o gelo?</Text>
+			<Text>O que você pode me dizer sobre o {TXT_KEY_FEATURE_ICE}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_ICE_HEADING3_BODY">
-			<Text>Gelo é só isso: gelo. É quase que totalmente inútil para a civilização. É instransponível (exceto para unidades aéreas ou submarinos) e não fornece nenhum recurso. Fique longe do gelo.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável[NEWLINE]Modificador de Combate: nenhum</Text>
+			<Text>{TXT_KEY_FEATURE_ICE} é só isso: gelo. É quase que totalmente inútil para a civilização. É instransponível (exceto para unidades aéreas ou submarinos) e não fornece nenhum recurso. Fique longe do {TXT_KEY_FEATURE_ICE}.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável[NEWLINE]Modificador de Combate: nenhum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_ICE_HEADING3_TITLE">
-			<Text>Gelo</Text>
+			<Text>{TXT_KEY_FEATURE_ICE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_JUNGLE_ADV_QUEST">
-			<Text>O que você pode me dizer sobre as selvas?</Text>
+			<Text>O que você pode me dizer sobre as {TXT_KEY_FEATURE_JUNGLE[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_JUNGLE_HEADING3_BODY">
-			<Text>Escuras, proibidas e mortais para um inexperiente, selvas são ricas fontes de Alimento para aqueles com habilidades e conhecimento para viver dentro delas. Contudo, selvas não fornecem muitos materiais e uma civilização que deseja crescer pode ser tentada a escavá-las ou transformá-las em plantações. Entretanto, unidades militares situadas em selvas recebem um bônus defensivo significante. Quando desmatadas, Selvas se tornam Planícies.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, -1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>Escuras, proibidas e mortais para um inexperiente, {TXT_KEY_FEATURE_JUNGLE[2]} são ricas fontes de Alimento para aqueles com habilidades e conhecimento para viver dentro delas. Contudo, {TXT_KEY_FEATURE_JUNGLE[2]} não fornecem muitos materiais e uma civilização que deseja crescer pode ser tentada a escavá-las ou transformá-las em plantações. Entretanto, unidades militares situadas em {TXT_KEY_FEATURE_JUNGLE[2]} recebem um bônus defensivo significante. Quando desmatadas, {TXT_KEY_FEATURE_JUNGLE[2]} se tornam {TXT_KEY_TERRAIN_PLAINS[2]}.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, -1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_JUNGLE_HEADING3_TITLE">
-			<Text>Selva</Text>
+			<Text>{TXT_KEY_FEATURE_JUNGLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MARSH_ADV_QUEST">
-			<Text>O que você pode me dizer sobre os pântanos?</Text>
+			<Text>O que você pode me dizer sobre os {TXT_KEY_FEATURE_MARSH[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MARSH_HEADING3_BODY">
-			<Text>Embora rico em biodiversidade, pântanos têm pouco a fornecer a civilizações com fome de crescimento. Pântanos podem ser drenados ou transformados em fazendas para aumentar seu rendimento. Lembre-se que unidades militares em pântanos recebem uma penalidade significativa quando atacadas.[NEWLINE][NEWLINE]Rendimento: 1 Alimento[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 15% de penalidade defensiva</Text>
+			<Text>Embora rico em biodiversidade, {TXT_KEY_FEATURE_MARSH[2]} têm pouco a fornecer a civilizações com fome de crescimento. {TXT_KEY_FEATURE_MARSH[2]} podem ser drenados ou transformados em fazendas para aumentar seu rendimento. Lembre-se que unidades militares em {TXT_KEY_FEATURE_MARSH[2]} recebem uma penalidade significativa quando atacadas.[NEWLINE][NEWLINE]Rendimento: 1 Alimento[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 15% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MARSH_HEADING3_TITLE">
-			<Text>Pântano</Text>
+			<Text>{TXT_KEY_FEATURE_MARSH}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_ADV_QUEST">
-			<Text>O que você pode me dizer sobre as montanhas?</Text>
+			<Text>O que você pode me dizer sobre as {TXT_KEY_TERRAIN_MOUNTAIN[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_BODY">
-			<Text>Montanhas são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las. Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]} são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las. Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_TITLE">
-			<Text>Montanha</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOVEMENTEFFECT_ADV_QUEST">
 			<Text>Como a travessia de um rio afeta o movimento?</Text>
@@ -10296,22 +10296,22 @@
 			<Text>Maravilhas Naturais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OASIS_ADV_QUEST">
-			<Text>O que você pode me dizer sobre os oásis?</Text>
+			<Text>O que você pode me dizer sobre os {TXT_KEY_FEATURE_OASIS[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OASIS_HEADING3_BODY">
-			<Text>Um oásis é uma área especialmente suntuosa e fresca dentro de um deserto, normalmente porque ele está sobre uma fonte limpa e abundante de água. Oásis é um dos recursos extremamente valioso em um deserto sem vida e inaproveitável, sendo que incontáveis batalhas já foram travadas entre tribos desesperadas para possuí-los.[NEWLINE][NEWLINE]Rendimento: 3 alimento, 1 ouro[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
+			<Text>Um {TXT_KEY_FEATURE_OASIS} é uma área especialmente suntuosa e fresca dentro de um {TXT_KEY_TERRAIN_DESERT}, normalmente porque ele está sobre uma fonte limpa e abundante de água. Oásis é um dos recursos extremamente valioso em um {TXT_KEY_TERRAIN_DESERT} sem vida e inaproveitável, sendo que incontáveis batalhas já foram travadas entre tribos desesperadas para possuí-los.[NEWLINE][NEWLINE]Rendimento: 3 alimento, 1 ouro[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OASIS_HEADING3_TITLE">
-			<Text>Oásis</Text>
+			<Text>{TXT_KEY_FEATURE_OASIS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OCEAN_ADV_QUEST">
-			<Text>O que você pode me dizer sobre os oceanos?</Text>
+			<Text>O que você pode me dizer sobre os {TXT_KEY_TERRAIN_OCEAN[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OCEAN_HEADING3_BODY">
-			<Text>O oceano são espaços de águas profundas. Eles fornecem Alimento e ouro para uma cidade, assim que esta cidade possuir tecnologia para acessá-los.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 ouro[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum</Text>
+			<Text>O {TXT_KEY_TERRAIN_OCEAN} são espaços de águas profundas. Eles fornecem Alimento e ouro para uma cidade, assim que esta cidade possuir tecnologia para acessá-los.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 ouro[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OCEAN_HEADING3_TITLE">
-			<Text>Oceano</Text>
+			<Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_OFFENSIVEPENALTY_ADV_QUEST">
 			<Text>Como os rios afetam o combate?</Text>
@@ -10323,13 +10323,13 @@
 			<Text>Penalidade ofensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_PLAINS_ADV_QUEST">
-			<Text>O que você pode me dizer sobre planícies?</Text>
+			<Text>O que você pode me dizer sobre {TXT_KEY_TERRAIN_PLAINS[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_BODY">
-			<Text>Planícies fornecem uma mistura de Alimento e produção para uma cidade próxima. Uma cidade cercada de planícies crescerá mais lentamente que uma na pradaria, mas será bem mais produtiva. [NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
+			<Text>{TXT_KEY_TERRAIN_PLAINS[2]} fornecem uma mistura de Alimento e produção para uma cidade próxima. Uma cidade cercada de {TXT_KEY_TERRAIN_PLAINS[2]} crescerá mais lentamente que uma na {TXT_KEY_TERRAIN_GRASS}, mas será bem mais produtiva. [NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_TITLE">
-			<Text>Planícies</Text>
+			<Text>{TXT_KEY_TERRAIN_PLAINS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_RESOURCES_ADV_QUEST">
 			<Text>O que são recursos?</Text>
@@ -10359,13 +10359,13 @@
 			<Text>Rios</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_SNOW_ADV_QUEST">
-			<Text>O que você pode me dizer sobre a neve?</Text>
+			<Text>O que você pode me dizer sobre a {TXT_KEY_TERRAIN_SNOW}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_BODY">
-			<Text>A neve é bastante improdutiva, sem nenhum benefício de Alimento ou produção para a cidade próxima. Claro que um terreno com neve pode possuir um recurso útil, mas, caso contrário, ele será apenas frio e inaproveitável.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
+			<Text>A {TXT_KEY_TERRAIN_SNOW} é bastante improdutiva, sem nenhum benefício de Alimento ou produção para a cidade próxima. Claro que um terreno com {TXT_KEY_TERRAIN_SNOW} pode possuir um recurso útil, mas, caso contrário, ele será apenas frio e inaproveitável.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_TITLE">
-			<Text>Neve</Text>
+			<Text>{TXT_KEY_TERRAIN_SNOW}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TABLES_ADV_QUEST">
 			<Text>Há uma forma de ver todos os efeitos do terreno em uma tabela?</Text>
@@ -10377,19 +10377,19 @@
 			<Text>As tabelas dos terrenos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TUNDRA_ADV_QUEST">
-			<Text>O que você pode me dizer sobre a tundra?</Text>
+			<Text>O que você pode me dizer sobre a {TXT_KEY_TERRAIN_TUNDRA}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TUNDRA_HEADING3_BODY">
-			<Text>A tundra é a terra semicongelada dos climas mais frios do mundo. É bem menos produtiva que as planícies ou pradarias, mas um pouco melhor que os desertos. Ninguém constrói cidades na tundra, a não ser que estejam desesperados por recursos ou não tenham outro lugar para irem.[NEWLINE][NEWLINE]Rendimento: 1 Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
+			<Text>A {TXT_KEY_TERRAIN_TUNDRA} é a terra semicongelada dos climas mais frios do mundo. É bem menos produtiva que as {TXT_KEY_TERRAIN_PLAINS[2]} ou {TXT_KEY_TERRAIN_GRASS[2]}, mas um pouco melhor que os {TXT_KEY_TERRAIN_DESERT[2]}. Ninguém constrói cidades na {TXT_KEY_TERRAIN_TUNDRA}, a não ser que estejam desesperados por recursos ou não tenham outro lugar para irem.[NEWLINE][NEWLINE]Rendimento: 1 Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 10% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TUNDRA_HEADING3_TITLE">
-			<Text>Tundra</Text>
+			<Text>{TXT_KEY_TERRAIN_TUNDRA}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TYPES_ADV_QUEST">
 			<Text>Quais tipos de terreno existe?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TYPES_HEADING2_BODY">
-			<Text>Há 9 tipos básicos de terreno no jogo: litoral, deserto, pradaria, colina, montanha, oceano, planície, neve e tundra.</Text>
+			<Text>Há 9 tipos básicos de terreno no jogo: litoral, {TXT_KEY_TERRAIN_DESERT}, {TXT_KEY_TERRAIN_GRASS}, {TXT_KEY_TERRAIN_HILL}, {TXT_KEY_TERRAIN_MOUNTAIN}, {TXT_KEY_TERRAIN_OCEAN}, {TXT_KEY_TERRAIN_PLAINS}, {TXT_KEY_TERRAIN_SNOW} e {TXT_KEY_TERRAIN_TUNDRA}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TYPES_HEADING2_TITLE">
 			<Text>Tipos de terrenos</Text>
@@ -10485,7 +10485,7 @@
 			<Text>Uma Bomba Atômica é uma unidade extremamente poderosa. A Bomba Atômica pode ser guardada em uma cidade aliada ou a bordo de um Porta-aviões. Ela pode se mover de uma base para outra ou atacar alvos a 10 hexágonos de distância. Quando detonada, uma Bomba Atômica causará dano, ou possivelmente destruirá unidades, e cidades serão severamente danificadas em um raio de 2 hexágonos da explosão. É automaticamente destruída quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AZTEC_JAGUAR_STRATEGY">
-			<Text>O Jaguar é uma unidade Asteca única, que substitui o Guerreiro. O Jaguar recebe um grande bônus quando combatente na Selva. Ele também se cura quando destrói unidades inimigas e possui a promoção Montanhista, permitindo-lhe movimentar por terrenos com Floresta ou Selva mais rapidamente.</Text>
+			<Text>O {TXT_KEY_UNIT_AZTEC_JAGUAR} é uma unidade Asteca única, que substitui o Guerreiro. O {TXT_KEY_UNIT_AZTEC_JAGUAR} recebe um grande bônus quando combatente na {TXT_KEY_FEATURE_JUNGLE}. Ele também se cura quando destrói unidades inimigas e possui a promoção Montanhista, permitindo-lhe movimentar por terrenos com {TXT_KEY_FEATURE_FOREST} ou {TXT_KEY_FEATURE_JUNGLE} mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BARBARIANS_STRATEGY">
 			<Text>Guerreiros Bárbaros são notadamente unidades fracas, mas eles podem causar problemas significativos para suas cidades e unidades não combatentes. Eles são perigosos em grandes números, mas são facilmente destruídos por Guerreiros e outras unidades do início do jogo.</Text>
@@ -10512,7 +10512,7 @@
 			<Text>As unidades de {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades de ataque corpo a corpo, a distância ou de cerco, mas pouco efetiva contra outras unidades montadas. Use-as para destruir Mosqueteiros e entrar nas linhas inimigas com sua habilidade de se mover após um ataque. A {TXT_KEY_UNIT_CAVALRY} é bastante vulnerável ao destruidor de unidades montadas, o {TXT_KEY_UNIT_LANCER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER_STRATEGY">
-			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em campo aberto. Eles são um pouco mais poderosos que o {TXT_KEY_UNIT_ARCHER} e podem se mover a distâncias duas vezes maiores. Entretanto, {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} sofrem uma penalidade de movimento quando entram em terrenos com Florestas, Selvas ou Colinas (a não ser que estradas tenham sido construídas neles). Como toda unidade montada, os {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são vulneráveis ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
+			<Text>{TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são rápidas unidades de ataque a distância, mortais em campo aberto. Eles são um pouco mais poderosos que o {TXT_KEY_UNIT_ARCHER} e podem se mover a distâncias duas vezes maiores. Entretanto, {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} sofrem uma penalidade de movimento quando entram em terrenos com {TXT_KEY_FEATURE_FOREST[2]}, {TXT_KEY_FEATURE_JUNGLE[2]} ou {TXT_KEY_TERRAIN_HILL[2]} (a não ser que estradas tenham sido construídas neles). Como toda unidade montada, os {TXT_KEY_UNIT_CHARIOT_ARCHER[2]} são vulneráveis ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CHINESE_CHUKONU_STRATEGY">
 			<Text>O Chu-Ko-Nu é a unidade chinesa única, que substitui o Besteiro. O Chu-Ko-Nu é um pouco menos poderoso que o Besteiro, mas ele pode atacar duas vezes durante um turno, dando grande vantagem ofensiva. Esta unidade é particularmente mortal quando fortificando uma cidade que esteja sendo atacada.</Text>
@@ -10530,7 +10530,7 @@
 			<Text>O Arqueiro de Arco Longo é a unidade inglesa única, que substitui o Besteiro. O Arqueiro de Arco Longo possui um maior alcance que o Besteiro, o que o torna capaz de atacar inimigos a três hexágonos de distância, muitas vezes os destruindo antes que eles possam atacar de volta. Como outras unidades de ataque a distância,o Arqueiro de Arco Longo é vulnerável a ataques corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE_STRATEGY">
-			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} é a unidade inglesa exclusiva, que substitui a {TXT_KEY_UNIT_FRIGATE}. O {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} tem uma força de combate à distância um pouco maior que a {TXT_KEY_UNIT_FRIGATE} e é mais barato para construir. Ele pode ver um hexágono a mais que a {TXT_KEY_UNIT_FRIGATE}, permitindo-lhe descobrir inimigos em uma porção significativamente grande do oceano.</Text>
+			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} é a unidade inglesa exclusiva, que substitui a {TXT_KEY_UNIT_FRIGATE}. O {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} tem uma força de combate à distância um pouco maior que a {TXT_KEY_UNIT_FRIGATE} e é mais barato para construir. Ele pode ver um hexágono a mais que a {TXT_KEY_UNIT_FRIGATE}, permitindo-lhe descobrir inimigos em uma porção significativamente grande do {TXT_KEY_TERRAIN_OCEAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FIGHTER_STRATEGY">
 			<Text>O Avião de Combate é uma unidade aérea moderadamente poderosa. Ela pode ficar baseada em qualquer cidade aliada ou a bordo de um Porta-aviões. Pode mover-se de uma cidade a outra (ou Porta-aviões) e pode realizar missões em um raio de 8 hexágonos. Use Aviões de Combate para atacar aeronaves e unidades terrestres inimigas, para observar posições inimigas e para interceptar ataques aéreos inimigos. Aviões de Combate são especialmente efetivos contra helicópteros inimigos. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
@@ -10581,7 +10581,7 @@
 			<Text>O Míssil Guiado é uma unidade de lançamento único que é destruída quando ataca um alvo inimigo. Pode ser baseado em uma cidade aliada ou a bordo de um Submarino Nuclear ou Cruzador. Podem se mover de uma base à outra ou atacar unidades inimigas que estejam a um alcance de "8". Veja as regras na seção "Mísseis" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu movimento de "6" o torna extremamente rápido e pode se movimentar sobre qualquer tipo de terreno, incluindo montanhas, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando atacam {TXT_KEY_UNIT_TANK[2]}.</Text>
+			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu alcance de 6 o torna extremamente rápido, e ele pode se movimentar sobre qualquer tipo de terreno, incluindo {TXT_KEY_TERRAIN_MOUNTAIN[2]} e {TXT_KEY_FEATURE_ICE}, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando batalham contra {TXT_KEY_UNIT_TANK[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_HORSEMAN} é a primeira unidade de cavalaria verdadeiramente poderosa, combinando velocidade com um poderoso ataque corpo a corpo. Pode se mover após atacar e, como qualquer unidade montada, é vulnerável aos ataques do {TXT_KEY_UNIT_SPEARMAN}, {TXT_KEY_UNIT_PIKEMAN} e similares.</Text>
@@ -10593,10 +10593,10 @@
 			<Text>A Infantaria é a unidade de combate básica da Era Industrial. É significativamente mais forte que seu predecessor, o Fuzileiro. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de {TXT_KEY_UNIT_TANK[2]}. Quando possível, devem ser auxiliadas por Artilharias, {TXT_KEY_UNIT_TANK[2]} e unidades aéreas (ou antiaéreas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IRONCLAD_STRATEGY">
-			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. São mais difíceis de serem destruídas que qualquer outra embarcação, e sua "Força de Combate a Distância" é maior. Entretanto, Couraças não podem entrar em águas profundas do oceano. Use-as, principalmente, para defender seu litoral.</Text>
+			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. São mais difíceis de serem destruídas que qualquer outra embarcação, e sua "Força de Combate a Distância" é maior. Entretanto, Couraças não podem entrar em águas profundas do {TXT_KEY_TERRAIN_OCEAN}. Use-as, principalmente, para defender seu litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IROQUOIAN_MOHAWKWARRIOR_STRATEGY">
-			<Text>O Guerreiro Mohawk é a unidade iroquesa única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. Tão poderoso quanto seu predecessor em terrenos limpos ou em colinas, o Guerreiro Mohawk recebe um bônus significativo de combate em Florestas e Selvas. Além disso, ao contrário do {TXT_KEY_UNIT_SWORDSMAN}, ela não requer [ICON_RES_IRON]Ferro para ser treinada.</Text>
+			<Text>O Guerreiro Mohawk é a unidade iroquesa única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. Tão poderoso quanto seu predecessor em terrenos limpos ou em {TXT_KEY_TERRAIN_HILL[2]}, o Guerreiro Mohawk recebe um bônus significativo de combate em {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]}. Além disso, ao contrário do {TXT_KEY_UNIT_SWORDSMAN}, ela não requer [ICON_RES_IRON]Ferro para ser treinada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_SAMURAI_STRATEGY">
 			<Text>O Samurai é a unidade japonesa única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. Tão poderoso quanto seu predecessor, o Samurai automaticamente recebe a promoção "Choque I", dando a ele um bônus quando luta em terreno aberto. O sucesso ao combater com um Samurai aumenta as chances de gerar Grandes Generais.</Text>
@@ -10689,7 +10689,7 @@
 			<Text>O Bombardeiro Furtivo é um Bombardeiro atualizado, possuindo um grande alcance, uma ótima "Força de Combate a Distância" e uma incrível habilidade de evitar armas antiaéreas e Aviões de Combate inimigos. Possui a habilidade "Reconhecimento Aéreo", que significa que tudo que estiver em um raio de 6 hexágonos de sua localização inicial ficará visível no início do turno. Note que Bombardeiros Furtivos não podem ser transportados por Porta-aviões. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUBMARINE_STRATEGY">
-			<Text>O Submarino é uma embarcação especializada em afundar outras embarcações. É invisível para a maioria das outras unidades - exceto aos Destróiers e a outros Submarinos - até que ela ataque ou fique adjacente a outra unidade. O Submarino por entrar em hexágonos com gelo. Use-o para patrulhar águas inimigas, destruir embarcações e guardar suas próprias embarcações de outros submarinos inimigos.</Text>
+			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_UNIT_SUBMARINE[2]} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWORDSMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_SWORDSMAN} é uma unidade padrão de ataque corpo a corpo poderosa da Era Clássica, sendo muito mais forte que o {TXT_KEY_UNIT_SPEARMAN} e o Guerreiro. São bastante úteis para atacar cidades do início do jogo.</Text>
@@ -11253,7 +11253,7 @@
 			<Text>Como as estradas funcionam?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_BUILDINGROADS_HEADING2_BODY">
-			<Text>Os trabalhadores podem construir estradas uma vez que sua civilização tenha adquirido a tecnologia Roda. As estradas podem ser construídas em território amigo, neutro ou inimigo. Elas podem ser construídas em qualquer terreno e através de qualquer recurso, exceto por montanhas, maravilhas naturais e gelo (e, claro, elas não podem ser construídos em hexágonos aquáticos). As estradas podem ser construídas em hexágonos com recursos e/ou melhorias. Consulte a seção sobre as estradas para mais detalhes.</Text>
+			<Text>Os trabalhadores podem construir estradas uma vez que sua civilização tenha adquirido a tecnologia Roda. As estradas podem ser construídas em território amigo, neutro ou inimigo. Elas podem ser construídas em qualquer terreno e através de qualquer recurso, exceto por {TXT_KEY_TERRAIN_MOUNTAIN[2]}, Maravilhas Naturais e {TXT_KEY_FEATURE_ICE} (e, claro, elas não podem ser construídos em hexágonos aquáticos). As estradas podem ser construídas em hexágonos com recursos e/ou melhorias. Consulte a seção sobre as estradas para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_BUILDINGROADS_HEADING2_TITLE">
 			<Text>Construindo Estradas</Text>
@@ -11268,7 +11268,7 @@
 			<Text>Como Limpar Terreno funciona?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_CLEARINGLAND_HEADING2_BODY">
-			<Text>Uma vez que sua civilização tenha aprendido a tecnologia Mineração, os trabalhadores podem desmatar áreas de hexágonos. Depois de terem aprendido a trabalhar o Bronze, eles podem remover selva. E uma vez que tenham aprendido Alvenaria, os trabalhadores podem drenar pântanos. Uma vez que estes recursos sejam removidos, eles desaparecem para sempre.</Text>
+			<Text>Uma vez que sua civilização tenha aprendido a tecnologia Mineração, os trabalhadores podem desmatar áreas de hexágonos. Depois de terem aprendido a trabalhar o Bronze, eles podem desmatar {TXT_KEY_FEATURE_JUNGLE[2]}. E uma vez que tenham aprendido Alvenaria, os trabalhadores podem drenar {TXT_KEY_FEATURE_MARSH[2]}. Uma vez que estes recursos sejam removidos, eles desaparecem para sempre.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_CLEARINGLAND_HEADING2_TITLE">
 			<Text>Limpar Terreno</Text>
@@ -11304,7 +11304,7 @@
 			<Text>Quanto tempo demora para construir uma melhoria?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_DURATIONTOCONSTRUCT_HEADING3_BODY">
-			<Text>Cada Melhoria demora certa quantidade de tempo. Levará mais tempo para a construção de melhorias em jogos tipo maratona, e menos em jogos iniciados em eras posteriores[NEWLINE][NEWLINE]Modificadores de Terreno: Melhorias construídas na Tundra e em desertos tem um acréscimo de 25% no tempo padrão para construir, enquanto melhorias construídas na Neve tem um acréscimo de 50%.</Text>
+			<Text>Cada Melhoria demora certa quantidade de tempo. Levará mais tempo para a construção de melhorias em jogos tipo maratona, e menos em jogos iniciados em eras posteriores[NEWLINE][NEWLINE]Modificadores de Terreno: Melhorias construídas na {TXT_KEY_TERRAIN_TUNDRA} e em {TXT_KEY_TERRAIN_DESERT[2]} têm um acréscimo de 25% no tempo padrão para construir, enquanto melhorias construídas na {TXT_KEY_TERRAIN_SNOW} tem um acréscimo de 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_DURATIONTOCONSTRUCT_HEADING3_TITLE">
 			<Text>Tempo de Construção</Text>
@@ -11313,7 +11313,7 @@
 			<Text>Como funciona a Melhoria Fazenda?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FARM_HEADING3_BODY">
-			<Text>A fazenda é a primeira melhoria e a mais comumente construída. Todas as civilizações começam o jogo sabendo como cultivar. As Fazendas podem ser construídas, na maioria dos hexágonos, e em cima de uma série de recursos:[NEWLINE]Requisitos Tecnológicos: Agricultura (adquirida no inicio do jogo)[NEWLINE]Podem ser Construídas: Fazendas não podem ser construídas no gelo, montanhas ou Maravilhas Naturais. Elas só podem ser construídas nos hexágonos de colinas e deserto se o hexágono é próximo a uma fonte de água doce como rios, lagos, ou outra fazenda. Fazendas aumentam a produção do hexágono em 1 de Alimento[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Floresta: Fazendas podem ser construídas em hexágonos de floresta, uma vez que você aprende a tecnologia de mineração. A floresta é removida quando a fazenda é construída. Tempo de Construção Total: 9 Turnos[NEWLINE]Selva: Fazendas podem ser construídas em hexágonos de selva uma vez que você aprende a tecnologia trabalhar o bronze. A selva é removida quando a fazenda é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]Pântano: Fazendas podem ser construídas em hexágonos de pântano quando você aprende a tecnologia de alvenaria. O pântano é removido quando a fazenda é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: Fazendas podem acessar o recurso Trigo, o aumento da produção do hexágono é de 1 de Alimento e 1 de ouro.</Text>
+			<Text>A fazenda é a primeira melhoria e a mais comumente construída. Todas as civilizações começam o jogo sabendo como cultivar. As Fazendas podem ser construídas, na maioria dos hexágonos, e em cima de uma série de recursos:[NEWLINE]Requisitos Tecnológicos: Agricultura (adquirida no inicio do jogo)[NEWLINE]Podem ser Construídas: Fazendas não podem ser construídas no {TXT_KEY_FEATURE_ICE}, {TXT_KEY_TERRAIN_MOUNTAIN[2]} ou Maravilhas Naturais. Elas só podem ser construídas nos hexágonos de {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_DESERT} se o hexágono é próximo a uma fonte de água doce como rios, lagos, ou outra fazenda. Fazendas aumentam a produção do hexágono em 1 de Alimento[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]{TXT_KEY_FEATURE_FOREST}: Fazendas podem ser construídas em hexágonos de {TXT_KEY_FEATURE_FOREST}, uma vez que você aprende a tecnologia de mineração. A {TXT_KEY_FEATURE_FOREST} é derrubada quando a fazenda é construída. Tempo de Construção Total: 9 Turnos[NEWLINE]{TXT_KEY_FEATURE_JUNGLE}: Fazendas podem ser construídas em hexágonos de {TXT_KEY_FEATURE_JUNGLE} uma vez que você aprende a tecnologia trabalhar o bronze. A {TXT_KEY_FEATURE_JUNGLE} é desmatada quando a fazenda é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]{TXT_KEY_FEATURE_MARSH}: Fazendas podem ser construídas em hexágonos de {TXT_KEY_FEATURE_MARSH} quando você aprende a tecnologia de alvenaria. O {TXT_KEY_FEATURE_MARSH} é removido quando a fazenda é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: Fazendas podem acessar o recurso Trigo, o aumento da produção do hexágono é de 1 de Alimento e 1 de ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FARM_HEADING3_TITLE">
 			<Text>Melhoria Fazenda</Text>
@@ -11343,7 +11343,7 @@
 			<Text>As Melhorias das Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_HEADING1_BODY">
-			<Text>Os trabalhadores representam os homens e mulheres que constroem seu império. Eles limpam as florestas e constroem as fazendas que alimentam suas cidades. Eles cavam as {TXT_KEY_IMPROVEMENT_MINE[2]} que fornecem o precioso ouro e poderoso ferro. Colocam as estradas que ligam suas cidades. Apesar de não serem unidades militares, os trabalhadores são importantes.[NEWLINE][NEWLINE]Melhorias aumentam a produção de, ouro e / ou a produção de alimentos dos hexágonos. Elas também fornecem acesso aos bônus especiais fornecidos por determinados recursos. Se você não melhorar a sua terra, sua civilização quase que certamente será superada por outras que fizerem.</Text>
+			<Text>Os trabalhadores representam os homens e mulheres que constroem seu império. Eles derrubam as {TXT_KEY_FEATURE_FOREST[2]} e constroem as fazendas que alimentam suas cidades. Eles cavam as {TXT_KEY_IMPROVEMENT_MINE[2]} que fornecem o precioso ouro e poderoso ferro. Colocam as estradas que ligam suas cidades. Apesar de não serem unidades militares, os trabalhadores são importantes.[NEWLINE][NEWLINE]Melhorias aumentam a produção de, ouro e / ou a produção de alimentos dos hexágonos. Elas também fornecem acesso aos bônus especiais fornecidos por determinados recursos. Se você não melhorar a sua terra, sua civilização quase que certamente será superada por outras que fizerem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_HEADING1_TITLE">
 			<Text>Trabalhadores e Melhorias</Text>
@@ -11367,7 +11367,7 @@
 			<Text>Deixando e Continuando Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_LUMBERMILL_HEADING3_BODY">
-			<Text>Serrarias aumentam a produção de um hexágono de floresta em 1, sem destruir a floresta.[NEWLINE]Requisitos Tecnológicos: Maquinaria[NEWLINE]Tempo de Construção: 7 Turnos[NEWLINE]Podem ser construídas em: Florestas</Text>
+			<Text>Serrarias aumentam a produção de um hexágono de {TXT_KEY_FEATURE_FOREST} em 1, sem destruir a {TXT_KEY_FEATURE_FOREST}.[NEWLINE]Requisitos Tecnológicos: Maquinaria[NEWLINE]Tempo de Construção: 7 Turnos[NEWLINE]Podem ser construídas em: {TXT_KEY_FEATURE_FOREST[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_LUMBERMILL_HEADING3_TITLE">
 			<Text>Serraria</Text>
@@ -11376,7 +11376,7 @@
 			<Text>Como a melhoria {TXT_KEY_IMPROVEMENT_MINE} funciona?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_HEADING3_BODY">
-			<Text>A melhoria {TXT_KEY_IMPROVEMENT_MINE} é aprendida quando sua civilização adquire a tecnologia de Mineração. Ela pode ser usada para aumentar o volume de produção de vários hexágonos, e também abre uma variedade de recursos. A {TXT_KEY_IMPROVEMENT_MINE} é tão importante quanto à fazenda.[NEWLINE]Requisitos Tecnológicos: Mineração[NEWLINE]Pode ser construída em: Apenas em hexágonos de Colina. {TXT_KEY_IMPROVEMENT_MINE[2]} aumentam a produção do hexágono por 1.[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Floresta: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de floresta. A floresta é removida quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 9 Turnos.[NEWLINE]Selva: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de selva uma vez que você aprende a tecnologia Bronze. A selva é removida quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]Pântano: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de pântano quando você aprende a tecnologia Alvenaria. O pântano é removido quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: {TXT_KEY_IMPROVEMENT_MINE[2]} habilitam recursos de Ferro, Carvão, Alumínio, Urânio, Gemas, Ouro e Prata. Veja a entrada de recursos individuais para mais detalhes.</Text>
+			<Text>A melhoria {TXT_KEY_IMPROVEMENT_MINE} é aprendida quando sua civilização adquire a tecnologia de Mineração. Ela pode ser usada para aumentar o volume de produção de vários hexágonos, e também abre uma variedade de recursos. A {TXT_KEY_IMPROVEMENT_MINE} é tão importante quanto à fazenda.[NEWLINE]Requisitos Tecnológicos: Mineração[NEWLINE]Pode ser construída em: Apenas em hexágonos de {TXT_KEY_TERRAIN_HILL}. {TXT_KEY_IMPROVEMENT_MINE[2]} aumentam a produção do hexágono por 1.[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]{TXT_KEY_FEATURE_FOREST}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_FOREST}. A {TXT_KEY_FEATURE_FOREST} é derrubada quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 9 Turnos.[NEWLINE]{TXT_KEY_FEATURE_JUNGLE}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_JUNGLE} uma vez que você aprende a tecnologia Bronze. A {TXT_KEY_FEATURE_JUNGLE} é desmatada quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]{TXT_KEY_FEATURE_MARSH}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_MARSH} quando você aprende a tecnologia Alvenaria. O {TXT_KEY_FEATURE_MARSH} é removido quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: {TXT_KEY_IMPROVEMENT_MINE[2]} habilitam recursos de Ferro, Carvão, Alumínio, Urânio, Gemas, Ouro e Prata. Veja a entrada de recursos individuais para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_HEADING3_TITLE">
 			<Text>Melhoria {TXT_KEY_IMPROVEMENT_MINE}</Text>
@@ -11451,7 +11451,7 @@
 			<Text>Quanto tempo leva para limpar um Recurso?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TIMETOCLEARLAND_HEADING3_BODY">
-			<Text>Remover Floresta: 3 Turnos[NEWLINE]Remover Selva: 6 Turnos[NEWLINE]Drenar Pântano: 5 Turnos</Text>
+			<Text>Derrubar {TXT_KEY_FEATURE_FOREST}: 3 Turnos[NEWLINE]Desmatar {TXT_KEY_FEATURE_JUNGLE}: 6 Turnos[NEWLINE]Drenar {TXT_KEY_FEATURE_MARSH}: 5 Turnos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TIMETOCLEARLAND_HEADING3_TITLE">
 			<Text>Tempo para Limpar Terreno</Text>
@@ -11466,7 +11466,7 @@
 			<Text>Estradas e Rotas de Comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TRADINGPOST_HEADING3_BODY">
-			<Text>Os Postos Comerciais aumentam a produção de ouro do hexágono por 1. Eles não dão acesso a Recursos[NEWLINE]Requisitos Tecnológicos: Armadilhas[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Podem ser construídos em: Qualquer hexágono de terra exceto Gelo.</Text>
+			<Text>Os Postos Comerciais aumentam a produção de ouro do hexágono por 1. Eles não dão acesso a Recursos[NEWLINE]Requisitos Tecnológicos: Armadilhas[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Podem ser construídos em: Qualquer hexágono de terra exceto {TXT_KEY_FEATURE_ICE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TRADINGPOST_HEADING3_TITLE">
 			<Text>Feitoria</Text>
@@ -11475,7 +11475,7 @@
 			<Text>Onde as Melhorias podem ser construídas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WHERETOCONSTRUCT_HEADING3_BODY">
-			<Text>As melhorias só podem ser construídas em locais apropriados. (Fazendas não pode ser construído em gelo, por exemplo, e {TXT_KEY_IMPROVEMENT_MINE[2]} não podem ser construídas em cima de recursos de gado.) O Painel de Ação do Trabalhador só irá mostrar as melhorias que a sua civilização tem a tecnologia para construir e as que são apropriadas para o hexágono que o trabalhador ativo está. Geralmente, as fazendas e {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em qualquer hexágono que não houver um recurso. Se o hexágono não possui um recurso, apenas as Melhorias apropriadas podem ser construídas.</Text>
+			<Text>As melhorias só podem ser construídas em locais apropriados. (Fazendas não pode ser construído em {TXT_KEY_FEATURE_ICE}, por exemplo, e {TXT_KEY_IMPROVEMENT_MINE[2]} não podem ser construídas em cima de recursos de gado.) O Painel de Ação do Trabalhador só irá mostrar as melhorias que a sua civilização tem a tecnologia para construir e as que são apropriadas para o hexágono que o trabalhador ativo está. Geralmente, as fazendas e {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em qualquer hexágono que não houver um recurso. Se o hexágono não possui um recurso, apenas as Melhorias apropriadas podem ser construídas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WHERETOCONSTRUCT_HEADING3_TITLE">
 			<Text>Onde Construir Melhorias</Text>
@@ -11494,7 +11494,7 @@
 			<Text>O Aqueduto diminui em 40% a quantidade de [ICON_FOOD]Alimento que uma cidade precisa para crescer. Construa Aquedutos em cidades que você quer ver crescer muito com o tempo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_STRATEGY">
-			<Text>A {TXT_KEY_BUILDING_STONE_WORKS} só pode ser construída em cidades próximas a fontes exploradas dos recursos [ICON_RES_STONE]Pedra ou [ICON_RES_MARBLE]Mármore. A {TXT_KEY_BUILDING_STONE_WORKS} aumenta a [ICON_PRODUCTION]Produção de uma cidade, que precisa estar em uma Planície.</Text>
+			<Text>A {TXT_KEY_BUILDING_STONE_WORKS} só pode ser construída em cidades próximas a fontes exploradas dos recursos [ICON_RES_STONE]Pedra ou [ICON_RES_MARBLE]Mármore. A {TXT_KEY_BUILDING_STONE_WORKS} aumenta a [ICON_PRODUCTION]Produção de uma cidade, que precisa estar em uma {TXT_KEY_TERRAIN_PLAINS}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ARABIA_FACTOID_HEADING">
 			<Text>Fatos Curiosos Árabes</Text>

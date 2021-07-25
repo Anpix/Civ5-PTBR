@@ -125,7 +125,7 @@
 			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas em todas as cidades. Uma Grande Pessoa de sua escolha aparece próximo à [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_HELP">
-			<Text>+3 de [ICON_GOLD]Ouro, +2 de [ICON_CULTURE]Cultura e +1 de [ICON_HAPPINESS_1]Felicidade de cada Castelo.[NEWLINE][NEWLINE]A cidade deve estar construída a, no máximo, 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
+			<Text>+3 de [ICON_GOLD]Ouro, +2 de [ICON_CULTURE]Cultura e +1 de [ICON_HAPPINESS_1]Felicidade de cada Castelo.[NEWLINE][NEWLINE]A cidade deve estar construída a, no máximo, 2 hexágonos de distância de uma {TXT_KEY_TERRAIN_MOUNTAIN} que esteja dentro do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
 			<Text>Um Grande Profeta aparece. Fornece um Templo gratuito na cidade em que for construída.</Text>
@@ -378,7 +378,7 @@
 			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo a corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
-			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o Couraçado paga o preço por ser muito forte: é mais lento no oceano.</Text>			
+			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o {TXT_KEY_UNIT_IRONCLAD} paga o preço por ser muito forte: é mais lento no {TXT_KEY_TERRAIN_OCEAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
 			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} e {TXT_KEY_UNIT_MODERN_ARMOR[2]}. É capaz de pairar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas recebe dano se terminar o turno sobre uma.</Text>
@@ -388,40 +388,40 @@
 			<Text>[COLOR_POSITIVE_TEXT]Curar esta unidade[ENDCOLOR] em 50 pontos de vida (HP). Ao fazer isto, esta oportunidade de promoção será [COLOR_POSITIVE_TEXT]consumida[ENDCOLOR].</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate se lutar em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1_HELP">
 			<Text>+15% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>			
@@ -691,16 +691,16 @@
 			<Text>Cura 25 pontos de vida se eliminar uma unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOHAWK">
-			<Text>Bônus de combate em Floresta/Selva (33)</Text>
+			<Text>Bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOHAWK_HELP">
-			<Text>+33% de bônus de combate em Floresta/Selva.</Text>
+			<Text>+33% de bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_JAGUAR">
-			<Text>Bônus de combate em Floresta/Selva (33)</Text>
+			<Text>Bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_JAGUAR_HELP">
-			<Text>+33% de bônus de combate em Floresta/Selva.</Text>
+			<Text>+33% de bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED">
 			<Text>Bônus vs inimigo ferido/avariado (33)</Text>
@@ -769,7 +769,7 @@
 			<Text>Evangelizador Indesejável</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT_HELP">
-			<Text>A unidade pode sobrevoar Montanhas, mas recebe dano se terminar o turno sobre uma.</Text>
+			<Text>A unidade pode sobrevoar {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas recebe dano se terminar o turno sobre uma.</Text>
 		</Row>
 		<!-- New Concepts and Advisor messages-->
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC">
@@ -1302,7 +1302,7 @@
 			<Text>+1 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_OPEN_SKY">
-			<Text>+1 de [ICON_CULTURE]Cultura de Pastos</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura de {TXT_KEY_IMPROVEMENT_PASTURE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE">
 			<Text>+4 de [ICON_PEACE]Fé de Maravilhas Naturais</Text>
@@ -1347,10 +1347,10 @@
 			<Text>+1 de [ICON_CULTURE]Cultura de Santuários</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE">
-			<Text>+1 de [ICON_PEACE]Fé de hexágonos desérticos</Text>
+			<Text>+1 de [ICON_PEACE]Fé de hexágonos de {TXT_KEY_TERRAIN_DESERT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH">
-			<Text>+1 de [ICON_CULTURE]Cultura de hexágonos com Selva</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura de hexágonos com {TXT_KEY_FEATURE_JUNGLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY">
 			<Text>+30% de aumento na [ICON_RANGE_STRENGTH]Força de Combate a Distância da cidade</Text>
@@ -1431,7 +1431,7 @@
 			<Text>+15 na [ICON_INFLUENCE]Influência base com Cidades-Estado devotas desta religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA">
-			<Text>+1 de [ICON_PEACE]Fé de hexágonos com Tundra sem Floresta</Text>
+			<Text>+1 de [ICON_PEACE]Fé de hexágonos com {TXT_KEY_TERRAIN_TUNDRA} sem {TXT_KEY_FEATURE_FOREST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH">
 			<Text>+1 de [ICON_CULTURE]Cultura de cada 5 devotos desta religião em outras civilizações</Text>
@@ -1584,19 +1584,19 @@
 			<Text>O "alcance" de uma unidade determina a distância que ela pode lançar um ataque a distância. Um alcance de "2" significa que o alvo pode estar no hexágono adjacente ou em um hexágono de distância. Um alcance de "1" significa que o alvo deve estar do lado do atacante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_DESERT_HEADING3_BODY">
-			<Text>Em geral, terrenos desérticos são notadamente inúteis. Eles não fornecem nenhum benefício às cidades (a não ser que o deserto possua um oásis ou algum recurso, claro, ou acesso à água fresca).[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável).[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_HEADING3_BODY">
-			<Text>Geralmente, pradarias produzem mais alimento que qualquer outro tipo de terreno. Cidades construídas próximas às pradarias tendem a crescer mais rapidamente que outras edificadas em outro lugar.[NEWLINE][NEWLINE]Rendimento: 2 de alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>Geralmente, {TXT_KEY_TERRAIN_GRASS[2]} produzem mais alimento que qualquer outro tipo de terreno. Cidades construídas próximas às {TXT_KEY_TERRAIN_GRASS[2]} tendem a crescer mais rapidamente que as constrídas em outros lugares.[NEWLINE][NEWLINE]Rendimento: 2 de alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_BODY">
-			<Text>Planícies fornecem uma mistura de alimento e produção para uma cidade próxima. Uma cidade cercada de planícies crescerá mais lentamente que uma na pradaria, mas será bem mais produtiva.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento, 1 de Produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>			
+			<Text>{TXT_KEY_TERRAIN_PLAINS[2]} fornecem uma mistura de alimento e produção para uma cidade próxima. Uma cidade cercada de {TXT_KEY_TERRAIN_PLAINS[2]} crescerá mais lentamente que uma na {TXT_KEY_TERRAIN_GRASS}, mas será bem mais produtiva.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento, 1 de Produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_BODY">
-			<Text>A neve é bastante improdutiva, sem nenhum benefício de alimento ou produção para a cidade próxima. Claro que um terreno com neve pode possuir um recurso útil, mas, caso contrário, ele será apenas frio e inaproveitável.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>A {TXT_KEY_TERRAIN_SNOW} é bastante improdutiva, sem nenhum benefício de alimento ou produção para a cidade próxima. Claro que um terreno com {TXT_KEY_TERRAIN_SNOW} pode possuir um recurso útil, mas, caso contrário, ele será apenas frio e inaproveitável.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TUNDRA_HEADING3_BODY">
-			<Text>A tundra é a terra semicongelada dos climas mais frios do mundo. É menos útil que as planícies ou pradarias, mas um pouco melhor que os desertos. Ninguém constrói cidades na tundra, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>A {TXT_KEY_TERRAIN_TUNDRA} é a terra semicongelada dos climas mais frios do mundo. É menos útil que as {TXT_KEY_TERRAIN_PLAINS[2]} ou {TXT_KEY_TERRAIN_GRASS[2]}, mas um pouco melhor que os {TXT_KEY_TERRAIN_DESERT[2]}. Ninguém constrói cidades na {TXT_KEY_TERRAIN_TUNDRA}, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
 			<Text>Há seis tipos de unidades não combatentes: Colonizadores, Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]}, Grandes Pessoas, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
@@ -1647,7 +1647,7 @@
 			<Text>Este botão lhe permite abrir um diálogo em uma variedade de tópicos. Dependendo de certas circunstâncias você pode fazer uma das seguintes ações: (a resposta do líder irá depender da sua relação com você e dos seus próprios interesses) [NEWLINE]- Pedir a um líder que assine uma Declaração de Amizade.[NEWLINE]- Pedir a um líder que vá à guerra contra outra civilização.[NEWLINE]- Compartilhar intrigras com um líder.[NEWLINE]- Pedir que um líder não construa mais cidades próximas a você.[NEWLINE]- Denunciar um líder com o qual você não esteja feliz.[NEWLINE]- Pedir a um líder que pare de espionar você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_BODY">
-			<Text>Montanhas são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las (a exceção é o Império Cartaginês). Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável (exceto por unidades aéreas e aos Cartagineses)[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]} são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las (a exceção é o Império Cartaginês). Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável (exceto por unidades aéreas e aos Cartagineses)[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_CITYBANNER_HEADING2_BODY">
 			<Text>O título da cidade aparece no Mapa Principal. Ele fornece uma visão útil sobre o que está acontecendo na cidade.[NEWLINE][TAB][TAB][TAB][TAB] Nome[NEWLINE][TAB][TAB][TAB][TAB] Força Defensiva [NEWLINE][TAB][TAB][TAB][TAB] Unidade alojada na cidade[NEWLINE][TAB][TAB][TAB][TAB] Item sendo construído na cidade*[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para completar a construção*[NEWLINE][TAB][TAB][TAB][TAB] Tamanho da cidade[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para cidade crescer*[NEWLINE][TAB][TAB][TAB][TAB] Religião da cidade**[NEWLINE][TAB][TAB][TAB][TAB] * Não é exibido nas cidades estrangeiras.[NEWLINE][TAB][TAB][TAB][TAB] ** Não é exibida até que um Panteão ou Religião esteja presente na cidade.</Text>

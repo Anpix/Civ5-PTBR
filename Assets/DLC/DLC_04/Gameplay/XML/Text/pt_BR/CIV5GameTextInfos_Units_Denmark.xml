@@ -8,23 +8,23 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_DANISH_BERSERKER">
 			<Text>Furioso|Furiosos</Text>
-            <Gender>masculine|masculine</Gender>
-            <Plurality>1|2</Plurality>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DANISH_SKI_INFANTRY">
 			<Text>Infantaria Ski|Infantarias Ski</Text>
-            <Gender>feminine|feminine</Gender>
-            <Plurality>1|2</Plurality>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY">
-			<Text>Bônus em Neve, Tundra e Colinas</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1</Plurality>
+			<Text>Bônus em {TXT_KEY_TERRAIN_SNOW}, {TXT_KEY_TERRAIN_TUNDRA} e {TXT_KEY_TERRAIN_HILL[2]}</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY_HELP">
-			<Text>Em Neve, Tundra e Colinas: +25% de Bônus de Combate (se Floresta ou Selva não estiverem presentes) e Movimento Dobrado</Text>
-            <Gender>neuter</Gender>
-            <Plurality>1</Plurality>
+			<Text>Em {TXT_KEY_TERRAIN_SNOW}, {TXT_KEY_TERRAIN_TUNDRA} e {TXT_KEY_TERRAIN_HILL[2]}: +25% de Bônus de Combate (se {TXT_KEY_FEATURE_FOREST} ou {TXT_KEY_FEATURE_JUNGLE} não estiverem presentes) e Movimento Dobrado</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -321,16 +321,16 @@
 			<Text>The Anasazi are an ancient indigenous culture, forerunners of the modern Puebloan peoples. The Anasazi are known for having build the Mesa Verde cliff dwellings.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD_SHORT">
-			<Text>Great Andean Road</Text>
+			<Text>Grande Estrada Andina</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD">
-			<Text>Units ignore terrain costs when moving into any tile with Hills. No maintenance costs for improvements in Hills; half cost elsewhere.</Text>
+			<Text>Unidades ignoram os custos de terreno quando movendo por ladrilhos de {TXT_KEY_TERRAIN_HILL[2]}. Sem custo de manutenção para melhorias em {TXT_KEY_TERRAIN_HILL[2]}; metade do custo nos outros terrenos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_INCA_TITLE">
 			<Text>Inca</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES_SHORT">
-			<Text>Seven Cities of Gold</Text>
+			<Text>Sete Cidades de Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES">
 			<Text>[ICON_GOLD] Gold bonus for discovering a Natural Wonder (bonus enhanced if first to discover it). [ICON_CULTURE] Culture, [ICON_HAPPINESS_1] Happiness, and tile yields from Natural Wonders doubled.</Text>
@@ -698,7 +698,7 @@
 			<Text>Gains [ICON_PEACE] Faith from each enemy unit killed.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_IGNORE_TERRAIN_IN_FOREST">
-			<Text>Treat Forest and Jungle as Roads (Movement bonus only in friendly territory). +1 [ICON_PEACE] Faith per city with an adjacent unimproved Forest. Bonus increases to +2 [ICON_PEACE] Faith in Cities with 3 or more adjacent unimproved Forest tiles.</Text>
+			<Text>Trata {TXT_KEY_FEATURE_FOREST} e {TXT_KEY_FEATURE_JUNGLE} como Estradas (Bônus de Movimento apenas em território amistoso). +1 de [ICON_PEACE]Fé por cidade com uma {TXT_KEY_FEATURE_FOREST} adjacente sem melhorias. O Bônus aumenta pra +2 de [ICON_PEACE]Fé em cidades com 3 ou mais {TXT_KEY_FEATURE_FOREST[2]} adjacentes sem melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PROMOTION_WITHDRAW_BEFORE_MELEE">
 			<Text>Withdraw Before Melee</Text>

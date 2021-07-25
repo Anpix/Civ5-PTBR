@@ -511,7 +511,7 @@
 			<Text>Most powerful ranged Naval unit in the game.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_SUBMARINE_STRATEGY">
-			<Text>The Submarine is a specialized ship-killing vessel. It is invisible to most units - except for Destróiers and other Submarines - until it attacks, or is adjacent to another unit. The Submarine can enter ice hexes. Use the Submarine to patrol enemy waters and sink enemy ships, and to guard your own ships against attacks from enemy subs. </Text>
+			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_UNIT_SUBMARINE[2]} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_SUBMARINE">
 			<Text>Invisible to all Units except Destróiers and other Submarines. Can cause major damage to other ships if they get into range without being seen.</Text>

@@ -9,7 +9,7 @@
 			<Text>Companhia Holandesa das Índias Orientais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE">
-			<Text>+1 de [ICON_PEACE]Fé por cada cidade com uma floresta adjacente não explorada. O bônus aumenta para +2 de [ICON_PEACE]Fé em cidades com 3 ou mais hexágonos com florestas não exploradas.</Text>
+			<Text>+1 de [ICON_PEACE]Fé por cada cidade com uma {TXT_KEY_FEATURE_FOREST} adjacente não explorada. O bônus aumenta para +2 de [ICON_PEACE]Fé em cidades com 3 ou mais hexágonos com {TXT_KEY_FEATURE_FOREST[2]} não exploradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT">
 			<Text>Conhecimento Druídico</Text>
@@ -27,7 +27,7 @@
 			<Text>Prêmio Nobel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
-			<Text>Elimine cidades no dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia {TXT_KEY_TECH_ANIMAL_HUSBANDRY}. +1 de [ICON_PRODUCTION]Produção de Pastos.</Text>
+			<Text>Elimine cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia {TXT_KEY_TECH_ANIMAL_HUSBANDRY}. +1 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
 			<Text>Castigo de Deus</Text>
@@ -39,7 +39,7 @@
 			<Text>Casamento Diplomático</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
-			<Text>Todas as cidades costeiras ganham um Ancoradouro gratuito. As unidades podem se movimentar sobre montanhas após o primeiro Grande General ser obtido, recebendo 50 pontos de dano se terminarem o turno sobre a montanha.</Text>
+			<Text>Todas as cidades costeiras ganham um {TXT_KEY_BUILDING_HARBOR} gratuito. As unidades podem se movimentar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]} após o primeiro {TXT_KEY_UNIT_GREAT_GENERAL} ser obtido, recebendo 50 pontos de dano se terminarem o turno sobre a {TXT_KEY_TERRAIN_MOUNTAIN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT">
 			<Text>Herança Fenícia</Text>

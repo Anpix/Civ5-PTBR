@@ -591,10 +591,10 @@
 			<Text>[COLOR_POSITIVE_TEXT]Capitalism[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] from all your land and sea rotas comerciais  and +2 [ICON_HAPPINESS_1] Happiness for each City you own [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1">
-			<Text>Army of the Sahara</Text>
+			<Text>Exército do Saara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Army of the Sahara[ENDCOLOR][NEWLINE]+50% combat bonus when fighting in the desert.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Exército do Saara[ENDCOLOR][NEWLINE]+50% de [ICON_STRENGTH]Força de Combate ao combater no {TXT_KEY_TERRAIN_DESERT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N2">
 			<Text>Berber Heritage</Text>

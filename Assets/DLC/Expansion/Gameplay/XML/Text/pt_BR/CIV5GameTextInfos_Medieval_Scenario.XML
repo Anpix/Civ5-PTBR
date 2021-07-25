@@ -425,13 +425,13 @@
 			<Text>City must have Walls.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MADRASAH_STRATEGY">
-			<Text>The Madrasah is a Medieval-era building. It increases the science output of the city, and it's even more effective if the city is near to jungle tiles. The city must already have a Library para construir a Madrasah. It also provides [ICON_PEACE]Fé, unlike the University which it replaces.</Text>
+			<Text>A Madrasah é um edifício da era medieval. Ele aumenta a produção científica da cidade e é ainda mais eficaz se a cidade estiver perto de blocos de {TXT_KEY_FEATURE_JUNGLE}. A cidade já deve ter uma {TXT_KEY_BUILDING_LIBRARY} para construir uma Madrasah. Ele também fornece [ICON_PEACE]Fé, ao contrário da {TXT_KEY_BUILDING_UNIVERSITY} que ele substitui. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MADRASAH_TEXT">
 			<Text>"Madrasah" is Arabic for any type of educational institution; although with a religious component, madrasahs were often secular, and could cover anything from elementary to higher learning. Usually associated with a mosque, madrasahs could even specialize in medicine, law, science, philosophy or the education of women. The first madrasah, the Gama'at al-Qarawiyyn, was established in 859 AD by Fatimah al-Fihri, the daughter of a wealthy merchant. During the rule of the Fatimid, Ayyubid and Mamluk dynasties, the practice of sponsoring madrasahs by the ruling, wealthy elite spread across Egypt and the Middle East. The first Ottoman madrasah was founded in 1331 AD in Iznik, and followed the traditions of Sunni Islam. The madrasahs of the Turks and Arabs would, as Europe suffered through the Dark Ages, keep the best of Western knowledge alive, and blend it with that of the East.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MADRASAH_HELP">
-			<Text>+2 [ICON_RESEARCH] Science from Jungle tiles worked by this City.[NEWLINE][NEWLINE]City must have a Library.</Text>
+			<Text>+2 de [ICON_RESEARCH]Ciência de ladrilhos de {TXT_KEY_FEATURE_JUNGLE} explorados por esta cidade.[NEWLINE][NEWLINE]A cidade deve ter uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
 		</Row>
 		<!-- Unit and building overrides -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_HAGIA_SOPHIA_HELP">

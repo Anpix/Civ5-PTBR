@@ -2356,7 +2356,7 @@
 			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]Serraria[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL_REC">
-			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, enquanto mantém sua Floresta intacta.</Text>
+			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, enquanto mantém sua {TXT_KEY_FEATURE_FOREST} intacta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MINE">
 			<Text>Construir [LINK=IMPROVEMENT_MINE]{TXT_KEY_IMPROVEMENT_MINE}[\LINK]</Text>
@@ -2392,16 +2392,16 @@
 			<Text>[COLOR_NEGATIVE_TEXT]Custa[ENDCOLOR] 2 de [ICON_GOLD]Ouro por turno para mantê-la.[NEWLINE][NEWLINE]Uma rede férrea ininterrupta permitirá um movimento extremamente rápido pelos hexágonos.[NEWLINE][NEWLINE]Conectar suas cidades a sua Capital com Ferrovias as proporcionará um bônus de 25% de [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_FOREST">
-			<Text>Derrubar [LINK=FEATURE_FOREST]Floresta[\LINK]</Text>
+			<Text>Derrubar [LINK=FEATURE_FOREST]{TXT_KEY_FEATURE_FOREST}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_FEATURE_HELP">
 			<Text>Permitirá construir outras melhorias neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_JUNGLE">
-			<Text>Desmatar [LINK=FEATURE_JUNGLE]Selva[\LINK]</Text>
+			<Text>Desmatar [LINK=FEATURE_JUNGLE]{TXT_KEY_FEATURE_JUNGLE}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_MARSH">
-			<Text>Remover [LINK=FEATURE_FOREST]Pântano[\LINK]</Text>
+			<Text>Drenar [LINK=FEATURE_FOREST]{TXT_KEY_FEATURE_MARSH}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ROAD">
 			<Text>Construir [LINK=CONCEPT_MOVEMENT]Estrada[\LINK]</Text>
@@ -2774,13 +2774,13 @@
 			<Text>Elimina [ICON_HAPPINESS_4]Infelicidade extra de uma cidade [ICON_OCCUPIED]ocupada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_HELP">
-			<Text>+1 de [ICON_PRODUCTION]Produção para cada hexágono explorado que possua Floresta.</Text>
+			<Text>+1 de [ICON_PRODUCTION]Produção para cada hexágono explorado que possua {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FORGE_HELP">
 			<Text>+15% de [ICON_PRODUCTION]Produção na construção/treinamento de unidades terrestres.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_IRON]Ferro explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade precisa possuir uma fonte de [ICON_IRON]Ferro minerada nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WINDMILL_HELP">
-			<Text>+10% de [ICON_PRODUCTION]Produção quando estiver construindo Edifícios.[NEWLINE][NEWLINE]A cidade não pode estar construída em Colinas.</Text>
+			<Text>+10% de [ICON_PRODUCTION]Produção quando estiver construindo Edifícios.[NEWLINE][NEWLINE]A cidade não pode estar construída em {TXT_KEY_TERRAIN_HILL[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FACTORY_HELP">
 			<Text>Requer 1 de [ICON_RES_COAL]Carvão.</Text>
@@ -2789,7 +2789,7 @@
 			<Text>+1 de [ICON_PRODUCTION]Produção para cada hexágono próximo a um Rio. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve ser construída próxima a um Rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SOLAR_PLANT_HELP">
-			<Text>A cidade deve ser construída no Deserto (ou próxima a ele) e não pode possuir uma Usina Nuclear.[NEWLINE][NEWLINE]A cidade deve possuir uma Fábrica.</Text>
+			<Text>A cidade deve estar construída no {TXT_KEY_TERRAIN_DESERT} (ou próxima a ele) e não pode possuir uma Usina Nuclear.[NEWLINE][NEWLINE]A cidade deve possuir uma Fábrica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NUCLEAR_PLANT_HELP">
 			<Text>Requer 1 de [ICON_RES_URANIUM]Urânio. A cidade não pode possuir uma Usina Solar.</Text>
@@ -2798,7 +2798,7 @@
 			<Text>+50% de [ICON_PRODUCTION]Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
-			<Text>Fornece +1 de cada Recurso de Luxo explorado pela cidade. Cada fonte de [ICON_RES_OIL]Petróleo e cada Oásis fornece +2 de [ICON_GOLD]Ouro.</Text>
+			<Text>Fornece +1 de cada Recurso de Luxo explorado pela cidade. Cada fonte de [ICON_RES_OIL]Petróleo e cada {TXT_KEY_FEATURE_OASIS} fornece +2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BANK_HELP">
 			<Text>A cidade deve possuir um Mercado.</Text>
@@ -2822,7 +2822,7 @@
 			<Text>A cidade deve estar construída próxima a uma {TXT_KEY_TERRAIN_MOUNTAIN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
-			<Text>+2 de [ICON_RESEARCH]Ciência por hexágonos com Selva explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma Biblioteca.</Text>
+			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com {TXT_KEY_FEATURE_JUNGLE} explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PUBLIC_SCHOOL_HELP">
 			<Text>+1 de [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos na cidade, que deve possuir uma Universidade.</Text>
@@ -2906,7 +2906,7 @@
 			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas em todas as cidades. Uma [ICON_GREAT_PEOPLE]Grande Pessoa de sua escolha aparece próxima à [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP">
-			<Text>+25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Rotas Comerciais.[NEWLINE][NEWLINE]A cidade deve ser construída a no mínimo 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
+			<Text>+25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Rotas Comerciais.[NEWLINE][NEWLINE]A cidade deve ser construída a no mínimo 2 hexágonos de distância de uma {TXT_KEY_TERRAIN_MOUNTAIN} que esteja dentro do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_KREMLIN_HELP">
 			<Text>+25% de eficácia aos edifícios defensivos em todas as cidades.</Text>
@@ -3009,7 +3009,7 @@
 			<Text>A Grande Expedição Guerreira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
-			<Text>Em território amigo, Florestas e Selvas são como Estradas. Após descobrir A Roda, esses hexágonos podem criar [ICON_CONNECTED]Conexões com Cidades.</Text>
+			<Text>Em território amigo, {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]} são como Estradas. Após descobrir a Roda, esses hexágonos podem criar [ICON_CONNECTED]Conexões com Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER_SHORT">
 			<Text>A Glória de Roma</Text>
@@ -3349,7 +3349,7 @@
 			<Text>Além de +5 de [ICON_HAPPINESS_1]Felicidade, a Torre Eiffel também fornece +1 de [ICON_HAPPINESS_1]Felicidade adicional para cada duas Políticas que você tenha adotado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP">
-			<Text>Cada fonte explorada de [ICON_RES_MARBLE]Mármore e [ICON_RES_STONE]Pedra pela cidade fornecerá +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade deve possuir ao menos um desses recursos explorados por uma {TXT_KEY_IMPROVEMENT_QUARRY}.[NEWLINE][NEWLINE]A cidade não deve estar em Planícies.</Text>
+			<Text>Cada fonte explorada de [ICON_RES_MARBLE]Mármore e [ICON_RES_STONE]Pedra pela cidade fornecerá +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade deve possuir ao menos um desses recursos explorados por uma {TXT_KEY_IMPROVEMENT_QUARRY}.[NEWLINE][NEWLINE]A cidade não deve estar em {TXT_KEY_TERRAIN_PLAINS[2]}.</Text>
 		</Row>
 		<!-- 383 -->
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_SCIENCE_OFF">
@@ -3365,10 +3365,10 @@
 		<!-- 674 -->
 		<Row Tag="TXT_KEY_DIPLO_RESURRECTED">
 		  <Text>[COLOR_POSITIVE_TEXT]Você restaurou a civilização deles após eles serem aniquilados![ENDCOLOR]</Text>
-		</Row>		
+		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WAT_HELP">
-			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com Selva que estejam sendo trabalhados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma Biblioteca.</Text>
-		</Row>		
+			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com {TXT_KEY_FEATURE_JUNGLE} que estejam sendo trabalhados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DECLARATION_OF_FRIENDSHIP">
 			<Text>DECLARAÇÃO DE AMIZADE</Text>
 		</Row>
