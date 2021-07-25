@@ -43,13 +43,13 @@
 			<Text>Mostre a unidade em espera</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY">
-			<Text>Ruínas antigas escondem segredos que podem avançar sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT]Envie uma unidade para as ruínas antigas[/COLOR] para ver o que ela esconde. </Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} escondem segredos que podem avançar sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT]Envie uma unidade para as {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}[/COLOR] para ver o que ela esconde. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_DISPLAY">
-			<Text>Ruínas antigas!</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON">
-			<Text>Mostre a ruína</Text>
+			<Text>Mostre a {TXT_KEY_IMPROVEMENT_GOODY_HUT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
 			<Text>Uma de suas unidades está próxima de uma unidade inimiga. Para atacar, ordene que uma unidade de combate ocupe o hexágono onde o inimigo está.  Em combate, ambas as unidades atacam e se defendem e podem sofrer danos. Ao final do combate, uma das duas pode ser destruída.</Text>
@@ -709,10 +709,10 @@
 			<Text>*METAS*</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS">
-			<Text>Encontre todas as {1_Num} Ruínas Antigas.</Text>
+			<Text>Encontre todas as {1_Num} {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS_PROGRESS">
-			<Text>Explore todas as {1_Num} Ruínas Antigas. ({2_Num} {2_Num: plural 1?explorada; other?exploradas;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Explore todas as {1_Num} {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}. ({2_Num} {2_Num: plural 1?explorada; other?exploradas;}, {3_Num} {3_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TUTORIAL_1_COMPLETE">
 			<Text>Você completou o tutorial Movimento e Exploração! Belo trabalho!</Text>
@@ -757,13 +757,13 @@
 			<Text>Construa melhoramentos em {1_Num} recursos. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS">
-			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]alimento.</Text>
+			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_FARM[2]} que produzam pelo menos {2_Num} de [ICON_FOOD]alimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_PROGRESS">
-			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]alimento. ({3_Num} {3_Num: plural 1?fazenda; other?fazendas;} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
+			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_FARM[2]} que produzam pelo menos {2_Num} de [ICON_FOOD]alimento. ({3_Num} {3_Num: plural 1?{TXT_KEY_IMPROVEMENT_FARM}; other?{TXT_KEY_IMPROVEMENT_FARM[2]};} {3_Num: plural 1?construída; other?construídas;}, {4_Num} {4_Num: plural 1?restante; other?restantes;})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_COMPLETE">
-			<Text>Construa {1_Num} fazendas que produzam pelo menos {2_Num} de [ICON_FOOD]alimento. Completo!</Text>
+			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_FARM[2]} que produzam pelo menos {2_Num} de [ICON_FOOD]alimento. Completo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES">
 			<Text>Construa {1_Num} {TXT_KEY_IMPROVEMENT_MINE[2]} que gerem pelo menos {2_Num} de [ICON_PRODUCTION]Produção.</Text>
@@ -979,7 +979,7 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui todos os seus recursos aquáticos melhorados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_FOOD">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_FOOD]alimentos para crescer e se tornar uma grande cidade. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir fazendas nas proximidades.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_FOOD]alimentos para crescer e se tornar uma grande cidade. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir {TXT_KEY_IMPROVEMENT_FARM[2]} nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] precisa de [ICON_PRODUCTION]Produção para construir mais rápido. Use seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir {TXT_KEY_IMPROVEMENT_MINE[2]} nas proximidades.</Text>

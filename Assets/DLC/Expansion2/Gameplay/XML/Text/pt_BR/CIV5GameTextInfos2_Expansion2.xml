@@ -174,7 +174,7 @@
 			<Text>Uma unidade naval brutalmente poderosa da Era Medieval, usada para tomar o controle dos mares com seu ataque a distância. Melhor no ataque e defesa que a {TXT_KEY_UNIT_GALLEASS} padrão que ela substitui, mas mais dispendiosa. Só pode ser construída por Veneza.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_PATHFINDER">
-			<Text>Excelente na exploração e temível em combate, esta unidade única Shoshone substitui o {TXT_KEY_UNIT_SCOUT}. Ela possui uma promoção que a permite escolher o benefício quando descobre uma ruína antiga.</Text>
+			<Text>Excelente na exploração e temível em combate, esta unidade única Shoshone substitui o {TXT_KEY_UNIT_SCOUT}. Ela possui uma promoção que a permite escolher o benefício quando descobre uma {TXT_KEY_IMPROVEMENT_GOODY_HUT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_COMANCHE_RIDERS">
 			<Text>Unidade montada especializada em ataques rápidos. Só pode ser treinada pelos Shoshones.</Text>
@@ -442,7 +442,7 @@
 			<Text>Língua Nativa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER_HELP">
-			<Text>Pode escolher o benefício quando descobre Ruínas Antigas.</Text>
+			<Text>Pode escolher o benefício quando descobre {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING">
 			<Text>Treinamento de Altitude</Text>
@@ -578,7 +578,7 @@
 		</Row>
 		<!-- BUILDINGS HELP -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
-			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Mansões) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
+			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK[2]}, Moais, Mansões) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
 			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa para a geração de um Grande Artista. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa por especialista).</Text>

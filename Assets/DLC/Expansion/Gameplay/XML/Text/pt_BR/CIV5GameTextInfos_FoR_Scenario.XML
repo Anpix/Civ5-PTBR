@@ -132,7 +132,7 @@
 			<Text>Theodosian Walls</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS">
-			<Text>+10% [ICON_STRENGTH] Combat Strength bonus if within 2 tiles of a Fort. Great Generals spawn 50% faster and provide an additional 10% combat bonus.</Text>
+			<Text>+10% de [ICON_STRENGTH]Bônus de Força de Combate se a 2 ladrilhos de proximidade de um {TXT_KEY_IMPROVEMENT_FORT}. {TXT_KEY_UNIT_GREAT_GENERAL[2]} aparecem 50% mais rápido e proporcionam 10% adicionais de Bônus de Combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST_SHORT">
 			<Text>Healthy Plundering</Text>
@@ -399,10 +399,10 @@
 			<Text>Silk Road</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Silk Road[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold for each trading post. [ICON_GOLDEN_AGE] Golden Ages last 50% longer.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD}[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro por cada {TXT_KEY_IMPROVEMENT_TRADING_POST}. [ICON_GOLDEN_AGE]Idades Douradas duram 50% mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_DESC">
-			<Text>Silk Road Civilopedia help</Text>
+			<Text>{TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD} Civilopedia help</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA">
 			<Text>Shahnama</Text>

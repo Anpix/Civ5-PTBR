@@ -1036,10 +1036,10 @@
             <Text>Espião</Text>
         </Row>       <!--Choose Goody Hut Reward Popup -->
         <Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_TITLE">
-            <Text>Escolha Bônus de Ruínas Antigas</Text>
+            <Text>Escolha Bônus de {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_DESCRIPTION">
-            <Text>Escolha Bônus de Ruínas Antigas da Lista</Text>
+            <Text>Escolha Bônus de {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} da Lista</Text>
         </Row>
         <Row Tag="TXT_KEY_EO_TRADE">
             <Text>Conexões entre Cidades</Text>

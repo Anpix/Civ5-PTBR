@@ -163,93 +163,93 @@
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CAMP">
 			<Text>Acampamento de Caça|Acampamentos de Caça</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITY_RUINS">
-			<Text>Ruínas de uma cidade</Text>
+			<Text>Cidade em Ruínas|Cidades em Ruínas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_FARM">
 			<Text>Fazenda|Fazendas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_FISHING_BOATS">
 			<Text>Barco Pesqueiro|Barcos Pesqueiros</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_FORT">
 			<Text>Forte|Fortes</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT">
-			<Text>Ruínas antigas</Text>
+			<Text>Ruína Antiga|Ruínas Antigas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_ENCAMPMENT">
 			<Text>Acampamento|Acampamentos</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_LUMBERMILL">
 			<Text>Serraria|Serrarias</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_MINE">
 			<Text>Mina|Minas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM">
-			<Text>Plataforma Costeira|Plataformas Costeiras</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Plataforma Petrolífera|Plataformas Petrolíferas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_PASTURE">
 			<Text>Pasto|Pastos</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_PLANTATION">
 			<Text>Plantação|Plantações</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_QUARRY">
 			<Text>Pedreira|Pedreiras</Text>
-			<Gender>feminine|feminine</Gender>
+			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_TRADING_POST">
 			<Text>Posto Comercial|Postos Comerciais</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_WELL">
 			<Text>Poço de Petróleo|Poços de Petróleo</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_LANDMARK">
-			<Text>Ponto de Referência|Pontos de Referência</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Marco de Referência|Marcos de Referência</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_ACADEMY">
 			<Text>Academia|Academias</Text>
-			<Gender>feminine|feminine</Gender>
+			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE">
 			<Text>Alfândega|Alfândegas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_MANUFACTORY">
 			<Text>Manufatura|Manufaturas</Text>
@@ -258,8 +258,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
 			<Text>Cidadela|Cidadelas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_INVISIBLE_SUBMARINE">
 			<Text>Submarinos</Text>

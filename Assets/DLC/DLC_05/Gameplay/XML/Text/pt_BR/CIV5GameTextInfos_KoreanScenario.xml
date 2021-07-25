@@ -116,19 +116,19 @@
 			<Text>Wajo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO">
-			<Text>Construir um [LINK=IMPROVEMENT_WAJO]Wajo[\LINK]</Text>
+			<Text>Construir um [LINK=IMPROVEMENT_WAJO]{TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_REC">
 			<Text>Ele aumentará a [ICON_STRENGTH]Defesa de qualquer unidade militar estacionada neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_HELP">
-			<Text>+50% de [ICON_STRENGTH]Força de Defesa para qualquer unidade militar estacionada neste hexágono. Só pode ser construído pelo Japão e em um hexágono costeiro. Qualquer unidade inimiga que terminar seu turno próximo ao Wajo, recebe 2 pontos de dano.</Text>
+			<Text>+50% de [ICON_STRENGTH]Força de Defesa para qualquer unidade militar estacionada neste hexágono. Só pode ser construído pelo Japão e em um hexágono costeiro. Qualquer unidade inimiga que terminar seu turno próximo ao {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO}, recebe 2 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_HELP">
-			<Text>O Wajo é a melhoria exclusiva dos Japoneses, substituindo Fortes neste cenário. Ele deve ser construído em hexágonos costeiros. O Wajo melhora em 50% a Força de Defesa de qualquer unidade militar estacionada ali e qualquer unidade inimiga que terminar seu turno próximo ao Wajo recebe 2 pontos de dano.</Text>
+			<Text>O {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} é a melhoria exclusiva dos Japoneses, substituindo {TXT_KEY_IMPROVEMENT_FORT[2]} neste cenário. Ele deve ser construído em hexágonos costeiros. O {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} melhora em 50% a Força de Defesa de qualquer unidade militar estacionada ali e qualquer unidade inimiga que terminar seu turno próximo ao {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} recebe 2 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_TEXT">
-			<Text>O Wajo é uma melhoria especial que não aumenta a produtividade de um hexágono ou fornece acesso a um recurso. Em vez disso, um Wajo inflige 2 de dano em unidades inimigas que terminam seu turno adjacentes a ele e melhora o bônus defensivo em 50% para as unidades estacionadas naquele hexágono. No entanto, Wajos não fornecem um bônus de defesa para as unidades em território inimigo. [NEWLINE][NEWLINE]Durante a invasão Japonesa da Coréia, conhecida como a Guerra Imjin, os militares Japoneses construíram numerosos castelos às pressas, conhecidos como Wajos, ao longo da costa. Utilizados como postos e guarnições, principalmente ao longo da costa sul da Coréia, os militares normalmente construíam colinas artificiais ou platôs em que eles colocavam paredes de madeira, torres e estruturas internas que alinhavam ao estilo característico dos tradicionais castelos Japoneses.</Text>
+			<Text>O {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} é uma melhoria especial que não aumenta a produtividade de um hexágono ou fornece acesso a um recurso. Em vez disso, um {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} inflige 2 de dano em unidades inimigas que terminam seu turno adjacentes a ele e melhora o bônus defensivo em 50% para as unidades estacionadas naquele hexágono. No entanto, Wajos não fornecem um bônus de defesa para as unidades em território inimigo. [NEWLINE][NEWLINE]Durante a invasão Japonesa da Coréia, conhecida como a Guerra Imjin, os militares Japoneses construíram numerosos castelos às pressas, conhecidos como Wajos, ao longo da costa. Utilizados como postos e guarnições, principalmente ao longo da costa sul da Coréia, os militares normalmente construíam colinas artificiais ou platôs em que eles colocavam paredes de madeira, torres e estruturas internas que alinhavam ao estilo característico dos tradicionais castelos Japoneses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_VP_FUTURE_TECH">
 			<Text>Mortos em Combate</Text>
@@ -167,7 +167,7 @@
 			<Text>O exército Chinês derrotou uma rebelião na província Ningxia, ao norte. Novos reforços Chineses estão a caminho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_WAJO_REINFORCEMENTS">
-			<Text>Reforços Japoneses desembarcaram nas fortificações Wajo que eles construíram na península Coreana.</Text>
+			<Text>Reforços Japoneses desembarcaram nas fortificações {TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO} que eles construíram na península Coreana.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KOREA_SCENARIO_JAPANESE_REINFORCEMENTS">
 			<Text>Reforços Japoneses desembarcaram na península Coreana.</Text>

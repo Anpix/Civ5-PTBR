@@ -342,10 +342,10 @@
 			<Text>O que são as ruínas antigas e o que fazem?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_ANCIENTRUINS_HEADING2_BODY">
-			<Text>As ruínas antigas são os restos de civilizações passadas que surgiram e caíram muito antes de sua existência. Elas proporcionam um benefício aleatório para a primeira civilização que colocar uma unidade no hexágono em que se encontram. As ruínas são destruídas quando se entra nelas.[NEWLINE][NEWLINE]Ruínas são boas. Encontre todas que puder antes que outras civilizações o façam!</Text>
+			<Text>As {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} são os restos de civilizações passadas que surgiram e caíram muito antes de sua existência. Elas proporcionam um benefício aleatório para a primeira civilização que colocar uma unidade no hexágono em que se encontram. As {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} são destruídas quando se entra nelas.[NEWLINE][NEWLINE]{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} são boas. Encontre todas que puder antes que outras civilizações o façam!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_ANCIENTRUINS_HEADING2_TITLE">
-			<Text>Ruínas Antigas</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_BARBARIANS_ADV_QUEST">
 			<Text>Quem são estes bárbaros idiotas?</Text>
@@ -366,13 +366,13 @@
 			<Text>Civis Capturados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_CULTURE_ADV_QUEST">
-			<Text>Como uma ruína antiga pode lhe proporcionar cultura?</Text>
+			<Text>Como uma {TXT_KEY_IMPROVEMENT_GOODY_HUT} pode lhe proporcionar cultura?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_CULTURE_HEADING4_BODY">
-			<Text>A ruína lhe proporciona cultura a sua civilização.</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_GOODY_HUT} lhe proporciona cultura a sua civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_CULTURE_HEADING4_TITLE">
-			<Text>Cultura de Ruínas Antigas</Text>
+			<Text>Cultura de {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_DESTROYING_ADV_QUEST">
 			<Text>O que consegue se destruir um acampamento bárbaro?</Text>
@@ -387,16 +387,16 @@
 			<Text>O que é um acampamento bárbaro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_ENCAMPMENTS_HEADING3_BODY">
-			<Text>Os bárbaros vem de "acampamentos" que podem aparecer de forma aleatória em qualquer lugar que não pode ser visto por uma unidade. Em poucos turnos, o acampamento criará outra unidade bárbara que irá se dirigir até a civilização mais próxima e começará a causar problemas. A única maneira de acabar com isso é encontrar o acampamento e destruí-lo. Os acampamentos costumam ser protegidos por pelo menos uma unidade, portanto, são presas fáceis.</Text>
+			<Text>Os bárbaros vêm de acampamentos que podem aparecer de forma aleatória em qualquer lugar que não pode ser visto por uma unidade. Em poucos turnos, o acampamento criará outra unidade bárbara que irá se dirigir até a civilização mais próxima e começará a causar problemas. A única maneira de acabar com isso é encontrar o acampamento e destruí-lo. Os acampamentos costumam ser protegidos por pelo menos uma unidade, portanto, são presas fáceis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_ENCAMPMENTS_HEADING3_TITLE">
 			<Text>Acampamentos Bárbaros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_FREETECH_ADV_QUEST">
-			<Text>Como pode uma ruína antiga te ajudar com tecnologia?</Text>
+			<Text>Como pode uma {TXT_KEY_IMPROVEMENT_GOODY_HUT} te ajudar com tecnologia?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_FREETECH_HEADING4_BODY">
-			<Text>A ruína proporciona a sua civilização uma tecnologia grátis.</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_GOODY_HUT} proporciona a sua civilização uma tecnologia grátis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_FREETECH_HEADING4_TITLE">
 			<Text>Tecnologia Grátis</Text>
@@ -408,10 +408,10 @@
 			<Text>Ruínas e Bárbaros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_MAP_ADV_QUEST">
-			<Text>Como uma ruína antiga te ajudar a explorar o mapa?</Text>
+			<Text>Como uma {TXT_KEY_IMPROVEMENT_GOODY_HUT} te ajudar a explorar o mapa?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_MAP_HEADING4_BODY">
-			<Text>A ruína proporciona um mapa da área em volta (dissipará a névoa da guerra até certo número de hexágonos).</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_GOODY_HUT} proporciona um mapa da área em volta (dissipará a névoa da guerra até certo número de hexágonos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_MAP_HEADING4_TITLE">
 			<Text>Mapa</Text>
@@ -444,7 +444,7 @@
 			<Text>Limites dos pontos de experiência</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_RUINBENEFITS_ADV_QUEST">
-			<Text>Quais benefícios poderei obter de uma ruína antiga?</Text>
+			<Text>Quais benefícios poderei obter de uma {TXT_KEY_IMPROVEMENT_GOODY_HUT}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_RUINBENEFITS_HEADING3_BODY">
 			<Text>As ruínas antigas podem fornecer diferentes benefícios.</Text>
@@ -453,10 +453,10 @@
 			<Text>Benefícios das ruínas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_SURVIVORS_ADV_QUEST">
-			<Text>Como ganhar população das cidades a partir de uma ruína antiga?</Text>
+			<Text>Como ganhar população das cidades a partir de uma {TXT_KEY_IMPROVEMENT_GOODY_HUT}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_SURVIVORS_HEADING4_BODY">
-			<Text>As ruínas contém sobreviventes da civilização anterior. Eles se mudam para uma de suas cidades, aumentando em 1 a sua população.</Text>
+			<Text>As {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} podem ter sobreviventes da civilização anterior. Eles se mudam para uma de suas cidades, aumentando em 1 a sua população.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_SURVIVORS_HEADING4_TITLE">
 			<Text>Sobreviventes</Text>
@@ -471,10 +471,10 @@
 			<Text>O Fim dos Bárbaros</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_TREASURE_ADV_QUEST">
-			<Text>Como uma ruína antiga pode proporcionar ouro?</Text>
+			<Text>Como uma {TXT_KEY_IMPROVEMENT_GOODY_HUT} pode proporcionar ouro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_TREASURE_HEADING4_BODY">
-			<Text>A ruína proporciona ouro para sua civilização!</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_GOODY_HUT} proporciona ouro para sua civilização!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_TREASURE_HEADING4_TITLE">
 			<Text>Tesouro</Text>
@@ -489,7 +489,7 @@
 			<Text>Unidades Bárbaras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_WEAPONS_ADV_QUEST">
-			<Text>Como uma ruína antiga podem atualizar uma de suas unidades?</Text>
+			<Text>Como uma {TXT_KEY_IMPROVEMENT_GOODY_HUT} pode atualizar uma de suas unidades?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_WEAPONS_HEADING4_BODY">
 			<Text>A unidade que entra no hexágono é atualizada e convertida em uma unidade mais avançada (por exemplo, um Guerreiro pode se converter em um {TXT_KEY_UNIT_SWORDSMAN}).</Text>
@@ -2475,7 +2475,7 @@
 			<Text>Lagos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_LAKE_TEXT">
-			<Text>Um lago é qualquer corpo d'água, com dez ou menos hexágonos de tamanho, que esteja cercado por terra (qualquer corpo maior de água é considerado oceano). Quando explorados, os lagos fornecem 2 de Alimento e 1 de Ouro à cidade mais próxima. Lagos são fontes de água fresca, permitindo a construção de fazendas em {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_TUNDRA[2]} próximas. Fazendas perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada.</Text>
+			<Text>Um lago é qualquer corpo d'água, com dez ou menos hexágonos de tamanho, que esteja cercado por terra (qualquer corpo maior de água é considerado oceano). Quando explorados, os lagos fornecem 2 de Alimento e 1 de Ouro à cidade mais próxima. Lagos são fontes de água fresca, permitindo a construção de {TXT_KEY_IMPROVEMENT_FARM[2]} em {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_TUNDRA[2]} próximas. {TXT_KEY_IMPROVEMENT_FARM[2]} perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_RIVER_TITLE">
 			<Text>Rios</Text>
@@ -2484,7 +2484,7 @@
 			<Text>Pontos Restantes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FEATURES_RIVER_TEXT">
-			<Text>Quando explorados pelas cidades, hexágonos adjacentes aos rios recebem um bônus de 1 Ouro. Além do mais, rios são fontes de água fresca, permitindo a construção de fazendas em {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_TUNDRA[2]} próximas. Fazendas perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada. Unidades gastam todos os seus pontos de movimento quando cruzam rios. Isso ocorre mesmo quando os hexágonos estão conectados por estradas, até que a civilização pesquise a tecnologia "Engenharia". Finalmente, unidades recebem uma penalidade de 20% quando atacam por sobre um rio.</Text>
+			<Text>Quando explorados pelas cidades, hexágonos adjacentes aos rios recebem um bônus de 1 Ouro. Além do mais, rios são fontes de água fresca, permitindo a construção de {TXT_KEY_IMPROVEMENT_FARM[2]} em {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_TUNDRA[2]} próximas. {TXT_KEY_IMPROVEMENT_FARM[2]} perto de água fresca recebem adicionalmente +1 de Alimento quando a tecnologia "Cargos Públicos" for pesquisada. Unidades gastam todos os seus pontos de movimento quando cruzam rios. Isso ocorre mesmo quando os hexágonos estão conectados por estradas, até que a civilização pesquise a tecnologia "Engenharia". Finalmente, unidades recebem uma penalidade de 20% quando atacam por sobre um rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FLORENCE_TEXT">
 			<Text>Florença (em italiano, "Firenze") é uma das cidades mais interessantes e belas da Europa. Encontra-se no rio Arno, no norte da Itália, no coração da região da bonita Toscana. Florença foi fundada em 59 a.C., por Júlio César, como uma solução para os ex-soldados Romanos, no local estratégico onde a Via Cássia (a principal rota norte de Roma) atravessa a Arno. Ela foi construída em um padrão de xadrez, no estilo de um acampamento militar. Sua posição permitiu Florença prosperar com o comércio entre Roma e o norte e, em 300 d.C., a cidade se tornou a capital da província de Tuscia (Toscana). Pelos próximos cem anos, a cidade ficou sob ataque de ambos os Ostrogodos e Bizantinos, e seu comando mudou de mãos várias vezes até 774 d.C., quando Carlos Magno assumiu e manteve a cidade, acabando com os ataques estrangeiros.[NEWLINE][NEWLINE]Florença recuperou a sua riqueza e proeminência nos séculos seguintes, tornando-se uma das mais ricas e poderosas Cidades-Estado de qualquer lugar da Europa. Em 1252, a República de Florença lançou sua própria moeda, o florim de ouro. Florins foram aceitos em grande parte pelos do Mediterrâneo e na Europa, e comerciantes e banqueiros florentinos rapidamente se espalharam por todo o mundo conhecido.[NEWLINE][NEWLINE]Durante a Renascença, Florença era controlada por várias famílias extremamente ricas e implacáveis, incluindo os Médici. Quando não está envolvida nas lutas mortais entre si pelo poder, a nobreza de Florença era grande patrona das artes; Lorenzo de Médici sozinho comissionou obras de Michelangelo, Botticelli e Leonardo da Vinci, para citar apenas três dos homens brilhantes que ele apoiava. Nos meados do século XV, os Médici foram feitos os Grão-Duques hereditários da Toscana, governando a província e Florença durante vários séculos. Em 1737, Florença se tornou parte dos territórios da Áustria, em 1859 ela foi transferida para o Reino da Sardenha-Piemonte e, em 1861, tornou-se parte do Reino recém-unido da Itália.[NEWLINE][NEWLINE]A Florença moderna é um próspero centro turístico de cerca de 500.000 cidadãos; uma cidade que aprecia suas histórias Romana, Medieval e Renascentista. Ela continua sendo um dos lugares mais bonitos e evocativos na Europa e, na verdade, em todo o mundo.</Text>
@@ -2890,10 +2890,10 @@
 			<Text>Melhorias Costeiras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ACADEMY_TEXT">
-			<Text>Uma Academia é uma instituição onde as crianças recebem uma educação fundamental (ou seja, pré-universitária). Existem Academias de diferentes tipos - militares, governamentais, religiosas etc. Algumas são particulares, abertas apenas para crianças de famílias ricas, poderosas ou influentes, enquanto outras são abertas a todas as crianças que cumprirem os seus rigorosos requisitos. Eton College na Inglaterra é uma das Academias mais famosas do mundo, tendo formado os melhores e mais brilhantes meninos da Inglaterra com idades entre 13 e 18, desde 1440.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_ACADEMY} é uma instituição onde as crianças recebem uma educação fundamental (ou seja, pré-universitária). Existem {TXT_KEY_IMPROVEMENT_ACADEMY[2]} de diferentes tipos - militares, governamentais, religiosas etc. Algumas são particulares, abertas apenas para crianças de famílias ricas, poderosas ou influentes, enquanto outras são abertas a todas as crianças que cumprirem os seus rigorosos requisitos. Eton College na Inglaterra é uma das {TXT_KEY_IMPROVEMENT_ACADEMY[2]} mais famosas do mundo, tendo formado os melhores e mais brilhantes meninos da Inglaterra com idades entre 13 e 18, desde 1440.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ANCIENTRUINS">
-			<Text>Ruínas Antigas</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ANCIENTRUINS_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -2926,10 +2926,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITADEL_TEXT">
-			<Text>Uma Cidadela é uma poderosa fortificação que só pode ser construída por um Grande General, normalmente próxima de uma cidade ou terrenos que demandam maior cuidado. A Acrópole, em Atenas, Grécia, é um exemplo de uma poderosa Cidadela. Tais estruturas são quase impossíveis de serem tomadas por um ataque direto. Elas são capazes de resistir a cercos prolongados antes de cair. Qualquer unidade estacionada dentro de uma Cidadela recebe um bônus de 100% na Força de Defesa. Além disso, qualquer inimigo que terminar seu turno próximo à Cidadela receberá 3 pontos de dano.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_CITADEL} é uma poderosa fortificação que só pode ser construída por um {TXT_KEY_UNIT_GREAT_GENERAL}, normalmente próxima de uma cidade ou terrenos que demandam maior cuidado. A Acrópole, em Atenas, Grécia, é um exemplo de uma poderosa {TXT_KEY_IMPROVEMENT_CITADEL}. Tais estruturas são quase impossíveis de serem tomadas por um ataque direto. Elas são capazes de resistir a cercos prolongados antes de cair. Qualquer unidade estacionada dentro de uma {TXT_KEY_IMPROVEMENT_CITADEL} recebe um bônus de 100% na Força de Defesa. Além disso, qualquer unidade inimiga que terminar seu turno próxima à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITYRUINS">
-			<Text>Ruínas de uma Cidade</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_CITY_RUINS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITYRUINS_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -2944,10 +2944,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CUSTOMS_HOUSE_TEXT">
-			<Text>Uma Alfândega é um edifício governamental onde são pagos impostos sobre as mercadorias importadas e exportadas de um país. Ela garante que o governo fique com seu pedaço (ou "parte justa", se você preferir) dos lucros sobre cada movimentação de cargas em de um porto. Dada à quantidade de dinheiro envolvido, as oportunidades para corrupção são ilimitadas. Ao longo da história, funcionários aduaneiros são famosos por não resistirem à tentação.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE} é um edifício governamental onde são pagos impostos sobre as mercadorias importadas e exportadas de um país. Ela garante que o governo fique com seu pedaço (ou "parte justa", se você preferir) dos lucros sobre cada movimentação de cargas em de um porto. Dada à quantidade de dinheiro envolvido, as oportunidades para corrupção são ilimitadas. Ao longo da história, funcionários aduaneiros são famosos por não resistirem à tentação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ENCAMPMENT">
-			<Text>Acampamento</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_ENCAMPMENT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ENCAMPMENT_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -2977,10 +2977,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FARM">
-			<Text>Fazenda</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FARM}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FARM_TEXT">
-			<Text>A agricultura é uma das primeiras e mais importantes profissões humanas, pois permitiu que a humanidade parasse de migrar e se estabelece em um local, sem esgotar os recursos locais. Fazendas podem ser construídas na maior parte das terras para melhorar a produção de alimentos de um hexágono.</Text>
+			<Text>A agricultura é uma das primeiras e mais importantes profissões humanas, pois permitiu que a humanidade parasse de migrar e se estabelece em um local, sem esgotar os recursos locais. {TXT_KEY_IMPROVEMENT_FARM[2]} podem ser construídas na maior parte das terras para melhorar a produção de alimentos de um hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FARM_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3040,10 +3040,10 @@
 			<Text>Um {TXT_KEY_IMPROVEMENT_LANDMARK} é qualquer artefato magnífico, estrutura, trabalho de arte ou maravilha da natureza que atrai visitantes a um local. A Coluna de Nelson, em Londres, é um {TXT_KEY_IMPROVEMENT_LANDMARK}, assim como o Monte Rushmore, nos Estados Unidos. Não só objetos de grandes dimensões são considerados {TXT_KEY_IMPROVEMENT_LANDMARK}: a Maior Bola de Barbante do Mundo, embora não tenha uma grande dimensão, pode muito bem valer à pena uma visita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LUMBERMILL">
-			<Text>Serraria</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_LUMBERMILL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LUMBERMILL_TEXT">
-			<Text>Uma serraria permite melhorar o volume de [ICON_PRODUCTION]Produção dos hexágonos de {TXT_KEY_FEATURE_FOREST}.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_LUMBERMILL} permite melhorar o volume de [ICON_PRODUCTION]Produção dos hexágonos de {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LUMBERMILL_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3079,10 +3079,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM">
-			<Text>Plataforma Costeira</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TEXT">
-			<Text>A Plataforma Costeira é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir poços para acessar o petróleo que está em terra). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constrói uma plataforma costeira.</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM} é uma importante melhoria da fase avançada do jogo, pois proporciona o acesso ao altamente valorizado recurso petróleo, mas apenas quando esse recurso está localizado no oceano (trabalhadores podem construir {TXT_KEY_IMPROVEMENT_WELL[2]} para acessar o óleo que está em terra). {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando se constrói uma plataforma costeira.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3118,7 +3118,7 @@
 			<Text>{TXT_KEY_IMPROVEMENT_PLANTATION}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANTATION_TEXT">
-			<Text>{TXT_KEY_IMPROVEMENT_PLANTATION} é outra forma de nomear uma fazenda. É geralmente aplicada a grandes propriedades localizadas em locais semi-tropicais ou tropicais, e especialmente aqueles que produzem lavouras para exportação e não para o consumo local. O termo adquiriu um sentido pejorativo devido a sua associação com a escravidão nos Estados Unidos e no Caribe, mas não há nada inerentemente mau sobre uma {TXT_KEY_IMPROVEMENT_PLANTATION} bem administrada, que emprega trabalhadores livres.</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_PLANTATION} é outra forma de nomear uma {TXT_KEY_IMPROVEMENT_FARM}. É geralmente aplicada a grandes propriedades localizadas em locais semi-tropicais ou tropicais, e especialmente aqueles que produzem lavouras para exportação e não para o consumo local. O termo adquiriu um sentido pejorativo devido a sua associação com a escravidão nos Estados Unidos e no Caribe, mas não há nada inerentemente mau sobre uma {TXT_KEY_IMPROVEMENT_PLANTATION} bem administrada, que emprega trabalhadores livres.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANTATION_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3201,10 +3201,10 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE1_TEXT">
-			<Text>Algumas melhorias aumentam a produção de alimentos (fazenda), ciência (escola) ou a produtividade (mina) dos hexágonos. Outras podem fornecer acesso a recursos - uma plantação, por exemplo, pode ser construída sobre um suprimento de bananas, proporcionando o acesso ao benefício econômico associado ao recurso.</Text>
+			<Text>Algumas melhorias aumentam a produção de alimentos ({TXT_KEY_IMPROVEMENT_FARM}), ciência (escola) ou a produtividade ({TXT_KEY_IMPROVEMENT_MINE}) dos hexágonos. Outras podem fornecer acesso a recursos - uma {TXT_KEY_IMPROVEMENT_PLANTATION}, por exemplo, pode ser construída sobre um suprimento de bananas, proporcionando o acesso ao benefício econômico associado ao recurso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE2_TEXT">
-			<Text>Em alguns casos, você poderá escolher quais melhorias construir. Por exemplo, em um hexágono de {TXT_KEY_TERRAIN_PLAINS} você poderá construir uma fazenda, para melhorar a sua produção de alimentos, uma mina, para melhorar sua produtividade, ou uma escola, para melhorar a sua produção científica. No entanto, se o hexágono contém um recurso, só é possível construir a melhoria que acessa esse recurso - você não pode construir uma fazenda sobre um hexágono contendo cavalos. Você só pode construir um {TXT_KEY_IMPROVEMENT_PASTURE} ali.</Text>
+			<Text>Em alguns casos, você poderá escolher quais melhorias construir. Por exemplo, em um hexágono de {TXT_KEY_TERRAIN_PLAINS} você poderá construir uma {TXT_KEY_IMPROVEMENT_FARM}, para melhorar a sua produção de alimentos, uma {TXT_KEY_IMPROVEMENT_MINE}, para melhorar sua produtividade, ou uma escola, para melhorar a sua produção científica. No entanto, se o hexágono contém um recurso, só é possível construir a melhoria que acessa esse recurso - você não pode construir uma {TXT_KEY_IMPROVEMENT_FARM} sobre um hexágono contendo cavalos. Você só pode construir um {TXT_KEY_IMPROVEMENT_PASTURE} ali.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE3_TEXT">
 			<Text>Para construir uma melhoria, mova um trabalhador para o hexágono. Os botões de ação do trabalhador irão exibir todas as melhorias que podem ser construídas naquele momento naquele hexágono. Clique no botão e a construção começará. A melhoria será concluída em um determinado número de turnos. A quantidade depende do tipo de melhoria e do terreno.</Text>
@@ -3219,10 +3219,10 @@
 			<Text>Melhorias costeiras são como as outras melhorias, exceto que elas são construídas no mar por {TXT_KEY_UNIT_WORK_BOAT[2]} e só podem ser construídas por cidades costeiras. Ao contrário dos Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando constroem uma melhoria, então você precisa construir múltiplos {TXT_KEY_UNIT_WORK_BOAT[2]} para construir múltiplas melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TRADING_POST_TEXT">
-			<Text>Postos Comerciais são locais onde os comerciantes e caçadores podem vender seus produtos para os civis em troca de comida, armas, uísque, [ICON_GOLD]Ouro e todas as outras armadilhas da sociedade. Eles podem gerar muita riqueza para uma sociedade.</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_TRADING_POST[2]} são locais onde os comerciantes e caçadores podem vender seus produtos para os civis em troca de comida, armas, uísque, [ICON_GOLD]Ouro e todas as outras armadilhas da sociedade. Eles podem gerar muita riqueza para uma sociedade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TRADINGPOST">
-			<Text>Posto Comercial</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_TRADING_POST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TRADINGPOST_TITLE1">
 			<Text>Tecnologia Necessária</Text>
@@ -3237,7 +3237,7 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WELL">
-			<Text>Poço de Petróleo</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_WELL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WELL_TEXT">
 			<Text>A versão terrestre da plataforma marítima, é uma melhoria da fase avançada jogo que dá acesso ao crucialmente importante recurso petróleo.</Text>
@@ -4677,7 +4677,7 @@
 			<Text>Recursos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_HEADING_TEXT">
-			<Text>Recursos são fontes de alimento, produtividade, cultura ou outros bônus especiais, todos úteis a uma civilização. Em uma análise mais ampla, a riqueza e o poder de sua civilização serão determinados pelo número e tipo de recursos que você controla. Para utilizar um recurso, ele deve estar dentro das fronteiras de sua civilização e você deve construir a "Melhoria" apropriada no hexágono (por exemplo: você deve construir a melhoria "Plantação" para receber os benefícios de um recurso "Banana"). Há três diferentes tipos de recursos: bônus, estratégicos e de luxo. Todos oferecem benefícios de rendimento às cidades próximas e recursos de luxo e estratégicos possuem benefícios adicionais importantes (veja abaixo). Embora você não tenha acesso a todo o tipo de recurso dentro de suas fronteiras, você pode negociá-los com outras civilizações.</Text>
+			<Text>Recursos são fontes de alimento, produtividade, cultura ou outros bônus especiais, todos úteis a uma civilização. Em uma análise mais ampla, a riqueza e o poder de sua civilização serão determinados pelo número e tipo de recursos que você controla. Para utilizar um recurso, ele deve estar dentro das fronteiras de sua civilização e você deve construir a "Melhoria" apropriada no hexágono (por exemplo: você deve construir a melhoria {TXT_KEY_IMPROVEMENT_PLANTATION} para receber os benefícios de um recurso "Banana"). Há três diferentes tipos de recursos: bônus, estratégicos e de luxo. Todos oferecem benefícios de rendimento às cidades próximas e recursos de luxo e estratégicos possuem benefícios adicionais importantes (veja abaixo). Embora você não tenha acesso a todo o tipo de recurso dentro de suas fronteiras, você pode negociá-los com outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE1_TEXT">
 			<Text>Note que nem todos os recursos são visíveis no início do jogo: alguns requerem conhecimento em uma tecnologia particular antes que apareçam no mapa. Cavalos, por exemplo, não aparecem até que você pesquise "{TXT_KEY_TECH_ANIMAL_HUSBANDRY}" e Ferro não aparece até que você aprenda a tecnologia "{TXT_KEY_TECH_IRON_WORKING}".</Text>
@@ -6900,13 +6900,13 @@
 			<Text>O botão fortificar até estar curado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_FORT_ADV_QUEST">
-			<Text>Como Fortes afetam os resultados do combate?</Text>
+			<Text>Como os {TXT_KEY_IMPROVEMENT_FORT[2]} afetam os resultados do combate?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_FORT_HEADING3_BODY">
-			<Text>Quando a civilização adquirir a tecnologia Engenharia, os trabalhadores poderão construir "Fortes" em território amigo ou neutro. Fortes fornecem um bônus especial de defensa para unidades que as ocupam. Fortes não podem ser construídos em território inimigo. Se uma unidade entra em um Forte no território inimigo, a construção é destruída. Eles podem ser construídos sobre recursos.</Text>
+			<Text>Quando a civilização adquirir a tecnologia Engenharia, os trabalhadores poderão construir {TXT_KEY_IMPROVEMENT_FORT[2]} em território amigo ou neutro. {TXT_KEY_IMPROVEMENT_FORT[2]} fornecem um bônus especial de defensa para unidades que as ocupam. {TXT_KEY_IMPROVEMENT_FORT[2]} não podem ser construídos em território inimigo. Se uma unidade entra em um Forte no território inimigo, a construção é destruída. Eles podem ser construídos sobre recursos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_FORT_HEADING3_TITLE">
-			<Text>Fortes</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FORT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_FORTIFICATION_ADV_QUEST">
 			<Text>Como funciona a fortificação?</Text>
@@ -7209,7 +7209,7 @@
 			<Text>Como a cultura é acumulada e o que ela te dá?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GETTING_HEADING2_BODY">
-			<Text>Sua civilização adquire cultura em uma variedade de modos: [NEWLINE]- Seu Palácio: (criado quando você constrói sua primeira cidade) produz 1 ponto de cultura por turno. [NEWLINE]- Ruínas Antigas: Uma antiga ruína pode te dar uma boa dose de cultura. [NEWLINE]- Construções: Certos edifícios produzem cultura. O Monumento e o Templo são dois exemplos do início do jogo. [NEWLINE]- Especialistas: Particularmente Artistas, geram cultura. [NEWLINE]- Maravilhas: Algumas maravilhas "jorram" cultura. O Hermitage, o Ato Heroico e o Monumento Nacional Épico são três maravilhas nacionais que te dão cultura e há muitas outras para se descobrir. [NEWLINE]- Políticas Sociais: Certas Políticas Sociais irão aumentar sua produção de cultura. O ramo Religioso tem um número de políticas voltadas para a cultura. [NEWLINE]- Grandes Artistas: Um Grande Artista pode construir a melhoria "Ponto de Referência" em um hexágono. Se sua cidade explorar aquele espaço, ele gerará muita cultura. [NEWLINE]- Cidades-Estado: Algumas Cidades-Estado te dão cultura se seu relacionamento for amigável.</Text>
+			<Text>Sua civilização adquire cultura em uma variedade de modos: [NEWLINE]- Seu Palácio: (criado quando você constrói sua primeira cidade) produz 1 ponto de cultura por turno. [NEWLINE]- {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}: Uma antiga ruína pode te dar uma boa dose de cultura. [NEWLINE]- Construções: Certos edifícios produzem cultura. O Monumento e o Templo são dois exemplos do início do jogo. [NEWLINE]- Especialistas: Particularmente Artistas, geram cultura. [NEWLINE]- Maravilhas: Algumas maravilhas "jorram" cultura. O Hermitage, o Ato Heroico e o Monumento Nacional Épico são três maravilhas nacionais que te dão cultura e há muitas outras para se descobrir. [NEWLINE]- Políticas Sociais: Certas Políticas Sociais irão aumentar sua produção de cultura. O ramo Religioso tem um número de políticas voltadas para a cultura. [NEWLINE]- {TXT_KEY_UNIT_GREAT_ARTIST[2]}: Um {TXT_KEY_UNIT_GREAT_ARTIST} pode construir a melhoria {TXT_KEY_IMPROVEMENT_LANDMARK} em um hexágono. Se sua cidade explorar aquele espaço, ele gerará muita cultura. [NEWLINE]- Cidades-Estado: Algumas Cidades-Estado te dão cultura se seu relacionamento for amigável.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GETTING_HEADING2_TITLE">
 			<Text>Obtendo Cultura</Text>
@@ -7686,7 +7686,7 @@
 			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS[2]} dão bastante alimento?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_FLOODPLAINS_HEADING4_BODY">
-			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS[2]} dão muito alimento, particularmente se explorada com uma fazenda.</Text>
+			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS[2]} dão muito alimento, particularmente se explorada com uma {TXT_KEY_IMPROVEMENT_FARM}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_FLOODPLAINS_HEADING4_TITLE">
 			<Text>{TXT_KEY_FEATURE_FLOOD_PLAINS}</Text>
@@ -7695,7 +7695,7 @@
 			<Text>Como você pode conseguir mais alimento para uma cidade?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_GETFOOD_HEADING2_BODY">
-			<Text>Certos hexágonos oferecem mais alimento que outros e cidades próximas de um ou mais desses hexágonos irão crescer rapidamente. Em adição, trabalhadores podem "melhorar" vários hexágonos com fazendas, aumentando sua produção de alimento.</Text>
+			<Text>Certos hexágonos oferecem mais alimento que outros e cidades próximas de um ou mais desses hexágonos irão crescer rapidamente. Em adição, trabalhadores podem "melhorar" vários hexágonos com {TXT_KEY_IMPROVEMENT_FARM[2]}, aumentando sua produção de alimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_GETFOOD_HEADING2_TITLE">
 			<Text>Conseguindo Mais Alimento</Text>
@@ -7719,7 +7719,7 @@
 			<Text>Como você pode melhorar a produção de alimento de um hexágono?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_IMPROVEMENTS_HEADING3_BODY">
-			<Text>Trabalhadores podem construir fazendas na maioria dos hexágonos para melhorar suas produções de alimento.</Text>
+			<Text>Trabalhadores podem construir {TXT_KEY_IMPROVEMENT_FARM[2]} na maioria dos hexágonos para melhorar suas produções de alimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOOD_IMPROVEMENTS_HEADING3_TITLE">
 			<Text>Melhorias</Text>
@@ -7773,13 +7773,13 @@
 			<Text>O que é ouro e o que podemos fazer com ele?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_ANCIENTRUINS_ADV_QUEST">
-			<Text>As Ruínas Antigas te dão mais ouro?</Text>
+			<Text>As {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} te dão mais ouro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_ANCIENTRUINS_HEADING3_BODY">
-			<Text>Uma Ruína Antiga pode fornecer ouro quando for explorada.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_GOODY_HUT} pode fornecer ouro quando for explorada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_ANCIENTRUINS_HEADING3_TITLE">
-			<Text>Ruínas Antigas</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_BARBARIAN_ADV_QUEST">
 			<Text>Como eu posso conseguir ouro de um Acampamento Bárbaro?</Text>
@@ -7995,13 +7995,13 @@
 			<Text>Fazer uma "Missão Comercial"</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_TRADINGPOST_ADV_QUEST">
-			<Text>Como o Posto Comercial fornece ouro?</Text>
+			<Text>Como o {TXT_KEY_IMPROVEMENT_TRADING_POST} fornece ouro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_TRADINGPOST_HEADING3_BODY">
-			<Text>Construa um Posto Comercial em um hexágono para aumentar sua produção de ouro.</Text>
+			<Text>Construa um {TXT_KEY_IMPROVEMENT_TRADING_POST} em um hexágono para aumentar sua produção de ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_TRADINGPOST_HEADING3_TITLE">
-			<Text>O Posto Comercial</Text>
+			<Text>O {TXT_KEY_IMPROVEMENT_TRADING_POST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_UPGRADE_UNITS_ADV_QUEST">
 			<Text>Uma unidade deve estar em seu território para ser atualizada.</Text>
@@ -8097,10 +8097,10 @@
 			<Text>Um acampamento é uma fundação temporária por um grupo de Bárbaros alvoroçados, intencionados a derrubar e destruir sua civilização. Esses espinhos perpétuos do lado das civilizações são capazes de jorrar uma corrente sem fim de Bárbaros raivosos, que desejam invadir suas cidades, pilhar suas terras e fitar obscenamente suas mulheres. Acampamentos perto de suas cidades devem ser destruídos, sem dúvidas. Acampamentos próximos de civilizações adversárias podem ser deixados para importunar seus colegas, se você é desse tipo de líder furtivo...</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITY_RUINS_PEDIA">
-			<Text>Ruínas de Cidades são restos de cidades destruídas do jogo. Elas não têm valor em particular, mas casualmente estão em localidades de valor. Um trabalhador pode limpar uma Ruína ou simplesmente substituí-la por uma melhoria.</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_CITY_RUINS[2]} são restos de cidades destruídas do jogo. Elas não têm valor em particular, mas casualmente estão em localidades de valor. Um trabalhador pode limpar uma {TXT_KEY_IMPROVEMENT_CITY_RUINS} ou simplesmente substituí-la por uma melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT_PEDIA">
-			<Text>Ruínas Antigas são o restante de civilizações extintas há tempos. Elas estão cheias de segredos valiosos - ouro, mapas, tecnologias perdidas e até mesmo sobreviventes - esperando serem descobertos por um explorador intrépido. Grandes recompensas esperam aqueles que primeiro entrarem numa Ruína Antiga!</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} são o restante de civilizações extintas há tempos. Elas estão cheias de segredos valiosos - ouro, mapas, tecnologias perdidas e até mesmo sobreviventes - esperando serem descobertos por um explorador intrépido. Grandes recompensas esperam aqueles que primeiro entrarem numa {TXT_KEY_IMPROVEMENT_GOODY_HUT}!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_ADV_QUEST">
 			<Text>Como funciona o movimento de unidades?</Text>
@@ -8718,7 +8718,7 @@
 			<Text>A festa "Nós Amamos o Rei"</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_HEADING1_BODY">
-			<Text>Recursos são as fontes de alimento, produtividade ou cultura, além de fornecerem outros bônus especiais para a civilização. Boa parte da riqueza e poder de sua civilização será determinada pelo número e tipos de recursos que você controla. Para utilizar um recurso, este deve estar dentro do território de sua civilização e você deve construir a "melhoria" apropriada no hexágono onde está o recurso. (Por exemplo, você deve construir uma melhoria "plantação" para conseguir os benefícios proporcionados pelo recurso "banana".)[NEWLINE][NEWLINE]Há três tipos diferentes de recursos: bônus, estratégicos e de luxo. Todos fornecem benefícios aos rendimentos de cidades próximas e os recursos estratégicos e de luxo tem outros importantes benefícios adicionais.[NEWLINE][NEWLINE]Embora você possa não ter acesso a todo tipo de recursos dentro de suas fronteiras, é possível trocar alguns recursos com outras civilizações.</Text>
+			<Text>Recursos são as fontes de alimento, produtividade ou cultura, além de fornecerem outros bônus especiais para a civilização. Boa parte da riqueza e poder de sua civilização será determinada pelo número e tipos de recursos que você controla. Para utilizar um recurso, este deve estar dentro do território de sua civilização e você deve construir a "melhoria" apropriada no hexágono onde está o recurso. (Por exemplo, você deve construir uma melhoria {TXT_KEY_IMPROVEMENT_PLANTATION} para conseguir os benefícios proporcionados pelo recurso "banana".)[NEWLINE][NEWLINE]Há três tipos diferentes de recursos: bônus, estratégicos e de luxo. Todos fornecem benefícios aos rendimentos de cidades próximas e os recursos estratégicos e de luxo tem outros importantes benefícios adicionais.[NEWLINE][NEWLINE]Embora você possa não ter acesso a todo tipo de recursos dentro de suas fronteiras, é possível trocar alguns recursos com outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_HEADING1_TITLE">
 			<Text>Recursos</Text>
@@ -8751,7 +8751,7 @@
 			<Text>Recursos estratégicos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_BODY">
-			<Text>Alumínio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos ({TXT_KEY_IMPROVEMENT_PASTURE}/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo (Poço de Petróleo ou Plataforma Petrolífera/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
+			<Text>Alumínio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ELECTRICITY})[NEWLINE]Carvão ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_SCIENTIFICTHEORY})[NEWLINE]Cavalos ({TXT_KEY_IMPROVEMENT_PASTURE}/{TXT_KEY_TECH_ANIMAL_HUSBANDRY})[NEWLINE]Ferro ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_IRON_WORKING})[NEWLINE]Petróleo ({TXT_KEY_IMPROVEMENT_WELL} ou {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM}/{TXT_KEY_TECH_BIOLOGY})[NEWLINE]Urânio ({TXT_KEY_IMPROVEMENT_MINE}/{TXT_KEY_TECH_ATOMICTHEORY})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCES_STRATEGICLIST_HEADING3_TITLE">
 			<Text>Estratégico (Melhoria Necessária)</Text>
@@ -8961,13 +8961,13 @@
 			<Text>Habilidades das Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ACADEMY_ADV_QUEST">
-			<Text>O que a melhoria especial Academia faz?</Text>
+			<Text>O que a melhoria especial {TXT_KEY_IMPROVEMENT_ACADEMY} faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ACADEMY_HEADING4_BODY">
-			<Text>Você pode gastar um Grande Cientista para criar uma Academia. Durante o trabalho, a Academia vai dar um grande impulso científico à sua cidade.</Text>
+			<Text>Você pode gastar um {TXT_KEY_UNIT_GREAT_SCIENTIST} para criar uma {TXT_KEY_IMPROVEMENT_ACADEMY}. Durante o trabalho, a {TXT_KEY_IMPROVEMENT_ACADEMY} vai dar um grande impulso científico à sua cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ACADEMY_HEADING4_TITLE">
-			<Text>Melhoria Especial: Academia</Text>
+			<Text>Melhoria Especial: {TXT_KEY_IMPROVEMENT_ACADEMY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ADV_QUEST">
 			<Text>Quem são os especialistas e as grandes pessoas?</Text>
@@ -8991,13 +8991,13 @@
 			<Text>Designando Especialistas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_ADV_QUEST">
-			<Text>O que a melhoria Cidadela Especial faz?</Text>
+			<Text>O que a melhoria {TXT_KEY_IMPROVEMENT_CITADEL} Especial faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_BODY">
-			<Text>A Cidadela fornece um grande bônus de defesa para qualquer unidade que a ocupe. Além disso, causa dano a qualquer unidade inimiga que termina seu turno próximo a ela. Perceba que as funções da Cidadela somente funcionam quando está em seu território. Se fosse, digamos, culturalmente bombardeada, mudaria de lado, sendo eficaz apenas para o outro jogador.</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_CITADEL} fornece um grande bônus de defesa para qualquer unidade que a ocupe. Além disso, causa dano a qualquer unidade inimiga que termina seu turno próximo a ela. Perceba que as funções da {TXT_KEY_IMPROVEMENT_CITADEL} somente funcionam quando está em seu território. Se fosse, digamos, culturalmente bombardeada, mudaria de lado, sendo eficaz apenas para o outro jogador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_TITLE">
-			<Text>Melhoria Especial: Cidadela</Text>
+			<Text>Melhoria Especial: {TXT_KEY_IMPROVEMENT_CITADEL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_ADV_QUEST">
 			<Text>O que a habilidade especial bônus de combate faz?</Text>
@@ -9018,13 +9018,13 @@
 			<Text>Hab. Especial: Bombardeio Cultural</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CUSTOMSHOUSE_ADV_QUEST">
-			<Text>O que a melhoria especial Alfândega faz?</Text>
+			<Text>O que a melhoria especial {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE} faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CUSTOMSHOUSE_HEADING4_BODY">
-			<Text>Você pode gastar um Grande Mercador para criar uma Alfândega. Enquanto trabalha, a Alfândega gera bastante ouro por turno para sua cidade.</Text>
+			<Text>Você pode gastar um {TXT_KEY_UNIT_GREAT_MERCHANT} para criar uma {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE}. Enquanto trabalha, a {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE} gera bastante ouro por turno para sua cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CUSTOMSHOUSE_HEADING4_TITLE">
-			<Text>Melhoria Especial: Alfândega</Text>
+			<Text>Melhoria Especial: {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_EFFECTSOFASSIGNING_ADV_QUEST">
 			<Text>Como atribuir um especialista afeta a produção da cidade?</Text>
@@ -9135,7 +9135,7 @@
 			<Text>O que a Melhoria {TXT_KEY_IMPROVEMENT_LANDMARK} faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_HEADING4_BODY">
-			<Text>Um {TXT_KEY_IMPROVEMENT_LANDMARK} proporciona abundância de cultura para a cidade.</Text>
+			<Text>Uma Melhoria {TXT_KEY_IMPROVEMENT_LANDMARK} proporciona abundância de cultura para a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_HEADING4_TITLE">
 			<Text>Melhoria Esp.: {TXT_KEY_IMPROVEMENT_LANDMARK}</Text>
@@ -9246,19 +9246,19 @@
 			<Text>Agricultura é a produção de plantas e animais, principalmente para comida, mas também para vestuário, abrigo, medicina, recreação e diversos outros usos. A técnica da colheita provavelmente se desenvolveu de forma independente em vários lugares. A evidência mais remota de agriculta já descoberta data de antes do fim da Era do Gelo, há aproximadamente 11.000 anos. Surpreendentemente, parece que a agricultura não foi inventada por caçadores-coletores famintos que procuravam desesperadamente novas fontes de sustento; ao contrário, evidências sugerem que os antigos agricultores eram bem sucedidos e saudáveis caçadores-coletores que provavelmente já possuíam boa quantidade de comida. Isso faz sentido: pessoas com excesso de comida podem gastar tempo experimentando novas tecnologias, enquanto que as famintas irão gastar todas as suas energias em métodos já conhecidos de obter o sustento.[NEWLINE][NEWLINE]No início, a agricultura era lenta. Um processo cíclico. Sementes eram lançadas na primavera, campos eram cuidados e irrigados até que a plantação estivesse pronta para a colheita, muitas vezes, meses depois. Já que poucos lugares possuem um clima favorável para uma produção agrícola durante todo o ano, agricultores precisavam ser capazes de estocar comida para os escassos meses de inverno ou negociar com aqueles que conseguiam estocar comida durante o ano por meio da caça, pesca e demais métodos. Agricultores sempre estiveram à mercê da natureza e do clima: se não chovesse um ano ou pragas comessem a plantação, a família poderia simplesmente morrer de fome.[NEWLINE][NEWLINE]Agricultura moderna(ou "agroindústria") é uma complicada ciência de manipulação genética, inseticidas e fertilizantes avançados, sistemas de irrigação computadorizado e colheitadeiras automatizadas. Avanços na tecnologia aumentaram tanto a produção de comida em um pedaço de terra, que alguns países - incluindo os Estados Unidos da América - ocasionalmente sofrem não com a fome, mas com a fartura de comida, resultando em obesidades crônicas em seus cidadãos e preços tão baratos que ameaçam a sobrevivência de agricultores que dependem da venda da comida que produzem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_AGRICULTURE_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Fazendas[ENDCOLOR], vitais para aumentar a produção de [ICON_FOOD][COLOR_POSITIVE_TEXT]Alimento[ENDCOLOR].</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_FARM[2]}[ENDCOLOR], vitais para aumentar a produção de [ICON_FOOD][COLOR_POSITIVE_TEXT]Alimento[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_AGRICULTURE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Onde o cultivo da terra começa, outras artes nascem. Os agricultores, portanto, são os fundadores da civilização humana."[NEWLINE][TAB][TAB] - Daniel Webster[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANCIENTRUINS_ADV_QUEST">
-			<Text>Como ruínas antigas ajudam a Pesquisa?</Text>
+			<Text>Como {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} ajudam a Pesquisa?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANCIENTRUINS_HEADING4_BODY">
-			<Text>Algumas ruínas antigas darão a você novas tecnologias. Isso não é garantido, mas é uma boa razão para procurar e reivindicá-las antes que outro o faça.</Text>
+			<Text>Algumas {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} darão a você novas tecnologias. Isso não é garantido, mas é uma boa razão para procurar e reivindicá-las antes que outro o faça.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANCIENTRUINS_HEADING4_TITLE">
-			<Text>Ruínas Antigas</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_DESC">
 			<Text>Aparentemente a criação de animais ocorreu quase na mesma época da invenção da agricultura. Ao que parece, o cão foi o primeiro animal domesticado, provavelmente treinado para ajudar na caça. Evidencias sugerem que eles foram primeiramente domesticados e treinados na China - de fato, geneticistas acreditam que quase 95% dos cães atuais são descendentes de poucos animais chineses. Cabras e ovelhas foram domesticadas no Oriente Médio, provavelmente por volta de 10.000 anos A.C.[NEWLINE][NEWLINE]Para ser domesticado com sucesso, um animal precisa se encaixar em alguns critérios: deve ser capaz de consumir comida que seja menos atrativa aos humanos, por exemplo, capim, insetos ou restos de comida da mesa; deve crescer rápido, tornando-se útil em pouco tempo e possibilitando ser alterado geneticamente repetidamente pelas suas gerações; Deve possuir uma disposição calma; Não deve entrar em pânico com facilidade, ou se entrar, deve permanecer junto com outros de sua espécie, proporcionando aos humanos ou cães pastoreá-los em grupo; finalmente, é extremamente útil se o animal puder ser treinado para pensar no humano como seu líder.[NEWLINE][NEWLINE]Cientistas acreditam que o cavalo foi domesticado primeiramente na região da Ucrânia, entre 4000-3500 a.C. aproximadamente. É possível que os primeiros cavalos tenham sido criados para prover carne, não para servir como animais de trabalho. Há quase meio milênio, o cavalo tem sido empregado como um animal de tração em grande parte da Europa e Ásia. Durante milhares de anos, programas intensivos de treinamento resultaram em um animal domesticado bem maior e mais forte que o cavalo selvagem original. E com a invenção da biga e, depois, da sela e do estribo, o cavalo se tornou o animal domesticado mais importante na história humana. (Ao menos na Eurásia e norte da África, já que o Norte indígena, América Central e do Norte comeram todos seus cavalos antes que eles fossem domesticados.)</Text>
@@ -9438,7 +9438,7 @@
 			<Text>O termo "serviço público" é geralmente utilizado para descrever as partes do governo nas quais indivíduos são empregados levando-se em conta seus méritos, ao invés de indicações políticas ou em razão da classe social ou, ainda, porque a pessoa tem amizades com o administrador. No governo federal dos Estados Unidos, os mais altos postos da administração são indicados pelo presidente. Eles são "indicações políticas" e normalmente serão trocados a cada novo governo. Posições subordinadas são preenchidas por "servidores públicos" permanentes, que geralmente mantêm seus empregos de administração para administração, não importando quem ganhe as eleições.[NEWLINE][NEWLINE]Um dos mais antigos exemplos de serviço público pode ser encontrado na Dinastia Qin da China (210 a.C.), onde o emprego na administração era baseado no mérito. Durante o passar dos tempos, este sistema foi gradualmente corrompido e o emprego no governo voltou a ser baseado na classe social no lugar do merecimento. Trezentos anos depois o sistema de mérito foi reaplicado (nas Dinastias Sui e Tang) e permaneceu assim durante alguns séculos.[NEWLINE][NEWLINE]Historicamente, muitas civilizações seguiram um padrão similar ao dos chineses: com o tempo, a burocracia tornava-se corrupta e ineficiente até que uma eventual reforma vigorosa era ordenada para melhorar a eficiência do governo. Isso tornava as coisas melhores durante algum tempo até que o padrão começasse a relaxar, em favor das famílias e conexões sociais, e o ciclo iniciasse tudo novamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Fazendas[ENDCOLOR] próximas a rios e lagos produzem +1 de [ICON_FOOD]Alimento e bônus extremamente úteis. Também permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_PIKEMAN}[ENDCOLOR], uma unidade mortal contra inimigos montados como o {TXT_KEY_UNIT_HORSEMAN} e o {TXT_KEY_UNIT_KNIGHT}.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_FARM[2]}[ENDCOLOR] próximas a rios e lagos produzem +1 de [ICON_FOOD]Alimento e bônus extremamente úteis. Também permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_PIKEMAN}[ENDCOLOR], uma unidade mortal contra inimigos montados como o {TXT_KEY_UNIT_HORSEMAN} e o {TXT_KEY_UNIT_KNIGHT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A única coisa que nos salva da burocracia é a sua ineficiência."[NEWLINE][TAB][TAB] - Eugene McCarthy[NEWLINE][TAB]</Text>
@@ -9480,7 +9480,7 @@
 			<Text>Construção representa o avanço no estudo da alvenaria, por adicionar aço e outros metais na caixa de ferramentas do construtor. Apesar de notavelmente duráveis, a rocha e o tijolo também são pesados e inflexíveis. É impossível construir estruturas muito altas com estes materiais, a não ser a estrutura em questão sem uma rocha sólida ou em formato de pirâmide, pois elas entrariam em colapso sob seu próprio peso ou contra uma ventania muito forte.[NEWLINE][NEWLINE]Estruturas metálicas ou alvenaria reforçada com metais, por outro lado, pode ser bem altas, bonitas e estilosas. Utilizando metal, alguém pode criar altas pontes, túneis profundos, grandes arranha-céus e rodovias elevadas. Sem a Construção nenhuma das grandes cidades do mundo poderia existir. Não com sua magnífica arquitetura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com {TXT_KEY_FEATURE_FOREST[2]}, aumentando a sua [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_LUMBERMILL[2]}[ENDCOLOR] em hexágonos com {TXT_KEY_FEATURE_FOREST[2]}, aumentando a sua [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Três coisas que devem ser examinadas em uma construção: que está no lugar certo; que sua fundação é segura; que é executada com sucesso."[NEWLINE][TAB][TAB] - Johann Wolfgang von Goethe[NEWLINE][TAB]</Text>
@@ -9558,7 +9558,7 @@
 			<Text>Engenharia é a ciência (ou arte, talvez) de projetar materiais complexos, estruturas, dispositivos e sistemas. Atualmente ela possui um vasto campo de trabalho - bioengenheiros projetam células, engenheiros de softwares criam programas de computadores, e por aí vai -, mas historicamente o termo foi aplicado à construção de coisas físicas, como máquinas, pontes, linhas férreas, fábricas etc. (Originalmente, o termo "engenheiro" referia-se especificamente àqueles que criavam máquinas militares).[NEWLINE][NEWLINE]A Engenharia realmente se tornou forte no século XIX, quando países ao redor do mundo embarcaram em grandes projetos de construção. Terminado pelos franceses, em 1869, o Canal de Suez conectou o Mar Mediterrâneo ao Mar Vermelho, possibilitando navegar da Europa para a Índia sem ter que fazer o longo e árduo contorno da África. Os Estados Unidos completaram a linha férrea transcontinental no mesmo ano e a Ponte do Brooklyn foi construída em 1883.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR], que aumentam a defesa das unidades ali estacionadas. Além disso, pontes são automaticamente construídas em estradas que cortam rios, permitindo que unidades possam atravessá-los sem perder velocidade.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_FORT[2]}[ENDCOLOR], que aumentam a defesa das unidades ali estacionadas. Além disso, pontes são automaticamente construídas em estradas que cortam rios, permitindo que unidades possam atravessá-los sem perder velocidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Ciência instrumental ou mecânica é a mais nobre e, acima de tudo, a mais útil."[NEWLINE][TAB][TAB] - Leonardo da Vinci[NEWLINE][TAB]</Text>
@@ -9567,7 +9567,7 @@
 			<Text>Fertilizante é a substância que alimenta e acelera o crescimento de plantas. O adubo existe desde que civilização humana nasceu, datando do tempo quando fazendeiros descobriram que a grama crescia mais onde o animal havia feito suas necessidades. Desde então, fazendeiros têm colhido as fezes dos animais e a aplicando ao solo, aumentando a produtividade, especialmente em campos que foram continuamente cultivados por gerações e, portanto, ficado com poucos nutrientes no solo.[NEWLINE][NEWLINE]Fertilizantes geralmente contém nitrogênio, fósforo e potássio como seus ingredientes ativos. Apesar de historicamente a maioria dos fertilizantes terem sido baseados em produto orgânico animal, os mais modernos adubos são, na verdade, minerados das camaradas superiores da superfície ou quimicamente produzidos em enormes indústrias.[NEWLINE][NEWLINE]Como a população mundial cresceu, assim também ocorreu com a necessidade de fertilizantes mais potentes, e as fazendas são mais produtivas hoje que em qualquer tempo da história. Entretanto, esta produtividade veio com um preço: chuvas nas fazendas levam o fertilizante para canais d'água e rios, causando um crescimento explosivo de micro-organismos que crescem tão rápido que quase sufocam, literalmente, a vida fora da água. Além disso, muitos dos fertilizantes modernos são criados, ao menos em parte, de produtos petroquímicos e seu preço é drasticamente afetado pelo o do óleo. Resumindo, fertilizantes são extremamente úteis e podem aumentar o estoque mundial de comida, mas cuidados devem ser tomados para assegurar que eles não causem mais danos que benefícios ao meio ambiente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FERTILIZER_HELP">
-			<Text>Aumenta o [ICON_FOOD]Alimento de Fazendas sem água fresca, proporcionando um impulso massivo no crescimento.</Text>
+			<Text>Aumenta o [ICON_FOOD]Alimento de {TXT_KEY_IMPROVEMENT_FARM[2]} sem água fresca, proporcionando um impulso massivo no crescimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FERTILIZER_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A nação que destrói seu solo, destrói a si mesma."[NEWLINE][TAB][TAB] - Franklin Delano Roosevelt[NEWLINE][TAB]</Text>
@@ -9609,7 +9609,7 @@
 			<Text>Como Grandes Cientistas ajudam na Ciência?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GREATSCIENTIST_HEADING4_BODY">
-			<Text>Um Grande Cientista pode pesquisar imediatamente uma tecnologia para você, ou você pode usá-lo para construir uma Academia, que proporciona 6 pontos de ciência por turno quando trabalhada. Veja a seção sobre "Grandes Pessoas" para mais detalhes.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_SCIENTIST} pode pesquisar imediatamente uma tecnologia para você, ou você pode usá-lo para construir uma {TXT_KEY_IMPROVEMENT_ACADEMY}, que proporciona 6 pontos de ciência por turno quando trabalhada. Veja a seção sobre "Grandes Pessoas" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GREATSCIENTIST_HEADING4_TITLE">
 			<Text>Grande Cientista</Text>
@@ -10110,7 +10110,7 @@
 			<Text>O Homem tem feito armadilhas para animais por milênios. É uma forma de caçar tão antiga quanto o próprio Homem. Através da história, caçadores tem usado uma grande variedade de armadilhas para capturar suas presas - empregando de tudo, desde sementes encobertas, redes escondidas, até jaulas de metal com contrapesos. Nos séculos XVII e XVIII, os caçadores norte americanos e franco-canadenses passaram anos capturando uma grande quantidade de peles de animais, antes de levá-las ao lado leste para venda, sendo que a maioria das valiosas peles acabou se tornando chapéus e outros artigos de vestuário para os ricos da Europa. Caçadores russos fizeram praticamente o mesmo na Sibéria e outros territórios remotos da Eurásia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles de Animais. Também permite a construção do [COLOR_POSITIVE_TEXT]Posto Comercial[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro no Império.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim e [ICON_RES_FUR] Peles de Animais. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_TRADING_POST}[ENDCOLOR], que aumenta a produção de [ICON_GOLD]Ouro no Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Mesmo os animais ferozes e pássaros distraídos caem na mesma armadilha duas vezes."[NEWLINE][TAB][TAB] - São Jerônimo[NEWLINE][TAB]</Text>
@@ -10212,7 +10212,7 @@
 			<Text>O que você pode me dizer sobre as {TXT_KEY_FEATURE_FOREST[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FOREST_HEADING3_BODY">
-			<Text>Para os primeiros homens, as {TXT_KEY_FEATURE_FOREST[2]} eram uma grande fonte de recursos, provendo madeira para o fogo, ferramentas e abrigo, além de muitos animais para o sustento e vestuário. À medida que as cidades cresciam, era grande a tentação de derrubar as {TXT_KEY_FEATURE_FOREST[2]} para o estabelecimento de fazendas, mas um sábio líder sempre deixava um pouco de pé - para a produtividade e para melhorar a moral da população. Também, unidades militares estacionadas em {TXT_KEY_FEATURE_FOREST[2]} recebem um bônus de defesa significante.[NEWLINE][NEWLINE]Lembre-se que terrenos com {TXT_KEY_FEATURE_FOREST[2]} sempre rendem 1 Alimento e 1 produção, não importando o tipo de terreno ou se o terreno é montanhoso.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>Para os primeiros homens, as {TXT_KEY_FEATURE_FOREST[2]} eram uma grande fonte de recursos, provendo madeira para o fogo, ferramentas e abrigo, além de muitos animais para o sustento e vestuário. À medida que as cidades cresciam, era grande a tentação de derrubar as {TXT_KEY_FEATURE_FOREST[2]} para o estabelecimento de {TXT_KEY_IMPROVEMENT_FARM[2]}, mas um sábio líder sempre deixava um pouco de pé - para a produtividade e para melhorar a moral da população. Também, unidades militares estacionadas em {TXT_KEY_FEATURE_FOREST[2]} recebem um bônus de defesa significante.[NEWLINE][NEWLINE]Lembre-se que terrenos com {TXT_KEY_FEATURE_FOREST[2]} sempre rendem 1 Alimento e 1 produção, não importando o tipo de terreno ou se o terreno é montanhoso.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, 1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_FOREST_HEADING3_TITLE">
 			<Text>{TXT_KEY_FEATURE_FOREST}</Text>
@@ -10254,7 +10254,7 @@
 			<Text>O que você pode me dizer sobre as {TXT_KEY_FEATURE_JUNGLE[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_JUNGLE_HEADING3_BODY">
-			<Text>Escuras, proibidas e mortais para um inexperiente, {TXT_KEY_FEATURE_JUNGLE[2]} são ricas fontes de Alimento para aqueles com habilidades e conhecimento para viver dentro delas. Contudo, {TXT_KEY_FEATURE_JUNGLE[2]} não fornecem muitos materiais e uma civilização que deseja crescer pode ser tentada a escavá-las ou transformá-las em plantações. Entretanto, unidades militares situadas em {TXT_KEY_FEATURE_JUNGLE[2]} recebem um bônus defensivo significante. Quando desmatadas, {TXT_KEY_FEATURE_JUNGLE[2]} se tornam {TXT_KEY_TERRAIN_PLAINS[2]}.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, -1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>Escuras, proibidas e mortais para um inexperiente, {TXT_KEY_FEATURE_JUNGLE[2]} são ricas fontes de Alimento para aqueles com habilidades e conhecimento para viver dentro delas. Contudo, {TXT_KEY_FEATURE_JUNGLE[2]} não fornecem muitos materiais e uma civilização que deseja crescer pode ser tentada a escavá-las ou transformá-las em {TXT_KEY_IMPROVEMENT_PLANTATION[2]}. Entretanto, unidades militares situadas em {TXT_KEY_FEATURE_JUNGLE[2]} recebem um bônus defensivo significante. Quando desmatadas, {TXT_KEY_FEATURE_JUNGLE[2]} se tornam {TXT_KEY_TERRAIN_PLAINS[2]}.[NEWLINE][NEWLINE]Rendimento: 1 Alimento, -1 produção[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_JUNGLE_HEADING3_TITLE">
 			<Text>{TXT_KEY_FEATURE_JUNGLE}</Text>
@@ -10263,7 +10263,7 @@
 			<Text>O que você pode me dizer sobre os {TXT_KEY_FEATURE_MARSH[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MARSH_HEADING3_BODY">
-			<Text>Embora rico em biodiversidade, {TXT_KEY_FEATURE_MARSH[2]} têm pouco a fornecer a civilizações com fome de crescimento. {TXT_KEY_FEATURE_MARSH[2]} podem ser drenados ou transformados em fazendas para aumentar seu rendimento. Lembre-se que unidades militares em {TXT_KEY_FEATURE_MARSH[2]} recebem uma penalidade significativa quando atacadas.[NEWLINE][NEWLINE]Rendimento: 1 Alimento[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 15% de penalidade defensiva</Text>
+			<Text>Embora rico em biodiversidade, {TXT_KEY_FEATURE_MARSH[2]} têm pouco a fornecer a civilizações com fome de crescimento. {TXT_KEY_FEATURE_MARSH[2]} podem ser drenados ou transformados em {TXT_KEY_IMPROVEMENT_FARM[2]} para aumentar seu rendimento. Lembre-se que unidades militares em {TXT_KEY_FEATURE_MARSH[2]} recebem uma penalidade significativa quando atacadas.[NEWLINE][NEWLINE]Rendimento: 1 Alimento[NEWLINE]Custo de Movimento: 2[NEWLINE]Modificador de Combate: 15% de penalidade defensiva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MARSH_HEADING3_TITLE">
 			<Text>{TXT_KEY_FEATURE_MARSH}</Text>
@@ -10353,7 +10353,7 @@
 			<Text>O que eu preciso saber sobre os rios?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_RIVERS_HEADING2_BODY">
-			<Text>Tradicionalmente, cidades tem sido construídas próximas aos rios, e por uma boa razão. Rios fornecem irrigação, melhoram as fazendas próximas da cidade, e eles protegem uma cidade, já que é bastante difícil tomar de assalto uma cidade que esteja rodeada por um rio.</Text>
+			<Text>Tradicionalmente, cidades tem sido construídas próximas aos rios, e por uma boa razão. Rios fornecem irrigação, melhoram as {TXT_KEY_IMPROVEMENT_FARM[2]} próximas da cidade, e eles protegem uma cidade, já que é bastante difícil tomar de assalto uma cidade que esteja rodeada por um rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_RIVERS_HEADING2_TITLE">
 			<Text>Rios</Text>
@@ -10557,19 +10557,19 @@
 			<Text>O {TXT_KEY_UNIT_GERMAN_PANZER} é a unidade exclusiva alemã, substituindo o {TXT_KEY_UNIT_TANK}. É mais forte e rápida do que o {TXT_KEY_UNIT_TANK}. Como o {TXT_KEY_UNIT_TANK}, o {TXT_KEY_UNIT_GERMAN_PANZER} recebe uma penalidade quando ataca cidades. Ele também pode se mover após o combate, o que o torna capaz de fazer grandes buracos nas linhas inimigas e então atravessá-los antes que o inimigo possa recuperar a lacuna.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY">
-			<Text>Grandes Artistas podem construir a melhoria especial Ponto de Referência, que, quando trabalhada, fornece muita [ICON_CULTURE]Cultura para a cidade. Eles também podem "bombardear culturalmente" um hexágono dentro ou a 1 espaço do seu território, transformando este hexágono em seu território. Grandes Artistas também podem iniciar a Era Dourada e são consumidos quando utilizados para qualquer um desses objetivos.</Text>
+			<Text>{TXT_KEY_UNIT_GREAT_ARTIST[2]} podem construir a melhoria especial {TXT_KEY_IMPROVEMENT_LANDMARK}, que, quando trabalhada, fornece muita [ICON_CULTURE]Cultura para a cidade. Eles também podem "bombardear culturalmente" um hexágono dentro ou a 1 espaço do seu território, transformando este hexágono em seu território. Grandes Artistas também podem iniciar a Era Dourada e são consumidos quando utilizados para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
 			<Text>Grandes Engenheiros podem construir a melhoria especial Indústria, que, quando trabalhada, fornece uma grande quantidade de [ICON_PRODUCTION]Produção para a cidade. Eles também podem acelerar a [ICON_PRODUCTION]Produção de uma unidade, edificação ou Maravilha em uma cidade. O Grande Engenheiro também pode iniciar a Era Dourada e são consumidos quando utilizados para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
-			<Text>O Grande General pode construir a melhoria especial Cidadela que dá um grande bônus defensivo para qualquer unidade que a ocupe. Ele é consumido quando constrói a Cidadela. O Grande General fornece 20% de bônus de combate para todas as unidades aliadas num raio de 2 hexágonos e NÃO é consumido quando ele fornece esses bônus. Ele também pode iniciar a Era Dourada.</Text>
+			<Text>O {TXT_KEY_UNIT_GREAT_GENERAL} pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_CITADEL} que dá um grande bônus defensivo para qualquer unidade que a ocupe. Ele é consumido quando constrói a {TXT_KEY_IMPROVEMENT_CITADEL}. O Grande General fornece 20% de bônus de combate para todas as unidades aliadas num raio de 2 hexágonos e NÃO é consumido quando ele fornece esses bônus. Ele também pode iniciar a Era Dourada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY">
-			<Text>O Grande Mercador pode construir a melhoria especial Alfândega que, quando trabalhada, produz muito [ICON_GOLD]Ouro. Ele também pode viajar até Cidades-Estado e realizar uma Missão Comercial que produz um bocado de [ICON_GOLD]Ouro e obtém muitos Pontos de Influência com a Cidade-Estado. Finalmente o Grande Mercador pode iniciar a Era Dourada e é consumido quando utilizado para qualquer um desses objetivos.</Text>
+			<Text>O {TXT_KEY_UNIT_GREAT_MERCHANT} pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE} que, quando trabalhada, produz muito [ICON_GOLD]Ouro. Ele também pode viajar até Cidades-Estado e realizar uma Missão Comercial que produz um bocado de [ICON_GOLD]Ouro e obtém muitos Pontos de Influência com a Cidade-Estado. Finalmente o Grande Mercador pode iniciar a Era Dourada e é consumido quando utilizado para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY">
-			<Text>O Grande Cientista pode construir a melhoria especial Academia que, quando trabalhada, produz muitos pontos de [ICON_RESEARCH]Ciência. Além disso, ele pode lhe dar imediatamente uma tecnologia disponível. Finalmente, o Grande Cientista pode iniciar a Era Dourada e é consumido quando utilizado para qualquer um desses objetivos.</Text>
+			<Text>O {TXT_KEY_UNIT_GREAT_SCIENTIST} pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_ACADEMY} que, quando trabalhada, produz muitos pontos de [ICON_RESEARCH]Ciência. Além disso, ele pode lhe dar imediatamente uma tecnologia disponível. Finalmente, o Grande Cientista pode iniciar a Era Dourada e é consumido quando utilizado para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY_STRATEGY">
 			<Text>Os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} são unidades gregas exclusivas, que substituem o {TXT_KEY_UNIT_HORSEMAN}. São mais rápidas e mais poderosas que sua unidade predecessora, tornando-as a unidade montada mais perigosa até o aparecimento do {TXT_KEY_UNIT_KNIGHT}. Elas ajudam a gerar o Grande General mais rapidamente que outras unidades. Além disso, podem se mover após um ataque. Os {TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY} são unidades montadas e continuam sendo vulneráveis aos ataques do {TXT_KEY_UNIT_SPEARMAN} e do {TXT_KEY_UNIT_PIKEMAN}.</Text>
@@ -10710,7 +10710,7 @@
 			<Text>Esta unidade só pode ser construída em cidades costeiras. Use o {TXT_KEY_UNIT_WORK_BOAT} para explorar recursos aquáticos - [ICON_RES_FISH]Peixe, baleia, petróleo etc. O {TXT_KEY_UNIT_WORK_BOAT} é consumido quando constrói uma melhoria e não pode entrar em hexágonos oceânicos até que a Astronomia tenha sido descoberta. {TXT_KEY_UNIT_WORK_BOAT[2]} não podem combater.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WORKER_STRATEGY">
-			<Text>Esta unidade constrói estradas, ferrovias e melhorias como fazendas e {TXT_KEY_IMPROVEMENT_MINE[2]}. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
+			<Text>Esta unidade constrói estradas, ferrovias e melhorias como {TXT_KEY_IMPROVEMENT_FARM[2]} e {TXT_KEY_IMPROVEMENT_MINE[2]}. Ela não pode se defender, então, mantenha uma unidade militar por perto quando estiver em territórios perigosos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_ADV_QUEST">
 			<Text>O que são unidades?</Text>
@@ -11310,19 +11310,19 @@
 			<Text>Tempo de Construção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FARM_ADV_QUEST">
-			<Text>Como funciona a Melhoria Fazenda?</Text>
+			<Text>Como funciona a {TXT_KEY_IMPROVEMENT_FARM}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FARM_HEADING3_BODY">
-			<Text>A fazenda é a primeira melhoria e a mais comumente construída. Todas as civilizações começam o jogo sabendo como cultivar. As Fazendas podem ser construídas, na maioria dos hexágonos, e em cima de uma série de recursos:[NEWLINE]Requisitos Tecnológicos: Agricultura (adquirida no inicio do jogo)[NEWLINE]Podem ser Construídas: Fazendas não podem ser construídas no {TXT_KEY_FEATURE_ICE}, {TXT_KEY_TERRAIN_MOUNTAIN[2]} ou Maravilhas Naturais. Elas só podem ser construídas nos hexágonos de {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_DESERT} se o hexágono é próximo a uma fonte de água doce como rios, lagos, ou outra fazenda. Fazendas aumentam a produção do hexágono em 1 de Alimento[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]{TXT_KEY_FEATURE_FOREST}: Fazendas podem ser construídas em hexágonos de {TXT_KEY_FEATURE_FOREST}, uma vez que você aprende a tecnologia de mineração. A {TXT_KEY_FEATURE_FOREST} é derrubada quando a fazenda é construída. Tempo de Construção Total: 9 Turnos[NEWLINE]{TXT_KEY_FEATURE_JUNGLE}: Fazendas podem ser construídas em hexágonos de {TXT_KEY_FEATURE_JUNGLE} uma vez que você aprende a tecnologia trabalhar o bronze. A {TXT_KEY_FEATURE_JUNGLE} é desmatada quando a fazenda é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]{TXT_KEY_FEATURE_MARSH}: Fazendas podem ser construídas em hexágonos de {TXT_KEY_FEATURE_MARSH} quando você aprende a tecnologia de alvenaria. O {TXT_KEY_FEATURE_MARSH} é removido quando a fazenda é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: Fazendas podem acessar o recurso Trigo, o aumento da produção do hexágono é de 1 de Alimento e 1 de ouro.</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_FARM} é a primeira melhoria e a mais comumente construída. Todas as civilizações começam o jogo sabendo como cultivar. As {TXT_KEY_IMPROVEMENT_FARM[2]} podem ser construídas na maioria dos hexágonos, e em cima de uma série de recursos:[NEWLINE]Requisitos Tecnológicos: Agricultura (adquirida no inicio do jogo)[NEWLINE]Podem ser Construídas: {TXT_KEY_IMPROVEMENT_FARM[2]} não podem ser construídas no {TXT_KEY_FEATURE_ICE}, {TXT_KEY_TERRAIN_MOUNTAIN[2]} ou Maravilhas Naturais. Elas só podem ser construídas nos hexágonos de {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_TERRAIN_DESERT} se o hexágono é próximo a uma fonte de água doce como rios, lagos, ou outra {TXT_KEY_IMPROVEMENT_FARM}. {TXT_KEY_IMPROVEMENT_FARM[2]} aumentam a produção do hexágono em 1 de Alimento[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]{TXT_KEY_FEATURE_FOREST}: {TXT_KEY_IMPROVEMENT_FARM[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_FOREST}, uma vez que você aprende a tecnologia de mineração. A {TXT_KEY_FEATURE_FOREST} é derrubada quando a {TXT_KEY_IMPROVEMENT_FARM} é construída. Tempo de Construção Total: 9 Turnos[NEWLINE]{TXT_KEY_FEATURE_JUNGLE}: {TXT_KEY_IMPROVEMENT_FARM[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_JUNGLE} uma vez que você aprende a tecnologia trabalhar o bronze. A {TXT_KEY_FEATURE_JUNGLE} é desmatada quando a {TXT_KEY_IMPROVEMENT_FARM} é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]{TXT_KEY_FEATURE_MARSH}: {TXT_KEY_IMPROVEMENT_FARM[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_MARSH} quando você aprende a tecnologia de alvenaria. O {TXT_KEY_FEATURE_MARSH} é removido quando a {TXT_KEY_IMPROVEMENT_FARM} é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: {TXT_KEY_IMPROVEMENT_FARM[2]} podem acessar o recurso Trigo, o aumento da produção do hexágono é de 1 de Alimento e 1 de ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FARM_HEADING3_TITLE">
-			<Text>Melhoria Fazenda</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FARM}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FISHINGBOAT_HEADING3_BODY">
 			<Text>Requisitos Tecnológicos: Navegação[NEWLINE]Tempo de Construção: Imediatamente[NEWLINE]Acesso aos Recursos: Peixe, Baleias, Pérolas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FISHINGBOAT_HEADING3_TITLE">
-			<Text>Barco de Pesca</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FISHINGBOATSOILPLATFORMS_ADV_QUEST">
 			<Text>O que acontece quando uma melhoria aquática é tomada?</Text>
@@ -11331,7 +11331,7 @@
 			<Text>Melhorias aquáticas são totalmente destruídas quando tomadas. Elas não podem ser concertadas; elas devem ser totalmente reconstruídas (o que consome outro barco de trabalho). Guarde suas melhorias aquáticas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_FISHINGBOATSOILPLATFORMS_HEADING3_TITLE">
-			<Text>Barcos de Pesca e Plat. de Petróleo</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} e Plat. de Petróleo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_GREATPEOPLE_ADV_QUEST">
 			<Text>Grandes Pessoas podem construir melhorias? Verdade?</Text>
@@ -11343,7 +11343,7 @@
 			<Text>As Melhorias das Grandes Pessoas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_HEADING1_BODY">
-			<Text>Os trabalhadores representam os homens e mulheres que constroem seu império. Eles derrubam as {TXT_KEY_FEATURE_FOREST[2]} e constroem as fazendas que alimentam suas cidades. Eles cavam as {TXT_KEY_IMPROVEMENT_MINE[2]} que fornecem o precioso ouro e poderoso ferro. Colocam as estradas que ligam suas cidades. Apesar de não serem unidades militares, os trabalhadores são importantes.[NEWLINE][NEWLINE]Melhorias aumentam a produção de, ouro e / ou a produção de alimentos dos hexágonos. Elas também fornecem acesso aos bônus especiais fornecidos por determinados recursos. Se você não melhorar a sua terra, sua civilização quase que certamente será superada por outras que fizerem.</Text>
+			<Text>Os trabalhadores representam os homens e mulheres que constroem seu império. Eles derrubam as {TXT_KEY_FEATURE_FOREST[2]} e constroem as {TXT_KEY_IMPROVEMENT_FARM[2]} que alimentam suas cidades. Eles cavam as {TXT_KEY_IMPROVEMENT_MINE[2]} que fornecem o precioso ouro e poderoso ferro. Colocam as estradas que ligam suas cidades. Apesar de não serem unidades militares, os trabalhadores são importantes.[NEWLINE][NEWLINE]Melhorias aumentam a produção de, ouro e / ou a produção de alimentos dos hexágonos. Elas também fornecem acesso aos bônus especiais fornecidos por determinados recursos. Se você não melhorar a sua terra, sua civilização quase que certamente será superada por outras que fizerem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_HEADING1_TITLE">
 			<Text>Trabalhadores e Melhorias</Text>
@@ -11367,31 +11367,31 @@
 			<Text>Deixando e Continuando Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_LUMBERMILL_HEADING3_BODY">
-			<Text>Serrarias aumentam a produção de um hexágono de {TXT_KEY_FEATURE_FOREST} em 1, sem destruir a {TXT_KEY_FEATURE_FOREST}.[NEWLINE]Requisitos Tecnológicos: Maquinaria[NEWLINE]Tempo de Construção: 7 Turnos[NEWLINE]Podem ser construídas em: {TXT_KEY_FEATURE_FOREST[2]}</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_LUMBERMILL[2]} aumentam a produção de um hexágono de {TXT_KEY_FEATURE_FOREST} em 1, sem destruir a {TXT_KEY_FEATURE_FOREST}.[NEWLINE]Requisitos Tecnológicos: Maquinaria[NEWLINE]Tempo de Construção: 7 Turnos[NEWLINE]Podem ser construídas em: {TXT_KEY_FEATURE_FOREST[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_LUMBERMILL_HEADING3_TITLE">
-			<Text>Serraria</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_LUMBERMILL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_ADV_QUEST">
 			<Text>Como a melhoria {TXT_KEY_IMPROVEMENT_MINE} funciona?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_HEADING3_BODY">
-			<Text>A melhoria {TXT_KEY_IMPROVEMENT_MINE} é aprendida quando sua civilização adquire a tecnologia de Mineração. Ela pode ser usada para aumentar o volume de produção de vários hexágonos, e também abre uma variedade de recursos. A {TXT_KEY_IMPROVEMENT_MINE} é tão importante quanto à fazenda.[NEWLINE]Requisitos Tecnológicos: Mineração[NEWLINE]Pode ser construída em: Apenas em hexágonos de {TXT_KEY_TERRAIN_HILL}. {TXT_KEY_IMPROVEMENT_MINE[2]} aumentam a produção do hexágono por 1.[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]{TXT_KEY_FEATURE_FOREST}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_FOREST}. A {TXT_KEY_FEATURE_FOREST} é derrubada quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 9 Turnos.[NEWLINE]{TXT_KEY_FEATURE_JUNGLE}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_JUNGLE} uma vez que você aprende a tecnologia Bronze. A {TXT_KEY_FEATURE_JUNGLE} é desmatada quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]{TXT_KEY_FEATURE_MARSH}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_MARSH} quando você aprende a tecnologia Alvenaria. O {TXT_KEY_FEATURE_MARSH} é removido quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: {TXT_KEY_IMPROVEMENT_MINE[2]} habilitam recursos de Ferro, Carvão, Alumínio, Urânio, Gemas, Ouro e Prata. Veja a entrada de recursos individuais para mais detalhes.</Text>
+			<Text>A melhoria {TXT_KEY_IMPROVEMENT_MINE} é aprendida quando sua civilização adquire a tecnologia de Mineração. Ela pode ser usada para aumentar o volume de produção de vários hexágonos, e também abre uma variedade de recursos. A {TXT_KEY_IMPROVEMENT_MINE} é tão importante quanto a {TXT_KEY_IMPROVEMENT_FARM}.[NEWLINE]Requisitos Tecnológicos: Mineração[NEWLINE]Pode ser construída em: Apenas em hexágonos de {TXT_KEY_TERRAIN_HILL}. {TXT_KEY_IMPROVEMENT_MINE[2]} aumentam a produção do hexágono por 1.[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]{TXT_KEY_FEATURE_FOREST}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_FOREST}. A {TXT_KEY_FEATURE_FOREST} é derrubada quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 9 Turnos.[NEWLINE]{TXT_KEY_FEATURE_JUNGLE}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_JUNGLE} uma vez que você aprende a tecnologia Bronze. A {TXT_KEY_FEATURE_JUNGLE} é desmatada quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 12 Turnos[NEWLINE]{TXT_KEY_FEATURE_MARSH}: {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em hexágonos de {TXT_KEY_FEATURE_MARSH} quando você aprende a tecnologia Alvenaria. O {TXT_KEY_FEATURE_MARSH} é removido quando a {TXT_KEY_IMPROVEMENT_MINE} é construída. Tempo de Construção Total: 11 Turnos[NEWLINE]Acesso aos Recursos: {TXT_KEY_IMPROVEMENT_MINE[2]} habilitam recursos de Ferro, Carvão, Alumínio, Urânio, Gemas, Ouro e Prata. Veja a entrada de recursos individuais para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_MINE_HEADING3_TITLE">
 			<Text>Melhoria {TXT_KEY_IMPROVEMENT_MINE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_OFFSHOREPLATFORM_HEADING3_BODY">
-			<Text>Requisitos Tecnológicos: Refrigeração[NEWLINE]Tempo de Construção: Imediatamente[NEWLINE]Acesso aos Recursos: Petróleo (no mar; Poço de Petróleo é necessário para petróleo em terra)</Text>
+			<Text>Requisitos Tecnológicos: Refrigeração[NEWLINE]Tempo de Construção: Imediatamente[NEWLINE]Acesso aos Recursos: Petróleo (no mar; {TXT_KEY_IMPROVEMENT_WELL} é necessário para petróleo em terra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_OFFSHOREPLATFORM_HEADING3_TITLE">
-			<Text>Plataforma Costeira</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_OILWELL_HEADING3_BODY">
-			<Text>Requisitos Tecnológicos: Biologia[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Petróleo (em terra; Plataforma Costeira é necessária para petróleo encontrado no mar)</Text>
+			<Text>Requisitos Tecnológicos: Biologia[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Petróleo (em terra; {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM} é necessária para petróleo encontrado no mar)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_OILWELL_HEADING3_TITLE">
-			<Text>Poço de Petróleo</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_WELL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_PASTURE_HEADING3_BODY">
 			<Text>Requisitos Tecnológicos: {TXT_KEY_TECH_ANIMAL_HUSBANDRY}[NEWLINE]Tempo de Construção: 8 Turnos[NEWLINE]Acesso aos Recursos: Cavalos, Gado</Text>
@@ -11466,7 +11466,7 @@
 			<Text>Estradas e Rotas de Comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TRADINGPOST_HEADING3_BODY">
-			<Text>Os Postos Comerciais aumentam a produção de ouro do hexágono por 1. Eles não dão acesso a Recursos[NEWLINE]Requisitos Tecnológicos: Armadilhas[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Podem ser construídos em: Qualquer hexágono de terra exceto {TXT_KEY_FEATURE_ICE}.</Text>
+			<Text>Os {TXT_KEY_IMPROVEMENT_TRADING_POST[2]} aumentam a produção de ouro do hexágono por 1. Eles não dão acesso a Recursos[NEWLINE]Requisitos Tecnológicos: Armadilhas[NEWLINE]Tempo de Construção: 5 Turnos[NEWLINE]Podem ser construídos em: Qualquer hexágono de terra exceto {TXT_KEY_FEATURE_ICE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TRADINGPOST_HEADING3_TITLE">
 			<Text>Feitoria</Text>
@@ -11475,7 +11475,7 @@
 			<Text>Onde as Melhorias podem ser construídas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WHERETOCONSTRUCT_HEADING3_BODY">
-			<Text>As melhorias só podem ser construídas em locais apropriados. (Fazendas não pode ser construído em {TXT_KEY_FEATURE_ICE}, por exemplo, e {TXT_KEY_IMPROVEMENT_MINE[2]} não podem ser construídas em cima de recursos de gado.) O Painel de Ação do Trabalhador só irá mostrar as melhorias que a sua civilização tem a tecnologia para construir e as que são apropriadas para o hexágono que o trabalhador ativo está. Geralmente, as fazendas e {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em qualquer hexágono que não houver um recurso. Se o hexágono não possui um recurso, apenas as Melhorias apropriadas podem ser construídas.</Text>
+			<Text>As melhorias só podem ser construídas em locais apropriados. ({TXT_KEY_IMPROVEMENT_FARM[2]} não pode ser construídas em {TXT_KEY_FEATURE_ICE}, por exemplo, e {TXT_KEY_IMPROVEMENT_MINE[2]} não podem ser construídas em cima de recursos de gado.) O Painel de Ação do Trabalhador só irá mostrar as melhorias que a sua civilização tem a tecnologia para construir e as que são apropriadas para o hexágono que o trabalhador ativo está. Geralmente, as {TXT_KEY_IMPROVEMENT_FARM[2]} e {TXT_KEY_IMPROVEMENT_MINE[2]} podem ser construídas em qualquer hexágono que não houver um recurso. Se o hexágono não possui um recurso, apenas as Melhorias apropriadas podem ser construídas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WHERETOCONSTRUCT_HEADING3_TITLE">
 			<Text>Onde Construir Melhorias</Text>
@@ -11484,7 +11484,7 @@
 			<Text>Como funcionam os {TXT_KEY_UNIT_WORK_BOAT[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_BODY">
-			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar Barcos de Pesca e melhorias de Plataforma Costeira na água. Ao contrário dos Trabalhadores da terra, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando eles criam uma melhoria.</Text>
+			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]} são unidades de trabalho especiais construídos em cidades costeiras. Eles podem criar {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]} e melhorias de {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM} na água. Ao contrário dos Trabalhadores da terra, {TXT_KEY_UNIT_WORK_BOAT[2]} são consumidos quando eles criam uma melhoria.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_WORKBOATS_HEADING2_TITLE">
 			<Text>{TXT_KEY_UNIT_WORK_BOAT[2]}</Text>

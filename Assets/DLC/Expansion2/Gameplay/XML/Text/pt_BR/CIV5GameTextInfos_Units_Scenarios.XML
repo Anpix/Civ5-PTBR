@@ -65,7 +65,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER">
 			<Text>Engenheiro Militar|Engenheiros Militares</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_STRATEGY">

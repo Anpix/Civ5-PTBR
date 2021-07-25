@@ -15,7 +15,7 @@
 		</Row>
 		<!-- Improvements -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM">
-			<Text>Terrace Farm</Text>
+			<Text>Fazenda em Terraços</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_TIPI">
 			<Text>Tipi</Text>

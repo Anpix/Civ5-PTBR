@@ -136,7 +136,7 @@
             <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR] que melhoram a sua produção de [ICON_CULTURE]Cultura e [ICON_RESEARCH]Ciência, respectivamente. Também permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
-            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]Acampamentos[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles.</Text>
+            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_OBSERVATORY_HELP">
             <Text>Aumenta a produção de pontos de [ICON_RESEARCH]Ciência desta cidade. Neste cenário, a cidade não precisa estar próximo a uma {TXT_KEY_TERRAIN_MOUNTAIN}.</Text>

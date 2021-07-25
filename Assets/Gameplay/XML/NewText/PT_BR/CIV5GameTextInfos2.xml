@@ -1040,10 +1040,10 @@
             <Text>Não é permitido aos jogadores exterminar cidades depois de capturá-las.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_GOODY_HUTS">
-            <Text>Sem ruínas antigas</Text>
+            <Text>Sem {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_GOODY_HUTS_HELP">
-            <Text>Ruínas antigas não aparecerão no mapa.</Text>
+            <Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} não aparecerão no mapa.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_ONE_CITY_CHALLENGE">
             <Text>Desafio uma cidade</Text>

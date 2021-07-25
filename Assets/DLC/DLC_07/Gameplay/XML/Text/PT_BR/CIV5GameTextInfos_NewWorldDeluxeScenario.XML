@@ -441,13 +441,13 @@
 			<Text>[COLOR_POSITIVE_TEXT]Aristocracy[ENDCOLOR][NEWLINE]+15% [ICON_PRODUCTION] Production when building Wonders and +1 [ICON_PEACE] Faith from every Workshop.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM">
-			<Text>Barter System</Text>
+			<Text>Sistema de Permuta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Barter System[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold from every Trading Post and Brazilwood Camp. +2 [ICON_HAPPINESS_1] Happiness from each Luxury resource.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_BARTER_SYSTEM}[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro de cada {TXT_KEY_IMPROVEMENT_TRADING_POST} e {TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP}. +2 de [ICON_HAPPINESS_1]Felicidade de cada Recurso de Luxo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_TEXT">
-			<Text>A barter system with a reciprocal exchange of goods or services prevailed in the New World, among the natives, between the natives and the European settlers, and between the colonists themselves. Until the first coins minted in the New World - copper maravedi in Santo Domingo in 1502 AD - barter was the basis of the Americas' economy. </Text>
+			<Text>Um {TXT_KEY_POLICY_BARTER_SYSTEM} com troca recíproca de bens ou serviços prevaleceu no Novo Mundo, entre os nativos, entre os nativos e os colonos europeus e entre os próprios colonos. Até as primeiras moedas cunhadas no Novo Mundo - cobre maravedi em Santo Domingo em 1502 d.C. - a troca era a base da economia das Américas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CITIZENSHIP_NWS_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Citizenship[ENDCOLOR][NEWLINE][ICON_GOLD] Gold cost of purchasing buildings reduced by 33%. +1 [ICON_PEACE] Faith from each building that requires an improved resource. (Chocolate House, Circus, Forge, Mint, and Stone Works)</Text>

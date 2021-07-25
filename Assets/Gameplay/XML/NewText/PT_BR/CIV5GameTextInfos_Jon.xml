@@ -491,7 +491,7 @@
 			<Text>Uma unidade naval Bárbara se juntou ao seu exército e deu [ICON_GOLD]Ouro a você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_GOODY_HUT">
-			<Text>Você descobriu ruínas antigas! Enviar uma unidade a ela pode revelar segredos misteriosos!</Text>
+			<Text>Você descobriu {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}! Enviar uma unidade a ela pode revelar segredos misteriosos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_NATURAL_WONDER">
 			<Text>Você descobriu {@2: gender *:noart? ; feminine?{@2: plural 1?a; other?as;}; other?{@2: plural 1?o; other?os;};} {@2_NaturalWonder}! Há ainda {1_Num} {1: plural 1?Maravilha a ser encontrada; other?Maravilhas a serem encontradas;}.</Text>
@@ -1015,7 +1015,7 @@
 			<Text>Unidade naval bárbara se juntou a você</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_GOODY_HUT">
-			<Text>Ruínas descobertas</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} descobertas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_NATURAL_WONDER">
 			<Text>Maravilha Natural descoberta</Text>
@@ -1598,7 +1598,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Soberania[ENDCOLOR][NEWLINE]+15% de [ICON_RESEARCH]Ciência enquanto o Império estiver [ICON_HAPPINESS_1]Feliz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREE_THOUGHT_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Pensamento Livre[ENDCOLOR][NEWLINE]+1 de [ICON_RESEARCH]Ciência vindos de cada Posto Comercial e +17% de [ICON_RESEARCH]Ciência de Universidades.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Pensamento Livre[ENDCOLOR][NEWLINE]+1 de [ICON_RESEARCH]Ciência vindos de cada {TXT_KEY_IMPROVEMENT_TRADING_POST} e +17% de [ICON_RESEARCH]Ciência de {TXT_KEY_BUILDING_UNIVERSITY[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_HUMANISM}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade vindos de cada {TXT_KEY_BUILDING_UNIVERSITY}, {TXT_KEY_BUILDING_OBSERVATORY} e {TXT_KEY_BUILDING_PUBLIC_SCHOOL}.</Text>
@@ -2329,7 +2329,7 @@
 			<Text>Construir [LINK=IMPROVEMENT_CAMP]{TXT_KEY_IMPROVEMENT_CAMP}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FARM">
-			<Text>Construir [LINK=IMPROVEMENT_FARM]Fazenda[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_FARM]{TXT_KEY_IMPROVEMENT_FARM}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FOOD_REC">
 			<Text>Irá aumentar a quantidade de [ICON_FOOD]Alimento por hexágono, acelerando o nascimento de novos [ICON_CITIZEN]cidadãos.</Text>
@@ -2350,10 +2350,10 @@
 			<Text>+50% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
-			<Text>+100% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à Cidadela receberá 3 pontos de dano. Construindo a Cidadela, consumirá esta unidade.</Text>
+			<Text>+100% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano. Construindo a {TXT_KEY_IMPROVEMENT_CITADEL}, consumirá esta unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL">
-			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]Serraria[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]{TXT_KEY_IMPROVEMENT_LUMBERMILL}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL_REC">
 			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, enquanto mantém sua {TXT_KEY_FEATURE_FOREST} intacta.</Text>
@@ -2365,7 +2365,7 @@
 			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, aumentando a velocidade na construção de qualquer coisa na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_OFFSHORE_PLATFORM">
-			<Text>Criar [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]Plataforma Costeira[\LINK]</Text>
+			<Text>Criar [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]{TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_OFFSHORE_PLATFORM_REC">
 			<Text>Conecta este hexágono com [ICON_RES_OIL]Petróleo a nossa rede comercial, o que nos permite construir unidades avançadas!</Text>
@@ -2413,7 +2413,7 @@
 			<Text>Permitirá que unidades se movam mais rápido pelo terreno. Conectando outras cidades a sua [ICON_CAPITAL]Capital, proporcionará uma produção adicional de [ICON_GOLD]Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TRADING_POST">
-			<Text>Construir [LINK=IMPROVEMENT_TRADING_POST]Posto Comercial[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_TRADING_POST]{TXT_KEY_IMPROVEMENT_TRADING_POST}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_GOLD_REC">
 			<Text>Aumenta a quantidade de [ICON_GOLD]Ouro neste hexágono, crescendo o montante de dinheiro que terá disponível para gastar!</Text>
@@ -2425,7 +2425,7 @@
 			<Text>Remove os resíduos nucleares presentes neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_WELL">
-			<Text>Construir [LINK=IMPROVEMENT_WELL]Poço de Petróleo[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_WELL]{TXT_KEY_IMPROVEMENT_WELL}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_WELL_REC">
 			<Text>Conectará o [ICON_RES_OIL]Petróleo deste hexágono a sua rede comercial, permitindo a construção de unidades avançadas!</Text>
@@ -2437,16 +2437,16 @@
 			<Text>Unidade será consumida.[NEWLINE][NEWLINE]+6 de [ICON_CULTURE]Cultura.[NEWLINE][NEWLINE]Grandes Melhorias conectarão Recursos Estratégicos deste hexágono à rede comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ACADEMY">
-			<Text>Construir Academia</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_ACADEMY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CUSTOMS_HOUSE">
-			<Text>Construir Alfândega</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MANUFACTORY">
 			<Text>Construir {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL">
-			<Text>Construir Cidadela</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_CITADEL}</Text>
 		</Row>
 		<!-- Unit Action Help Text -->
 		<Row Tag="TXT_KEY_ACTION_AUTOMATE_BUILD_HELP">

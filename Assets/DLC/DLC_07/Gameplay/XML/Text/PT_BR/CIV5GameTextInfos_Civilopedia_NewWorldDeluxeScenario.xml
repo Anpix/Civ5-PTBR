@@ -16,10 +16,10 @@
 			<Text>The Castle is a Medieval-era building which increases the city's Defensive Strength by 12 and Hit Points by 25. The ciy must posses Walls before the Castle can be constructed.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_HELP">
-			<Text>Each plantation worked by this City produces +1 [ICON_GOLD] Gold, except Cocoa Plantations which when worked by this city instead provide +3 [ICON_GOLD]. [NEWLINE][NEWLINE]City must have at least one plantation nearby.</Text>
+			<Text>Cada {TXT_KEY_IMPROVEMENT_PLANTATION} explorada por esta cidade produz +1 de [ICON_GOLD]Gold, exceto {TXT_KEY_IMPROVEMENT_PLANTATION[2]} de Cacau, que quando exploradas por esta cidade produzem +3 de [ICON_GOLD]Ouro. [NEWLINE][NEWLINE]A cidade deve ter pelo menos uma {TXT_KEY_IMPROVEMENT_PLANTATION} próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_STRATEGY">
-			<Text>The Chocolate House can only be constructed in a city with a plantation nearby. The Chocolate House increases the [ICON_GOLD] Gold output for each plantation by one and each improved Cocoa resource increases the [ICON_GOLD] Gold output by an additional 2.</Text>
+			<Text>A {TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE} só pode ser constrída em uma cidade com uma {TXT_KEY_IMPROVEMENT_PLANTATION} próxima. A {TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE} aumenta a geração de [ICON_GOLD]Ouro para cada {TXT_KEY_IMPROVEMENT_PLANTATION} em um, e cada {TXT_KEY_IMPROVEMENT_PLANTATION} de Cacau aumenta a geração de [ICON_GOLD]Ouro em 2 adicionais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHOCOLATE_HOUSE_TEXT">
 			<Text>In 1643 AD, the French court embraced chocolate - first imported from the New World in 1585 into Spain - and a chocolate fad swept across Europe in the following decade. The first chocolate house opened in London in 1657 offering beverages and confections made of the stuff, and soon such become trendy meeting places for the elite across the continent.</Text>

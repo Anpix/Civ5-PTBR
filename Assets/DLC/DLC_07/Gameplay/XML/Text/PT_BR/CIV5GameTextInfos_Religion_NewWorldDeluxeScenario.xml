@@ -15,19 +15,19 @@
 		</Row>
 		<!-- Pantheons-->
 		<Row Tag="TXT_KEY_BELIEF_APU">
-			<Text>+3 [ICON_PEACE] Faith in cities with a [ICON_CONNECTED] City Connection, +1 [ICON_GOLD] Gold from Trading Posts, and use [ICON_PEACE] Faith to purchase Workers.</Text>
+			<Text>+3 de [ICON_PEACE]Fé em cidades com uma [ICON_CONNECTED]Conexão, +1 de [ICON_GOLD]Ouro de {TXT_KEY_IMPROVEMENT_TRADING_POST[2]}, e use [ICON_PEACE]Fé para comprar Trabalhadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_APU_SHORT">
 			<Text>Apu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_COQUIHANI">
-			<Text>+2 [ICON_PEACE] Faith from Quarries, +15% [ICON_PRODUCTION] Production of Wonders, and may build Workshops with [ICON_PEACE] Faith.</Text>
+			<Text>+2 de [ICON_PEACE]Fé de {TXT_KEY_IMPROVEMENT_QUARRY[2]}, +15% de [ICON_PRODUCTION]Produção de Maravilhas, e pode construir {TXT_KEY_BUILDING_WORKSHOP[2]} com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COQUIHANI_SHORT">
 			<Text>Coquihani</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_COYOTE">
-			<Text>+1 [ICON_PEACE] Faith and +1 [ICON_RESEARCH] Science from Plantations, and may build Libraries with [ICON_PEACE] Faith.</Text>
+			<Text>+1 de [ICON_PEACE]Fé e +1 de [ICON_RESEARCH]Ciência de {TXT_KEY_IMPROVEMENT_PLANTATION[2]}, e pode construir {TXT_KEY_BUILDING_LIBRARY[2]} com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COYOTE_SHORT">
 			<Text>Coyote Steals Fire</Text>
@@ -57,7 +57,7 @@
 			<Text>Sedna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SOSONDOWAH">
-			<Text>+4 [ICON_PEACE] Faith from Citadels and +2 [ICON_PEACE] Faith Forts, +30% increase in city [ICON_RANGE_STRENGTH] Ranged Combat Strength, and may build Walls with [ICON_PEACE] Faith.</Text>
+			<Text>+4 de [ICON_PEACE]Fé de {TXT_KEY_IMPROVEMENT_CITADEL[2]} e +2 de [ICON_PEACE]Fé de {TXT_KEY_IMPROVEMENT_FORT[2]}, +30% de aumento [ICON_RANGE_STRENGTH] na Força de Combate à Distância da cidade, e pode construir {TXT_KEY_BUILDING_WALLS[2]} com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOSONDOWAH_SHORT">
 			<Text>Sosondowah</Text>
@@ -118,7 +118,7 @@
 			<Text>Holy Low Ground</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_NWS">
-			<Text>+2 [ICON_PEACE] Faith from Plantations</Text>
+			<Text>+2 de [ICON_PEACE]Fé de {TXT_KEY_IMPROVEMENT_PLANTATION[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_NWS">
 			<Text>+8 de [ICON_PEACE]Fé de Maravilhas Naturais</Text>

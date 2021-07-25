@@ -98,7 +98,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Intercâmbio Cultural[ENDCOLOR][NEWLINE]Aumenta o modificador de turismo por religião compartilhada, rotas comerciais e fronteiras abertas em 15% cada.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Comércio[ENDCOLOR] fornece bônus para impérios focados em [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Adotando Comércio, você irá aumentar a produção de [ICON_GOLD]Ouro na sua [ICON_CAPITAL]Capital em 25%. Desbloqueia a construção do Big Ben.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Comércio, será fornecido +1 de [ICON_GOLD]Ouro para cada Posto Comercial, além de permitir a compra de Grandes Mercadores com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Comércio[ENDCOLOR] fornece bônus para impérios focados em [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Adotando Comércio, você irá aumentar a produção de [ICON_GOLD]Ouro na sua [ICON_CAPITAL]Capital em 25%. Desbloqueia a construção do Big Ben.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Comércio, será fornecido +1 de [ICON_GOLD]Ouro para cada {TXT_KEY_IMPROVEMENT_TRADING_POST}, além de permitir a compra de Grandes Mercadores com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP">
             <Text>Empreendedorismo</Text>
@@ -215,7 +215,7 @@
             <Text>Nova Transação</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NEW_DEAL_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]Pontos de Referência e Grandes Pessoas melhoram a produção em +4 de seu respectivo rendimento.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]{TXT_KEY_IMPROVEMENT_LANDMARK[2]} e Grandes Pessoas melhoram a produção em +4 de seu respectivo rendimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY">
             <Text>Arsenal da Democracia</Text>
@@ -702,10 +702,10 @@
             <Text>Fornece +2 de [ICON_TOURISM]Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_HELP">
-            <Text>Converte o {TXT_KEY_RESOURCE_ARTIFACTS} em uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Converte o {TXT_KEY_RESOURCE_ARTIFACTS} em uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC">
-            <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
             <Text>Constrói um Acampamento de Pau-Brasil, que aumenta a quantidade de [ICON_GOLD]Ouro fornecido por este hexágono, mantendo a {TXT_KEY_FEATURE_JUNGLE} intocada. Também fornece [ICON_CULTURE]Cultura assim que a Acústica for pesquisada.</Text>
@@ -735,10 +735,10 @@
             <Text>A unidade será consumida.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência. {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]} são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
+            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}. {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]} são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_NUTMEG_HELP">
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
