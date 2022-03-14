@@ -162,9 +162,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER">
-			<Text>Panzer</Text>
+			<Text>Panzer|Panzers</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST">
 			<Text>Grande Artista|Grandes Artistas</Text>
@@ -207,9 +207,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP">
-			<Text>Helicóptero Armado</Text>
+			<Text>Helicóptero de Assalto|Helicópteros de Assalto</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HORSEMAN">
 			<Text>Jinete|Jinetes</Text>
@@ -287,9 +287,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR">
-			<Text>Tanque Blindado</Text>
+			<Text>Tanque Blindado|Tanques Blindados</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MUSKETMAN">
 			<Text>Mosquete|Mosquetes</Text>
@@ -1164,7 +1164,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
-			<Text>Bônus vs tanques</Text>
+			<Text>Bônus vs {TXT_KEY_UNIT_TANK[2]}</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1423,7 +1423,7 @@
 			<Text>A mais rápida e poderosa unidade da fase final do jogo. Recebe penalidade quando ataca cidades ou quando fica na defesa, mas é incrivelmente efetiva em terreno aberto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
-			<Text>Unidade especializada em combater Tanques (blindados ou não). É capaz de pairar sobre montanhas.</Text>
+			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} (blindados ou não). É capaz de pairar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MOBILE_SAM">
 			<Text>Intercepta aeronaves inimigas que tentam bombardear unidades próximas.</Text>
@@ -1453,7 +1453,7 @@
 			<Text>A mais rápida e poderosa unidade da Era Industrial. Recebe penalidade enquanto ataca cidades ou quando fica na defesa, mas é incrivelmente efetiva em terreno aberto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_PANZER">
-			<Text>Apenas os Alemães podem construí-la. Esta unidade possui 1 ponto de movimento adicional, comparada ao Tanque que ela substitui.</Text>
+			<Text>Apenas os Alemães podem construí-la. Esta unidade possui 1 ponto de movimento adicional, comparada ao {TXT_KEY_UNIT_TANK} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ARTILLERY">
 			<Text>A primeira unidade de cerco do jogo, capaz de atirar até 3 hexágonos de distância. Deve ser preparada antes de atacar.</Text>
@@ -1462,7 +1462,7 @@
 			<Text>Intercepta aeronaves inimigas que tentam bombardear unidades próximas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ANTI_TANK_GUN">
-			<Text>Uma unidade relativamente barata especializada em combater Tanques.</Text>
+			<Text>Uma unidade relativamente barata especializada em combater {TXT_KEY_UNIT_TANK[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_INFANTRY">
 			<Text>Unidade de infantaria básica da Era Industrial.</Text>
