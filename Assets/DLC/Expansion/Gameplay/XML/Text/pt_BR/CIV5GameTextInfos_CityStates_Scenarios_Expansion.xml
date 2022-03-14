@@ -7,7 +7,7 @@
 	<Language_pt_BR>
 		<!-- INTO THE RENAISSANCE -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG">
-			<Text>Augsburg</Text>
+			<Text>Augsburgo</Text>
 			<Gender>neuter:noart</Gender>
 			<Plurality>1</Plurality>
 		</Row>

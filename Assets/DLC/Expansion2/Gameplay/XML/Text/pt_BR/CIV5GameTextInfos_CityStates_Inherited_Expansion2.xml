@@ -3,7 +3,7 @@
     <Language_pt_BR>
         <Row Tag="TXT_KEY_CITYSTATE_ANTWERP">
             <Text>Antuérpia</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJ">
@@ -13,7 +13,7 @@
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_CAHOKIA">
             <Text>Cahokia</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_ADJ">
@@ -23,7 +23,7 @@
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_COLOMBO">
             <Text>Colombo</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJ">
@@ -33,7 +33,7 @@
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG">
             <Text>Hong Kong</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
@@ -42,17 +42,17 @@
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
             <Text>Jerusalém</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJ">
             <Text>Hierosolomita|Hierosolomitas</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_LA_VENTA">
             <Text>La Venta</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJ">
@@ -62,17 +62,17 @@
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MANILA">
             <Text>Manila</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJ">
             <Text>Manilense|Manilenses</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MILAN">
             <Text>Milão</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MILAN_ADJ">
@@ -82,32 +82,32 @@
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MOMBASA">
             <Text>Mombaça</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJ">
             <Text>Mombacense|Mombacenses</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_PRAGUE">
             <Text>Praga</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJ">
             <Text>Praguense|Praguenses</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_VALLETTA">
             <Text>Valeta</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJ">
             <Text>Valetense|Valetenses</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY">
@@ -121,18 +121,18 @@
             <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
-            <Text>Wittenberg</Text>
-            <Gender>neuter</Gender>
+            <Text>Vitemberga</Text>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
-            <Text>Wittenberguiano|Wittenberguiana|Wittenberguianos|Wittenberguianas</Text>
+            <Text>Vitemberguiano|Vitemberguiana|Vitemberguianos|Vitemberguianas</Text>
             <Gender>masculine|feminine|masculine|feminine</Gender>
             <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_YEREVAN">
-            <Text>Erevan</Text>
-            <Gender>neuter</Gender>
+            <Text>Erevã</Text>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJ">
@@ -142,17 +142,17 @@
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR">
             <Text>Zanzibar</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ">
             <Text>Zanzibarita|Zanzibaritas</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ZURICH">
             <Text>Zurique</Text>
-            <Gender>neuter</Gender>
+            <Gender>neuter:noart</Gender>
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
