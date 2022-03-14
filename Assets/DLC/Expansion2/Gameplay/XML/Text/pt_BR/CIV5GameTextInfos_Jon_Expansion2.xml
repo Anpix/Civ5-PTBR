@@ -128,7 +128,7 @@
             <Text>Exploração</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Exploração[ENDCOLOR] melhora sua habilidade de espalhar seu império pelos mares.[NEWLINE][NEWLINE]Ao adotar Exploração, +1 de [ICON_MOVES]Movimento é dado às unidades navais e +1 de Visibilidade às unidades navais de combate. Desbloqueia a construção do Louvre.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Exploração, você será capaz de ver Sítios Arqueológicos Escondidos, além de permitir a compra de Grandes Almirantes com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Exploração[ENDCOLOR] melhora sua habilidade de espalhar seu império pelos mares.[NEWLINE][NEWLINE]Ao adotar Exploração, +1 de [ICON_MOVES]Movimento é dado às unidades navais e +1 de Visibilidade às unidades navais de combate. Desbloqueia a construção do Louvre.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Exploração, você será capaz de ver {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]}, além de permitir a compra de Grandes Almirantes com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE">
             <Text>Infraestrutura Marítima</Text>
@@ -620,7 +620,7 @@
             <Text>Pagão Convertido</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_ARCHAEOLOGY">
-            <Text>Uma Escavação Arqueológica foi estabelecida em um Sítio Arqueológico. Escolha como usar o Arqueologista que você possui próximo a este local.</Text>
+            <Text>Uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG} foi estabelecida em um {TXT_KEY_RESOURCE_ARTIFACTS}. Escolha como usar o {TXT_KEY_UNIT_ARCHAEOLOGIST} que você possui próximo a este local.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_ARCHAEOLOGY">
             <Text>ESCOLHER ARQUEOLOGIA</Text>
@@ -702,7 +702,7 @@
             <Text>Fornece +2 de [ICON_TOURISM]Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_HELP">
-            <Text>Converte o Sítio Arqueológico em uma Escavação Arqueológica, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Converte o {TXT_KEY_RESOURCE_ARTIFACTS} em uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria Ponto de Referência.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC">
             <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria Ponto de Referência.</Text>
@@ -735,10 +735,10 @@
             <Text>A unidade será consumida.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma Escavação Arqueológica, um Sítio Arqueológico Escondido pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência. Sítios Arqueológicos Escondidos são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
+            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência. {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]} são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_NUTMEG_HELP">
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
@@ -818,9 +818,9 @@
         <Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION_HELP">
             <Text>+1 de [ICON_PRODUCTION]Produção de Cientistas, e +1 de [ICON_RESEARCH]Ciência de Engenheiros. Grandes Cientistas fornecem 33% mais [ICON_RESEARCH]Ciência quando usados para pesquisar novas tecnologias. Só pode ser construída colaborativamente através do Congresso Mundial.</Text>
         </Row>
-        <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_FOUND_ON_DIG_SITE">
-            <Text>Tem certeza que deseja {@1_ActionName}?[NEWLINE]O Sítio Arqueológico atual será permanentemente removido.</Text>
-        </Row>
+		<Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_FOUND_ON_DIG_SITE">
+			<Text>Tem certeza que deseja {@1_ActionName}?[NEWLINE]O {TXT_KEY_RESOURCE_ARTIFACTS} atual será permanentemente removido.</Text>
+		</Row>
         <Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
             <Text>Em território amigo, Florestas e Selvas são como Estradas. Após descobrir A Roda, esses hexágonos podem criar [ICON_CONNECTED]Conexões com Cidades. As Caravanas se movem por Florestas e Selvas como em Estradas.</Text>
         </Row>
@@ -879,8 +879,8 @@
             <Text>[COLOR_NEGATIVE_TEXT]Eles pediram para você parar de escavar os artefatos deles e você os ignorou![ENDCOLOR]</Text>
         </Row>
 		<Row Tag="TXT_KEY_DIPLO_LANDMARKS_BUILT">
-		  <Text>[COLOR_POSITIVE_TEXT]Você construiu um Ponto de Referência no território deles.[ENDCOLOR]</Text>
-		</Row>		
+			<Text>[COLOR_POSITIVE_TEXT]Você construiu um {TXT_KEY_IMPROVEMENT_LANDMARK} no território deles.[ENDCOLOR]</Text>
+		</Row>
         <Row Tag="TXT_KEY_DIPLO_PLUNDERING_OUR_TRADE_ROUTES">
             <Text>[COLOR_NEGATIVE_TEXT]Você saqueou rotas comerciais deles![ENDCOLOR]</Text>
         </Row>
@@ -944,18 +944,18 @@
 		</Row>
 		<Row Tag="TXT_KEY_LIBERATION_PREVIEW_EXTREME">
 			<Text>Você receberá um bônus de liberação [COLOR_POSITIVE_TEXT]EXTREMO[ENDCOLOR] (que apaga penalidades de provocação de guerra anteriores) se você liberar esta cidade.</Text>
-		</Row>		
-        <Row Tag="TXT_KEY_NOTIFICATION_FOUND_ARTIFACTS">
-            <Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]Sítio Arqueológico[ENDCOLOR]!</Text>
-        </Row>
-        <Row Tag="TXT_KEY_NOTIFICATION_FOUND_HIDDEN_ARTIFACTS">
-            <Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]Sítio Arqueológico Escondido[ENDCOLOR]!</Text>
-        </Row>
-        <Row Tag="TXT_KEY_MISC_DISCOVERED_ARTIFACTS_NEAR">
-            <Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]Sítio Arqueológico[ENDCOLOR] próximo {@1: gender *:art?ao; masculine?{@1: plural 1?ao; other?aos;}; feminine?{@1: plural 1?à; other?às;};} {@1_CityName}!</Text>
-        </Row>
-        <Row Tag="TXT_KEY_MISC_DISCOVERED_HIDDEN_ARTIFACTS_NEAR">
-            <Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]Sítio Arqueológico Escondido[ENDCOLOR] próximo {@1: gender *:art?ao; masculine?{@1: plural 1?ao; other?aos;}; feminine?{@1: plural 1?à; other?às;};} {@1_CityName}!</Text>
-        </Row>
-    </Language_pt_BR>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_ARTIFACTS">
+			<Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]{TXT_KEY_RESOURCE_ARTIFACTS}[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_HIDDEN_ARTIFACTS">
+			<Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]{TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS}[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_DISCOVERED_ARTIFACTS_NEAR">
+			<Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]{TXT_KEY_RESOURCE_ARTIFACTS}[ENDCOLOR] próximo {@1: gender *:art?ao; masculine?{@1: plural 1?ao; other?aos;}; feminine?{@1: plural 1?à; other?às;};} {@1_CityName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_DISCOVERED_HIDDEN_ARTIFACTS_NEAR">
+			<Text>Você descobriu um [COLOR_HIGHLIGHT_TEXT]{TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS}[ENDCOLOR] próximo {@1: gender *:art?ao; masculine?{@1: plural 1?ao; other?aos;}; feminine?{@1: plural 1?à; other?às;};} {@1_CityName}!</Text>
+		</Row>
+	</Language_pt_BR>
 </GameData>

@@ -237,9 +237,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_LANDMARK">
-			<Text>Ponto de Referência|Pontos de Referências</Text>
+			<Text>Ponto de Referência|Pontos de Referência</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_ACADEMY">
 			<Text>Academia|Academias</Text>

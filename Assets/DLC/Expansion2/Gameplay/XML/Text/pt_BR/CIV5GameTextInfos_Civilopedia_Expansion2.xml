@@ -1120,7 +1120,7 @@
 		</Row>
 		<!-- UNITS -->
 		<Row Tag="TXT_KEY_UNIT_ARCHAEOLOGIST_STRATEGY">
-			<Text>Envie um {TXT_KEY_UNIT_ARCHAEOLOGIST} para examinar cada Sítio Arqueológico perto de sua civilização e decida se deseja enviar um Artefato a uma de suas cidades ou criar um {TXT_KEY_IMPROVEMENT_LANDMARK} naquele hexágono.</Text>
+			<Text>Envie um {TXT_KEY_UNIT_ARCHAEOLOGIST} para examinar cada {TXT_KEY_RESOURCE_ARTIFACTS} perto de sua civilização e decida se deseja enviar um Artefato a uma de suas cidades ou criar um {TXT_KEY_IMPROVEMENT_LANDMARK} naquele hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER_STRATEGY">
 			<Text>Esta unidade de cerco de ataque corpo a corpo deve mover-se próximo de uma cidade inimiga para ser eficiente, mas assim que consegue, é devastadora. Ela não só tem um ataque poderoso contra cidades, mas também confere um bônus para qualquer uma de suas unidades próximas que também esteja atacando a cidade. Complemente a {TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER} com unidades de ataque corpo a corpo ou unidades de ataque a distância, certifique-se de que ela chegue ao seu alvo antes de ser destruída e as cidades vão cair muito mais rápido.</Text>
@@ -1280,7 +1280,7 @@
 		</Row>
 		<!-- IMPROVEMENTS -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ARCHAEOLOGICAL_DIG_TEXT">
-			<Text>Uma Escavação Arqueológica só pode ser construída por um arqueólogo no recurso do Sítio Arqueológico. As escavações na antiga cidade de Troia são um exemplo de uma proeminente escavação arqueológica. Ao construir o Dig, seu arqueólogo descobrirá que tipo de Artefato está enterrado neste local. Você pode escolher fazer com que o arqueólogo crie uma melhoria permanente no marco ou extraia o Artefato para colocá-lo em uma grande obra de arte em um prédio em seu império.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG} só pode ser construída por um {TXT_KEY_UNIT_ARCHAEOLOGIST} no recurso do {TXT_KEY_RESOURCE_ARTIFACTS}. As escavações na antiga cidade de Troia são um exemplo de uma proeminente {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}. Ao construir a {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, seu {TXT_KEY_UNIT_ARCHAEOLOGIST} descobrirá que tipo de Artefato está enterrado neste local. Você pode escolher fazer com que o {TXT_KEY_UNIT_ARCHAEOLOGIST} crie uma melhoria permanente no marco ou extraia o Artefato para colocá-lo em uma grande obra de arte em um prédio em seu império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_TEXT">
 			<Text>O pau-brasil é uma madeira tropical cuja casca produz um extrato carmesim e roxo intenso usado em corantes. Sua madeira é densa e é valorizada por criar instrumentos de cordas (especialmente os arcos) e armários. A colheita do pau-brasil não cessou até 1875, época em que os corantes sintéticos dominaram a indústria têxtil e outras madeiras de lei foram consideradas melhores para instrumentos musicais[NEWLINE][NEWLINE]Um acampamento brasileiro só pode ser construído em um mosaico da selva. e também irá gerar +2 [ICON_CULTURE] Cultura assim que a Acústica for pesquisada.</Text>
@@ -1659,22 +1659,22 @@
 			<Text>Como faço para gerenciar minhas Grandes Obras?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARCH_HEADING2_TITLE">
-			<Text>Arqueologia</Text>
+			<Text>{TXT_KEY_TECH_ARCHAEOLOGY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARCH_HEADING2_BODY">
-			<Text>Uma vez que você tenha pesquisado a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY_TITLE}, haverá um novo recurso que aparece no mapa chamado "Sítios Arqueológicos". Neste local você observa os acontecimentos reais que ocorreram anteriormente em seu jogo, como batalhas que foram travadas em um determinado hexágono ou talvez um acampamento de bárbaros. Para tirar proveito desses sítios, você vai precisar treinar um "{TXT_KEY_UNIT_ARCHAEOLOGIST}", que pode extrair um artefato do local ou construir um {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
+			<Text>Uma vez que você tenha pesquisado a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY}, haverá um novo recurso que aparece no mapa chamado {TXT_KEY_RESOURCE_ARTIFACTS[2]}. Neste local você observa os acontecimentos reais que ocorreram anteriormente em seu jogo, como batalhas que foram travadas em um determinado hexágono ou talvez um acampamento de bárbaros. Para tirar proveito desses sítios, você vai precisar treinar um {TXT_KEY_UNIT_ARCHAEOLOGIST}, que pode extrair um artefato do local ou construir um {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARCH_ADV_QUEST">
-			<Text>O que é Arqueologia?</Text>
+			<Text>O que é {TXT_KEY_TECH_ARCHAEOLOGY}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ANTIQUITY_HEADING2_TITLE">
-			<Text>Sítio Arqueológico</Text>
+			<Text>{TXT_KEY_RESOURCE_ARTIFACTS}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ANTIQUITY_HEADING2_BODY">
-			<Text>Para tirar proveito de um Sítio Arqueológico, você deve primeiro treinar um {TXT_KEY_UNIT_ARCHAEOLOGIST}. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são unidades que só podem ser treinados em uma cidade com uma {TXT_KEY_BUILDING_UNIVERSITY}. Uma vez treinado, mande-o para qualquer Sítio Arqueológico (Fronteiras Abertas com outras civilizações são necessárias) e, uma vez que ele chegue, selecione a opção "Construir Escavação Arqueológica" no painel da unidade. Depois de um determinado número de turnos, você terá a opção de extrair um artefato ou criar um {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
+			<Text>Para tirar proveito de um {TXT_KEY_RESOURCE_ARTIFACTS}, você deve primeiro treinar um {TXT_KEY_UNIT_ARCHAEOLOGIST}. {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} são unidades que só podem ser treinados em uma cidade com uma {TXT_KEY_BUILDING_UNIVERSITY}. Uma vez treinado, mande-o para qualquer {TXT_KEY_RESOURCE_ARTIFACTS} (Fronteiras Abertas com outras civilizações são necessárias) e, uma vez que ele chegue, selecione a opção "Construir {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}" no painel da unidade. Depois de um determinado número de turnos, você terá a opção de extrair um artefato ou criar um {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ANTIQUITY_ADV_QUEST">
-			<Text>O que é um Sítio Arqueológico?</Text>
+			<Text>O que é um {TXT_KEY_RESOURCE_ARTIFACTS}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_ARTIFACTS_HEADING2_TITLE">
 			<Text>Artefatos</Text>
@@ -2037,7 +2037,7 @@
 			<Text>Local de Antiguidade Revelado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARCH_BODY">
-			<Text>Um interesse em Arqueologia floresceu em sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT] Sites de antiguidades [/ COLOR] foram revelados no mapa, marcando os locais de eventos historicamente importantes. [NEWLINE] [NEWLINE] Construir um arqueólogo permitirá que você [COLOR_ADVISOR_HIGHLIGHT_TEXT] extraia um Artefato [/ COLOR] do site ou [COLOR_ADVISOR_HIGHLIGHT_TEXT] crie um Marco [/ COLOR].</Text>
+			<Text>Um interesse em {TXT_KEY_TECH_ARCHAEOLOGY} floresceu em sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT] Sites de antiguidades [/ COLOR] foram revelados no mapa, marcando os locais de eventos historicamente importantes. [NEWLINE] [NEWLINE] Treinar um {TXT_KEY_UNIT_ARCHAEOLOGIST} permitirá que você [COLOR_ADVISOR_HIGHLIGHT_TEXT] extraia um Artefato [/ COLOR] do site ou [COLOR_ADVISOR_HIGHLIGHT_TEXT] crie um Marco [/ COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CONGRESS_FOUNDED_DISPLAY">
 			<Text>Congresso Mundial Fundado!</Text>
@@ -2170,7 +2170,7 @@
 			<Text>Os hexágonos oceânicos são hexágonos de águas profundas. Eles fornecem comida e ouro para uma cidade, uma vez que a cidade tem a tecnologia para acessá-los.[NEWLINE][NEWLINE]Cidade: 1 comida[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: nenhum.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LANDMARK_TEXT">
-			<Text>Um marco é qualquer artefato magnífico, estrutura, obra de arte ou maravilha da natureza que atrai os visitantes para um local. A Coluna de Nelson, em Londres, é um marco, assim como o Monte Rushmore, nos Estados Unidos. Nem todo objeto de tamanho significativo, no entanto, é um ponto de referência: a maior bola de barbante do mundo talvez nunca chegue a essa estatura (embora possa valer a pena uma visita). Marcos fornecem +1 [ICON_CULTURE] Cultura para cada Era adicional que passou em comparação com a Era original do Artefato.</Text>
+			<Text>Um {TXT_KEY_IMPROVEMENT_LANDMARK} é qualquer artefato magnífico, estrutura, obra de arte ou maravilha da natureza que atrai os visitantes para um local. A Coluna de Nelson, em Londres, é um {TXT_KEY_IMPROVEMENT_LANDMARK}, assim como o Monte Rushmore, nos Estados Unidos. Nem todo objeto de tamanho significativo, no entanto, é um ponto de referência: a maior bola de barbante do mundo talvez nunca chegue a essa estatura (embora possa valer a pena uma visita). {TXT_KEY_IMPROVEMENT_LANDMARK[2]} fornecem +1 [ICON_CULTURE] Cultura para cada Era adicional que passou em comparação com a Era original do Artefato.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_PILLAGE_HEADING3_BODY">
 			<Text>Pilhar uma melhoria do inimigo irá curar sua unidade em 25 pontos, além de lhe dar uma quantidade modesta de ouro.</Text>
