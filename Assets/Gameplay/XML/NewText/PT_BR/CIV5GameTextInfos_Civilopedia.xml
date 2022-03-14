@@ -954,7 +954,7 @@
 			<Text>Quais são os benefícios dos especialistas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_BENEFITSSPECIALISTS_HEADING3_BODY">
-			<Text>OS especialistas fornecem os seguintes benefícios:[NEWLINE][NEWLINE]Os artistas expandem a cultura da cidade e aceleram a criação de Grandes Artistas.[NEWLINE][NEWLINE]Os mercadores aumentam produção de ouro de uma cidade e aceleram a criação de Grandes Mercadores.[NEWLINE][NEWLINE]Os cientistas expandem a ciência e aceleram a criação de Grandes Cientistas.[NEWLINE][NEWLINE]Os engenheiros aumentam a produção fora das cidades e aceleram a criação de Grandes Engenheiros.</Text>
+			<Text>OS especialistas fornecem os seguintes benefícios:[NEWLINE][NEWLINE]Os artistas expandem a cultura da cidade e aceleram a criação de Grandes Artistas.[NEWLINE][NEWLINE]Os mercadores aumentam produção de [ICON_GOLD]Ouro de uma cidade e aceleram a criação de Grandes Mercadores.[NEWLINE][NEWLINE]Os cientistas expandem a ciência e aceleram a criação de Grandes Cientistas.[NEWLINE][NEWLINE]Os engenheiros aumentam a produção fora das cidades e aceleram a criação de Grandes Engenheiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_BENEFITSSPECIALISTS_HEADING3_TITLE">
 			<Text>Benefícios dos especialistas</Text>
@@ -1239,7 +1239,7 @@
 			<Text>Amigos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GIVEGOLD_ADV_QUEST">
-			<Text>Como afeta a relação com uma Cidade-Estado ao doar Ouro [ICON_GOLD]?</Text>
+			<Text>Como afeta a relação com uma Cidade-Estado ao doar [ICON_GOLD]Ouro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GIVEGOLD_HEADING3_BODY">
 			<Text>Uma das maneiras mais eficaz de aumentar seu total de PI é dar ouro a uma Cidade-Estado. Para isso, clique na Cidade-Estado em questão e, em seguida, escolha o item correspondente do menu.</Text>
@@ -4686,7 +4686,7 @@
 			<Text>Há três tipos de recursos em Civilization V:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE3_TEXT">
-			<Text>Recursos bônus aumentam a produção de [ICON_FOOD]alimento, [ICON_PRODUCTION]Produção ou [ICON_GOLD]ouro de um hexágono.</Text>
+			<Text>Recursos bônus aumentam a geração de [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção ou [ICON_GOLD]Ouro de um hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE4_TEXT">
 			<Text>Recursos de Luxo aumentam a felicidade de sua civilização e oferecem um pequeno bônus à [ICON_PRODUCTION]Produção do hexágono. Apenas uma fonte de recurso de luxo específico fornece um bônus de felicidade. Múltiplas fontes do mesmo recurso não aumentam ainda mais a felicidade de uma civilização (entretanto, eles ainda são valiosos, já que podem ser negociados com outras civilizações). No entanto, você recebe mais bônus de felicidade para cada tipo de recurso de luxo que você possua. Em outras palavras, se sua civilização possui 1 ou 2 fontes de Seda, você recebe o mesmo bônus de felicidade, mas você dobraria o bônus se você negociar a segunda Seda com outra civilização em troca de açúcar.</Text>
@@ -9216,7 +9216,7 @@
 			<Text>O que a habilidade especial Missão Comercial faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TRADEMISSION_HEADING4_BODY">
-			<Text>Você pode consumir um Grande Mercador quando ele estiver dentro das fronteiras de uma Cidade-Estado para conduzir uma "Missão Comercial" com a Cidade-Estado, o que proporciona uma grande quantidade de [ICON_GOLD]ouro e melhora o relacionamento de sua civilização com a Cidade-Estado.</Text>
+			<Text>Você pode consumir um Grande Mercador quando ele estiver dentro das fronteiras de uma Cidade-Estado para conduzir uma "Missão Comercial" com a Cidade-Estado, o que proporciona uma grande quantidade de [ICON_GOLD]Ouro e melhora o relacionamento de sua civilização com a Cidade-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TRADEMISSION_HEADING4_TITLE">
 			<Text>Hab. Especial: Missão Comercial</Text>

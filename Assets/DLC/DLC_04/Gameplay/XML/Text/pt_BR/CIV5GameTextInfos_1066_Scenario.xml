@@ -167,7 +167,7 @@
 			<Text>Vai melhorar a [ICON_STRENGTH]Defesa de qualquer unidade militar estacionada neste local e causará dano às unidades inimigas que terminarem seus turnos em hexágonos adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_TAX_COLLECTION">
-			<Text>Cobradores de impostos retornaram dos condados da Inglaterra. {1_GoldCollected} de [ICON_GOLD] Ouro {1: plural 1?foi coletado; other?foram coletados} dos habitantes das cidades.</Text>
+			<Text>Cobradores de impostos retornaram dos condados da Inglaterra. {1_GoldCollected} de [ICON_GOLD]Ouro {1: plural 1?foi coletado; other?foram coletados} dos habitantes das cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_NEW_RECRUITS">
 			<Text>Novos recrutas ouviram contos de pilhagens em terras vagas da Inglaterra. Você pode encontrar {1_NumUnits} {1: plural 1?nova unidade próxima; other?novas unidades próximas} de sua Capital.</Text>

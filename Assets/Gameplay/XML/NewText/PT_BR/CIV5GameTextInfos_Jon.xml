@@ -341,7 +341,7 @@
 			<Text>Unidade desertada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT">
-			<Text>Seu tesouro está vazio e sua produção de [ICON_GOLD]ouro é igual ou menor que 0 por turno! Caso seu Império atinja {1_Num} de ouro por turno, algumas das suas unidades serão forçadas a desertar!</Text> 
+			<Text>Seu tesouro está vazio e sua produção de [ICON_GOLD]Ouro é igual ou menor que 0 por turno! Caso seu Império atinja {1_Num} de ouro por turno, algumas das suas unidades serão forçadas a desertar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT_S">
 			<Text>Perdendo ouro!</Text>
