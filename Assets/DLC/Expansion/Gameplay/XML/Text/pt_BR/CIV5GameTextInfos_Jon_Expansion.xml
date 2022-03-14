@@ -605,7 +605,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Mercantilismo[ENDCOLOR][NEWLINE]A compra de itens em cidades requer 25% menos [ICON_GOLD]Ouro. +1 de [ICON_RESEARCH]Ciência de cada edifício Casa da Moeda, Mercado, Banco e Bolsa de Valores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Humanismo[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade na cidade local de cada Universidade, Observatório e Escola Pública.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_HUMANISM}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade na cidade local de cada {TXT_KEY_BUILDING_UNIVERSITY}, {TXT_KEY_BUILDING_OBSERVATORY} e {TXT_KEY_BUILDING_PUBLIC_SCHOOL}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_TOTAL_WAR_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Guerra Total[ENDCOLOR][NEWLINE]+25% de [ICON_PRODUCTION]Produção quando estiver produzindo unidades militares e novas unidades militares começam com +15 de experiência.</Text>
