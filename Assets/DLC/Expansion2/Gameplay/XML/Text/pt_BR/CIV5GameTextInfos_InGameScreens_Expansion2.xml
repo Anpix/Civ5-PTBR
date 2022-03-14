@@ -454,7 +454,7 @@
             <Text>Achado Arqueológico</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_LEAD_IN">
-            <Text>Seu arqueologista descobriu...</Text>
+            <Text>Seu {TXT_KEY_UNIT_ARCHAEOLOGIST} descobriu...</Text>
         </Row>
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE1">
             <Text>RELÍQUIAS DE ATAQUE A DISTÂNCIA</Text>
@@ -505,22 +505,22 @@
 		  <Text>Criar Escrita {1_String}</Text>
 		</Row>		
         <Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_RESULT">
-            <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueologista será consumido.</Text>
+            <Text>O Artefato será colocado no espaço de Grande Obra de Arte mais próximo. O Artefato fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O {TXT_KEY_UNIT_ARCHAEOLOGIST} será consumido.</Text>
         </Row>
-	    <Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
-			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O Arqueólogo será consumido.</Text>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
+			<Text>A escrita antiga será colocada no espaço de Grande Obra Literária mais próximo. Escrita fornece +2 de [ICON_CULTURE]Cultura e +2 de [ICON_TOURISM]Turismo. O {TXT_KEY_UNIT_ARCHAEOLOGIST} será consumido.</Text>
 		</Row>
-        <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
-            <Text>Criar Melhoria Ponto de Referência</Text>
-        </Row>
-        <Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
-            <Text>Quando trabalhado, o Ponto de Referência fornece [ICON_CULTURE]Cultura baseada na sua idade. +1 de [ICON_CULTURE]Cultura por Era anterior a atual Era da civilização. O Arqueologista será consumido.</Text>
-        </Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
+			<Text>Criar Melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
+			<Text>Quando trabalhado, o {TXT_KEY_IMPROVEMENT_LANDMARK} fornece [ICON_CULTURE]Cultura baseada na sua idade. +1 de [ICON_CULTURE]Cultura por Era anterior a atual Era da civilização. O {TXT_KEY_UNIT_ARCHAEOLOGIST} será consumido.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MAJOR_CIV">
-		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Ponto de Referência no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>    
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um {TXT_KEY_IMPROVEMENT_LANDMARK} no território de outra civilização gerará um aumento permanente na diplomacia com aquela nação.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MINOR_CIV">
-		  <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um Ponto de Referência no território de uma Cidade-Estado gerará um grande e único aumento de influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]Criar um {TXT_KEY_IMPROVEMENT_LANDMARK} no território de uma Cidade-Estado gerará um grande e único aumento de influência com aquela Cidade-Estado.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_HEADER">
 		  <Text>Iniciar Renascença Cultural</Text>
@@ -856,10 +856,10 @@
             <Text>Clique com botão esquerdo nos Grandes Obras para exibi-los.</Text>
         </Row>
         <Row Tag="TXT_KEY_ANTIQUITY_SITES_TO_EXCAVATE">
-            <Text>Sítios Arqueológicos ainda não escavados: {1_Num}</Text>
+            <Text>{TXT_KEY_RESOURCE_ARTIFACTS[2]} ainda não escavados: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_HIDDEN_SITES_TO_EXCAVATE">
-            <Text>Locais Escondidos ainda não escavados: {1_Num}</Text>
+            <Text>{TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]} ainda não escavados: {1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURAL_INFLUENCE">
             <Text>Os Povos que Gostamos de Visitar</Text>

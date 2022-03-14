@@ -174,7 +174,7 @@
 			<Text>+3 de [ICON_GOLD]Ouro, +2 de [ICON_CULTURE]Cultura e +1 de [ICON_HAPPINESS_1]Felicidade de cada Castelo.[NEWLINE][NEWLINE]A cidade deve estar construída a, no máximo, 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
-			<Text>A cidade deve estar construída no Deserto (ou próxima a ele). +1 de [ICON_FOOD]Alimento, +1 de [ICON_PRODUCTION]Produção, +1 de [ICON_GOLD]Ouro para cada hexágono desértico explorado (exceto Planícies Inundadas). +6 de [ICON_CULTURE]Cultura quando a Arqueologia for pesquisada. Fornece um {TXT_KEY_BUILDING_AMPHITHEATER} gratuito na cidade em que for construída.</Text>
+			<Text>A cidade deve estar construída no {TXT_KEY_TERRAIN_DESERT} (ou próxima a ele). +1 de [ICON_FOOD]Alimento, +1 de [ICON_PRODUCTION]Produção, +1 de [ICON_GOLD]Ouro para cada hexágono desértico explorado (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). +6 de [ICON_CULTURE]Cultura quando a {TXT_KEY_TECH_ARCHAEOLOGY} for pesquisada. Fornece um {TXT_KEY_BUILDING_AMPHITHEATER} gratuito na cidade em que for construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
 			<Text>Um Grande Profeta aparece. Fornece um Templo gratuito na cidade em que for construída.</Text>

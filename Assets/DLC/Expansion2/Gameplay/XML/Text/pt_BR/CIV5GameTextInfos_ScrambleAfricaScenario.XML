@@ -394,10 +394,10 @@
 		<!-- Technologies-->
 		<!-- Improvements -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ARCHAEOLOGICAL_DIG_AFRICA_TEXT">
-			<Text>An Escavação Arqueológica can only be constructed by an Archaeologist at an Sítio Arqueológico resource. The excavations at the tomb of Tutankhamun is an example of a preeminent archaeological dig site. Upon constructing the Dig, your Archaeologist will discover what type of Artefato is buried at this location. Then the artifact is sent back to Europe for bonus victory points..</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG} só pode ser construído por um {TXT_KEY_UNIT_ARCHAEOLOGIST} em um {TXT_KEY_RESOURCE_ARTIFACTS}. As escavações da tumba de Tutancamon são um exemplo de uma importante {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}. Ao construir a Escavação, seu {TXT_KEY_UNIT_ARCHAEOLOGIST} descobrirá que tipo de Artefato está enterrado nesse local. O artefato é então enviado para a Europa para pontos de vitória bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_AFRICA_HELP">
-			<Text>Converts the Sítio Arqueológico into an Escavação Arqueológica, which sends the artifact back to Europe for victory points.</Text>
+			<Text>Converte o {TXT_KEY_RESOURCE_ARTIFACTS} em uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, que envia o artefato para a Europa para pontos de vitória bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC_AFRICA">
 			<Text>It can send it back to Europe for victory points.</Text>
@@ -478,10 +478,10 @@
 			<Text>There was much sympathy outside the British Empire for the Boer Republic during the second Boer War (1899-1902) and foreign volunteers arrived to help in their fight.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_EXPLORER">
-			<Text>A special archaeologist that is not slowed by rough terrain and has a weak attack and defense. Only the Europeans can build it. Does not require uma Universidade. [COLOR_NEGATIVE_TEXT]Like all units in this scenario it does not have the Explore command.[ENDCOLOR]</Text>
+			<Text>Um {TXT_KEY_UNIT_ARCHAEOLOGIST} especial que não é atrasado por terreno acidentado e tem um ataque e defesa limitados. Somente os Europeus podem treiná-lo. Não precisa de uma {TXT_KEY_BUILDING_UNIVERSITY}. [COLOR_NEGATIVE_TEXT]Como todas as unidades nesse cenário ele não tem o comando Explorar.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EXPLORER_STRATEGY">
-			<Text>European archaeologist replacement. It can attack and defend unlike the archaeologist. It can also move through rough terrain as if the terrain was clear. It does not require uma Universidade.</Text>
+			<Text>Substituto europeu do {TXT_KEY_UNIT_ARCHAEOLOGIST}. Ele pode defender e atacar, ao contrário do {TXT_KEY_UNIT_ARCHAEOLOGIST}. Ele também pode mover-se através de terreno acidentado como se o terreno estivesse limpo. Ele não precisa de uma {TXT_KEY_BUILDING_UNIVERSITY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_EXPLORER_TEXT">
 			<Text>Although the coasts of Africa had been explored for three centuries, it was not until the early 19th Century AD that the European powers began a concerted effort to explore the hinterlands of the continent. Beginning from coastal trading posts, missions and colonial settlements, Western explorers pushed inland in small expeditions seeking legendary wonders, "lost" native civilizations, and scientific knowledge. Some, like David Livingston, were medical missionaries; some, like Pietro di Brazza, sought adventure; and others, such as MacGregor Laird, were merchants seeking new opportunities for profit. Whatever their motivations, the European explorers figure prominently in the history of Africa.</Text>
@@ -540,7 +540,7 @@
 			<Text>Europeus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_HELP">
-			<Text>Unidades de Combate [COLOR_POSITIVE_TEXT]Europeias[ENDCOLOR][NEWLINE][NEWLINE] só podem se curar dentro de território amistoso. Unidades terrestres de combate (a não ser Exploradores) têm [COLOR_NEGATIVE_TEXT]-1 Alcance de Visão[ENDCOLOR]. NÃO pode construir a {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, nem a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
+			<Text>Unidades de Combate [COLOR_POSITIVE_TEXT]Europeias[ENDCOLOR][NEWLINE][NEWLINE] só podem se curar dentro de território amistoso. Unidades terrestres de combate (a não ser {TXT_KEY_UNIT_EXPLORER[2]}) têm [COLOR_NEGATIVE_TEXT]-1 Alcance de Visão[ENDCOLOR]. NÃO pode construir a {TXT_KEY_BUILDING_WRITERS_GUILD}, a {TXT_KEY_BUILDING_ARTISTS_GUILD}, nem a {TXT_KEY_BUILDING_MUSICIANS_GUILD}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_CAP">
 			<Text>Norte-Africanos</Text>

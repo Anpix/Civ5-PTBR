@@ -3037,7 +3037,7 @@
 			<Text>Civilizações podem contratar Trabalhadores para a construção de "melhorias" - Fazendas, Minas, Pastos e assim por diante - em torno de suas cidades, para melhor explorar a terra, aumentando a oferta de alimentos, produtividade e recursos essenciais. Nem todos os recursos estão disponíveis para uma civilização no início do jogo: alguns exigem conhecimento de uma tecnologia específica. O hexágono deve estar dentro das fronteiras da sua civilização para que você seja capaz de construir uma melhoria sobre ele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LANDMARK_TEXT">
-			<Text>Um Ponto de Referência é qualquer artefato magnífico, estrutura, trabalho de arte ou maravilha da natureza que atrai visitantes a um local. A Coluna de Nelson, em Londres, é um Ponto de Referência, assim como o Monte Rushmore, nos Estados Unidos. Não só objetos de grandes dimensões são considerados Ponto de Referência: a Maior Bola de Barbante do Mundo, embora não tenha uma grande dimensão, pode muito bem valer à pena uma visita.</Text>
+			<Text>Um {TXT_KEY_IMPROVEMENT_LANDMARK} é qualquer artefato magnífico, estrutura, trabalho de arte ou maravilha da natureza que atrai visitantes a um local. A Coluna de Nelson, em Londres, é um {TXT_KEY_IMPROVEMENT_LANDMARK}, assim como o Monte Rushmore, nos Estados Unidos. Não só objetos de grandes dimensões são considerados {TXT_KEY_IMPROVEMENT_LANDMARK}: a Maior Bola de Barbante do Mundo, embora não tenha uma grande dimensão, pode muito bem valer à pena uma visita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LUMBERMILL">
 			<Text>Serraria</Text>
@@ -9130,13 +9130,13 @@
 			<Text>Hab. Especial: Acelerar Produção</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_ADV_QUEST">
-			<Text>O que a Melhoria Ponto de Referência faz?</Text>
+			<Text>O que a Melhoria {TXT_KEY_IMPROVEMENT_LANDMARK} faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_HEADING4_BODY">
-			<Text>Uma Melhoria Ponto de Referência proporciona abundância de cultura para a cidade.</Text>
+			<Text>Um {TXT_KEY_IMPROVEMENT_LANDMARK} proporciona abundância de cultura para a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LANDMARK_HEADING4_TITLE">
-			<Text>Melhoria Esp.: Ponto de Referência</Text>
+			<Text>Melhoria Esp.: {TXT_KEY_IMPROVEMENT_LANDMARK}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_ADV_QUEST">
 			<Text>O que a habilidade especial Descobrir Tecnologia faz?</Text>

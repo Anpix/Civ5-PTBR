@@ -17,7 +17,7 @@
       <Text>Uma vez que um hexágono esteja dentro das fronteiras de uma civilização, ele sempre pertencerá a esta civilização. A única maneira de conquistá-lo é capturando ou destruindo a cidade o possui.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_HINT_6">
-      <Text>[COLOR_UNIT_TEXT]Exploradores[/COLOR] podem ver um hexágono a mais que outras unidades das primeiras eras, portanto treine alguns. Além de enviá-los para explorar o mundo, considere a opção de enviá-los também para as Colinas e aos arredores de seu Império.</Text>
+      <Text>[COLOR_UNIT_TEXT]{TXT_KEY_UNIT_EXPLORER[2]}[/COLOR] podem ver um hexágono a mais que outras unidades das primeiras eras, portanto treine alguns. Além de enviá-los para explorar o mundo, considere a opção de enviá-los também para as Colinas e aos arredores de seu Império.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_HINT_7">
       <Text>Nunca leve uma faca para um tiroteio.</Text>
