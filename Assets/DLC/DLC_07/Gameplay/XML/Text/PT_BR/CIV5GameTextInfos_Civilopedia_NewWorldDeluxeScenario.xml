@@ -16,10 +16,10 @@
 			<Text>The Castle is a Medieval-era building which increases the city's Defensive Strength by 12 and Hit Points by 25. The ciy must posses Walls before the Castle can be constructed.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_HELP">
-			<Text>Each plantation worked by this City produces +1 [ICON_GOLD] Gold, except Cocoa Plantations which when worked by this city instead provide +3 [ICON_GOLD]. [NEWLINE][NEWLINE]City must have at least one plantation nearby.</Text>
+			<Text>Cada {TXT_KEY_IMPROVEMENT_PLANTATION} explorada por esta cidade produz +1 de [ICON_GOLD]Gold, exceto {TXT_KEY_IMPROVEMENT_PLANTATION[2]} de Cacau, que quando exploradas por esta cidade produzem +3 de [ICON_GOLD]Ouro. [NEWLINE][NEWLINE]A cidade deve ter pelo menos uma {TXT_KEY_IMPROVEMENT_PLANTATION} próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_STRATEGY">
-			<Text>The Chocolate House can only be constructed in a city with a plantation nearby. The Chocolate House increases the [ICON_GOLD] Gold output for each plantation by one and each improved Cocoa resource increases the [ICON_GOLD] Gold output by an additional 2.</Text>
+			<Text>A {TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE} só pode ser constrída em uma cidade com uma {TXT_KEY_IMPROVEMENT_PLANTATION} próxima. A {TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE} aumenta a geração de [ICON_GOLD]Ouro para cada {TXT_KEY_IMPROVEMENT_PLANTATION} em um, e cada {TXT_KEY_IMPROVEMENT_PLANTATION} de Cacau aumenta a geração de [ICON_GOLD]Ouro em 2 adicionais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHOCOLATE_HOUSE_TEXT">
 			<Text>In 1643 AD, the French court embraced chocolate - first imported from the New World in 1585 into Spain - and a chocolate fad swept across Europe in the following decade. The first chocolate house opened in London in 1657 offering beverages and confections made of the stuff, and soon such become trendy meeting places for the elite across the continent.</Text>
@@ -34,10 +34,10 @@
 			<Text>Gunsmiths are skilled craftsmen devoted to the design, modification, manufacture and repair of firearms. Before the advent of Eli Whitney's Mill River Armory in the 1790s AD Samuel Colt's mass production of handguns at his factories in Hartford (USA) and London (UK) in the mid-1800s, the gunsmith shop was a vital establishment in any "civilized" settlement.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_HELP">
-			<Text>+1 [ICON_PRODUCTION] Production and +1 [ICON_PEACE] Faith from each worked Forest tile.</Text>
+			<Text>+1 de [ICON_PRODUCTION]Produção e +1 de [ICON_PEACE]Fé de cada ladrilho de {TXT_KEY_FEATURE_FOREST} trabalhado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_STRATEGY">
-			<Text>The Longhouse is the Iroquois unique building, replacing the Workshop. It increases the city's [ICON_PRODUCTION] Production and [ICON_PEACE] Faith output for each forest within the city's radius.</Text>
+			<Text>A {TXT_KEY_BUILDING_LONGHOUSE_DESC} é uma construção exclusiva Iroquesa, substituindo a {TXT_KEY_BUILDING_WORKSHOP}. Ela aumenta o regime de [ICON_PRODUCTION]Produção e [ICON_PEACE]Fé por cada {TXT_KEY_FEATURE_FOREST} que se encontre no raio da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_HELP">
 			<Text>+5% [ICON_PRODUCTION] Production for each Trade Route your civilization has with a City-State.</Text>
@@ -84,22 +84,22 @@
 			<Text>Discovered in 2005 AD in southwest Ohio, the Moorehead Circle - a "woodhenge" - was constructed about 2000 years ago, between 40 BC and 130 AD, likely by one of the tribes in the Hopewell culture. Consisting of three concentric rings of wooden posts, estimated up to 15-feet tall each, some 200 in the outer ring that was about 200 feet in diameter, the Moorehead Circle was likely used for ceremonial purposes, although the specifics are unknown. Recently, a central alter filled with red earth with a 40-by-50 foot rectangular structure adjacent has been uncovered.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_HELP">
-			<Text>Can only be built by the Americans. Gains an additional tade route slot and a Caravan appears in the City. Destroyed on conquest.[NEWLINE][NEWLINE]City must be built on or next to Grassland.</Text>
+			<Text>Só pode ser construído pelos Americanos. Recebe um espaço adicional de Rota Comercial e uma Caravana aparece na cidade. Destrído se conquistado.[NEWLINE][NEWLINE]A cidade deve estar construída em {TXT_KEY_TERRAIN_GRASS} ou ao lado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"This circle was probably the focus of their ceremonial life ... and part of the reason people came here from miles away."[NEWLINE][TAB][TAB] - Robert Riordan[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_MACHU_PICHU_HELP">
-			<Text>Can only be built by the Americans. 25% [ICON_GOLD] Gold from [ICON_CONNECTED] Trade Routes. Destroyed on conquest.[NEWLINE][NEWLINE]City must be built within 2 tiles of a Mountain that is inside your territory.</Text>
+			<Text>Só pode ser construída pelos Americanos. 25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Trade Routes. Destrída se conquistada.[NEWLINE][NEWLINE]A cidade deve estar construída a até 2 ladrilhos de distância de uma {TXT_KEY_TERRAIN_MOUNTAIN} que esteja dentro do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_CHICHEN_ITZA_HELP">
-			<Text>Can only be built by the Americans. Length of [ICON_GOLDEN_AGE] Golden Ages increased by 50%. +2 [ICON_PEACE] Faith from Jungle tiles. Destroyed on conquest.[NEWLINE][NEWLINE]City must not be built on Hills.</Text>
+			<Text>Só pode ser construída pelos Americanos. Duração das [ICON_GOLDEN_AGE]Eras Douradas aumenta 50%. +2 de [ICON_PEACE]Fé de ladrilhos de {TXT_KEY_FEATURE_JUNGLE}. Destrída se conquistada.[NEWLINE][NEWLINE]A cidade não pode ser construída em {TXT_KEY_TERRAIN_HILL[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_DESC">
 			<Text>Dating back to the Postclassic Period of the Aztec Empire, adjacent to the capital of Texcoco, Texcotzingo served as the imperial summer gardens. Dedicated to Tlaloc, the god of rain, it was constructed by the monarch Nezahualcoyoti in the 15th Century AD. An elaborate and advanced irrigation system transformed Texcotzingo into a recreational paradise for the nobility, a display of the flora of the empire, a medicinal garden, and a sacred place. Covering 122 hectares, it is considered the first botanical garden of the world, and was a source of wonder for the Spanish conquistadors.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_HELP">
-			<Text>Can only be built by the Americans. Provides a free Garden in the city in which it is built. Destroyed on conquest.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
+			<Text>Só pode ser construída pelos Americanos. Provides a free Garden in the city in which it is built. Destroyed on conquest.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"With their sensitivity to the beauty of flowers, birds and gems, their strength of religious feeling ... these ancient Mexicans were civilised men."[NEWLINE][TAB][TAB] - Jacques Soustelle[NEWLINE][TAB]</Text>
@@ -405,10 +405,10 @@
 			<Text>These impressive, pyramid-shaped structures were built by the Mayans for ceremonial purposes, beginning nearly 3,000 years ago.  The Mayan crafters hand-carved every stone of the building, giving the structures a "stepped" appearance.  A long staircase would run up one side of the pyramid, leading to a small shrine at the top, usually dedicated to one of the Mayan gods.  The largest Mayan Pyramid is located at El Mirador, measuring nearly 260 feet in height.  By volume (almost 99 million cubic feet) it is one of the largest pyramids in the world.  </Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_HELP">
-			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} pode ser construído apenas em Planícies Inundadas e Pântanos. Ele aumenta a produção de [ICON_FOOD]Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION]Produção e +2 de [ICON_GOLD]Ouro assim que a {TXT_KEY_TECH_ECONOMICS} for pesquisada.</Text>
+			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} pode ser construído apenas em {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} e {TXT_KEY_FEATURE_MARSH[2]}. Ele aumenta a produção de [ICON_FOOD]Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION]Produção e +2 de [ICON_GOLD]Ouro assim que a {TXT_KEY_TECH_ECONOMICS} for pesquisada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_TEXT">
-			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} é uma área baixa cercada por diques e com a água drenada. Em geral, é a terra recuperada de um lago ou leito do mar, de planícies inundadas ou de pântanos. Com o tempo, a terra drenada cede de modo que o pôlder fica eventualmente abaixo do nível da água circundante. Devido a isso, a água aflora dentro da área drenada e precisa ser bombeada para fora ou drenada de alguma forma. Os diques são geralmente feitos dos materiais disponíveis, como terra ou areia; nos tempos modernos estas barreiras podem ser cobertas ou completamente feitas de concreto. O terreno drenado é extremamente fértil e produz excelentes pastagens ou lavouras.[NEWLINE][NEWLINE]Os primeiros pôlderes foram construídos no século XI DC, embora a construção de aterros como barreiras à água remeta aos Romanos. Os Holandeses têm uma longa história de recuperar pântanos e brejos, e até mesmo o leito do mar, e possuem a metade da área cultivada em pôlderes da Europa. Embora existam pôlderes em outros países da Europa, e exemplos podem ser encontrados na Ásia e América do Norte, a Holanda tem cerca de 3000 pôlderes representando cerca de 27% das terras do país. A própria Amsterdam é construída em grande parte sobre pôlder. Como um ditado Holandês afirma: "Deus fez o mundo, mas os Holandeses fizeram a Holanda".</Text>
+			<Text>Um {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} é uma área baixa cercada por diques e com a água drenada. Em geral, é a terra recuperada de um lago ou leito do mar, de {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} ou de {TXT_KEY_FEATURE_MARSH[2]}. Com o tempo, a terra drenada cede de modo que o {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER} fica eventualmente abaixo do nível da água circundante. Devido a isso, a água aflora dentro da área drenada e precisa ser bombeada para fora ou drenada de alguma forma. Os diques são geralmente feitos dos materiais disponíveis, como terra ou areia; nos tempos modernos estas barreiras podem ser cobertas ou completamente feitas de concreto. O terreno drenado é extremamente fértil e produz excelentes pastagens ou lavouras.[NEWLINE][NEWLINE]Os primeiros {TXT_KEY_IMPROVEMENT_POLDER[2]} foram construídos no século XI DC, embora a construção de aterros como barreiras à água remeta aos Romanos. Os Holandeses têm uma longa história de recuperar {TXT_KEY_FEATURE_MARSH[2]} e brejos, e até mesmo o leito do mar, e possuem a metade da área cultivada em {TXT_KEY_IMPROVEMENT_POLDER[2]} da Europa. Embora existam {TXT_KEY_IMPROVEMENT_POLDER[2]} em outros países da Europa, e exemplos podem ser encontrados na Ásia e América do Norte, a Holanda tem cerca de 3000 {TXT_KEY_IMPROVEMENT_POLDER[2]} representando cerca de 27% das terras do país. A própria Amsterdam é construída em grande parte sobre {TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER}. Como um ditado Holandês afirma: "Deus fez o mundo, mas os Holandeses fizeram a Holanda".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILD_POLDER">
 			<Text>Construir um [LINK=IMPROVEMENT_POLDER]{TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_POLDER}[\LINK]</Text>

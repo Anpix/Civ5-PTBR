@@ -174,7 +174,7 @@
 			<Text>Uma unidade naval brutalmente poderosa da Era Medieval, usada para tomar o controle dos mares com seu ataque a distância. Melhor no ataque e defesa que a {TXT_KEY_UNIT_GALLEASS} padrão que ela substitui, mas mais dispendiosa. Só pode ser construída por Veneza.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_PATHFINDER">
-			<Text>Excelente na exploração e temível em combate, esta unidade única Shoshone substitui o {TXT_KEY_UNIT_SCOUT}. Ela possui uma promoção que a permite escolher o benefício quando descobre uma ruína antiga.</Text>
+			<Text>Excelente na exploração e temível em combate, esta unidade única Shoshone substitui o {TXT_KEY_UNIT_SCOUT}. Ela possui uma promoção que a permite escolher o benefício quando descobre uma {TXT_KEY_IMPROVEMENT_GOODY_HUT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_COMANCHE_RIDERS">
 			<Text>Unidade montada especializada em ataques rápidos. Só pode ser treinada pelos Shoshones.</Text>
@@ -213,7 +213,7 @@
 			<Text>O {TXT_KEY_UNIT_PARATROOPER} é uma unidade de infantaria da etapa final do jogo. É de certa forma mais fraca que uma {TXT_KEY_UNIT_MECHANIZED_INFANTRY}, entretanto, ela pode saltar e aterrissar em até 9 hexágonos adiante (quando partir de um território amigo). Isso permite aos {TXT_KEY_UNIT_PARATROOPER[2]} pular literalmente as posições inimigas e destruir redes de estradas, saquear recursos vitais etc., devastando o território atrás das linhas deles. O {TXT_KEY_UNIT_PARATROOPER} fica em grande risco nesses tipos de missões, então se certifique de que o alvo valha a pena!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BERBER_CAVALRY">
-			<Text>Unidade montada especializada em guerrear no deserto e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no deserto ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
+			<Text>Unidade montada especializada em guerrear no {TXT_KEY_TERRAIN_DESERT} e proteger as terras Marroquinas. Recebe bônus de combate quando em batalha no {TXT_KEY_TERRAIN_DESERT} ou em território Marroquino. Só pode ser treinada pelo Marrocos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARGO_SHIP">
 			<Text>Estabelece Rotas Comerciais marítimas, que geram [ICON_GOLD]Ouro, entre duas civilizações. Também pode ser utilizada para transportar [ICON_FOOD]Alimento ou [ICON_PRODUCTION]Produção dentro de suas próprias fronteiras, após construir um {TXT_KEY_BUILDING_GRANARY} ou uma {TXT_KEY_BUILDING_WORKSHOP}.</Text>
@@ -382,7 +382,7 @@
 			<Text>+1 de Movimento. Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST_HELP">
-			<Text>+10% de [ICON_STRENGTH]Força de Combate quando estiver lutando em terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colina, Floresta ou Selva). Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
+			<Text>+10% de [ICON_STRENGTH]Força de Combate quando estiver lutando em terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL}, {TXT_KEY_FEATURE_FOREST} ou {TXT_KEY_FEATURE_JUNGLE}). Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_LOINS_HELP">
 			<Text>+10% de [ICON_STRENGTH]Força de Combate. Bônus de ataque pelo flanco aumenta em 25%. +10% de [COLOR_POSITIVE_TEXT]Defesa[ENDCOLOR] contra todos os [COLOR_POSITIVE_TEXT]Ataques a Distância[ENDCOLOR].</Text>
@@ -427,10 +427,10 @@
 			<Text>+15% de bônus quando em combate no seu território</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR">
-			<Text>Guerreio do Deserto</Text>
+			<Text>Guerreiro do Deserto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR_HELP">
-			<Text>+50% de [ICON_STRENGTH]Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]Desertos[ENDCOLOR]</Text>
+			<Text>+50% de [ICON_STRENGTH]Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]{TXT_KEY_TERRAIN_DESERT[2]}[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOON_STRIKER">
 			<Text>Atacante da Lua Cheia</Text>
@@ -442,13 +442,13 @@
 			<Text>Língua Nativa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER_HELP">
-			<Text>Pode escolher o benefício quando descobre Ruínas Antigas.</Text>
+			<Text>Pode escolher o benefício quando descobre {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING">
 			<Text>Treinamento de Altitude</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING_HELP">
-			<Text>Dobra o movimento em colinas. +10% de [ICON_STRENGTH]Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]Colinas[ENDCOLOR].</Text>
+			<Text>Dobra o movimento em {TXT_KEY_TERRAIN_HILL[2]}. +10% de [ICON_STRENGTH]Força de Combate quando estiver lutando em [COLOR_POSITIVE_TEXT]{TXT_KEY_TERRAIN_HILL[2]}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE">
 			<Text>Espada Mística</Text>
@@ -578,13 +578,13 @@
 		</Row>
 		<!-- BUILDINGS HELP -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
-			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias (Pontos de Referência, Moais, Mansões) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
+			<Text>Permite decolagens para ou desta cidade. 50% da [ICON_CULTURE]Cultura de Maravilhas Mundiais, Maravilhas Naturais e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK[2]}, Moais, Mansões) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 50%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
 			<Text>Fornece 2 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa para a geração de um Grande Artista. Adicione até dois especialistas neste edifício para obter [ICON_CULTURE]Cultura e aumentar a taxa de geração de um Grande Artista (3 de [ICON_CULTURE]Cultura e 3 pontos de [ICON_GREAT_PEOPLE]Grande Pessoa por especialista).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
-			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL]Petróleo e todos os Oásis fornecem +2 de [ICON_GOLD]Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um {TXT_KEY_BUILDING_BAZAAR_DESC} gerarão +2 de [ICON_GOLD]Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD]Ouro adicional.</Text>
+			<Text>Fornece 1 cópia extra de cada recurso de luxo explorado próximo a esta cidade. Cada fonte de [ICON_RES_OIL]Petróleo e todos os {TXT_KEY_FEATURE_OASIS} fornecem +2 de [ICON_GOLD]Ouro. Rotas comerciais que outros jogadores conectarem com uma cidade que possua um {TXT_KEY_BUILDING_BAZAAR_DESC} gerarão +2 de [ICON_GOLD]Ouro extras para o dono da cidade, e o dono da rota comercial ganhará +1 de [ICON_GOLD]Ouro adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CANDI_HELP">
 			<Text>Substituto Indonésio único para o {TXT_KEY_BUILDING_GARDEN}. +25% de geração de [ICON_GREAT_PEOPLE]Grandes Pessoas nesta cidade e +2 de [ICON_PEACE]Fé para cada Religião Mundial que possua ao menos 1 seguidor na cidade.[NEWLINE][NEWLINE]A cidade deve estar construída próximo a um Rio ou Lago.</Text>
@@ -593,7 +593,7 @@
 			<Text>Rotas comerciais terrestres originárias desta cidade possuem um aumento de 50% no alcance e produzem um adicional de 2 de [ICON_GOLD]Ouro quando conectadas a outra civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_HELP">
-			<Text>Substituto Polonês exclusivo para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de XP para Unidades Montadas.[NEWLINE][NEWLINE]Cada Pasto explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
+			<Text>Substituto Polonês exclusivo para o {TXT_KEY_BUILDING_STABLE}. +15% de [ICON_PRODUCTION]Produção e +15 de XP para Unidades Montadas.[NEWLINE][NEWLINE]Cada {TXT_KEY_IMPROVEMENT_PASTURE} explorado por esta cidade gera +1 de [ICON_PRODUCTION]Produção e +1 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
 			<Text>Cada fonte de [ICON_RES_WHEAT]Trigo, [ICON_RES_BANANA]Bananas e [ICON_RES_DEER]Cervos explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]Permite que [ICON_FOOD]Alimento seja movido desta cidade para outros locais de sua civilização, via rotas comerciais.</Text>
@@ -629,7 +629,7 @@
 			<Text>É preciso ter construído {TXT_KEY_BUILDING_HOTEL} em todas as cidades. O custo é proporcional à quantidade de cidades no império. 100% da [ICON_CULTURE]Cultura vinda de Maravilhas Mundiais, Maravilhas Naturais, e Melhorias ({TXT_KEY_IMPROVEMENT_LANDMARK}, Moai, {TXT_KEY_BUILDING_CHATEAU}) é adicionado à geração de [ICON_TOURISM]Turismo da cidade. A geração de [ICON_TOURISM]Turismo de Grandes Obras aumenta em 100%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
-			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com Selva explorados por esta cidade. Permite que {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} sejam gerados nesta cidade.[NEWLINE][NEWLINE]A cidade precisa possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
+			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com {TXT_KEY_FEATURE_JUNGLE} explorados por esta cidade. Permite que {TXT_KEY_UNIT_ARCHAEOLOGIST[2]} sejam gerados nesta cidade.[NEWLINE][NEWLINE]A cidade precisa possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WORKSHOP_HELP">
 			<Text>Permite que [ICON_PRODUCTION]Produção seja movida desta cidade para outros pontos da sua civilização, via rotas comerciais.</Text>
@@ -642,13 +642,13 @@
 		</Row>
 		<!-- IMPROVEMENTS HELP -->
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_HELP">
-			<Text>Um {TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP} só pode ser construído em um hexágono com Selva. Ele fornece [ICON_GOLD]Ouro adicional. Após a tecnologia {TXT_KEY_TECH_ACOUSTICS_TITLE} ser descoberta, ele também fornece [ICON_CULTURE]Cultura extra.</Text>
+			<Text>Um {TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP} só pode ser construído em um hexágono com {TXT_KEY_FEATURE_JUNGLE}. Ele fornece [ICON_GOLD]Ouro adicional. Após a tecnologia {TXT_KEY_TECH_ACOUSTICS_TITLE} ser descoberta, ele também fornece [ICON_CULTURE]Cultura extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FEITORIA_HELP">
 			<Text>Uma {TXT_KEY_IMPROVEMENT_FEITORIA} só pode ser construída em território de uma Cidade-Estado, em um hexágono costeiro sem recurso. Ela fornece uma cópia de cada recurso de luxo que a Cidade-Estado estiver conectada, independentemente do seu status com a Cidade-Estado. Porém, esta cópia do recurso não pode ser negociada. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Só pode ser construída pelos Portugueses.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KASBAH_HELP">
-			<Text>Uma {TXT_KEY_IMPROVEMENT_KASBAH} só pode ser construída em um hexágono no deserto. Ela fornece 1 [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção e [ICON_GOLD]Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construída em território Marroquino.</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_KASBAH} só pode ser construída em um hexágono de {TXT_KEY_TERRAIN_DESERT}. Ela fornece 1 [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção e [ICON_GOLD]Ouro adicionais. Além disso, ela fornece o mesmo bônus de defesa de +50% que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construída em território Marroquino.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
 			<Text>Um {TXT_KEY_BUILDING_CHATEAU} deve ser construído adjacente a um Recurso de Luxo e não pode estar ao lado de outro {TXT_KEY_BUILDING_CHATEAU}. Ele fornece o mesmo bônus de defesa que um {TXT_KEY_IMPROVEMENT_FORT}. Deve ser construído em território Francês. Quando a tecnologia {TXT_KEY_TECH_FLIGHT_TITLE} for descoberta, sua geração de [ICON_CULTURE]Cultura aumenta em 1 e de [ICON_GOLD]Ouro em 2.</Text>
@@ -670,7 +670,7 @@
 			<Text>Contém uma Grande Obra de Arte pré-construída em um Espaço de Grande Obra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
-			<Text>+1 de [ICON_FOOD]Alimento e +1 de [ICON_PRODUCTION]Produção de todos os hexágonos desérticos explorados por esta cidade (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). Fornece um espaço adicional para rota comercial e uma {TXT_KEY_UNIT_CARAVAN} aparece na cidade. +6 de [ICON_CULTURE]Cultura assim que a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY_TITLE} for descoberta. A cidade deve estar construída ou no deserto ou próximo dele. </Text>
+			<Text>+1 de [ICON_FOOD]Alimento e +1 de [ICON_PRODUCTION]Produção de todos os hexágonos de {TXT_KEY_TERRAIN_DESERT} explorados por esta cidade (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). Fornece um espaço adicional para rota comercial e uma {TXT_KEY_UNIT_CARAVAN} aparece na cidade. +6 de [ICON_CULTURE]Cultura assim que a tecnologia {TXT_KEY_TECH_ARCHAEOLOGY_TITLE} for descoberta. A cidade deve estar construída no {TXT_KEY_TERRAIN_DESERT} ou próximo dele. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PRORA_RESORT_HELP">
 			<Text>Requer a política {TXT_KEY_POLICY_BRANCH_AUTOCRACY}. Além dos +2 de [ICON_HAPPINESS_1]Felicidade, o balneário {TXT_KEY_BUILDING_PRORA_RESORT} também fornece +1 de [ICON_HAPPINESS_1]Felicidade extra para cada 2 políticas adotadas. 1 Política Social gratuita. Deve ser construído em uma cidade costeira.</Text>
@@ -683,7 +683,7 @@
 		</Row>
 		<!-- NATURAL WONDERS HELP -->
 		<Row Tag="TXT_KEY_CIV5_FEATURES_KILIMANJARO_HELP">
-			<Text>Todas as unidades que estão próximas a ele movimentam-se por Colinas no dobro da velocidade e recebem um bônus de combate em Colinas pelo resto do jogo.</Text>
+			<Text>Todas as unidades que estão próximas a ele movimentam-se por {TXT_KEY_TERRAIN_HILL[2]} no dobro da velocidade e recebem um bônus de combate em {TXT_KEY_TERRAIN_HILL[2]} pelo resto do jogo.</Text>
 		</Row>
 		<!-- TECH HELP -->
 		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">

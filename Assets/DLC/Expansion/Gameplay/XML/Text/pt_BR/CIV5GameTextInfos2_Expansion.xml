@@ -71,28 +71,28 @@
 			<Text>Um mapa verdadeiramente aleatório, incluindo todas as configurações centrais como Era, chuva etc.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_ARID_HELP">
-			<Text>Floresta Diminuída.</Text>
+			<Text>{TXT_KEY_FEATURE_FOREST} Escassa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_NORMAL_HELP">
-			<Text>Floresta Típica.</Text>
+			<Text>{TXT_KEY_FEATURE_FOREST} Típica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_WET_HELP">
-			<Text>Floresta Extra.</Text>
+			<Text>{TXT_KEY_FEATURE_FOREST} Extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_ARBOREA_RAINFALL_HELP">
-			<Text>Afeta a quantidade de Floresta no mundo e o número de Oásis em terrenos desérticos.</Text>
+			<Text>Afeta a quantidade de {TXT_KEY_FEATURE_FOREST} no mundo e o número de {TXT_KEY_FEATURE_OASIS} em terrenos de {TXT_KEY_TERRAIN_DESERT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_ARID_HELP">
-			<Text>Muita Floresta.</Text>
+			<Text>Muita {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_NORMAL_HELP">
-			<Text>Alguma Floresta.</Text>
+			<Text>Alguma {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_WET_HELP">
-			<Text>Pouca Floresta.</Text>
+			<Text>Pouca {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_RAINFOREST_RAINFALL_HELP">
-			<Text>Afeta a quantidade de Floresta no mundo e o número de Oásis em terrenos desérticos.</Text>
+			<Text>Afeta a quantidade de {TXT_KEY_FEATURE_FOREST} no mundo e o número de {TXT_KEY_FEATURE_OASIS} em terrenos de {TXT_KEY_TERRAIN_DESERT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RELIGION_OVERVIEW_DISPLAY">
 			<Text>Esta é a visão geral da Religião!</Text>
@@ -171,10 +171,10 @@
 			<Text>Todos os Missionários nascidos nesta cidade podem disseminar religião três vezes. Fornece uma Mesquita gratuita na cidade em que for construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_HELP">
-			<Text>+3 de [ICON_GOLD]Ouro, +2 de [ICON_CULTURE]Cultura e +1 de [ICON_HAPPINESS_1]Felicidade de cada Castelo.[NEWLINE][NEWLINE]A cidade deve estar construída a, no máximo, 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
+			<Text>+3 de [ICON_GOLD]Ouro, +2 de [ICON_CULTURE]Cultura e +1 de [ICON_HAPPINESS_1]Felicidade de cada Castelo.[NEWLINE][NEWLINE]A cidade deve estar construída a, no máximo, 2 hexágonos de distância de uma {TXT_KEY_TERRAIN_MOUNTAIN} que esteja dentro do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
-			<Text>A cidade deve estar construída no {TXT_KEY_TERRAIN_DESERT} (ou próxima a ele). +1 de [ICON_FOOD]Alimento, +1 de [ICON_PRODUCTION]Produção, +1 de [ICON_GOLD]Ouro para cada hexágono desértico explorado (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). +6 de [ICON_CULTURE]Cultura quando a {TXT_KEY_TECH_ARCHAEOLOGY} for pesquisada. Fornece um {TXT_KEY_BUILDING_AMPHITHEATER} gratuito na cidade em que for construída.</Text>
+			<Text>A cidade deve estar construída no {TXT_KEY_TERRAIN_DESERT} (ou próxima a ele). +1 de [ICON_FOOD]Alimento, +1 de [ICON_PRODUCTION]Produção, +1 de [ICON_GOLD]Ouro para cada hexágono de {TXT_KEY_TERRAIN_DESERT} explorado (exceto {TXT_KEY_FEATURE_FLOOD_PLAINS}). +6 de [ICON_CULTURE]Cultura quando a {TXT_KEY_TECH_ARCHAEOLOGY} for pesquisada. Fornece um {TXT_KEY_BUILDING_AMPHITHEATER} gratuito na cidade em que for construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
 			<Text>Um Grande Profeta aparece. Fornece um Templo gratuito na cidade em que for construída.</Text>
@@ -424,19 +424,19 @@
 			<Text>O Grande Almirante possui a habilidade de reparar instantaneamente toda unidade naval e embarcada que estiver no mesmo hexágono e nos adjacentes. O Grande Almirante é consumido quando realiza esta ação. O Grande Almirante também fornece um bônus de 15% a todas as unidades navais do jogador em uma distância de 2 hexágonos. O Grande Almirante NÃO é consumido quando fornece este bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY">
-			<Text>Grandes Artistas podem construir a melhoria especial Ponto de Referência, que, quando explorada, fornece muita [ICON_CULTURE]Cultura para a cidade. Grandes Artistas também podem iniciar uma Era Dourada e são consumidos quando utilizados para qualquer um desses objetivos.</Text>		
+			<Text>{TXT_KEY_UNIT_GREAT_ARTIST[2]} podem construir a melhoria especial {TXT_KEY_IMPROVEMENT_LANDMARK}, que, quando explorada, fornece muita [ICON_CULTURE]Cultura para a cidade. Grandes Artistas também podem iniciar uma Era Dourada e são consumidos quando utilizados para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
-			<Text>O Grande General pode construir a melhoria especial Cidadela que dá um grande bônus defensivo para qualquer unidade que a ocupe, causa dano a unidades que se movimentam próximo a ela e trás os hexágonos adjacentes para dentro do seu território. Ele é consumido quando constrói a Cidadela. O Grande General fornece um bônus de 15% de combate para todas as unidades terrestres do jogador num raio de 2 hexágonos e NÃO é consumido quando ele fornece este bônus.</Text>		
+			<Text>O {TXT_KEY_UNIT_GREAT_GENERAL} pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_CITADEL} que dá um grande bônus defensivo para qualquer unidade que a ocupe, causa dano a unidades que se movimentam próximo a ela e trás os hexágonos adjacentes para dentro do seu território. Ele é consumido quando constrói a {TXT_KEY_IMPROVEMENT_CITADEL}. O Grande General fornece um bônus de 15% de combate para todas as unidades terrestres do jogador num raio de 2 hexágonos e NÃO é consumido quando ele fornece este bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
 			<Text>Grandes Engenheiros podem construir a melhoria especial Indústria, que, quando explorada, fornece uma grande quantidade de [ICON_PRODUCTION]Produção para a cidade. Eles também podem acelerar a produção/treinamento de uma unidade, edificação ou Maravilha em uma cidade. Os Grandes Engenheiros são consumidos quando utilizados para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY">
-			<Text>O Grande Mercador pode construir a melhoria especial Alfândega que, quando explorada, produz muito [ICON_GOLD]Ouro. Ele também pode viajar até Cidades-Estado e realizar uma Missão Comercial que produz um bocado de [ICON_GOLD]Ouro e obtém muitos Pontos de Influência com a Cidade-Estado. O Grande Mercador é consumido quando utilizado para qualquer um desses objetivos.</Text>
+			<Text>O {TXT_KEY_UNIT_GREAT_MERCHANT} pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE} que, quando explorada, produz muito [ICON_GOLD]Ouro. Ele também pode viajar até Cidades-Estado e realizar uma Missão Comercial que produz um bocado de [ICON_GOLD]Ouro e obtém muitos Pontos de Influência com a Cidade-Estado. O Grande Mercador é consumido quando utilizado para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY">
-			<Text>O Grande Cientista pode construir a melhoria especial Academia que, quando explorada, produz muitos pontos de [ICON_RESEARCH]Ciência. Além disso, ele pode lhe dar imediatamente uma grande quantidade de pontos de ciência, baseados na produção científica da sua civilização. O Grande Cientista é consumido quando utilizado para qualquer um desses objetivos.</Text>
+			<Text>O {TXT_KEY_UNIT_GREAT_SCIENTIST} pode construir a melhoria especial {TXT_KEY_IMPROVEMENT_ACADEMY} que, quando explorada, produz muitos pontos de [ICON_RESEARCH]Ciência. Além disso, ele pode lhe dar imediatamente uma grande quantidade de pontos de ciência, baseados na produção científica da sua civilização. O Grande Cientista é consumido quando utilizado para qualquer um desses objetivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
 			<Text>O Infante é a unidade de combate terrestre básica da Era Moderna. É significativamente mais forte que o seu predecessor, o Fuzileiro.</Text>
@@ -520,50 +520,50 @@
 			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo a corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
-			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o Couraçado paga o preço por ser muito forte: é mais lento no oceano.</Text>			
+			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o {TXT_KEY_UNIT_IRONCLAD} paga o preço por ser muito forte: é mais lento no {TXT_KEY_TERRAIN_OCEAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
-			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} e {TXT_KEY_UNIT_MODERN_ARMOR[2]}. É capaz de pairar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas recebe dano se terminar o turno sobre uma.</Text>
+			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} e {TXT_KEY_UNIT_MODERN_ARMOR[2]}. É capaz de pairar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas recebe dano se terminar o turno sobre uma.</Text>		
 		</Row>
 		<!--PROMOTIONS-->
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Curar esta unidade[ENDCOLOR] em 50 pontos de vida (HP). Ao fazer isto, esta oportunidade de promoção será [COLOR_POSITIVE_TEXT]consumida[ENDCOLOR].</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate se lutar em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
-			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
-			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>			
+			<Text>+15% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1_HELP">
 			<Text>+15% de [ICON_STRENGTH]Força de Combate contra [COLOR_POSITIVE_TEXT]Unidades Navais[ENDCOLOR].</Text>			
@@ -836,16 +836,16 @@
 			<Text>Cura 25 pontos de vida se eliminar uma unidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOHAWK">
-			<Text>Bônus de combate em Floresta/Selva (33)</Text>
+			<Text>Bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOHAWK_HELP">
-			<Text>+33% de bônus de combate em Floresta/Selva.</Text>
+			<Text>+33% de bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_JAGUAR">
-			<Text>Bônus de combate em Floresta/Selva (33)</Text>
+			<Text>Bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_JAGUAR_HELP">
-			<Text>+33% de bônus de combate em Floresta/Selva.</Text>
+			<Text>+33% de bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED">
 			<Text>Bônus vs inimigo ferido/avariado (33)</Text>
@@ -914,13 +914,13 @@
 			<Text>Evangelizador Indesejável</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT_HELP">
-			<Text>A unidade pode sobrevoar Montanhas, mas recebe dano se terminar o turno sobre uma.</Text>
+			<Text>A unidade pode sobrevoar {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas recebe dano se terminar o turno sobre uma.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
-		  <Text>Recuar Antes de Ataque Corpo a Corpo</Text>
+			<Text>Recuar Antes de Ataque Corpo a Corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
-		  <Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
+			<Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
 		</Row>
 		<!-- New Concepts and Advisor messages-->
 			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC">
@@ -1428,7 +1428,7 @@
 			<Text>Cada Grande Pessoa possui duas habilidades (porém, veja o Grande Almirante abaixo).[NEWLINE]- Eles podem ser consumidos na construção de uma Melhoria Especial.[NEWLINE]- Eles possuem outra habilidade especial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_BODY">
-			<Text>Construir uma Cidadela faz de você proprietário de todos os hexágonos adjacentes a ela, já que sua fronteira aumentará para englobar a Cidadela. Adicionalmente, a Cidadela fornece um grande bônus defensivo para qualquer unidade que ocupá-la e, além disso, causa dano a qualquer unidade inimiga que terminar seu turno próxima a ela (o dano não se acumula com outras Cidadelas). Perceba que a Cidadela somente funciona quando está em seu território. Se ela mudar de lado, em razão de uma cidade próxima ser conquistada pelo inimigo, ela será eficaz apenas ao novo dono. Se a nova fronteira reclamar hexágonos já pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
+			<Text>Construir uma {TXT_KEY_IMPROVEMENT_CITADEL} faz de você proprietário de todos os hexágonos adjacentes a ela, já que sua fronteira aumentará para englobar a {TXT_KEY_IMPROVEMENT_CITADEL}. Adicionalmente, a {TXT_KEY_IMPROVEMENT_CITADEL} fornece um grande bônus defensivo para qualquer unidade que ocupá-la e, além disso, causa dano a qualquer unidade inimiga que terminar seu turno próxima a ela (o dano não se acumula com outras {TXT_KEY_IMPROVEMENT_CITADEL[2]}). Perceba que a {TXT_KEY_IMPROVEMENT_CITADEL} somente funciona quando está em seu território. Se ela mudar de lado, em razão de uma cidade próxima ser conquistada pelo inimigo, ela será eficaz apenas ao novo dono. Se a nova fronteira reclamar hexágonos já pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_BODY">
 			<Text>Um Grande Artista pode iniciar uma "Era Dourada". Este é um período de especial produtividade para uma civilização. Durante a Era Dourada, qualquer hexágono que produz ouro, produzirá 1 ouro extra, a produção (martelos) em cidades aumentará em 20% e a cultura em todo o império aumentará em 20%. A duração de uma Era Dourada depende da dificuldade e velocidade do jogo. O Grande Artista é consumido quando inicia uma Era Dourada.</Text>
@@ -1453,7 +1453,7 @@
 			<Text>+1 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_FISHING_BOATS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_OPEN_SKY">
-			<Text>+1 de [ICON_CULTURE]Cultura de Pastos</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura de {TXT_KEY_IMPROVEMENT_PASTURE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
 			<Text>+2 de [ICON_RESEARCH]Ciência em cidades com uma [ICON_CONNECTED]Rota Comercial</Text>
@@ -1468,7 +1468,7 @@
 			<Text>+1 de [ICON_CULTURE]Cultura e +1 de [ICON_PEACE]Fé para cada Ouro e Prata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES">
-			<Text>+2 de [ICON_PEACE]Fé de Minas a Céu Aberto</Text>
+			<Text>+2 de [ICON_PEACE]Fé de {TXT_KEY_IMPROVEMENT_QUARRY[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GOD_WAR">
 			<Text>Obtenha [ICON_PEACE]Fé se você vencer uma batalha a 4 hexágonos de distância de sua cidade</Text>
@@ -1495,16 +1495,16 @@
 			<Text>+1 de [ICON_CULTURE]Cultura e +1 [ICON_PEACE]Fé por cada Vinho e Incenso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION">
-			<Text>+1 de [ICON_CULTURE]Cultura de Plantações</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura de {TXT_KEY_IMPROVEMENT_PLANTATION[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP">
 			<Text>+1 de [ICON_CULTURE]Cultura de Santuários</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE">
-			<Text>+1 de [ICON_PEACE]Fé de hexágonos desérticos</Text>
+			<Text>+1 de [ICON_PEACE]Fé de hexágonos de {TXT_KEY_TERRAIN_DESERT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH">
-			<Text>+1 de [ICON_CULTURE]Cultura de hexágonos com Selva</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura de hexágonos com {TXT_KEY_FEATURE_JUNGLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY">
 			<Text>+30% de aumento na [ICON_RANGE_STRENGTH]Força de Combate a Distância da cidade</Text>
@@ -1594,7 +1594,7 @@
 			<Text>+15 na [ICON_INFLUENCE]Influência base com Cidades-Estado devotas desta religião</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA">
-			<Text>+1 de [ICON_PEACE]Fé de hexágonos com Tundra sem Floresta</Text>
+			<Text>+1 de [ICON_PEACE]Fé de hexágonos com {TXT_KEY_TERRAIN_TUNDRA} sem {TXT_KEY_FEATURE_FOREST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH">
 			<Text>+1 de [ICON_CULTURE]Cultura de cada 5 devotos desta religião em outras civilizações</Text>
@@ -1741,28 +1741,28 @@
 			<Text>Nenhum devoto religioso nesta cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CULTURE_GETTING_HEADING2_BODY">
-			<Text>Sua civilização adquire cultura de várias formas: [NEWLINE]- Seu Palácio: (criado quando você constrói sua primeira cidade) produz 1 ponto de cultura por turno. [NEWLINE]- Ruínas Antigas: pode lhe dar uma boa dose de cultura. [NEWLINE]- Edifícios: certos edifícios produzem cultura. O Monumento é um exemplo no início do jogo. [NEWLINE]- Especialistas: particularmente os Artistas, geram cultura. [NEWLINE]- Maravilhas: algumas maravilhas jorram cultura. O Hermitage, o Ato Heroico e o Monumento Nacional Épico são três maravilhas nacionais que lhe dão cultura e há muitas outras para se descobrir. [NEWLINE]- Políticas Sociais: certas Políticas Sociais irão aumentar sua produção de cultura. O ramo político Piedade possui um número de políticas voltadas para a cultura. [NEWLINE]- Grandes Artistas: um Grande Artista pode construir a melhoria "Ponto de Referência" em um hexágono. Se sua cidade explorar aquele hexágono, ela ganhará muita cultura. [NEWLINE]- Cidades-Estado: algumas Cidades-Estado lhe dão cultura se seu relacionamento for de amizade.</Text>
+			<Text>Sua civilização adquire cultura de várias formas: [NEWLINE]- Seu Palácio: (criado quando você constrói sua primeira cidade) produz 1 ponto de cultura por turno. [NEWLINE]- {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}: pode lhe dar uma boa dose de cultura. [NEWLINE]- Edifícios: certos edifícios produzem cultura. O Monumento é um exemplo no início do jogo. [NEWLINE]- Especialistas: particularmente os Artistas, geram cultura. [NEWLINE]- Maravilhas: algumas maravilhas jorram cultura. O Hermitage, o Ato Heroico e o Monumento Nacional Épico são três maravilhas nacionais que lhe dão cultura e há muitas outras para se descobrir. [NEWLINE]- Políticas Sociais: certas Políticas Sociais irão aumentar sua produção de cultura. O ramo político Piedade possui um número de políticas voltadas para a cultura. [NEWLINE]- {TXT_KEY_UNIT_GREAT_ARTIST[2]}: um {TXT_KEY_UNIT_GREAT_ARTIST} pode construir a melhoria {TXT_KEY_IMPROVEMENT_LANDMARK} em um hexágono. Se sua cidade explorar aquele hexágono, ela ganhará muita cultura. [NEWLINE]- Cidades-Estado: algumas Cidades-Estado lhe dão cultura se seu relacionamento for de amizade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GREATSCIENTIST_HEADING4_BODY">
-			<Text>Um Grande Cientista pode lhe dar um avanço considerável rumo a sua próxima tecnologia ou você pode consumi-lo para construir a melhoria Academia, que proporciona pontos de ciência por turno quando o hexágono é explorado. Veja a seção sobre "Grandes Pessoas" para mais detalhes.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_SCIENTIST} pode lhe dar um avanço considerável rumo a sua próxima tecnologia ou você pode consumí-lo para construir a melhoria {TXT_KEY_IMPROVEMENT_ACADEMY}, que proporciona pontos de ciência por turno quando o hexágono é explorado. Veja a seção sobre "Grandes Pessoas" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_RANGESTAT_HEADING3_BODY">
 			<Text>O "alcance" de uma unidade determina a distância que ela pode lançar um ataque a distância. Um alcance de "2" significa que o alvo pode estar no hexágono adjacente ou em um hexágono de distância. Um alcance de "1" significa que o alvo deve estar do lado do atacante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_DESERT_HEADING3_BODY">
-			<Text>Em geral, terrenos desérticos são notadamente inúteis. Eles não fornecem nenhum benefício às cidades (a não ser que o deserto possua um oásis ou algum recurso, claro, ou acesso à água fresca).[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável).[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_HEADING3_BODY">
-			<Text>Geralmente, pradarias produzem mais alimento que qualquer outro tipo de terreno. Cidades construídas próximas às pradarias tendem a crescer mais rapidamente que outras edificadas em outro lugar.[NEWLINE][NEWLINE]Rendimento: 2 de alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>Geralmente, {TXT_KEY_TERRAIN_GRASS[2]} produzem mais alimento que qualquer outro tipo de terreno. Cidades construídas próximas às {TXT_KEY_TERRAIN_GRASS[2]} tendem a crescer mais rapidamente que as construídas em outros lugares.[NEWLINE][NEWLINE]Rendimento: 2 de alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_BODY">
-			<Text>Planícies fornecem uma mistura de alimento e produção para uma cidade próxima. Uma cidade cercada de planícies crescerá mais lentamente que uma na pradaria, mas será bem mais produtiva.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento, 1 de Produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>			
+			<Text>{TXT_KEY_TERRAIN_PLAINS[2]} fornecem uma mistura de alimento e produção para uma cidade próxima. Uma cidade cercada de {TXT_KEY_TERRAIN_PLAINS[2]} crescerá mais lentamente que uma na {TXT_KEY_TERRAIN_GRASS}, mas será bem mais produtiva.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento, 1 de Produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_BODY">
-			<Text>A neve é bastante improdutiva, sem nenhum benefício de alimento ou produção para a cidade próxima. Claro que um terreno com neve pode possuir um recurso útil, mas, caso contrário, ele será apenas frio e inaproveitável.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>A {TXT_KEY_TERRAIN_SNOW} é bastante improdutiva, sem nenhum benefício de alimento ou produção para a cidade próxima. Claro que um terreno com {TXT_KEY_TERRAIN_SNOW} pode possuir um recurso útil, mas, caso contrário, ele será apenas frio e inaproveitável.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TUNDRA_HEADING3_BODY">
-			<Text>A tundra é a terra semicongelada dos climas mais frios do mundo. É menos útil que as planícies ou pradarias, mas um pouco melhor que os desertos. Ninguém constrói cidades na tundra, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>A {TXT_KEY_TERRAIN_TUNDRA} é a terra semicongelada dos climas mais frios do mundo. É menos útil que as {TXT_KEY_TERRAIN_PLAINS[2]} ou {TXT_KEY_TERRAIN_GRASS[2]}, mas um pouco melhor que os {TXT_KEY_TERRAIN_DESERT[2]}. Ninguém constrói cidades na {TXT_KEY_TERRAIN_TUNDRA}, a não ser que esteja desesperado por recursos ou não tenha outro lugar para ir.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
 			<Text>Há seis tipos de unidades não combatentes: Colonizadores, Trabalhadores, {TXT_KEY_UNIT_WORK_BOAT[2]}, Grandes Pessoas, Partes Aeroespaciais e unidades Religiosas. Cada uma é criticamente importante para o sucesso de uma civilização. Como o termo "não combatente" sugere, essas unidades não podem lutar. Se forem atacadas por unidades inimigas enquanto estão sozinhas em um hexágono, elas são automaticamente capturadas ou destruídas. Portanto, faz sentido escoltá-las com uma unidade militar quando enviá-las a áreas perigosas.</Text>
@@ -1816,7 +1816,7 @@
 			<Text>Este botão lhe permite abrir um diálogo em uma variedade de tópicos. Dependendo de certas circunstâncias você pode fazer uma das seguintes ações: (a resposta do líder irá depender da sua relação com você e dos seus próprios interesses) [NEWLINE]- Pedir a um líder que assine uma Declaração de Amizade.[NEWLINE]- Pedir a um líder que vá à guerra contra outra civilização.[NEWLINE]- Compartilhar intrigras com um líder.[NEWLINE]- Pedir que um líder não construa mais cidades próximas a você.[NEWLINE]- Denunciar um líder com o qual você não esteja feliz.[NEWLINE]- Pedir a um líder que pare de espionar você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_BODY">
-			<Text>Montanhas são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las (a exceção é o Império Cartaginês). Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável (exceto por unidades aéreas e aos Cartagineses)[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]} são elevações íngremes de terreno, impossíveis para unidades não aéreas transpô-las (a exceção é o Império Cartaginês). Elas são particularmente inúteis a uma civilização, exceto como barreiras a uma invasão.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável (exceto por unidades aéreas e aos Cartagineses)[NEWLINE]Modificador de Combate: 25% de bônus defensivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_CITYBANNER_HEADING2_BODY">
 			<Text>O título da cidade aparece no Mapa Principal. Ele fornece uma visão útil sobre o que está acontecendo na cidade.[NEWLINE][TAB][TAB][TAB][TAB] Nome[NEWLINE][TAB][TAB][TAB][TAB] Força Defensiva [NEWLINE][TAB][TAB][TAB][TAB] Unidade alojada na cidade[NEWLINE][TAB][TAB][TAB][TAB] Item sendo construído na cidade*[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para completar a construção*[NEWLINE][TAB][TAB][TAB][TAB] Tamanho da cidade[NEWLINE][TAB][TAB][TAB][TAB] Turnos restantes para cidade crescer*[NEWLINE][TAB][TAB][TAB][TAB] Religião da cidade**[NEWLINE][TAB][TAB][TAB][TAB] * Não é exibido nas cidades estrangeiras.[NEWLINE][TAB][TAB][TAB][TAB] ** Não é exibida até que um Panteão ou Religião esteja presente na cidade.</Text>

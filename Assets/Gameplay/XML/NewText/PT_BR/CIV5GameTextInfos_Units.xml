@@ -57,9 +57,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AZTEC_JAGUAR">
-			<Text>Jaguar</Text>
+			<Text>Jaguar|Jaguares</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BATTLESHIP">
 			<Text>Super Couraçado</Text>
@@ -112,9 +112,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DESTROYER">
-			<Text>Destróier</Text>
+			<Text>Destróier|Destróiers</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EGYPT_WARCHARIOT">
 			<Text>Biga Egípcia|Bigas Egípcias</Text>
@@ -172,24 +172,24 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER">
-			<Text>Grande Engenheiro</Text>
+			<Text>Grande Engenheiro|Grandes Engenheiros</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL">
-			<Text>Grande General</Text>
+			<Text>Grande General|Grandes Generais</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT">
-			<Text>Grande Mercador</Text>
+			<Text>Grande Mercador|Grandes Mercadores</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST">
-			<Text>Grande Cientista</Text>
+			<Text>Grande Cientista|Grandes Cientistas</Text>
 			<Gender>neuter:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY">
 			<Text>Heteros</Text>
@@ -227,7 +227,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IRONCLAD">
-			<Text>Couraçado</Text>
+			<Text>Couraçado|Couraçados</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -277,9 +277,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MISSILE_CRUISER">
-			<Text>Cruzador de Mísseis Guiados</Text>
+			<Text>Cruzador de Mísseis Guiados|Cruzadores de Mísseis Guiados</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MOBILE_SAM">
 			<Text>SAM Móvel</Text>
@@ -287,7 +287,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR">
-			<Text>Tanque Blindado|Tanques Blindados</Text>
+			<Text>Blindado Moderno|Blindados Modernos</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
@@ -387,9 +387,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUBMARINE">
-			<Text>Submarino</Text>
+			<Text>Submarino|Submarinos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWORDSMAN">
 			<Text>Espadachim|Espadachins</Text>
@@ -482,7 +482,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
-			<Text>+20% DE [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (sem Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2">
 			<Text>Choque II</Text>
@@ -490,7 +490,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3">
 			<Text>Choque III</Text>
@@ -498,7 +498,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1">
 			<Text>Broca I</Text>
@@ -506,7 +506,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2">
 			<Text>Broca II</Text>
@@ -514,7 +514,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3">
 			<Text>Broca III</Text>
@@ -522,7 +522,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1">
 			<Text>Precisão I</Text>
@@ -530,7 +530,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
-			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2">
 			<Text>Precisão II</Text>
@@ -538,7 +538,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
-			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+20% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3">
 			<Text>Precisão III</Text>
@@ -546,7 +546,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1">
 			<Text>Barragem I</Text>
@@ -554,7 +554,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2">
 			<Text>Barragem II</Text>
@@ -562,7 +562,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3">
 			<Text>Barragem III</Text>
@@ -570,7 +570,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
-			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. (Colinas, Florestas ou Selvas)</Text>
+			<Text>+25% de [ICON_RANGE_STRENGTH]Força de Combate a Distância contra unidades em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1">
 			<Text>Mira I</Text>
@@ -714,7 +714,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WOODSMAN_HELP">
-			<Text>Taxa de movimento dobrada [COLOR_POSITIVE_TEXT]através de florestas ou selvas[ENDCOLOR]</Text>
+			<Text>Taxa de movimento dobrada [COLOR_POSITIVE_TEXT]através de {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]}[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_LOGISTICS">
 			<Text>Logística</Text>
@@ -1199,7 +1199,7 @@
 			<Text>Pode levar 4 cargas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FOLIAGE_IMPASSABLE">
-			<Text>Não pode entrar em florestas ou selvas</Text>
+			<Text>Não pode entrar em {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ROUGH_TERRAIN_ENDS">
 			<Text>Penalidade em terreno acidentado</Text>
@@ -1213,10 +1213,10 @@
 			<Text>Precisa-se de Astronomia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO_HELP">
-			<Text>Não pode navegar o oceano sem Astronomia</Text>
+			<Text>Não pode navegar o {TXT_KEY_TERRAIN_OCEAN} sem Astronomia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE">
-			<Text>Não pode navegar o oceano</Text>
+			<Text>Não pode navegar o {TXT_KEY_TERRAIN_OCEAN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INVISIBLE_SUBMARINE">
 			<Text>É invisível (Submarino)</Text>
@@ -1233,13 +1233,13 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT_HELP">
-			<Text>Unidade pode passar sobre montanhas</Text>
+			<Text>Unidade pode passar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FLAT_MOVEMENT_COST">
 			<Text>Todos os hexágonos custam 1 de movimento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CAN_MOVE_IMPASSABLE">
-			<Text>Pode entrar em hexágonos de gelo</Text>
+			<Text>Pode entrar em hexágonos de {TXT_KEY_FEATURE_ICE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NO_CAPTURE">
 			<Text>Incapaz de capturar cidades</Text>
@@ -1323,12 +1323,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_MOHAWK">
-			<Text>Bônus de combate em selva/floresta (25)</Text>
+			<Text>Bônus de combate em {TXT_KEY_FEATURE_JUNGLE}/{TXT_KEY_FEATURE_FOREST} (25)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_JAGUAR">
-			<Text>Bônus de combate apenas em selvas (50)</Text>
+			<Text>Bônus de combate apenas em {TXT_KEY_FEATURE_JUNGLE} (50)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1390,7 +1390,7 @@
 			<Text>Barco rápido e muito efetivo em reconhecimento. Também usado para caçar e destruir Submarinos inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
-			<Text>Mais poderosas que as Fragatas, estas unidades pagam o preço por serem muito fortes: são muito lentas e incapazes de entrar no oceano.</Text>
+			<Text>Mais poderosas que as {TXT_KEY_UNIT_FRIGATE[2]}, estas unidades pagam o preço por serem muito fortes: são muito lentas e incapazes de entrar no {TXT_KEY_TERRAIN_OCEAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_FRIGATE">
 			<Text>Poderosa unidade naval da Renascença usada para arrebatar o controle dos mares.</Text>
@@ -1552,7 +1552,7 @@
 			<Text>Forte unidade de infantaria da Era Clássica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MOHAWK_WARRIOR">
-			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Iroqueses podem treiná-la. Esta unidade recebe um bônus maior quando luta em florestas ou selvas, ao contrário do {TXT_KEY_UNIT_SWORDSMAN} que ela substitui.</Text>
+			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Iroqueses podem treiná-la. Esta unidade recebe um bônus maior quando luta em {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]}, ao contrário do {TXT_KEY_UNIT_SWORDSMAN} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ROMAN_LEGION">
 			<Text>Forte unidade de infantaria da Era Clássica. Apenas os Romanos podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a do {TXT_KEY_UNIT_SWORDSMAN}, que ela substitui.</Text>
@@ -1585,7 +1585,7 @@
 			<Text>Unidade militar relativamente fraca do início do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_JAGUAR">
-			<Text>Unidade militar relativamente fraca do início do jogo. Esta unidade combate mais efetivamente em Selvas e se cura ao matar um inimigo, ao contrário do Guerreiro que ela substitui.</Text>
+			<Text>Unidade militar relativamente fraca do início do jogo. Esta unidade combate mais efetivamente em {TXT_KEY_FEATURE_JUNGLE[2]} e se cura ao matar um inimigo, ao contrário do Guerreiro que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BARBARIAN_WARRIOR">
 			<Text>A unidade bárbara militar mais primitiva do jogo.</Text>
@@ -1851,7 +1851,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION_HELP">
-			<Text>Pode embarcar em [COLOR_POSITIVE_TEXT]hexágonos aquáticos[ENDCOLOR]. Unidades embarcadas podem navegar no oceano e possuem +1 de visão.</Text>
+			<Text>Pode embarcar em [COLOR_POSITIVE_TEXT]hexágonos aquáticos[ENDCOLOR]. Unidades embarcadas podem navegar no {TXT_KEY_TERRAIN_OCEAN} e possuem +1 de visão.</Text>
  		</Row>
 		<Row Tag="TXT_KEY_SMALL_PROMOTION_CITY_PENALTY">
 			<Text>Penalidade ao atacar cidades (25)</Text>

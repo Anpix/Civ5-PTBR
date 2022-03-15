@@ -786,12 +786,12 @@
         </Row>
         <Row Tag="TXT_KEY_PEDIA_CSTATES_HELP_TEXT">
             <Text>Cidades-Estado representam as pequenas civilizações que ocupam o mundo. Cidades-Estado são exatamente isso: Estados centralizados em uma cidade. Não podem criar Colonizadores e, portanto, não podem construir novas cidades (seu território pode ser expandido, porém não pode possuir mais que uma cidade). A exceção para isso é pela conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]A exceção para isso é a conquista. Cidades-Estado em guerra são capazes de capturar cidades inimigas.[NEWLINE][NEWLINE]Se você se tornar amigo de uma Cidade-Estado, ela poderá fornecer alimentos, cultura ou mesmo unidades militares. Caso você ataque uma Cidade-Estado, poderá capturá-la, adicionando-a em seu Império. (Mas tenha cautela, você poderá fazer com que as outras Cidades-Estado declarem guerra a sua Civilização.)</Text>
-		</Row>
+        </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_HELP_TEXT">
-            <Text>Em Civilization V, o mundo é constituído por "hexágonos" hexagonais (chamados ocasionalmente de hexa ou espaço). Estes hexágonos possuem uma variedade de "Tipos de Terreno" - desertos, planícies, pradarias, montanhas e assim por diante - e muitos incluem também "características" como as florestas e selvas. Estes elementos ajudam a definir sua utilidade às cidades próximas assim como a facilidade ou dificuldade de se locomover entre elas. Além disso, poderão impactar em combates que lá ocorrem.</Text>
+            <Text>Em Civilization V, o mundo é constituído por ladrilhos hexagonais (chamados ocasionalmente de hexágono ou espaço). Estes hexágonos possuem uma variedade de "Tipos de Terreno" - {TXT_KEY_TERRAIN_DESERT[2]}, {TXT_KEY_TERRAIN_PLAINS[2]}, {TXT_KEY_TERRAIN_GRASS[2]}, {TXT_KEY_TERRAIN_MOUNTAIN[2]} e assim por diante - e muitos incluem também "características" como as {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]}. Estes elementos ajudam a definir sua utilidade às cidades próximas assim como a facilidade ou dificuldade de se locomover entre elas. Além disso, poderão impactar em combates que lá ocorrem.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_HELP_TEXT">
-			<Text>As Características são elementos do terreno ou da vegetação sobre o hexágono. (Exemplo: os hexágonos de pasto poderão conter florestas ou pântanos sobre eles). Modificando essas características, você poderá alterar a produtividade e os "pontos de movimentos" (MP) que uma unidade gasta para passar pelo hexágono. As Características poderão fornecer também bônus de combate defensivo ou sanções a unidades inimigas ocupantes daquele hexágono.</Text>
+            <Text>As Características são elementos do terreno ou da vegetação sobre o hexágono. (Exemplo: os hexágonos de {TXT_KEY_TERRAIN_GRASS} poderão conter {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_MARSH[2]} sobre eles). Modificando essas características, você poderá alterar a produtividade e os "pontos de movimentos" (MP) que uma unidade gasta para passar pelo hexágono. As Características poderão fornecer também bônus de combate defensivo ou sanções a unidades inimigas ocupantes daquele hexágono.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_LABEL">
             <Text>Características</Text>
@@ -803,7 +803,7 @@
             <Text>O mundo está recheado de vários "recursos" que farão sua Civilização crescer e se desenvolver, por exemplo: o gado, trigo, carvão, ferro, baleias e petróleo. Durante o jogo, você vai querer construir suas cidades próximas a estes recursos e aproveitar as bonificações os mesmos. Alguns Recursos - peixe e ouro, por exemplo - são visíveis bem no início do jogo. Já outros - como alumínio, petróleo ou urânio - estarão ocultos até que sua Civilização domine a tecnologia apropriada.</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_HELP_TEXT">
-            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem fazendas, postos comerciais, serrarias, minas a céu aberto, minas e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
+            <Text>Durante o jogo, você criará "trabalhadores" - unidades não militares que irão "melhorar" as terras em torno das suas cidades, aumentando a produtividade e provendo acesso aos "recursos". As Melhorias incluem {TXT_KEY_IMPROVEMENT_FARM[2]}, {TXT_KEY_IMPROVEMENT_TRADING_POST[2]}, {TXT_KEY_IMPROVEMENT_LUMBERMILL[2]}, {TXT_KEY_IMPROVEMENT_QUARRY[2]}, {TXT_KEY_IMPROVEMENT_MINE[2]} e muito mais. Durante uma guerra, inimigos poderão "saquear" (destruir) suas melhorais. Melhorias saqueadas não serão eficazes até que seus trabalhadores as "conserte".</Text>
         </Row>
         <Row Tag="TXT_KEY_PEDIA_TECH_PAGE_LABEL">
             <Text>Página Inicial - Tecnologias</Text>
@@ -1340,7 +1340,7 @@
           <Text>Trabalhadores automáticos não removem características</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REMOVE_FEATURES_TT">
-          <Text>Trabalhadores em modo automático não removem características como florestas, selvas ou pântanos, exceto quando melhorando um recurso de luxo ou estratégico.</Text>
+          <Text>Trabalhadores em modo automático não removem características como {TXT_KEY_FEATURE_FOREST[2]}, {TXT_KEY_FEATURE_JUNGLE[2]} ou {TXT_KEY_FEATURE_MARSH}, exceto quando melhorando um recurso de luxo ou estratégico.</Text>
         </Row>
         <Row Tag="TXT_KEY_OPSCREEN_NO_CITIZEN_WARNING">
             <Text>Não exibir tela de atenção aos cidadãos</Text>
@@ -1657,7 +1657,7 @@
             <Text>Todas as unidades terrestres poderão embarcar e se mover nos hexágonos aquáticos. Todas as unidades que entrarem em território amigo ganharão essa habilidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLOWS_CROSSING_OCEANS">
-            <Text>Permite unidades embarcadas se movimentarem em oceanos.</Text>
+            <Text>Permite unidades embarcadas se movimentarem em {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
         </Row>
         <Row Tag="TXT_KEY_ALLOWS_OPEN_BORDERS">
             <Text>Permite realizar Tratados de Abertura de Fronteiras.</Text>

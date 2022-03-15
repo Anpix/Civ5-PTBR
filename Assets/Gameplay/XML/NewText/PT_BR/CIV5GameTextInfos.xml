@@ -326,7 +326,7 @@
             <Text>Movimento de embarque rápido</Text>
         </Row>
         <Row Tag="TXT_KEY_ABLTY_OCEAN_EMBARK_STRING">
-            <Text>Permite que unidades embarquem para navegar em oceanos</Text>
+            <Text>Permite que unidades embarquem para navegar em {TXT_KEY_TERRAIN_OCEAN[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_ABLTY_OPEN_BORDER_STRING">
             <Text>Permite realizar tratados para Abertura de Fronteiras</Text>

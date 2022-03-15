@@ -329,10 +329,10 @@
 			<Text>Heals 25 Damage If Kills a Unit</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MOHAWK">
-			<Text>Combat Bonus in Forest/Jungle (33)</Text>
+			<Text>Bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_JAGUAR">
-			<Text>Combat Bonus in Forest/Jungle (33)</Text>
+			<Text>Bônus de combate em {TXT_KEY_FEATURE_FOREST}/{TXT_KEY_FEATURE_JUNGLE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HOLY_SITE_TEXT">
 			<Text>Um lugar de significado religioso, os {TXT_KEY_IMPROVEMENT_HOLY_SITE[2]} são locais considerados sagrados como um testamento aos deuses, profetas e tradições de uma determinada religião. Muitas vezes, destino de peregrinos religiosos, esses locais são frequentemente visitados pelos fiéis na esperança de fortalecer sua conexão com Deus, ao mesmo tempo em que prestam homenagem.</Text>
@@ -383,7 +383,7 @@
 			<Text>Inquisitors were widely utilized throughout Europe as part of a broad effort to eliminate enemies of the Catholic Church. Those branded as heretics by the Inquisition were oftentimes tortured and executed for their alleged crimes, and there was typically little room for defense against the inquisitor's accusations.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu movimento de "6" o torna extremamente rápido e pode se movimentar sobre qualquer tipo de terreno, incluindo montanhas, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando atacam {TXT_KEY_UNIT_TANK[2]}.</Text>
+			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu alcance de 6 o torna extremamente rápido, e ele pode se movimentar sobre qualquer tipo de terreno, incluindo {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando batalham contra {TXT_KEY_UNIT_TANK[2]}.</Text>
 		</Row>
 		<!-- Technology related text -->
 		<Row Tag="TXT_KEY_TECH_DRAMA_HELP">
@@ -607,7 +607,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola Pública[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência nas Cidades.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Arqueiro de Arco Composto[ENDCOLOR], uma poderosa unidade de ataque a distância, e do [COLOR_POSITIVE_TEXT]Coliseu[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Serrarias[ENDCOLOR] em hexágonos com florestas, aumentando a sua [ICON_PRODUCTION]Produção.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_COMPOSITE_BOWMAN}[ENDCOLOR], uma poderosa unidade de ataque a distância, e a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_COLOSSEUM}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_LUMBERMILL[2]}[ENDCOLOR] em hexágonos com {TXT_KEY_FEATURE_FOREST}, aumentando a sua [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_PEACE]Fé de uma cidade.</Text>
@@ -616,7 +616,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Universidade[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência. Também proporciona uma variedade de habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], um acordo especial que pode ser feito com outros jogadores do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campos de Caça[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER] Cervos, [ICON_RES_IVORY] Marfim, [ICON_RES_FUR] Peles e [ICON_RES_TRUFFLES] Trufas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRANARY}[ENDCOLOR], que fornece [ICON_FOOD]Alimento, ajudando suas cidades a crescerem mais. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SHRINE}[ENDCOLOR], o primeiro edifício do jogo que fornece [ICON_PEACE]Fé.</Text>
@@ -640,7 +640,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARAVEL}[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_OBSERVATORY}[ENDCOLOR], que fornece um significativo impulso [ICON_RESEARCH]Científico. Também permite que unidades terrestres embarcadas cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARAVEL}[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_OBSERVATORY}[ENDCOLOR], que fornece um significante impulso na [ICON_RESEARCH]Ciência. Também permite que unidades terrestres embarquem e cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro produzido pela cidade, além da [COLOR_POSITIVE_TEXT]Guarda Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
@@ -661,7 +661,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Couraçado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos Destróiers e a outros Submarinos, e do [COLOR_POSITIVE_TEXT]Estádio[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam Plataformas Costeiras.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_STADIUM_DESC}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade.</Text>
@@ -688,7 +688,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância, e do [COLOR_POSITIVE_TEXT]Avião de Combate[ENDCOLOR], uma unidade aérea projetada para defender o espaço aéreo contra aeronaves inimigas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Usina Solar[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no deserto ou próximo a ele, e que aumenta a [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]Centro de Reciclagem[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM]Alumínio.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SOLAR_PLANT}[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no {TXT_KEY_TERRAIN_DESERT} ou próximo a ele, e que aumenta a [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_RECYCLING_CENTER}[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM]Alumínio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY_HELP">
 			<Text>Uma tecnologia importante, Foguetes permitem o desenvolvimento do [COLOR_POSITIVE_TEXT]Programa Apollo[ENDCOLOR], um projeto necessário para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]. Também permite a construção da [COLOR_POSITIVE_TEXT]Artilharia de Foguetes[ENDCOLOR] e do [COLOR_POSITIVE_TEXT]SAM Móvel[ENDCOLOR], uma unidade rápida e especializada em frustrar ataques de aeronaves inimigas.</Text>
@@ -724,7 +724,7 @@
 			<Text> A unit's Combat Strength (CS) determines how powerful it is in combat. The warrior, the earliest combat unit available, has a CS of 8. Non-combat units like settlers and workers have CS's of 0 (zero). They are defeated (captured or destroyed) when attacked by any military unit.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_NAVAL_HEADING3_BODY">
-			<Text>Naval units are units that can move in water hexes. They cannot enter land hexes, except for coastal cities. Depending upon its type, a naval unit may be limited to travel in coastal waters, or it may be able to enter deep water Ocean hexes. Naval units can be either Melee or Ranged Combat Units.</Text>
+			<Text>Unidades Navais são unidades que podem se mover em hexágonos aquáticos. Elas não podem entrar em hexágonos terrestres, exceto em cidades costeiras. Dependendo do seu tipo, uma unidade naval pode estar limitada a viajar em águas costeiras, ou podem entrar em hexágonos de {TXT_KEY_TERRAIN_OCEAN} de águas profundas. Unidades navais podem ser unidades de combate corpo a corpo ou à distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_RESEARCHAGREE_HEADING3_BODY">
 			<Text>Once you have acquired the Education tech, you may engage in a Research Agreement with another civ, as long as you both have an Embassy and a Declaration of Friendship. A Research Agreement costs each side Gold (if you don't have the required Gold, you can't be part of an agreement).[NEWLINE][NEWLINE]The Research Agreement lasts 30 turns on Standard speed. When it is finished, you gain Research based on the total Research you and your partner produced during the agreement. However, you cannot get more Research from your partner than what you produced yourself.</Text>
@@ -745,7 +745,7 @@
 			<Text>Barbarian encampments on the coastline can create naval units (again, equal to those that can be created by the civilization with the most advanced tech). These units will menace your coastline, destroy naval improvements and attack hapless land units which stray too near the coastline. It's important to maintain a navy to keep them off your back, but the best way to stop these attacks is to destroy the coastal encampments nearby.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUBMARINE_STRATEGY">
-			<Text>The Submarine is a specialized ship-killing vessel. It is invisible to most units - except for Destroyers, Missile Cruisers, and other Submarines - until it attacks, or is adjacent to another unit. The Submarine can enter ice hexes. Use the Submarine to patrol enemy waters and sink enemy ships, and to guard your own ships against attacks from enemy subs. </Text>
+			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_UNIT_SUBMARINE[2]} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE_STRATEGY">
 			<Text>The Nuclear Submarine is tougher and stronger than the earlier model. It too is invisible to most units and can see other submarines. Most importantly, Nuclear Submarines can carry guided missiles and nuclear missiles. Like submarines, Nuclear Subs are vulnerable to enemy Destroyers, Missile Cruisers, and Subs, so send units of your own out ahead to make sure the coast is clear.</Text>
@@ -754,7 +754,7 @@
 			<Text>Fishing boats allow a civilization to harvest the valuable crab, fish, whale and pearl resources. To construct fishing boats, you must build a work boat in a coastal city (after your civilization has learned the requisite technology). Work boats are consumed when they construct fishing boats.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CAMP_TEXT">
-			<Text>Hunting wild animals is one of the first ways in which ancient Man harvested the resources of the world around him. A hunting camp allows access to deer, fur, truffles, and ivory resources. </Text>
+			<Text>Caçar animais selvagens é uma das primeiras maneiras pelas quais o homem antigo explorou os recursos do mundo ao seu redor. Um {TXT_KEY_IMPROVEMENT_CAMP} permite o acesso a recursos de cervos, peles, trufas e marfim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_FREEDOM_HEADING3_BODY">
 			<Text>The Freedom ideology provides bonuses for Culture, Tourism, Specialist production, and more. Freedom becomes available upon completing 3 factories or entering the Modern Era, and cannot be active at the same time as Autocracy or Order.</Text>
@@ -790,28 +790,27 @@
 			<Text>Although you can attack a city and wear it down with ranged units, you cannot capture the city with a ranged unit; you must move a melee unit into the city to take it. Similarly, air units and ranged water units cannot capture a city, though they can wear its defenses down to nothing.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_CSTATE_GIFT_GOLD">
-			<Text>Give a Gift</Text>
+			<Text>Dar um Presente</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT">
-			<Text>Hills provide increased productivity to a nearby city. They also provide important combat bonuses to units stationed on the hills.</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]} proporcionam aumento de produtividade à uma cidade próxima. Elas também proporcionam um importante bônus de combate para unidades estacionadas nas {TXT_KEY_TERRAIN_HILL[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TEXT">
-			<Text>Generally, grassland produces the most food of any terrain type. Cities constructed near to grasslands will tend to grow faster than cities built elsewhere.</Text>
+			<Text>Geralmente, as {TXT_KEY_TERRAIN_GRASS[2]} produzem mais alimento que qualquer tipo de terreno. Cidades construídas perto de {TXT_KEY_TERRAIN_GRASS[2]} tenderão a crescer mais rapidamente que as construídas em outros lugares.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TEXT">
-			<Text>In general, desert hexes are remarkably unuseful. They provide no benefits to cities (unless the desert contains an oasis or resource, of course, or if it has access to fresh water).</Text>
-		</Row>
+			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável)</Text>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
 			<Text>As unidades montadas {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades corpo a corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT">
-			<Text>Mountains are impassable, except to air units, and Carthaginian units (after earning a Great General). They provide nothing to cities.</Text>
+			<Text>As {TXT_KEY_TERRAIN_MOUNTAIN[2]} são intransitáveis, exceto para unidades aéreas e unidades cartaginesas (depois de ganhar um {TXT_KEY_UNIT_GREAT_GENERAL}). Eles não fornecem nada para as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_DEFENSE_HITPOINTS">
 			<Text>+{1_DefenseHP} HP</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITADEL_TEXT">
-			<Text>A Citadel is a mighty fortification that can only be constructed by a Great General, usually near a city or on a particularly defensible piece of terrain. The Acropolis in Athens, Greece, is an example of an early powerful Citadel. Such structures were almost impossible to take by direct attack, and they were capable of withstanding protracted sieges before they fell. You can construct a Citadel anywhere within your territory, or directly adjacent to your territory. Upon constructing the Citadel, your Culture borders will also expand to surround the Citadel on all sides by one hex. If the new Culture border claims hexes already owned by another civilization, you will incur a diplomatic penalty as a result. Any unit stationed within a Citadel receives a 100% defensive strength bonus. Additionally, any enemy unit which ends its turn next to a Citadel takes 30 damage (damage does not stack with other Citadels).</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_CITADEL} é uma poderosa fortificação que só pode ser construída por um {TXT_KEY_UNIT_GREAT_GENERAL}, normalmente próxima de uma cidade ou terrenos que demandam maior cuidado. A Acrópole em Atenas, Grécia, é um exemplo de uma poderosa {TXT_KEY_IMPROVEMENT_CITADEL}. Tais estruturas são quase impossíveis de serem tomadas por um ataque direto e elas são capazes de resistir a cercos prolongados antes de cair. Você pode construir uma {TXT_KEY_IMPROVEMENT_CITADEL} em qualquer lugar dentro de seu território ou diretamente adjacente a ele. Após a construção da {TXT_KEY_IMPROVEMENT_CITADEL}, as suas fronteiras culturais também se expandirão para circundar a {TXT_KEY_IMPROVEMENT_CITADEL} por todos os lados em um hexágono. Se a nova fronteira cultural reivindicar hexágonos já pertencentes a outra civilização, você incorrerá em uma penalidade diplomática como resultado. Qualquer unidade estacionada dentro de uma {TXT_KEY_IMPROVEMENT_CITADEL} recebe um bônus de 100% na Força de Defesa. Além disso, qualquer unidade inimiga que terminar seu turno próxima à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano (o dano não se acumula com outras {TXT_KEY_IMPROVEMENT_CITADEL[2]}).</Text>
 		</Row>
 		<!-- UNITS-->
 		<Row Tag="TXT_KEY_UNIT_MUSKETMAN_STRATEGY">

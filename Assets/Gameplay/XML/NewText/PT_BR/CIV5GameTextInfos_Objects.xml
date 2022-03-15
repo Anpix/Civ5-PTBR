@@ -64,37 +64,37 @@
 		<Row Tag="TXT_KEY_FEATURE_FALLOUT">
 			<Text>Chuva Radioativa</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_FLOOD_PLAINS">
-			<Text>Planícies Inundadas</Text>
+			<Text>Planície Alagada|Planícies Alagadas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_FOREST">
-			<Text>Floresta</Text>
+			<Text>Floresta|Florestas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_ICE">
 			<Text>Gelo</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_JUNGLE">
-			<Text>Selva</Text>
+			<Text>Selva|Selvas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_MARSH">
-			<Text>Pântano</Text>
+			<Text>Pântano|Pântanos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_OASIS">
-			<Text>Oásis</Text>
+			<Text>Oásis|Oásis</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GAMESPEED_EPIC">
 			<Text>Épico</Text>
@@ -162,94 +162,94 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CAMP">
-			<Text>Campo de Caça|Campos de Caça</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Acampamento de Caça|Acampamentos de Caça</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITY_RUINS">
-			<Text>Ruínas de uma cidade</Text>
+			<Text>Cidade em Ruínas|Cidades em Ruínas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_FARM">
 			<Text>Fazenda|Fazendas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_FISHING_BOATS">
 			<Text>Barco Pesqueiro|Barcos Pesqueiros</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_FORT">
 			<Text>Forte|Fortes</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT">
-			<Text>Ruínas antigas</Text>
+			<Text>Ruína Antiga|Ruínas Antigas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_ENCAMPMENT">
 			<Text>Acampamento|Acampamentos</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_LUMBERMILL">
 			<Text>Serraria|Serrarias</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_MINE">
 			<Text>Mina|Minas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM">
-			<Text>Plataforma Costeira|Plataformas Costeiras</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Plataforma Petrolífera|Plataformas Petrolíferas</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_PASTURE">
 			<Text>Pasto|Pastos</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_PLANTATION">
 			<Text>Plantação|Plantações</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_QUARRY">
-			<Text>Mina a Céu Aberto|Minas a Céu Aberto</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Pedreira|Pedreiras</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_TRADING_POST">
 			<Text>Posto Comercial|Postos Comerciais</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_WELL">
 			<Text>Poço de Petróleo|Poços de Petróleo</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_LANDMARK">
-			<Text>Ponto de Referência|Pontos de Referência</Text>
-			<Gender>masculine|masculine</Gender>
+			<Text>Marco de Referência|Marcos de Referência</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_ACADEMY">
 			<Text>Academia|Academias</Text>
-			<Gender>feminine|feminine</Gender>
+			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE">
 			<Text>Alfândega|Alfândegas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_MANUFACTORY">
 			<Text>Manufatura|Manufaturas</Text>
@@ -258,8 +258,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
 			<Text>Cidadela|Cidadelas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_INVISIBLE_SUBMARINE">
 			<Text>Submarinos</Text>
@@ -557,44 +557,44 @@
 			<Plurality>2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_DESERT">
-			<Text>Deserto</Text>
+			<Text>Deserto|Desertos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASS">
-			<Text>Pradaria</Text>
+			<Text>Pradaria|Pradarias</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_HILL">
-			<Text>Colina</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
-		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN">
-			<Text>Montanha</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
-		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_OCEAN">
-			<Text>Oceano</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
-		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_PLAINS">
-			<Text>Planície</Text>
+			<Text>Colina|Colinas</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		<Row Tag="TXT_KEY_TERRAIN_SNOW">
-			<Text>Neve</Text>
+		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN">
+			<Text>Montanha|Montanhas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_OCEAN">
+			<Text>Oceano|Oceanos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_PLAINS">
+			<Text>Planície|Planícies</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SNOW">
+			<Text>Neve|Neves</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_TUNDRA">
-			<Text>Tundra</Text>
+			<Text>Tundra|Tundras</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_TRADE_CULTURE">
 			<Text>Cultura</Text>
@@ -794,7 +794,7 @@
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_DESC">
 			<Text>Maloca|Malocas</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_DESC">
 			<Text>Jardins Flutuantes</Text>

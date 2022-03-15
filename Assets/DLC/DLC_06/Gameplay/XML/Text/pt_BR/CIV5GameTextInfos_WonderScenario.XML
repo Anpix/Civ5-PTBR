@@ -73,7 +73,7 @@
 			<Text>O Nilômetro é o edifício exclusivo Egípcio, substituindo o Moinho d'Água. Ele aumenta a produção de [ICON_FOOD]Alimento e [ICON_GOLD]Ouro da cidade e só pode ser construído se acidade estiver perto de um rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NILOMETER_HELP">
-			<Text>+15% de [ICON_FOOD]Alimento. Cada hexágono de Planícies Inundadas fornece +1 de [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]A cidade deve ter sido construída próxima a um rio.</Text>
+			<Text>+15% de [ICON_FOOD]Alimento. Cada hexágono de {TXT_KEY_FEATURE_FLOOD_PLAINS} fornece +1 de [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]A cidade deve ter sido construída próxima a um rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ZIGGURAT_TEXT">
 			<Text>Um marco dos esforços de construção Suméria, Babilônica e Assíria, o Zigurate evoluiu a partir de desenhos de antigos templos, que foram construídos sobre plataformas elevadas (provavelmente para evitar inundações). O colossal Zigurate tipicamente possui grandes santuários no nível mais alto, para ser visto apenas por sacerdotes e outras figuras religiosas. Predominantemente caracterizado como parte de um grande complexo de templos em geral, a finalidade exata do Zigurate permanece um mistério até hoje.</Text>

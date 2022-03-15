@@ -199,10 +199,10 @@
 			<Text>[NEWLINE][TAB][TAB]"Why do they call them civil wars when they always are so extraordinarily uncivil?"[NEWLINE][TAB][TAB] - Elizabeth Fitch[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_DESC">
-			<Text>At the beginning of the Civil War there were several military academies devoted to educating young men in military science, most notably the U.S. Military Academy at West Point. The South, on the other hand, boasted more, and arguably better, private academies catering to the Southern traditions: the Citadel, Virginia Military Academy, Porter Military Academy in South Carolina, St. Charles College in Mississippi and others.</Text>
+			<Text>At the beginning of the Civil War there were several military academies devoted to educating young men in military science, most notably the U.S. Military Academy at West Point. The South, on the other hand, boasted more, and arguably better, private academies catering to the Southern traditions: the {TXT_KEY_IMPROVEMENT_CITADEL}, Virginia Military Academy, Porter Military Academy in South Carolina, St. Charles College in Mississippi and others.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT][TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]][ENDCOLOR], a civilian unit that can repair improvements, build Roads and Railroads. This unit can also be consumed to construct a Citadel or Pontoon Bridge.</Text>
+			<Text>Permite treinar o [COLOR_POSITIVE_TEXT]{TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER}[ENDCOLOR], uma unidade civil que pode reparar melhorias, construir Estradas e Estradas de Ferro. Essa unidade também pode ser consumida para construir uma {TXT_KEY_IMPROVEMENT_CITADEL} ou {TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Quit thinking about what Bobby Lee's gonna do to us and start thinking about what we're going to do to him."[NEWLINE][TAB][TAB] - Ulysses S. Grant[NEWLINE][TAB]</Text>
@@ -300,7 +300,7 @@
 		<!-- Resources -->
 		<!-- Improvements-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE">
-			<Text>Pontoon Bridge</Text>
+			<Text>Ponte de Pontão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_HELP">
 			<Text>Allows land units to traverse this Coast tile. May only be constructed in a Coast tile with 4 or more land tiles adjacent to it. Constructed by an embarked {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]}, who is consumed by the construction of the Pontoon Bridge.</Text>
@@ -309,7 +309,7 @@
 			<Text>Pontoon (or "floating") bridges were used by both sides during the war to allow the rapid crossing of rivers by infantry, artillery and wagons; an innovative, light-weight design known as Cumberland Pontoons was especially crucial during the Union campaigns across the deep South.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE">
-			<Text>Construct a [LINK=IMPROVEMENT_PONTOON_BRIDGE]Pontoon Bridge[\LINK]</Text>
+			<Text>Construir uma [LINK=IMPROVEMENT_PONTOON_BRIDGE]{TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_HELP">
 			<Text>Allows land units to traverse this Coast tile. May only be constructed in a Coast tile with 4 or more land tiles adjacent to it. Constructed by an embarked {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER[1]}, who is consumed by the construction of the Pontoon Bridge.</Text>
@@ -326,7 +326,7 @@
 		<!-- Buildings in the seperate Buildings file-->
 		<!-- Units-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_HELP_WORKER">
-			<Text>A civilian unit that can repair improvements, build Roads and Railroads. This unit can also be consumed to construct a Citadel or Pontoon Bridge.</Text>
+			<Text>Uma unidade civil que pode reparar melhorias, construir Estradas e Estradas de Ferro. Essa unidade também pode ser consumida para construir uma {TXT_KEY_IMPROVEMENT_CITADEL} ou {TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE}.</Text>
 		</Row>
 		<!--Great Generals-->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_IRVIN_MCDOWELL">
@@ -431,7 +431,7 @@
 			<Text>NEW UNION COMMANDER: Ulysses Grant[NEWLINE][NEWLINE]Lincoln has at last found his man. Ulysses Grant, already victorious in numerous Western Theater campaigns, is brought east and put in command. He provides a 30% combat modifier and all units starting the turn within 5 hexes gain +1 [ICON_MOVES] Movement.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_IMPROVEMENTS_CITADEL_TEXT">
-			<Text>A Citadel is a mighty fortification that can only be constructed by an Engineer. Upon constructing the Citadel, your Culture borders will also expand to surround the Citadel on all sides by one hex. Any unit stationed within a Citadel receives a 100% defensive strength bonus. Additionally, any enemy unit which ends its turn next to a Citadel takes 30 damage (damage does not stack with other Citadels).</Text>
+			<Text>Uma {TXT_KEY_IMPROVEMENT_CITADEL} é uma poderosa fortificação que só pode ser construída por um {TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER}. Após a construção da {TXT_KEY_IMPROVEMENT_CITADEL}, as suas fronteiras Culturais também se expandirão para circundar a {TXT_KEY_IMPROVEMENT_CITADEL} por todos os lados em um hexágono. Qualquer unidade estacionada dentro de uma {TXT_KEY_IMPROVEMENT_CITADEL} recebe um bônus de 100% na Força de Defesa. Além disso, qualquer unidade inimiga que terminar seu turno próxima à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano (o dano não se acumula com outras {TXT_KEY_IMPROVEMENT_CITADEL[2]}).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EO_EX_IMPROVEMENTS">
 			<Text>Total cost of maintaining Roads and Railroads you have built, or are responsible for.</Text>

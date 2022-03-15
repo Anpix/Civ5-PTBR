@@ -98,7 +98,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Intercâmbio Cultural[ENDCOLOR][NEWLINE]Aumenta o modificador de turismo por religião compartilhada, rotas comerciais e fronteiras abertas em 15% cada.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Comércio[ENDCOLOR] fornece bônus para impérios focados em [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Adotando Comércio, você irá aumentar a produção de [ICON_GOLD]Ouro na sua [ICON_CAPITAL]Capital em 25%. Desbloqueia a construção do Big Ben.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Comércio, será fornecido +1 de [ICON_GOLD]Ouro para cada Posto Comercial, além de permitir a compra de Grandes Mercadores com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Comércio[ENDCOLOR] fornece bônus para impérios focados em [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Adotando Comércio, você irá aumentar a produção de [ICON_GOLD]Ouro na sua [ICON_CAPITAL]Capital em 25%. Desbloqueia a construção do Big Ben.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Comércio, será fornecido +1 de [ICON_GOLD]Ouro para cada {TXT_KEY_IMPROVEMENT_TRADING_POST}, além de permitir a compra de Grandes Mercadores com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP">
             <Text>Empreendedorismo</Text>
@@ -215,7 +215,7 @@
             <Text>Nova Transação</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NEW_DEAL_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]Pontos de Referência e Grandes Pessoas melhoram a produção em +4 de seu respectivo rendimento.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Nova Transação[ENDCOLOR][NEWLINE]{TXT_KEY_IMPROVEMENT_LANDMARK[2]} e Grandes Pessoas melhoram a produção em +4 de seu respectivo rendimento.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY">
             <Text>Arsenal da Democracia</Text>
@@ -311,7 +311,7 @@
             <Text>Plano Quinquenal</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Plano Quinquenal[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada Mina ou Mina a Céu Aberto.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Plano Quinquenal[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada {TXT_KEY_IMPROVEMENT_MINE} ou {TXT_KEY_IMPROVEMENT_QUARRY}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT">
             <Text>Ditarua do Proletariado</Text>
@@ -702,16 +702,16 @@
             <Text>Fornece +2 de [ICON_TOURISM]Turismo após o Voo ser pesquisado.[NEWLINE][NEWLINE]A cidade precisa possuir uma Muralha.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_HELP">
-            <Text>Converte o {TXT_KEY_RESOURCE_ARTIFACTS} em uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Converte o {TXT_KEY_RESOURCE_ARTIFACTS} em uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, que pode render um Artefato de Grande Obra ou pode ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC">
-            <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Pode render um Artefato de Grande Obra ou ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
-            <Text>Constrói um Acampamento de Pau-Brasil, que aumenta a quantidade de [ICON_GOLD]Ouro fornecido por este hexágono, mantendo a Selva intocada. Também fornece [ICON_CULTURE]Cultura assim que a Acústica for pesquisada.</Text>
+            <Text>Constrói um Acampamento de Pau-Brasil, que aumenta a quantidade de [ICON_GOLD]Ouro fornecido por este hexágono, mantendo a {TXT_KEY_FEATURE_JUNGLE} intocada. Também fornece [ICON_CULTURE]Cultura assim que a Acústica for pesquisada.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_REC">
-            <Text>Aumentará a quantidade de [ICON_GOLD]Ouro fornecida por este hexágono, mantendo a Selva intocada. Também fornece [ICON_CULTURE]Cultura assim que a Acústica for pesquisada.</Text>
+            <Text>Aumentará a quantidade de [ICON_GOLD]Ouro fornecida por este hexágono, mantendo a {TXT_KEY_FEATURE_JUNGLE} intocada. Também fornece [ICON_CULTURE]Cultura assim que a Acústica for pesquisada.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_KASBAH_HELP">
             <Text>Constrói um Casbá, que aumenta a quantidade de [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção e [ICON_GOLD]Ouro fornecidos por este hexágono. Também fornece um bônus defensivo.</Text>
@@ -735,10 +735,10 @@
             <Text>A unidade será consumida.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência.</Text>
+            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
-            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria Ponto de Referência. {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]} são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
+            <Text>Quando melhorado com uma {TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG}, um {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS} pode então render um Artefato, que pode ser colocado em um espaço de Grande Obra de Arte ou ser transformado em uma melhoria {TXT_KEY_IMPROVEMENT_LANDMARK}. {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]} são visíveis apenas para civilizações que possuem todas as políticas do ramo Exploração.</Text>
         </Row>
         <Row Tag="TXT_KEY_RESOURCE_NUTMEG_HELP">
             <Text>Aparece como um bem de luxo único em uma cidade Indonésia.</Text>
@@ -822,7 +822,7 @@
 			<Text>Tem certeza que deseja {@1_ActionName}?[NEWLINE]O {TXT_KEY_RESOURCE_ARTIFACTS} atual será permanentemente removido.</Text>
 		</Row>
         <Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
-            <Text>Em território amigo, Florestas e Selvas são como Estradas. Após descobrir A Roda, esses hexágonos podem criar [ICON_CONNECTED]Conexões com Cidades. As Caravanas se movem por Florestas e Selvas como em Estradas.</Text>
+            <Text>Em território amigo, {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]} são como Estradas. Após descobrir A Roda, esses hexágonos podem criar [ICON_CONNECTED]Conexões com Cidades. As Caravanas se movem por {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]} como em Estradas.</Text>
         </Row>
         <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED">
             <Text>[ICON_CONNECTED]Conexão estabelecida!</Text>
@@ -852,7 +852,7 @@
             <Text>{1_LeaderName} trocou seu Artefato "{2_Work1Name}" pelo Artefato "{3_Work2Name}."</Text>
         </Row>
         <Row Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP">
-            <Text>+25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Conexões.[NEWLINE][NEWLINE]A cidade deve estar construída a 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
+            <Text>+25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Conexões.[NEWLINE][NEWLINE]A cidade deve estar construída a 2 hexágonos de distância de uma {TXT_KEY_TERRAIN_MOUNTAIN} que esteja dentro do seu território.</Text>
         </Row>
         <Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD">
             <Text>+1 de [ICON_GOLD]Ouro de cada [ICON_CONNECTED]Conexão e Recursos de [ICON_RES_OIL]Petróleo fornecem o dobro da quantidade.</Text>

@@ -566,7 +566,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Piedade[ENDCOLOR] aumenta a [ICON_CULTURE]Cultura e a [ICON_PEACE]Fé do Império.[NEWLINE][NEWLINE]Adotando Piedade, você poderá construir Santuários e Templos na metade do tempo normal.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Piedade, você terá um desconto de 20% na compra de unidades e edifícios religiosos com [ICON_PEACE]Fé e Cidades Santas fornecerão +3 de [ICON_GOLD]Ouro e +3 de [ICON_CULTURE]Cultura.[NEWLINE][NEWLINE]Este ramo não pode ser adotado em conjunto com Racionalismo.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Comércio[ENDCOLOR] fornece bônus para impérios navais e aqueles focados em [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Adotando Comércio, você irá aumentar a produção de [ICON_GOLD]Ouro na sua [ICON_CAPITAL]Capital em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Comércio, será fornecido +1 de [ICON_GOLD]Ouro para cada Posto Comercial e o dobro de [ICON_GOLD]Ouro em missões de Grandes Mercadores.[NEWLINE][NEWLINE]Será possível comprar Grandes Mercadores com [ICON_PEACE]Fé.</Text>			
+			<Text>[COLOR_POSITIVE_TEXT]Comércio[ENDCOLOR] fornece bônus para impérios navais e aqueles focados em [ICON_GOLD]Ouro.[NEWLINE][NEWLINE]Adotando Comércio, você irá aumentar a produção de [ICON_GOLD]Ouro na sua [ICON_CAPITAL]Capital em 25%.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Comércio, será fornecido +1 de [ICON_GOLD]Ouro para cada {TXT_KEY_IMPROVEMENT_TRADING_POST} e o dobro de [ICON_GOLD]Ouro em missões de Grandes Mercadores.[NEWLINE][NEWLINE]Será possível comprar Grandes Mercadores com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">			
 			<Text>[COLOR_POSITIVE_TEXT]Racionalismo[ENDCOLOR] melhora a habilidade de usar e gerar [ICON_RESEARCH]Ciência.[NEWLINE][NEWLINE]Adotando Racionalismo, você obterá +15% de [ICON_RESERACH]Ciência enquanto o Império estiver [ICON_HAPPINESS_1]Feliz.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Racionalismo, você receberá 2 tecnologias gratuitas.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Piedade.[ENCOLOR]</Text>			
@@ -614,7 +614,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção de [ICON_RESEARCH]Ciência da cidade em 25%. A construção de Fábricas demora metade do tempo normal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_COMMUNISM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Comunismo[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada Mina ou Mina a Céu Aberto.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_COMMUNISM}[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada {TXT_KEY_IMPROVEMENT_MINE} ou {TXT_KEY_IMPROVEMENT_QUARRY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FASCISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Fascismo[ENDCOLOR][NEWLINE]A quantidade de recursos estratégicos produzidos pelo Império aumenta em 100%. Todos os Grandes Generais recebem de +2 [ICON_MOVES]Pontos de Movimento.</Text>			
@@ -746,16 +746,17 @@
 			<Text>Acordo de Pesquisa cancelado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_POLDER">
-			<Text>Pôlder</Text>
+			<Text>Pôlder|Pôlderes</Text>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_POLDER_HELP">
-			<Text>Um Pôlder pode ser construído apenas em Planícies Inundadas e Pântanos. Ele aumenta a produção de [ICON_FOOD]Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION]Produção e +2 de [ICON_GOLD]Ouro assim que a {TXT_KEY_TECH_ECONOMICS} for pesquisada.</Text>
+			<Text>Um {TXT_KEY_IMPROVEMENT_POLDER} pode ser construído apenas em {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} e {TXT_KEY_FEATURE_MARSH[2]}. Ele aumenta a produção de [ICON_FOOD]Alimento imediatamente. Também fornece +1 de [ICON_PRODUCTION]Produção e +2 de [ICON_GOLD]Ouro assim que a {TXT_KEY_TECH_ECONOMICS} for pesquisada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_POLDER_TEXT">
-			<Text>Um Pôlder é uma área baixa cercada por diques e com a água drenada. Em geral, é a terra recuperada de um lago ou leito do mar, de planícies inundadas ou de pântanos. Com o tempo, a terra drenada cede de modo que o pôlder fica eventualmente abaixo do nível da água circundante. Devido a isso, a água aflora dentro da área drenada e precisa ser bombeada para fora ou drenada de alguma forma. Os diques são geralmente feitos dos materiais disponíveis, como terra ou areia; nos tempos modernos estas barreiras podem ser cobertas ou completamente feitas de concreto. O terreno drenado é extremamente fértil e produz excelentes pastagens ou lavouras.[NEWLINE][NEWLINE]Os primeiros pôlderes foram construídos no século XI DC, embora a construção de aterros como barreiras à água remeta aos Romanos. Os Holandeses têm uma longa história de recuperar pântanos e brejos, e até mesmo o leito do mar, e possuem a metade da área cultivada em pôlderes da Europa. Embora existam pôlderes em outros países da Europa, e exemplos podem ser encontrados na Ásia e América do Norte, a Holanda tem cerca de 3000 pôlderes representando cerca de 27% das terras do país. A própria Amsterdam é construída em grande parte sobre pôlder. Como um ditado Holandês afirma: "Deus fez o mundo, mas os Holandeses fizeram a Holanda".</Text>
+			<Text>Um {TXT_KEY_IMPROVEMENT_POLDER} é uma área baixa cercada por diques e com a água drenada. Em geral, é a terra recuperada de um lago ou leito do mar, de {TXT_KEY_FEATURE_FLOOD_PLAINS[2]} ou de {TXT_KEY_FEATURE_MARSH[2]}. Com o tempo, a terra drenada cede de modo que o {TXT_KEY_IMPROVEMENT_POLDER} fica eventualmente abaixo do nível da água circundante. Devido a isso, a água aflora dentro da área drenada e precisa ser bombeada para fora ou drenada de alguma forma. Os diques são geralmente feitos dos materiais disponíveis, como terra ou areia; nos tempos modernos estas barreiras podem ser cobertas ou completamente feitas de concreto. O terreno drenado é extremamente fértil e produz excelentes pastagens ou lavouras.[NEWLINE][NEWLINE]Os primeiros {TXT_KEY_IMPROVEMENT_POLDER[2]} foram construídos no século XI DC, embora a construção de aterros como barreiras à água remeta aos Romanos. Os Holandeses têm uma longa história de recuperar {TXT_KEY_FEATURE_MARSH[2]} e brejos, e até mesmo o leito do mar, e possuem a metade da área cultivada em {TXT_KEY_IMPROVEMENT_POLDER[2]} da Europa. Embora existam {TXT_KEY_IMPROVEMENT_POLDER[2]} em outros países da Europa, e exemplos podem ser encontrados na Ásia e América do Norte, a Holanda tem cerca de 3000 {TXT_KEY_IMPROVEMENT_POLDER[2]} representando cerca de 27% das terras do país. A própria Amsterdam é construída em grande parte sobre {TXT_KEY_IMPROVEMENT_POLDER}. Como um ditado Holandês afirma: "Deus fez o mundo, mas os Holandeses fizeram a Holanda".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_POLDER">
-			<Text>Construir um [LINK=IMPROVEMENT_POLDER]Pôlder[\LINK]</Text>
+			<Text>Construir um [LINK=IMPROVEMENT_POLDER]{TXT_KEY_IMPROVEMENT_POLDER}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_SORRY_FOR_SPY_CAUGHT">
 			<Text>Eu juro não espionar mais você.</Text>
@@ -824,7 +825,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Disciplina[ENDCOLOR][NEWLINE]+15% de [ICON_STRENGTH]Força de Combate para unidades de combate corpo a corpo que possuírem outra unidade militar no hexágono adjacente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
-			<Text>+100% [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo a uma Cidadela recebe 30 de dano (o dano não acumula com outras Cidadelas). Ao construir a Cidadela você expandirá suas fronteiras culturais ao redor da construção e consumirá esta unidade. Se a nova fronteira cultural reivindicar hexágonos pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
+			<Text>+100% [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo a uma {TXT_KEY_IMPROVEMENT_CITADEL} recebe 30 de dano (o dano não acumula com outras {TXT_KEY_IMPROVEMENT_CITADEL[2]}). Ao construir a {TXT_KEY_IMPROVEMENT_CITADEL} você expandirá suas fronteiras culturais ao redor da construção e consumirá esta unidade. Se a nova fronteira cultural reivindicar hexágonos pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_MILITARY_PROMISE_BROKEN_WITH_OTHERS">
 			<Text>[COLOR_NEGATIVE_TEXT]Você fez uma promessa para mover suas tropas para longe das fronteiras de outras civilizações e não cumpriu![ENDCOLOR]</Text>

@@ -61,7 +61,7 @@
 			<Text>Bônus vs unidades feridas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_HILL_ATTACK_BONUS">
-			<Text>Bônus de ataque nas colinas</Text>
+			<Text>Bônus de ataque nas {TXT_KEY_TERRAIN_HILL[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_OPEN_TERRAIN_BONUS">
 			<Text>Bônus de ataque em terreno aberto</Text>
@@ -106,7 +106,7 @@
 			<Text>Bônus de defesa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_HILL_DEFENSE_BONUS">
-			<Text>Bônus de defesa nas colinas</Text>
+			<Text>Bônus de defesa nas {TXT_KEY_TERRAIN_HILL[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_OPEN_TERRAIN_DEF_BONUS">
 			<Text>Bônus de defesa em terreno aberto</Text>
@@ -206,16 +206,16 @@
 			<Text>Rota comercial</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_MOUNTAIN">
-			<Text>Montanha</Text>
+			<Text>{TXT_KEY_TERRAIN_MOUNTAIN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_HILL">
-			<Text>Colina</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_LAKE">
 			<Text>Lagoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_OCEAN">
-			<Text>Oceano</Text>
+			<Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PLOTROLL_RIVER">
 			<Text>Rio</Text>

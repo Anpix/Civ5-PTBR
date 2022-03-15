@@ -145,10 +145,10 @@
 			<Text>O Furioso é uma das duas unidades Dinamarquesas exclusivas, substituindo o {TXT_KEY_UNIT_LONGSWORDSMAN}. Esta Unidade possui +1 de [ICON_MOVES]Movimento comparada ao {TXT_KEY_UNIT_LONGSWORDSMAN} e possui a promoção Anfíbio, que lhe permite atacar um hexágono terrestre a partir da região costeira sem penalidade. Disponível após pesquisar a tecnologia Fundição ao invés do Aço.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_HELP">
-			<Text>Forte unidade terrestre de infantaria da fase avançada do jogo que é especializada em operar na neve, tundra e colinas. Apenas a Dinamarca pode treiná-la. Substitui o Fuzileiro.</Text>
+			<Text>Forte unidade terrestre de infantaria da fase avançada do jogo que é especializada em operar na {TXT_KEY_TERRAIN_SNOW}, {TXT_KEY_TERRAIN_TUNDRA} e {TXT_KEY_TERRAIN_HILL[2]}. Apenas a Dinamarca pode treiná-la. Substitui o {TXT_KEY_UNIT_RIFLEMAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_STRATEGY">
-			<Text>A Infantaria Ski é uma das duas unidades Dinamarquesas exclusivas, substituindo o Fuzileiro. Esta unidade se move pela neve, tundra ou colinas no dobro de velocidade. Ela também possui um bônus de combate de +25% na neve, savana ou colina, se não houver selva ou floresta.</Text>
+			<Text>A Infantaria Ski é uma das duas unidades Dinamarquesas exclusivas, substituindo o {TXT_KEY_UNIT_RIFLEMAN}. Esta unidade se move pela {TXT_KEY_TERRAIN_SNOW}, {TXT_KEY_TERRAIN_TUNDRA} ou {TXT_KEY_TERRAIN_HILL[2]} no dobro de velocidade. Ela também possui um bônus de combate de +25% na {TXT_KEY_TERRAIN_SNOW}, savana ou {TXT_KEY_TERRAIN_HILL}, se não houver {TXT_KEY_FEATURE_JUNGLE} ou {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

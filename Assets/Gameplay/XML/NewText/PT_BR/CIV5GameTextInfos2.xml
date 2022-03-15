@@ -953,7 +953,7 @@
             <Text>[ICON_BULLET]{1_Resource}% de Unidade Fortificada</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_HILLS_MOD">
-            <Text>[ICON_BULLET]{1_Resource}% de Colinas (Habilidade da unidade)</Text>
+            <Text>[ICON_BULLET]{1_Resource}% de {TXT_KEY_TERRAIN_HILL[2]} (Habilidade da unidade)</Text>
         </Row>
         <Row Tag="TXT_KEY_COMBAT_PLOT_MOD_VS_TYPE">
             <Text>[ICON_BULLET]{1_Resource}% vs. {2_Type}</Text>
@@ -1040,10 +1040,10 @@
             <Text>Não é permitido aos jogadores exterminar cidades depois de capturá-las.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_GOODY_HUTS">
-            <Text>Sem ruínas antigas</Text>
+            <Text>Sem {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_NO_GOODY_HUTS_HELP">
-            <Text>Ruínas antigas não aparecerão no mapa.</Text>
+            <Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} não aparecerão no mapa.</Text>
         </Row>
         <Row Tag="TXT_KEY_GAME_OPTION_ONE_CITY_CHALLENGE">
             <Text>Desafio uma cidade</Text>

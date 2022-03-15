@@ -37,7 +37,7 @@
             <Text>Unidade naval da Era Medieval, usada para arrebatar o controle dos mares.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_TRIREME_STRATEGY">
-            <Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo a corpo. O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto oceano, fora das bordas da cidade).</Text>			
+            <Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo a corpo. O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto {TXT_KEY_TERRAIN_OCEAN}, fora das bordas da cidade).</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_IMPROVEMENTS_MOAI_HELP">
             <Text>O Moai só pode ser construído no litoral. Se for construído próximo a outro Moai, [ICON_CULTUE]Cultura extra será fornecida.</Text>
@@ -94,7 +94,7 @@
             <Text>A navegação tradicional Polinésia, também chamada de "navegação por orientação", foi um sistema de conhecimento altamente sofisticado, e oralmente transmitido, que permitiu aos Polinésios atravessarem imensas áreas do Oceânico Pacífico em embarcações abertas. Consistia em navegar por observação celeste, observar as correntes oceânicas, as ciências comportamentais de pássaros e peixes, o cômputo de mortes e a observação do clima. A navegação por orientação era prerrogativa exclusiva e secreta dos grupos de navegadores e permitiu que os Polinésios viajassem por 10 mil milhas quadradas sem o uso de bússolas ou relógios. Um navegador aprendiz aprendia fatos fundamentais sobre o movimento das estrelas, o comportamento dos pássaros e as peculiaridades do clima (como nuvens que se formavam sobre uma ilha no horizonte). Tudo isso era passado por seu mestre em forma de cânticos, músicas e mapas criados de simples materiais.[NEWLINE][NEWLINE]Como a navegação por orientação era um segredo transmitido oralmente com muitas variações locais, muito desse conhecimento foi perdido nos dias atuais. Ainda há escolas de navegação tradicional Polinésia na área do Pacífico, como a Taumako, nas Ilhas Salomão.[NEWLINE][NEWLINE]Dado o relativo pequeno tamanho das embarcações e as habilidades de navegação alcançadas pelos Polinésios, a eficácia da navegação por orientação e a destreza dos navegadores têm sido elogiadas por muitos, ocasionalmente em idealizações românticas. Mesmo assim, é difícil não ficar impressionado com o respeito à confiança e competência que levou os Polinésios a saírem de pequenas e distantes ilhas e navegarem em barcos abertos, do comprimento de um ônibus urbano.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_HELP">
-            <Text>Esta tecnologia foi pesquisada por sua Civilização antes do início deste cenário, desvendando os mistérios da embarcação, mesmo no Oceano.</Text>
+            <Text>Esta tecnologia foi pesquisada por sua Civilização antes do início deste cenário, desvendando os mistérios da embarcação, mesmo no {TXT_KEY_TERRAIN_OCEAN}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_QUOTE">
             <Text>[NEWLINE][TAB][TAB]"Sobre as gratas águas do mar azul escuro, nossos pensamentos sem limites e nossas almas livres, longe a brisa pode levar, as ondas espumam, procuram nosso Império e olha para nossa casa!"[NEWLINE][TAB][TAB] - Lord Byron[NEWLINE][TAB]</Text>
@@ -109,16 +109,16 @@
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Muralha[ENDCOLOR], que melhora e muito a defesa das cidades contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
-            <Text>Permite a construção do impulsionador de [ICON_GOLD]Ouro [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR], a melhoria de hexágonos com  [COLOR_POSITIVE_TEXT]Postos Comerciais[ENDCOLOR] e também permite que suas cidades convertam [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de trabalharem em unidades e edifícios.</Text>
+            <Text>Permite a construção do impulsionador de [ICON_GOLD]Ouro [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_MARKET}[ENDCOLOR], a melhoria de hexágonos com [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_TRADING_POST[2]}[ENDCOLOR] e também permite que suas cidades convertam [ICON_PRODUCTION]Produção em [ICON_GOLD]Ouro, ao invés de trabalharem em unidades e edifícios.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
             <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Mosquete[ENDCOLOR], a primeira unidade do jogo com armas de fogo. Também fornece certos benefícios econômicos para representar a nova tecnologia ganha ao contatar os Europeus.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MASONRY_HELP">
-            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]Monumentos[ENDCOLOR], que melhoram a produção de cultura das cidades. Também permite a construção de [COLOR_POSITIVE_TEXT]Minas a Céu Aberto[ENDCOLOR] em recursos de [ICON_RES_MARBLE]Mármore e a [COLOR_POSITIVE_TEXT]Limpeza de Pântanos[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
+            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_MONUMENT_DESC[2]}[ENDCOLOR], que melhoram a produção de cultura das cidades. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_QUARRY[2]}[ENDCOLOR] em recursos de [ICON_RES_MARBLE]Mármore e a [COLOR_POSITIVE_TEXT]Limpeza de {TXT_KEY_FEATURE_MARSH[2]}[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MINING_HELP">
-            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]Minas[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção, [COLOR_POSITIVE_TEXT]Derrubar Florestas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Remover Selvas[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
+            <Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_MINE[2]}[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção, [COLOR_POSITIVE_TEXT]Derrubar {TXT_KEY_FEATURE_FOREST[2]}[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Desmatar {TXT_KEY_FEATURE_JUNGLE[2]}[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_NAVIGATION_HELP">
             <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Trirreme[ENDCOLOR], a primeira embarcação de guerra do cenário. Também permite que unidades embarcadas possam se defender quando atacadas por barcos de guerra.</Text>
@@ -136,10 +136,10 @@
             <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR] que melhoram a sua produção de [ICON_CULTURE]Cultura e [ICON_RESEARCH]Ciência, respectivamente. Também permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
-            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]Acampamentos[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles.</Text>
+            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_OBSERVATORY_HELP">
-            <Text>Aumenta a produção de pontos de [ICON_RESEARCH]Ciência desta cidade. Neste cenário, a cidade não precisa estar próximo a uma Montanha.</Text>
+            <Text>Aumenta a produção de pontos de [ICON_RESEARCH]Ciência desta cidade. Neste cenário, a cidade não precisa estar próximo a uma {TXT_KEY_TERRAIN_MOUNTAIN}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_CEREMONY">
             <Text>Cerimônia</Text>

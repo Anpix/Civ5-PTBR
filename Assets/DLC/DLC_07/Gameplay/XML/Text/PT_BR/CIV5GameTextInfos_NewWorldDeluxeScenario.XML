@@ -321,16 +321,16 @@
 			<Text>The Anasazi are an ancient indigenous culture, forerunners of the modern Puebloan peoples. The Anasazi are known for having build the Mesa Verde cliff dwellings.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD_SHORT">
-			<Text>Great Andean Road</Text>
+			<Text>Grande Estrada Andina</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD">
-			<Text>Units ignore terrain costs when moving into any tile with Hills. No maintenance costs for improvements in Hills; half cost elsewhere.</Text>
+			<Text>Unidades ignoram os custos de terreno quando movendo por ladrilhos de {TXT_KEY_TERRAIN_HILL[2]}. Sem custo de manutenção para melhorias em {TXT_KEY_TERRAIN_HILL[2]}; metade do custo nos outros terrenos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_INCA_TITLE">
 			<Text>Inca</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES_SHORT">
-			<Text>Seven Cities of Gold</Text>
+			<Text>Sete Cidades de Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES">
 			<Text>[ICON_GOLD] Gold bonus for discovering a Natural Wonder (bonus enhanced if first to discover it). [ICON_CULTURE] Culture, [ICON_HAPPINESS_1] Happiness, and tile yields from Natural Wonders doubled.</Text>
@@ -441,13 +441,13 @@
 			<Text>[COLOR_POSITIVE_TEXT]Aristocracy[ENDCOLOR][NEWLINE]+15% [ICON_PRODUCTION] Production when building Wonders and +1 [ICON_PEACE] Faith from every Workshop.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM">
-			<Text>Barter System</Text>
+			<Text>Sistema de Permuta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Barter System[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold from every Trading Post and Brazilwood Camp. +2 [ICON_HAPPINESS_1] Happiness from each Luxury resource.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_BARTER_SYSTEM}[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro de cada {TXT_KEY_IMPROVEMENT_TRADING_POST} e {TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP}. +2 de [ICON_HAPPINESS_1]Felicidade de cada Recurso de Luxo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_TEXT">
-			<Text>A barter system with a reciprocal exchange of goods or services prevailed in the New World, among the natives, between the natives and the European settlers, and between the colonists themselves. Until the first coins minted in the New World - copper maravedi in Santo Domingo in 1502 AD - barter was the basis of the Americas' economy. </Text>
+			<Text>Um {TXT_KEY_POLICY_BARTER_SYSTEM} com troca recíproca de bens ou serviços prevaleceu no Novo Mundo, entre os nativos, entre os nativos e os colonos europeus e entre os próprios colonos. Até as primeiras moedas cunhadas no Novo Mundo - cobre maravedi em Santo Domingo em 1502 d.C. - a troca era a base da economia das Américas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CITIZENSHIP_NWS_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Citizenship[ENDCOLOR][NEWLINE][ICON_GOLD] Gold cost of purchasing buildings reduced by 33%. +1 [ICON_PEACE] Faith from each building that requires an improved resource. (Chocolate House, Circus, Forge, Mint, and Stone Works)</Text>
@@ -698,7 +698,7 @@
 			<Text>Gains [ICON_PEACE] Faith from each enemy unit killed.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_IGNORE_TERRAIN_IN_FOREST">
-			<Text>Treat Forest and Jungle as Roads (Movement bonus only in friendly territory). +1 [ICON_PEACE] Faith per city with an adjacent unimproved Forest. Bonus increases to +2 [ICON_PEACE] Faith in Cities with 3 or more adjacent unimproved Forest tiles.</Text>
+			<Text>Trata {TXT_KEY_FEATURE_FOREST} e {TXT_KEY_FEATURE_JUNGLE} como Estradas (Bônus de Movimento apenas em território amistoso). +1 de [ICON_PEACE]Fé por cidade com uma {TXT_KEY_FEATURE_FOREST} adjacente sem melhorias. O Bônus aumenta pra +2 de [ICON_PEACE]Fé em cidades com 3 ou mais {TXT_KEY_FEATURE_FOREST[2]} adjacentes sem melhorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PROMOTION_WITHDRAW_BEFORE_MELEE">
 			<Text>Withdraw Before Melee</Text>

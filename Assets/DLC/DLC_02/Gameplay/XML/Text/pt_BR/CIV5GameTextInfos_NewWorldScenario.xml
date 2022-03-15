@@ -239,7 +239,7 @@
 			<Text>Permite declarações de guerra contra qualquer civilização</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TRAPPING_HELP">
-			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Campo de Caça[ENDCOLOR] em fontes de [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles[ENDCOLOR], que aumenta a geração de [ICON_GOLD]Ouro daqueles hexágonos.</Text>
+			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles, o que aumenta a geração de [ICON_GOLD]Ouro daqueles hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MATHEMATICS_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Catapulta[ENDCOLOR], uma poderosa arma de cerco.</Text>

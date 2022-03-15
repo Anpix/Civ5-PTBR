@@ -491,7 +491,7 @@
 			<Text>Uma unidade naval Bárbara se juntou ao seu exército e deu [ICON_GOLD]Ouro a você!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_GOODY_HUT">
-			<Text>Você descobriu ruínas antigas! Enviar uma unidade a ela pode revelar segredos misteriosos!</Text>
+			<Text>Você descobriu {TXT_KEY_IMPROVEMENT_GOODY_HUT[2]}! Enviar uma unidade a ela pode revelar segredos misteriosos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_NATURAL_WONDER">
 			<Text>Você descobriu {@2: gender *:noart? ; feminine?{@2: plural 1?a; other?as;}; other?{@2: plural 1?o; other?os;};} {@2_NaturalWonder}! Há ainda {1_Num} {1: plural 1?Maravilha a ser encontrada; other?Maravilhas a serem encontradas;}.</Text>
@@ -1015,7 +1015,7 @@
 			<Text>Unidade naval bárbara se juntou a você</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_GOODY_HUT">
-			<Text>Ruínas descobertas</Text>
+			<Text>{TXT_KEY_IMPROVEMENT_GOODY_HUT[2]} descobertas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_NATURAL_WONDER">
 			<Text>Maravilha Natural descoberta</Text>
@@ -1598,7 +1598,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Soberania[ENDCOLOR][NEWLINE]+15% de [ICON_RESEARCH]Ciência enquanto o Império estiver [ICON_HAPPINESS_1]Feliz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_FREE_THOUGHT_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Pensamento Livre[ENDCOLOR][NEWLINE]+1 de [ICON_RESEARCH]Ciência vindos de cada Posto Comercial e +17% de [ICON_RESEARCH]Ciência de Universidades.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Pensamento Livre[ENDCOLOR][NEWLINE]+1 de [ICON_RESEARCH]Ciência vindos de cada {TXT_KEY_IMPROVEMENT_TRADING_POST} e +17% de [ICON_RESEARCH]Ciência de {TXT_KEY_BUILDING_UNIVERSITY[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_HUMANISM}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade vindos de cada {TXT_KEY_BUILDING_UNIVERSITY}, {TXT_KEY_BUILDING_OBSERVATORY} e {TXT_KEY_BUILDING_PUBLIC_SCHOOL}.</Text>
@@ -2326,10 +2326,10 @@
 			<Text>Unidade será consumida.[NEWLINE][NEWLINE]Grandes Melhorias conectarão Recursos Estratégicos deste hexágono à rede comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CAMP">
-			<Text>Construir [LINK=IMPROVEMENT_CAMP]Campo de Caça[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_CAMP]{TXT_KEY_IMPROVEMENT_CAMP}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FARM">
-			<Text>Construir [LINK=IMPROVEMENT_FARM]Fazenda[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_FARM]{TXT_KEY_IMPROVEMENT_FARM}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FOOD_REC">
 			<Text>Irá aumentar a quantidade de [ICON_FOOD]Alimento por hexágono, acelerando o nascimento de novos [ICON_CITIZEN]cidadãos.</Text>
@@ -2350,34 +2350,34 @@
 			<Text>+50% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
-			<Text>+100% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à Cidadela receberá 3 pontos de dano. Construindo a Cidadela, consumirá esta unidade.</Text>
+			<Text>+100% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano. Construindo a {TXT_KEY_IMPROVEMENT_CITADEL}, consumirá esta unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL">
-			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]Serraria[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]{TXT_KEY_IMPROVEMENT_LUMBERMILL}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL_REC">
-			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, enquanto mantém sua Floresta intacta.</Text>
+			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, enquanto mantém sua {TXT_KEY_FEATURE_FOREST} intacta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MINE">
-			<Text>Construir [LINK=IMPROVEMENT_MINE]Mina[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_MINE]{TXT_KEY_IMPROVEMENT_MINE}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PROD_REC">
 			<Text>Aumentará a quantidade de [ICON_PRODUCTION]Produção neste hexágono, aumentando a velocidade na construção de qualquer coisa na cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_OFFSHORE_PLATFORM">
-			<Text>Criar [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]Plataforma Costeira[\LINK]</Text>
+			<Text>Criar [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]{TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_OFFSHORE_PLATFORM_REC">
 			<Text>Conecta este hexágono com [ICON_RES_OIL]Petróleo a nossa rede comercial, o que nos permite construir unidades avançadas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PASTURE">
-			<Text>Construir [LINK=IMPROVEMENT_PASTURE]Pasto[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_PASTURE]{TXT_KEY_IMPROVEMENT_PASTURE}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PLANTATION">
-			<Text>Construir [LINK=IMPROVEMENT_PLANTATION]Plantação[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_PLANTATION]{TXT_KEY_IMPROVEMENT_PLANTATION}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_QUARRY">
-			<Text>Construir [LINK=IMPROVEMENT_QUARRY]Mina a Céu Aberto[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_QUARRY]{TXT_KEY_IMPROVEMENT_QUARRY}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_QUARRY_REC">
 			<Text>Conectará o [ICON_RES_MARBLE]Mármore a nossa rede comercial, aumentando a [ICON_HAPPINESS_1]Felicidade em todo o Império!</Text>
@@ -2392,16 +2392,16 @@
 			<Text>[COLOR_NEGATIVE_TEXT]Custa[ENDCOLOR] 2 de [ICON_GOLD]Ouro por turno para mantê-la.[NEWLINE][NEWLINE]Uma rede férrea ininterrupta permitirá um movimento extremamente rápido pelos hexágonos.[NEWLINE][NEWLINE]Conectar suas cidades a sua Capital com Ferrovias as proporcionará um bônus de 25% de [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_FOREST">
-			<Text>Derrubar [LINK=FEATURE_FOREST]Floresta[\LINK]</Text>
+			<Text>Derrubar [LINK=FEATURE_FOREST]{TXT_KEY_FEATURE_FOREST}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_FEATURE_HELP">
 			<Text>Permitirá construir outras melhorias neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_JUNGLE">
-			<Text>Desmatar [LINK=FEATURE_JUNGLE]Selva[\LINK]</Text>
+			<Text>Desmatar [LINK=FEATURE_JUNGLE]{TXT_KEY_FEATURE_JUNGLE}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_REMOVE_MARSH">
-			<Text>Remover [LINK=FEATURE_FOREST]Pântano[\LINK]</Text>
+			<Text>Drenar [LINK=FEATURE_FOREST]{TXT_KEY_FEATURE_MARSH}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ROAD">
 			<Text>Construir [LINK=CONCEPT_MOVEMENT]Estrada[\LINK]</Text>
@@ -2413,7 +2413,7 @@
 			<Text>Permitirá que unidades se movam mais rápido pelo terreno. Conectando outras cidades a sua [ICON_CAPITAL]Capital, proporcionará uma produção adicional de [ICON_GOLD]Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TRADING_POST">
-			<Text>Construir [LINK=IMPROVEMENT_TRADING_POST]Posto Comercial[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_TRADING_POST]{TXT_KEY_IMPROVEMENT_TRADING_POST}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_GOLD_REC">
 			<Text>Aumenta a quantidade de [ICON_GOLD]Ouro neste hexágono, crescendo o montante de dinheiro que terá disponível para gastar!</Text>
@@ -2425,7 +2425,7 @@
 			<Text>Remove os resíduos nucleares presentes neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_WELL">
-			<Text>Construir [LINK=IMPROVEMENT_WELL]Poço de Petróleo[\LINK]</Text>
+			<Text>Construir [LINK=IMPROVEMENT_WELL]{TXT_KEY_IMPROVEMENT_WELL}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_WELL_REC">
 			<Text>Conectará o [ICON_RES_OIL]Petróleo deste hexágono a sua rede comercial, permitindo a construção de unidades avançadas!</Text>
@@ -2437,16 +2437,16 @@
 			<Text>Unidade será consumida.[NEWLINE][NEWLINE]+6 de [ICON_CULTURE]Cultura.[NEWLINE][NEWLINE]Grandes Melhorias conectarão Recursos Estratégicos deste hexágono à rede comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ACADEMY">
-			<Text>Construir Academia</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_ACADEMY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CUSTOMS_HOUSE">
-			<Text>Construir Alfândega</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MANUFACTORY">
 			<Text>Construir {TXT_KEY_IMPROVEMENT_MANUFACTORY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL">
-			<Text>Construir Cidadela</Text>
+			<Text>Construir {TXT_KEY_IMPROVEMENT_CITADEL}</Text>
 		</Row>
 		<!-- Unit Action Help Text -->
 		<Row Tag="TXT_KEY_ACTION_AUTOMATE_BUILD_HELP">
@@ -2720,7 +2720,7 @@
 			<Text>Indica que esta cidade é a [ICON_CAPITAL]Capital do seu Império.[NEWLINE][NEWLINE][ICON_CONNECTED]Conectando outras cidades a sua [ICON_CAPITAL]Capital com estradas, mais [ICON_GOLD]Ouro será produzido.[NEWLINE][NEWLINE]+3 [ICON_PRODUCTION]Produção, +3 [ICON_RESEARCH]Ciência, +3 [ICON_GOLD]Ouro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE_HELP">
-			<Text>+15% de [ICON_PRODUCTION]Produção no treinamento de unidades montadas.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_HORSE]Cavalos, [ICON_RES_SHEEP]Ovelhas e [ICON_RES_COW]Gado explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção. [NEWLINE][NEWLINE]A cidade precisa possuir ao menos uma fonte explorada de um desses recursos com um Pasto.</Text>
+			<Text>+15% de [ICON_PRODUCTION]Produção no treinamento de unidades montadas.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_HORSE]Cavalos, [ICON_RES_SHEEP]Ovelhas e [ICON_RES_COW]Gado explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção. [NEWLINE][NEWLINE]A cidade precisa possuir ao menos uma fonte explorada de um desses recursos com um {TXT_KEY_IMPROVEMENT_PASTURE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
 			<Text>+1 de [ICON_FOOD]Alimento de hexágonos oceânicos.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_FISH]Peixe explorada pela cidade produz +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
@@ -2774,13 +2774,13 @@
 			<Text>Elimina [ICON_HAPPINESS_4]Infelicidade extra de uma cidade [ICON_OCCUPIED]ocupada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_HELP">
-			<Text>+1 de [ICON_PRODUCTION]Produção para cada hexágono explorado que possua Floresta.</Text>
+			<Text>+1 de [ICON_PRODUCTION]Produção para cada hexágono explorado que possua {TXT_KEY_FEATURE_FOREST}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FORGE_HELP">
 			<Text>+15% de [ICON_PRODUCTION]Produção na construção/treinamento de unidades terrestres.[NEWLINE][NEWLINE]Cada fonte de [ICON_RES_IRON]Ferro explorada pela cidade fornece +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade precisa possuir uma fonte de [ICON_IRON]Ferro minerada nas proximidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WINDMILL_HELP">
-			<Text>+10% de [ICON_PRODUCTION]Produção quando estiver construindo Edifícios.[NEWLINE][NEWLINE]A cidade não pode estar construída em Colinas.</Text>
+			<Text>+10% de [ICON_PRODUCTION]Produção quando estiver construindo Edifícios.[NEWLINE][NEWLINE]A cidade não pode estar construída em {TXT_KEY_TERRAIN_HILL[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FACTORY_HELP">
 			<Text>Requer 1 de [ICON_RES_COAL]Carvão.</Text>
@@ -2789,7 +2789,7 @@
 			<Text>+1 de [ICON_PRODUCTION]Produção para cada hexágono próximo a um Rio. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve ser construída próxima a um Rio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SOLAR_PLANT_HELP">
-			<Text>A cidade deve ser construída no Deserto (ou próxima a ele) e não pode possuir uma Usina Nuclear.[NEWLINE][NEWLINE]A cidade deve possuir uma Fábrica.</Text>
+			<Text>A cidade deve estar construída no {TXT_KEY_TERRAIN_DESERT} (ou próxima a ele) e não pode possuir uma Usina Nuclear.[NEWLINE][NEWLINE]A cidade deve possuir uma Fábrica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NUCLEAR_PLANT_HELP">
 			<Text>Requer 1 de [ICON_RES_URANIUM]Urânio. A cidade não pode possuir uma Usina Solar.</Text>
@@ -2798,7 +2798,7 @@
 			<Text>+50% de [ICON_PRODUCTION]Produção na construção de Partes da Espaçonave. Requer 1 de [ICON_RES_ALUMINUM]Alumínio.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_FACTORY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
-			<Text>Fornece +1 de cada Recurso de Luxo explorado pela cidade. Cada fonte de [ICON_RES_OIL]Petróleo e cada Oásis fornece +2 de [ICON_GOLD]Ouro.</Text>
+			<Text>Fornece +1 de cada Recurso de Luxo explorado pela cidade. Cada fonte de [ICON_RES_OIL]Petróleo e cada {TXT_KEY_FEATURE_OASIS} fornece +2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BANK_HELP">
 			<Text>A cidade deve possuir um Mercado.</Text>
@@ -2822,7 +2822,7 @@
 			<Text>A cidade deve estar construída próxima a uma {TXT_KEY_TERRAIN_MOUNTAIN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
-			<Text>+2 de [ICON_RESEARCH]Ciência por hexágonos com Selva explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma Biblioteca.</Text>
+			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com {TXT_KEY_FEATURE_JUNGLE} explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PUBLIC_SCHOOL_HELP">
 			<Text>+1 de [ICON_RESEARCH]Ciência para cada 2 [ICON_CITIZEN]Cidadãos na cidade, que deve possuir uma Universidade.</Text>
@@ -2906,7 +2906,7 @@
 			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas em todas as cidades. Uma [ICON_GREAT_PEOPLE]Grande Pessoa de sua escolha aparece próxima à [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP">
-			<Text>+25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Rotas Comerciais.[NEWLINE][NEWLINE]A cidade deve ser construída a no mínimo 2 hexágonos de distância de uma Montanha que esteja dentro do seu território.</Text>
+			<Text>+25% de [ICON_GOLD]Ouro de [ICON_CONNECTED]Rotas Comerciais.[NEWLINE][NEWLINE]A cidade deve ser construída a no mínimo 2 hexágonos de distância de uma {TXT_KEY_TERRAIN_MOUNTAIN} que esteja dentro do seu território.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_KREMLIN_HELP">
 			<Text>+25% de eficácia aos edifícios defensivos em todas as cidades.</Text>
@@ -3009,7 +3009,7 @@
 			<Text>A Grande Expedição Guerreira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
-			<Text>Em território amigo, Florestas e Selvas são como Estradas. Após descobrir A Roda, esses hexágonos podem criar [ICON_CONNECTED]Conexões com Cidades.</Text>
+			<Text>Em território amigo, {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]} são como Estradas. Após descobrir a Roda, esses hexágonos podem criar [ICON_CONNECTED]Conexões com Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER_SHORT">
 			<Text>A Glória de Roma</Text>
@@ -3349,7 +3349,7 @@
 			<Text>Além de +5 de [ICON_HAPPINESS_1]Felicidade, a Torre Eiffel também fornece +1 de [ICON_HAPPINESS_1]Felicidade adicional para cada duas Políticas que você tenha adotado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP">
-			<Text>Cada fonte explorada de [ICON_RES_MARBLE]Mármore e [ICON_RES_STONE]Pedra pela cidade fornecerá +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade deve possuir ao menos um desses recursos explorados por uma Mina a Céu Aberto.[NEWLINE][NEWLINE]A cidade não deve estar em Planícies.</Text>
+			<Text>Cada fonte explorada de [ICON_RES_MARBLE]Mármore e [ICON_RES_STONE]Pedra pela cidade fornecerá +1 de [ICON_PRODUCTION]Produção.[NEWLINE][NEWLINE]A cidade deve possuir ao menos um desses recursos explorados por uma {TXT_KEY_IMPROVEMENT_QUARRY}.[NEWLINE][NEWLINE]A cidade não deve estar em {TXT_KEY_TERRAIN_PLAINS[2]}.</Text>
 		</Row>
 		<!-- 383 -->
 		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_SCIENCE_OFF">
@@ -3365,10 +3365,10 @@
 		<!-- 674 -->
 		<Row Tag="TXT_KEY_DIPLO_RESURRECTED">
 		  <Text>[COLOR_POSITIVE_TEXT]Você restaurou a civilização deles após eles serem aniquilados![ENDCOLOR]</Text>
-		</Row>		
+		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WAT_HELP">
-			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com Selva que estejam sendo trabalhados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma Biblioteca.</Text>
-		</Row>		
+			<Text>+2 de [ICON_RESEARCH]Ciência de hexágonos com {TXT_KEY_FEATURE_JUNGLE} que estejam sendo trabalhados pela cidade.[NEWLINE][NEWLINE]A cidade deve possuir uma {TXT_KEY_BUILDING_LIBRARY}.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DECLARATION_OF_FRIENDSHIP">
 			<Text>DECLARAÇÃO DE AMIZADE</Text>
 		</Row>

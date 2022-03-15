@@ -6,7 +6,7 @@
 			<Text>Navegação por Orientação</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_WAYFINDING">
-			<Text>Pode embarcar e se mover em oceanos imediatamente. +1 de Visão quando embarcado. +10% de bônus de [ICON_STRENGTH]Força de Combate se estiver a 2 hexágonos de distância de um Moai.</Text>
+			<Text>Pode embarcar e se mover em {TXT_KEY_TERRAIN_OCEAN[2]} imediatamente. +1 de Visão quando embarcado. +10% de bônus de [ICON_STRENGTH]Força de Combate se estiver a 2 hexágonos de distância de um Moai.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

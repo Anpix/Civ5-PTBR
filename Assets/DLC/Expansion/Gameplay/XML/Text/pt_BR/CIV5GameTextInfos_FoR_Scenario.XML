@@ -123,16 +123,16 @@
 			<Text>The Vandals were an East Germanic tribe, their original homeland in Scandinavia. The Vandals crossed the Baltic into Poland at some point in the 2nd Century BC. By 406 AD, the Vandals had reached the Rhine. Attempting to cross it, they met fierce resistance from the Franks, who had settled the Romanized regions of northern Gaul. The Vandals decisively defeated the Frankish army, and then proceeded to plunder their way southward. After sacking Frankish and Roman cities, they reached and crossed the Pyrenees in 409 AD and marched into Iberia.[NEWLINE][NEWLINE]Under pressure from the Visigoths there, Genseric led the Vandals across the straits into North Africa in 429. There Genseric established a Vandal kingdom in 435 when a treaty with Rome gave them control of the province of Numidia. Genseric broke the treaty in 439 and seized Carthage, along with its extensive shipyards and fleet. Over the next decade, along with unrelenting piracy and raids against the Romans and Byzantines, the Vandals overran Sardinia, Sicily, Corsica and the Balearic Islands.[NEWLINE][NEWLINE]With the death of Attila, the Roman emperor felt free to end the Vandal incursions and sought to return the lost lands to Rome through his daughter's marriage to Genseric's son. However, through a convoluted series of events and distrust, the effort ended in 455 AD with the landing of a Vandal army in Italy and its capture of Rome.[NEWLINE][NEWLINE]The sack of Rome proved the highpoint of Vandal power. The death of Genseric in 477, religious tensions, revolts in former Roman provinces, and lack of trade brought a slow decline. In a final costly war, the Byzantine Belisarius crushed the Vandal armies, killed the Vandal general Tzazo and captured most of the Vandal cities. In 534 AD Gelimer, the last Vandal king, surrendered Carthage to the Roman conquerors, ending the Vandal reign forever.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT_SHORT">
-			<Text>Regal Bloodline</Text>
+			<Text>Linhagem Real</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT">
-			<Text>Units ignore terrain costs when moving into any tile with Hills and move faster along rivers.</Text>
+			<Text>Unidades ignoram os custos de terreno quando movendo por ladrilhos de {TXT_KEY_TERRAIN_HILL[2]} e movem-se mais rápido ao longo de rios.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS_SHORT">
 			<Text>Theodosian Walls</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS">
-			<Text>+10% [ICON_STRENGTH] Combat Strength bonus if within 2 tiles of a Fort. Great Generals spawn 50% faster and provide an additional 10% combat bonus.</Text>
+			<Text>+10% de [ICON_STRENGTH]Bônus de Força de Combate se a 2 ladrilhos de proximidade de um {TXT_KEY_IMPROVEMENT_FORT}. {TXT_KEY_UNIT_GREAT_GENERAL[2]} aparecem 50% mais rápido e proporcionam 10% adicionais de Bônus de Combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST_SHORT">
 			<Text>Healthy Plundering</Text>
@@ -153,16 +153,16 @@
 			<Text>Naval units will "recruit" defeated ships to fight on their side.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_SCOURGE_OF_GOD_SHORT">
-			<Text>Scourge of God</Text>
+			<Text>{TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_SCOURGE_OF_GOD">
-			<Text>+2 [ICON_MOVES] Movement for all land combat units. Starts with Attila, the Scourge of God. 2 Battering Rams awarded after capturing city for the first time.  +2 [ICON_PRODUCTION] Production per Pasture.</Text>
+			<Text>+2 de [ICON_MOVES]Movimento para todas as unidades de combate terrestre. Começa com Átila, o {TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD}. 2 Battering Rams concedido após capturar uma cidade pela primeira vez.  +2 de [ICON_PRODUCTION]Produção por {TXT_KEY_IMPROVEMENT_PASTURE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS_SHORT">
 			<Text>Rebeldes Pintados</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS">
-			<Text>Bônus de Combate (+50%) quando lutando com uma civilização com mais cidades. Trata florestas em território amigo como estradas. Unidades embarcadas têm +1 [ICON_MOVES]Movimento e pagam 1 ponto de movimento to move do mar para a terra.</Text>
+			<Text>Bônus de Combate (+50%) quando lutando com uma civilização com mais cidades. Trata {TXT_KEY_FEATURE_FOREST[2]} em território amigo como estradas. Unidades embarcadas têm +1 [ICON_MOVES]Movimento e pagam 1 ponto de movimento to move do mar para a terra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CLIBANARII_TEXT">
 			<Text>Os {TXT_KEY_UNIT_CLIBANARII[2]} são os equivalentes Sassânidas aos {TXT_KEY_UNIT_BYZANTINE_CATAPHRACT[2]} Bizantinos, embora mais fortemente blindados. Tanto os cavalos como os cavaleiros são totalmente revestidos de malha de ferro, e eram usados em batalhas em cunhas para quebrar as formações de infantaria e de arqueiros inimigos. Os Sassânidas empregaram os {TXT_KEY_UNIT_CLIBANARII[2]} primariamente nos seus exércitos ocientais, principalmente contra as forças do Império Romano Oriental que eram mais afeitas a engajar em batalhas de campo do que as tribos bárbaras ao longo das fronteiras setentrional e oriental.</Text>
@@ -210,13 +210,13 @@
 			<Text>Strong, front-line land Unit, which can only be built by the Goths. This Unit has a higher [ICON_STRENGTH] Combat Strength than the Swordsman, which it replaces. It moves along enemy roads as if they were friendly roads.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_HUN_SCOURGE_OF_GOD_TEXT">
-			<Text>The "Scourge of God" is the nickname given to Attila. These units represent his leadership on the battlefield.</Text>
+			<Text>O "{TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD}" é o apelido dado ao Átila. Essas unidades representam liderança no campo de batalha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD_STRATEGY">
-			<Text>The Scourge of God is a Hun Unique Great Person, replacing the standard Great General.  The same combat bonuses apply, but the Scourge moves at a faster rate and can heal adjacent units for an additional 20 HP per turn. This enhanced General ensures that his cavalry units will always be in a battle-ready state. </Text>
+			<Text>O {TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD} é uma Grande Personalidade exclusiva dos Hunos, substituindo o {TXT_KEY_UNIT_GREAT_GENERAL}. Os mesmos bônus de combate se aplicam, mas o {TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD} se move mais rápido e pode curar unidades adjacentes por 20 HP adicionais por turno. Esse General melhorado garante que suas unidades de cavalaria sempre estarão prontas para a batalha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HUN_SCOURGE_OF_GOD">
-			<Text>This Hun Great Person replaces the Great General. While providing the same combat bonus as a Great General, the Scourge of God also moves at a faster rate and heals adjacent units.</Text>
+			<Text>Essa Grande Personalidade Huna substitui o {TXT_KEY_UNIT_GREAT_GENERAL}. Enquanto fornece o mesmo bônus de combate que o {TXT_KEY_UNIT_GREAT_GENERAL}, o {TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD} também se move mais rápido e cura as unidades adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FOR_CEILIDH_HALL_STRATEGY">
 			<Text>The Ceilidh Hall is a Classical-era building unique to the Celts. It increases the city's [ICON_CULTURE] Culture and [ICON_HAPPINESS_1] Happiness.</Text>
@@ -399,10 +399,10 @@
 			<Text>Silk Road</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Silk Road[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold for each trading post. [ICON_GOLDEN_AGE] Golden Ages last 50% longer.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD}[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro por cada {TXT_KEY_IMPROVEMENT_TRADING_POST}. [ICON_GOLDEN_AGE]Idades Douradas duram 50% mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_DESC">
-			<Text>Silk Road Civilopedia help</Text>
+			<Text>{TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD} Civilopedia help</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA">
 			<Text>Shahnama</Text>

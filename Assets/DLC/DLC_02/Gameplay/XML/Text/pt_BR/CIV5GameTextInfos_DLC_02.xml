@@ -6,7 +6,7 @@
       <Text>Grande Estrada Andina</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD">
-      <Text>As unidades ignoram os custos do terreno ao se moverem por um hexágono com colinas. Não há custo de manutenção para melhorias em colinas; no resto, metade do custo.</Text>
+      <Text>As unidades ignoram os custos do terreno ao se moverem por um hexágono com {TXT_KEY_TERRAIN_HILL[2]}. Não há custo de manutenção para melhorias em {TXT_KEY_TERRAIN_HILL[2]}; no resto, metade do custo.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_INCA_TITLE">
       <Text>Inca</Text>

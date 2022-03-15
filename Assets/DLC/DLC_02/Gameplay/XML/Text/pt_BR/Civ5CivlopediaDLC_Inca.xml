@@ -110,10 +110,10 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TERRACE_FARM_HELP">
-			<Text>A {TXT_KEY_IMPROVEMENT_TERRACE_FARM} só pode ser construída em colinas e não precisa de uma fonte de água fresca. Se for construída próximo a uma montanha, ela fornecerá alimento adicional.</Text>
+			<Text>A {TXT_KEY_IMPROVEMENT_TERRACE_FARM} só pode ser construída em {TXT_KEY_TERRAIN_HILL[2]} e não precisa de uma fonte de água fresca. Se for construída próximo a uma {TXT_KEY_TERRAIN_MOUNTAIN}, ela fornecerá alimento adicional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TERRACE_FARM_TEXT">
-			<Text>A agricultura em terraços se desenvolveu em áreas montanhosas simultaneamente ao redor do mundo, incluindo Bali, Filipinas, China e Peru. Estes campos estreitos em forma de degraus são cortados nos lados das colinas e montanhas, impedindo que a água utilizada para irrigação escorra e fornecendo espaço para terras aráveis, onde antes era impossível conseguir isso. Os Incas em particular foram mestres na agricultura em terraços, construindo grandes muros de pedra para segurar seus terraços no lugar. Após construir os terraços, os Incas criavam sistemas de canais e aquedutos para fornecer às fazendas água corrente, aumentando a fertilidade da terra. As antigas técnicas Incas nesta área eram tão bem sucedidas que os fazendeiros Peruanos modernos ainda as empregam em suas terras hoje.</Text>
+			<Text>A agricultura em terraços se desenvolveu em áreas montanhosas simultaneamente ao redor do mundo, incluindo Bali, Filipinas, China e Peru. Estes campos estreitos em forma de degraus são cortados nos lados das {TXT_KEY_TERRAIN_HILL[2]} e montanhas, impedindo que a água utilizada para irrigação escorra e fornecendo espaço para terras aráveis, onde antes era impossível conseguir isso. Os Incas em particular foram mestres na agricultura em terraços, construindo grandes muros de pedra para segurar seus terraços no lugar. Após construir os terraços, os Incas criavam sistemas de canais e aquedutos para fornecer às fazendas água corrente, aumentando a fertilidade da terra. As antigas técnicas Incas nesta área eram tão bem sucedidas que os fazendeiros Peruanos modernos ainda as empregam em suas terras hoje.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TERRACE_FARM">
 			<Text>Construir [LINK=IMPROVEMENT_TERRACE_FARM]{TXT_KEY_IMPROVEMENT_TERRACE_FARM}[\LINK]</Text>

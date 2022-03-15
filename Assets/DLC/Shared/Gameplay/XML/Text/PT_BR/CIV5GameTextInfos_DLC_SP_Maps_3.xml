@@ -29,7 +29,7 @@
       <Text>Canadá</Text>
     </Row>
     <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DESC">
-      <Text>Um mapa do Canadá com a parte norte repleta de tundra e neve, fileias aleatórias de planícies, pastos e florestas.</Text>
+      <Text>Um mapa do Canadá com a parte norte repleta de {TXT_KEY_TERRAIN_TUNDRA} e {TXT_KEY_TERRAIN_SNOW}, faixas aleatórias de {TXT_KEY_TERRAIN_PLAINS[2]}, {TXT_KEY_TERRAIN_GRASS[2]} e {TXT_KEY_FEATURE_FOREST[2]}.</Text>
     </Row>
 	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DUEL">
       <Text>Canadá - Duelo</Text>

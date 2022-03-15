@@ -27,7 +27,7 @@
 			<Text>River Steamers</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_SUPERFAST_RIVERS">
-			<Text>Rivers and difficult terrain adjacent to them count as clear terrain for movement. Rivers extend the length of land rotas comerciais as if they were roads. +2 [ICON_PRODUCTION] Production from plantations.</Text>
+			<Text>Rios e terrenos difíceis adjacentes a eles contam como terreno limpo para movimento. Os rios estendem a extensão das rotas comerciais terrestres terra como se fossem estradas. +2 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_PLANTATION[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BELGIUM_HEADING_1">
 			<Text>History</Text>
@@ -87,7 +87,7 @@
 			<Text>The Great Trek</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BOER">
-			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_FOOD]  Food from each farm.</Text>
+			<Text>+1 de [ICON_CULTURE]Cultura e +1 de [ICON_FOOD]Comida de cada {TXT_KEY_IMPROVEMENT_FARM}.</Text>
 		</Row>
 		<!-- Leaders -->
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_NAME">
@@ -591,10 +591,10 @@
 			<Text>[COLOR_POSITIVE_TEXT]Capitalism[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] from all your land and sea rotas comerciais  and +2 [ICON_HAPPINESS_1] Happiness for each City you own [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1">
-			<Text>Army of the Sahara</Text>
+			<Text>Exército do Saara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Army of the Sahara[ENDCOLOR][NEWLINE]+50% combat bonus when fighting in the desert.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Exército do Saara[ENDCOLOR][NEWLINE]+50% de [ICON_STRENGTH]Força de Combate ao combater no {TXT_KEY_TERRAIN_DESERT}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N2">
 			<Text>Berber Heritage</Text>

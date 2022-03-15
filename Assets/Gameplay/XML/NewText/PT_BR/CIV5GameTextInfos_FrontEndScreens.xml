@@ -105,13 +105,13 @@
             <Text>Planaltos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_HIGHLANDS_HELP">
-            <Text>Uma grande região dominada por colinas e cordilheiras.</Text>
+            <Text>Uma grande região dominada por {TXT_KEY_TERRAIN_HILL[2]} e cordilheiras.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_ARBOREA">
             <Text>Arborizado</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_ARBOREA_HELP">
-            <Text>Um mundo quase todo coberto por floresta.</Text>
+            <Text>Um mundo quase todo coberto por {TXT_KEY_FEATURE_FOREST}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_BIG_AND_SMALL">
             <Text>Grande e pequeno</Text>
@@ -123,7 +123,7 @@
             <Text>Boreal</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_BOREAL_HELP">
-            <Text>Uma grande região com tundra e arborização.</Text>
+            <Text>Uma grande região com {TXT_KEY_TERRAIN_TUNDRA} e arborização.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_CUSTOM_CONTINENTS">
             <Text>Continentes personalizados</Text>
@@ -141,13 +141,13 @@
             <Text>Reino da fantasia</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_FANTASY_HELP">
-            <Text>Um pequeno mundo com oceanos. Clima e recursos que parecem desafiar as leis da física e do tempo.</Text>
+            <Text>Um pequeno mundo com {TXT_KEY_TERRAIN_OCEAN[2]}. Clima e recursos que parecem desafiar as leis da física e do tempo.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS">
             <Text>Planalto global</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS_HELP">
-            <Text>Um mundo muito grande, dominado por colinas e cordilheiras.</Text>
+            <Text>Um mundo muito grande, dominado por {TXT_KEY_TERRAIN_HILL[2]} e cordilheiras.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_GREAT_PLAINS">
             <Text>Grandes Planícies</Text>
@@ -183,7 +183,7 @@
             <Text>Lagos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_LAKES_HELP">
-            <Text>Um mundo sem oceanos, somente pequenos lagos.</Text>
+            <Text>Um mundo sem {TXT_KEY_TERRAIN_OCEAN[2]}, somente pequenos lagos.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_LARGE_ISLANDS">
             <Text>Grandes Ilhas</Text>
@@ -222,10 +222,10 @@
             <Text>Uma Pangeia em forma oval com baías aleatórias esculpidas nos lados.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_RAINFOREST">
-            <Text>Floresta</Text>
+            <Text>{TXT_KEY_FEATURE_FOREST}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_RAINFOREST_HELP">
-            <Text>Um mundo quase que totalmente tomado por uma floresta.</Text>
+            <Text>Um mundo quase que totalmente tomado por uma {TXT_KEY_FEATURE_FOREST}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_RING">
             <Text>Anel</Text>
@@ -456,7 +456,7 @@
             <Text>Irracional</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_IRRATIONAL_HELP">
-            <Text>Os recursos serão colocados em locais irracionais, como banana na neve.</Text>
+            <Text>Os recursos serão colocados em locais irracionais, como banana na {TXT_KEY_TERRAIN_SNOW}.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_CRAZY">
             <Text>Louco</Text>
@@ -516,10 +516,10 @@
             <Text>Grandes lagos</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_LARGE_LAKES_HELP">
-            <Text>Lagos extensos e alguns oceanos aparecerão.</Text>
+            <Text>Lagos extensos e alguns {TXT_KEY_TERRAIN_OCEAN} aparecerão.</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_SEAS">
-            <Text>Oceanos</Text>
+            <Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_SEAS_HELP">
             <Text>A maioria dos corpos de água serão mares salgados de dimensão modesta, aleatórios em forma.</Text>
@@ -651,7 +651,7 @@
             <Text>Começam em qualquer lugar</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_WITHOUT_OCEANS">
-            <Text>Sem oceanos</Text>
+            <Text>Sem {TXT_KEY_TERRAIN_OCEAN[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_ARCHIPELAGO">
             <Text>Arquipélago</Text>
@@ -723,25 +723,25 @@
             <Text>Região central</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_HILLS">
-            <Text>Encostas</Text>
+            <Text>{TXT_KEY_TERRAIN_HILL[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_MOUNTAINS">
-            <Text>Montanhas</Text>
+            <Text>{TXT_KEY_TERRAIN_MOUNTAIN[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_DESERT">
-            <Text>Deserto</Text>
+            <Text>{TXT_KEY_TERRAIN_DESERT}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_OCEAN">
-            <Text>Oceano</Text>
+            <Text>{TXT_KEY_TERRAIN_OCEAN}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_STANDARD">
             <Text>Padrão</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_JUNGLE">
-            <Text>Floresta</Text>
+            <Text>{TXT_KEY_FEATURE_FOREST}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_NO_JUNGLES">
-            <Text>Sem florestas</Text>
+            <Text>Sem {TXT_KEY_FEATURE_FOREST[2]}</Text>
         </Row>
         <Row Tag="TXT_KEY_MAP_OPTION_WORLD_WRAP">
             <Text>Contorno do mundo</Text>
@@ -1411,43 +1411,43 @@
 			<Text>Balanceado</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS">
-			<Text>Pradarias</Text>
+			<Text>{TXT_KEY_TERRAIN_GRASS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS_HELP">
-			<Text>Algumas colinas e florestas espalhadas por uma vasta pradaria.</Text>
+			<Text>Algumas {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_FEATURE_FOREST[2]} espalhadas por uma vasta {TXT_KEY_TERRAIN_GRASS}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS">
-			<Text>Planícies</Text>
+			<Text>{TXT_KEY_TERRAIN_PLAINS[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS_HELP">
-			<Text>Pequenas porções de terreno misto espalhadas por uma vasta planície.</Text>
+			<Text>Pequenas porções de terreno misto espalhadas por uma vasta {TXT_KEY_TERRAIN_PLAINS}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST">
-			<Text>Floresta</Text>
+			<Text>{TXT_KEY_FEATURE_FOREST}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST_HELP">
-			<Text>Uma magnífica floresta com pradarias espalhadas.</Text>
+			<Text>Uma magnífica {TXT_KEY_FEATURE_FOREST} com {TXT_KEY_TERRAIN_GRASS[2]} espalhadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE">
-			<Text>Selva</Text>
+			<Text>{TXT_KEY_FEATURE_JUNGLE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE_HELP">
-			<Text>Uma enorme selva com algumas colinas e florestas espalhadas.</Text>
+			<Text>Uma enorme {TXT_KEY_FEATURE_JUNGLE} com algumas {TXT_KEY_TERRAIN_HILL[2]} e {TXT_KEY_FEATURE_FOREST[2]} espalhadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT">
-			<Text>Deserto</Text>
+			<Text>{TXT_KEY_TERRAIN_DESERT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT_HELP">
-			<Text>Um vasto deserto com algumas colinas espalhadas! As configurações de água terão grande efeito.</Text>
+			<Text>Um vasto {TXT_KEY_TERRAIN_DESERT} com algumas {TXT_KEY_TERRAIN_HILL[2]} espalhadas! As configurações de água terão grande efeito.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA">
-			<Text>Tundra</Text>
+			<Text>{TXT_KEY_TERRAIN_TUNDRA}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA_HELP">
 			<Text>Uma área gelada com pequenas porções de terra mais fértil.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS">
-			<Text>Colinas</Text>
+			<Text>{TXT_KEY_TERRAIN_HILL[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS_HELP">
 			<Text>Enorme região montanhosa com alguns vales espalhados.</Text>
@@ -1514,7 +1514,7 @@
 			<Text>Tempestade de Areia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MAP_SANDSTORM_HELP">
-			<Text>Um mundo severo, composto principalmente de desertos com pequenas porções de planícies e pradarias.</Text>
+			<Text>Um mundo severo, composto principalmente de {TXT_KEY_TERRAIN_DESERT[2]} com pequenas porções de {TXT_KEY_TERRAIN_PLAINS[2]} e {TXT_KEY_TERRAIN_GRASS[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LATEST_NEWS">
 			<Text>ÚLTIMAS NOTÍCIAS</Text>
