@@ -110,7 +110,7 @@
 		  <Text>Você faltou com a sua palavra. Tenha a certeza de que o mundo vai saber da sua traição.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_1">
-		  <Text>Seus atos me enchem de tristeza ... Claro que no inferno há um plano especial para pessoas como você.</Text>
+		  <Text>Seus atos me enchem de tristeza... Claro que no inferno há um plano especial para pessoas como você.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_2">
 		  <Text>Você vai me atacar assim? Sua arrogância não tem limites. Espero que um dia você seja julgado por isso.</Text>
@@ -611,7 +611,7 @@
 		  <Text>Disseram-me que o seu Império parece bastante fraco. Você se esqueceu de expandir suas fronteiras ou apenas está tendo problemas com isso?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_INSULT_CULTURE_1">
-		  <Text>Que espetáculo deplorável ... Seu império é tão ignorante. O que fazem os seus cidadãos todos os dias? Quebram pedras?</Text>
+		  <Text>Que espetáculo deplorável... Seu império é tão ignorante. O que fazem os seus cidadãos todos os dias? Quebram pedras?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_INSULT_CULTURE_2">
 		  <Text>Dizem que sua cultura é tão ridícula, que até os bárbaros estão envergonhados e deixando as suas terras.</Text>
