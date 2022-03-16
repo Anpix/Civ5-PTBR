@@ -50,7 +50,7 @@
             <Text>Posso ter sido derrotado, mas o meu espírito não vai ser conquistado!</Text>
         </Row>
         <!-- Neutro -->
-        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <!-- Cumprimentos (reuniões subsequentes) -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_1">
             <Text>Bem-vindo!</Text>
         </Row>
@@ -123,7 +123,7 @@
             <Text>Vá em frente.</Text>
         </Row>
         <!-- Feliz -->
-        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <!-- Cumprimentos (reuniões subsequentes) -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_3">
             <Text>Saudações!</Text>
         </Row>
@@ -196,7 +196,7 @@
             <Text>Sim?</Text>
         </Row>
         <!-- Irritado -->
-        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <!-- Cumprimentos (reuniões subsequentes) -->
         <Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_5">
             <Text>O que você quer?</Text>
         </Row>
