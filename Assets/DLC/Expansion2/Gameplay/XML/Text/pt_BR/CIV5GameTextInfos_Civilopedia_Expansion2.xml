@@ -1983,31 +1983,31 @@
 			<Text>Você pode construir uma Caravana!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_FIRST_CARAVAN_BODY">
-			<Text>Você desbloqueou a capacidade de [COLOR_ADVISOR_HIGHLIGHT_TEXT] construir uma Caravana [/ COLOR], a primeira unidade de Trade disponível. Uma vez construída, você pode estabelecer uma rota comercial com uma cidade em outra civilização que gerará [ICON_GOLD] Ouro.[NEWLINE][NEWLINE]Embora você comece a criar apenas uma rota comercial, é possível ganhar vagas adicionais da rota comercial como sua civilização se torna mais avançada.</Text>
+			<Text>Você desbloqueou a capacidade de [COLOR_ADVISOR_HIGHLIGHT_TEXT]construir uma Caravana[/COLOR], a primeira unidade de Trade disponível. Uma vez construída, você pode estabelecer uma rota comercial com uma cidade em outra civilização que gerará [ICON_GOLD] Ouro.[NEWLINE][NEWLINE]Embora você comece a criar apenas uma rota comercial, é possível ganhar vagas adicionais da rota comercial como sua civilização se torna mais avançada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CULTURE_OVERVIEW_DISPLAY">
 			<Text>Visão Geral da Cultura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CULTURE_OVERVIEW_BODY">
-			<Text>A tela "Visão geral da cultura" permite que você [COLOR_ADVISOR_HIGHLIGHT_TEXT] rastreie e gerencie sua cultura e turismo [/ COLOR]. Você pode mover suas Grandes Obras de prédio para prédio, bem como acompanhar seu nível de Turismo em relação a outros jogadores, essencial para uma Vitória de Cultura.</Text>
+			<Text>A tela "Visão geral da cultura" permite que você [COLOR_ADVISOR_HIGHLIGHT_TEXT]rastreie e gerencie sua cultura e turismo[/COLOR]. Você pode mover suas Grandes Obras de prédio para prédio, bem como acompanhar seu nível de Turismo em relação a outros jogadores, essencial para uma Vitória de Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_WRITER_DISPLAY">
 			<Text>Você tem um Grande Escritor!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_WRITER_BODY">
-			<Text> Criatividade é abundante em sua civilização! Se estiver a tentar uma [COLOR_ADVISOR_HIGHLIGHT_TEXT] Cultura Victory [/ COLOR], poderá querer que [COLOR_ADVISOR_HIGHLIGHT_TEXT] crie uma Grande Obra de Escrita [/ COLOR] para gerar o [ICON_TOURISM] Turismo para a sua civilização. Quanto mais Turismo você gerar, maiores serão suas chances de ganhar uma Vitória da Cultura!</Text>
+			<Text> Criatividade é abundante em sua civilização! Se estiver a tentar uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], poderá querer que [COLOR_ADVISOR_HIGHLIGHT_TEXT]crie uma Grande Obra de Escrita[/COLOR] para gerar o [ICON_TOURISM] Turismo para a sua civilização. Quanto mais Turismo você gerar, maiores serão suas chances de ganhar uma Vitória da Cultura!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_ARTIST_DISPLAY">
 			<Text>Você tem um Grande Artista!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_ARTIST_BODY">
-			<Text>As artes estão prosperando! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT] Cultura Victory [/ COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT] criar uma Grande Obra de Arte [/ COLOR] para gerar o [ICON_TOURISM] Tourism para sua civilização, essencial para uma Cultura Victory. Ou você poderia começar uma Era de Ouro!</Text>
+			<Text>As artes estão prosperando! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra de Arte[/COLOR] para gerar o [ICON_TOURISM] Tourism para sua civilização, essencial para uma Cultura Victory. Ou você poderia começar uma Era de Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_MUSICIAN_DISPLAY">
 			<Text>Você tem um Grande Músico!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_MUSICIAN_BODY">
-			<Text>A música encantou o nosso povo! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT] Cultura Victory [/ COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT] criar uma ótima obra de música [/ COLOR] para gerar o [ICON_TOURISM] Tourism para sua civilização. Ou, você poderia realizar uma turnê de concertos em outra civilização para fornecer um impulso de uma só vez para o seu [ICON_TOURISM] Turismo!</Text>
+			<Text>A música encantou o nosso povo! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma ótima obra de música[/COLOR] para gerar o [ICON_TOURISM] Tourism para sua civilização. Ou, você poderia realizar uma turnê de concertos em outra civilização para fornecer um impulso de uma só vez para o seu [ICON_TOURISM] Turismo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_DISPLAY">
 			<Text>Você pode construir uma Guilda de Escritores!</Text>
@@ -2031,19 +2031,19 @@
 			<Text>Você está gerando Turismo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TOURISM_BODY">
-			<Text>Outras civilizações estão começando a notar a grandeza de sua Cultura! Em termos de uma Vitória Cultural, [COLOR_ADVISOR_HIGHLIGHT_TEXT] considere [ICON_TOURISM] Turismo sua "Ofensa" [/ COLOR] contra outras civilizações, [COLOR_ADVISOR_HIGHLIGHT_TEXT] e Cultura sua "Defesa" [/ COLOR] de outras civilizações. [NEWLINE] [NEWLINE] Clique no ícone [ICON_TOURISM] Turismo na parte superior da tela para acompanhar como você está se saindo contra a Cultura de outras civilizações.</Text>
+			<Text>Outras civilizações estão começando a notar a grandeza de sua Cultura! Em termos de uma Vitória Cultural, [COLOR_ADVISOR_HIGHLIGHT_TEXT]considere [ICON_TOURISM] Turismo sua "Ofensa"[/COLOR] contra outras civilizações, [COLOR_ADVISOR_HIGHLIGHT_TEXT]e Cultura sua "Defesa"[/COLOR] de outras civilizações. [NEWLINE] [NEWLINE] Clique no ícone [ICON_TOURISM] Turismo na parte superior da tela para acompanhar como você está se saindo contra a Cultura de outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARCH_DISPLAY">
 			<Text>Local de Antiguidade Revelado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARCH_BODY">
-			<Text>Um interesse em {TXT_KEY_TECH_ARCHAEOLOGY} floresceu em sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT] Sites de antiguidades [/ COLOR] foram revelados no mapa, marcando os locais de eventos historicamente importantes. [NEWLINE] [NEWLINE] Treinar um {TXT_KEY_UNIT_ARCHAEOLOGIST} permitirá que você [COLOR_ADVISOR_HIGHLIGHT_TEXT] extraia um Artefato [/ COLOR] do site ou [COLOR_ADVISOR_HIGHLIGHT_TEXT] crie um Marco [/ COLOR].</Text>
+			<Text>Um interesse em {TXT_KEY_TECH_ARCHAEOLOGY} floresceu em sua civilização! [COLOR_ADVISOR_HIGHLIGHT_TEXT]Sites de antiguidades[/COLOR] foram revelados no mapa, marcando os locais de eventos historicamente importantes. [NEWLINE] [NEWLINE] Treinar um {TXT_KEY_UNIT_ARCHAEOLOGIST} permitirá que você [COLOR_ADVISOR_HIGHLIGHT_TEXT]extraia um Artefato[/COLOR] do site ou [COLOR_ADVISOR_HIGHLIGHT_TEXT]crie um Marco[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CONGRESS_FOUNDED_DISPLAY">
 			<Text>Congresso Mundial Fundado!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CONGRESS_FOUNDED_BODY">
-			<Text>Uma nova era de cooperação internacional nasceu com a fundação do Congresso Mundial! Sua civilização, se for o anfitrião do congresso ou a civilização com o maior número de [COLOR_ADVISOR_HIGHLIGHT_TEXT] delegados [/ COLOR], pode [COLOR_ADVISOR_HIGHLIGHT_TEXT] propor resoluções [/ COLOR] que afetarão o mundo inteiro.</Text>
+			<Text>Uma nova era de cooperação internacional nasceu com a fundação do Congresso Mundial! Sua civilização, se for o anfitrião do congresso ou a civilização com o maior número de [COLOR_ADVISOR_HIGHLIGHT_TEXT]delegados[/COLOR], pode [COLOR_ADVISOR_HIGHLIGHT_TEXT]propor resoluções[/COLOR] que afetarão o mundo inteiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CONGRESS_PROPOSE_DISPLAY">
 			<Text>Você pode propor uma resolução!</Text>
@@ -2055,25 +2055,25 @@
 			<Text>É hora de votar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CONGRESS_VOTE_BODY">
-			<Text>Esta sessão do Congresso Mundial está chegando ao fim, então é hora de usar seus Delegados para votar.[NEWLINE][NEWLINE]Lembre-se de que você também pode usar seus espiões como [COLOR_ADVISOR_HIGHLIGHT_TEXT] Diplomatas [/ COLOR] para trocar por votos, ou para obter uma visão de como outros líderes votarão.</Text>
+			<Text>Esta sessão do Congresso Mundial está chegando ao fim, então é hora de usar seus Delegados para votar.[NEWLINE][NEWLINE]Lembre-se de que você também pode usar seus espiões como [COLOR_ADVISOR_HIGHLIGHT_TEXT]Diplomatas[/COLOR] para trocar por votos, ou para obter uma visão de como outros líderes votarão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_ARCHAEOLOGY_DISPLAY">
 			<Text>Você fez uma descoberta!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_ARCHAEOLOGY_BODY">
-			<Text>Você descobriu um Artefato valioso na sua escavação! Você precisará escolher [COLOR_ADVISOR_HIGHLIGHT_TEXT] para extrair o Artefato [/ COLOR] que pode ser usado para gerar o [ICON_TOURISM] Turismo ou criar um Marco para gerar a cultura [ICON_CULTURE].</Text>
+			<Text>Você descobriu um Artefato valioso na sua escavação! Você precisará escolher [COLOR_ADVISOR_HIGHLIGHT_TEXT]para extrair o Artefato[/COLOR] que pode ser usado para gerar o [ICON_TOURISM] Turismo ou criar um Marco para gerar a cultura [ICON_CULTURE].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_IDEOLOGY_DISPLAY">
 			<Text>Um Admirável Novo Mundo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_IDEOLOGY_BODY">
-			<Text>Chegou a hora de [COLOR_ADVISOR_HIGHLIGHT_TEXT] escolher um novo caminho [/ COLOR] para seu pessoal e seu império! Cada ideologia (liberdade, ordem e autocracia) contém um conjunto único de princípios cada vez mais poderosos que formarão a base da sua ideologia e influenciarão suas relações diplomáticas nos próximos anos.</Text>
+			<Text>Chegou a hora de [COLOR_ADVISOR_HIGHLIGHT_TEXT]escolher um novo caminho[/COLOR] para seu pessoal e seu império! Cada ideologia (liberdade, ordem e autocracia) contém um conjunto único de princípios cada vez mais poderosos que formarão a base da sua ideologia e influenciarão suas relações diplomáticas nos próximos anos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFLUENTIAL_DISPLAY">
 			<Text>Suas grandes obras são mundialmente renomadas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFLUENTIAL_BODY">
-			<Text>Suas Grandes Obras estão atraindo visitantes de todos os cantos do globo! Para ganhar uma [COLOR_ADVISOR_HIGHLIGHT_TEXT] Cultura Victory [/ COLOR], você deve continuar aumentando o seu [ICON_TOURISM] Turismo o máximo possível. Você pode aumentar o seu [ICON_TOURISM] Turismo com bônus de Fronteiras Abertas, Rotas de Comércio, Hotéis e muito mais!</Text>
+			<Text>Suas Grandes Obras estão atraindo visitantes de todos os cantos do globo! Para ganhar uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], você deve continuar aumentando o seu [ICON_TOURISM] Turismo o máximo possível. Você pode aumentar o seu [ICON_TOURISM] Turismo com bônus de Fronteiras Abertas, Rotas de Comércio, Hotéis e muito mais!</Text>
 		</Row>
 		<!-- VICTORY CONCEPTS -->
 		<Row Tag="TXT_KEY_SOCIALPOLICY_CULTUREVICTORY_HEADING2_BODY">
