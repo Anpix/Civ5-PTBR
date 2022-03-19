@@ -2086,10 +2086,10 @@
 			<Text>O {TXT_KEY_UNIT_MONGOL_KHAN} é a Grande Pessoa exclusiva dos Mongóis e substitui o Grande General padrão. Os mesmos bônus de combate se aplicam, mas o {TXT_KEY_UNIT_MONGOL_KHAN} se move na mesma taxa que o {TXT_KEY_UNIT_MONGOL_KESHIK} (5 pontos por turno) e pode curar unidades adjacentes (15 HP's adicionais por turno). Este vigoroso General garante que sua cavalaria estará sempre pronta para a batalha.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_HELP">
-			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Caravana[ENDCOLOR], usada para estabelecer lucrativas Rotas de Comércio. Também permite construir [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_PASTURE}[ENDCOLOR] em locais com [ICON_RES_COW] [COLOR_POSITIVE_TEXT]Gado[ENDCOLOR] e [ICON_RES_SHEEP] [COLOR_POSITIVE_TEXT]Ovelhas[ENDCOLOR]. Além de revelar [ICON_RES_HORSE] Cavalos, que são usados por fortes unidades montadas.</Text>
+			<Text>Permite construir a [COLOR_POSITIVE_TEXT]Caravana[ENDCOLOR], usada para estabelecer lucrativas Rotas de Comércio. Também permite construir [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_PASTURE}[ENDCOLOR] em locais com [ICON_RES_COW][COLOR_POSITIVE_TEXT]Gado[ENDCOLOR] e [ICON_RES_SHEEP][COLOR_POSITIVE_TEXT]Ovelhas[ENDCOLOR]. Além de revelar [ICON_RES_HORSE]Cavalos, que são usados por fortes unidades montadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SAILING_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Navio Cargueiro[ENDCOLOR], usado para estabelecer lucrativas Rotas Comerciais marítimas. Também permite construir navios para uso militar e barcos de uso econômico, útil para exploração de recursos aquáticos como [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]Peixe[ENDCOLOR] e [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Navio Cargueiro[ENDCOLOR], usado para estabelecer lucrativas Rotas Comerciais marítimas. Também permite construir navios para uso militar e barcos de uso econômico, útil para exploração de recursos aquáticos como [ICON_RES_FISH][COLOR_POSITIVE_TEXT]Peixe[ENDCOLOR] e [ICON_RES_PEARLS][COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_AESTHETICS_HEADING3_BODY">
 			<Text>A estética se torna disponível na era clássica e fornece bônus culturais em toda a sua civilização. Além disso, Estética destrava a capacidade de comprar grandes artistas, músicos e escritores com fé.</Text>

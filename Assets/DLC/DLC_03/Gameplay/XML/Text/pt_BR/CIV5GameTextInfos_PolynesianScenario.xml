@@ -127,7 +127,7 @@
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], a unidade de guerra mais poderosa do cenário.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SAILING_HELP">
-            <Text>Permite a construção do {TXT_KEY_UNIT_WORK_BOAT}, útil para colher recursos aquáticos como [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]Peixes[ENDCOLOR] e [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
+            <Text>Permite a construção do {TXT_KEY_UNIT_WORK_BOAT}, útil para colher recursos aquáticos como [ICON_RES_FISH][COLOR_POSITIVE_TEXT]Peixes[ENDCOLOR] e [ICON_RES_PEARLS][COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SCIENTIFIC_THEORY_HELP">
             <Text>Esta tecnologia não fornece nenhum benefício. Ela deve ser pesquisada se você terminar o resto da árvore Medieval antes da chegada dos Europeus no Pacífico. Ela representa a estagnação da tecnologia Polinésia antes do contato com civilizações mais avançadas. Ela será dada a cada civilização que entrar em contato com a expedição do Capitão James Cook.</Text>
