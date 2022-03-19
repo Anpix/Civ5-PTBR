@@ -599,7 +599,7 @@
 			<Text>Cada fonte de [ICON_RES_WHEAT]Trigo, [ICON_RES_BANANA]Bananas e [ICON_RES_DEER]Cervos explorada por esta cidade gera +1 de [ICON_FOOD]Alimento.[NEWLINE][NEWLINE]Permite que [ICON_FOOD]Alimento seja movido desta cidade para outros locais de sua civilização, via rotas comerciais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HANSE_HELP">
-			<Text>Substituição exclusiva do banco alemão. + 5% [ICON_PRODUCTION] Produção para cada rota comercial que sua civilização possui com uma Cidade-Estado. As rotas comerciais que outros jogadores fazem para uma cidade com uma Liga Hanseática geram 1 [ICON_GOLD] de ouro extra para o proprietário da cidade e o proprietário da rota comercial ganha 1 [ICON_GOLD] de ouro adicional para a rota comercial.</Text>
+			<Text>Substituição exclusiva do banco alemão. + 5% [ICON_PRODUCTION]Produção para cada rota comercial que sua civilização possui com uma Cidade-Estado. As rotas comerciais que outros jogadores fazem para uma cidade com uma Liga Hanseática geram 1 [ICON_GOLD] de ouro extra para o proprietário da cidade e o proprietário da rota comercial ganha 1 [ICON_GOLD] de ouro adicional para a rota comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PRODMOD_YIELD_HANSE">
 			<Text>[NEWLINE][ICON_BULLET]Modificador para Liga Hanseática: {1_Num}%</Text>
