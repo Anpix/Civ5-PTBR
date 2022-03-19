@@ -1281,13 +1281,13 @@
 			<Text>Comumente encontrado em toda a Ásia, o Pagode é um estilo arquitetônico que consiste em uma torre de várias camadas, tipicamente com beirais de grandes dimensões e um remate proeminente em seu pico. A maioria dos pagodes está associada à religião budista, pois eles eram frequentemente construídos sobre ou perto de complexos de templos budistas para abrigar relíquias sagradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_STRATEGY">
-			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAGODA_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CEILIDH_HALL_TEXT">
 			<Text>Tradicionalmente, um "Ceilidh" era uma reunião social primeiramente associada ao povo da Irlanda e da Escócia. Realizados com freqüência ao longo do ano, os ceilidhs eram frequentemente acompanhados de música e dança e forneciam uma importante diversão social dos trabalhos da vida cotidiana. Os ceilidhs eram realizados em salões quando disponíveis, mas também eram conhecidos por terem ocorrido em residências particulares, escolas e empresas locais.</Text>

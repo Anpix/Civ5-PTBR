@@ -203,7 +203,7 @@
 			<Text>O {TXT_KEY_BUILDING_AMPHITHEATER} aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais pela civilização. A cidade precisa possuir um {TXT_KEY_BUILDING_MONUMENT_DESC} (ou uma {TXT_KEY_BUILDING_STELE}) para poder construir um {TXT_KEY_BUILDING_AMPHITHEATER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SHRINE_STRATEGY">
-			<Text>O Santuário é o primeiro edifício que aumenta a [ICON_PEACE]Fé produzida por uma cidade, o que lhe permite fundar e disseminar religiões.</Text>
+			<Text>O {TXT_KEY_BUILDING_SHRINE} é o primeiro edifício que aumenta a [ICON_PEACE]Fé produzida por uma cidade, o que lhe permite fundar e disseminar religiões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER_STRATEGY">
 			<Text>Cada Centro de Reciclagem fornece 2 de [ICON_RES_ALUMINUM]Alumínio. Pode haver no máximo 5 desse edifício em seu império.</Text>
@@ -236,7 +236,7 @@
 			<Text>Monastérios aumentam a produção de [ICON_PEACE]Fé e de [ICON_CULTURE]Cultura da cidade, especialmente se ela estiver próxima a fontes exploradas de [ICON_RES_INCENSE]Incenso e/ou [ICON_RES_WINE]Vinho. Somente podem ser construídos em cidades que seguem uma religião com a Crença Monastérios. Você pode comprar este edifício com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TEMPLE_STRATEGY">
-			<Text>O Templo aumenta a produção de [ICON_PEACE]Fé de uma cidade, acelerando a taxa em que você pode fundar e disseminar religiões. A cidade precisa possuir um Santuário (ou uma Pirâmide) para poder construir um Templo.</Text>
+			<Text>O {TXT_KEY_BUILDING_TEMPLE} aumenta a produção de [ICON_PEACE]Fé de uma cidade, acelerando a taxa em que você pode fundar e disseminar religiões. A cidade precisa possuir um {TXT_KEY_BUILDING_SHRINE} (ou uma {TXT_KEY_BUILDING_MAYA_PYRAMID}) para poder construir um {TXT_KEY_BUILDING_TEMPLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
 			<Text>A Muralha aumenta em 5 a [ICON_STRENGTH]Força de Defesa e em 50 os Pontos de Vida (HP) da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>		
@@ -267,7 +267,7 @@
 			<Text>A Estela é um edifício da Era Antiga exclusivo da Etiópia e substitui o Monumento. Ela aumenta a [ICON_CULTURE]Cultura e a [ICON_PEACE]Fé de uma cidade, acelerando o crescimento do território da cidade e a aquisição de Políticas Sociais e Religiões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAYA_PYRAMID_STRATEGY">
-			<Text>A Pirâmide é um edifício da Era Antiga exclusivo dos Maias e substitui o Santuário. Ela aumenta a [ICON_RESEARCH]Ciência e a [ICON_PEACE]Fé de uma cidade, acelerando a pesquisa e a aquisição de Religiões no império.</Text>
+			<Text>A {TXT_KEY_BUILDING_MAYA_PYRAMID} é um edifício da Era Antiga exclusivo dos Maias e substitui o {TXT_KEY_BUILDING_SHRINE}. Ela aumenta a [ICON_RESEARCH]Ciência e a [ICON_PEACE]Fé de uma cidade, acelerando a pesquisa e a aquisição de Religiões no império.</Text>
 		</Row>
 		<!--UNITS-->
 		<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY">

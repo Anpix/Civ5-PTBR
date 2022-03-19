@@ -148,7 +148,7 @@
 		</Row>		
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_SHRINE_STRATEGY">
-			<Text>O Santuário é o primeiro edifício que aumenta a [ICON_PEACE]Fé produzida por uma cidade, o que lhe permite fundar e disseminar religiões.</Text>
+			<Text>O {TXT_KEY_BUILDING_SHRINE} é o primeiro edifício que aumenta a [ICON_PEACE]Fé produzida por uma cidade, o que lhe permite fundar e disseminar religiões.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER_STRATEGY">
 			<Text>Cada Centro de Reciclagem fornece 2 de [ICON_RES_ALUMINUM]Alumínio. Pode haver no máximo 5 desse edifício em seu império.</Text>
@@ -181,7 +181,7 @@
 			<Text>Monastérios aumentam a produção de [ICON_PEACE]Fé e de [ICON_CULTURE]Cultura da cidade, especialmente se ela estiver próxima a fontes exploradas de [ICON_RES_INCENSE]Incenso e/ou [ICON_RES_WINE]Vinho. Somente podem ser construídos em cidades que seguem uma religião com a Crença Monastérios. Você pode comprar este edifício com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TEMPLE_STRATEGY">
-			<Text>O Templo aumenta a produção de [ICON_PEACE]Fé de uma cidade, acelerando a taxa em que você pode fundar e disseminar religiões. A cidade precisa possuir um Santuário (ou uma Pirâmide) para poder construir um Templo.</Text>
+			<Text>O {TXT_KEY_BUILDING_TEMPLE} aumenta a produção de [ICON_PEACE]Fé de uma cidade, acelerando a taxa em que você pode fundar e disseminar religiões. A cidade precisa possuir um {TXT_KEY_BUILDING_SHRINE} (ou uma {TXT_KEY_BUILDING_MAYA_PYRAMID}) para poder construir um {TXT_KEY_BUILDING_TEMPLE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
 			<Text>A Muralha aumenta em 5 a [ICON_STRENGTH]Força de Defesa e em 50 os Pontos de Vida (HP) da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>		

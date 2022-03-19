@@ -88,7 +88,7 @@
 		</Row>
 		<!-- Reformation Beliefs-->
 		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_NWS">
-			<Text>+2 de [ICON_PEACE]Fé de ladrilhos de {TXT_KEY_TERRAIN_TUNDRA} sem {TXT_KEY_FEATURE_FOREST} e +4 de [ICON_PEACE] Fé de ladrilhos de {TXT_KEY_TERRAIN_SNOW}</Text>
+			<Text>+2 de [ICON_PEACE]Fé de ladrilhos de {TXT_KEY_TERRAIN_TUNDRA} sem {TXT_KEY_FEATURE_FOREST} e +4 de [ICON_PEACE]Fé de ladrilhos de {TXT_KEY_TERRAIN_SNOW}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_NWS">
 			<Text>+2 de [ICON_PEACE]Fé de ladrilhos de {TXT_KEY_TERRAIN_DESERT}</Text>

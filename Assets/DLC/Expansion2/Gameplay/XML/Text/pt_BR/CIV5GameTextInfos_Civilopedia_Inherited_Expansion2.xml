@@ -246,13 +246,13 @@
 			<Text>Comumente encontrado em toda a Ásia, o Pagode é um estilo arquitetônico que consiste em uma torre de várias camadas, tipicamente com beirais de grandes dimensões e um remate proeminente em seu pico. A maioria dos pagodes está associada à religião budista, pois eles eram frequentemente construídos sobre ou perto de complexos de templos budistas para abrigar relíquias sagradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_STRATEGY">
-			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAGODA_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STELE_TEXT">
 			<Text>Uma estela é uma laje grande e vertical de pedra ou madeira usada como monumento para comemorar grandes líderes, vitórias em batalhas ou ocasionalmente para marcar limites territoriais. Encontradas em toda a Etiópia e nas regiões vizinhas, as estelas eram frequentemente intricadamente inscritas com os detalhes da pessoa ou evento a ser comemorado. O Obelisco de Axum, uma dessas estelas, foi construído em meados do século IV dC na cidade etíope de Axum, mas depois foi quebrado e enviado para a Itália durante a ocupação da Etiópia pelas forças de Mussolini. Com mais de 75 pés de altura e pesando 150 toneladas, a grande estela foi devolvida à Etiópia e remontada em 2008 como parte de um esforço da Organização das Nações Unidas para a Educação, a Ciência e a Cultura.</Text>

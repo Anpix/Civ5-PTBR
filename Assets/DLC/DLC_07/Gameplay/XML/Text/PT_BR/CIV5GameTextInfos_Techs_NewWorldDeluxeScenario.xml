@@ -53,7 +53,7 @@
 			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tercio[ENDCOLOR], a dominant melee unit and the [COLOR_POSITIVE_TEXT]Military Academy[ENDCOLOR], which gives all your units an experience boost.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
-			<Text>Allows you to build buildings with [ICON_PEACE] Faith and the [COLOR_POSITIVE_TEXT]Grand Temple[ENDCOLOR], which allows all Missionaries to spread three times.</Text>
+			<Text>Permite a construção de edifícios com [ICON_PEACE]Fé e o [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_GRAND_TEMPLE}[ENDCOLOR], que permite aos {TXT_KEY_UNIT_MISSIONARY[2]} pregarem três vezes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
 			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Frigate[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Lancer[ENDCOLOR], a Mounted unit that can pillage for free.</Text>

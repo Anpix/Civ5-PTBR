@@ -1046,7 +1046,7 @@
 			<Text>O Banco é um edifício da era da Renascença que aumenta a produção de [ICON_GOLD]Ouro da cidade. Uma cidade deve possuir um mercado ou um bazar antes que um banco possa ser construído. As rotas comerciais que outros jogadores fazem em uma cidade com um banco gerarão um ouro extra de 2 [ICON_GOLD] para o proprietário da cidade, e o proprietário da rota comercial receberá 1 [ICON_GOLD]Ouro adicional para a rota comercial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CANDI_STRATEGY">
-			<Text>Além das habilidades regulares do Jardim, o Candi também oferece +2 [ICON_PEACE] Fé para cada Religião Mundial que tenha pelo menos 1 seguidor na cidade. Somente a Indonésia pode construí-lo e a cidade deve estar localizada próxima a um rio ou lago.</Text>
+			<Text>Além das habilidades regulares do Jardim, o Candi também oferece +2 [ICON_PEACE]Fé para cada Religião Mundial que tenha pelo menos 1 seguidor na cidade. Somente a Indonésia pode construí-lo e a cidade deve estar localizada próxima a um rio ou lago.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARAVANSARY_STRATEGY">
 			<Text>O {TXT_KEY_BUILDING_CARAVANSARY} é um edifício da era clássica. Aumenta o alcance e a produção de [ICON_GOLD]Ouro das rotas de comerciais terrestres.</Text>

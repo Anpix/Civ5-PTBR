@@ -486,7 +486,7 @@
 			<Text>Double Pyramid</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Double Pyramid[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith from Shrines and Temples.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_DOUBLE_PYRAMID}[ENDCOLOR][NEWLINE]+1 [ICON_PEACE]Fé de {TXT_KEY_BUILDING_SHRINE[2]} e {TXT_KEY_BUILDING_TEMPLE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_TEXT">
 			<Text>At the height of their empire's extent, the Aztecs constructed a number of double pyramids, which consisted of a massive pyramidal platform with a double stairway leading to twin temples, in some cases themselves pyramids. The earliest example yet discovered is that at Tenayuca, which was already built when the Aztecs conquered the town around 1434 AD.</Text>
@@ -543,7 +543,7 @@
 			<Text>Pyramid of the Gods</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Pyramid of the Gods[ENDCOLOR][NEWLINE]+6 [ICON_PEACE] Faith from each World Wonder.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_PYRAMID_OF_THE_GODS}[ENDCOLOR][NEWLINE]+6 [ICON_PEACE]Fé de cada Maravilha Mundial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_TEXT">
 			<Text>Mesoamerican step pyramids - more similar to Mesopotamian ziggurats than to smooth-sided pyramids - were the dominant architectural form for most religious structures in the Olmec, Aztec, Mayan, Zapotec, Tarascan and other societies. Often with elaborate symbolic carvings, reliefs, murals and mosaics, the largest of these (such as the Great Pyramid of Cholula) were enduring symbols of the power of these theocratic states.</Text>

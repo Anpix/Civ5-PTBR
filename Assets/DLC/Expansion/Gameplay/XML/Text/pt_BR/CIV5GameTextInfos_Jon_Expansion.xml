@@ -58,7 +58,7 @@
 			<Text>Nós recompensaremos o jogador que obtiver a maior quantidade de [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL">
-			<Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE]fé.</Text>
+			<Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_WINNING_FORMAL">
 			<Text>{TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL} Até agora, você lidera com [ICON_PEACE][COLOR_POSITIVE_TEXT]{1_PlayerScore}[ENDCOLOR].</Text>
