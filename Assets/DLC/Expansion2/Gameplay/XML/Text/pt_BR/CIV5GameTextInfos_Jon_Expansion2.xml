@@ -305,7 +305,7 @@
             <Text>Capacidades Laborais</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_WORKERS_FACULTIES_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Capacidades Laborais[ENDCOLOR][NEWLINE]Fábricas aumenta a produção de [ICON_RESEARCH]Ciência das cidades em 25%. Construa Fábricas na metade do tempo normal.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Capacidades Laborais[ENDCOLOR][NEWLINE]Fábricas aumenta a produção [ICON_RESEARCH]científica das cidades em 25%. Construa Fábricas na metade do tempo normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN">
             <Text>Plano Quinquenal</Text>

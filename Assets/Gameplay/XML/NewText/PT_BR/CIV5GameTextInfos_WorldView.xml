@@ -417,7 +417,7 @@
 			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_RESEARCH] dos acordos de pesquisa com outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_BUDGET_DEFICIT">
-			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do défice [ICON_GOLD]orçamentário![ENDCOLOR]</Text>
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Num} [ICON_RESEARCH] do déficit [ICON_GOLD] orçamentário![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_AVAILABLE_GOLD">
 			<Text>Você possui um total de {1_Num} de [ICON_GOLD]Ouro disponível para gastar.</Text>

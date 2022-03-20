@@ -1631,7 +1631,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Nacionalismo[ENDCOLOR][NEWLINE]15% de bônus de ataque nas batalhas dentro de território amigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PLANNED_ECONOMY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção de [ICON_RESEARCH]Ciência das cidades em 25%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção [ICON_RESEARCH]científica das cidades em 25%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_COMMUNISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Comunismo[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +10% de [ICON_PRODUCTION]Produção quando estiver construindo Edifícios.</Text>

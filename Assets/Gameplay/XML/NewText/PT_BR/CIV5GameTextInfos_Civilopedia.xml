@@ -723,7 +723,7 @@
 			<Text>A Usina Nuclear aumenta significativamente a produtividade de uma cidade. Para poder construí-la é necessário um recurso de [ICON_RES_URANIUM]Urânio e a cidade precisa possuir uma Fábrica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY_STRATEGY">
-			<Text>O {TXT_KEY_BUILDING_OBSERVATORY} só pode ser construído em uma cidade que esteja próxima de uma {TXT_KEY_TERRAIN_MOUNTAIN}. Aumenta muito a produção de [ICON_RESEARCH]Ciência da cidade.</Text>
+			<Text>O {TXT_KEY_BUILDING_OBSERVATORY} só pode ser construído em uma cidade que esteja próxima de uma {TXT_KEY_TERRAIN_MOUNTAIN}. Aumenta muito a produção [ICON_RESEARCH]científica da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
 			<Text>A Casa de Ópera é um edifício do Renascimento que aumenta a [ICON_CULTURE]Cultura da cidade, que precisa ter um Templo ou uma Mesquita Piramidal de Lama para poder construí-la.</Text>

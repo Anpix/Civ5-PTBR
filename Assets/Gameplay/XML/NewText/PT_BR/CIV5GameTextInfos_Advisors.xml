@@ -1291,13 +1291,13 @@
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_MinorCivName:textkey}[/COLOR] foi capturada por [COLOR_ADVISOR_HIGHLIGHT_TEXT]{2_LongCivName:textkey}[/COLOR]. Se capturarmos a cidade e libertá-la, restauraríamos a Cidade-Estado de [COLOR_ADVISOR_HIGHLIGHT_TEXT]{3_MinorCivName:textkey}[/COLOR] e ganharíamos uma enorme quantidade de influência sobre eles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população.</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]Ciência com {2_Num} de [ICON_CITIZEN]população.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_POORLY">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população. Devemos nos concentrar em melhorar nossa pesquisa através da construção de edifícios que gerem pontos de ciência, como bibliotecas e universidades.</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]Ciência com {2_Num} de [ICON_CITIZEN]população. Devemos nos concentrar em melhorar nossa pesquisa através da construção de edifícios que gerem pontos de ciência, como bibliotecas e universidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_WELL">
-			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]ciência com {2_Num} de [ICON_CITIZEN]população. Isso é que é eficiência!</Text>
+			<Text>Nossa civilização está produzindo {1_Num} {1_Num: plural 1?ponto; other?pontos;} de [ICON_RESEARCH]Ciência com {2_Num} de [ICON_CITIZEN]população. Isso é que é eficiência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_BANKRUPT">
 			<Text>Nossa pesquisa está sendo prejudicada pela nossa falta de [ICON_GOLD]Ouro. Sem fundos para pesquisa, vamos ficar irremediavelmente atrasados e seremos apenas uma nota pitoresca na história.</Text>
@@ -1312,7 +1312,7 @@
 			<Text>Se pesquisarmos [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], poderemos construir os edifícios [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR], [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] e [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@4_BldgName}[/COLOR] em nossas cidades. É um monte de edifícios que geram pontos de ciência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_BUILDING_IN_BIG_CITY">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] cresceu, tem uma população grande e precisa do edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]. Se construirmos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] nela, vamos aumentar a nossa produção de pontos de [ICON_RESEARCH]ciência e fazer progressos significativos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] cresceu, tem uma população grande e precisa do edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_BldgName}[/COLOR]. Se construirmos o edifício [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@3_BldgName}[/COLOR] nela, vamos aumentar a nossa produção de pontos de [ICON_RESEARCH]Ciência e fazer progressos significativos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_UNITS">
 			<Text>Se pesquisarmos a tecnologia [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_TechName:textkey}[/COLOR], teremos acesso à unidade [COLOR_ADVISOR_HIGHLIGHT_TEXT]{@2_UnitName}[/COLOR]. Ter um exército moderno é a chave para ataques seguros e eficazes.</Text>
