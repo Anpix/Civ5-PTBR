@@ -1040,7 +1040,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_STRATEGY">
-			<Text>O versátil Aeroporto é uma excelente opção para as duas civilizações que estão tentando melhorar sua produção de [ICON_TOURISM] Turismo ou para aqueles que precisam usar recursos de transporte aéreo para transportar unidades para cidades distantes.</Text>
+			<Text>O versátil Aeroporto é uma excelente opção para as duas civilizações que estão tentando melhorar sua produção de [ICON_TOURISM]Turismo ou para aqueles que precisam usar recursos de transporte aéreo para transportar unidades para cidades distantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BANK_STRATEGY">
 			<Text>O Banco é um edifício da era da Renascença que aumenta a produção de [ICON_GOLD]Ouro da cidade. Uma cidade deve possuir um mercado ou um bazar antes que um banco possa ser construído. As rotas comerciais que outros jogadores fazem em uma cidade com um banco gerarão um ouro extra de 2 [ICON_GOLD] para o proprietário da cidade, e o proprietário da rota comercial receberá 1 [ICON_GOLD]Ouro adicional para a rota comercial.</Text>
@@ -1061,7 +1061,7 @@
 			<Text>O porto é um edifício da era medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro das rotas de comerciais marítmas. Permite "ligações de cidade de água" (ver regras) entre cidades. O porto também aumenta a produção [ICON_PRODUCTION] de um recurso marítimo melhorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_STRATEGY">
-			<Text>Com o seu enorme impulso para [ICON_TOURISM] Turismo, o Hotel é uma excelente escolha para as civilizações que estão tentando alcançar uma vitória cultural, ou tentando aumentar o seu impacto ideológico em outras civilizações.</Text>
+			<Text>Com o seu enorme impulso para [ICON_TOURISM]Turismo, o Hotel é uma excelente escolha para as civilizações que estão tentando alcançar uma vitória cultural, ou tentando aumentar o seu impacto ideológico em outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IKANDA_STRATEGY">
 			<Text>Além das habilidades regulares do Quartel que ele substitui, o Ikanda concede um conjunto exclusivo de promoções para unidades de combate pré-armas criadas dentro da cidade. Estes incluem movimento mais rápido e maior força de combate. Somente o Zulu pode construí-lo.</Text>
@@ -1079,7 +1079,7 @@
 			<Text>A Ironworks National Maravilha aumenta a [ICON_PRODUCTION]Produção de uma cidade em 8 [ICON_PRODUCTION]. Uma civilização deve ter uma oficina em todas as cidades antes de poder construir uma Ironworks.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_STRATEGY">
-			<Text>Com o seu enorme impulso para o [ICON_TOURISM] Turismo, o National Visitor Centre é uma excelente escolha para civilizações que estão tentando alcançar uma vitória cultural, ou tentando aumentar seu impacto ideológico em outras civilizações. Construa-o em sua cidade com a melhor produção de [ICON_TOURISM] Turismo quando todas as suas cidades tiverem concluído os hotéis.</Text>
+			<Text>Com o seu enorme impulso para o [ICON_TOURISM]Turismo, o National Visitor Centre é uma excelente escolha para civilizações que estão tentando alcançar uma vitória cultural, ou tentando aumentar seu impacto ideológico em outras civilizações. Construa-o em sua cidade com a melhor produção de [ICON_TOURISM]Turismo quando todas as suas cidades tiverem concluído os hotéis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CANDI_TEXT">
 			<Text>Candi refere-se a uma estrutura de pedra indonésia baseada no único santuário hindu, com uma torre piramidal por cima e um pórtico ornamentado, construído principalmente entre os séculos VIII e XV. Incorporando desenhos de mandala, o candi foi projetado para imitar Meru, a montanha sagrada que era a morada dos deuses. Os javaneses, notavelmente o Khmer, desenvolveram uma arquitetura um pouco diferente para seus candi, fazendo uso de pilares em torno de uma massa sólida central, mas mantendo a forma básica. O maior e mais famoso candi é Borobadur, o templo budista do século IX com sete terraços.</Text>
@@ -1995,43 +1995,43 @@
 			<Text>Você tem um Grande Escritor!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_WRITER_BODY">
-			<Text> Criatividade é abundante em sua civilização! Se estiver a tentar uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], poderá querer que [COLOR_ADVISOR_HIGHLIGHT_TEXT]crie uma Grande Obra de Escrita[/COLOR] para gerar o [ICON_TOURISM] Turismo para a sua civilização. Quanto mais Turismo você gerar, maiores serão suas chances de ganhar uma Vitória da Cultura!</Text>
+			<Text>A criatividade é abundante em sua civilização! Se estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], pode querer que [COLOR_ADVISOR_HIGHLIGHT_TEXT]crie uma Grande Obra de Escrita[/COLOR] para gerar [ICON_TOURISM]Turismo para a sua civilização. Quanto mais Turismo você gerar, maiores serão suas chances de ganhar uma Vitória da Cultura!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_ARTIST_DISPLAY">
 			<Text>Você tem um Grande Artista!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_ARTIST_BODY">
-			<Text>As artes estão prosperando! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra de Arte[/COLOR] para gerar o [ICON_TOURISM] Tourism para sua civilização, essencial para uma Cultura Victory. Ou você poderia começar uma Era de Ouro!</Text>
+			<Text>As artes estão prosperando! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra de Arte[/COLOR] para gerar [ICON_TOURISM]Turismo para sua civilização, essencial para uma Vitória Cultural. Ou você poderia começar uma Era de Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_MUSICIAN_DISPLAY">
 			<Text>Você tem um Grande Músico!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_GREAT_MUSICIAN_BODY">
-			<Text>A música encantou o nosso povo! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma ótima obra de música[/COLOR] para gerar o [ICON_TOURISM] Tourism para sua civilização. Ou, você poderia realizar uma turnê de concertos em outra civilização para fornecer um impulso de uma só vez para o seu [ICON_TOURISM] Turismo!</Text>
+			<Text>A música encantou o nosso povo! Se você estiver tentando uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], convém [COLOR_ADVISOR_HIGHLIGHT_TEXT]criar uma Grande Obra Musical[/COLOR] para gerar [ICON_TOURISM]Torismo para sua civilização. Ou você poderia realizar uma turnê de concertos em outra civilização para fornecer um impulso de uma só vez para o seu [ICON_TOURISM]Turismo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_DISPLAY">
 			<Text>Você pode construir uma Guilda de Escritores!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_WRITERS_GUILD_BODY">
-			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
+			<Text>A Guilda de Escritores permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Escritores[/COLOR] designando especialistas para ela. Um Grande Escritor é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Literárias[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_DISPLAY">
 			<Text>Você pode construir uma Guilda de Artistas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARTISTS_GUILD_BODY">
-			<Text>A Guilda de Artistas permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Artistas[/COLOR]designando especialistas para ela. Um Grande Artista é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras de Arte[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
+			<Text>A Guilda de Artistas permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Artistas[/COLOR]designando especialistas para ela. Um Grande Artista é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras de Arte[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_DISPLAY">
 			<Text>Você pode construir uma Guilda de Músicos!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_MUSIC_GUILD_BODY">
-			<Text>A Guilda de Músicos permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Músicos[/COLOR]designando especialistas para ela. Um Grande Músico é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Musicais[/COLOR], essenciais para gerar [ICON_TOURISM] Turismo e vencer uma Vitória Cultural.</Text>
+			<Text>A Guilda de Músicos permite [COLOR_ADVISOR_HIGHLIGHT_TEXT]gerar Grandes Músicos[/COLOR]designando especialistas para ela. Um Grande Músico é um novo tipo de Grande Pessoa que te permite criar [COLOR_ADVISOR_HIGHLIGHT_TEXT]Grandes Obras Musicais[/COLOR], essenciais para gerar [ICON_TOURISM]Turismo e vencer uma Vitória Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TOURISM_DISPLAY">
 			<Text>Você está gerando Turismo!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_TOURISM_BODY">
-			<Text>Outras civilizações estão começando a notar a grandeza de sua Cultura! Em termos de uma Vitória Cultural, [COLOR_ADVISOR_HIGHLIGHT_TEXT]considere [ICON_TOURISM] Turismo sua "Ofensa"[/COLOR] contra outras civilizações, [COLOR_ADVISOR_HIGHLIGHT_TEXT]e Cultura sua "Defesa"[/COLOR] de outras civilizações. [NEWLINE] [NEWLINE] Clique no ícone [ICON_TOURISM] Turismo na parte superior da tela para acompanhar como você está se saindo contra a Cultura de outras civilizações.</Text>
+			<Text>Outras civilizações estão começando a notar a grandeza de sua Cultura! Em termos de uma Vitória Cultural, [COLOR_ADVISOR_HIGHLIGHT_TEXT]considere [ICON_TOURISM]Turismo seu "Ataque"[/COLOR] contra outras civilizações, [COLOR_ADVISOR_HIGHLIGHT_TEXT]e [ICON_CULTURE]Cultura sua "Defesa"[/COLOR] de outras civilizações.[NEWLINE][NEWLINE] Clique no ícone [ICON_TOURISM]Turismo na parte superior da tela para acompanhar como você está se saindo contra a Cultura de outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_ARCH_DISPLAY">
 			<Text>Local de Antiguidade Revelado!</Text>
@@ -2061,7 +2061,7 @@
 			<Text>Você fez uma descoberta!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_ARCHAEOLOGY_BODY">
-			<Text>Você descobriu um Artefato valioso na sua escavação! Você precisará escolher [COLOR_ADVISOR_HIGHLIGHT_TEXT]para extrair o Artefato[/COLOR] que pode ser usado para gerar o [ICON_TOURISM] Turismo ou criar um Marco para gerar a cultura [ICON_CULTURE].</Text>
+			<Text>Você descobriu um Artefato valioso na sua escavação! Você precisará escolher [COLOR_ADVISOR_HIGHLIGHT_TEXT]para extrair o Artefato[/COLOR] que pode ser usado para gerar [ICON_TOURISM]Turismo ou criar um {TXT_KEY_IMPROVEMENT_LANDMARK} para gerar a [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_IDEOLOGY_DISPLAY">
 			<Text>Um Admirável Novo Mundo!</Text>
@@ -2073,7 +2073,7 @@
 			<Text>Suas grandes obras são mundialmente renomadas!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_INFLUENTIAL_BODY">
-			<Text>Suas Grandes Obras estão atraindo visitantes de todos os cantos do globo! Para ganhar uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Cultura Victory[/COLOR], você deve continuar aumentando o seu [ICON_TOURISM] Turismo o máximo possível. Você pode aumentar o seu [ICON_TOURISM] Turismo com bônus de Fronteiras Abertas, Rotas de Comércio, Hotéis e muito mais!</Text>
+			<Text>Suas Grandes Obras estão atraindo visitantes de todos os cantos do globo! Para ganhar uma [COLOR_ADVISOR_HIGHLIGHT_TEXT]Vitória Cultural[/COLOR], você deve continuar aumentando o seu [ICON_TOURISM]Turismo o máximo possível. Você pode aumentar o seu [ICON_TOURISM]Turismo com bônus de Fronteiras Abertas, Rotas de Comércio, Hotéis e muito mais!</Text>
 		</Row>
 		<!-- VICTORY CONCEPTS -->
 		<Row Tag="TXT_KEY_SOCIALPOLICY_CULTUREVICTORY_HEADING2_BODY">
