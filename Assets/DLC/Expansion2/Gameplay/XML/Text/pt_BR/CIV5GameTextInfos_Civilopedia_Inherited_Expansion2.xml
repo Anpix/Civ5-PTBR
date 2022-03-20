@@ -664,7 +664,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_STADIUM_DESC}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção [ICON_CULTURE]Cultural de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
 			<Text>Permite o treinamento da unidade terrestre básica [COLOR_POSITIVE_TEXT]Infante[ENDCOLOR] e a construção da [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR], que melhora a defesa da Cidade.</Text>

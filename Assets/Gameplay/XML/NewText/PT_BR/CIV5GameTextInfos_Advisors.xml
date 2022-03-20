@@ -601,7 +601,7 @@
 			<Text>Negociações Diplomáticas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
-			<Text>A Tela de Política Social permite que você escolha as políticas sociais que irão moldar sua civilização. Você gasta sua [ICON_CULTURE]cultura acumulada para desbloquear as Políticas Sociais. Alguns ramos não podem ser selecionados até que uma era tecnológica seja atingida e alguns deles não podem ser usados juntos. Passe o mouse para ler os textos e determinar quais são os mutuamente exclusivos.</Text>
+			<Text>A Tela de Política Social permite que você escolha as políticas sociais que irão moldar sua civilização. Você gasta sua [ICON_CULTURE]Cultura acumulada para desbloquear as Políticas Sociais. Alguns ramos não podem ser selecionados até que uma era tecnológica seja atingida e alguns deles não podem ser usados juntos. Passe o mouse para ler os textos e determinar quais são os mutuamente exclusivos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
 			<Text>Políticas Sociais</Text>

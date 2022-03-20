@@ -156,7 +156,7 @@
 		</Row>
 		<!-- WONDERS -->
 		<Row Tag="TXT_KEY_WONDER_ALHAMBRA_HELP">
-			<Text>Todas as novas unidades não aéreas produzidas nesta cidade recebem a Promoção [COLOR_POSITIVE_TEXT]Broca I[ENDCOLOR], melhorando sua [ICON_STRENGTH]Força de Combate ao combater em [COLOR_POSITIVE_TEXT]Terreno Acidentado[ENDCOLOR]. Fornece um Castelo gratuito na cidade em que for construída. Aumenta a produção de [ICON_CULTURE]Cultura da cidade em 20%.</Text>
+			<Text>Todas as novas unidades não aéreas produzidas nesta cidade recebem a Promoção [COLOR_POSITIVE_TEXT]Broca I[ENDCOLOR], melhorando sua [ICON_STRENGTH]Força de Combate ao combater em [COLOR_POSITIVE_TEXT]Terreno Acidentado[ENDCOLOR]. Fornece um Castelo gratuito na cidade em que for construída. Aumenta a produção [ICON_CULTURE]Cultural da cidade em 20%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_CN_TOWER_HELP">
 			<Text>Fornece uma Torre de Transmissão gratuita em todas as cidades. +1 de [ICON_CITIZEN]População em cada cidade e +1 de [ICON_HAPPINESS_1]Felicidade por cada cidade.</Text>
