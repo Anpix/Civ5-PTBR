@@ -2134,10 +2134,10 @@
 			<Text>O mais antigo zoológico conhecido (ou "zoológico") foi escavado em Hierakonpolis e data de c. 3500 aC; o mais antigo zoológico existente, o Tiergarten Schoenbrunn em Viena, evoluiu da coleção de animais exóticos mantida pela dinastia dos Habsburgos e foi aberto ao público em 1765 d.C..</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_THEATRE_STRATEGY">
-			<Text>Um zoológico aumenta a [ICON_HAPPINESS_1] Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. Uma cidade precisa possuir um Coliseu antes do zoológico pode ser construída.</Text>
+			<Text>Um zoológico aumenta a [ICON_HAPPINESS_1]Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. Uma cidade precisa possuir um Coliseu antes do zoológico pode ser construída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STADIUM_STRATEGY">
-			<Text>Um estádio é um edifício da era moderna que aumenta a [ICON_HAPPINESS_1] Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. A cidade já deve possuir um zoológico antes de poder construir um estádio.</Text>
+			<Text>Um estádio é um edifício da era moderna que aumenta a [ICON_HAPPINESS_1]Felicidade do seu império, mas não pode proporcionar mais felicidade do que os cidadãos na cidade. A cidade já deve possuir um zoológico antes de poder construir um estádio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HAPPINESS_LEVELSUNHAPPINESS_HEADING2_BODY">
 			<Text>Existem três níveis de infelicidade. Infeliz, inquietação e revolta. Uma civilização Infeliz pode fazer o crescimento populacional desacelerar de forma significativa, uma civilização que vive a agitação pode ter muitos mais problemas, incluindo penas de combate e rebelião aberta, e uma civilização em Revolta pode potencialmente ter cidades abandonando seu império.</Text>

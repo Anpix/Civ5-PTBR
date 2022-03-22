@@ -465,7 +465,7 @@
 			<Text>O nível de {1_Icon}Infelicidade do seu Império é {2_Num}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
-			<Text>Em razão da [ICON_HAPPINESS_4]infelicidade ter chegado a 10, o Império agora está MUITO [ICON_HAPPINESS_4]infeliz! As cidades não crescem mais, os Colonizadores não podem ser treinados, a [ICON_PRODUCTION]Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
+			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 10, o Império agora está MUITO [ICON_HAPPINESS_4]Infeliz! As cidades não crescem mais, os Colonizadores não podem ser treinados, a [ICON_PRODUCTION]Produção fica muito reduzida e as unidades são menos eficazes em combate!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
 			<Text>As cidades vão crescer apenas a 1/4 da velocidade normal enquanto o império estiver [ICON_HAPPINESS_3]Infeliz!</Text>
@@ -1006,7 +1006,7 @@
 			<Text>Bônus de unidade alojadas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
-			<Text>Em razão da [ICON_HAPPINESS_4]infelicidade ter chegado a 20, o Império agora está em revolta! Rebeldes aparecerão no seu território periodicamente até você corrigir esta situação!</Text>
+			<Text>Em razão da [ICON_HAPPINESS_4]Infelicidade ter chegado a 20, o Império agora está em revolta! Rebeldes aparecerão no seu território periodicamente até você corrigir esta situação!</Text>
  		</Row>
 		<Row Tag="TXT_KEY_TP_UNHAPPINESS_SPECIALISTS">
 			<Text>{1_Num : number "#.##"} {1: plural 1?gerado; other?gerados;} por [ICON_CITIZEN]Especialistas.</Text>

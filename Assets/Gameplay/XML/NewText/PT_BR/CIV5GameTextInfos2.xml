@@ -1828,13 +1828,13 @@
       <Text>Isso significa GUERRA contra {1_Team}?!? Eles estão sob proteção de: </Text>
     </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_ANNEX">
-            <Text>[COLOR_POSITIVE_TEXT]Anexar[ENDCOLOR] a cidade ao seu Império faz com que ela se torne uma cidade normal, que produz uma quantidade significativa de [ICON_HAPPINESS_4]infelicidade extra.[NEWLINE][NEWLINE]Anexar esta cidade aumentará a [ICON_HAPPINESS_4]infelicidade em {1_Num}.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Anexar[ENDCOLOR] a cidade ao seu Império faz com que ela se torne uma cidade normal, que produz uma quantidade significativa de [ICON_HAPPINESS_4]Infelicidade extra.[NEWLINE][NEWLINE]Anexar esta cidade aumentará a [ICON_HAPPINESS_4]Infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_PUPPET">
 			<Text>Ao transformar a cidade em um [COLOR_POSITIVE_TEXT]Fantoche[ENDCOLOR], ela gerará Ouro, Ciência, Cultura etc., mas você [COLOR_POSITIVE_TEXT]pode não conseguir escolher o que é produzido[ENDCOLOR] ou personalizar a cidade.[NEWLINE][NEWLINE]Ela contribuirá com muito menos [ICON_HAPPINESS_4]Infelicidade que uma cidade anexada e não aumentará o custo para aquisição de Políticas Sociais e geração de Grandes Pessoas. Se você escolher isso, você pode anexar a cidade depois.[NEWLINE][NEWLINE]Tornar esta cidade um fantoche aumentará a [ICON_HAPPINESS_4]Infelicidade em {1_Num}.</Text>
          </Row>
         <Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_RAZE">
-			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4]infelicidade extra durante a destruição.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Eliminar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4]infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4]infelicidade diminuirá em 1 a cada turno.</Text>
+			<Text>A cidade irá [ICON_RAZING] diminuir sua população em 1 a cada turno até chegar a 0 e ser removida do jogo. Isso produz uma quantidade significativa de [ICON_HAPPINESS_4]Infelicidade extra durante a destruição.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Eliminar[ENDCOLOR] esta cidade aumentará a [ICON_HAPPINESS_4]Infelicidade em {1_Num}. Esta [ICON_HAPPINESS_4]Infelicidade diminuirá em 1 a cada turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_VIEW_CITY_DETAILS">
 			<Text>Vá para a tela da cidadea. Você não pode puder nada enquanto estiver dentro.</Text>

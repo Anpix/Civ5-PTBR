@@ -221,7 +221,7 @@
 			<Text>+15 to [ICON_INFLUENCE] Influence resting point with [ICON_RELIGION_CHRISTIANITY] Catholic City-States</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHORAL_MUSIC">
-			<Text>+4 [ICON_CULTURE] Culture for Temples in cities with 5 followers</Text>
+			<Text>+4 de [ICON_CULTURE]Cultura para {TXT_KEY_BUILDING_TEMPLE[2]} em cidades com 5 seguidores</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_INDULGENCES">
 			<Text>+2 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route</Text>
@@ -230,19 +230,19 @@
 			<Text>Holy City switches to largest following city if captured</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY">
-			<Text>+2 [ICON_CULTURE] Culture and +1 [ICON_PEACE]Fé from Temples</Text>
+			<Text>+2 de [ICON_CULTURE]Cultura e +1 de [ICON_PEACE]Fé de {TXT_KEY_BUILDING_TEMPLE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_HAJJ">
-			<Text>+5 [ICON_CULTURE] Culture and +5 [ICON_PEACE]Fé</Text>
+			<Text>+5 de [ICON_CULTURE]Cultura e +5 de [ICON_PEACE]Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_SALAT">
-			<Text>+2 [ICON_PEACE]Fé from Shrines and Temples</Text>
+			<Text>+2 [ICON_PEACE]Fé de {TXT_KEY_BUILDING_SHRINE[2]} e {TXT_KEY_BUILDING_TEMPLE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_WORK_ETHIC">
 			<Text>+8 [ICON_PRODUCTION] Production in each following city</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE">
-			<Text>+3 [ICON_HAPPINESS_1] Happiness from Shrines and Temples</Text>
+			<Text>+3 de [ICON_HAPPINESS_1]Felicidade de {TXT_KEY_BUILDING_SHRINE[2]} e {TXT_KEY_BUILDING_TEMPLE[2]}</Text>
 		</Row>
 		<!-- Religions -->
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY_PEDIA">

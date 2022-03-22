@@ -231,16 +231,16 @@
 			<Text>The Mead Hall increases [ICON_HAPPINESS_1] Happiness and [ICON_CULTURE] Culture by 2.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL_HELP">
-			<Text>+2 [ICON_HAPPINESS_1] Happiness and [ICON_CULTURE] Culture.</Text>
+			<Text>+2 de [ICON_HAPPINESS_1]Felicidade e [ICON_CULTURE]Cultura.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HOV_TEXT">
 			<Text>A Hov was a structure, sometimes no more than a roofless palisade but far more substantial in large Goth settlements, where the pagan "blot" (ritual animal sacrifice) took place. Amid great fanfare, the blot was conducted by the Germanic druids to insure good harvests, hunting or victory in war. The sacrifice was usually by means of decapitation; Agathias of Myrina wrote during the Gothic War (535-554 AD) that the Goths would "sacrifice horses, cattle and countless other animals by beheading them, and imagine that they are performing an act of piety thereby." If the tribe was under extreme threat, it was not unknown for the druids to even conduct human sacrifice of captives or slaves in the Hov.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOV_STRATEGY">
-			<Text>The Hov increases [ICON_HAPPINESS_1] Happiness by 1 and [ICON_GOLD] Gold by 2.</Text>
+			<Text>O Hov aumenta a [ICON_HAPPINESS_1]Felicidade em 1 e o [ICON_GOLD]Ouro em 2.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOV_HELP">
-			<Text>+1 [ICON_HAPPINESS_1] Happiness and +2 [ICON_GOLD] Gold.</Text>
+			<Text>+1 de [ICON_HAPPINESS_1]Felicidade e +2 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_HELP_CELT_PICTISH_WARRIOR">
 			<Text>Somente os celtas podem treinar esta unidade. Ela tem um bônus de combate fora do território amistoso e pode pilhar as melhorias inimigas sem custo adicional de movimento. Também recebe um bônus de 50% em ataques de flanco.</Text>

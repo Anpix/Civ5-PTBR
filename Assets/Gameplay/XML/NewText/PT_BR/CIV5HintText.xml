@@ -23,7 +23,7 @@
       <Text>Nunca leve uma faca para um tiroteio.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_HINT_8">
-      <Text>Não deixe de lado a [ICON_HAPPINESS_1]Felicidade de seu Império. Caso seu império esteja [ICON_HAPPINESS_4]infeliz, as cidades deixarão de crescer até que você consiga novas fontes de felicidade.</Text>
+      <Text>Não deixe de lado a [ICON_HAPPINESS_1]Felicidade de seu Império. Caso seu império esteja [ICON_HAPPINESS_4]Infeliz, as cidades deixarão de crescer até que você consiga novas fontes de felicidade.</Text>
     </Row>
   <Language_pt_BR>
 </GameData>

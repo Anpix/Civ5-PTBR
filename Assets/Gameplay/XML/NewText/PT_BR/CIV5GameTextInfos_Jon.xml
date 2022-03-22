@@ -2549,7 +2549,7 @@
 			<Text>Não é possível fundar uma cidade tendo outra localizada a 4 hexágonos de distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_CITY_DISABLED_UNHAPPY">
-			<Text>Não é possível fundar uma cidade quando o Império se encontra [ICON_HAPPINESS_4]Muito Infeliz. Explore os recursos de luxo ainda não tratados ou construa edifícios geradores de [ICON_HAPPINESS_1] para sair desta situação.</Text>
+			<Text>Não é possível fundar uma cidade quando o Império se encontra muito [ICON_HAPPINESS_4]Infeliz. Explore os recursos de luxo ainda não tratados ou construa edifícios geradores de [ICON_HAPPINESS_1]Felicidade para sair desta situação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CULTURE_BOMB_DISABLED_COOLDOWN">
 			<Text>Você executou uma Bomba de Cultura recentemente e não poderá fazê-la novamente por mais {1_Num} {1: plural 1?turno; other?turnos;}.</Text>

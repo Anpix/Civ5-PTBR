@@ -121,7 +121,7 @@
 			<Text>É preciso mais militares</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
-			<Text>Seu povo não é mais feliz. Uma população [ICON_HAPPINESS_4]infeliz não irá crescer rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhoramentos em recursos[/COLOR].</Text>
+			<Text>Seu povo não é mais feliz. Uma população [ICON_HAPPINESS_4]Infeliz não irá crescer rápido como uma contente. Se você quiser tornar seus cidadãos mais felizes, [COLOR_ADVISOR_HIGHLIGHT_TEXT]ordene que seus [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] construam melhoramentos em recursos[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
 			<Text>Seu povo não é mais feliz</Text>
@@ -130,7 +130,7 @@
 			<Text>Mostre o recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
-			<Text>Seu povo está muito [ICON_HAPPINESS_4]infeliz. Nossas cidades tem drasticamente reduzido a [ICON_PRODUCTION]Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edifícios que produzam felicidade, melhoramentos e negociando recursos com outros líderes.</Text>
+			<Text>Seu povo está muito [ICON_HAPPINESS_4]Infeliz. Nossas cidades tem drasticamente reduzido a [ICON_PRODUCTION]Produção e nossas unidades não lutarão tão bem. Faça seu povo feliz construindo edifícios que produzam felicidade, melhoramentos e negociando recursos com outros líderes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
 			<Text>Seu povo está irritado!</Text>
@@ -460,7 +460,7 @@
 			<Text>Falência!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
-			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4]infelizes.</Text>
+			<Text>A cidade que recentemente ocupamos ainda não está animada em fazer parte da nossa civilização e está causando uma grande quantidade de [ICON_HAPPINESS_4]Infelicidade. Se construirmos um Tribunal naquela cidade, os cidadãos não ficarão mais tão [ICON_HAPPINESS_4]Infelizes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
 			<Text>Cidade ocupada precisa de Tribunal</Text>
