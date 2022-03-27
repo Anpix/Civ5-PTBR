@@ -155,13 +155,13 @@
 			<Text>Um projeto primeiramente atribuído aos normandos, no século 10, o Motte e Bailey era um tipo de castelo elevado construído em cima de um monte terraplanado. O "Motte" era formado por escavações de trincheiras ao redor do local prospectado para o castelo. As porções de terra retiradas eram então utilizadas para a construção de uma colina ou monte artificiais, sobre os quais o castelo era construído. O "Bailey" se refere ao pátio inferior, normalmente cercado por um muro grande, contendo um quartel, ala dos serviçais e edifícios de armazenamento. Qualquer unidade estacionada dentro de um Motte e Bailey recebe um bônus de 100% de força defensiva. Além disso, qualquer unidade inimiga que terminar o turno próxima a um Motte e Bailey recebe 3 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_HELP">
-			<Text>Construído por {TXT_KEY_UNIT_SWORDSMAN[2]} normandos, o Motte e Bailey fornece 100% de [ICON_STRENGTH]Força Defensiva para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano.</Text>
+			<Text>Construído por {TXT_KEY_UNIT_SWORDSMAN[2]} normandos, o Motte e Bailey fornece 100% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY">
 			<Text>Construir um Motte e Bailey </Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_HELP">
-			<Text>+100% de [ICON_STRENGTH]Força defensiva para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano. Não consome a unidade.</Text>
+			<Text>+100% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste local. Qualquer unidade inimiga que terminar seu turno próxima ao Motte e Bailey recebe 3 pontos de dano. Não consome a unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_REC">
 			<Text>Vai melhorar a [ICON_STRENGTH]Defesa de qualquer unidade militar estacionada neste local e causará dano às unidades inimigas que terminarem seus turnos em hexágonos adjacentes.</Text>

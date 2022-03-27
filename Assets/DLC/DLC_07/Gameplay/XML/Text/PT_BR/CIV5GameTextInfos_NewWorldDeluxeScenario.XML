@@ -614,7 +614,7 @@
 			<Text>City Sack</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_STATUE_ZEUS_HELP">
-			<Text>+33% [ICON_STRENGTH] Combat Strength when attacking cities.</Text>
+			<Text>+33% de [ICON_STRENGTH]Força de Combate ao atacar cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_EMBARKATION_HELP">
 			<Text>Can embark onto [COLOR_POSITIVE_TEXT]Water Tiles[ENDCOLOR]. 10% Chance this unit takes 10 damage from [COLOR_NEGATIVE_TEXT]Scurvy[ENDCOLOR] each time it moves onto a neutral or enemy water tile (unless the Navigation School has been built).</Text>
@@ -641,16 +641,16 @@
 			<Text>Smallpox</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX5_HELP">
-			<Text>+5% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+5% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX10_HELP">
-			<Text>+10% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+10% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX15_HELP">
-			<Text>+15% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX20_HELP">
-			<Text>+20% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<!-- Score -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO1">

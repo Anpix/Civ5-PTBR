@@ -534,7 +534,7 @@
 			<Text>Barbarian Conscript</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_BARBARIAN_CONSCRIPT_HELP">
-			<Text>-10% [ICON_STRENGTH] Combat Strength</Text>
+			<Text>-10% de [ICON_STRENGTH]Força de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT_OFFICER">
 			<Text>Recruitment Officer</Text>

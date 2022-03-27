@@ -816,7 +816,7 @@
 			<Text>A Universidade é um edifício da Era Medieval. Aumenta a produção [ICON_RESEARCH]científica da cidade e ainda é mais eficaz se a cidade estiver construída próximo de hexágonos com {TXT_KEY_FEATURE_JUNGLE}. A cidade deve ter uma Biblioteca (ou Fábrica de Papel) para poder construir uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
-			<Text>A Muralha aumenta a [ICON_STRENGTH]Defesa da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>
+			<Text>A Muralha aumenta a [ICON_STRENGTH]Força de Defesa da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WAT_PEDIA">
 			<Text>Um "Wat" é um templo e monastério Budista encontrado no Camboja, Tailândia, ou Laos. A tradução literal de "wat" é "escola", e na verdade os wats Siameses eram lugares de culto e aprendizagem. Um wat consiste de um templo que contém estátuas de Buda, uma sala de orações, uma sala contendo textos religiosos, um pavilhão para relaxamento, uma biblioteca, sala de estudo, campanários e alojamentos. Pode ser um único edifício ou um conjunto deles - uma pequena cidade. Construído no século 12, o Angkor Wat no Angkor, Camboja, é um dos maiores e melhor conservados de todo o Sudeste Asiático.</Text>

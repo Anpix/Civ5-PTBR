@@ -124,7 +124,7 @@
             <Text>Dobra a força de defesa de unidades embarcadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_PRODUCTION_BUILDING_HITPOINTS">
-            <Text>[ICON_STRENGTH] Pontos de Vida: +{1_Num}</Text>
+            <Text>[ICON_STRENGTH]Pontos de Combate: +{1_Num}</Text>
         </Row>
         <Row Tag="TXT_KEY_DIPLO_CULTURE_BOMB">
             <Text>[COLOR_NEGATIVE_TEXT]Você roubou o território deles com um Grande General![ENDCOLOR]</Text>

@@ -2347,10 +2347,10 @@
 			<Text>Irá fornecer maior [ICON_STRENGTH]defesa a qualquer unidade militar que estiver neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FORT_HELP">
-			<Text>+50% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono.</Text>
+			<Text>+50% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
-			<Text>+100% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano. Construindo a {TXT_KEY_IMPROVEMENT_CITADEL}, consumirá esta unidade.</Text>
+			<Text>+100% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano. Construindo a {TXT_KEY_IMPROVEMENT_CITADEL}, consumirá esta unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL">
 			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]{TXT_KEY_IMPROVEMENT_LUMBERMILL}[\LINK]</Text>
