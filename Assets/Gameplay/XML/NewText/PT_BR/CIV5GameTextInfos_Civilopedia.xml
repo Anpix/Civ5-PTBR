@@ -645,10 +645,10 @@
 			<Text>O Kremlin aumenta em 25% a bonificação de construções defensivas em todas as cidades. Também fornece +3 em [ICON_CULTURE]Cultura, +12 de Defesa e +1 ponto de Grande Cientista. Obviamente, esta Maravilha é mais efetiva se você estiver construindo os edifícios defensivos necessários - Muralhas, Castelos, etc. - mas seu bônus de +3 em [ICON_CULTURE]Cultura vale por si só.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LABORATORY_STRATEGY">
-			<Text>O Laboratório de Pesquisa é um edifício da fase avançada do jogo que aumenta significativamente a produção [ICON_RESEARCH]científica de uma cidade, que deve possuir uma Escola Pública para poder construí-lo.</Text>
+			<Text>O Laboratório de Pesquisa é um edifício da fase avançada do jogo que aumenta significativamente a produção [ICON_RESEARCH]Científica de uma cidade, que deve possuir uma Escola Pública para poder construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIBRARY_STRATEGY">
-			<Text>A Biblioteca aumenta a produção [ICON_RESEARCH]científica da cidade, acelerando a aquisição de novas tecnologias na civilização. Uma Biblioteca permite a criação de dois Cientistas Especialistas a partir da população de uma cidade, aumentando a velocidade em que aparecem os Grandes Cientistas.</Text>
+			<Text>A Biblioteca aumenta a produção [ICON_RESEARCH]Científica da cidade, acelerando a aquisição de novas tecnologias na civilização. Uma Biblioteca permite a criação de dois Cientistas Especialistas a partir da população de uma cidade, aumentando a velocidade em que aparecem os Grandes Cientistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_STRATEGY">
 			<Text>O Farol só poder ser construído em uma cidade que esteja próxima a área costeira. Aumenta a produção de [ICON_FOOD]Alimentos dos hexágonos aquáticos e do recurso [ICON_RES_FISH]Peixe.</Text>
@@ -708,7 +708,7 @@
 			<Text>Um Colégio Nacional é uma instituição estatal de ensino superior. A origem desses colégios atuais poderia remontar até as madrasah medievais islâmicas, normalmente associadas a uma mesquita que ensinavam as leis e teologia. A maioria dos países do mundo têm agora a faculdade pública e os sistemas universitários. A Universidade de Tóquio, no Japão, é uma das instituições públicas. De acordo com a Classificação Russa das Universidades do Mundo, a Universidade de Tóquio é a mais prestigiosa da Ásia e a terceira do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_COLLEGE_STRATEGY">
-			<Text>A Maravilha do Colégio Nacional aumenta em 50% a produção [ICON_RESEARCH]científica de uma cidade e proporciona +1 em [ICON_CULTURE]Cultura. Uma civilização deve ter uma Biblioteca em todas as cidades para poder construir um Colégio Nacional.</Text>
+			<Text>A Maravilha do Colégio Nacional aumenta em 50% a produção [ICON_RESEARCH]Científica de uma cidade e proporciona +1 em [ICON_CULTURE]Cultura. Uma civilização deve ter uma Biblioteca em todas as cidades para poder construir um Colégio Nacional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_PEDIA">
 			<Text>Uma Epopeia Nacional é um poema ou uma história que descreve a origem de uma nação, seu caráter ou um acontecimento relevante de sua história. O "Épico de Sundiata" é uma epopeia de Mali. "O canto de Hiawatha" é uma epopeia dos Estados Unidos. O "Kalevala" é uma epopeia Finlandesa. Em um aspecto mais moderno, "Guerra e Paz" é uma epopeia nacional Russa e "Roots: A Saga de uma Família Americana" é outra epopeia Americana.</Text>
@@ -723,7 +723,7 @@
 			<Text>A Usina Nuclear aumenta significativamente a produtividade de uma cidade. Para poder construí-la é necessário um recurso de [ICON_RES_URANIUM]Urânio e a cidade precisa possuir uma Fábrica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY_STRATEGY">
-			<Text>O {TXT_KEY_BUILDING_OBSERVATORY} só pode ser construído em uma cidade que esteja próxima de uma {TXT_KEY_TERRAIN_MOUNTAIN}. Aumenta muito a produção [ICON_RESEARCH]científica da cidade.</Text>
+			<Text>O {TXT_KEY_BUILDING_OBSERVATORY} só pode ser construído em uma cidade que esteja próxima de uma {TXT_KEY_TERRAIN_MOUNTAIN}. Aumenta muito a produção [ICON_RESEARCH]Científica da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
 			<Text>A Casa de Ópera é um edifício do Renascimento que aumenta a [ICON_CULTURE]Cultura da cidade, que precisa ter um Templo ou uma Mesquita Piramidal de Lama para poder construí-la.</Text>
@@ -756,7 +756,7 @@
 			<Text>A Torre de Porcelana fornece +2 para [ICON_RESEARCH]Ciência para cada especialista que há em cada cidade. Também proporciona +1 em [ICON_CULTURE]Cultura e +2 pontos de Grande Cientista. Obviamente, é a Maravilha perfeita da Era Medieval para quem quer a supremacia tecnológica. Se for construir esta Maravilha, você deve atribuir a maior quantidade de especialistas que puder em suas cidades na medida do possível. Para obter um benefício extra, torne-os especialistas científicos e conseguirá um efeito multiplicador em seu crescimento tecnológico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PUBLIC_SCHOOL_STRATEGY">
-			<Text>A Escola Pública é um edifício da fase mediana do jogo que aumenta a produção [ICON_RESEARCH]científica da cidade, que deve possuir uma Universidade ou Wat para poder construí-la.</Text>
+			<Text>A Escola Pública é um edifício da fase mediana do jogo que aumenta a produção [ICON_RESEARCH]Científica da cidade, que deve possuir uma Universidade ou Wat para poder construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID_STRATEGY">
 			<Text>As Pirâmides proporcionam um {TXT_KEY_BUILDING_GRANARY} grátis em cada cidade. Também fornece +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Engenheiro. Os {TXT_KEY_BUILDING_GRANARY[2]} aumentam em +2 o fluxo de [ICON_FOOD]Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
@@ -813,7 +813,7 @@
 			<Text>As Nações Unidas desencadeia a votação da Vitória Diplomática. Consulte a seção sobre Vitória para obter mais detalhes, mas em resumo, se um líder tem boas relações com outros líderes, ele pode ser votado como Líder Mundial e ganhar o jogo. O jogador que construir as Nações Unidas receberá um voto adicional na escolha do Líder Mundial. A ONU também proporciona +1 em [ICON_CULTURE]Cultura e +2 pontos de Grande Mercador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_STRATEGY">
-			<Text>A Universidade é um edifício da Era Medieval. Aumenta a produção [ICON_RESEARCH]científica da cidade e ainda é mais eficaz se a cidade estiver construída próximo de hexágonos com {TXT_KEY_FEATURE_JUNGLE}. A cidade deve ter uma Biblioteca (ou Fábrica de Papel) para poder construir uma Universidade.</Text>
+			<Text>A Universidade é um edifício da Era Medieval. Aumenta a produção [ICON_RESEARCH]Científica da cidade e ainda é mais eficaz se a cidade estiver construída próximo de hexágonos com {TXT_KEY_FEATURE_JUNGLE}. A cidade deve ter uma Biblioteca (ou Fábrica de Papel) para poder construir uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
 			<Text>A Muralha aumenta a [ICON_STRENGTH]Força de Defesa da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>
@@ -822,7 +822,7 @@
 			<Text>Um "Wat" é um templo e monastério Budista encontrado no Camboja, Tailândia, ou Laos. A tradução literal de "wat" é "escola", e na verdade os wats Siameses eram lugares de culto e aprendizagem. Um wat consiste de um templo que contém estátuas de Buda, uma sala de orações, uma sala contendo textos religiosos, um pavilhão para relaxamento, uma biblioteca, sala de estudo, campanários e alojamentos. Pode ser um único edifício ou um conjunto deles - uma pequena cidade. Construído no século 12, o Angkor Wat no Angkor, Camboja, é um dos maiores e melhor conservados de todo o Sudeste Asiático.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WAT_STRATEGY">
-			<Text>O Wat é um edifício exclusivo Siamês que substitui a Universidade. O Wat aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento de suas fronteiras e a aquisição de Políticas Sociais. Também fornece um bônus [ICON_RESEARCH]científico para a cidade.</Text>
+			<Text>O Wat é um edifício exclusivo Siamês que substitui a Universidade. O Wat aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento de suas fronteiras e a aquisição de Políticas Sociais. Também fornece um bônus [ICON_RESEARCH]Científico para a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WATERMILL_STRATEGY">
 			<Text>O Moinho d'Água só poder ser construído em uma cidade próxima a um rio. Aumenta o fluxo de [ICON_FOOD]Alimentos da cidade.</Text>
@@ -8949,7 +8949,7 @@
 			<Text>Crie Comerciantes para aumentar a produção de [ICON_GOLD]Ouro da cidade e acelerar a criação de Grandes Comerciantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_STRATEGY">
-			<Text>Crie Cientistas para aumentar a produção [ICON_RESEARCH]científica da cidade e acelerar a criação de Grandes Cientistas.</Text>
+			<Text>Crie Cientistas para aumentar a produção [ICON_RESEARCH]Científica da cidade e acelerar a criação de Grandes Cientistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ABILITIES_ADV_QUEST">
 			<Text>Quais são as habilidades das Grandes Pessoas?</Text>

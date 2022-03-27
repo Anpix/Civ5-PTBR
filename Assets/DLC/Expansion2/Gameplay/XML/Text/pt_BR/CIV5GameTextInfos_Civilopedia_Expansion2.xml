@@ -1070,7 +1070,7 @@
 			<Text>Mercados aumentam a quantidade de [ICON_GOLD]Ouro gerado na cidade. Rotas comerciais de outros jogadores fazem a cidade com o Mercado gerar +2 de [ICON_GOLD]Ouro extra para o propietário da cidade e +1 de [ICON_GOLD]Ouro para o proprietário da rota de comércio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_STRATEGY">
-			<Text>Além da produção [ICON_RESEARCH]científica da Biblioteca que ela substitui, a Biblioteca Real também possui um espaço de Grande Obra de Escrita. Uma vez preenchida com uma Grande Obra, ela fornece XP extra para Unidades treinadas nesta cidade, por isso coloque aqui uma Grande Obra o mais rápido possível para o máximo benefício. Somente os Assírios podem construí-lo.</Text>
+			<Text>Além da produção [ICON_RESEARCH]Científica da Biblioteca que ela substitui, a Biblioteca Real também possui um espaço de Grande Obra de Escrita. Uma vez preenchida com uma Grande Obra, ela fornece XP extra para Unidades treinadas nesta cidade, por isso coloque aqui uma Grande Obra o mais rápido possível para o máximo benefício. Somente os Assírios podem construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_STRATEGY">
 			<Text>O farol só pode ser construído em uma cidade ao lado de um ladrilho costeiro. Aumenta a produção de [ICON_FOOD]Alimentos dos ladrilhos de água e dos [ICON_RES_FISH]Peixes e aumenta a [ICON_PRODUCTION]Produção de todos os recursos do mar.</Text>
