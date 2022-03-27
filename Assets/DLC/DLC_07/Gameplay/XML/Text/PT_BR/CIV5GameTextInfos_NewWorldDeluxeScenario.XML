@@ -623,13 +623,13 @@
 			<Text>Trickster's Weapon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL_NWS_HELP">
-			<Text>+2 [ICON_MOVES] Movement and +1 Sight.</Text>
+			<Text>+2 de [ICON_MOVES]Movimento e +1 de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_NATIVE_TONGUE_HELP">
 			<Text>Receives [ICON_PEACE] Faith when a Natural Wonder is Discovered. (More if the first to discover it, but none if one of your other units with this promotion has already discovered it)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_NWS_HELP">
-			<Text>+2 [ICON_MOVES] Movement.</Text>
+			<Text>+2 de [ICON_MOVES]Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OBSIDIAN_TIP">
 			<Text>Obsidian Tip</Text>
@@ -680,7 +680,7 @@
 		</Row>
 		<!-- Traits-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_OCEAN_MOVEMENT">
-			<Text>+2 [ICON_MOVES] Movement for all naval units. [ICON_GOLDEN_AGE] Golden Ages last 50% longer.</Text>
+			<Text>+2 de [ICON_MOVES]Movimento para todas as unidades navais. [ICON_GOLDEN_AGE]Eras Douradas duram 50% mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LUXURY_RETENTION">
 			<Text>50% more trade routes available. (Round down)</Text>

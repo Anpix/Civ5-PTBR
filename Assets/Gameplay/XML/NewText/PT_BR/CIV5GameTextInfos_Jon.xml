@@ -2888,7 +2888,7 @@
 			<Text>+1 de [ICON_GOLD]Ouro de hexágonos aquáticos explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_LIGHTHOUSE_HELP">
-			<Text>Todas as unidades navais recebem +1 de [ICON_MOVES]movimento e +1 de visão. Fornece um Farol gratuito na cidade onde ele for construído.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
+			<Text>Todas as unidades navais recebem +1 de [ICON_MOVES]Movimento e +1 de visão. Fornece um Farol gratuito na cidade onde ele for construído.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_ORACLE_HELP">
 			<Text>1 política social gratuita.</Text>
@@ -2900,7 +2900,7 @@
 			<Text>A velocidade da construção de melhorias em hexágonos aumenta em 25% e dois Trabalhadores aparecem próximos à cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_WALL_HELP">
-			<Text>Unidades terrestres inimigas gastam 1 [ICON_MOVES]movimento extra por hexágono quando estão no seu território. Fornece Muralhas gratuitas na cidade onde ela for construída.[NEWLINE]Após a descoberta da Dinamite, A Grande Muralha se tornará obsoleta.</Text>
+			<Text>Unidades terrestres inimigas gastam 1 [ICON_MOVES]Movimento extra por hexágono quando estão no seu território. Fornece Muralhas gratuitas na cidade onde ela for construída.[NEWLINE]Após a descoberta da Dinamite, A Grande Muralha se tornará obsoleta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
 			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas em todas as cidades. Uma [ICON_GREAT_PEOPLE]Grande Pessoa de sua escolha aparece próxima à [ICON_CAPITAL]Capital.</Text>

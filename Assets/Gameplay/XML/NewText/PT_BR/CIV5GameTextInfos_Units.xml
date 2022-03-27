@@ -977,7 +977,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_HELP">
-			<Text>+1 de [ICON_MOVES]movimento e +1 de visão</Text>
+			<Text>+1 de [ICON_MOVES]Movimento e +1 de visão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
 			<Text>Tradição Naval</Text>
@@ -985,7 +985,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE_HELP">
-			<Text>+1 de [ICON_MOVES]movimento e +1 de visão</Text>
+			<Text>+1 de [ICON_MOVES]Movimento e +1 de visão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE">
 			<Text>Grande Farol</Text>
