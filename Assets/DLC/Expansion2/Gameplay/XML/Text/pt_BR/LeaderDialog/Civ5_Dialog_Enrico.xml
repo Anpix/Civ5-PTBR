@@ -49,7 +49,7 @@
             <Text>O que posso dizer... alguns sonhos prosperam, outros são esmagados.</Text>
         </Row>
         <!-- Neutro -->
-        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <!-- Cumprimentos (reuniões subsequentes) -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_1">
             <Text>Bem-vindo!</Text>
         </Row>
@@ -122,7 +122,7 @@
             <Text>Vá em frente.</Text>
         </Row>
         <!-- Feliz -->
-        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <!-- Cumprimentos (reuniões subsequentes) -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_3">
             <Text>Saudações!</Text>
         </Row>
@@ -195,7 +195,7 @@
             <Text>Sim?</Text>
         </Row>
         <!-- Irritado -->
-        <!-- Cumprimentos (reuniões subseqüentes) -->
+        <!-- Cumprimentos (reuniões subsequentes) -->
         <Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_5">
             <Text>O que você quer?</Text>
         </Row>

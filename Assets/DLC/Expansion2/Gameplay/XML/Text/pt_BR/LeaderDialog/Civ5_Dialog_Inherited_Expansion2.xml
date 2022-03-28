@@ -49,7 +49,7 @@
 		 <Text>Em geral, o homem que é governado pela sua consciência vai cooperar com seus semelhantes. Ele sabe de onde ele vem e para onde vai. E você?</Text>
 	   </Row>    
 	   <!-- Neutro -->
-	   <!-- Cumprimentos (reuniões subseqüentes) -->
+	   <!-- Cumprimentos (reuniões subsequentes) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1">
 		 <Text>Mil saudações.</Text>
 	   </Row>
@@ -122,7 +122,7 @@
 		 <Text>Vá em frente.</Text>
 	   </Row>    
 	   <!-- Feliz -->
-	   <!-- Cumprimentos (reuniões subseqüentes) -->
+	   <!-- Cumprimentos (reuniões subsequentes) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3">
 		 <Text>Bem-vindo!</Text>
 	   </Row>
@@ -189,7 +189,7 @@
 		 <Text>Estou ouvindo.</Text>
 	   </Row>    
 	   <!-- Irritado -->
-	   <!-- Cumprimentos (reuniões subseqüentes) -->
+	   <!-- Cumprimentos (reuniões subsequentes) -->
 	   <Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5">
 		 <Text>Bem...</Text>
 	   </Row>

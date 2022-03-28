@@ -41,7 +41,7 @@
         </Row>
         <!--Defeated and removed from game -->
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1">
-            <Text>Oh, Senhor! Por que esquecestes de mim? Eu não estava fazendo o seu trabalho? ... Como pude perder?</Text>
+            <Text>Oh, Senhor! Por que esquecestes de mim? Eu não estava fazendo o seu trabalho? Como pude perder?</Text>
         </Row>
         <Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_2">
             <Text>Eu vou um Vasa! Você não pode me destruir por completo. Embora eu possa cair, o espírito da minha Casa continua e sempre será um tormento para você.</Text>
