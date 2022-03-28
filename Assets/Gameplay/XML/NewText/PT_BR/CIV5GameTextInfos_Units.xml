@@ -482,7 +482,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2">
 			<Text>Choque II</Text>
@@ -490,7 +490,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3">
 			<Text>Choque III</Text>
@@ -498,7 +498,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
+			<Text>+25% de [ICON_STRENGTH]Força de Combate em Terreno [COLOR_POSITIVE_TEXT]ABERTO[ENDCOLOR]. (SEM {TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1">
 			<Text>Broca I</Text>
@@ -506,7 +506,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2">
 			<Text>Broca II</Text>
@@ -514,7 +514,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
-			<Text>+20% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3">
 			<Text>Broca III</Text>
@@ -522,7 +522,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
-			<Text>+25% de [ICON_STRENGTH]Força de Combate ao combater em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
+			<Text>+25% de [ICON_STRENGTH]Força de Combate em Terreno [COLOR_POSITIVE_TEXT]ACIDENTADO[ENDCOLOR]. ({TXT_KEY_TERRAIN_HILL[2]}, {TXT_KEY_FEATURE_FOREST[2]} ou {TXT_KEY_FEATURE_JUNGLE[2]})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1">
 			<Text>Precisão I</Text>
@@ -977,7 +977,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_HELP">
-			<Text>+1 de [ICON_MOVES]movimento e +1 de visão</Text>
+			<Text>+1 de [ICON_MOVES]Movimento e +1 de visão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
 			<Text>Tradição Naval</Text>
@@ -985,7 +985,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE_HELP">
-			<Text>+1 de [ICON_MOVES]movimento e +1 de visão</Text>
+			<Text>+1 de [ICON_MOVES]Movimento e +1 de visão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE">
 			<Text>Grande Farol</Text>

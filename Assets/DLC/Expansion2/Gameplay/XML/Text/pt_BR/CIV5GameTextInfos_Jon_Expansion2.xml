@@ -305,7 +305,7 @@
             <Text>Capacidades Laborais</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_WORKERS_FACULTIES_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Capacidades Laborais[ENDCOLOR][NEWLINE]Fábricas aumenta a produção de [ICON_RESEARCH]Ciência das cidades em 25%. Construa Fábricas na metade do tempo normal.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Capacidades Laborais[ENDCOLOR][NEWLINE]Fábricas aumenta a produção [ICON_RESEARCH]Científica das cidades em 25%. Construa Fábricas na metade do tempo normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN">
             <Text>Plano Quinquenal</Text>
@@ -753,7 +753,7 @@
             <Text>A Casa de Ópera é um edifício da Era Renascentista que aumenta a [ICON_CULTURE]Cultura de uma cidade. A cidade precisa possuir um {TXT_KEY_BUILDING_AMPHITHEATER} para poder construir a Casa de Ópera. Contém 1 espaço para uma Grande Obra Musical.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
-            <Text>O Museu é um edifício do meio do jogo que aumenta a produção de [ICON_CULTURE]Cultura da cidade. A cidade precisa possuir uma Casa de Ópera (ou um Salão Ceilidh) para construir o Museu. Contém 2 espaços para Grandes Obras de Arte.</Text>
+            <Text>O Museu é um edifício do meio do jogo que aumenta a produção [ICON_CULTURE]Cultural da cidade. A cidade precisa possuir uma Casa de Ópera (ou um Salão Ceilidh) para construir o Museu. Contém 2 espaços para Grandes Obras de Arte.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_PALACE_HELP">
             <Text>Indica que esta cidade é a [ICON_CAPITAL]Capital do império. Contém 1 espaço para uma Grande Obra de Arte.[NEWLINE][NEWLINE][ICON_CONNECTED]Conectando outras cidades à [ICON_CAPITAL]Capital por Estradas, [ICON_GOLD]Ouro adicional será produzido.[NEWLINE][NEWLINE]+3 de [ICON_PRODUCTION]Produção, +3 de [ICON_RESEARCH]Ciência, +3 de [ICON_GOLD]Ouro</Text>

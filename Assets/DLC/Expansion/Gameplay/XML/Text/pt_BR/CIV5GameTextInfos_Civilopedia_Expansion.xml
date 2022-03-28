@@ -1281,13 +1281,13 @@
 			<Text>Comumente encontrado em toda a Ásia, o Pagode é um estilo arquitetônico que consiste em uma torre de várias camadas, tipicamente com beirais de grandes dimensões e um remate proeminente em seu pico. A maioria dos pagodes está associada à religião budista, pois eles eram frequentemente construídos sobre ou perto de complexos de templos budistas para abrigar relíquias sagradas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_STRATEGY">
-			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades que seguem uma religião com a crença de Catedrais. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença nas Mesquitas. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAGODA_STRATEGY">
-			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa este edifício comprando-o com [ICON_PEACE] Fé.</Text>
+			<Text>Só pode ser construído em cidades seguindo uma religião com a crença dos Pagodes. Construa este edifício comprando-o com [ICON_PEACE]Fé.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CEILIDH_HALL_TEXT">
 			<Text>Tradicionalmente, um "Ceilidh" era uma reunião social primeiramente associada ao povo da Irlanda e da Escócia. Realizados com freqüência ao longo do ano, os ceilidhs eram frequentemente acompanhados de música e dança e forneciam uma importante diversão social dos trabalhos da vida cotidiana. Os ceilidhs eram realizados em salões quando disponíveis, mas também eram conhecidos por terem ocorrido em residências particulares, escolas e empresas locais.</Text>
@@ -1756,7 +1756,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_STADIUM_DESC}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE]Cultura de uma cidade.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção [ICON_CULTURE]Cultural de uma cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
 			<Text>Permite o treinamento da unidade terrestre básica [COLOR_POSITIVE_TEXT]Infante[ENDCOLOR] e a construção da [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR], que melhora a defesa da Cidade.</Text>
@@ -1879,7 +1879,7 @@
 			<Text>Permite a construção do primeiro edifício [ICON_RESEARCH]Científico, a [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR], que ajuda o seu Império a pesquisar novas tecnologias mais rapidamente. Também permite o estabelecimento de Embaixadas em outras civilizações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-			<Text>A Casa de Ópera é um edifício da Renascença que aumenta a [ICON_CULTURE] Cultura da cidade. A cidade precisa ter um {TXT_KEY_BUILDING_AMPHITHEATER} para construir a Casa de Ópera.</Text>
+			<Text>A Casa de Ópera é um edifício da Renascença que aumenta a [ICON_CULTURE]Cultura da cidade. A cidade precisa ter um {TXT_KEY_BUILDING_AMPHITHEATER} para construir a Casa de Ópera.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ERA_FUTURE">
 			<Text>Information Era</Text>

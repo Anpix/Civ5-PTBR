@@ -358,7 +358,7 @@
 			<Text>Rebel Yell</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MORALE_HELP">
-			<Text>+10% [ICON_STRENGTH] Combat Strength.</Text>
+			<Text>+10% de [ICON_STRENGTH]Força de Combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BALLOON_RECON">
 			<Text>Balloon Reconnaissance</Text>

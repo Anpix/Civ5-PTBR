@@ -486,7 +486,7 @@
 			<Text>Double Pyramid</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Double Pyramid[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith from Shrines and Temples.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_DOUBLE_PYRAMID}[ENDCOLOR][NEWLINE]+1 [ICON_PEACE]Fé de {TXT_KEY_BUILDING_SHRINE[2]} e {TXT_KEY_BUILDING_TEMPLE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_TEXT">
 			<Text>At the height of their empire's extent, the Aztecs constructed a number of double pyramids, which consisted of a massive pyramidal platform with a double stairway leading to twin temples, in some cases themselves pyramids. The earliest example yet discovered is that at Tenayuca, which was already built when the Aztecs conquered the town around 1434 AD.</Text>
@@ -543,7 +543,7 @@
 			<Text>Pyramid of the Gods</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Pyramid of the Gods[ENDCOLOR][NEWLINE]+6 [ICON_PEACE] Faith from each World Wonder.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_PYRAMID_OF_THE_GODS}[ENDCOLOR][NEWLINE]+6 [ICON_PEACE]Fé de cada Maravilha Mundial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_TEXT">
 			<Text>Mesoamerican step pyramids - more similar to Mesopotamian ziggurats than to smooth-sided pyramids - were the dominant architectural form for most religious structures in the Olmec, Aztec, Mayan, Zapotec, Tarascan and other societies. Often with elaborate symbolic carvings, reliefs, murals and mosaics, the largest of these (such as the Great Pyramid of Cholula) were enduring symbols of the power of these theocratic states.</Text>
@@ -614,7 +614,7 @@
 			<Text>City Sack</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_STATUE_ZEUS_HELP">
-			<Text>+33% [ICON_STRENGTH] Combat Strength when attacking cities.</Text>
+			<Text>+33% de [ICON_STRENGTH]Força de Combate ao atacar cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_EMBARKATION_HELP">
 			<Text>Can embark onto [COLOR_POSITIVE_TEXT]Water Tiles[ENDCOLOR]. 10% Chance this unit takes 10 damage from [COLOR_NEGATIVE_TEXT]Scurvy[ENDCOLOR] each time it moves onto a neutral or enemy water tile (unless the Navigation School has been built).</Text>
@@ -623,13 +623,13 @@
 			<Text>Trickster's Weapon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL_NWS_HELP">
-			<Text>+2 [ICON_MOVES] Movement and +1 Sight.</Text>
+			<Text>+2 de [ICON_MOVES]Movimento e +1 de visão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_NATIVE_TONGUE_HELP">
 			<Text>Receives [ICON_PEACE] Faith when a Natural Wonder is Discovered. (More if the first to discover it, but none if one of your other units with this promotion has already discovered it)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_NWS_HELP">
-			<Text>+2 [ICON_MOVES] Movement.</Text>
+			<Text>+2 de [ICON_MOVES]Movimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_OBSIDIAN_TIP">
 			<Text>Obsidian Tip</Text>
@@ -641,16 +641,16 @@
 			<Text>Smallpox</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX5_HELP">
-			<Text>+5% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+5% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX10_HELP">
-			<Text>+10% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+10% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX15_HELP">
-			<Text>+15% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+15% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SMALLPOX20_HELP">
-			<Text>+20% [ICON_STRENGTH] Combat Strength (5% For Every Difficulty Level Below or Above Prince).</Text>
+			<Text>+20% de [ICON_STRENGTH]Força de Combate (5% para cada nível de dificuldade abaixo ou acima de Príncipe).</Text>
 		</Row>
 		<!-- Score -->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO1">
@@ -680,7 +680,7 @@
 		</Row>
 		<!-- Traits-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_OCEAN_MOVEMENT">
-			<Text>+2 [ICON_MOVES] Movement for all naval units. [ICON_GOLDEN_AGE] Golden Ages last 50% longer.</Text>
+			<Text>+2 de [ICON_MOVES]Movimento para todas as unidades navais. [ICON_GOLDEN_AGE]Eras Douradas duram 50% mais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LUXURY_RETENTION">
 			<Text>50% more trade routes available. (Round down)</Text>

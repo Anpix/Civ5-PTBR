@@ -58,7 +58,7 @@
             <Text>Nós recompensaremos o jogador que obtiver a maior quantidade de [ICON_PEACE]Fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL">
-            <Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE]fé.</Text>
+            <Text>Eles recompensarão o jogador com o maior crescimento em [ICON_PEACE]Fé.</Text>
         </Row>
         <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_WINNING_FORMAL">
             <Text>{TXT_KEY_CITY_STATE_QUEST_CONTEST_FAITH_FORMAL} Até agora, você lidera com [ICON_PEACE][COLOR_POSITIVE_TEXT]{1_PlayerScore}[ENDCOLOR].</Text>
@@ -566,7 +566,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Guerra Total[ENDCOLOR][NEWLINE]+25% de [ICON_PRODUCTION]Produção quando estiver produzindo unidades militares e novas unidades militares começam com +15 de experiência.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_PLANNED_ECONOMY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção de [ICON_RESEARCH]Ciência da cidade em 25%. A construção de Fábricas demora metade do tempo normal.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção [ICON_RESEARCH]Científica da cidade em 25%. A construção de Fábricas demora metade do tempo normal.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_COMMUNISM_HELP">
             <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_COMMUNISM}[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +1 de [ICON_PRODUCTION]Produção por cada {TXT_KEY_IMPROVEMENT_MINE} ou {TXT_KEY_IMPROVEMENT_QUARRY}.</Text>

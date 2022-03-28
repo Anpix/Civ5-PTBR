@@ -67,7 +67,7 @@
             <Text>Uma das principais artes decorativas da Polinésia e a escultura ornamental. Não importa o material, seja concha, osso, madeira ou pedra, os Polinésios transformaram o que eles tinham em mãos em ornamentos excepcionais. Esculturas não eram reservadas a acessórios cerimoniais e religiosos; mesmo nas simples ferramentas de uso diário, nas colheres ou nas vigas das casas, elas eram encontradas muitas vezes com detalhes meticulosos.[NEWLINE][NEWLINE]Embora a escultura tenha sido comum em toda a Polinésia, estilos locais e materiais de preferência variavam significativamente. Por exemplo, o Havaí possuía uma boa fonte de árvores e a escultura em madeira alcançou significantes habilidades técnicas e detalhes, enquanto os residentes das outras três ilhas orientais usavam as rochas vulcânicas para construírem os maravilhosos e mundialmente conhecidos Moais.[NEWLINE][NEWLINE]As estátuas Tiki, figuras humanas estilizadas, eram as esculturas mais comuns. As figuras representavam heróis e ancestrais e acreditava-se que elas se comunicavam com o poder divino de Mana, com olhos grandes representando a consciência e dentes a mostra demonstrando o poder e a provocação. Apenas após a Segunda Guerra Mundial as "tiki" adquiriram seu significado como uma forma inculta de arte.[NEWLINE][NEWLINE]Além da escultura ornamental de objetos, os Polinésios deixaram uma variedade de petróglifos em rochas por todas as ilhas. Esses petróglifos e as enigmáticas escritas das tábuas Rongo-Rongo ainda são objetos de intensa discussão e, ocasionalmente, de teorias de conspirações.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_HELP">
-            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Moai[ENDCOLOR] nos hexágonos costeiros, melhorando a produção de [ICON_CULTURE]Cultura naqueles terrenos.</Text>
+            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Moai[ENDCOLOR] nos hexágonos costeiros, melhorando a produção [ICON_CULTURE]Cultural naqueles terrenos.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_QUOTE">
             <Text>[NEWLINE][TAB][TAB]"Eu vi o anjo no mármore e o esculpi até libertá-lo."[NEWLINE][TAB][TAB] - Michelangelo[NEWLINE][TAB]</Text>
@@ -127,13 +127,13 @@
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], a unidade de guerra mais poderosa do cenário.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SAILING_HELP">
-            <Text>Permite a construção do {TXT_KEY_UNIT_WORK_BOAT}, útil para colher recursos aquáticos como [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]Peixes[ENDCOLOR] e [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
+            <Text>Permite a construção do {TXT_KEY_UNIT_WORK_BOAT}, útil para colher recursos aquáticos como [ICON_RES_FISH][COLOR_POSITIVE_TEXT]Peixes[ENDCOLOR] e [ICON_RES_PEARLS][COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SCIENTIFIC_THEORY_HELP">
             <Text>Esta tecnologia não fornece nenhum benefício. Ela deve ser pesquisada se você terminar o resto da árvore Medieval antes da chegada dos Europeus no Pacífico. Ela representa a estagnação da tecnologia Polinésia antes do contato com civilizações mais avançadas. Ela será dada a cada civilização que entrar em contato com a expedição do Capitão James Cook.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_THEOLOGY_HELP">
-            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR] que melhoram a sua produção de [ICON_CULTURE]Cultura e [ICON_RESEARCH]Ciência, respectivamente. Também permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas.</Text>
+            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR] e da [COLOR_POSITIVE_TEXT]Biblioteca[ENDCOLOR] que melhoram a sua produção [ICON_CULTURE]Cultural e [ICON_RESEARCH]Ciência, respectivamente. Também permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
             <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma forte unidade militar. Também permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_CAMP[2]}[ENDCOLOR] em locais com [ICON_RES_DEER]Cervos, [ICON_RES_IVORY]Marfim e [ICON_RES_FUR]Peles.</Text>

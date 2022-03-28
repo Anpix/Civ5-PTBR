@@ -16,7 +16,7 @@
 			<Text>The Castle is a Medieval-era building which increases the city's Defensive Strength by 12 and Hit Points by 25. The ciy must posses Walls before the Castle can be constructed.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_HELP">
-			<Text>Cada {TXT_KEY_IMPROVEMENT_PLANTATION} explorada por esta cidade produz +1 de [ICON_GOLD]Gold, exceto {TXT_KEY_IMPROVEMENT_PLANTATION[2]} de Cacau, que quando exploradas por esta cidade produzem +3 de [ICON_GOLD]Ouro. [NEWLINE][NEWLINE]A cidade deve ter pelo menos uma {TXT_KEY_IMPROVEMENT_PLANTATION} próxima.</Text>
+			<Text>Cada {TXT_KEY_IMPROVEMENT_PLANTATION} explorada por esta cidade produz +1 de [ICON_GOLD]Ouro, exceto {TXT_KEY_IMPROVEMENT_PLANTATION[2]} de Cacau, que quando exploradas por esta cidade produzem +3 de [ICON_GOLD]Ouro. [NEWLINE][NEWLINE]A cidade deve ter pelo menos uma {TXT_KEY_IMPROVEMENT_PLANTATION} próxima.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_STRATEGY">
 			<Text>A {TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE} só pode ser constrída em uma cidade com uma {TXT_KEY_IMPROVEMENT_PLANTATION} próxima. A {TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE} aumenta a geração de [ICON_GOLD]Ouro para cada {TXT_KEY_IMPROVEMENT_PLANTATION} em um, e cada {TXT_KEY_IMPROVEMENT_PLANTATION} de Cacau aumenta a geração de [ICON_GOLD]Ouro em 2 adicionais.</Text>

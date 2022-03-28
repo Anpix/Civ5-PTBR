@@ -528,7 +528,7 @@
 			<Text>O Portão de Brandenburgo, de caráter militar/tecnológico, proporciona um ponto grátis de Grande General após a conclusão. Além disso, a Maravilha proporciona +1 para [ICON_CULTURE]Cultura e +2 pontos de Grande Cientista.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BROADCAST_TOWER_STRATEGY">
-			<Text>A Torre de Difusão é um edifício da fase avançada do jogo que aumenta a produção de [ICON_CULTURE]Cultura da cidade em 33%. A cidade deve possuir um Museu antes que possa construir uma Torre de Transmissão.</Text>
+			<Text>A Torre de Difusão é um edifício da fase avançada do jogo que aumenta a produção [ICON_CULTURE]Cultural da cidade em 33%. A cidade deve possuir um Museu antes que possa construir uma Torre de Transmissão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BURIAL_TOMB_PEDIA">
 			<Text>Os Egípcios elevaram a adoração dos antepassados a custas nunca vistos, e grande parte da riqueza desta civilização e de sua criatividade foram gastos na construção de tumbas para seus mortos. Muitas delas podem ser encontradas no Vale dos Reis, através do Rio Nilo de Tebas. Estas tumbas eram frequentemente abastecidas com parte da riqueza do falecido, tornando-as alvos de ladrões de tumbas ao longo da história.</Text>
@@ -615,7 +615,7 @@
 			<Text>O Hermitage é um museu localizado em São Petersburgo, Rússia. Construído em 1764 por Catarina, a Grande, a coleção do Hermitage contém cerca de três milhões de peças, incluindo a maior coleção de pinturas do mundo. A coleção ocupa um grande número de edifícios históricos, incluindo o extraordinário Palácio de Inverno, antiga residência oficial dos Czares de 1732 a 1917.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HERMITAGE_STRATEGY">
-			<Text>Esta maravilha nacional aumenta a produção [ICON_CULTURE]cultural da cidade em que está construída em 50%. Ela não pode ser construída a menos que a civilização tenha uma Casa de Óperas em todas as cidades.</Text>
+			<Text>Esta maravilha nacional aumenta a produção [ICON_CULTURE]Cultural da cidade em que está construída em 50%. Ela não pode ser construída a menos que a civilização tenha uma Casa de Óperas em todas as cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC_PEDIA">
 			<Text>Desde a antiguidade, uma "Epopeia Heroica" é um poema que define um povo ou uma era, e é geralmente centrado nas ações heroicas de uma ou mais pessoas. A "Odisseia" é uma dessas obras, como é a Mesopotâmica "A Epopeia de Gilgamesh" e a Anglo-saxão "Beowulf."</Text>
@@ -645,10 +645,10 @@
 			<Text>O Kremlin aumenta em 25% a bonificação de construções defensivas em todas as cidades. Também fornece +3 em [ICON_CULTURE]Cultura, +12 de Defesa e +1 ponto de Grande Cientista. Obviamente, esta Maravilha é mais efetiva se você estiver construindo os edifícios defensivos necessários - Muralhas, Castelos, etc. - mas seu bônus de +3 em [ICON_CULTURE]Cultura vale por si só.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LABORATORY_STRATEGY">
-			<Text>O Laboratório de Pesquisa é um edifício da fase avançada do jogo que aumenta significativamente a produção [ICON_RESEARCH]científica de uma cidade, que deve possuir uma Escola Pública para poder construí-lo.</Text>
+			<Text>O Laboratório de Pesquisa é um edifício da fase avançada do jogo que aumenta significativamente a produção [ICON_RESEARCH]Científica de uma cidade, que deve possuir uma Escola Pública para poder construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIBRARY_STRATEGY">
-			<Text>A Biblioteca aumenta a produção [ICON_RESEARCH]científica da cidade, acelerando a aquisição de novas tecnologias na civilização. Uma Biblioteca permite a criação de dois Cientistas Especialistas a partir da população de uma cidade, aumentando a velocidade em que aparecem os Grandes Cientistas.</Text>
+			<Text>A Biblioteca aumenta a produção [ICON_RESEARCH]Científica da cidade, acelerando a aquisição de novas tecnologias na civilização. Uma Biblioteca permite a criação de dois Cientistas Especialistas a partir da população de uma cidade, aumentando a velocidade em que aparecem os Grandes Cientistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_STRATEGY">
 			<Text>O Farol só poder ser construído em uma cidade que esteja próxima a área costeira. Aumenta a produção de [ICON_FOOD]Alimentos dos hexágonos aquáticos e do recurso [ICON_RES_FISH]Peixe.</Text>
@@ -684,7 +684,7 @@
 			<Text>A Casa da Moeda só pode ser construída em uma cidade que tenha um recurso melhor de [ICON_GOLD]Ouro ou prata próximo a ela. A Casa da Moeda aumenta a produção de [ICON_GOLD]Ouro de cada um desses recursos que a cidade tem acesso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MONASTERY_STRATEGY">
-			<Text>Os Monastérios aumentam a produção [ICON_CULTURE]cultural das cidades que estão próximas a fontes de recursos explorados de [ICON_RES_INCENSE]Incenso ou [ICON_RES_WINE]Vinho. O Monastério não pode ser construído a menos que a cidade tenha nas proximidades um desses recursos explorados.</Text> 
+			<Text>Os Monastérios aumentam a produção [ICON_CULTURE]Cultural das cidades que estão próximas a fontes de recursos explorados de [ICON_RES_INCENSE]Incenso ou [ICON_RES_WINE]Vinho. O Monastério não pode ser construído a menos que a cidade tenha nas proximidades um desses recursos explorados.</Text> 
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MONUMENT_PEDIA">
 			<Text>O Monumento é uma estrutura construída em honra de uma pessoa importante, um feito, uma divindade ou uma ideia. Os monumentos mais importantes são construídos no centro da cidade, próximo do palácio do governo ou perto dos portões principais da cidade. Há monumentos de todas as formas e tamanho: desde a Grande Esfinge de Gizé, Egito, até a Estátua da Liberdade na cidade de Nova York, EUA, passando pela Coluna de Nelson em Londres, Inglaterra. Os melhores deles conseguem que os habitantes se sintam orgulhosos de sua cidade e sua nação.</Text>
@@ -702,13 +702,13 @@
 			<Text>O Forte Mughal é um edifício da Era Medieval. É um edifício exclusivo Indiano que substitui o Castelo. O Forte Mughal melhora a Força Defensiva da cidade e aumenta um pouco a sua [ICON_CULTURE]Cultura a cada turno. Após aprender a tecnologia Voo, também concede a cidade uma bonificação de [ICON_GOLD]Ouro. Deve-se construir a Muralha para poder construir o Forte Mughal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
-			<Text>O Museu é um edifício da fase mediana do jogo que aumenta a produção [ICON_CULTURE]cultural da cidade, que deve possuir uma Casa de Ópera para poder construí-lo.</Text>
+			<Text>O Museu é um edifício da fase mediana do jogo que aumenta a produção [ICON_CULTURE]Cultural da cidade, que deve possuir uma Casa de Ópera para poder construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_COLLEGE_PEDIA">
 			<Text>Um Colégio Nacional é uma instituição estatal de ensino superior. A origem desses colégios atuais poderia remontar até as madrasah medievais islâmicas, normalmente associadas a uma mesquita que ensinavam as leis e teologia. A maioria dos países do mundo têm agora a faculdade pública e os sistemas universitários. A Universidade de Tóquio, no Japão, é uma das instituições públicas. De acordo com a Classificação Russa das Universidades do Mundo, a Universidade de Tóquio é a mais prestigiosa da Ásia e a terceira do mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_COLLEGE_STRATEGY">
-			<Text>A Maravilha do Colégio Nacional aumenta em 50% a produção [ICON_RESEARCH]científica de uma cidade e proporciona +1 em [ICON_CULTURE]Cultura. Uma civilização deve ter uma Biblioteca em todas as cidades para poder construir um Colégio Nacional.</Text>
+			<Text>A Maravilha do Colégio Nacional aumenta em 50% a produção [ICON_RESEARCH]Científica de uma cidade e proporciona +1 em [ICON_CULTURE]Cultura. Uma civilização deve ter uma Biblioteca em todas as cidades para poder construir um Colégio Nacional.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_PEDIA">
 			<Text>Uma Epopeia Nacional é um poema ou uma história que descreve a origem de uma nação, seu caráter ou um acontecimento relevante de sua história. O "Épico de Sundiata" é uma epopeia de Mali. "O canto de Hiawatha" é uma epopeia dos Estados Unidos. O "Kalevala" é uma epopeia Finlandesa. Em um aspecto mais moderno, "Guerra e Paz" é uma epopeia nacional Russa e "Roots: A Saga de uma Família Americana" é outra epopeia Americana.</Text>
@@ -723,7 +723,7 @@
 			<Text>A Usina Nuclear aumenta significativamente a produtividade de uma cidade. Para poder construí-la é necessário um recurso de [ICON_RES_URANIUM]Urânio e a cidade precisa possuir uma Fábrica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY_STRATEGY">
-			<Text>O {TXT_KEY_BUILDING_OBSERVATORY} só pode ser construído em uma cidade que esteja próxima de uma {TXT_KEY_TERRAIN_MOUNTAIN}. Aumenta muito a produção de [ICON_RESEARCH]Ciência da cidade.</Text>
+			<Text>O {TXT_KEY_BUILDING_OBSERVATORY} só pode ser construído em uma cidade que esteja próxima de uma {TXT_KEY_TERRAIN_MOUNTAIN}. Aumenta muito a produção [ICON_RESEARCH]Científica da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
 			<Text>A Casa de Ópera é um edifício do Renascimento que aumenta a [ICON_CULTURE]Cultura da cidade, que precisa ter um Templo ou uma Mesquita Piramidal de Lama para poder construí-la.</Text>
@@ -756,7 +756,7 @@
 			<Text>A Torre de Porcelana fornece +2 para [ICON_RESEARCH]Ciência para cada especialista que há em cada cidade. Também proporciona +1 em [ICON_CULTURE]Cultura e +2 pontos de Grande Cientista. Obviamente, é a Maravilha perfeita da Era Medieval para quem quer a supremacia tecnológica. Se for construir esta Maravilha, você deve atribuir a maior quantidade de especialistas que puder em suas cidades na medida do possível. Para obter um benefício extra, torne-os especialistas científicos e conseguirá um efeito multiplicador em seu crescimento tecnológico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PUBLIC_SCHOOL_STRATEGY">
-			<Text>A Escola Pública é um edifício da fase mediana do jogo que aumenta a produção [ICON_RESEARCH]científica da cidade, que deve possuir uma Universidade ou Wat para poder construí-la.</Text>
+			<Text>A Escola Pública é um edifício da fase mediana do jogo que aumenta a produção [ICON_RESEARCH]Científica da cidade, que deve possuir uma Universidade ou Wat para poder construí-la.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID_STRATEGY">
 			<Text>As Pirâmides proporcionam um {TXT_KEY_BUILDING_GRANARY} grátis em cada cidade. Também fornece +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Engenheiro. Os {TXT_KEY_BUILDING_GRANARY[2]} aumentam em +2 o fluxo de [ICON_FOOD]Alimentos de uma cidade por turno. Criar esta Maravilha logo cedo irá acelerar o crescimento urbano durante toda a partida, o que a converte em uma das Maravilhas mais poderosas.</Text>
@@ -771,7 +771,7 @@
 			<Text>Um Porto aumenta o regime de [ICON_PRODUCTION]Produção de um recurso marinho explorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SISTINE_CHAPEL_STRATEGY">
-			<Text>A Maravilha Capela Sistina aumenta em 50% a produção [ICON_CULTURE]cultural de TODAS as cidades e fornece +1 para [ICON_CULTURE]Cultura e +2 pontos de Grande Artista. Esta é uma das Maravilhas mais poderosas da Renascença.</Text>
+			<Text>A Maravilha Capela Sistina aumenta em 50% a produção [ICON_CULTURE]Cultural de TODAS as cidades e fornece +1 para [ICON_CULTURE]Cultura e +2 pontos de Grande Artista. Esta é uma das Maravilhas mais poderosas da Renascença.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SOLAR_PLANT_STRATEGY">
 			<Text>A Central de Energia Solar é um edifício da fase avançada do jogo que aumenta significativamente a [ICON_PRODUCTION]Produção de uma cidade. Para poder construir este edifício, a cidade deve ser construída em um hexágono de {TXT_KEY_TERRAIN_DESERT} ou adjacente a ele, além de possuir uma Fábrica já construída.</Text>
@@ -813,16 +813,16 @@
 			<Text>As Nações Unidas desencadeia a votação da Vitória Diplomática. Consulte a seção sobre Vitória para obter mais detalhes, mas em resumo, se um líder tem boas relações com outros líderes, ele pode ser votado como Líder Mundial e ganhar o jogo. O jogador que construir as Nações Unidas receberá um voto adicional na escolha do Líder Mundial. A ONU também proporciona +1 em [ICON_CULTURE]Cultura e +2 pontos de Grande Mercador.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_STRATEGY">
-			<Text>A Universidade é um edifício da Era Medieval. Aumenta a produção [ICON_RESEARCH]científica da cidade e ainda é mais eficaz se a cidade estiver construída próximo de hexágonos com {TXT_KEY_FEATURE_JUNGLE}. A cidade deve ter uma Biblioteca (ou Fábrica de Papel) para poder construir uma Universidade.</Text>
+			<Text>A Universidade é um edifício da Era Medieval. Aumenta a produção [ICON_RESEARCH]Científica da cidade e ainda é mais eficaz se a cidade estiver construída próximo de hexágonos com {TXT_KEY_FEATURE_JUNGLE}. A cidade deve ter uma Biblioteca (ou Fábrica de Papel) para poder construir uma Universidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
-			<Text>A Muralha aumenta a [ICON_STRENGTH]Defesa da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>
+			<Text>A Muralha aumenta a [ICON_STRENGTH]Força de Defesa da cidade, tornando-a mais difícil de ser capturada. É bastante útil para as cidades que se encontram na fronteira de uma civilização.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WAT_PEDIA">
 			<Text>Um "Wat" é um templo e monastério Budista encontrado no Camboja, Tailândia, ou Laos. A tradução literal de "wat" é "escola", e na verdade os wats Siameses eram lugares de culto e aprendizagem. Um wat consiste de um templo que contém estátuas de Buda, uma sala de orações, uma sala contendo textos religiosos, um pavilhão para relaxamento, uma biblioteca, sala de estudo, campanários e alojamentos. Pode ser um único edifício ou um conjunto deles - uma pequena cidade. Construído no século 12, o Angkor Wat no Angkor, Camboja, é um dos maiores e melhor conservados de todo o Sudeste Asiático.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WAT_STRATEGY">
-			<Text>O Wat é um edifício exclusivo Siamês que substitui a Universidade. O Wat aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento de suas fronteiras e a aquisição de Políticas Sociais. Também fornece um bônus [ICON_RESEARCH]científico para a cidade.</Text>
+			<Text>O Wat é um edifício exclusivo Siamês que substitui a Universidade. O Wat aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento de suas fronteiras e a aquisição de Políticas Sociais. Também fornece um bônus [ICON_RESEARCH]Científico para a cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WATERMILL_STRATEGY">
 			<Text>O Moinho d'Água só poder ser construído em uma cidade próxima a um rio. Aumenta o fluxo de [ICON_FOOD]Alimentos da cidade.</Text>
@@ -954,7 +954,7 @@
 			<Text>Quais são os benefícios dos especialistas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_BENEFITSSPECIALISTS_HEADING3_BODY">
-			<Text>OS especialistas fornecem os seguintes benefícios:[NEWLINE][NEWLINE]Os artistas expandem a cultura da cidade e aceleram a criação de Grandes Artistas.[NEWLINE][NEWLINE]Os mercadores aumentam produção de ouro de uma cidade e aceleram a criação de Grandes Mercadores.[NEWLINE][NEWLINE]Os cientistas expandem a ciência e aceleram a criação de Grandes Cientistas.[NEWLINE][NEWLINE]Os engenheiros aumentam a produção fora das cidades e aceleram a criação de Grandes Engenheiros.</Text>
+			<Text>OS especialistas fornecem os seguintes benefícios:[NEWLINE][NEWLINE]Os artistas expandem a cultura da cidade e aceleram a criação de Grandes Artistas.[NEWLINE][NEWLINE]Os mercadores aumentam produção de [ICON_GOLD]Ouro de uma cidade e aceleram a criação de Grandes Mercadores.[NEWLINE][NEWLINE]Os cientistas expandem a ciência e aceleram a criação de Grandes Cientistas.[NEWLINE][NEWLINE]Os engenheiros aumentam a produção fora das cidades e aceleram a criação de Grandes Engenheiros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITIES_BENEFITSSPECIALISTS_HEADING3_TITLE">
 			<Text>Benefícios dos especialistas</Text>
@@ -1239,7 +1239,7 @@
 			<Text>Amigos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GIVEGOLD_ADV_QUEST">
-			<Text>Como afeta a relação com uma Cidade-Estado ao doar Ouro [ICON_GOLD]?</Text>
+			<Text>Como afeta a relação com uma Cidade-Estado ao doar [ICON_GOLD]Ouro?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GIVEGOLD_HEADING3_BODY">
 			<Text>Uma das maneiras mais eficaz de aumentar seu total de PI é dar ouro a uma Cidade-Estado. Para isso, clique na Cidade-Estado em questão e, em seguida, escolha o item correspondente do menu.</Text>
@@ -4686,7 +4686,7 @@
 			<Text>Há três tipos de recursos em Civilization V:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE3_TEXT">
-			<Text>Recursos bônus aumentam a produção de [ICON_FOOD]alimento, [ICON_PRODUCTION]Produção ou [ICON_GOLD]ouro de um hexágono.</Text>
+			<Text>Recursos bônus aumentam a geração de [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção ou [ICON_GOLD]Ouro de um hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCES_TITLE4_TEXT">
 			<Text>Recursos de Luxo aumentam a felicidade de sua civilização e oferecem um pequeno bônus à [ICON_PRODUCTION]Produção do hexágono. Apenas uma fonte de recurso de luxo específico fornece um bônus de felicidade. Múltiplas fontes do mesmo recurso não aumentam ainda mais a felicidade de uma civilização (entretanto, eles ainda são valiosos, já que podem ser negociados com outras civilizações). No entanto, você recebe mais bônus de felicidade para cada tipo de recurso de luxo que você possua. Em outras palavras, se sua civilização possui 1 ou 2 fontes de Seda, você recebe o mesmo bônus de felicidade, mas você dobraria o bônus se você negociar a segunda Seda com outra civilização em troca de açúcar.</Text>
@@ -8937,7 +8937,7 @@
 			<Text>Tradição</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_STRATEGY">
-			<Text>Crie Artistas para aumentar a produção [ICON_CULTURE]cultural de uma cidade e para acelerar a criação de Grandes Artistas.</Text>
+			<Text>Crie Artistas para aumentar a produção [ICON_CULTURE]Cultural de uma cidade e para acelerar a criação de Grandes Artistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_CITIZEN_STRATEGY">
 			<Text>Cada cidadão desempregado agrega uma pequena quantidade à [ICON_PRODUCTION]Produção. Eles devem, quando possível, ser direcionados ao trabalho nos hexágonos ou transformados em especialistas.</Text>
@@ -8949,7 +8949,7 @@
 			<Text>Crie Comerciantes para aumentar a produção de [ICON_GOLD]Ouro da cidade e acelerar a criação de Grandes Comerciantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_STRATEGY">
-			<Text>Crie Cientistas para aumentar a produção [ICON_RESEARCH]científica da cidade e acelerar a criação de Grandes Cientistas.</Text>
+			<Text>Crie Cientistas para aumentar a produção [ICON_RESEARCH]Científica da cidade e acelerar a criação de Grandes Cientistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ABILITIES_ADV_QUEST">
 			<Text>Quais são as habilidades das Grandes Pessoas?</Text>
@@ -9216,7 +9216,7 @@
 			<Text>O que a habilidade especial Missão Comercial faz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TRADEMISSION_HEADING4_BODY">
-			<Text>Você pode consumir um Grande Mercador quando ele estiver dentro das fronteiras de uma Cidade-Estado para conduzir uma "Missão Comercial" com a Cidade-Estado, o que proporciona uma grande quantidade de [ICON_GOLD]ouro e melhora o relacionamento de sua civilização com a Cidade-Estado.</Text>
+			<Text>Você pode consumir um Grande Mercador quando ele estiver dentro das fronteiras de uma Cidade-Estado para conduzir uma "Missão Comercial" com a Cidade-Estado, o que proporciona uma grande quantidade de [ICON_GOLD]Ouro e melhora o relacionamento de sua civilização com a Cidade-Estado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_TRADEMISSION_HEADING4_TITLE">
 			<Text>Hab. Especial: Missão Comercial</Text>
@@ -9225,7 +9225,7 @@
 			<Text>Acústica é o estudo do som. Sons são ondas de energia transmitidas através dos gases, líquidos e sólidos. O aspecto mais importante da acústica, obviamente, é que os humanos podem "ouvir" sons, e muito das pesquisas atuais envolve melhoria na recepção humana de sons, especialmente para os surdos. A Acústica também é usada em outras aplicações, incluindo sonar. O sonar permite que equipamentos possam "ouvir" submarinos, animais e formações geológicas.[NEWLINE]Como a Acústica requer um meio no qual as ondas de energia podem ser transmitidas, sons não podem viajar no vácuo fora da atmosfera da Terra. É assustador mas acredite, "no espaço, ninguém pode ouvir seus gritos".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ACOUSTICS_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Casa de Ópera[ENDCOLOR], que acelera a produção de [ICON_CULTURE]Cultura.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Casa de Ópera[ENDCOLOR], que acelera a produção [ICON_CULTURE]Cultural.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ACOUSTICS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Sua ascensão repentina era como o som do trovão ouvido ao longe."[NEWLINE][TAB][TAB] - Milton</Text>
@@ -9831,7 +9831,7 @@
 			<Text>Filosofia é o estudo da realidade e do lugar do Homem nela. O termo vem da palavra Grega/Latim "philosophia", ou amor à sabedoria. E, de alguma forma, separada da Religião, que procura definir e entender alguns sistemas sobrenaturais - Filosofia dá um passo atrás e se pergunta se o sobrenatural realmente existe. A Filosofia lida com lógica, moral, observação, realismo, felicidade, vida, morte e todas outras grandes perguntas.[NEWLINE][NEWLINE]Os Gregos normalmente são creditados como os inventores da Filosofia na civilização ocidental. No século VI A.C. Tales de Mileto foi o primeiro homem conhecido a dar uma explicação puramente natural (não religiosa) para a origem do mundo. Ele acreditava que tudo veio da água; esta teoria era baseada em suas observações de animais marítimos fossilizados em terras afastadas da costa. Esta explicação não requeria nenhuma ação criativa de um ser sobrenatural; era um resultado das propriedades naturais. Filósofos posteriores teriam expandido esta teoria - exceto, claro, os filósofos que escolheram negar que nada, na verdade, existia, ou aqueles que decidiram que o mundo era, de fato, um reflexo de outro lugar, e por aí vai. O problema em examinar a realidade é que, quanto mais se observa, mais confusa ela se torna.[NEWLINE][NEWLINE]No máximo, filósofos criam métodos para que alguém possa usar para observar e julgar o mundo ao seu redor, para pensar sobre coisas que ainda não foram consideradas. Como qualquer outro método, ele pode ser utilizado para o bem ou para o mal, mas a Filosofia ao menos procura fornecer a estrutura intelectual para ajudar alguém decidir qual é qual.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_CULTURE] Cultura de uma cidade. Também fornece novas habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], uma negociação especial que pode ser realizada com outros jogadores.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção [ICON_CULTURE]Cultural de uma cidade. Também fornece novas habilidades relacionadas à [ICON_RESEARCH]Ciência, como o [COLOR_POSITIVE_TEXT]Acordo de Pesquisa[ENDCOLOR], uma negociação especial que pode ser realizada com outros jogadores.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Existe apenas um bem, o conhecimento, e um mal, a ignorância."[NEWLINE][TAB][TAB] - Sócrates[NEWLINE][TAB]</Text>
@@ -9900,7 +9900,7 @@
 			<Text>Rádio é a tecnologia de transmitir informação para um receptor remoto modificando a portadora de uma onda - amplitude, frequência ou fase. Em termos menos técnicos, em algum lugar, o transmissor transforma sons em ondas que são enviadas para a atmosfera. Distantes receptores de rádio podem pegar essas ondas e transformá-las de volta em sons.[NEWLINE][NEWLINE]Um rádio é uma máquina complicada e intrigante. Ela precisou de centenas de anos de pesquisas e desenvolvimentos, feitos por cientistas como Michael Faraday, James Maxwell, Heinrich Hertz e Guglielmo Marconi.[NEWLINE][NEWLINE]Marconi foi um físico italiano que estava trabalhando no telégrafo sem fios. Em 1894, Marconi conseguiu enviar um sinal por aproximadamente 27 metros. Ele continuou a refinar a tecnologia e, em 1901, ele transmitiu com sucesso um sinal através do Oceano Atlântico. Ele continuou a trabalhar neste campo, e no início dos anos vinte, começou o desenvolvimento das ondas curtas, que se tornaria a base para as mais modernas comunicações via rádio à longa distância.[NEWLINE][NEWLINE]O primeiro programa de rádio foi transmitido na véspera de Natal, em 1906. O primeiro jornal foi feito em 31 de agosto de 1920, em Detroit, Michigan. No final dos anos vinte, o rádio estava se tornando onipresente nos Estados Unidos e Europa. [NEWLINE][NEWLINE]O rádio teve um papel importante na Segunda Guerra Mundial. Além de permitir a comunicação entre aeronaves e navios, eles tornavam possível aos governos combatentes transmitir notícias e propagandas aos seus próprios cidadãos e aos do inimigo também. Hitler, Churchill, e Roosevelt eram todos mestres da mídia. O rádio permaneceu muito popular após os anos de guerra, particularmente nos Estados Unidos, que viu um grande crescimento nas redes e estações de transmissão. Ele se manteve dominante como forma de entretenimento até o advento da televisão nos anos 50.[NEWLINE][NEWLINE]Embora diminuído pelas tecnologias da TV e da Internet, o rádio ainda é uma fonte viável e importante de diversão e notícias para pessoas do mundo inteiro. Como rock'nroll, ele veio para ficar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção de [ICON_CULTURE] Cultura de uma cidade. Também permite a construção das [COLOR_POSITIVE_TEXT]Armas Antiaéreas[ENDCOLOR], úteis para frustrar aeronaves inimigas.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Transmissão[ENDCOLOR], uma edificação que aumenta significativamente a produção [ICON_CULTURE]Cultural de uma cidade. Também permite a construção das [COLOR_POSITIVE_TEXT]Armas Antiaéreas[ENDCOLOR], úteis para frustrar aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"O país inteiro estava ligado pelo rádio. Todos nós compartilhávamos os mesmos heróis, comediantes e cantores. Eles eram gigantes."[NEWLINE][TAB][TAB] - Woody Allen[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10095,7 +10095,7 @@
 			<Text>Teologia é o estudo da religião. Teólogos estudam as tradições e crenças religiosas. Esta prática existe na história desde os Gregos Clássicos, que possuíam uma rica mitologia e tradições religiosas para observarem. Nos séculos primeiro e segundo, a escola religiosa Judaica floresceu. O Talmude Judaico, uma coleção de notas dos Rabinos sobre a tradição oral judaica, foi publicada por volta de 200 anos d.C. e se expandiu nos próximos dois séculos. [NEWLINE][NEWLINE]Teologia é importante. Ela teve um poder incrível sobre a história humana. Milhões morreram em disputas religiosas (e alguns continuam até hoje). Os Romanos mataram Cristãos em razão da nova teologia radical que negava a existência dos deuses romanos. Cristãos mataram Judeus, Muçulmanos e outros Cristãos em diversas disputas religiosas. O revolucionário, teólogo e cristão Martin Luther iniciou um brutal conflito religioso de centenas de anos na Europa, com suas "95 teses" questionadoras, além de outras coisas como a venda de indulgências papais (perdão divino dos pecados) para a construção da Basílica de São Pedro. A Teologia terá uma importância crítica para resolver os atuais conflitos religiosos entre os radicais muçulmanos e o mundo ocidental, se é que um dia vai acabar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THEOLOGY_HELP">
-			<Text>Permite a construção de edificações úteis e especiais, além de Maravilhas, que aumentam a [ICON_CULTURE] Cultura das cidades e a habilidade de criar novas [ICON_GREAT_PEOPLE] Grandes Pessoas.</Text>
+			<Text>Permite a construção de edificações úteis e especiais, além de Maravilhas, que aumentam a [ICON_CULTURE]Cultura das cidades e a habilidade de criar novas [ICON_GREAT_PEOPLE] Grandes Pessoas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THEOLOGY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Três coisas são necessárias para a salvação do homem: saber em que deve crer, saber o que deve desejar, saber o que deve fazer."[NEWLINE][TAB][TAB] - São Tomás de Aquino[NEWLINE][TAB]</Text>

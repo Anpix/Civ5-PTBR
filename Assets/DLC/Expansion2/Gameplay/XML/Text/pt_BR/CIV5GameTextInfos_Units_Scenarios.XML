@@ -175,10 +175,10 @@
 			<Text>Green</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_CONFEDERATE_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-20% [ICON_STRENGTH] Combat Strength.[ENDCOLOR][NEWLINE][NEWLINE]Replaced with a randomly chosen new Confederate General (promotion) after the unit completes its first combat</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-20% de [ICON_STRENGTH]Força de Combate.[ENDCOLOR][NEWLINE][NEWLINE]Replaced with a randomly chosen new Confederate General (promotion) after the unit completes its first combat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_UNION_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-20% [ICON_STRENGTH] Combat Strength.[ENDCOLOR][NEWLINE][NEWLINE]Replaced with a randomly chosen new Union General (promotion) after the unit completes its first combat</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-20% de [ICON_STRENGTH]Força de Combate.[ENDCOLOR][NEWLINE][NEWLINE]Replaced with a randomly chosen new Union General (promotion) after the unit completes its first combat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_ANDERSON">
 			<Text>Richard H. Anderson</Text>
@@ -265,7 +265,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When defending in a city.[ENDCOLOR][NEWLINE][NEWLINE]His South Carolinians fought well in the Battle of the Crater, capturing 130 prisoners.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BRECKINRIDGE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] When defending in open terrain.[ENDCOLOR][NEWLINE][NEWLINE]Ran for President against Lincoln in 1860. His division participated in the repulse of the Union frontal assault at Cold Harbor.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Ran for President against Lincoln in 1860. His division participated in the repulse of the Union frontal assault at Cold Harbor.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_D_HILL_HELP">
 			<Text>[COLOR_NEGATIVE_TEXT]No bonus from Great Generals.[ENDCOLOR][NEWLINE][NEWLINE]An accomplished general whose career was hampered by his frequent feuds with his superior officers.</Text>
@@ -289,7 +289,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]+1 Visibility Range.[ENDCOLOR][NEWLINE][NEWLINE]Famed for his scouting expeditionary into Gettysburg looking for shoes that precipitated the great battle.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOKE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When attacking cities.[ENDCOLOR][NEWLINE][NEWLINE]Captured a Union garrison of three thousand in his attack at Plymouth, North Carolina, the last Confederate victory of the war.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar cidades.[ENDCOLOR][NEWLINE][NEWLINE]Captured a Union garrison of three thousand in his attack at Plymouth, North Carolina, the last Confederate victory of the war.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOLMES_HELP">
 			<Text>[COLOR_NEGATIVE_TEXT]-1 Movement.[ENDCOLOR][NEWLINE][NEWLINE]In his late fifties and suffering from memory loss, his principle assignment in the war was command of coastal garrisons.</Text>
@@ -415,7 +415,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When defending in rough terrain.[ENDCOLOR][NEWLINE][NEWLINE]Spurred his troops on to a ferocious defense of Henry House Hill during the 2nd Battle of Bull Run.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SUMNER_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] When defending in open terrain.[ENDCOLOR][NEWLINE][NEWLINE]His corps suffered disastrous losses in attacks he led at both Antietam and Fredericksburg.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]His corps suffered disastrous losses in attacks he led at both Antietam and Fredericksburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HEINTZELMAN_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]30% stronger while fighting in the capital; bonus falls off as the unit gets further away.[ENDCOLOR][NEWLINE][NEWLINE]After mediocre results in field command, was assigned to lead the defenses of Washington for the balance of the war.</Text>
@@ -439,19 +439,19 @@
 			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] Combat Strength against infantry.[ENDCOLOR][NEWLINE][NEWLINE]Killed by a sharpshooter just moments after declaring that the Confederates "couldn't hit an elephant at this distance."</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_DOUBLEDAY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] When defending in open terrain.[ENDCOLOR][NEWLINE][NEWLINE]Though most famous for his role in inventing baseball, he was a competent commander who performed admirably at Gettysburg.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Though most famous for his role in inventing baseball, he was a competent commander who performed admirably at Gettysburg.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HANCOCK_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When defending in open terrain.[ENDCOLOR][NEWLINE][NEWLINE]Organized the Union defense along Cemetery Ridge at Gettysburg after the death of his wing commander, John Reynolds.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Organized the Union defense along Cemetery Ridge at Gettysburg after the death of his wing commander, John Reynolds.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SICKLES_HELP">
-			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] When defending in open terrain.[ENDCOLOR][NEWLINE][NEWLINE]Advanced his corps into the Peach Orchard at Gettysburg, leaving his units dangerously exposed to attacks from three sides.</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]-15% de [ICON_STRENGTH] quando defendendo em terreno aberto.[ENDCOLOR][NEWLINE][NEWLINE]Advanced his corps into the Peach Orchard at Gettysburg, leaving his units dangerously exposed to attacks from three sides.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOWARD_HELP">
 			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] When defending in rough terrain.[ENDCOLOR][NEWLINE][NEWLINE]His corps was routed in successive battles at Chancellorsville and Gettysburg in 1863.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SLOCUM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] When attacking a city.[ENDCOLOR][NEWLINE][NEWLINE]Although nicknamed "Slow Come" for his hesitant marching, his troops did capture Atlanta during Sherman's attack on that city.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]+30% de [ICON_STRENGTH] ao atacar um cidade.[ENDCOLOR][NEWLINE][NEWLINE]Although nicknamed "Slow Come" for his hesitant marching, his troops did capture Atlanta during Sherman's attack on that city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WARREN_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] When defending in rough terrain.[ENDCOLOR][NEWLINE][NEWLINE]Laid out the Union defenses at Gettysburg running along Cemetery Ridge to Little Round Top.</Text>

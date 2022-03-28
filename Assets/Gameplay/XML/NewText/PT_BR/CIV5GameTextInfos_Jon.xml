@@ -341,7 +341,7 @@
 			<Text>Unidade desertada!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT">
-			<Text>Seu tesouro está vazio e sua produção de [ICON_GOLD]ouro é igual ou menor que 0 por turno! Caso seu Império atinja {1_Num} de ouro por turno, algumas das suas unidades serão forçadas a desertar!</Text> 
+			<Text>Seu tesouro está vazio e sua produção de [ICON_GOLD]Ouro é igual ou menor que 0 por turno! Caso seu Império atinja {1_Num} de ouro por turno, algumas das suas unidades serão forçadas a desertar!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT_S">
 			<Text>Perdendo ouro!</Text>
@@ -1523,7 +1523,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Oligarquia[ENDCOLOR][NEWLINE]Unidades alojadas não possuem custo de manutenção e cidades com unidades alojadas ganham 100% de [ICON_RANGE_STRENGTH]Força de Combate a Distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_LEGALISM_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Legalismo[ENDCOLOR][NEWLINE]Fornece um edifício [ICON_CULTURE]cultural gratuito nas suas 4 primeiras cidades.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Legalismo[ENDCOLOR][NEWLINE]Fornece um edifício [ICON_CULTURE]Cultural gratuito nas suas 4 primeiras cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_LANDED_ELITE_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Elite Agrária[ENDCOLOR][NEWLINE]+10% de [ICON_FOOD]Crescimento e +2 de [ICON_FOOD]Alimento na [ICON_CAPITAL]Capital.</Text>
@@ -1631,7 +1631,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Nacionalismo[ENDCOLOR][NEWLINE]15% de bônus de ataque nas batalhas dentro de território amigo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PLANNED_ECONOMY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção de [ICON_RESEARCH]Ciência das cidades em 25%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Economia Planejada[ENDCOLOR][NEWLINE]Fábricas aumentam a produção [ICON_RESEARCH]Científica das cidades em 25%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_COMMUNISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Comunismo[ENDCOLOR][NEWLINE]+2 de [ICON_PRODUCTION]Produção por cidade e +10% de [ICON_PRODUCTION]Produção quando estiver construindo Edifícios.</Text>
@@ -2347,10 +2347,10 @@
 			<Text>Irá fornecer maior [ICON_STRENGTH]defesa a qualquer unidade militar que estiver neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_FORT_HELP">
-			<Text>+50% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono.</Text>
+			<Text>+50% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
-			<Text>+100% de [ICON_STRENGTH]força defensiva para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano. Construindo a {TXT_KEY_IMPROVEMENT_CITADEL}, consumirá esta unidade.</Text>
+			<Text>+100% de [ICON_STRENGTH]Força de Defesa para qualquer unidade estacionada neste hexágono. Qualquer unidade inimiga que terminar seu turno próximo à {TXT_KEY_IMPROVEMENT_CITADEL} receberá 3 pontos de dano. Construindo a {TXT_KEY_IMPROVEMENT_CITADEL}, consumirá esta unidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_LUMBERMILL">
 			<Text>Construir [LINK=IMPROVEMENT_LUMBERMILL]{TXT_KEY_IMPROVEMENT_LUMBERMILL}[\LINK]</Text>
@@ -2549,7 +2549,7 @@
 			<Text>Não é possível fundar uma cidade tendo outra localizada a 4 hexágonos de distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_BUILD_CITY_DISABLED_UNHAPPY">
-			<Text>Não é possível fundar uma cidade quando o Império se encontra [ICON_HAPPINESS_4]Muito Infeliz. Explore os recursos de luxo ainda não tratados ou construa edifícios geradores de [ICON_HAPPINESS_1] para sair desta situação.</Text>
+			<Text>Não é possível fundar uma cidade quando o Império se encontra muito [ICON_HAPPINESS_4]Infeliz. Explore os recursos de luxo ainda não tratados ou construa edifícios geradores de [ICON_HAPPINESS_1]Felicidade para sair desta situação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_CULTURE_BOMB_DISABLED_COOLDOWN">
 			<Text>Você executou uma Bomba de Cultura recentemente e não poderá fazê-la novamente por mais {1_Num} {1: plural 1?turno; other?turnos;}.</Text>
@@ -2888,7 +2888,7 @@
 			<Text>+1 de [ICON_GOLD]Ouro de hexágonos aquáticos explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_LIGHTHOUSE_HELP">
-			<Text>Todas as unidades navais recebem +1 de [ICON_MOVES]movimento e +1 de visão. Fornece um Farol gratuito na cidade onde ele for construído.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
+			<Text>Todas as unidades navais recebem +1 de [ICON_MOVES]Movimento e +1 de visão. Fornece um Farol gratuito na cidade onde ele for construído.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_ORACLE_HELP">
 			<Text>1 política social gratuita.</Text>
@@ -2900,7 +2900,7 @@
 			<Text>A velocidade da construção de melhorias em hexágonos aumenta em 25% e dois Trabalhadores aparecem próximos à cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_WALL_HELP">
-			<Text>Unidades terrestres inimigas gastam 1 [ICON_MOVES]movimento extra por hexágono quando estão no seu território. Fornece Muralhas gratuitas na cidade onde ela for construída.[NEWLINE]Após a descoberta da Dinamite, A Grande Muralha se tornará obsoleta.</Text>
+			<Text>Unidades terrestres inimigas gastam 1 [ICON_MOVES]Movimento extra por hexágono quando estão no seu território. Fornece Muralhas gratuitas na cidade onde ela for construída.[NEWLINE]Após a descoberta da Dinamite, A Grande Muralha se tornará obsoleta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
 			<Text>+25% na geração de [ICON_GREAT_PEOPLE]Grandes Pessoas em todas as cidades. Uma [ICON_GREAT_PEOPLE]Grande Pessoa de sua escolha aparece próxima à [ICON_CAPITAL]Capital.</Text>
