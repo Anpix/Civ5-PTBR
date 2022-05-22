@@ -24,7 +24,7 @@
 			<Text>Emperor of the Western Roman Empire</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_LIVED">
-			<Text>384 - 423 AD</Text>
+			<Text>384 - 423 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_HEADING_1">
 			<Text>History</Text>
@@ -51,7 +51,7 @@
 			<Text>King of the Sassanids</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_LIVED">
-			<Text>421 - 438 AD</Text>
+			<Text>421 - 438 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_HEADING_1">
 			<Text>History</Text>
@@ -66,7 +66,7 @@
 			<Text>King of the Vandals</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_LIVED">
-			<Text>389 - 477 AD</Text>
+			<Text>389 - 477 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_HEADING_1">
 			<Text>History</Text>
@@ -87,7 +87,7 @@
 			<Text>King of the Salian Franks</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_LIVED">
-			<Text>392 - 448 AD</Text>
+			<Text>392 - 448 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_HEADING_1">
 			<Text>History</Text>
@@ -108,7 +108,7 @@
 			<Text>King of the Visigoths</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_LIVED">
-			<Text>370 - 410 AD</Text>
+			<Text>370 - 410 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_HEADING_1">
 			<Text>History</Text>

@@ -29,7 +29,7 @@
 			<Text>President of the United States of America</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_LIVED">
-			<Text>1809 - 1865 AD</Text>
+			<Text>1809 - 1865 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_1">
 			<Text>History</Text>
@@ -86,7 +86,7 @@
 			<Text>Provisional President of the Confederacy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_LIVED">
-			<Text>1808 - 1889 AD</Text>
+			<Text>1808 - 1889 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_1">
 			<Text>History</Text>
