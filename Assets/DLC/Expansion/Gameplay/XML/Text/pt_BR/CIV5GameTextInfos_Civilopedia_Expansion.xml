@@ -35,7 +35,7 @@
 			<Text>Áustria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Austríacas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AUSTRIA_FACTOID_TEXT">
 			<Text>O grande Palácio Schonbrunn em Vienna, antigo lar dos soberanos da Dinastia Habsburgo, possui mais de 1.400 cômodos e é uma grande atração turística.[NEWLINE][NEWLINE]O doce popular conhecido por PEZ foi criado na Áustria em 1927 por Eduard Haas III. O nome PEZ vem da primeira, intermediária, e última letras da palavra hortelã em alemão, "Pfefferminz."[NEWLINE][NEWLINE]Muitos dos maiores compositores clássicos do mundo eram austríacos, incluindo Wolfgang Amadeus Mozart, Joseph Haydn, e Franz Liszt.</Text>
@@ -122,7 +122,7 @@
 			<Text>Bizâncio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BYZANTIUM_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Bizantinas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BYZANTIUM_FACTOID_TEXT">
 			<Text>The term "Byzantine" is used in language to refer to an overly complex concept that goes beyond reasonable expectations of understanding, inferring that it may not be worth attempting to understand. This definition arose from the increasing complexity of the Romans' bureaucratic management schemes during the later stages of the empire.[NEWLINE][NEWLINE]Although commonly known as "Greek Fire," the infamous incendiary weapon was actually used most effectively by the Byzantine Empire, particularly by the Byzantine navy against the Arab fleets during the Byzantine-Arab Wars.[NEWLINE][NEWLINE]It was written by the historian Procopius that Emperor Justinian arranged to have silkworm eggs smuggled from China via monks using hollowed-out walking sticks, introducing silk production to the Roman Empire for the first time.[NEWLINE][NEWLINE]The song "Istanbul (Not Constantinople)," originally performed by The Four Lads in 1953, is set to the tune of "Puttin' on the Ritz" and opines about the reasons the Turks changed the city's name after conquering it.</Text>
@@ -194,10 +194,10 @@
 			<Text>The decline of the Byzantine Empire, much like its counterpart in the Western Roman Empire, took place over the course of several centuries. Historians have long debated the roots of the Byzantines' fall from grace, crediting everything from the early Arab conquests and the Byzantine-Arab Wars, to the loss of Constantinople during the Fourth Crusade as the pivotal event in the downfall of the empire. In any case, brief periods of resurgence were, seemingly without fail, always followed by newfound opposition and conflict.[NEWLINE][NEWLINE]While the Byzantines struggled with civil war during the 14th century, the Ottoman Turks embarked on a number of successful military campaigns against the Venetians and Serbians, leading to an eventual showdown with the severely weakened Byzantine Empire. It is said that the last of the Byzantine emperors, Constantine XI Palaiologos, died in combat while defending the city walls during the Ottoman siege. The Ottoman Turks led by Mehmed II successfully conquered Constantinople in 1453 AD, marking the end of both the Byzantine Empire, and the final end to any remnants of the once great Roman Empire.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CARTHAGE_TITLE">
-			<Text>Carthage</Text>
+			<Text>Cartago</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CARTHAGE_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Cartaginesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CARTHAGE_FACTOID_TEXT">
 			<Text>The name "Punic" derived from the latin name given to the Carthaginians by the Romans, "Punici," which itself came from "Poenici" designating the Phoenicians.[NEWLINE][NEWLINE]The people of Carthage worshipped the god Ba'al Hammon above all others, and he was represented by the ram. Ba'al Hammon was the god of fertility and the sky.[NEWLINE][NEWLINE]During his march to Italy, Hannibal is said to have lost vision in one of his eyes after it became infected while trudging through a marsh, but it apparently did little to slow his ambition.</Text>
@@ -272,7 +272,7 @@
 			<Text>Os Celtas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CELTS_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Celtas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CELTS_FACTOID_TEXT">
 			<Text>O "Nó Celta", um motivo artístico amplamente reconhecido e atribuído aos celtas, também foi encontrado em trabalhos romanos e cristãos posteriores. Consistindo de padrões de nós entrelaçados e muitas vezes infinitos, o estilo ainda hoje é amplamente reconhecido como uma marca da cultura celta.[NEWLINE][NEWLINE]Embora seja conhecido hoje como os "Celtas", é improvável que esse termo fosse o usado pelos antigos celtas para se descreverem. Referências históricas ao grego "Keltoi" e ao latim "Celtae" são as prováveis origens do nome moderno.[NEWLINE][NEWLINE]A cota de malha, predecessora de muitas formas europeias de armadura que se desenvolveram durante a Idade das Trevas e Idade Média, é uma invenção creditada aos celtas do século 3 a.C.</Text>
@@ -344,10 +344,10 @@
 			<Text>Nos dias atuais, "A Liga Celta", uma organização não-governamental que promove a herança e cultura celta, identifica as atuais "Nações Celtas" como Bretanha, Cornualha, Irlanda, Ilha de Man, Escócia e País de Gales. Embora essas áreas sirvam como os bastiões primários da língua e da herança celta, em todo o mundo, estima-se que os povos de ascendência celta chegam a milhões. As seis línguas celtas sobreviventes ainda em uso hoje são atribuídas a essas seis regiões correspondentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TITLE">
-			<Text>Ethiopia</Text>
+			<Text>Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Etíopes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT">
 			<Text>The calendar used in Ethiopia, known as the Ge'ez, is based on the Coptic Calendar developed in ancient Egypt. Thanks to the Ge'ez, Ethiopia is the only nation in the world with a 13th month.[NEWLINE][NEWLINE]Legend has it that the stimulating effects of coffee were first discovered in Ethiopia, when a goatherd named Kaldi observed his goats bucking wildly after eating the berries of a coffee plant.[NEWLINE][NEWLINE]Ethiopia's capital city of Addis Ababa is one of the highest capitals in the world, sitting at an elevation nearly 8000 ft (2400m) above sea level.</Text>
@@ -425,10 +425,10 @@
 			<Text>Known today as the Federal Democratic Republic of Ethiopia, the nation faces a number of major socio-economic issues as the second most populous country in Africa. The wide-ranging geographic isolation facing some groups within the country has made it increasingly difficult to provide education, healthcare, and, in many cases, the basic necessities of life. Although the nation currently holds multiparty elections, corruption within the government is a constant concern, and crackdowns in recent years have led to international condemnation over the killing of protesters and opposition party members.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HUNS_TITLE">
-			<Text>The Huns</Text>
+			<Text>Os Hunos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HUNS_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Hunas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_HUNS_FACTOID_TEXT">
 			<Text>The Italian composer Giuseppe Verdi wrote the opera "Attila" in 1846, which provides a fictional account of Attila's death at the hands of Odabella, a woman he was pursuing.[NEWLINE][NEWLINE]The Romans nicknamed Attila "The Scourge of God," undoubtedly because of his relentless pursuit of conquest, primarily at the Romans' expense.[NEWLINE][NEWLINE]Some historians suspect the Huns practiced "headbinding," a process in which they bound the head of an infant with cloth or other materials in order to change its shape. It is believed the Huns hoped to intimidate their enemies by creating broad, flat faces for their men. </Text>
@@ -482,10 +482,10 @@
 			<Text>Although mysterious in origin, by most accounts, the Huns ate, slept, and died on horseback, which helps explain why they were known throughout history for their expertise in mounted combat and equestrianism. Sustained primarily by their efforts as herdsmen and shepherds, the Huns kept a variety of livestock that provided mobile food sources as well as hides for clothing. They were also gifted archers who would hone their skills through frequent hunts, employing specially crafted composite bows that made them deadly to adversary and prey alike.[NEWLINE][NEWLINE]Despite their legacy as conquerors, the Huns also had skilled craftsmen and artisans among their people. A number of bronze artifacts attributed to the Huns have been found within the regions they once inhabited, including bronze cauldrons thought to have been used in Hunnic burial rituals.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_TITLE">
-			<Text>Maya</Text>
+			<Text>Maias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Maias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_FACTOID_TEXT">
 			<Text>Priests within the Maya society were often tasked with providing a variety of medicinal treatments to the people, prescribing anything from herbal remedies to "sweat baths," akin to a modern sauna.[NEWLINE][NEWLINE]Modern Maya women traditionally wear a type of blouse or dress known as a "Huipil," featuring bright colors and distinctive patterns that are unique to the village of their origin.[NEWLINE][NEWLINE]The Maya are thought to be the originators of the ancient predecessor to hot chocolate. Found predominantly within the Maya territory, cocoa beans were dried and ground, mixed with other local ingredients into a paste, and added to water to create a chocolate drink.</Text>
@@ -497,28 +497,28 @@
 			<Text>Clima e Terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_3">
-			<Text>Periods in Maya History</Text>
+			<Text>Períodos da História Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_4">
-			<Text>Great Cities of the Maya</Text>
+			<Text>Grandes Cidades Maias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_5">
-			<Text>The Collapse</Text>
+			<Text>O Colapso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_6">
-			<Text>Maya Class Structure</Text>
+			<Text>Estrutura de Classes Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_7">
-			<Text>Agriculture and Hunting</Text>
+			<Text>Agricultura e Caça</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_8">
-			<Text>Honoring the Gods</Text>
+			<Text>Honrando os Deuses</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_9">
-			<Text>Maya Culture</Text>
+			<Text>Cultura Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_10">
-			<Text>The Maya Calendar</Text>
+			<Text>O Calendário Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MAYA_HEADING_11">
 			<Text>Colonial Incursion and Decline</Text>
@@ -563,10 +563,10 @@
 			<Text>There are an estimated seven million contemporary Maya living throughout parts of Mexico, Belize, Guatemala, Honduras, and El Salvador in the present day, many of whom still maintain aspects of their cultural heritage. Although there are more than 20 distinct languages separating the Maya, like their ancestors they are joined by a common culture and tradition, and together they continue to celebrate the legacy of the ancient Maya.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NETHERLANDS_TITLE">
-			<Text>The Netherlands</Text>
+			<Text>Os Países Baixos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NETHERLANDS_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Holandesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NETHERLANDS_FACTOID_TEXT">
 			<Text>One of the largest exports of Holland, tulips, are produced en masse throughout the country. During the height of Dutch economic power in the 17th century, an event known as "Tulip Mania" spurred widespread speculation and price manipulation in the tulip trade, driving the prices of rare tulip breeds to astronomical levels before eventually collapsing.[NEWLINE][NEWLINE]Consumed the world over, Heineken Beer, first produced in Amsterdam in 1873, is widely recognized today as a signature product of the Netherlands with its distinctive green and red labeling.[NEWLINE][NEWLINE]The name "Holland" is said to have derived from the Dutch term "holtland," meaning "Woodland" or "Wooded Land."</Text>
@@ -665,7 +665,7 @@
 			<Text>Suécia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDEN_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Suecas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SWEDEN_FACTOID_TEXT">
 			<Text>O renomado químico sueco Alfred Nobel, criador do Prêmio Nobel, registrou mais de 300 patentes e foi responsável por inúmeras descobertas científicas, incluindo a invenção da dinamite.[NEWLINE][NEWLINE]Greta Garbo, estrela de cinema do século XX, nascida Greta Lovisa Gustafsson, nasceu em Estocolmo, na Suécia, em 1905. Imigrando para os Estados Unidos em 1925, é considerada uma das maiores estrelas do cinema feminino de todos os tempos.[NEWLINE][NEWLINE]A IKEA, varejista internacional de móveis fundada na Suécia, é conhecida por sua vasta gama de produtos prontos para montar, frequentemente acompanhados de vagas instruções de montagem pictográficas.</Text>

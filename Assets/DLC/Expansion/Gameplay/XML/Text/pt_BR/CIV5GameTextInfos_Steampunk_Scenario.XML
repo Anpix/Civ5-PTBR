@@ -177,31 +177,31 @@
 		</Row>
 		<!-- historic entries -->
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_TEXT_1">
 			<Text>The Eruch Empire began as a series of impassioned debates between long established noble families about the growing chaos in the world and what could be done to stop it.  The debates soon reached a critical mass for action, fueled by the nobles' fear of an uncertain future as well as their desire to protect their wealth.  A secret council was formed, drawing on the leadership and military prowess that had been their inheritance from previous generations.  It mobilized a small but well-equipped army.  With it, the nobles carved out a large territory that would become the core of Eruch, and seceded from the old kingdoms.  Outwardly, leaders of Eruch profess the glories of civilized life, and seek to spread their ways to the ends of the earth.  They act as gentlemen in diplomatic affairs, but always have a rigid structure of military might ready to respond at their first call.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_TEXT_1">
 			<Text>The exact origins of Pulias are shrouded in mystery even to this day.  It seems to have emerged out of nowhere, yet its power and wealth seem too large to have been easily missed.  Most sources posit a single leader who saw the opportunities of new science, commerce, and most of all politics, and manipulated affairs from the shadows.  This leader sold sensitive information to rivals at a premium while using it to further the objectives of Pulias.  In the early competition between empires, many opportunities were left unexplored as rivals focused on short-term gains.  Pulias was the first to send expeditions to foreign lands, and established trade that brought riches to its citizens.  Its spies were placed in key positions across the world, gathering intelligence and ready to act.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_TEXT_1">
 			<Text>Dalmace arose out of necessity.  The turmoil of old kingdoms collapsing and new empires emerging left many people of the lower and middle classes marginalized.  Some stayed in their homelands but many fled as refugees, not knowing where to go.  They gathered in the country estates of nobles that did not have the heart or the force to deny their presence.  Soon leaders arose from the ranks of the refugees, calling for organization, protection, food, and resources.  Some nobles saw opportunity and joined their ranks, sharing their wealth.  Others refused, and their estates were ransacked.  These were the first Dalmace compounds, which would grow into cities that rivaled those of any other empire.  Dalmace is founded on ideals, and its strength comes from the tight camaraderie and evolving culture of its humble citizens.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_TEXT_1">
 			<Text>The steady advance of science brought great changes to the processes by which products were manufactured, transported, and sold.  Many otherwise shrewd businessmen could not contend with the changes and faded away, leaving room for the more adaptable.  Orlin had no political existence when it began, and no desire for empire.  It was a collection of ambitious industrialists that banded together for mutual benefit.  They parcelled out markets like territories, and together came to dominate industries throughout the old kingdoms.  When the kingdoms began to fade, the Orlin tycoons clashed in a contest for power.  They encroached on each other's ventures, and delved into blackmail and assassination.  A tight oligarchy emerged which controlled nearly all the means of production.  With their industrial capacity, and the riches it brought, they formally entered the world stage as an empire.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_TEXT_1">
 			<Text>When the old kingdoms weakened, the growing class of academics and inventors saw the opportunity to create a new kind of nation, one that was founded on principles of reason and embraced scientific advancement.  They found allies in many of the old monarchists, who were looking for a way to preserve their influence, and together they became Vedria.  Their ranks mixed quickly, and before long every prominent leader was expected to be familiar with scientific processes, if not involved in research personally.  Vedria is marked by optimism for the future to come, and its citizens believe that the noble pursuit of science is the clear path towards it.  Scientists are consulted on matters of state, and given generous funding for their research.</Text>
@@ -216,7 +216,7 @@
 			<Text>1815 - 1872 AD</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1">
 			<Text>"The military sciences are as complex as ever, yet we have more tools at our disposal than ever before.  Not a century ago, quelling the forces of a distant enemy required extensive fortifications, supply routes, and resources.  Horses had to be fed and quartered, and the loss of a supply line could mean the end of an otherwise honorable campaign.  Soldiers had to learn how to stare their enemy in the eye as they calmly readied their weapons and took life.  In our present age, soldiers can face each other in honorable combat while avoiding the savageries of the previous century.  The recent development of the Landship has made foot soldiers and cavalry all but obsolete.  Limited only by the resources needed to build it, the Landship can traverse a nation in a matter of days without need of rest.  Distant territories, once costly to conquer, are now within reach.  And with its cannons and near impenetrable armor, the Landship can easily make pliant all but the most savagely persistent of the uncivilized nations."[NEWLINE][NEWLINE] - Cyrus Rotheram, address to the Eruch Senate
@@ -232,7 +232,7 @@
 			<Text>1781 - 1836 AD</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1">
 			<Text>"With the press of a button the steam jet enters the rig and begins the fabrication.  Gears turning in the rig, pressing hot steel, shaping it into newly minted gears.  A factory for making a factory.  Maybe we will use it to make even more products; or maybe we will sell it to someone else for a wide profit.  In this simple process is the proof of industry's role in our age.  We can make airships, landships, difference engines, clothing, and even factories.  By controlling the efficiency and maximizing the output of our industrial sector, we can make whatever we want, and be the best at it."[NEWLINE][NEWLINE] - Ignace Curnow, excerpt from "Steel and Steam: An Industrialist's Guide"
@@ -248,7 +248,7 @@
 			<Text>1809 - 1888 AD</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1">
 			<Text>"There are those who say that power comes from science, and research is the way to more of it.  Others find power in inventing new military contraptions, rolling around with their Landships and locking away stores of resources.  But the true power is in none of these things.  It is in the people that make these things.  If we know what they know, then we have what they have.  Let them fight amongst themselves and strive towards new discoveries. We make it our business to match their every step from the shadows, and our collected power becomes greater than all of theirs.  If we do it right - and we must - they won't even notice."[NEWLINE][NEWLINE] - Octavius Cutler, personal correspondence with newly appointed Intelligence Director
@@ -264,7 +264,7 @@
 			<Text>1842 - 1910 AD</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TEXT_1">
 			<Text>"Technological progress has brought marvels of mechanical achievement into our everyday life and allowed us to live in class and comfort.  The whirring of the difference engines, the clack of brass gears, the steady burst of steam exhaust like the breath of a bull about to charge; these bring order into our world and allow us to perform marvels of science and computation that not only explain the natural world, but bring our order to bear firmly upon its sturdy shoulders.  Airships have lifted our leaden bodies, once eternally bound to the earth, for sorties in the skies.  With the sharp force of mind we have made real the eternal human dream of flight.  And not with wings that the whims of natural selection deemed to give us, but with wings wrought from the sweat of our own brow and the fire of our own forge."[NEWLINE][NEWLINE] - Luther Griggs, excerpt from "The Wings of Intellect"
@@ -280,7 +280,7 @@
 			<Text>1799 - 1855 AD</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1">
 			<Text>"Of this above all do I pray you remember, Mr. Secretary.  The Age of Steam has improved the livelihood of our great powers, but it has done so at the cost of the common man.  The swath of achievements in the past decades has only made more clear what has been the black mark on human history: the powerful few exploit the powerless many.  We have dismissed their difficulties as petty squabble, and appealed to our gentlemanly demeanor and productive enterprises as justification for our power, but the reality is that conditions are improving for us while they get worse for the common man.  Left unchecked, this gap will continue to grow until the common man is no more than a serf.  If I cannot appeal to you and the League on moral grounds - as it so seems, for I have tried tirelessly - let me warn you that our great society is becoming more and more unstable.  The common man may not be as educated or refined as we, but he has eyes and ears and a mind, and he will not be able to ignore the decadence of our lifestyle.  He will compare it to his own, and he will conspire with his neighbor.  Together they will grow and form a disgruntled block, and before the century is out we will have an uncontrollable rebellion on our hands.  And no amount of difference engine calculations or airship bombardments will be able to stop it, because those are built on the labor of those who have turned against us."[NEWLINE][NEWLINE] - Clinton Alderdice, letter to the Grand Secretary of the League of Empires

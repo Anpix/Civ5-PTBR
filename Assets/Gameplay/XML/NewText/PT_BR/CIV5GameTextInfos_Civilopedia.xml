@@ -1556,7 +1556,7 @@
 			<Text>Arábia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AZTECS_FACTOID_HEADING">
-			<Text>Fatos Curiosos Astecas</Text>
+			<Text>Curiosidades Astecas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_AZTECS_FACTOID_TEXT">
 			<Text>Os Espanhóis ficaram surpresos ao descobrir que Montezuma se banhava duas vezes ao dia. Os Europeus se banhavam com muito pouca frequência.[NEWLINE][NEWLINE]O cocar de Montezuma II era feito com plumas de mais de 250 pássaros.[NEWLINE][NEWLINE]Os grãos de cacau tinham muito valor para o Império Asteca. Na verdade, além de comida, o grão também era usado como moeda de troca.  A palavra chocolate vem da palavra Asteca/Maia chocolatl.[NEWLINE][NEWLINE]Atualmente existem três discos de calendários Astecas - o terceiro grande disco se chama rodada do calendário.  Os dois ciclos principais (o tonalpohualli e o xiuhpohualli) estavam sincronizados e se alinhavam uma vez a cada 52 anos.  Tratava-se de algo parecido ao equivalente Asteca do "século" e era motivo de celebrações religiosas.[NEWLINE][NEWLINE]O povo Mexica do império Asteca possuía ensino obrigatório a todos, independente do sexo ou classe (o ensino para os homens era mais completo do que para as mulheres).</Text>
@@ -1959,7 +1959,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CHINA_FACTOID_HEADING">
-			<Text>Fatos Curiosos Chineses</Text>
+			<Text>Curiosidades Chinesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_CHINA_FACTOID_TEXT">
 			<Text>Ao contrário da crença comum, é impossível ver a Muralha da China do espaço - ela é muito estreita.[NEWLINE][NEWLINE]Os Chineses já usavam as impressões digitais em 700 d.C.[NEWLINE][NEWLINE]O sorvete foi inventado na China em torno de 2000 a.C.: eles enterravam o leite e o arroz cozido na neve. Marco Polo levou as receitas de sorvete e macarrão para Europa.[NEWLINE][NEWLINE]Três dos dez rios mais longos do mundo nascem na China, e outros três na Mongólia.[NEWLINE][NEWLINE]O maior outdoor do mundo media 300 metros de comprimento e 45 metros de altura, com vista para o Rio Yangtze River, em Chongqing no sudeste da China. No entanto, havia tanta neblina nesta área que ninguém anunciava desde 1998. Recentemente, ele foi demolido.[NEWLINE][NEWLINE]As pessoas bebem chá na China há mais de 1800 anos. O chá branco Chinês é um pouco mais do que água fervida.</Text>
@@ -2142,7 +2142,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_EGYPT_FACTOID_HEADING">
-			<Text>Fatos Curiosos Egípcios</Text>
+			<Text>Curiosidades Egípcias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_EGYPT_FACTOID_TEXT">
 			<Text>Os egípcios foram os primeiros produtores de vinho.[NEWLINE][NEWLINE]De acordo com alguns antigos mitos, as abelhas foram criadas das lágrimas de Rá, Deus Sol.[NEWLINE][NEWLINE]Trabalhadores egípcios organizaram a primeira greve conhecida.[NEWLINE][NEWLINE]O primeiro tratado de paz conhecido e documentado foi celebrado entre Ramsés II e Hattusili III do Império Hitita.[NEWLINE][NEWLINE]Ao contrário do mito popular, não se sabe como a Esfinge perdeu seu nariz. Há desenhos da Esfinge sem nariz datados de 1737, mais de 60 anos antes de Napoleão chegar ao Egito. O único autor conhecido do ato foi o clérigo Islâmico, Sa'im al-dahr, que foi linchado em 1378 pelo seu vandalismo.[NEWLINE][NEWLINE]Também ao contrário da crença popular, esqueletos encontrados mostram que pelo menos alguns construtores das pirâmides eram de origem egípcia, e não escravos estrangeiros, alguns dos quais foram trabalhadores permanentes do faraó, e outros camponeses empregados após o período de germinação.</Text>
@@ -2205,7 +2205,7 @@
 			<Text>Egito</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ENGLAND_FACTOID_HEADING">
-			<Text>Fatos Curiosos Ingleses</Text>
+			<Text>Curiosidades Inglesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ENGLAND_FACTOID_TEXT">
 			<Text>Os Ingleses consomem mais chá per capita do que qualquer outro país do mundo: três vezes que no Japão e incríveis 22 vezes mais que na América ou na França [NEWLINE][NEWLINE]O primeiro zoológico do mundo público abriu em Londres em 1829. [NEWLINE][NEWLINE]O banco da Inglaterra é um dos poucos com o seu próprio apelido: A Velha Senhora da Threadneedle Street [NEWLINE][NEWLINE]Antes da invenção do relógio mecânico, no século 14, a máquina mais complexa da Europa (e talvez do mundo) foi um órgão de tubos na catedral de Winchester, Inglaterra, concluído cerca de 950 d.C. Ele tinha 400 tubos e 70 homens foram necessários para operar seus 26 foles.[NEWLINE][NEWLINE]A rainha Berengária, a esposa de Richard Coração de Leão, nunca colocou os pés em solo Inglês - ela governou da Itália e da França.[NEWLINE][NEWLINE]As deliciosas ostras Colchester foram uma das principais razões para a invasão da Grã-Bretanha pelos Romanos, em 43 d.C.</Text>
@@ -2495,7 +2495,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FRANCE_FACTOID_HEADING">
-			<Text>Fatos Curiosos Franceses</Text>
+			<Text>Curiosidades Francesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_FRANCE_FACTOID_TEXT">
 			<Text>Citação:[NEWLINE]"Você só pode unir a França pelo medo. Você não pode simplesmente unir um país que tem mais de 265 tipos de queijo."[NEWLINE]- Charles de Gaulle[NEWLINE][NEWLINE]Todo verão mais de 100 ciclistas competem na Volta da França; o curso se estende por cerca de 3.219 quilômetros e demora três semanas para ser concluído.[NEWLINE][NEWLINE]Construído entre 1666 e 1681, o mais antigo canal da Europa funcional, o Canal du Midi (em português Canal do Meio-Dia), encontra-se na França.[NEWLINE][NEWLINE]Os Franceses têm o maior número de pessoas do sexo feminino, e terceiro maior número do sexo masculino, em expectativa de vida na Europa.[NEWLINE][NEWLINE]O francês foi o idioma oficial da Inglaterra por mais de 300 anos (de 1066 até o início do século 14).[NEWLINE][NEWLINE]A França produz alguns dos licores mais famosos do mundo, como o Grand Marnier, Cointreau e Triple Sec, e mais de oito bilhões de garrafas de vinho por ano.</Text>
@@ -2628,7 +2628,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GERMANY_FACTOID_HEADING">
-			<Text>Fatos Curiosos Alemães</Text>
+			<Text>Curiosidades Alemãs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GERMANY_FACTOID_TEXT">
 			<Text>A Autoban Alemã é a rede de autoestrada mais antiga do mundo - não possui limite de velocidade imposta, mas apenas uma velocidade máxima de 128 km/h como sugestão.[NEWLINE][NEWLINE]A mais antiga Caixa Econômica do mundo foi criada em Oldenburg, em 1786.[NEWLINE][NEWLINE]Há mais de 1.300 cervejarias na Alemanha, produzindo quase 5.000 tipos diferentes de cerveja. Os Alemães consomem a terceira maior quantidade de cerveja por ano, depois dos Irlandeses e dos Tchecos, eles consomem aproximadamente 117 litros por habitante no ano.[NEWLINE][NEWLINE]A Catedral de Ulm é a mais alta igreja do mundo - seu pináculo principal mede 161 metros de altura.[NEWLINE][NEWLINE]As balas de goma Gummy Bear foram inventadas por um confeiteiro alemão, Hans Riegel, em 1922.</Text>
@@ -2763,7 +2763,7 @@
 			<Text>Os "Grandes Cientistas" descobrem como o mundo funciona. Eles descobrem se a Terra orbita em torno do Sol. Eles sequenciam o DNA e inventam a mecânica quântica. Curam a pólio e preveem eclipses. Eles fazem uma civilização inteligente. Eles inventam o futuro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREECE_FACTOID_HEADING">
-			<Text>Fatos Curiosos Gregos</Text>
+			<Text>Curiosidades Gregas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREECE_FACTOID_TEXT">
 			<Text>Nenhuma parte da Grécia está a mais de 136 km do mar.[NEWLINE][NEWLINE]O Hino Nacional contém 158 versos; Até a presente data nenhuma pessoa conhecida memorizou todos os 158.[NEWLINE][NEWLINE]Jogar uma maçã a uma menina era a forma tradicional de propor casamento.</Text>
@@ -3255,7 +3255,7 @@
 			<Text>Acesso ao Recurso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos Indianos</Text>
+			<Text>Curiosidades Indianas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDIA_FACTOID_TEXT">
 			<Text>A indústria cinematográfica indiana, Bollywood, faz mais filmes por ano do que os Estados Unidos, França, Itália e A República Popular da China. [NEWLINE][NEWLINE]O único país no mundo que tem uma Declaração de Direitos para vacas é a Índia.[NEWLINE][NEWLINE]O maior nome de uma estação no Sistema Ferroviário Indiano é Venkatanarasimharajuvariapeta.[NEWLINE][NEWLINE]Tecnicamente falando, a 'pimenta indiana' (indian 'curry') não existe -  a palavra, um derivado "anglicanizado" da palavra Tamil "kari" (pimenta preta), foi usado pelos Britânicos como um termo para qualquer prato, incluindo especiarias. [NEWLINE][NEWLINE]O jogo de tabuleiro de xadrez foi inventado na Índia.</Text>
@@ -3462,7 +3462,7 @@
 			<Text>O Mitsubishi A6M Zero era o avião de caça usado pelo Japão durante a Segunda Guerra Mundial. Destinados a lutar a partir de um porta-aviões, no início da Segunda Guerra Mundial o Zero foi o melhor avião de caça transportado do mundo. Combinando capacidade de manobra e longo alcance, o Zero era excelente em combates, facilmente superando as aeronaves inferiores dos Americanos e Britânicos. À medida que a guerra progredia, os aviões aliados melhoraram dramaticamente, enquanto a força aérea japonesa sofreu pela crescente escassez de material e de mão de obra e, ao final da guerra, o Zero foi superado. Mas no auge, o Zero foi um grande avião de caça de fato, dominando o vasto campo de batalha do Pacífico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IROQUOIS_FACTOID_HEADING">
-			<Text>Fatos Curiosos Iroqueses</Text>
+			<Text>Curiosidades Iroquesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IROQUOIS_FACTOID_TEXT">
 			<Text>A Associação Watauga em Shoals Sycamore, perto Elizabethton, redigiu a primeira constituição já escrita por homens brancos na América, em 1772. Foi formada a partir da constituição da Liga das Nações Iroquesas, um sistema federal de governo desenvolvido há 200 anos por cinco tribos nativas do leste americano. [NEWLINE][NEWLINE]Antonín Dvorák estava familiarizado com a obra "Hiawatha" em uma tradução Checa. Em um artigo publicado no New York Herald, em 15 de dezembro de 1893, ele afirmou que o segundo movimento de sua Sinfonia nº 9, "Do Novo Mundo", foi um "esboço ou estudo para um trabalho posterior, ou uma cantata ou ópera... que iria basear-se em seu grande amigo Hiawatha" e que o terceiro movimento scherzo foi "sugerido pela cena da festa em Hiawatha, onde os índios dançavam".</Text>
@@ -3531,7 +3531,7 @@
 			<Text>Iroqueses</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_JAPAN_FACTOID_HEADING">
-			<Text>Fatos Curiosos Japoneses</Text>
+			<Text>Curiosidades Japonesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_JAPAN_FACTOID_TEXT">
 			<Text>Há cinco milhões de máquinas de venda automática (jidohanbaiki) no Japão. É uma para cada 25 pessoas. [NEWLINE][NEWLINE]O mais antigo festival do mundo tem a fama de ser o Aoi Matsuri, realizado a cada dia 15 ou 16 de maio, em Kyoto. O termo surgiu durante o reinado do Imperador Kinmei, em algum momento entre 539 e 571 d.C. [NEWLINE][NEWLINE]A maior ponte suspensa do mundo é a Ponte Akashi Kaikyo, que conecta Kobe a Ilha Awaji. Inaugurada em 1998, o seu vão central possui dois quilômetros de comprimento - cerca de uma vez e meia o tamanho da Ponte Golden Gate e quatro vezes o tamanho da Ponte do Brooklyn.[NEWLINE][NEWLINE]O mais antigo livro do mundo foi escrito no Japão, mais de mil anos atrás. O Conto de Genji foi escrito no século XI por Murasaki Shikibu, um membro da corte imperial. Seu romance (mais de 500.000 palavras) se refere às intrigas e longa exploração romântica e sexual da corte imperial, centrada na personagem principal de Genji.</Text>
@@ -3686,7 +3686,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_OTTOMAN_FACTOID_HEADING">
-			<Text>Fatos Curiosos Otomanos</Text>
+			<Text>Curiosidades Otomanas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_OTTOMAN_FACTOID_TEXT">
 			<Text>O Templo de Artemis (Diana), uma das Sete Maravilhas do Mundo Antigo, estava fora de Éfeso. Ela foi destruída por um incendiário que apenas queria ser lembrado na história por "como fazer algo 'grande'". [NEWLINE][NEWLINE]Istambul é a única cidade do mundo construída em dois continentes.[NEWLINE][NEWLINE]A tradição na Turquia diz que um estranho na porta de alguém é considerado "hóspede de Deus" durante, pelo menos, três dias.[NEWLINE][NEWLINE]A primeira igreja dedicada à Virgem Maria está em Éfeso.[NEWLINE][NEWLINE]São Nicolau, a inspiração para o Papai Noel moderno, nasceu em Demre, na costa mediterrânea da Turquia.[NEWLINE][NEWLINE]A Turquia é um dos poucos países do mundo em que a agricultura é autossuficiente.[NEWLINE][NEWLINE]Foram os Turcos que introduziram o café na Europa. (Deus os abençoe!)</Text>
@@ -3767,7 +3767,7 @@
 			<Text>Os Otomanos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_PERSIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos Persas</Text>
+			<Text>Curiosidades Persas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_PERSIA_FACTOID_TEXT">
 			<Text>O cavalo Cáspio, que se acredita ser uma das mais antigas raças de cavalos domesticados do mundo, pode ser rastreada até a Pérsia antiga.[NEWLINE][NEWLINE]Na mitologia Persa, o diabo usa comida Persa para corromper o rei da terra, "Zahak, O Rei Dragão".[NEWLINE][NEWLINE]As invenções ou contribuições Persas:[NEWLINE][NEWLINE]Os tijolos modernos; alguns dos mais antigos tijolos encontrados até o momento são persas, de 6.000 a.C.[NEWLINE]Invenção do Vinho.[NEWLINE][NEWLINE]Invenção do Tar (alaúde), que levou ao desenvolvimento da guitarra.[NEWLINE][NEWLINE]Zoroastrismo, onde o primeiro profeta de uma fé monoteísta surgiu, segundo alguns estudiosos.[NEWLINE][NEWLINE]Sob o governo de Ciro II, o Grande, o Cilindro de Ciro foi emitido. Esta é considerada a primeira declaração universal dos direitos humanos, anterior à Carta Magna em um milênio.[NEWLINE][NEWLINE]O jogo de Polo, em 521 a.C.[NEWLINE][NEWLINE]O primeiro sistema de tributação (no Império Aquemênido).</Text>
@@ -4703,7 +4703,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ROME_FACTOID_HEADING">
-			<Text>Fatos Curiosos Romanos</Text>
+			<Text>Curiosidades Romanas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ROME_FACTOID_TEXT">
 			<Text>Aspargos era uma iguaria muito apreciada na Roma Antiga e era mantida congelada nos Alpes para as festas e festivais.[NEWLINE][NEWLINE]De acordo com o historiador Romano Suetônio, havia rumores de que um cônsul e co-regente de Roma era um cavalo - o favorito do Imperador Calígula, Incitatus.[NEWLINE][NEWLINE]O primeiro volume de receitas foi publicado em 62 d.C., pelo Romano Apicius.[NEWLINE][NEWLINE]Roma é conhecida como a "Cidade Eterna" e também "Caput Mundi", que vem do latim e significa "Capital do Mundo". [NEWLINE][NEWLINE]Os antigos Romanos tinham chefes de cozinha que eram celebridades, comiam hambúrgueres e levavam a sobra de comida do restaurante para casa.[NEWLINE][NEWLINE]O primeiro sistema de benefícios para o bem-estar da população era parte integrante da cultura Romana antiga. Em 58 a.C., o estado apresentou uma lei tornando disponível aos cidadãos Romanos uma cota mensal e gratuita de grãos, da qual as classes mais pobres se tornaram altamente dependentes. [NEWLINE][NEWLINE]A tradição de o noivo carregar a noiva pela porta da casa originou de antigos casamentos Romanos.[NEWLINE][NEWLINE]Algumas invenções Romanas: [NEWLINE]Aquedutos[NEWLINE]Válvulas de bronze e bombas[NEWLINE]Cimento de secagem rápida e concreto armado[NEWLINE]Pavio de vela[NEWLINE]Guarda-chuva[NEWLINE]Lupa, tesoura, diferentes formas de sapatos para os pés direito e esquerdo. [NEWLINE]O moderno calendário com 12 meses.</Text>
@@ -4778,7 +4778,7 @@
 			<Text>Roma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RUSSIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos Russos</Text>
+			<Text>Curiosidades Russas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RUSSIA_FACTOID_TEXT">
 			<Text>A Vodka foi introduzida na Rússia no período de 1448-1474. Menos de 100 anos depois, a primeira  "taverna do czar" foi criada em Moscou. Dez por cento da renda do governo vem da venda de vodka. [NEWLINE][NEWLINE]Durante o reinado de Pedro, o Grande, qualquer nobre Russo que usasse uma barba tinha que pagar um imposto especial. [NEWLINE][NEWLINE]É um crime conduzir um carro sujo na Rússia. [NEWLINE][NEWLINE]A tundra Russa está derretendo pela primeira vez, desde a Idade do Gelo. [NEWLINE][NEWLINE]Moscou tem o sistema de metrô mais utilizado do mundo, com o maior número de passageiros de qualquer sistema de metro - cerca de 3,2 bilhões de passageiros por ano. [NEWLINE][NEWLINE]Os fornos de micro-ondas foram proibidos na Rússia, em 1976.[NEWLINE][NEWLINE]Moscou, a antiga capital da Rússia, fez 860 anos em 2008.</Text>
@@ -4891,7 +4891,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SIAM_FACTOID_HEADING">
-			<Text>Fatos Curiosos Siameses</Text>
+			<Text>Curiosidades Siamesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SIAM_FACTOID_TEXT">
 			<Text>É muitas vezes apelidado como a "Terra dos Sorrisos", por causa da delicadeza do seu povo. [NEWLINE][NEWLINE]Pornthip "Bui" Nakhirunkanok tornou-se a segunda Tailandesa a conquistar o título de Miss Universo após Apasra Hongsakula em 1965. O ano era 1988. [NEWLINE][NEWLINE]O Rei da Tailândia é tratado com grande reverência e até mesmo uma piada pode resultar em uma pena de prisão.[NEWLINE][NEWLINE]O abrigo rochoso Lang Rongrien, no sudoeste da Tailândia, já era habitado por volta de 40 mil anos atrás. [NEWLINE][NEWLINE]O gato siamês foi trazido para a Grã-Bretanha, da Tailândia, em 1884 pelo cônsul geral Britânico de Bangkok.[NEWLINE][NEWLINE]Muitos jovens Tailandeses são Budistas por um período de tempo e, com a cabeça raspada, saem para pedir esmola a cada manhã.[NEWLINE][NEWLINE]O chá é uma planta selvagem em Sião, mas não é usado em bebidas. Tradicionalmente, suas folhas são enroladas em bolas chamadas "mieng" e mastigadas.</Text>
@@ -4982,7 +4982,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_FACTOID_HEADING">
-			<Text>Fatos Curiosos Songai</Text>
+			<Text>Curiosidades Songai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SONGHAI_FACTOID_TEXT">
 			<Text>Segundo a lenda, o povo de Songai adorou um peixe monstruoso e estava sujeito as suas leis rigorosas, até que um estranho que veio do Iêmen o matou. Ele se tornou rei dos Songai e foi o fundador da Dinastia mais remota conhecida, a Dya.[NEWLINE][NEWLINE]Em resposta à ameaça de invasão por areias do deserto, Tombuctu foi inscrita na lista de Patrimônios Mundiais em Perigo, em 1990, e a UNESCO estabeleceu um programa de conservação para proteger a cidade.[NEWLINE][NEWLINE]Os Songai são bem conhecidos por seus tecidos e tapetes. Os elaborados cobertores de algodão (terabeba) vestidos pelos homens da cidade de Tera são muito valorizados.[NEWLINE][NEWLINE]O mais forte tabu na sociedade Songai é a mentira. Somente o pior tipo de pessoa que vai dizer uma mentira.</Text>
@@ -5295,7 +5295,7 @@
 			<Plurality>1</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_UNITEDSTATES_FACTOID_HEADING">
-			<Text>Fatos Curiosos Americanos</Text>
+			<Text>Curiosidades Americanas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_UNITEDSTATES_FACTOID_TEXT">
 			<Text>Os astronautas Americanos pousaram na Lua em julho de 1969, sem dúvida o maior evento científico da história da humanidade.</Text>
@@ -11497,7 +11497,7 @@
 			<Text>A {TXT_KEY_BUILDING_STONE_WORKS} só pode ser construída em cidades próximas a fontes exploradas dos recursos [ICON_RES_STONE]Pedra ou [ICON_RES_MARBLE]Mármore. A {TXT_KEY_BUILDING_STONE_WORKS} aumenta a [ICON_PRODUCTION]Produção de uma cidade, que precisa estar em uma {TXT_KEY_TERRAIN_PLAINS}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ARABIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos Árabes</Text>
+			<Text>Curiosidades Árabes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ARABIA_FACTOID_TEXT">
 			<Text>Durante o reinado do Califa no século VII, os primeiros exemplos conhecidos de pensão e previdência social foram adotados. Os idosos e deficientes, bem como as viúvas e órfãos foram elegíveis para receber assistência e renda do governo. [NEWLINE][NEWLINE]Diz-se que Harun Al-Rashid presenteou Carlos Magno com um dos primeiros exemplos Islâmica do "Relógio de Água", um dispositivo sofisticado que iria gravar a passagem do tempo através da medição do fluxo de água de um navio para outro.</Text>
