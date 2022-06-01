@@ -108,40 +108,40 @@
 			<Text>Maya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_HEADING">
-			<Text>Factoids</Text>
+			<Text>Curiosidades Maias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_TEXT">
 			<Text>Priests within the Maya society were often tasked with providing a variety of medicinal treatments to the people, prescribing anything from herbal remedies to "sweat baths," akin to a modern sauna.[NEWLINE][NEWLINE]Modern Maya women traditionally wear a type of blouse or dress known as a "Huipil," featuring bright colors and distinctive patterns that are unique to the village of their origin.[NEWLINE][NEWLINE]The Maya are thought to be the originators of the ancient predecessor to hot chocolate. Found predominantly within the Maya territory, cocoa beans were dried and ground, mixed with other local ingredients into a paste, and added to water to create a chocolate drink.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_2">
-			<Text>Climate and Terrain</Text>
+			<Text>Clima e Terreno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_3">
-			<Text>Periods in Maya History</Text>
+			<Text>Períodos da História Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_4">
-			<Text>Great Cities of the Maya</Text>
+			<Text>Grandes Cidades Maias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_5">
-			<Text>The Collapse</Text>
+			<Text>O Colapso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_6">
-			<Text>Maya Class Structure</Text>
+			<Text>Estrutura de Classes Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_7">
-			<Text>Agriculture and Hunting</Text>
+			<Text>Agricultura e Caça</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_8">
-			<Text>Honoring the Gods</Text>
+			<Text>Honrando os Deuses</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_9">
-			<Text>Maya Culture</Text>
+			<Text>Cultura Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_10">
-			<Text>The Maya Calendar</Text>
+			<Text>O Calendário Maia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_11">
 			<Text>Colonial Incursion and Decline</Text>
@@ -186,25 +186,25 @@
 			<Text>There are an estimated seven million contemporary Maya living throughout parts of Mexico, Belize, Guatemala, Honduras, and El Salvador in the present day, many of whom still maintain aspects of their cultural heritage. Although there are more than 20 distinct languages separating the Maya, like their ancestors they are joined by a common culture and tradition, and together they continue to celebrate the legacy of the ancient Maya.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TITLE">
-			<Text>The Netherlands</Text>
+			<Text>Os Países Baixos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_HEADING">
-			<Text>Factoids</Text>
+			<Text>Curiosidades Holandesas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_TEXT">
 			<Text>One of the largest exports of Holland, tulips, are produced en masse throughout the country. During the height of Dutch economic power in the 17th century, an event known as "Tulip Mania" spurred widespread speculation and price manipulation in the tulip trade, driving the prices of rare tulip breeds to astronomical levels before eventually collapsing.[NEWLINE][NEWLINE]Consumed the world over, Heineken Beer, first produced in Amsterdam in 1873, is widely recognized today as a signature product of the Netherlands with its distinctive green and red labeling.[NEWLINE][NEWLINE]The name "Holland" is said to have derived from the Dutch term "holtland," meaning "Woodland" or "Wooded Land."</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_1">
-			<Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_2">
-			<Text>Geography and Climate</Text>
+			<Text>Geografia e Clima</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_3">
-			<Text>Pre-History</Text>
+			<Text>Pré-História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_4">
-			<Text>Roman Occupation</Text>
+			<Text>Ocupação Romana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_5">
 			<Text>Frisians and Franks</Text>
@@ -302,7 +302,7 @@
 			<Text>The name Pacal means "Shield," or "Sun Shield," in Mayan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_1">
-      <Text>History</Text>
+			<Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_2">
 			<Text>Early Life</Text>
@@ -311,7 +311,7 @@
 			<Text>Rejuvenation of Palenque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_4">
-      <Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_1">
 			<Text>Commonly known as "Pacal the Great," the Mayan king K'inich Janaab' Pakal is perhaps the most renowned of all Mayan rulers. Ascending to the throne at the tender age of 12 and ruling for nearly 70 years thereafter, Pacal inherited the city-state of Palenque during a time of great turmoil. Although the historical details surrounding his reign are often hazy, Pacal is best known for reinvigorating the ravaged city, which had been sacked repeatedly during the rule of his predecessors. Leading a vast construction effort, Pacal oversaw the creation of immense and remarkably detailed structures throughout his domain. Most famously, Pacal's burial tomb, known as the Temple of Inscriptions, features an intricately carved history of the king's life presented in Mayan glyphs. With an astonishing number of well preserved inscriptions, the temple has given contemporary archaeologists crucial insight into the once lost history and culture of this great Mayan city.</Text>
@@ -345,7 +345,7 @@
 			<Text>A later descendant of William, William III, went on to become King of England after the Dutch invasion of England during the Glorious Revolution, when King James II of England was deposed.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_1">
-      <Text>History</Text>
+      <Text>História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_2">
 			<Text>Noble Upbringing</Text>
@@ -366,7 +366,7 @@
 			<Text>Assassination Attempts</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_8">
-      <Text>Judgment of History</Text>
+			<Text>Julgamento da História</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_1">
 			<Text>Widely considered both founder and liberator of the Netherlands, William, Prince of Orange, also known as "William the Silent," led a successful rebellion in the mid-16th century against the Spanish Habsburg Dynasty who held dominion over the Dutch Low Countries. Once the loyal servant of King Philip II of Spain, William eventually became the most prominent leader of the rebellion, as his growing distaste for the continued Spanish persecution of Dutch Protestants came to a head. Rallying his fellow noblemen to the cause, William became an outlaw in the eyes of the Spanish monarch and led the Dutch forces in a number of successful battles against the king before falling to an assassin's bullet in 1584.</Text>

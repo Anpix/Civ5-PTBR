@@ -8,10 +8,10 @@
 		</Row>
 		<!-- CIVILIZATION TEXT -->
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_TITLE">
-			<Text>Ethiopia</Text>
+			<Text>Etiópia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING">
-			<Text>Fatos Curiosos</Text>
+			<Text>Curiosidades Etíopes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT">
 			<Text>The calendar used in Ethiopia, known as the Ge'ez, is based on the Coptic Calendar developed in ancient Egypt. Thanks to the Ge'ez, Ethiopia is the only nation in the world with a 13th month.[NEWLINE][NEWLINE]Legend has it that the stimulating effects of coffee were first discovered in Ethiopia, when a goatherd named Kaldi observed his goats bucking wildly after eating the berries of a coffee plant.[NEWLINE][NEWLINE]Ethiopia's capital city of Addis Ababa is one of the highest capitals in the world, sitting at an elevation nearly 8000 ft (2400m) above sea level.</Text>
