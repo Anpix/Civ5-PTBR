@@ -213,7 +213,7 @@
 			<Text>Leader of Eruch</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_LIVED">
-			<Text>1815 - 1872 AD</Text>
+			<Text>1815 - 1872 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_HEADING_1">
 			<Text>História</Text>
@@ -229,7 +229,7 @@
 			<Text>Leader of Orlin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LIVED">
-			<Text>1781 - 1836 AD</Text>
+			<Text>1781 - 1836 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_HEADING_1">
 			<Text>História</Text>
@@ -245,7 +245,7 @@
 			<Text>Leader of Pulias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_LIVED">
-			<Text>1809 - 1888 AD</Text>
+			<Text>1809 - 1888 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_HEADING_1">
 			<Text>História</Text>
@@ -261,7 +261,7 @@
 			<Text>Leader of Vedria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_LIVED">
-			<Text>1842 - 1910 AD</Text>
+			<Text>1842 - 1910 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_HEADING_1">
 			<Text>História</Text>
@@ -277,7 +277,7 @@
 			<Text>Leader of Dalmace</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_LIVED">
-			<Text>1799 - 1855 AD</Text>
+			<Text>1799 - 1855 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_HEADING_1">
 			<Text>História</Text>
