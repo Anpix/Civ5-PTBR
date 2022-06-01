@@ -822,9 +822,9 @@
 			<Plurality>1|2</Plurality>			
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC">
-			<Text>Mesquita Pirâmide de Barro|Mesquitas Pirâmides de Barro</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Mesquita Piramidal de Barro|Mesquitas Piramidais de Barro</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TEMPLE_DESC">
 			<Text>Templo|Templos</Text>

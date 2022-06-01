@@ -271,9 +271,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PYRAMID">
-			<Text>As Pirâmides|As Pirâmides</Text>
-			<Gender>feminine:art|feminine:art</Gender>
-			<Plurality>2|2</Plurality>
+			<Text>As Pirâmides</Text>
+			<Gender>feminine:art</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SISTINE_CHAPEL">
 			<Text>Capela Sistina|Capelas Sistinas</Text>

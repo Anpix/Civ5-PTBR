@@ -483,13 +483,13 @@
 			<Text>[COLOR_POSITIVE_TEXT]Collective Rule[ENDCOLOR][NEWLINE]Speeds the training of [COLOR_POSITIVE_TEXT]Settlers[ENDCOLOR] by 50% in the [ICON_CAPITAL] Capital and a free Settler appears near the [ICON_CAPITAL] Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID">
-			<Text>Double Pyramid</Text>
+			<Text>Pirâmide Dupla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_DOUBLE_PYRAMID}[ENDCOLOR][NEWLINE]+1 [ICON_PEACE]Fé de {TXT_KEY_BUILDING_SHRINE[2]} e {TXT_KEY_BUILDING_TEMPLE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_TEXT">
-			<Text>At the height of their empire's extent, the Aztecs constructed a number of double pyramids, which consisted of a massive pyramidal platform with a double stairway leading to twin temples, in some cases themselves pyramids. The earliest example yet discovered is that at Tenayuca, which was already built when the Aztecs conquered the town around 1434 AD.</Text>
+			<Text>No auge da extensão de seu império, os astecas construíram várias pirâmides duplas, que consistiam em uma enorme plataforma piramidal com uma escada dupla que levava a templos gêmeos, em alguns casos as próprias pirâmides. O exemplo mais antigo ainda descoberto é o de Tenayuca, que já havia sido construído quando os astecas conquistaram a cidade por volta de 1434 d.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_NWS_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Entrepreneurship[ENDCOLOR][NEWLINE]A Great Merchant appears. Great Merchants are earned 100% faster. +2 [ICON_GOLD] for each Bank. </Text>
@@ -540,13 +540,13 @@
 			<Text>A style of fortification, built of unmortised stone usually on steep hillsides, common to the native cultures of the central Andes: the Wari, the Tiwanaku, and later the Inca. The Inca often used these fortifications as administrative centers as well, such as Puka Pukara, the "red fortress" which guarded one of the approaches to Cuzco.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS">
-			<Text>Pyramid of the Gods</Text>
+			<Text>Pirâmide dos Deuses</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_PYRAMID_OF_THE_GODS}[ENDCOLOR][NEWLINE]+6 [ICON_PEACE]Fé de cada Maravilha Mundial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_TEXT">
-			<Text>Mesoamerican step pyramids - more similar to Mesopotamian ziggurats than to smooth-sided pyramids - were the dominant architectural form for most religious structures in the Olmec, Aztec, Mayan, Zapotec, Tarascan and other societies. Often with elaborate symbolic carvings, reliefs, murals and mosaics, the largest of these (such as the Great Pyramid of Cholula) were enduring symbols of the power of these theocratic states.</Text>
+			<Text>As pirâmides escalonadas mesoamericanas - mais semelhantes aos zigurates da Mesopotâmia do que às pirâmides de lados lisos - eram a forma arquitetônica dominante para a maioria das estruturas religiosas nas olmecas, astecas, maias, zapotecas, tarascos e outras sociedades. Frequentemente com elaboradas esculturas simbólicas, relevos, murais e mosaicos, os maiores (como a Grande Pirâmide de Cholula) eram símbolos duradouros do poder desses estados teocráticos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_RANSOM">
 			<Text>Ransom</Text>

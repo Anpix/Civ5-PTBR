@@ -162,10 +162,10 @@
 			<Text>Lay of Igor's Campaign</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_JUSTICE_SALADIN">
-			<Text>Receive a free Courthouse in every city conquered. Start with The Pyramids constructed in Cairo.</Text>
+			<Text>Receba uma {TXT_KEY_BUILDING_COURTHOUSE} grátis em cada cidade conquistada. Comece com {TXT_KEY_BUILDING_PYRAMID} construídas no Cairo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_JUSTICE_SALADIN_SHORT">
-			<Text>Justice of Saladin</Text>
+			<Text>Justiça de Saladino</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LOGOTHETE_COURSE">
 			<Text>Receives 1 extra Spy. Only civilization that starts the scenario in control of a Holy City.</Text>

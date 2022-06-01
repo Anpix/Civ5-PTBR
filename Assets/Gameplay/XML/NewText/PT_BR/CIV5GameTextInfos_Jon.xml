@@ -2876,7 +2876,7 @@
 			<Text>+50% de [ICON_CULTURE]Cultura na cidade.[NEWLINE][NEWLINE]Você deve construir uma Casa de Ópera em todas as cidades. O custo é proporcional ao número de cidades existentes no Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_PYRAMIDS_HELP">
-			<Text>O Império entra na [ICON_GOLDEN_AGE]Era Dourada.</Text>
+			<Text>O Império entra em uma [ICON_GOLDEN_AGE]Era Dourada.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_LIBRARY_HELP">
 			<Text>1 tecnologia gratuita. Fornece uma Biblioteca gratuita na cidade onde ela for construída.</Text>
