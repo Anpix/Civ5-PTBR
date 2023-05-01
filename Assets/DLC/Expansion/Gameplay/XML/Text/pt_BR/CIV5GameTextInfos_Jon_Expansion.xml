@@ -578,7 +578,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Ordem[ENDCOLOR] é melhor para grandes e espalhadas civilizações, aumentando a força do Império com base na quantidade de cidades existentes.[NEWLINE][NEWLINE]Adotando Ordem, você irá aumentar a [ICON_HAPPINESS_1]Felicidade em +1 para cada cidade.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Ordem, você receberá +2 de [ICON_FOOD]Alimento, [ICON_PRODUCTION]Produção, [ICON_RESEARCH]Ciência, [ICON_GOLD]Ouro e [ICON_CULTURE]Cultura por cada cidade.[NEWLINE][NEWLINE]Será possível comprar Grandes Engenheiros com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Autocracia.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_AUTOCRACY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Autocracia[ENDCOLOR] é para civilizações militaristas, que sonham com a conquista mundial.[NEWLINE][NEWLINE]Adotando Autocracia, você reduzirá em 33% o [ICON_GOLD]Ouro necessário à manutenção de suas unidades, permitindo ao Império um grande exército.[NEWLINE][NEWLINE]Além disso, você receberá como espólio 10 de [ICON_CULTURE]Cultura para cada ponto de [ICON_CULTURE]Cultura produzido por cidade capturada.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Autocracia, você receberá um bônus de ataque de 25% para todas as unidades militares, por 50 turnos.[NEWLINE][NEWLINE]Será possível comprar Grandes Generais e Grandes Almirantes com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Ordem.[ENCOLOR]</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Autocracia[ENDCOLOR] é para civilizações militaristas, que sonham com a conquista mundial.[NEWLINE][NEWLINE]Adotando Autocracia, você reduzirá em 33% o [ICON_GOLD]Ouro necessário à manutenção de suas unidades, permitindo ao Império um grande exército.[NEWLINE][NEWLINE]Além disso, você receberá como espólio 10 de [ICON_CULTURE]Cultura para cada ponto de [ICON_CULTURE]Cultura produzido por cidade capturada.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Autocracia, você receberá um bônus de ataque de 25% para todas as unidades militares, por 50 turnos.[NEWLINE][NEWLINE]Será possível comprar Grandes Generais e {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} com [ICON_PEACE]Fé.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Este ramo não pode ser adotado em conjunto com Independência ou Ordem.[ENCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Religião Organizada[ENDCOLOR][NEWLINE]+1 de [ICON_PEACE]Fé de Santuários e Templos.</Text>
@@ -596,7 +596,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Tolerância Religiosa[ENDCOLOR][NEWLINE]Reduz o custo em [ICON_CULTURE]Cultura para futuras políticas em 10%.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Tradição Naval[ENDCOLOR][NEWLINE]+1 [ICON_MOVES]Ponto de Movimento para unidades navais e +1 de Visão para unidades navais de combate. Um Grande Almirante aparece. +2 de [ICON_MOVES]Pontos de Movimento para todos os Grandes Almirantes.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_NAVAL_TRADITION}[ENDCOLOR][NEWLINE]+1 [ICON_MOVES]Ponto de Movimento para unidades navais e +1 de Visão para unidades navais de combate. Um {TXT_KEY_UNIT_GREAT_ADMIRAL} aparece. +2 de [ICON_MOVES]Pontos de Movimento para todos os {TXT_KEY_UNIT_GREAT_ADMIRAL[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PROTECTIONISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Protecionismo[ENDCOLOR][NEWLINE]+2 de [ICON_HAPPINESS_1]Felicidade de cada recurso de luxo.</Text>
@@ -674,7 +674,7 @@
 			<Text>A unidade precisa estar dentro da cidade santa desta religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_REPAIR_FLEET_HELP">
-			<Text>Esta ordem consumirá o Grande Almirante e irá curar todas as suas unidades navais e unidades embarcadas neste hexágono e em todos os adjacentes.</Text>
+			<Text>Esta ordem consumirá o {TXT_KEY_UNIT_GREAT_ADMIRAL} e irá curar todas as suas unidades navais e unidades embarcadas neste hexágono e em todos os adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_HELP">
 			<Text>Esta ordem consumirá o Grande Artista e iniciará uma [ICON_GOLDEN_AGE]Era Dourada ([ICON_PRODUCTION], [ICON_GOLD] e [ICON_CULTURE] extras) por {1_Num} {1: plural 1?turno; other?turnos;}.</Text>

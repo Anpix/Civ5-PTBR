@@ -57,7 +57,7 @@
 			<Text>Blockade Runner</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD">
-			<Text>Ironclad</Text>
+			<Text>{TXT_KEY_UNIT_IRONCLAD}</Text>
 			<Gender>neuter:an</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN">
@@ -117,7 +117,7 @@
 			<Text>Ranged unit available late in the Civil War.  Strong enough to resist melee attack and devastating to adjacent units.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_STRATEGY">
-			<Text>May only be built by the Union. Able to easily defeat Confederate Blockade Runners and hold their own against Ironclads.</Text>
+			<Text>May only be built by the Union. Able to easily defeat Confederate Blockade Runners and hold their own against {TXT_KEY_UNIT_IRONCLAD[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_HELP">
 			<Text>Front-line melee unit of the early Civil War, before both sides started organizing into larger units (Infantry Corps).</Text>
@@ -168,7 +168,7 @@
 			<Text>Advanced anti-personnel weapon available late in the Civil War.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_HELP">
-			<Text>Unique Union naval unit, able to hold its own against Confederate Ironclads.</Text>
+			<Text>Unique Union naval unit, able to hold its own against Confederate {TXT_KEY_UNIT_IRONCLAD[2]}.</Text>
 		</Row>
 		<!-- PROMOTIONS -->
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN">

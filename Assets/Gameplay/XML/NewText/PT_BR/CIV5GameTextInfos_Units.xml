@@ -62,19 +62,19 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BATTLESHIP">
-			<Text>Super Couraçado</Text>
+			<Text>Couraçado|Couraçados</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BOMBER">
-			<Text>Bombardeiro</Text>
+			<Text>Bombardeiro|Bombardeiros</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CANNON">
-			<Text>Canhão</Text>
+			<Text>Canhão|Canhões</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARAVEL">
 			<Text>Caravela|Caravelas</Text>
@@ -82,14 +82,14 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARRIER">
-			<Text>Porta-aviões</Text>
+			<Text>Porta-Aviões</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CATAPULT">
-			<Text>Catapulta</Text>
+			<Text>Catapulta|Catapultas</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY">
 			<Text>Cavalaria|Cavalarias</Text>
@@ -132,9 +132,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FIGHTER">
-			<Text>Avião de Combate</Text>
+			<Text>Caça|Caças</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION">
 			<Text>Legião Estrangeira|Legiões Estrangeiras</Text>
@@ -227,7 +227,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IRONCLAD">
-			<Text>Couraçado|Couraçados</Text>
+			<Text>Navio Blindado|Navios Blindados</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -237,19 +237,19 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_SAMURAI">
-			<Text>Samurai</Text>
+			<Text>Samurai|Samurais</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO">
-			<Text>Zero</Text>
+			<Text>Zero|Zeros</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JET_FIGHTER">
-			<Text>Caça a Jato</Text>
+			<Text>Caça a Jato|Caças a Jato</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_KNIGHT">
 			<Text>Cavaleiro|Cavaleiros</Text>
@@ -297,19 +297,19 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE">
-			<Text>Míssil Nuclear</Text>
+			<Text>Míssil Nuclear|Mísseis Nucleares</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE">
-			<Text>Submarino Nuclear</Text>
+			<Text>Submarino Nuclear|Submarinos Nucleares</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_OTTOMAN_JANISSARY">
-			<Text>Janízaro</Text>
+			<Text>Janízaro|Janízaros</Text>
 			<Gender>masculine:human</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_OTTOMAN_SIPAHI">
 			<Text>Sipahi|Sipahis</Text>
@@ -382,9 +382,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_STEALTH_BOMBER">
-			<Text>Bombardeiro Furtivo</Text>
+			<Text>Bombardeiro Furtivo|Bombardeiros Furtivos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUBMARINE">
 			<Text>Submarino|Submarinos</Text>
@@ -407,9 +407,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIREME">
-			<Text>Trirreme</Text>
+			<Text>Trirremo|Trirremos</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WARRIOR">
 			<Text>Guerreiro|Guerreiros</Text>
@@ -1149,17 +1149,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_FIGHTER">
-			<Text>Bônus vs Aviões de Combate</Text>
+			<Text>Bônus vs {TXT_KEY_UNIT_FIGHTER[2]}</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I">
-			<Text>Bônus vs submarinos (50)</Text>
+			<Text>Bônus vs {TXT_KEY_INVISIBLE_SUBMARINE} (50)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II">
-			<Text>Bônus vs submarinos (100)</Text>
+			<Text>Bônus vs {TXT_KEY_INVISIBLE_SUBMARINE} (100)</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1219,10 +1219,10 @@
 			<Text>Não pode navegar o {TXT_KEY_TERRAIN_OCEAN}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INVISIBLE_SUBMARINE">
-			<Text>É invisível (Submarino)</Text>
+			<Text>É invisível ({TXT_KEY_INVISIBLE_SUBMARINE})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SEE_INVISIBLE_SUBMARINE">
-			<Text>Pode ver submarinos</Text>
+			<Text>Pode ver {TXT_KEY_INVISIBLE_SUBMARINE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_IGNORE_TERRAIN_COST">
 			<Text>Ignora o custo do terreno</Text>
@@ -1375,7 +1375,7 @@
 			<Text>Unidade Naval especializada em derrubar aeronaves. Também pode conter 3 Mísseis.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos ou até que ataque ou fique adjacente a outra unidade. Pode conter 2 Mísseis e é especializado em caçar outros Submarinos.</Text>
+			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} ou até que ataque ou fique adjacente a outra unidade. Pode conter 2 Mísseis e é especializado em caçar outros {TXT_KEY_INVISIBLE_SUBMARINE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARRIER">
 			<Text>Transporta até 3 aeronaves.</Text>
@@ -1384,10 +1384,10 @@
 			<Text>Unidade Naval mais poderosa em ataque direto do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos. Pode causar danos maiores a outros navios quando entra no campo de alcance sem ser detectado.</Text>
+			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE}. Pode causar danos maiores a outros navios quando entra no campo de alcance sem ser detectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
-			<Text>Barco rápido e muito efetivo em reconhecimento. Também usado para caçar e destruir Submarinos inimigos.</Text>
+			<Text>Barco rápido e muito efetivo em reconhecimento. Também usado para caçar e destruir {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
 			<Text>Mais poderosas que as {TXT_KEY_UNIT_FRIGATE[2]}, estas unidades pagam o preço por serem muito fortes: são muito lentas e incapazes de entrar no {TXT_KEY_TERRAIN_OCEAN}.</Text>
@@ -1447,7 +1447,7 @@
 			<Text>Unidade aérea destinada a arrebatar o controle dos céus e interceptar aeronaves inimigas a caminho.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ZERO">
-			<Text>Unidade aérea destinada a arrebatar o controle dos céus e interceptar aeronaves inimigas a caminho. Apenas os Japoneses podem construí-la. Esta unidade possui um bônus contra outros Aviões de Combate, ao contrário do Avião de Combate que ela substitui.</Text>
+			<Text>Unidade aérea destinada a arrebatar o controle dos céus e interceptar aeronaves inimigas a caminho. Apenas os Japoneses podem construí-la. Esta unidade possui um bônus contra outros {TXT_KEY_UNIT_FIGHTER[2]}, ao contrário do {TXT_KEY_UNIT_FIGHTER} que ela substitui.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TANK">
 			<Text>A mais rápida e poderosa unidade da Era Industrial. Recebe penalidade enquanto ataca cidades ou quando fica na defesa, mas é incrivelmente efetiva em terreno aberto.</Text>
@@ -1862,7 +1862,7 @@
 			<Text>25% de penalidade ao atacar cidades</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ATOMIC_BOMB">
-			<Text>Libera uma destruição nuclear sobre seus inimigos. Causa enorme dano às cidades e qualquer unidade alcançada pelo raio da explosão. Pode ser guardada em Porta-Aviões.[NEWLINE][NEWLINE]Requer o Projeto Manhattan e um recurso de Urânio.</Text>
+			<Text>Libera uma destruição nuclear sobre seus inimigos. Causa enorme dano às cidades e qualquer unidade alcançada pelo raio da explosão. Pode ser guardada em {TXT_KEY_UNIT_CARRIER}.[NEWLINE][NEWLINE]Requer o Projeto Manhattan e um recurso de Urânio.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

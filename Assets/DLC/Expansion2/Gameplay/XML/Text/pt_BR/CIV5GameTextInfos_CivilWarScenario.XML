@@ -169,7 +169,7 @@
 			<Text>Military engineering is loosely defined as the art of designing and building military fortifications and maintaining the lines of military transport and communications. In the Civil War, with recent advances in technology, military engineers were not only responsible for field and permanent fortifications, bridges and bases, but tasked with constructing and repairing the rail and telegraph lines that so dramatically changed the nature of warfare.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_TEXT">
-			<Text>The first steam-driven warship plated with iron or steel was launched by the French Navy in 1859, but the first battles involving ironclads took place in 1862 during the Civil War. It quickly became clear that the ironclad had replaced the wooden ship-of-the-line as the most powerful warship afloat; by the end of the war the Confederate Navy launched 24 ironclads (although 59 were begun, several being destroyed before completion), while the Union commissioned 52 coastal ironclads.</Text>
+			<Text>The first steam-driven warship plated with iron or steel was launched by the French Navy in 1859, but the first battles involving {TXT_KEY_UNIT_IRONCLAD[2]} took place in 1862 during the Civil War. It quickly became clear that the ironclad had replaced the wooden ship-of-the-line as the most powerful warship afloat; by the end of the war the Confederate Navy launched 24 {TXT_KEY_UNIT_IRONCLAD[2]} (although 59 were begun, several being destroyed before completion), while the Union commissioned 52 coastal {TXT_KEY_UNIT_IRONCLAD[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_TEXT">
 			<Text>In the Civil War, a "monitor" was an armored, steam-driven warship with a very low freeboard (as a foot from waterline to deck) mounting a few heavy guns in one or more turrets. Intended primarily for use on the rivers that cut through Southern territory, the unseaworthy craft were used to support land forces, protect riverbank positions, and control river passage; monitors were crucial to the Union victories in the West, notably along the Mississippi River.</Text>
@@ -220,13 +220,13 @@
 			<Text>A Guerra Civil é mencionada frequentemente como a primeira guerra "moderna" da história, devido em parte ao uso de armas inovadoras; uma das mais decisivas no nível tático foram os {TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE}, uma arma de cano único que levava múltiplos cartuchos de munição, em que a ação de recarga do rifle também reengatilha o mecanismo de disparo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
-			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Ironclads[ENDCOLOR], a powerful naval unit that will dominate wooden naval vessels.</Text>
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_IRONCLAD[2]}[ENDCOLOR], a powerful naval unit that will dominate wooden naval vessels.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"The turrets and other parts of the ship were heavily struck, but the shots did not penetrate; the tower was intact, and it continued to revolve. A look of confidence passed over the men's faces, and we believed the Merrimac would not repeat the work she had accomplished the day before."[NEWLINE][TAB][TAB] - Samuel Dana Greene[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_DESC">
-			<Text>In an attempt to break the Union blockade, the Confederacy was the first in the Civil War to turn to constructing an ironclad; in October 1861 the CSS Manassas became the first ironclad to enter combat, engaging Union warships in the Battle of the Head of Passes - a battle overshadowed by the first ironclad clash between the CSS Merrimack and the USS Monitor the following February.</Text>
+			<Text>In an attempt to break the Union blockade, the Confederacy was the first in the Civil War to turn to constructing an {TXT_KEY_UNIT_IRONCLAD}; in October 1861 the CSS Manassas became the first {TXT_KEY_UNIT_IRONCLAD} to enter combat, engaging Union warships in the Battle of the Head of Passes - a battle overshadowed by the first {TXT_KEY_UNIT_IRONCLAD} clash between the CSS Merrimack and the USS Monitor the following February.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_HELP">
 			<Text>Allows cavalry units to pillage enemy tiles. Prior to researching this tech, no unit can pillage enemy territory.</Text>

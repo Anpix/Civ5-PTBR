@@ -316,7 +316,7 @@
 			<Text>Unidade Montada poderosa do início do jogo. Fraca contra {TXT_KEY_UNIT_SPEARMAN[2]}. Somente os Cartagineses podem treiná-la. Esta unidade possui uma [ICON_STRENGTH]Força de Combate maior que a da unidade que ela substitui, o {TXT_KEY_UNIT_HORSEMAN}. Além disso, ela causa medo nas unidades inimigas próximas e ajuda a produzir Grandes Generais com maior rapidez.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME_STRATEGY">
-			<Text>Somente os Cartagineses podem construir esta unidade. Ela é a versão mais forte do Trirreme, inclusive na [ICON_STRENGTH]Força de Combate. Como o Trirreme, é uma unidade de ataque corpo a corpo que ataca unidades no mar ou cidades (mas não possui ataque a distância). O Quinquerreme não pode navegar em águas oceânicas fora do limite da cidade.</Text>
+			<Text>Somente os Cartagineses podem construir esta unidade. Ela é a versão mais forte do {TXT_KEY_UNIT_TRIREME}, inclusive na [ICON_STRENGTH]Força de Combate. Como o {TXT_KEY_UNIT_TRIREME}, é uma unidade de ataque corpo a corpo que ataca unidades no mar ou cidades (mas não possui ataque a distância). O {TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME} não pode navegar em águas oceânicas fora do limite da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARTHAGINIAN_QUINQUEREME">
 			<Text>Forte unidade naval da Era Antiga, usada para dominar os mares por meio de ataques corpo a corpo contra unidades navais e cidades. Somente os Cartagineses podem construí-la.</Text>
@@ -388,19 +388,19 @@
 			<Text>Primeira unidade aérea, projetada para interceptar investidas de aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIPLANE_STRATEGY">
-			<Text>O Triplano é a primeira unidade aérea do jogo. Pode ter como base qualquer cidade da sua civilização ou a bordo de Porta-Aviões. Pode se mover de cidade para cidade (ou porta-aviões) e realizar "missões" dentro do seu alcance de 5 hexágonos. Use Triplanos para atacar aeronaves e unidades terrestres inimigas, para verificar posições inimigas e para se defender contra ataques aéreos. Veja as regras na seção "Aeronaves" para maiores informações.</Text>
+			<Text>O {TXT_KEY_UNIT_TRIPLANE} é a primeira unidade aérea do jogo. Pode ter como base qualquer cidade da sua civilização ou a bordo de {TXT_KEY_UNIT_CARRIER[2]}. Pode se mover de cidade para cidade (ou {TXT_KEY_UNIT_CARRIER[2]}) e realizar "missões" dentro do seu alcance de 5 hexágonos. Use {TXT_KEY_UNIT_TRIPLANE[2]} para atacar aeronaves e unidades terrestres inimigas, para verificar posições inimigas e para se defender contra ataques aéreos. Veja as regras na seção "Aeronaves" para maiores informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WWI_BOMBER">
 			<Text>Primeira unidade aérea que pode bombardear unidades e cidades inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER_STRATEGY">
-			<Text>O Bombardeiro Voisin é uma das primeiras unidades aéreas. É efetivo contra alvos terrenos, um pouco menos contra alvos navais e bastante vulnerável a ataques de aeronaves inimigas. O Bombardeiro Voisin pode ter como base uma cidade pertencente à civilização do jogador ou a bordo de um Porta-Aviões. Pode se movimentar de base para base e executar missões em um alcance de 6 hexágonos. Use-o para atacar unidades e cidades inimigas. Quando possível, envie Triplanos ou Aviões primeiro para acionar as armas antiaéreas do inimigo no turno. Veja as regras na seção "Aeronaves" para mais informações.</Text>
+			<Text>O {TXT_KEY_UNIT_WWI_BOMBER} é uma das primeiras unidades aéreas. É efetivo contra alvos terrenos, um pouco menos contra alvos navais e bastante vulnerável a ataques de aeronaves inimigas. O Bombardeiro Voisin pode ter como base uma cidade pertencente à civilização do jogador ou a bordo de um {TXT_KEY_UNIT_CARRIER}. Pode se movimentar de base para base e executar missões em um alcance de 6 hexágonos. Use-o para atacar unidades e cidades inimigas. Quando possível, envie {TXT_KEY_UNIT_TRIPLANE[2]} ou {TXT_KEY_UNIT_FIGHTER[2]} primeiro para acionar as armas antiaéreas do inimigo no turno. Veja as regras na seção "Aeronaves" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_WWI_TANK">
 			<Text>O primeiro do seu gênero, esta unidade da fase avançada do jogo pode se movimentar após atacar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_TANK_STRATEGY">
-			<Text>O Tanque Ultrapesado é uma unidade terrestre poderosa e ágil. Pode se movimentar após atacar, permitindo-lhe abrir buracos nas linhas inimigas e, então, ocupar o agora espaço vago.</Text>
+			<Text>O {TXT_KEY_UNIT_WWI_TANK} é uma unidade terrestre poderosa e ágil. Pode se movimentar após atacar, permitindo-lhe abrir buracos nas linhas inimigas e, então, ocupar o agora espaço vago.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MACHINE_GUN">
 			<Text>Unidade de ataque a distância da fase avançada do jogo. Precisa estar adjacente ao inimigo para atacá-lo.</Text>
@@ -421,7 +421,7 @@
 			<Text>Unidade naval especializada em atacar cidades costeiras para obter ouro e capturar embarcações inimigas. Somente os Holandeses podem construí-la. Repara-se fora de território amigo. Começa com a promoção Viajante Costeiro I, permitindo-lhe obter ouro em ataques contra cidades costeiras. Pode capturar qualquer unidade naval inimiga que derrotar como embarcação prêmio.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL_STRATEGY">
-			<Text>O Grande Almirante possui a habilidade de reparar instantaneamente toda unidade naval e embarcada que estiver no mesmo hexágono e nos adjacentes. O Grande Almirante é consumido quando realiza esta ação. O Grande Almirante também fornece um bônus de 15% a todas as unidades navais do jogador em uma distância de 2 hexágonos. O Grande Almirante NÃO é consumido quando fornece este bônus.</Text>
+			<Text>O {TXT_KEY_UNIT_GREAT_ADMIRAL} possui a habilidade de reparar instantaneamente toda unidade naval e embarcada que estiver no mesmo hexágono e nos adjacentes. O {TXT_KEY_UNIT_GREAT_ADMIRAL} é consumido quando realiza esta ação. O {TXT_KEY_UNIT_GREAT_ADMIRAL} também fornece um bônus de 15% a todas as unidades navais do jogador em uma distância de 2 hexágonos. O {TXT_KEY_UNIT_GREAT_ADMIRAL} NÃO é consumido quando fornece este bônus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY">
 			<Text>{TXT_KEY_UNIT_GREAT_ARTIST[2]} podem construir a melhoria especial {TXT_KEY_IMPROVEMENT_LANDMARK}, que, quando explorada, fornece muita [ICON_CULTURE]Cultura para a cidade. Grandes Artistas também podem iniciar uma Era Dourada e são consumidos quando utilizados para qualquer um desses objetivos.</Text>
@@ -442,13 +442,13 @@
 			<Text>O Infante é a unidade de combate terrestre básica da Era Moderna. É significativamente mais forte que o seu predecessor, o Fuzileiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER">
-			<Text>Unidade naval especializada em repelir aeronaves inimigas. Pode carregar 3 mísseis. Usada para caçar e destruir Submarinos inimigos.</Text>
+			<Text>Unidade naval especializada em repelir aeronaves inimigas. Pode carregar 3 mísseis. Usada para caçar e destruir {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos Destróiers, Cruzadores de Mísseis Guiados e a outros Submarinos ou até que ataque ou fique adjacente à outra unidade. Pode carregar 2 Mísseis e é especializado em atacar outras unidades navais.</Text>			
+			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} ou até que ataque ou fique adjacente à outra unidade. Pode carregar 2 Mísseis e é especializado em atacar outras unidades navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos Destróiers, Cruzadores de Mísseis Guiados e a outros Submarinos ou até que ataque ou fique adjacente à outra unidade. Pode causar danos maiores a outras embarcações quando entram no campo de alcance do Submarino sem que este seja detectado.</Text>
+			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} ou até que ataque ou fique adjacente à outra unidade. Pode causar grandes danos a outras embarcações quando entram no campo de alcance do {TXT_KEY_UNIT_SUBMARINE} sem que este seja detectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MECH">
 			<Text>Não se beneficia de nenhum bônus defensivo fornecido pelo terreno, mas é a unidade militar mais forte de todo o jogo.</Text>			
@@ -496,28 +496,28 @@
 			<Text>A {TXT_KEY_UNIT_INFANTRY} é significativamente mais forte que seu predecessor, o {TXT_KEY_UNIT_GREAT_WAR_INFANTRY}. O combate moderno é muito mais complexo e, sozinha, a {TXT_KEY_UNIT_INFANTRY} é vulnerável a ataques aéreos, da {TXT_KEY_UNIT_ARTILLERY} e de {TXT_KEY_UNIT_TANK[2]}. Quando possível, devem ser auxiliadas por {TXT_KEY_UNIT_ARTILLERY[2]}, {TXT_KEY_UNIT_TANK[2]} e unidades aéreas (ou antiaéreas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
-			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque corpo a corpo que avança sobre unidades no mar ou cidades (mas sem ser por ataque a distância). O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
+			<Text>O {TXT_KEY_UNIT_TRIREME} é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque corpo a corpo que avança sobre unidades no mar ou cidades (mas sem ser por ataque a distância). O {TXT_KEY_UNIT_TRIREME} é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um {TXT_KEY_UNIT_TRIREME} da Polinésia).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TRIREME">
 			<Text>Unidade naval da Era Antiga, usada para arrebatar o controle dos mares por meio de ataques corpo a corpo contra unidades e cidades inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GALLEY_STRATEGY">
-			<Text>A Galé é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Sendo uma unidade de ataque corpo a corpo, a Galé pode importunar cidades costeiras e unidades embarcadas (não com ataque a distância).</Text>
+			<Text>A {TXT_KEY_UNIT_GALLEY} é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Sendo uma unidade de ataque corpo a corpo, a {TXT_KEY_UNIT_GALLEY} pode importunar cidades costeiras e unidades embarcadas (não com ataque a distância).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARAVEL_STRATEGY">
-			<Text>A Caravela é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque corpo a corpo, é mais forte e mais rápida que o Trirreme e pode navegar em águas oceânicas profundas. Ela possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo a corpo possa ocorrer. A Caravela possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na fase mediana do jogo. Esse raio de visão é perdido se a Caravela for atualizada para um Destróier.</Text>
+			<Text>A {TXT_KEY_UNIT_CARAVEL} é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque corpo a corpo, é mais forte e mais rápida que o {TXT_KEY_UNIT_TRIREME} e pode navegar em águas oceânicas profundas. Ela possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo a corpo possa ocorrer. A {TXT_KEY_UNIT_CARAVEL} possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na fase mediana do jogo. Esse raio de visão é perdido se a {TXT_KEY_UNIT_CARAVEL} for atualizada para um {TXT_KEY_UNIT_DESTROYER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CARAVEL">
 			<Text>Rápida unidade de exploração da Renascença com um grande campo de visão e que pode navegar em águas oceânicas. Combate como uma unidade naval de ataque corpo a corpo.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DESTROYER_STRATEGY">
-			<Text>O Destróier é uma unidade naval de ataque corpo a corpo preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades embarcáveis, Super Couraçado e Porta-Aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Destróier possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo a corpo possa ocorrer.</Text>
+			<Text>O {TXT_KEY_UNIT_DESTROYER} é uma unidade naval de ataque corpo a corpo preparado para caçar e destruir {TXT_KEY_UNIT_SUBMARINE[2]} e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades embarcáveis, {TXT_KEY_UNIT_BATTLESHIP} e {TXT_KEY_UNIT_CARRIER} quando estão ao alcance de aeronaves e submarinos inimigos. O {TXT_KEY_UNIT_DESTROYER} possui uma promoção que lhe dá uma boa chance de recuar antes que um ataque naval corpo a corpo possa ocorrer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
-			<Text>Rápida embarcação da fase avançada do jogo, muito efetiva em reconhecimento. Também usada para caçar e destruir Submarinos inimigos. Combate como uma unidade naval de ataque corpo a corpo.</Text>			
+			<Text>Rápida embarcação da fase avançada do jogo, muito efetiva em reconhecimento. Também usada para caçar e destruir {TXT_KEY_INVISIBLE_SUBMARINE} inimigos. Combate como uma unidade naval de ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IRONCLAD_STRATEGY">
-			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo a corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
+			<Text>{TXT_KEY_UNIT_IRONCLAD[2]} são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. Combatem como unidades navais de ataque corpo a corpo e são mais difíceis de serem destruídas que qualquer outra embarcação. Além disso, sua Força de Combate é maior. Use-as principalmente para defender seu litoral e assaltar cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
 			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o {TXT_KEY_UNIT_IRONCLAD} paga o preço por ser muito forte: é mais lento no {TXT_KEY_TERRAIN_OCEAN}.</Text>
@@ -746,7 +746,7 @@
 			<Text>Pode entrar em território rival sem Acordo de Abertura de Fronteiras, mas perde 25% da Força Religiosa original a cada turno que terminar dentro da fronteira. A unidade é eliminada quando sua Força Religiosa chegar a 0.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BATTLESHIP">
-			<Text>Unidade Naval com ataque a distância mais poderosa do jogo até a chegada do Cruzador de Mísseis Guiados.</Text>
+			<Text>Unidade Naval com ataque a distância mais poderosa do jogo até a chegada do {TXT_KEY_UNIT_MISSILE_CRUISER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION_HELP">
 			<Text>Pode embarcar nos [COLOR_POSITIVE_TEXT]hexágonos aquáticos[ENDCOLOR].</Text>
@@ -800,16 +800,16 @@
 			<Text>Bônus vs Aeronaves/Helicópteros (150)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR_II">
-			<Text>Bônus vs Bombardeiros/Helicópteros (150)</Text>
+			<Text>Bônus vs {TXT_KEY_UNIT_BOMBER[2]}/Helicópteros (150)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_FIGHTER">
-			<Text>Bônus vs Aviões de Combate (33)</Text>
+			<Text>Bônus vs {TXT_KEY_UNIT_FIGHTER[2]} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I">
-			<Text>Bônus vs Submarinos (33)</Text>
+			<Text>Bônus vs {TXT_KEY_INVISIBLE_SUBMARINE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II">
-			<Text>Bônus vs Submarinos (100)</Text>
+			<Text>Bônus vs {TXT_KEY_INVISIBLE_SUBMARINE} (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
 			<Text>Bônus vs {TXT_KEY_UNIT_TANK[2]} (100)</Text>
@@ -1359,22 +1359,22 @@
 			<Text>Um Grande General fornece um bônus de combate de 15% para todas as unidades aliadas num espaço de 2 hexágonos. Este bônus aplica-se a todas as formas de combate: corpo a corpo, a distância, defesa e assim por diante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_TITLE">
-			<Text>Grande Almirante</Text>
+			<Text>{TXT_KEY_UNIT_GREAT_ADMIRAL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ADV_QUEST">
-			<Text>O que é um Grande Almirante?</Text>
+			<Text>O que é um {TXT_KEY_UNIT_GREAT_ADMIRAL}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_BODY">
-			<Text>O Grande Almirante segue o mesmo princípio do Grande General. Ao invés de ser gerado em cidades por especialistas, um Grande Almirante é produzido pelos combates navais. Sempre que uma de suas unidades navais ganhar XP, sua civilização gera pontos para um Grande Almirante (exceto quando se combate contra bárbaros). Quando você possuir pontos suficientes, você obterá um Grande Almirante. Neste ponto, a quantidade necessária para a geração do próximo Grande Almirante aumentará.</Text>
+			<Text>O {TXT_KEY_UNIT_GREAT_ADMIRAL} segue o mesmo princípio do {TXT_KEY_UNIT_GREAT_GENERAL}. Ao invés de ser gerado em cidades por especialistas, um {TXT_KEY_UNIT_GREAT_ADMIRAL} é produzido pelos combates navais. Sempre que uma de suas unidades navais ganhar XP, sua civilização gera pontos para um {TXT_KEY_UNIT_GREAT_ADMIRAL} (exceto quando se combate contra bárbaros). Quando você possuir pontos suficientes, você obterá um {TXT_KEY_UNIT_GREAT_ADMIRAL}. Neste ponto, a quantidade necessária para a geração do próximo {TXT_KEY_UNIT_GREAT_ADMIRAL} aumentará.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_TITLE">
 			<Text>Habilidade Especial: Bônus de Combate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_BODY">
-			<Text>Um Grande Almirante fornece um bônus de combate de 15% a todas as unidades navais amigas num raio de 2 hexágonos. Este bônus de combate se aplica a todas as formas de combate: corpo a corpo, a distância, defesa e assim por diante.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_ADMIRAL} fornece um bônus de combate de 15% a todas as unidades navais amigas num raio de 2 hexágonos. Este bônus de combate se aplica a todas as formas de combate: corpo a corpo, a distância, defesa e assim por diante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_ADV_QUEST">
-			<Text>Quais são as habilidades do Grande Almirante?</Text>
+			<Text>Quais são as habilidades do {TXT_KEY_UNIT_GREAT_ADMIRAL}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_TITLE">
 			<Text>Habilidade Especial: Reparar Frota</Text>
@@ -1425,7 +1425,7 @@
 			<Text>O Grande Profeta pode criar uma melhoria?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ABILITIES_HEADING3_BODY">
-			<Text>Cada Grande Pessoa possui duas habilidades (porém, veja o Grande Almirante abaixo).[NEWLINE]- Eles podem ser consumidos na construção de uma Melhoria Especial.[NEWLINE]- Eles possuem outra habilidade especial.</Text>
+			<Text>Cada Grande Pessoa possui duas habilidades (porém, veja o {TXT_KEY_UNIT_GREAT_ADMIRAL} abaixo).[NEWLINE]- Eles podem ser consumidos na construção de uma Melhoria Especial.[NEWLINE]- Eles possuem outra habilidade especial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_BODY">
 			<Text>Construir uma {TXT_KEY_IMPROVEMENT_CITADEL} faz de você proprietário de todos os hexágonos adjacentes a ela, já que sua fronteira aumentará para englobar a {TXT_KEY_IMPROVEMENT_CITADEL}. Adicionalmente, a {TXT_KEY_IMPROVEMENT_CITADEL} fornece um grande bônus defensivo para qualquer unidade que ocupá-la e, além disso, causa dano a qualquer unidade inimiga que terminar seu turno próxima a ela (o dano não se acumula com outras {TXT_KEY_IMPROVEMENT_CITADEL[2]}). Perceba que a {TXT_KEY_IMPROVEMENT_CITADEL} somente funciona quando está em seu território. Se ela mudar de lado, em razão de uma cidade próxima ser conquistada pelo inimigo, ela será eficaz apenas ao novo dono. Se a nova fronteira reclamar hexágonos já pertencentes à outra civilização, você incorrerá em uma penalidade diplomática.</Text>
@@ -1777,13 +1777,13 @@
 			<Text>O mundo é formado por pequenas ilhas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GA_PROGRESS">
-			<Text>Progresso do Grande Almirante</Text>
+			<Text>Progresso do {TXT_KEY_UNIT_GREAT_ADMIRAL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOMACY_OPENBORDERS_HEADING3_BODY">
 			<Text>Quando você ou outra civilização pesquisar a tecnologia Cargos Públicos, você pode realizar um acordo de Abertura de Fronteiras com qualquer civilização em que você tenha estabelecido uma Embaixada (Cidades-Estado não fazem acordos de Abertura de Fronteiras). Enquanto um acordo de Abertura de Fronteiras estiver ativo, as unidades da outra civilização podem entrar em seu território sem que automaticamente declarem guerra. Se o acordo é mútuo, as unidades de qualquer uma das civilizações poderão entrar no território da outra livremente; entretanto, o acordo não precisa ser recíproco: uma civilização pode concedê-lo à outra sem receber um automaticamente em troca. [NEWLINE][NEWLINE]Um acordo de Abertura de Fronteiras dura 20 turnos. Quando 20 turnos se passaram, o acordo deve ser renegociado ou ele acabará.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_MOVEMENT_HEADING2_BODY">
-			<Text>Geralmente, unidades se movem de um hexágono a outro, pagando o "Custo de Movimento" requerido para entrar no novo hexágono. Unidades estão sujeitas às limitações de pilhagem - duas unidades militares ou não militares não podem terminar o turno no mesmo hexágono, mas uma militar e outra não militar podem. Note que unidades militares embarcadas, assim como Grandes Generais e Grandes Almirantes, são todas consideradas unidades não militares e podem ser empilhadas com uma unidade militar para proteção.[NEWLINE][NEWLINE]A maioria das unidades é limitada pelos lugares onde podem ir - unidades terrestres não podem entrar em hexágonos montanhosos e unidades navais não podem transitar por hexágonos terrestres (exceto nas cidades portuárias). Melhorias, como estradas e ferrovias aceleram a velocidade das unidades pelos hexágonos do mapa.[NEWLINE][NEWLINE]Dê uma olhada na seção "Movimento" para detalhes.</Text>
+			<Text>Geralmente, unidades se movem de um hexágono a outro, pagando o "Custo de Movimento" requerido para entrar no novo hexágono. Unidades estão sujeitas às limitações de pilhagem - duas unidades militares ou não militares não podem terminar o turno no mesmo hexágono, mas uma militar e outra não militar podem. Note que unidades militares embarcadas, assim como Grandes Generais e {TXT_KEY_UNIT_GREAT_ADMIRAL[2]}, são todas consideradas unidades não militares e podem ser empilhadas com uma unidade militar para proteção.[NEWLINE][NEWLINE]A maioria das unidades é limitada pelos lugares onde podem ir - unidades terrestres não podem entrar em hexágonos montanhosos e unidades navais não podem transitar por hexágonos terrestres (exceto nas cidades portuárias). Melhorias, como estradas e ferrovias aceleram a velocidade das unidades pelos hexágonos do mapa.[NEWLINE][NEWLINE]Dê uma olhada na seção "Movimento" para detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOVEMENT_EMBARKING_HEADING3_BODY">
 			<Text>No início do jogo, suas unidades terrestres não podem entrar em nenhum hexágono aquático. Entretanto, assim que você aprender a tecnologia Ótica, você poderá conseguir a promoção que permite às unidades terrestres "embarcarem" e se moverem por hexágonos aquáticos costeiros. Para embarcar uma unidade, mova-a para um hexágono adjacente à costa e clique no botão "Embarcar". Quando embarcada, a unidade deverá se mover pela água. (A tecnologia Ótica permite movimentos somente em áreas costeiras. Depois, a tecnologia Astronomia permitirá às unidades embarcadas entrarem em hexágonos oceânicos.)[NEWLINE][NEWLINE]Na água, a unidade embarcada é bastante lenta e quase indefesa. É capaz de se defender até certo ponto, mas não pode atacar, e não deve ser deixada sozinha por muito tempo no mar. É crucial acompanhar unidades terrestres embarcadas com uma defesa naval forte.[NEWLINE][NEWLINE]Quando a unidade estiver adjacente a um hexágono terrestre, você pode selecionar a ação "Desembarcar". A unidade então será capaz de voltar à terra seca. Você pode também clicar com o botão direito num hexágono terrestre e a unidade desembarcará automaticamente.</Text>

@@ -1048,7 +1048,7 @@
 		  <Text>Processando turno do jogador {1_PlayerCount}</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
-			<Text>[COLOR_YELLOW]Interceptação por Avião de Combate ou[ENDCOLOR]</Text>
+			<Text>[COLOR_YELLOW]Interceptação por {TXT_KEY_UNIT_FIGHTER} ou[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING2">
 			<Text>[COLOR_YELLOW]antiaéreo aumentará o dano[ENDCOLOR]</Text>

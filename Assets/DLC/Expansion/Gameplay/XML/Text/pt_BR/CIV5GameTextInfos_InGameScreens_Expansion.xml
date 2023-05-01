@@ -21,10 +21,10 @@
 			<Text>O sistema religioso está desabilitado neste jogo. Fé não é gerada. Panteões e Religiões não podem ser fundados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MO_GA_PROGRESS">
-			<Text>Progresso do Grande Almirante</Text>
+			<Text>Progresso do {TXT_KEY_UNIT_GREAT_ADMIRAL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MO_ADMIRAL_TT">
-			<Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo Grande Almirante é baseado no XP ganho pelo combate de unidades navais.</Text>
+			<Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo {TXT_KEY_UNIT_GREAT_ADMIRAL} é baseado no XP ganho pelo combate de unidades navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MO_GENERAL_TT">
 			<Text>{1_current}/{2_needed}[NEWLINE]O progresso rumo ao próximo Grande General é baseado no XP ganho pelo combate de unidades terrestres.</Text>
@@ -260,7 +260,7 @@
 			<Text>Novo na Expansão</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
-			<Text>Por vezes ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade colocava sua cabeça e ombros acima do resto. Neste jogo, esses visionários são chamados "Grandes Pessoas".[NEWLINE][NEWLINE]Existem tipos diferentes de Grandes Pessoas no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, Grandes Almirantes e Grandes Profetas. Cada um tem uma habilidade especial. [NEWLINE][NEWLINE]Sua civilização adquire Grandes Pessoas por meio da construção de certos edifícios e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram e muito a chegada de Grandes Pessoas. Equilibrar a necessidade de alimentos e o desejo de Grandes Pessoas é um desafio importante da gestão da cidade.</Text>
+			<Text>Por vezes ao longo da história, surgiram homens e mulheres que mudaram profundamente o mundo à sua volta - artistas, cientistas, generais, comerciantes e outros, cuja genialidade colocava sua cabeça e ombros acima do resto. Neste jogo, esses visionários são chamados "Grandes Pessoas".[NEWLINE][NEWLINE]Existem tipos diferentes de Grandes Pessoas no jogo: Grandes Comerciantes, Grandes Artistas, Grandes Cientistas, Grandes Engenheiros, Grandes Generais, {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} e Grandes Profetas. Cada um tem uma habilidade especial. [NEWLINE][NEWLINE]Sua civilização adquire Grandes Pessoas por meio da construção de certos edifícios e maravilhas e, em seguida, designando-lhes "especialistas", os cidadãos de suas cidades que desistiram de trabalhar no campo ou nas minas. Embora os especialistas não trabalhem nos hexágonos da cidade, eles aceleram e muito a chegada de Grandes Pessoas. Equilibrar a necessidade de alimentos e o desejo de Grandes Pessoas é um desafio importante da gestão da cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_COUP">
 			<Text>Golpe</Text>

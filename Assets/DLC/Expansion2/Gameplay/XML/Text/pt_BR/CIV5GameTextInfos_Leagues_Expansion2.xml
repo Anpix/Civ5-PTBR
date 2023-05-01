@@ -700,7 +700,7 @@
 			<Text>Não Proliferação Nuclear</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_NUCLEAR_NON_PROLIFERATION_HELP">
-			<Text>Todas as Civilizações são impedidas de construírem novas armas nucleares (Bombas Atômicas e Mísseis Nucleares). Armas já construídas, entretanto, não são desativadas.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Balísticas.</Text>
+			<Text>Todas as Civilizações são impedidas de construírem novas armas nucleares ({TXT_KEY_UNIT_ATOMIC_BOMB[2]} e {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}). Armas já construídas, entretanto, não são desativadas.[NEWLINE][NEWLINE]Disponível quando qualquer Civilização pesquisar a tecnologia Balísticas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOLUTION_WORLD_RELIGION">
 			<Text>Religião Mundial</Text>

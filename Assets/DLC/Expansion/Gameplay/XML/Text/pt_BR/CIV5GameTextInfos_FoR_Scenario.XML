@@ -192,10 +192,10 @@
 			<Text>Strong, front-line land Unit, which can only be built by the Vandals. It has a higher [ICON_STRENGTH] Combat Strength than the Swordsman, which it replaces. It starts with the Charge promotion, giving it a combat bonus against damaged units.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_VANDAL_TRIHEMIOLLA_TEXT">
-			<Text>The Trihemiolia, based on a Greek design and the most common warship in the Vandal navies, was a 40-ton vessel with two-and-a-half banks of oarsmen on each side. More maneuverable and faster than the Trireme, these ships were used both for ramming and boarding actions. Used primarily as commerce and coastal raiders, the Vandal Trihemiolia had reinforced decks to counter the increasing use of catapults mounted on Roman and Byzantine warships.</Text>
+			<Text>The {TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA}, based on a Greek design and the most common warship in the Vandal navies, was a 40-ton vessel with two-and-a-half banks of oarsmen on each side. More maneuverable and faster than the {TXT_KEY_UNIT_TRIREME}, these ships were used both for ramming and boarding actions. Used primarily as commerce and coastal raiders, the Vandal {TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA} had reinforced decks to counter the increasing use of catapults mounted on Roman and Byzantine warships.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA_STRATEGY">
-			<Text>The Trihemiolia is the Vandal unique naval unit. It has a higher Combat Strength than the Trireme, which it replaces, and is restricted to coastal tiles. It also comes with the promotion Supply, which enables it to heal outside of friendly territory, and is able to capture enemy ships. The Trihemiolias and the sum of its abilities make the Vandals a naval force to be reckoned with in the Mediterranean.</Text>
+			<Text>The {TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA} is the Vandal unique naval unit. It has a higher Combat Strength than the {TXT_KEY_UNIT_TRIREME}, which it replaces, and is restricted to coastal tiles. It also comes with the promotion Supply, which enables it to heal outside of friendly territory, and is able to capture enemy ships. The {TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA[2]} and the sum of its abilities make the Vandals a naval force to be reckoned with in the Mediterranean.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_VANDAL_TRIHEMIOLLA">
 			<Text>Strong Naval Unit used to dominate the seas through melee attacks on naval units and cities. Can capture enemy ships. Only the Vandals may build it.</Text>

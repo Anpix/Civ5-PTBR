@@ -442,22 +442,22 @@
 			<Text>Only the French may build it. This Unit has a combat bonus outside of friendly territory, unlike the Rifleman which it replaces.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_BRANDENBURG_CLASS">
-			<Text>This Ironclad is the strongest ship in this scenario. Only the Germans can build it.</Text>
+			<Text>This {TXT_KEY_UNIT_IRONCLAD} is the strongest ship in this scenario. Only the Germans can build it.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BRANDENBURG_CLASS_STRATEGY">
-			<Text>Replaces the Ironclad for the Germans. It has a higher combat strength which gives it a greater ability to influence city states.</Text>
+			<Text>Replaces the {TXT_KEY_UNIT_IRONCLAD} for the Germans. It has a higher combat strength which gives it a greater ability to influence city states.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_BRANDENBURG_CLASS_TEXT">
 			<Text>The German Brandenburg-class of pre-dreadnoughts, the first being commissioned in 1893 AD, were intended to be an interim stage of design between large coastal ironclads and ocean-going battleships. Heavily armored and armed with six 11-inch heavy guns, four ships were eventually launched. The class saw action as far afield as China during the Boxer Rebellion and the Mediterranean during World War I before being sold off or scrapped.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_CAIO_DUILIO_CLASS">
-			<Text>An Ironclad that specializes in attacking cities. Only the Italians can build it.</Text>
+			<Text>An {TXT_KEY_UNIT_IRONCLAD[2]} that specializes in attacking cities. Only the Italians can build it.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAIO_DUILIO_CLASS_STRATEGY">
-			<Text>Replaces the Ironclad for the Italians. Receives the coastal raider promotion which increases its strength against cities.</Text>
+			<Text>Replaces the {TXT_KEY_UNIT_IRONCLAD[2]} for the Italians. Receives the coastal raider promotion which increases its strength against cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_CAIO_DUILIO_CLASS_TEXT">
-			<Text>Two of the planned three Caio Duilia-class were built by the Italian Regia Marina in 1870s. These ocean-going ironclads were so revolutionary for their time, equipped with 100-ton rifled muzzle loaders and with 50mm armor plate, that the British scrapped their planned new class of battleship to design a counter to the Italian ships. Although the Caio Duilia and Enrico Dandolo never saw action and were scrapped in 1909 and 1920 respectively, they were deployed to the Mediterranean coast of Africa several times to protect or promote Italian interests.</Text>
+			<Text>Two of the planned three Caio Duilia-class were built by the Italian Regia Marina in 1870s. These ocean-going {TXT_KEY_UNIT_IRONCLAD[2]} were so revolutionary for their time, equipped with 100-ton rifled muzzle loaders and with 50mm armor plate, that the British scrapped their planned new class of battleship to design a counter to the Italian ships. Although the Caio Duilia and Enrico Dandolo never saw action and were scrapped in 1909 and 1920 respectively, they were deployed to the Mediterranean coast of Africa several times to protect or promote Italian interests.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_DERVISH_CAVALRY">
 			<Text>{TXT_KEY_UNIT_CAVALRY} que gera Grandes Generais mais rapidamente e luta melhor em terreno aberto. Apenas os Egípcios podem treiná-la.</Text>
