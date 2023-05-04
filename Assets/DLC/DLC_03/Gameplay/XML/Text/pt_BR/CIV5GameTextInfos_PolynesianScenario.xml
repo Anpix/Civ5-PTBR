@@ -19,7 +19,7 @@
             <Text>Mapa do Pacífico Sul</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_DAWN_POLYNESIAN_TEXT">
-            <Text>Aloha, grande rei Polinésio! Vós governais atualmente uma das grandes ilhas do vosso povo. Embora a vida em vosso paraíso tropical e exuberante seja idílica, vossa sede por mais grandeza ultrapassa as ondas. Vosso povo inventou o conceito de orientação, um sofisticado sistema de navegação que se baseia no conhecimento das estrelas, dos pássaros e das correntes oceânicas do poderoso Pacífico. Vossos corajosos navegadores estão prontos para atravessar centenas de milhas no oceano aberto, em suas canoas de casco duplo, à procura de novas ilhas para colonizarem. Vós podereis atravessar as ondas mortais e encontrar um porto seguro além do vosso litoral? Podereis expandir a cultura da vossa ilha e dominar o imenso Pacífico?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A vitória irá para a primeira civilização que adotar todas as políticas sociais e se tornar a cultura dominante na Polinésia.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Há novas tecnologias e políticas sociais apropriadas ao Cenário do Oceânico Pacífico. Cada uma das quatro civilizações principais inicia com uma característica única e pode ganhar os bônus Polinésios exclusivos (a melhoria Moai e a unidade Guerreiro Maori) por meio de pesquisas. Expandi vosso império como desejar; o custo na adoção de políticas sociais NÃO aumenta à medida que cresce o número de cidades no Império.</Text>
+            <Text>Aloha, grande rei Polinésio! Vós governais atualmente uma das grandes ilhas do vosso povo. Embora a vida em vosso paraíso tropical e exuberante seja idílica, vossa sede por mais grandeza ultrapassa as ondas. Vosso povo inventou o conceito de orientação, um sofisticado sistema de navegação que se baseia no conhecimento das estrelas, dos pássaros e das correntes oceânicas do poderoso Pacífico. Vossos corajosos navegadores estão prontos para atravessar centenas de milhas no oceano aberto, em suas canoas de casco duplo, à procura de novas ilhas para colonizarem. Vós podereis atravessar as ondas mortais e encontrar um porto seguro além do vosso litoral? Podereis expandir a cultura da vossa ilha e dominar o imenso Pacífico?[NEWLINE][NEWLINE]CONDIÇÕES DA VITÓRIA[NEWLINE]A vitória irá para a primeira civilização que adotar todas as políticas sociais e se tornar a cultura dominante na Polinésia.[NEWLINE][NEWLINE]REGRAS ESPECIAIS[NEWLINE]Há novas tecnologias e políticas sociais apropriadas ao Cenário do Oceânico Pacífico. Cada uma das quatro civilizações principais inicia com uma característica única e pode ganhar os bônus Polinésios exclusivos (a melhoria {TXT_KEY_IMPROVEMENT_MOAI} e a unidade {TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR}) por meio de pesquisas. Expandi vosso império como desejar; o custo na adoção de políticas sociais NÃO aumenta à medida que cresce o número de cidades no Império.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TURNSREMAINING">
             <Text>Sem limite de turnos neste cenário.</Text>
@@ -31,19 +31,19 @@
             <Text>A mais forte unidade de combate na Polinésia (antes da chegada da arma de fogo).</Text>
         </Row>
         <Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_STRATEGY">
-            <Text>Guerreiros Maoris são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo a corpo causam medo em inimigos próximos com sua Dança de Guerra Haka, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar Guerreiros e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
+            <Text>{TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR[2]} são os grandes magos do campo de batalha Polinésio. Esses fortes guerreiros de combate corpo a corpo causam medo em inimigos próximos com sua {TXT_KEY_PROMOTION_HAKA_WAR_DANCE}, uma promoção que diminui a [ICON_STRENGTH]Força de Combate das unidades inimigas. Eles são capazes de derrotar {TXT_KEY_UNIT_WARRIOR[2]} e {TXT_KEY_UNIT_SPEARMAN[2]} com facilidade.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_HELP_TRIREME">
             <Text>Unidade naval da Era Medieval, usada para arrebatar o controle dos mares.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_TRIREME_STRATEGY">
-            <Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo a corpo. O Trirreme é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto {TXT_KEY_TERRAIN_OCEAN}, fora das bordas da cidade).</Text>
+            <Text>O {TXT_KEY_UNIT_TRIREME} é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta Força de Ataque a Distância. Não é capaz de iniciar um combate corpo a corpo. O {TXT_KEY_UNIT_TRIREME} é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos do alto {TXT_KEY_TERRAIN_OCEAN}, fora das bordas da cidade).</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_IMPROVEMENTS_MOAI_HELP">
-            <Text>O Moai só pode ser construído no litoral. Se for construído próximo a outro Moai, [ICON_CULTUE]Cultura extra será fornecida.</Text>
+            <Text>O {TXT_KEY_IMPROVEMENT_MOAI} só pode ser construído no litoral. Se for construído próximo a outro {TXT_KEY_IMPROVEMENT_MOAI}, [ICON_CULTUE]Cultura extra será fornecida.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILD_MOAI_HELP">
-            <Text>Adiciona um Moai (+1 de [ICON_CULTURE]Cultura) ao hexágono. Crie uma linha de Moais ao longo do litoral para Cultura adicional. Também oferece +1 de [ICON_GOLD]Ouro, após o Voo ser pesquisado.</Text>
+            <Text>Adiciona um {TXT_KEY_IMPROVEMENT_MOAI} (+1 de [ICON_CULTURE]Cultura) ao hexágono. Crie uma linha de {TXT_KEY_IMPROVEMENT_MOAI[2]} ao longo do litoral para Cultura adicional. Também oferece +1 de [ICON_GOLD]Ouro, após o Voo ser pesquisado.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILD_MOAI_REC">
             <Text>Permitirá que o hexágono gere [ICON_CULTURE]Cultura (e [ICON_GOLD]Ouro após o Voo ser pesquisado).</Text>
@@ -64,10 +64,10 @@
             <Text>[NEWLINE][TAB][TAB]"A Hidrocultura é um negócio ariscado. Você não entra na hidrocultura por dinheiro. Você entra porque você ama isso."[NEWLINE][TAB][TAB] - Michael Matthews[NEWLINE][TAB]</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_DESC">
-            <Text>Uma das principais artes decorativas da Polinésia e a escultura ornamental. Não importa o material, seja concha, osso, madeira ou pedra, os Polinésios transformaram o que eles tinham em mãos em ornamentos excepcionais. Esculturas não eram reservadas a acessórios cerimoniais e religiosos; mesmo nas simples ferramentas de uso diário, nas colheres ou nas vigas das casas, elas eram encontradas muitas vezes com detalhes meticulosos.[NEWLINE][NEWLINE]Embora a escultura tenha sido comum em toda a Polinésia, estilos locais e materiais de preferência variavam significativamente. Por exemplo, o Havaí possuía uma boa fonte de árvores e a escultura em madeira alcançou significantes habilidades técnicas e detalhes, enquanto os residentes das outras três ilhas orientais usavam as rochas vulcânicas para construírem os maravilhosos e mundialmente conhecidos Moais.[NEWLINE][NEWLINE]As estátuas Tiki, figuras humanas estilizadas, eram as esculturas mais comuns. As figuras representavam heróis e ancestrais e acreditava-se que elas se comunicavam com o poder divino de Mana, com olhos grandes representando a consciência e dentes a mostra demonstrando o poder e a provocação. Apenas após a Segunda Guerra Mundial as "tiki" adquiriram seu significado como uma forma inculta de arte.[NEWLINE][NEWLINE]Além da escultura ornamental de objetos, os Polinésios deixaram uma variedade de petróglifos em rochas por todas as ilhas. Esses petróglifos e as enigmáticas escritas das tábuas Rongo-Rongo ainda são objetos de intensa discussão e, ocasionalmente, de teorias de conspirações.</Text>
+            <Text>Uma das principais artes decorativas da Polinésia e a escultura ornamental. Não importa o material, seja concha, osso, madeira ou pedra, os Polinésios transformaram o que eles tinham em mãos em ornamentos excepcionais. Esculturas não eram reservadas a acessórios cerimoniais e religiosos; mesmo nas simples ferramentas de uso diário, nas colheres ou nas vigas das casas, elas eram encontradas muitas vezes com detalhes meticulosos.[NEWLINE][NEWLINE]Embora a escultura tenha sido comum em toda a Polinésia, estilos locais e materiais de preferência variavam significativamente. Por exemplo, o Havaí possuía uma boa fonte de árvores e a escultura em madeira alcançou significantes habilidades técnicas e detalhes, enquanto os residentes das outras três ilhas orientais usavam as rochas vulcânicas para construírem os maravilhosos e mundialmente conhecidos {TXT_KEY_IMPROVEMENT_MOAI[2]}.[NEWLINE][NEWLINE]As estátuas Tiki, figuras humanas estilizadas, eram as esculturas mais comuns. As figuras representavam heróis e ancestrais e acreditava-se que elas se comunicavam com o poder divino de Mana, com olhos grandes representando a consciência e dentes a mostra demonstrando o poder e a provocação. Apenas após a Segunda Guerra Mundial as "tiki" adquiriram seu significado como uma forma inculta de arte.[NEWLINE][NEWLINE]Além da escultura ornamental de objetos, os Polinésios deixaram uma variedade de petróglifos em rochas por todas as ilhas. Esses petróglifos e as enigmáticas escritas das tábuas Rongo-Rongo ainda são objetos de intensa discussão e, ocasionalmente, de teorias de conspirações.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_HELP">
-            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Moai[ENDCOLOR] nos hexágonos costeiros, melhorando a produção [ICON_CULTURE]Cultural naqueles terrenos.</Text>
+            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_MOAI}[ENDCOLOR] nos hexágonos costeiros, melhorando a produção [ICON_CULTURE]Cultural naqueles terrenos.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_QUOTE">
             <Text>[NEWLINE][TAB][TAB]"Eu vi o anjo no mármore e o esculpi até libertá-lo."[NEWLINE][TAB][TAB] - Michelangelo[NEWLINE][TAB]</Text>
@@ -85,7 +85,7 @@
             <Text>Faltava à cultura Polinésia uma linguagem escrita largamente propagada e, portanto, era transmitida oralmente e por meio de variados métodos memorizados, incluindo danças cerimoniais e canto. A dança variava de região para região na Polinésia. Danças cerimoniais acompanhavam rituais de fertilidade, onde eram usadas para honrar os deuses, agradar o chefe e os heróis, além de causar admiração aos visitantes. O contato com o Ocidente inevitavelmente levou ao uso de outros instrumentos, além de introduzir diferentes estilos musicais às danças existentes.[NEWLINE][NEWLINE]A dança cerimonial Polinésia mais famosa provavelmente era a Hula, criada no Havaí, e a Maori Haka, da Nova Zelândia. A Hula é famosa por seus cantos e gestos e a Haka por seu traço enérgico, movimento e cânticos cadenciados. As Hulas são classificadas em duas grandes categorias: "antiga", referindo-se a existente antes do contato Ocidental, chamada de "kahiko", e um estilo mais moderno, dos séculos XIX e XX, chamada "'Auana". A Haka foi dançada tanto por homens quanto pelas mulheres Maoris, desde ocasiões como funerais quanto guerras.[NEWLINE][NEWLINE]A dança ainda é uma parte importante da cultura Polinésia e da região, permitindo que futuras gerações possam experimentar a cultura por meio de movimentos graciosos e harmoniosos dos seus manifestantes mais pacíficos, assim como dos poderosos e agressivos times de rúgbi.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_HELP">
-            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Guerreiro Maori[ENDCOLOR], a unidade da Era Clássica mais poderosa no jogo. Também permite a construção do [COLOR_POSITIVE_TEXT]Monumento Nacional Épico[ENDCOLOR].</Text>
+            <Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR}[ENDCOLOR], a unidade da Era Clássica mais poderosa no jogo. Também permite a construção do [COLOR_POSITIVE_TEXT]Monumento Nacional Épico[ENDCOLOR].</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_QUOTE">
             <Text>[NEWLINE][TAB][TAB]"Eu somente acreditaria em um Deus que soubesse como dançar."[NEWLINE][TAB][TAB] - Friedrich Nietzsche[NEWLINE][TAB]</Text>
@@ -103,7 +103,7 @@
             <Text>Fornece +1 de [ICON_MOVES]Movimento para unidades embarcadas. Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_OBSERVATORY}[ENDCOLOR], o primeiro edifício que melhora a produção de pontos de ciência. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_LIGHTHOUSE}[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_HARBOR}[ENDCOLOR], edifícios que melhoram a sua produção de [ICON_FOOD]Alimento de ladrilhos aquáticos e conectam rotas comerciais sobre as águas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_COMPASS_HELP">
-            <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Caravela[ENDCOLOR], a primeira unidade naval da Renascença.</Text>
+            <Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARAVEL}[ENDCOLOR], a primeira unidade naval da Renascença.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CONSTRUCTION_HELP">
             <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Muralha[ENDCOLOR], que melhora e muito a defesa das cidades contra ataques. Também permite a construção de [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR].</Text>
@@ -121,10 +121,10 @@
             <Text>Permite a construção de [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_MINE[2]}[ENDCOLOR] para aumentar a [ICON_PRODUCTION]Produção, [COLOR_POSITIVE_TEXT]Derrubar {TXT_KEY_FEATURE_FOREST[2]}[ENDCOLOR] e [COLOR_POSITIVE_TEXT]Desmatar {TXT_KEY_FEATURE_JUNGLE[2]}[ENDCOLOR], que permite que outras melhorias possam ser construídas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_NAVIGATION_HELP">
-            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]Trirreme[ENDCOLOR], a primeira embarcação de guerra do cenário. Também permite que unidades embarcadas possam se defender quando atacadas por barcos de guerra.</Text>
+            <Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_TRIREME}[ENDCOLOR], a primeira embarcação de guerra do cenário. Também permite que unidades embarcadas possam se defender quando atacadas por barcos de guerra.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_OPTICS_HELP">
-            <Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], a unidade de guerra mais poderosa do cenário.</Text>
+            <Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_FRIGATE}[ENDCOLOR], a unidade de guerra mais poderosa do cenário.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SAILING_HELP">
             <Text>Permite a construção do {TXT_KEY_UNIT_WORK_BOAT}, útil para colher recursos aquáticos como [ICON_RES_FISH][COLOR_POSITIVE_TEXT]Peixes[ENDCOLOR] e [ICON_RES_PEARLS][COLOR_POSITIVE_TEXT]Pérolas[ENDCOLOR].</Text>
@@ -154,7 +154,7 @@
             <Text>CERIMÔNIA</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_CEREMONY_TEXT">
-            <Text>Cerimônias são rituais que uma sociedade usa para marcar eventos importantes e reforçar laços sociais. Podem variar de cerimônias populares e comuns, como a Kava, a algumas mais pessoais, como Surfing. Elas também podem ser classificadas quanto ao seu grau de sacralidade, como a Tapu, muito sagrada, e outras bem menos informais. Independente da natureza da cerimônia, ela serve para reforçar laços sociais de uma cultura.</Text>
+            <Text>Cerimônias são rituais que uma sociedade usa para marcar eventos importantes e reforçar laços sociais. Podem variar de cerimônias populares e comuns, como a Kava, a algumas mais pessoais, como {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING}. Elas também podem ser classificadas quanto ao seu grau de sacralidade, como a Tapu, muito sagrada, e outras bem menos informais. Independente da natureza da cerimônia, ela serve para reforçar laços sociais de uma cultura.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_THE_ARTS">
             <Text>As Artes</Text>
@@ -196,10 +196,10 @@
             <Text>Escultura em Pedras</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Escultura em Pedras[ENDCOLOR][NEWLINE]+1 de [ICON_CULTURE]Cultura de cada Moai.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Escultura em Pedras[ENDCOLOR][NEWLINE]+1 de [ICON_CULTURE]Cultura de cada {TXT_KEY_IMPROVEMENT_MOAI}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING_DESC">
-            <Text>A escultura Polinésia se destacou como uma das melhores artes decorativas e, apesar de o estilo variar de uma ilha para outra, cada ilha focou no material que ela tinha disponível. Em ilhas sem grandes florestas, a escultura em pedras normalmente apareceu em destaque. Além das figuras humanas tiki, muitas ilhas Polinésias criaram petróglifos em vários estilos. O mais famoso exemplo de escultura em pedras da Polinésia são os massivos Moais da Ilha de Páscoa. Essas 887 estátuas foram esculpidas de rochas vulcânicas da Ilha de Páscoa com ferramentas líticas simples e foram transportadas por quilômetros por vários trabalhadores até suas plataformas ahu, de onde poderiam olhar o interior da ilha em uma impressionante demonstração de mana.</Text>
+            <Text>A escultura Polinésia se destacou como uma das melhores artes decorativas e, apesar de o estilo variar de uma ilha para outra, cada ilha focou no material que ela tinha disponível. Em ilhas sem grandes florestas, a escultura em pedras normalmente apareceu em destaque. Além das figuras humanas tiki, muitas ilhas Polinésias criaram petróglifos em vários estilos. O mais famoso exemplo de escultura em pedras da Polinésia são os massivos {TXT_KEY_IMPROVEMENT_MOAI[2]} da Ilha de Páscoa. Essas 887 estátuas foram esculpidas de rochas vulcânicas da Ilha de Páscoa com ferramentas líticas simples e foram transportadas por quilômetros por vários trabalhadores até suas plataformas ahu, de onde poderiam olhar o interior da ilha em uma impressionante demonstração de mana.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI">
             <Text>Tiki</Text>
@@ -217,22 +217,22 @@
             <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO}[ENDCOLOR][NEWLINE]Aumenta em 50% a produção de pontos de [ICON_RESEARCH]Ciência de {TXT_KEY_BUILDING_LIBRARY[2]} e {TXT_KEY_BUILDING_OBSERVATORY[2]}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO_DESC">
-            <Text>Os enigmáticos Moais da Ilha de Páscoa não são o único mistério da ilha. O Rongo-Rongo é uma coleção de tábuas com glifos datadas do século XVIII, cobertas com um tipo de proto-idioma que desafia a decodificação. Há aproximadamente duas dezenas de objetos rongo-rongo legítimos com caracteres consistentes neles, mas mesmo os métodos estatísticos mais avançados falharam em descobrir seus significados. A teoria que lidera neste momento é que rongo-rongo são dispositivos mnemônicos para sacerdotes e encantadores, já que a palavra "rongo-rongo" deriva do Rapa Nui para "recitar, cantar". Um detalhe enlouquecedor sobre os mistérios do rongo-rongo são inúmeros relatos de que havia muito mais desses objetos, mas como os segredos da linguagem foram perdidos, a madeira das tábuas rongo-rongo foi utilizada para construir canoas, carretéis de pesca e até mesmo para servir como lenha aos ilhéus!</Text>
+            <Text>Os enigmáticos {TXT_KEY_IMPROVEMENT_MOAI[2]} da Ilha de Páscoa não são o único mistério da ilha. O Rongo-Rongo é uma coleção de tábuas com glifos datadas do século XVIII, cobertas com um tipo de proto-idioma que desafia a decodificação. Há aproximadamente duas dezenas de objetos rongo-rongo legítimos com caracteres consistentes neles, mas mesmo os métodos estatísticos mais avançados falharam em descobrir seus significados. A teoria que lidera neste momento é que rongo-rongo são dispositivos mnemônicos para sacerdotes e encantadores, já que a palavra "rongo-rongo" deriva do Rapa Nui para "recitar, cantar". Um detalhe enlouquecedor sobre os mistérios do rongo-rongo são inúmeros relatos de que havia muito mais desses objetos, mas como os segredos da linguagem foram perdidos, a madeira das tábuas rongo-rongo foi utilizada para construir canoas, carretéis de pesca e até mesmo para servir como lenha aos ilhéus!</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI">
             <Text>Ariki</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Ariki[ENDCOLOR][NEWLINE]A taxa de nascimento de Grandes Generais aumenta em 100%.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI}[ENDCOLOR][NEWLINE]A taxa de nascimento de {TXT_KEY_UNIT_GREAT_GENERAL[2]} aumenta em 100%.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI_DESC">
-            <Text>Ariki foi o título dado a membros da classe de chefes e nobres na sociedade Polinésia. Vários chefes nobres de menor status, chamados "mataiapo" ou "rangatira", serviam aos Ariki. Dizia-se que os poderes dos chefes sobre seu povo vinha do seu mana, que era enriquecido por seu nobre nascimento e grandes feitos. Atualmente nas Ilhas Cook, há um parlamento chamado Casa dos Ariki, um órgão consultivo muito respeitado, cujos alguns membros tentaram um golpe de estado no início do século XXI, sem sucesso (talvez pela pouca mana).</Text>
+            <Text>{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI} foi o título dado a membros da classe de chefes e nobres na sociedade Polinésia. Vários chefes nobres de menor status, chamados "mataiapo" ou "rangatira", serviam aos {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI}. Dizia-se que os poderes dos chefes sobre seu povo vinha do seu mana, que era enriquecido por seu nobre nascimento e grandes feitos. Atualmente nas Ilhas Cook, há um parlamento chamado Casa dos {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI}, um órgão consultivo muito respeitado, cujos alguns membros tentaram um golpe de estado no início do século XXI, sem sucesso (talvez pela pouca mana).</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA">
             <Text>Haka</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Haka[ENDCOLOR][NEWLINE]Ganha [ICON_CULTURE]Cultura para o Império igual ao TRIPLO da [ICON_STRENGTH]Força de Combate de cada unidade inimiga morta.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA}[ENDCOLOR][NEWLINE]Ganha [ICON_CULTURE]Cultura para o Império igual ao TRIPLO da [ICON_STRENGTH]Força de Combate de cada unidade inimiga morta.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA_DESC">
             <Text>A Haka é uma dança tradicional dos Maori da Nova Zelândia, com distintos movimentos fortes e enérgicos, além de cânticos gritados e cadenciados. A Haka era dançada por homens e mulheres, tanto em ocasiões de guerra e pacíficas (embora um pouco intimidante e se diferenciasse entre grupos e ocasiões). As contorções faciais realizadas durante a Haka, como risos largos e a protusão da língua, eram considerados demonstração do poder da mana que havia dentro do dançarino.[NEWLINE][NEWLINE]A Haka é mais famosa hoje pela saudação de campo do time de rúgbi All Blacks, da Nova Zelândia, mas muitas outras organizações, incluindo as forças militares daquele país, possuem sua apresentação Haka própria.</Text>
@@ -241,10 +241,10 @@
             <Text>Poi</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Poi[ENDCOLOR][NEWLINE]+1 de [ICON_MOVES]Movimento para unidades embarcadas.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI}[ENDCOLOR][NEWLINE]+1 de [ICON_MOVES]Movimento para unidades embarcadas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI_DESC">
-            <Text>Poi é um alimento Polinésio, feito do cozimento das raízes trituradas de uma planta chamada "taro". A consistência do Poi pode variar entre um grosso líquido até uma massa, dependendo do método de cozimento empregado. O gosto do Poi tem sido variadamente descrito como "gosto de cola", "refinado e delicado" e "desafio à descrição". Fermentado, o Poi azedo pode ser utilizado para preparar outras comidas.[NEWLINE][NEWLINE]Na cultura Havaiana, a planta taro tem um papel importante no mito da criação do homem e, por isso, quando o Poi é trazido à mesa, acreditava-se que os espíritos dos ancestrais Havaianos vinham para se reunir com a família.</Text>
+            <Text>{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI} é um alimento Polinésio, feito do cozimento das raízes trituradas de uma planta chamada "taro". A consistência do {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI} pode variar entre um grosso líquido até uma massa, dependendo do método de cozimento empregado. O gosto do {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI} tem sido variadamente descrito como "gosto de cola", "refinado e delicado" e "desafio à descrição". Fermentado, o {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI} azedo pode ser utilizado para preparar outras comidas.[NEWLINE][NEWLINE]Na cultura Havaiana, a planta taro tem um papel importante no mito da criação do homem e, por isso, quando o {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI} é trazido à mesa, acreditava-se que os espíritos dos ancestrais Havaianos vinham para se reunir com a família.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA">
             <Text>Mana</Text>
@@ -269,19 +269,19 @@
             <Text>Luau</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Luau[ENDCOLOR][NEWLINE]+2 de [ICON_HAPPINESS_1]Felicidade de cada tipo de recurso de luxo diferente.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU}[ENDCOLOR][NEWLINE]+2 de [ICON_HAPPINESS_1]Felicidade de cada tipo de recurso de luxo diferente.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU_DESC">
-            <Text>Após o Rei Kamehameha II ter abolido certas religiões tapu em 1819, as ilhas havaianas criaram o Luau, um generoso banquete com iguarias em um ambiente alegre, frequentemente com a companhia de danças e música. Um bom Luau era um banquete com folhas de taro, frango cozido com água de coco, mas logo veio a representar toda a celebração. Os Luais de reis poderiam chegar a tamanhos incríveis, como o famoso "Feliz Monarca" Kalakaua que convidou tantas pessoas que eles tiveram que ser alimentados em turnos de cem. O Luau hoje é sinônimo de "festa" na cultura Havaiana e, de fato, em muitas outras pelo o mundo a fora.</Text>
+            <Text>Após o Rei Kamehameha II ter abolido certas religiões tapu em 1819, as ilhas havaianas criaram o {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU}, um generoso banquete com iguarias em um ambiente alegre, frequentemente com a companhia de danças e música. Um bom {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU} era um banquete com folhas de taro, frango cozido com água de coco, mas logo veio a representar toda a celebração. Os Luais de reis poderiam chegar a tamanhos incríveis, como o famoso "Feliz Monarca" Kalakaua que convidou tantas pessoas que eles tiveram que ser alimentados em turnos de cem. O {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU} hoje é sinônimo de "festa" na cultura Havaiana e, de fato, em muitas outras pelo o mundo a fora.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING">
-            <Text>Surfing</Text>
+            <Text>Surfe</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Surfing[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade para cada cidade no seu Império.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade para cada cidade no seu Império.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING_DESC">
-            <Text>O Ocidente conheceu a arte do he'enalu ("planar sobre as ondas") por meio do diário de viagem do Capitão Cook na HMS Endeavor, embora os antigos Havaianos a praticassem há muito tempo. O acesso aos melhores lugares e praias para surfar era restrito por classes (os surfistas mais habilidosos das classes menores poderiam ganhar o direito de surfar naquelas águas). As pranchas Havaianas podem chegar a 5,5 metros de comprimento e pesar mais de 45 quilos e exigiam habilidades consideráveis e coragem para usá-las.[NEWLINE][NEWLINE]O Surfing experimentou várias "ondas" de popularidade no início do século XX até os dias atuais, à medida que o novo público rapidamente descobria como fazer acrobacias nas ondas.</Text>
+            <Text>O Ocidente conheceu a arte do he'enalu ("planar sobre as ondas") por meio do diário de viagem do Capitão Cook na HMS Endeavor, embora os antigos Havaianos a praticassem há muito tempo. O acesso aos melhores lugares e praias para surfar era restrito por classes (os surfistas mais habilidosos das classes menores poderiam ganhar o direito de surfar naquelas águas). As pranchas Havaianas podem chegar a 5,5 metros de comprimento e pesar mais de 45 quilos e exigiam habilidades consideráveis e coragem para usá-las.[NEWLINE][NEWLINE]O {TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING} experimentou várias "ondas" de popularidade no início do século XX até os dias atuais, à medida que o novo público rapidamente descobria como fazer acrobacias nas ondas.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI">
             <Text>Powhiri</Text>
