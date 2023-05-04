@@ -44,6 +44,7 @@
 		<Row Tag="TXT_KEY_CITY_NAME_HEDEBY">
 			<Text>Hedeby</Text>
 			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JELLING">
 			<Text>Jelling</Text>
