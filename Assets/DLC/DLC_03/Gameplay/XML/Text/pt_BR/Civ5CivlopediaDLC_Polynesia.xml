@@ -31,7 +31,7 @@
 			<Text>O Presente e Futuro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLYNESIA_STATBOX">
-			<Text>[NEWLINE]        Líder: Kamehameha[NEWLINE]        Unidade Exclusiva: Guerreiro Maori[NEWLINE]        Unidade Exclusiva: Moai[NEWLINE][NEWLINE]</Text>
+			<Text>[NEWLINE]        Líder: Kamehameha[NEWLINE]        Unidade Exclusiva: {TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR}[NEWLINE]        Unidade Exclusiva: {TXT_KEY_IMPROVEMENT_MOAI}[NEWLINE][NEWLINE]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_1">
 			<Text>Mais uma coleção de ilhas dispersas que uma civilização unificada, a Polinésia possui uma rica cultura e uma história fascinante. Quando a maioria dos Europeus estava atolada na idade das trevas, os Polinésios estavam aperfeiçoando a arte de viajar através do poderoso Pacífico em pequenas canoas de madeira, orietando-se pels estrelas, tempo e vida selvagem. Por fim, a maioria das ilhas foram colonizadas pelas potências europeias, mas muito da cultura e língua nativa ainda se mantém vigorosamente preservada para as futuras gerações.</Text>
@@ -121,7 +121,7 @@
 			<Text>Muitas construções e fundações foram nomeadas em honra a Kamehameha, como as Escola Kamehameha, o Dia de Kamehameha e a Ordem Real de Kamehameha I.[NEWLINE][NEWLINE]Akira Toriyama, o criador do popular mangá Dragonball, nomeou o ataque de Goku em homenagem a Kamehameha, após sua visita ao Havaí.[NEWLINE][NEWLINE]Kamehameha é o único monarca real já estampado em uma moeda dos Estados Unidos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLYNESIA_MAORI_HEADING">
-			<Text>Guerreiro Maori</Text>
+			<Text>{TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_TEXT">
 			<Text>Os Maoris eram alguns dos guerreiros mais temidos em toda a Polinésia. Eles decoravam suas faces com umas intricadas tatuagens assustadoras, descrevendo em detalhes suas conquistas em batalhas. Antes que um conflito realmente começasse, cada lado teria parte em uma elaborada dança de guerra, chamada Haka, que expressavam teatralmente o destino que aguardava os soldados inimigos que iriam ser derrotados. Esperava-se que a dança intimidasse seus oponentes, fazendo-os desistir da luta e admitir a derrota, o que economizaria aos dois lados muito tempo e energia.[NEWLINE][NEWLINE]Os Maoris também era bem conhecidos por suas tendências canibalescas - guerreiros assassinados eram comidos, para capturar seus espírito de luta e força. Não só porque esta era a única fonte de proteína na ilha, mas isso também era feito em respeito aos guerreiros derrotados.</Text>
@@ -130,22 +130,24 @@
 			<Text>Unidade da Era Antiga que causa medo nos inimigos próximos, tornando-os menos efetivos em combate. Apenas os Polinésios podem treiná-la. Substitui o Guerreiro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_STRATEGY">
-			<Text>O Guerreiro Maori é similar ao Grande General, entretanto, ao invés de aumentar a força de unidades amigas, ele diminui a força de unidades inimigas adjacentes. Treine várias dessas unidades no início do jogo, pois sua promoção continua com elas quando são atualizadas.</Text>
+			<Text>O {TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR} é similar ao {TXT_KEY_UNIT_GREAT_GENERAL}, entretanto, ao invés de aumentar a força de unidades amigas, ele diminui a força de unidades inimigas adjacentes. Treine várias dessas unidades no início do jogo, pois sua promoção continua com elas quando são atualizadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_MOAI">
-			<Text>Moai</Text>
+			<Text>Moai|Moais</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_HELP">
-			<Text>O Moai só pode ser construído no litoral. Se construído próximo a outro Moai, ele oferece [ICON_CULTURE]Cultura adicional. Após a pesquisa da tecnologia Voo, ele também oferece [ICON_GOLD]Ouro extra.</Text>
+			<Text>O {TXT_KEY_IMPROVEMENT_MOAI} só pode ser construído no litoral. Se construído próximo a outro {TXT_KEY_IMPROVEMENT_MOAI}, ele oferece [ICON_CULTURE]Cultura adicional. Após a pesquisa da tecnologia Voo, ele também oferece [ICON_GOLD]Ouro extra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_TEXT">
-			<Text>Talvez mais conhecido como as "Estátuas da Ilha de Páscoa", o Moai são grandes figuras humanoides esculpidas, em sua grande maioria, em rocha vulcânica, como tufo. 887 dessas estátuas ponteiam a Ilha de Páscoa e acredita-se que foram criadas entre 1250 e 1500 d.C., aproximadamente. Quase metade continua na pedreira original, mas o resto foi transportado e levantado próximo à costa da ilha. Facilmente reconhecido por suas grandes cabeças e forma alongada, acredita-se que eles eram representações de ancestrais mortos e poderosos chefes.[NEWLINE][NEWLINE]Enquanto a maioria dos estudiosos concorde na razão e como as estátuas foram criadas, o método de transporte empregado continua um mistério. Pesando de 9 a 86 toneladas cada, eles teriam exigido uma habilidade de engenharia extraordinária para movê-los da mina até o local de descanço final.[NEWLINE][NEWLINE]Em 1994, às estátuas Moai foi dada a proteção oficial da UNESCO, como Patrimônio Mundial.</Text>
+			<Text>Talvez mais conhecido como as "Estátuas da Ilha de Páscoa", os {TXT_KEY_IMPROVEMENT_MOAI[2]} são grandes figuras humanoides esculpidas, em sua grande maioria, em rocha vulcânica, como tufo. 887 dessas estátuas ponteiam a Ilha de Páscoa e acredita-se que foram criadas entre 1250 e 1500 d.C., aproximadamente. Quase metade continua na pedreira original, mas o resto foi transportado e levantado próximo à costa da ilha. Facilmente reconhecido por suas grandes cabeças e forma alongada, acredita-se que eles eram representações de ancestrais mortos e poderosos chefes.[NEWLINE][NEWLINE]Enquanto a maioria dos estudiosos concorde na razão e como as estátuas foram criadas, o método de transporte empregado continua um mistério. Pesando de 9 a 86 toneladas cada, eles teriam exigido uma habilidade de engenharia extraordinária para movê-los da mina até o local de descanço final.[NEWLINE][NEWLINE]Em 1994, às estátuas {TXT_KEY_IMPROVEMENT_MOAI} foi dada a proteção oficial da UNESCO, como Patrimônio Mundial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOAI">
-			<Text>Construir um [LINK=IMPROVEMENT_MOAI]Moai[\LINK]</Text>
+			<Text>Construir um [LINK=IMPROVEMENT_MOAI]{TXT_KEY_IMPROVEMENT_MOAI}[\LINK]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOAI_HELP">
-			<Text>Adiciona um Moai (+1 de [ICON_CULTURE]Cultura) ao hexágono. Crie uma linha de Moais ao longo do litoral para Cultura adicional. Também oferece +1 de [ICON_GOLD]Ouro, após o Voo ser pesquisado.</Text>
+			<Text>Adiciona um {TXT_KEY_IMPROVEMENT_MOAI} (+1 de [ICON_CULTURE]Cultura) ao hexágono. Crie uma linha de {TXT_KEY_IMPROVEMENT_MOAI[2]} ao longo do litoral para Cultura adicional. Também oferece +1 de [ICON_GOLD]Ouro, após o Voo ser pesquisado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_MOAI_REC">
 			<Text>Permitirá que o hexágono gere [ICON_CULTURE]Cultura (e [ICON_GOLD]Ouro após o Voo ser pesquisado).</Text>
