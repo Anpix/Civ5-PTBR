@@ -1647,7 +1647,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_SARGON">
-			<Text>Sargon</Text>
+			<Text>Sargão</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1672,7 +1672,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HAMILCAR_BARCA">
-			<Text>Hamilcar Barca</Text>
+			<Text>Amílcar Barca</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1682,7 +1682,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_SCIPIO_AFRICANUS">
-			<Text>Scipio Africanus</Text>
+			<Text>Cipião Africano</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1692,7 +1692,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ARMINIUS">
-			<Text>Arminius</Text>
+			<Text>Armínio</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -1742,17 +1742,17 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_JEANNE_DARC">
-			<Text>Joana D'Arc</Text>
+			<Text>Joana d'Arc</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_AUITZOTL">
-			<Text>Auitzotl</Text>
+			<Text>Auítzotl</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HERNAN_CORTES">
-			<Text>Hernan Cortes</Text>
+			<Text>Hernán Cortés</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>

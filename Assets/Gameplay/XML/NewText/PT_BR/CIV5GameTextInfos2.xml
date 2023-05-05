@@ -119,7 +119,7 @@
             <Text>Antony van Leeuwenhoek</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_ARCHIMEDES">
-            <Text>Archimedes</Text>
+            <Text>Arquimedes</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_ARETAS_III">
             <Text>Aretas III</Text>
@@ -206,7 +206,7 @@
             <Text>George Washington Goethals</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_DE_MEDICI">
-            <Text>Giovanni de Medici</Text>
+            <Text>Giovanni de Médici</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_GOTTFRIED_LEIBNIZ">
             <Text>Gottfried Leibniz</Text>
@@ -230,7 +230,7 @@
             <Text>Heron</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HOMER">
-            <Text>Homer</Text>
+            <Text>Homero</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_HYPATIA">
             <Text>Hypatia</Text>
@@ -299,7 +299,7 @@
             <Text>Joseph Marie Jacquard</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_JS_BACH">
-            <Text>J. S. Bach</Text>
+            <Text>Johann Sebastian Bach</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_KALIDAS">
             <Text>Kalidas</Text>
@@ -365,7 +365,7 @@
             <Text>Nain Singh</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_NICHOLA_TESLA">
-            <Text>Nichola Tesla</Text>
+            <Text>Nikola Tesla</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_NICOLAUS_COPERNICUS">
             <Text>Nicolaus Copernicus</Text>
@@ -386,10 +386,10 @@
             <Text>Pablo Picasso</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_PLATO">
-            <Text>Plato</Text>
+            <Text>Platão</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_PTOLEMY">
-            <Text>Ptolemy</Text>
+            <Text>Ptolomeu</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_PYTHEAS">
             <Text>Pytheas</Text>
@@ -404,7 +404,7 @@
             <Text>Rembrandt van Rijn</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_RENE_DESCARTES">
-            <Text>Rene Descartes</Text>
+            <Text>René Descartes</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_ROSALIND_FRANKLIN">
             <Text>Rosalind Franklin</Text>
@@ -449,7 +449,7 @@
             <Text>Vincent van Gogh</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_VIRGIL">
-            <Text>Virgil</Text>
+            <Text>Virgílio</Text>
         </Row>
         <Row Tag="TXT_KEY_GREAT_PERSON_WANG_ANSHI">
             <Text>Wang Anshi</Text>
