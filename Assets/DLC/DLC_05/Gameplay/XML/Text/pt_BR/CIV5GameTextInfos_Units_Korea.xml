@@ -5,12 +5,12 @@
   <Language_pt_BR>
       <Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING">
           <Text>Barco Tartaruga|Barcos Tartaruga</Text>
-			<Gender>masculine|masculine</Gender>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
       </Row>
       <Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_HEADING">
-          <Text>Veículo de Fogo|Veículos de Fogo</Text>
-			<Gender>masculine|masculine</Gender>
+          <Text>Hwacha|Hwachas</Text>
+			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
       </Row>
   </Language_pt_BR>
