@@ -6,230 +6,382 @@
 <!-- Game Text Cities -->
 <GameData>
 	<Language_pt_BR>
+		<!-- PERU -->
 		<Row Tag="TXT_KEY_CITY_NAME_CUSCO">
 			<Text>Cusco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU">
-			<Text>Tiwanaku</Text>
+			<Text>Tiauanaco</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MACHU">
 			<Text>Machu</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_OLLANTAYTAMBO">
 			<Text>Ollantaytambo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CORIHUAYACHINA">
 			<Text>Corihuayrachina</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HUAMANGA">
 			<Text>Huamanga</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VILCAS">
 			<Text>Vilcas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VILCABAMBA">
 			<Text>Vilcabamba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VITCOS">
 			<Text>Vitcos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ANDAHUAYLAS">
 			<Text>Andahuaylas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ICA">
 			<Text>Ica</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AREQUIPA">
 			<Text>Arequipa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_NASCA">
 			<Text>Nasca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ATICO">
 			<Text>Atico</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JULI">
 			<Text>Juli</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHUITO">
-			<Text>Chuito</Text>
+			<Text>Quito</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHUQUIAPO">
 			<Text>Chuquiapo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HUANUCOPAMPA">
-			<Text>Huanuco Pampa</Text>
+			<Text>Huánuco Pampa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TAMBOCCOCHA">
 			<Text>Tambococha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HUARAS">
 			<Text>Huaras</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_RIOBAMBA">
 			<Text>Riobamba</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CAXAMALCA">
 			<Text>Caxamalca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAUSA">
 			<Text>Sausa</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TAMBOCOLORADO">
 			<Text>Tambo Colorado</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HUACA">
 			<Text>Huaca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TUMBES">
 			<Text>Tumbes</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHAN_CHAN">
 			<Text>Chan Chan</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SIPAN">
-			<Text>Sipan</Text>
+			<Text>Sipán</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PACHACAMAC">
-			<Text>Pachacamac</Text>
+			<Text>Pachacámac</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LLACTAPATA">
 			<Text>Llactapata</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PISAC">
 			<Text>Pisac</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KUELAP">
 			<Text>Kuelap</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PAJATEN">
-			<Text>Pajaten</Text>
+			<Text>Pajáten</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CHUCUITO">
 			<Text>Chucuito</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
+		<!-- SPAIN -->
 		<Row Tag="TXT_KEY_CITY_NAME_MADRID">
 			<Text>Madri</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BARCELONA">
 			<Text>Barcelona</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SEVILLE">
 			<Text>Sevilha</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CORDOBA">
-			<Text>Córdoba</Text>
+			<Text>Córdova</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TOLEDO">
 			<Text>Toledo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SANTIAGO">
 			<Text>Santiago</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SALAMANCA">
 			<Text>Salamanca</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VALENCIA">
 			<Text>Valência</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ZARAGOZA">
-			<Text>Zaragoça</Text>
+			<Text>Saragoça</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PAMPLONA">
 			<Text>Pamplona</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SANTANDER">
 			<Text>Santander</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VALLADOLID">
-			<Text>Valhadolide</Text>
+			<Text>Valhadolid</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PALMA">
 			<Text>Palma</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LEON">
 			<Text>Leão</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BILBAO">
 			<Text>Bilbau</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LA_CORUNA">
 			<Text>Corunha</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VITORIA">
 			<Text>Vitória</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASTURIAS">
 			<Text>Astúrias</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MURCIA">
 			<Text>Múrcia</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JAEN">
-			<Text>Jaén</Text>
+			<Text>Xaén</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LOGRONO">
-			<Text>Logrono</Text>
+			<Text>Logronho</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TERUEL">
 			<Text>Teruel</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALMERIA">
 			<Text>Almeria</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ZAMORA">
-			<Text>Zamora</Text>
+			<Text>Samora</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MIDA">
 			<Text>Mida</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LUGO">
 			<Text>Lugo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALICANTE">
 			<Text>Alicante</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CADIZ">
-			<Text>Cadiz</Text>
+			<Text>Cádis</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ELCHE">
 			<Text>Elche</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ALCORCON">
 			<Text>Alcorcón</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BURGOS">
 			<Text>Burgos</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VIGO">
 			<Text>Vigo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BADAJOZ">
 			<Text>Badajoz</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_OVIEDO">
 			<Text>Oviedo</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SAN_SEBASTIAN">
-			<Text>San Sebastian</Text>
+			<Text>San Sebastián</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GRANADA">
 			<Text>Granada</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MERIDA">
-			<Text>Merida</Text>
+			<Text>Mérida</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HUELVA">
 			<Text>Huelva</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_IBIZA">
 			<Text>Ibiza</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LAS_PALMAS">
 			<Text>Las Palmas</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TENERIFE">
 			<Text>Tenerife</Text>
+			<Gender>neuter:noart</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 	</Language_pt_BR>
 </GameData>

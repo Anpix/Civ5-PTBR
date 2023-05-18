@@ -4,6 +4,7 @@
 <!--Copyright Firaxis Games 2010 -->
 <GameData>
 	<Language_pt_BR>
+		<!-- City States-->
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
 			<Text>Terra dos Inuítes</Text>
 			<Gender>feminine</Gender>
