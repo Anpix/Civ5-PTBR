@@ -7,12 +7,12 @@
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_UNIT_DANISH_BERSERKER">
-			<Text>Furioso|Furiosos</Text>
+			<Text>Berserker|Berserkeres</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DANISH_SKI_INFANTRY">
-			<Text>Infantaria Ski|Infantarias Ski</Text>
+			<Text>Infantaria de Esquis|Infantarias de Esquis</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
