@@ -18,7 +18,7 @@
             <Text>Um Grande General só pode ser selecionado se você tiver iniciado a árvore política Honra.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ADMIRAL_FROM_FAITH">
-            <Text>Um Grande Almirante só pode ser selecionado se você tiver iniciado a árvore política Exploração.</Text>
+            <Text>Um {TXT_KEY_UNIT_GREAT_ADMIRAL} só pode ser selecionado se você tiver iniciado a árvore política Exploração.</Text>
         </Row>
         <Row Tag="TXT_KEY_NO_ENGINEER_FROM_FAITH">
             <Text>Um Grande Engenheiro só pode ser selecionado se você tiver iniciado a árvore política Tradição.</Text>

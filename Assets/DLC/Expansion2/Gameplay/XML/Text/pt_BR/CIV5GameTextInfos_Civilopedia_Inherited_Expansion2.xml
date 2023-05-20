@@ -272,7 +272,7 @@
 		</Row>
 		<!-- UNITS -->
 		<Row Tag="TXT_KEY_UNIT_FRIGATE_STRATEGY">
-			<Text>The Frigate is the first naval unit since the Caravel. Its Movement, Combat and Ranged Combat strengths are all enhanced when compared to the older naval unit. The Frigate can clear the seas of any Caravels, Triremes, and Barbarian units still afloat. </Text>
+			<Text>A {TXT_KEY_UNIT_FRIGATE} é a primeira unidade naval desde a {TXT_KEY_UNIT_CARAVEL}. Seu Movimento, "Força de Combate" e "Força de Combate a Distância" são todos maiores que a os da antiga unidade naval. A {TXT_KEY_UNIT_FRIGATE} pode limpar dos mares qualquer {TXT_KEY_UNIT_CARAVEL}, {TXT_KEY_UNIT_TRIREME} ou unidades Bárbaras que ainda estiverem flutuando.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_GERMAN_PANZER} é a unidade exclusiva alemã, substituindo o {TXT_KEY_UNIT_TANK}. É mais forte e rápida do que o {TXT_KEY_UNIT_TANK}. Ele também pode se mover após o combate, o que o torna capaz de fazer grandes buracos nas linhas inimigas e então atravessá-los antes que o inimigo possa recuperar a lacuna.</Text>
@@ -317,7 +317,7 @@
 			<Text>Bonus vs Fighters (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_I">
-			<Text>Bonus vs Submarines (33)</Text>
+			<Text>Bonus vs {TXT_KEY_INVISIBLE_SUBMARINE} (33)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK">
 			<Text>Bonus vs Tanks (100)</Text>
@@ -350,7 +350,7 @@
 			<Text>The Gatling gun, forerunner to the machine gun, was invented in 1861 AD by the American Dr. Richard Gatling in the hope of reducing the size of armies and displaying how futile war is. Operation of a Gatling gun involved a revolving multi-barrel design, in which a hand crank turned the mechanism. As each barrel cycled, the spent cartridge was ejected, a new one loaded, and the muzzle barrel cooled. In this manner, a high rate of fire could be maintained without overheating. What the Gatling gun lacked in accuracy was made up for by its lethality.[NEWLINE][NEWLINE]Although not officially adopted by the United States Army until 1866, it was used for the first time in combat during the American Civil War by Union forces. It next saw use during the Peru-Chile War of the Pacific (1879-1883), which convinced European armies of its utility against massed enemies. Within a decade, the Gatling gun was adopted by most of the major powers; it was used most effectively to expand their colonial empires against the likes of the Ndebele, Zulu, Bedouins, Turkmen, Boxers, and other native peoples. In the first decade of the 1900s, designs for gas-operated "machine" guns made the weapon obsolete; the U.S. Army withdrew all models of the Gatling gun from service in 1911, followed soon after by the European armies.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GALLEASS_TEXT">
-			<Text>The Galleass was a class of naval warship that grew in popularity during the 16th century, when designs based on the traditional galley were modified to include heavier armaments. A typical galleass began life as a merchant ship powered by oars, which was then upgraded to include masts for sails. With two forms of propulsion available, the galleass design allowed the ship to maintain much of the traditional galley's renowned speed, while also carrying heavy guns to fend off would-be attackers.</Text>
+			<Text>The {TXT_KEY_UNIT_GALLEASS} was a class of naval warship that grew in popularity during the 16th century, when designs based on the traditional galley were modified to include heavier armaments. A typical {TXT_KEY_UNIT_GALLEASS} began life as a merchant ship powered by oars, which was then upgraded to include masts for sails. With two forms of propulsion available, the {TXT_KEY_UNIT_GALLEASS} design allowed the ship to maintain much of the traditional galley's renowned speed, while also carrying heavy guns to fend off would-be attackers.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREAT_WAR_INFANTRY_TEXT">
 			<Text>As the 20th century opened, the world experienced two of the deadliest and most destructive wars in human history. It was a time of remarkable advancement in the technology of killing, and the infantrymen of World War I faced every conceivable terror the world's scientists and engineers could throw at them. Typically armed with little more than a bolt-action rifle and a simple uniform, these troops braved the horrors of trench warfare to defend their homes and families.</Text>
@@ -374,7 +374,7 @@
 			<Text>With letters of marque in hand, privateer captains were given free reign over the seas during times of war, attacking foreign trade vessels at will. Predominantly sailing from the 16th to 19th centuries, privateers were utilized by all of the major colonial powers, particularly Britain and Spain. As the privateer captains and crew were not typically paid by the government who authorized their mission, they were given a share of the spoils captured from the opposing fleets, sometimes creating a murky distinction between privateers and their unauthorized pirate counterparts.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SEA_BEGGAR_TEXT">
-			<Text>The Sea Beggars, or Watergeuzen, were a collective of privateers opposed to the Spanish control of the Netherlands, active during the Eighty Years' War.  The name originates with a group of Dutch nobles, who marched to the Duchess of Parma's palace with a list of grievances and requests.  Councillors of the Duchess referred to the mass as "beggars", and the name stuck.[NEWLINE][NEWLINE]In 1569, the Beggars were given official letters of operation from William of Orange, and a total of 84 ships were equipped for action.  These Sea Beggars at first limited themselves to basic looting and plundering, but in a time of desperation took a Spanish town and garrison by force.  Inspired by their victory, they began a more offensive campaign, capturing other cities along the coast.  The success of the Sea Beggars was a rally cry to the rest of the Netherlands, and the entire nation began to revolt.  The Sea Beggars' capturing of the Spanish garrison at Brielle is now seen as the beginning of the war for Dutch independence.</Text>
+			<Text>The {TXT_KEY_UNIT_SEA_BEGGAR[2]}, or Watergeuzen, were a collective of privateers opposed to the Spanish control of the Netherlands, active during the Eighty Years' War.  The name originates with a group of Dutch nobles, who marched to the Duchess of Parma's palace with a list of grievances and requests.  Councillors of the Duchess referred to the mass as "beggars", and the name stuck.[NEWLINE][NEWLINE]In 1569, the Beggars were given official letters of operation from William of Orange, and a total of 84 ships were equipped for action.  These {TXT_KEY_UNIT_SEA_BEGGAR[2]} at first limited themselves to basic looting and plundering, but in a time of desperation took a Spanish town and garrison by force.  Inspired by their victory, they began a more offensive campaign, capturing other cities along the coast.  The success of the {TXT_KEY_UNIT_SEA_BEGGAR[2]} was a rally cry to the rest of the Netherlands, and the entire nation began to revolt.  The {TXT_KEY_UNIT_SEA_BEGGAR[2]}' capturing of the Spanish garrison at Brielle is now seen as the beginning of the war for Dutch independence.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREAT_ADMIRAL_TEXT">
 			<Text>"Great Admirals" provide the leadership necessary to guide powerful navies to victory on the open sea. They plan, implement, and execute the complex maneuvers necessary to maintain naval superiority, providing the coastal security that every civilization needs. </Text>
@@ -646,7 +646,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro produzido pela cidade, além da [COLOR_POSITIVE_TEXT]Guarda Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD]Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção dos recursos marinhos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_FRIGATE}[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença, e do [COLOR_POSITIVE_TEXT]Corsário[ENDCOLOR], uma Unidade Naval única que pode obter [ICON_GOLD]Ouro ao atacar cidades costeiras e capturar embarcações inimigas. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção dos recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANCER}[ENDCOLOR], uma unidade montada veloz voltada à caça de outras unidades montadas, e do [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], que melhora a defesa da Cidade.</Text>
@@ -658,10 +658,10 @@
 			<Text>Revela o [ICON_RES_ALUMINUM]Alumínio, um recurso utilizado por muitas unidades da fase avançada do jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Bolsa de Valores[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro, da [COLOR_POSITIVE_TEXT]Usina Hidrelétrica[ENDCOLOR], que aumenta a [ICON_PRODUCTION]Produção de hexágonos próximos a um Rio, e do [COLOR_POSITIVE_TEXT]Distrito Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEAM_POWER_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Couraçado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_IRONCLAD}[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_STADIUM_DESC}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM[2]}.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR], uma embarcação invisível a todas as unidades exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_STADIUM_DESC}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade da Cidade. Também permite que [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WORK_BOAT[2]}[ENDCOLOR] construam {TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Torre de Difusão[ENDCOLOR], uma edificação que aumenta significativamente a produção [ICON_CULTURE]Cultural de uma cidade.</Text>
@@ -670,22 +670,22 @@
 			<Text>Permite o treinamento da unidade terrestre básica [COLOR_POSITIVE_TEXT]Infante[ENDCOLOR] e a construção da [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR], que melhora a defesa da Cidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Triplano[ENDCOLOR], uma unidade aérea para ganhar o controle dos céus, e do [COLOR_POSITIVE_TEXT]Bombardeiro Voisin[ENDCOLOR], que pode devastar Unidades Terrestres e Cidades.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_TRIPLANE}[ENDCOLOR], uma unidade aérea para ganhar o controle dos céus, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WWI_BOMBER}[ENDCOLOR], que pode devastar Unidades Terrestres e Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PLASTICS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Laboratório de Pesquisas[ENDCOLOR], um edifício que melhora a [ICON_RESEARCH]Ciência na Cidade, e do treinamento da [COLOR_POSITIVE_TEXT]Infantaria[ENDCOLOR], uma Unidade Terrestre básica da fase avançada do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRONICS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Porta-Aviões[ENDCOLOR], uma embarcação capaz de transportar aeronaves, e do [COLOR_POSITIVE_TEXT]Super Couraçado[ENDCOLOR], uma Unidade Naval com ataque a distância da fase avançada do jogo.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARRIER}[ENDCOLOR], uma embarcação capaz de transportar aeronaves, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BATTLESHIP}[ENDCOLOR], uma Unidade Naval com ataque a distância da fase avançada do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tanque Ultrapesado[ENDCOLOR], uma incrivelmente poderosa Unidade blindada que pode se mover após atacar. Também permite a construção do [COLOR_POSITIVE_TEXT]Destróier[ENDCOLOR], uma embarcação rápida capaz de caçar Submarinos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_WWI_TANK}[ENDCOLOR], uma incrivelmente poderosa Unidade blindada que pode se mover após atacar. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_DESTROYER}[ENDCOLOR], uma embarcação rápida capaz de caçar {TXT_KEY_UNIT_SUBMARINE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PENICILIN_HELP">
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]Fuzileiro Naval[ENDCOLOR], uma unidade especializada em ataques anfíbios. Também permite a construção do [COLOR_POSITIVE_TEXT]Laboratório Médico[ENDCOLOR], uma edificação que acelera o [ICON_FOOD]crescimento das suas Cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADAR_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância, e do [COLOR_POSITIVE_TEXT]Avião de Combate[ENDCOLOR], uma unidade aérea projetada para defender o espaço aéreo contra aeronaves inimigas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BOMBER}[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_FIGHTER}[ENDCOLOR], uma unidade aérea projetada para defender o espaço aéreo contra aeronaves inimigas. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SOLAR_PLANT}[ENDCOLOR], uma edificação que somente pode ser construída em cidades localizadas no {TXT_KEY_TERRAIN_DESERT} ou próximo a ele, e que aumenta a [ICON_PRODUCTION]Produção. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_RECYCLING_CENTER}[ENDCOLOR], que fornece bônus em [ICON_RES_ALUMINUM]Alumínio.</Text>
@@ -697,19 +697,19 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_HELICOPTER_GUNSHIP}[ENDCOLOR], uma unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM]Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssel Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_NUCLEAR_MISSILE}[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM]Urânio e é capaz de destruir unidades e cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Míssel Guiado[ENDCOLOR], a unidade barata de uso único que pode danificar unidades inimigas, e do [COLOR_POSITIVE_TEXT]Propulsor Espacial[ENDCOLOR], uma das partes da Espaçonave necessária para uma [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROBOTICS_HELP">
-			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]Cruzador de Mísseis Guiados[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar Submarinos inimigos.</Text>
+			<Text>Uma importante tecnologia para a Corrida Espacial, a Robótica permite a construção da [COLOR_POSITIVE_TEXT]Indústria Aeroespacial[ENDCOLOR], uma edificação que acelera a construção das partes da Espaçonave. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MISSILE_CRUISER}[ENDCOLOR], uma Unidade Naval capaz de transportar 3 Mísseis e detectar {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MODERN_ARMOR}[ENDCOLOR], uma Unidade Blindada incrivelmente rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Caça a Jato[ENDCOLOR], a aeronave mais poderosa do jogo.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_TECH_STEALTH_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro Furtivo[ENDCOLOR], a Unidade de Ataque a Distância mais poderosa do jogo.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_STEALTH_BOMBER}[ENDCOLOR], a Unidade de Ataque a Distância mais poderosa do jogo.</Text>
 		</Row>		
 		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPEOPLE_HEADING2_BODY">
-			<Text>Existem nove tipos de Grandes Pessoas: Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Engenheiros, Grandes Mercadores, Grandes Cientistas, Grandes Generais, Grandes Almirantes, e Grandes Profetas.  Os quatro primeiros são bem similares em funcionalidade, cada um tendo habilidades relacionadas à sua especialidade, enquanto os Grandes Generais, Grandes Almirantes, e Grandes Profetas são bem diferentes: eles são gerados de outra forma e têm efeitos diferentes no jogo. Grandes generais e Grandes Almirantes proporcianam bônus relacionados ao combate terrestre e naval, e Grandes Profetas permitem a fundção de uma religião.</Text>
+			<Text>Existem nove tipos de Grandes Pessoas: Grandes Artistas, Grandes Músicos, Grandes Escritores, Grandes Engenheiros, Grandes Mercadores, Grandes Cientistas, Grandes Generais, {TXT_KEY_UNIT_GREAT_ADMIRAL[2]}, e Grandes Profetas.  Os quatro primeiros são bem similares em funcionalidade, cada um tendo habilidades relacionadas à sua especialidade, enquanto os Grandes Generais, {TXT_KEY_UNIT_GREAT_ADMIRAL[2]}, e Grandes Profetas são bem diferentes: eles são gerados de outra forma e têm efeitos diferentes no jogo. Grandes generais e {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} proporcianam bônus relacionados ao combate terrestre e naval, e Grandes Profetas permitem a fundção de uma religião.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_MULTIPLECOMBAT_HEADING3_BODY">
 			<Text>Units receive a "flanking" attack bonus of 10% for each unit adjacent to the target unit. Some promotions and social policies give an attacking unit additional bonuses beyond the basic flanking bonus. These bonuses can be incredibly powerful when enough units are involved. In general, the more units "ganged up" on the target unit, the better!</Text>
@@ -718,7 +718,7 @@
 			<Text>Ranged units (naval, ground, or missiles) cannot capture a city - although they certainly can soften one up a good deal before a melee unit strolls right in.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
-			<Text>Like land units, there are military and non-military naval units, as well as ranged, and melee naval units. Work boats are destroyed when attacked by barbarians and other civs or city-states, and any "embarked" land units are weak, although they can absorb a hit or two.[NEWLINE][NEWLINE]Ranged naval combat units may attack other naval units and any land units within range that they can see.[NEWLINE][NEWLINE]Melee naval combat units may directly attack other naval units, as well as coastal cities. There are however certain late-era naval units that merit special attention: the carrier, missile cruiser and the submarines. For more detail, you can view these units by clicking the "Units" tab in the Civilopedia.</Text>
+			<Text>Like land units, there are military and non-military naval units, as well as ranged, and melee naval units. Work boats are destroyed when attacked by barbarians and other civs or city-states, and any "embarked" land units are weak, although they can absorb a hit or two.[NEWLINE][NEWLINE]Ranged naval combat units may attack other naval units and any land units within range that they can see.[NEWLINE][NEWLINE]Melee naval combat units may directly attack other naval units, as well as coastal cities. There are however certain late-era naval units that merit special attention: the {TXT_KEY_UNIT_CARRIER}, the {TXT_KEY_UNIT_MISSILE_CRUISER} and the {TXT_KEY_UNIT_SUBMARINE[2]}. For more detail, you can view these units by clicking the "Units" tab in the Civilopedia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_COMBATSTRENGTH_HEADING3_BODY">
 			<Text> A unit's Combat Strength (CS) determines how powerful it is in combat. The warrior, the earliest combat unit available, has a CS of 8. Non-combat units like settlers and workers have CS's of 0 (zero). They are defeated (captured or destroyed) when attacked by any military unit.</Text>
@@ -745,10 +745,10 @@
 			<Text>Barbarian encampments on the coastline can create naval units (again, equal to those that can be created by the civilization with the most advanced tech). These units will menace your coastline, destroy naval improvements and attack hapless land units which stray too near the coastline. It's important to maintain a navy to keep them off your back, but the best way to stop these attacks is to destroy the coastal encampments nearby.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUBMARINE_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_UNIT_SUBMARINE[2]} inimigos.</Text>
+			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE_STRATEGY">
-			<Text>The Nuclear Submarine is tougher and stronger than the earlier model. It too is invisible to most units and can see other submarines. Most importantly, Nuclear Submarines can carry guided missiles and nuclear missiles. Like submarines, Nuclear Subs are vulnerable to enemy Destroyers, Missile Cruisers, and Subs, so send units of your own out ahead to make sure the coast is clear.</Text>
+			<Text>O {TXT_KEY_UNIT_NUCLEAR_SUBMARINE} é mais forte e mais poderoso que o modelo da Era Industrial. Também é invisível a maioria das unidades e é capaz de ver outros {TXT_KEY_INVISIBLE_SUBMARINE}. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares. Como {TXT_KEY_UNIT_SUBMARINE[2]}, são vulneráveis a {TXT_KEY_UNIT_DESTROYER[2]} e {TXT_KEY_INVISIBLE_SUBMARINE} inimigos, portanto, envie outras unidades a frente para garantir que o litoral está livre.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FISHINGBOATS_TEXT">
 			<Text>Fishing boats allow a civilization to harvest the valuable crab, fish, whale and pearl resources. To construct fishing boats, you must build a work boat in a coastal city (after your civilization has learned the requisite technology). Work boats are consumed when they construct fishing boats.</Text>

@@ -1240,7 +1240,7 @@
 			<Text>Entre as tribos indígenas das Grandes Planícies e Montanhas Rochosas, alguns membros eram considerados batedores superiores, invocadas para exercer funções críticas para os nômades. Chamado por uma variedade de títulos, esses "{TXT_KEY_UNIT_SHOSHONE_PATHFINDER[2]}" rastreavam inimigos, observavam rotas de migração, espionavam adversários e intrusos e protegiam os acampamentos de inverno. Eles eram tão habilidosos que os exércitos de grandes potências contrataram-nos para agir como batedores e assessores, iniciando na Guerra Pequot (1637-1638 d.C.), quando os colonos Ingleses da Baía de Massachusetts foram ajudados por batedores das tribos Narragansett e Mohegan. No entanto, com o fim das fronteiras e o confinamento das tribos nativas americanas em reservas, o papel do batedor desapareceu.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_VENETIAN_GALLEASS_TEXT">
-			<Text>O projeto original das {TXT_KEY_UNIT_GALLEASS[2]} evoluiu das grandes galés mercantes e manteve-se relativamente inalterado até 1660, quando Veneza construiu seu primeiro navio de linha. Ele normalmente tinha três mastros equipados e era caracterizado por uma proa bem como uma popa. Transportando mais velas e remos que a {TXT_KEY_UNIT_GALLEASS} padrão para aumentar a velocidade, estes navios de guerra Venezianos também tinham uma arma no deck que corria por cima das cabeças dos remadores. No Mediterrâneo, a {TXT_KEY_UNIT_VENETIAN_GALLEASS} permaneceu em serviço por muito tempo depois de ter sido substituída por maiores navios de guerra de outras nações. </Text>
+			<Text>O projeto original das {TXT_KEY_UNIT_GALLEASS[2]} evoluiu das grandes galés mercantes e manteve-se relativamente inalterado até 1660, quando Veneza construiu seu primeiro {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE}. Ele normalmente tinha três mastros equipados e era caracterizado por uma proa bem como uma popa. Transportando mais velas e remos que a {TXT_KEY_UNIT_GALLEASS} padrão para aumentar a velocidade, estes navios de guerra Venezianos também tinham uma arma no deck que corria por cima das cabeças dos remadores. No Mediterrâneo, a {TXT_KEY_UNIT_VENETIAN_GALLEASS} permaneceu em serviço por muito tempo depois de ter sido substituída por maiores navios de guerra de outras nações. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_VENETIAN_MERCHANT_TEXT">
 			<Text>Os comerciantes que operam a partir de Veneza nos séculos 13-16 eram mais do que apenas comerciantes: eles eram exploradores, diplomatas, geógrafos e autores. Além de trazerem riqueza à República de Veneza, eles trouxeram conhecimento e cultura e colocaram-nas por escrito. As façanhas de indivíduos, como Marco Polo, Gasparo Balbi e Ambrogio Contarini, não só fizeram Veneza rica, mas famosa também.</Text>
@@ -2098,7 +2098,7 @@
 			<Text>Estética</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_EXPLORATION_HEADING3_BODY">
-			<Text>A exploração se torna disponível na era medieval e aumenta sua capacidade de espalhar seu império pelos mares. A exploração também libera a capacidade de comprar Grandes Almirantes com Fé e revela os Locais de Antiguidades ocultos.</Text>
+			<Text>A exploração se torna disponível na era medieval e aumenta sua capacidade de espalhar seu império pelos mares. A exploração também libera a capacidade de comprar {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} com Fé e revela os Locais de Antiguidades ocultos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_EXPLORATION_HEADING3_TITLE">
 			<Text>Exploração</Text>

@@ -334,7 +334,7 @@
 			<Text>Gives access to [COLOR_POSITIVE_TEXT]Great War Infantry[ENDCOLOR], the most advanced infantry unit in the world.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RAILROAD_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Land Ironclad[ENDCOLOR], the first landship unit.  Also allows Workers to build [COLOR_POSITIVE_TEXT]Railroads[ENDCOLOR] on map tiles.</Text>
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LAND_IRONCLAD}[ENDCOLOR], the first landship unit.  Also allows Workers to build [COLOR_POSITIVE_TEXT]Railroads[ENDCOLOR] on map tiles.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_HELP">
 			<Text>Provides access to the [COLOR_POSITIVE_TEXT]Analytical Engine[ENDCOLOR] national wonder, which greatly increases [ICON_PRODUCTION] Production.</Text>
@@ -349,19 +349,19 @@
 			<Text>[NEWLINE][TAB][TAB]"Avarice, the spur of industry."[NEWLINE] - David Hume[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Destróier[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Flyer[ENDCOLOR], which is the first air unit.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_DESTROYER}[ENDCOLOR] e do [COLOR_POSITIVE_TEXT]Flyer[ENDCOLOR], que é a primeira unidade aérea.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"To invent an airplane is nothing. To build an airplane is something. But to fly... is everything."[NEWLINE] - Ferdinand Ferber[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_HELP">
-			<Text>Reveals [ICON_RES_URANIUM] Luboric and allows you to build the [COLOR_POSITIVE_TEXT]Battleship[ENDCOLOR].</Text>
+			<Text>Reveals [ICON_RES_URANIUM] Luboric and allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BATTLESHIP}[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Nature, to be commanded, must be obeyed."[NEWLINE] - Francis Bacon[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_HELP">
-			<Text>Reveals [ICON_RES_ALUMINUM] Aetherium and allows you to build the [COLOR_POSITIVE_TEXT]Submarine[ENDCOLOR].  Also allows you to build the [COLOR_POSITIVE_TEXT]Trade College[ENDCOLOR], which increases a city's [ICON_RESEARCH] Science and [ICON_CULTURE] Culture.</Text>
+			<Text>Reveals [ICON_RES_ALUMINUM] Aetherium and allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR].  Also allows you to build the [COLOR_POSITIVE_TEXT]Trade College[ENDCOLOR], which increases a city's [ICON_RESEARCH] Science and [ICON_CULTURE] Culture.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"In wilderness I sense the miracle of life, and behind it our scientific accomplishments fade to trivia."[NEWLINE] - Charles Lindbergh[NEWLINE][TAB]</Text>
@@ -373,10 +373,10 @@
 			<Text>[NEWLINE][TAB][TAB]"Competition is a sin."[NEWLINE] - John D. Rockefeller[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_HELP">
-			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Landship[ENDCOLOR], a powerful land unit.  Also grants access to the [COLOR_POSITIVE_TEXT]Patent Office[ENDCOLOR], which increases a city's [ICON_PRODUCTION] Production and [ICON_GOLD] Gold.</Text>
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LANDSHIP}[ENDCOLOR], a powerful land unit.  Also grants access to the [COLOR_POSITIVE_TEXT]Patent Office[ENDCOLOR], which increases a city's [ICON_PRODUCTION] Production and [ICON_GOLD] Gold.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"The defenders had been driven right and left as soon as the prow of this land ironclad had loomed up over the front of the trench."[NEWLINE] - H.G. Wells[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"The defenders had been driven right and left as soon as the prow of this {TXT_KEY_UNIT_LAND_IRONCLAD} had loomed up over the front of the trench."[NEWLINE] - H.G. Wells[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_HELP">
 			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Stadium[ENDCOLOR], which increases your empire's [ICON_HAPPINESS_1] Happiness.</Text>
@@ -511,10 +511,10 @@
 			<Text>Most powerful ranged Naval unit in the game.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_SUBMARINE_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_UNIT_SUBMARINE[2]} inimigos.</Text>
+			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_SUBMARINE">
-			<Text>Invisible to all Units except Destróiers and other Submarines. Can cause major damage to other ships if they get into range without being seen.</Text>
+			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e outros {TXT_KEY_INVISIBLE_SUBMARINE}. Pode causar grandes danos a outras embarcações quando entram no campo de alcance do {TXT_KEY_UNIT_SUBMARINE} sem que este seja detectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_ANTI_AIRCRAFT_GUN">
 			<Text>Will intercept enemy Flyers which try to attack nearby Units.  Also effective against airships.</Text>
@@ -523,19 +523,19 @@
 			<Text>Much had been learned from the construction of the "Iron Horse" that was the railroad.  Soon, inventors tried to engineer a vehicle with the power of a locomotive without need of a track.  Designing the apparatus for moving the unwieldy metal beasts that were the first prototypes proved extremely difficult.  The process merged into a simpler design with much less armor plating, but enough to withstand gunfire and the elements.  The first drivers found that having a light, maneuverable craft was much more effective than a bulky one.  It allowed for quick travel on less fuel, as well as agility in combat.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_STRATEGY">
-			<Text>The most basic type of landship unit, the Land Ironclad is well armored and shines in ground combat.  Use it to easily defeat primitive land units and wear down cities for capture.  Its armor will somewhat protect it against the smaller guns of Flyers, but it is very vulnerable to cannon fire from Airships.</Text>
+			<Text>The most basic type of landship unit, the {TXT_KEY_UNIT_LAND_IRONCLAD} is well armored and shines in ground combat.  Use it to easily defeat primitive land units and wear down cities for capture.  Its armor will somewhat protect it against the smaller guns of Flyers, but it is very vulnerable to cannon fire from Airships.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_HELP">
 			<Text>First landship unit.  Strong against other land units, but weak against airships.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP_TEXT">
-			<Text>The Landship was everything the land ironclad was to be but was not.  The discovery of luboric increased the energy available to power such a vehicle exponentially, allowing for more armor and weaponry while maintaining the same maneuverability.  It became the gold standard on the battlefield, capable of destroying nearly any other land unit.  With several of them, a commander could quickly take out an army or encircle a city.</Text>
+			<Text>The {TXT_KEY_UNIT_LANDSHIP} was everything the {TXT_KEY_UNIT_LAND_IRONCLAD} was to be but was not.  The discovery of luboric increased the energy available to power such a vehicle exponentially, allowing for more armor and weaponry while maintaining the same maneuverability.  It became the gold standard on the battlefield, capable of destroying nearly any other land unit.  With several of them, a commander could quickly take out an army or encircle a city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP_STRATEGY">
-			<Text>The Landship is heavily armored and excels at ground combat.  Use it to defeat other land units and wear down cities for capture.  Its armor will help protect it against the smaller guns of Flyers, but it is vulnerable to cannon fire from Airships.  Escort the Landship with units that are strong against air units, such as Flyers and Anti-Air Guns, for maximum survivability.</Text>
+			<Text>The {TXT_KEY_UNIT_LANDSHIP} is heavily armored and excels at ground combat.  Use it to defeat other land units and wear down cities for capture.  Its armor will help protect it against the smaller guns of Flyers, but it is vulnerable to cannon fire from Airships.  Escort the {TXT_KEY_UNIT_LANDSHIP} with units that are strong against air units, such as Flyers and Anti-Air Guns, for maximum survivability.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP_HELP">
-			<Text>More powerful version of the Land Ironclad.  Strong against other land units, but weak against airships.</Text>
+			<Text>More powerful version of the {TXT_KEY_UNIT_LAND_IRONCLAD}.  Strong against other land units, but weak against airships.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_TEXT">
 			<Text>The Land Leviathan is the pinnacle of ground combat.  Taking its name from the fantastic sea monster, it boasts immense firepower.  It can fire from almost any angle and trek across the land at great speeds.  It is outfitted with a crew of sixteen: some man the cannons, others tend the luboric engine, and a pair act as pilot and navigator.  During training they learn to move and think as one unit, developing a shorthand language for giving complex commands quickly.</Text>
@@ -660,7 +660,7 @@
 			<Text>Valuable luboric deposits are a rare find, but once its chemical composition was known, scientists were able to find trace amounts nearly anywhere.  Through elaborate chemical processes, these trace amounts can be refined into potent compounds that mimic the effects of pure luboric.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_STRATEGY">
-			<Text>Provides [ICON_RES_URANIUM] Luboric resources without needing to own a tile with the resource.  With these resources, you can train more landship units for your army.</Text>
+			<Text>Provides [ICON_RES_URANIUM] Luboric resources without needing to own a tile with the resource.  With these resources, you can train more {TXT_KEY_UNIT_LANDSHIP} units for your army.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_HELP">
 			<Text>Provides [COLOR_POSITIVE_TEXT]2 [ICON_RES_URANIUM] Luboric[ENDCOLOR] resources.</Text>

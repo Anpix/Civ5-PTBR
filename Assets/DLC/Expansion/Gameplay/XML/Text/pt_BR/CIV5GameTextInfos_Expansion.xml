@@ -39,7 +39,7 @@
 			<Text>Um Grande General somente pode ser selecionado se você tiver iniciado o ramo da Política Social Autocracia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NO_ADMIRAL_FROM_FAITH">
-			<Text>Um Grande Almirante somente pode ser selecionado se você tiver iniciado o ramo da Política Social Autocracia.</Text>
+			<Text>Um {TXT_KEY_UNIT_GREAT_ADMIRAL} somente pode ser selecionado se você tiver iniciado o ramo da Política Social Autocracia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NO_ENGINEER_FROM_FAITH">
 			<Text>Um Grande Engenheiro somente pode ser selecionado se você tiver iniciado o ramo da Política Social Ordem.</Text>

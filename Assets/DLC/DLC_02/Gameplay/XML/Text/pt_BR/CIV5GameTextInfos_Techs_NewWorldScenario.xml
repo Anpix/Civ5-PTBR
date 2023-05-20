@@ -11,7 +11,7 @@
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
 			<Text>Tradição Naval</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>						
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
 			<Text>Soldados Profissionais</Text>

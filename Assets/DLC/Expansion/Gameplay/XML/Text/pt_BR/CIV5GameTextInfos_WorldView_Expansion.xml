@@ -75,7 +75,7 @@
 			<Text>Defensor da Fé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_GA_NEAR">
-			<Text>Próximo a Grande Almirante</Text>
+			<Text>Próximo a {TXT_KEY_UNIT_GREAT_ADMIRAL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_REVERSE_GG_NEAR">
 			<Text>Próximo a Oponente Apavorante</Text>

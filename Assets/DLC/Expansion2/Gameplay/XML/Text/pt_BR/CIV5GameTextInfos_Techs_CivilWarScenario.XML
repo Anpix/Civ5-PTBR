@@ -23,7 +23,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_TITLE">
-			<Text>Couraçados</Text>
+			<Text>{TXT_KEY_UNIT_IRONCLAD[2]}</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Row>

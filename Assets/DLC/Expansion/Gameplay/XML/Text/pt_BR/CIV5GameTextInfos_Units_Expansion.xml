@@ -33,8 +33,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_DROMON">
 			<Text>Dromon|Dromons</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BYZANTINE_CATAPHRACT">
 			<Text>Catafractário|Catafractários</Text>
@@ -47,9 +47,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME">
-			<Text>Quinquerreme|Quinquerremes</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Text>Quinquerremo|Quinquerremos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HUN_HORSE_ARCHER">
 			<Text>Arqueiro Montado|Arqueiros Montados</Text>
@@ -118,8 +118,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_TANK">
 			<Text>Tanque Ultrapesado|Tanques Ultrapesados</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MACHINE_GUN">
 			<Text>Metralhadora Pesada|Metralhadoras Pesadas</Text>
@@ -128,18 +128,18 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PRIVATEER">
 			<Text>Corsário|Corsários</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SEA_BEGGAR">
 			<Text>Mendigo do Mar|Mendigos do Mar</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL">
 			<Text>Grande Almirante|Grandes Almirantes</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
 			<Text>Corpo a Corpo - Naval</Text>

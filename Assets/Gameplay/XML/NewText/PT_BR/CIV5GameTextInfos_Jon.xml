@@ -1586,7 +1586,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Mercantilismo[ENDCOLOR][NEWLINE]Comprar itens nas cidades requer 25% menos [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Tradição Naval[ENDCOLOR][NEWLINE]+1 de [ICON_MOVES]Movimento para unidades navais e +1 de Visão para unidades de combate navais.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_NAVAL_TRADITION}[ENDCOLOR][NEWLINE]+1 de [ICON_MOVES]Movimento para unidades navais e +1 de Visão para unidades de combate navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_PROTECTIONISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Protecionismo[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade de cada recurso de luxo.</Text>
@@ -2852,7 +2852,7 @@
 			<Text>Construir o Projeto Utopia desencadeia a [COLOR_POSITIVE_TEXT]Vitória Cultural[ENDCOLOR]!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_MANHATTAN_PROJECT_HELP">
-			<Text>Permite que suas cidades construam Bombas Atômicas e Mísseis Nucleares.</Text>
+			<Text>Permite que suas cidades construam {TXT_KEY_UNIT_ATOMIC_BOMB[2]} e {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM_HELP">
 			<Text>Sinaliza o início da corrida espacial, permitindo que suas cidades construam peças da Espaçonave. Quando a Espaçonave estiver completa, você ganhará a [COLOR_POSITIVE_TEXT]Vitória Científica[ENDCOLOR]!</Text>

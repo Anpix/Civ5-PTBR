@@ -24,8 +24,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA">
 			<Text>Trirremiola|Trirremiolas</Text>
-			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GOTH_GADRAUHT">
 			<Text>Valente|Valentes</Text>
@@ -40,18 +40,18 @@
 		<!-- EMPIRES OF THE SMOKY SKIES -->
 		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD">
 			<Text>Couraçado Terrestre|Couraçados Terrestres</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LANDSHIP">
 			<Text>Tanque Ultrapesado|Tanques Ultrapesados</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN">
 			<Text>Leviatã Terrestre|Leviatãs Terrestres</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FLYER">
 			<Text>Voador|Voadores</Text>

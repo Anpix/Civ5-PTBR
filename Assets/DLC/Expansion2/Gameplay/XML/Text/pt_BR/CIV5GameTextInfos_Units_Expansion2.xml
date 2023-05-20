@@ -44,7 +44,7 @@
 		<Row Tag="TXT_KEY_UNIT_PORTUGUESE_NAU">
 			<Text>Nau|Naus</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BERBER_CAVALRY">
 			<Text>Cavalaria Berbere|Cavalarias Berberes</Text>

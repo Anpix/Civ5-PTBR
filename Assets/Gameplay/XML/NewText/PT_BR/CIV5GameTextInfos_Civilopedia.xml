@@ -72,7 +72,7 @@
 			<Text>O que são as bases aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRBASES_HEADING2_BODY">
-			<Text>As unidades aéreas não se movem pelo mapa como as unidades terrestres ou navais. Elas precisam estar "baseadas" em uma cidade pacífica que o jogador possua. Os Caças e alguns Bombardeiros também podem ter como base Porta-Aviões. As unidades de Mísseis podem ter como base cidades, submarinos nucleares e cruzadores porta-mísseis. As unidades aéreas não podem embarcar. Para viagens extensas pelo mar, elas devem ser transportadas por um navio apropriado - Porta-aviões, Cruzadores ou Submarinos Nucleares.[NEWLINE][NEWLINE]As unidades Antiaéreas e os Helicópteros não precisam de bases. Elas se movem pelo mapa como as demais unidades e podem embarcar.</Text>
+			<Text>As unidades aéreas não se movem pelo mapa como as unidades terrestres ou navais. Elas precisam estar "baseadas" em uma cidade pacífica que o jogador possua. Os {TXT_KEY_UNIT_FIGHTER[2]} e alguns {TXT_KEY_UNIT_BOMBER[2]} também podem ter como base {TXT_KEY_UNIT_CARRIER[2]}. As unidades de Mísseis podem ter como base cidades, {TXT_KEY_UNIT_NUCLEAR_SUBMARINE[2]} e {TXT_KEY_UNIT_MISSILE_CRUISER[2]}. As unidades aéreas não podem embarcar. Para viagens extensas pelo mar, elas devem ser transportadas por um navio apropriado - {TXT_KEY_UNIT_CARRIER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} ou {TXT_KEY_UNIT_NUCLEAR_SUBMARINE[2]}.[NEWLINE][NEWLINE]As unidades Antiaéreas e os Helicópteros não precisam de bases. Elas se movem pelo mapa como as demais unidades e podem embarcar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRBASES_HEADING2_TITLE">
 			<Text>Bases Aéreas</Text>
@@ -81,7 +81,7 @@
 			<Text>Como funciona o alcance das unidades aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRRANGE_HEADING2_BODY">
-			<Text>No lugar de uma característica de movimento, as unidades aéreas possuem "alcance". Ele representa a distância que podem realizar "missões". Também indica a distância que podem "mudar de base" - mover de uma base para outra. Por exemplo, um caça possui um alcance de 8. Quer dizer que ele pode realizar missões em qualquer lugar que esteja a 8 hexágonos ou menos de sua base atual e que pode passar para outra base (cidade ou Porta-aviões) que estiver a 8 hexágonos de distância.[NEWLINE][NEWLINE]Uma unidade aérea que mudar de base, não pode realizar outra missão no mesmo turno.</Text>
+			<Text>No lugar de uma característica de movimento, as unidades aéreas possuem "alcance". Ele representa a distância que podem realizar "missões". Também indica a distância que podem "mudar de base" - mover de uma base para outra. Por exemplo, um {TXT_KEY_UNIT_FIGHTER} possui um alcance de 8. Quer dizer que ele pode realizar missões em qualquer lugar que esteja a 8 hexágonos ou menos de sua base atual e que pode passar para outra base (cidade ou {TXT_KEY_UNIT_CARRIER}) que estiver a 8 hexágonos de distância.[NEWLINE][NEWLINE]Uma unidade aérea que mudar de base, não pode realizar outra missão no mesmo turno.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRRANGE_HEADING2_TITLE">
 			<Text>Alcance Aéreo</Text>
@@ -96,7 +96,7 @@
 			<Text>Ataque Aéreo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRSTRIKES_HEADING2_BODY">
-			<Text>Quando uma unidade é ordenada a fazer um ataque um "ataque aéreo" contra uma cidade inimiga ou uma unidade, se não for interceptada, ela realizará um ataque a distância contra o alvo. Diferente da maioria dos ataques a distância, no entanto, a unidade de ataque pode receber dano ao atacar. (Em outras palavras, se explodir um tanque, ele pode te causar dano.) Se a unidade de ataque aéreo sobreviver, ela irá retornar à sua base.[NEWLINE]As unidades de Mísseis e Bombardeiros são as que possuem os ataques aéreos mais potentes.</Text>
+			<Text>Quando uma unidade é ordenada a fazer um ataque um "ataque aéreo" contra uma cidade inimiga ou uma unidade, se não for interceptada, ela realizará um ataque a distância contra o alvo. Diferente da maioria dos ataques a distância, no entanto, a unidade de ataque pode receber dano ao atacar. (Em outras palavras, se explodir um tanque, ele pode te causar dano.) Se a unidade de ataque aéreo sobreviver, ela irá retornar à sua base.[NEWLINE]As unidades de Mísseis e {TXT_KEY_UNIT_BOMBER[2]} são as que possuem os ataques aéreos mais potentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_AIRSTRIKES_HEADING2_TITLE">
 			<Text>Ataques Aéreos</Text>
@@ -135,7 +135,7 @@
 			<Text>Em que base é possível ter os mísseis?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ALLMISSILES_HEADING4_BODY">
-			<Text>Os mísseis podem ter suas bases em cidades, em 	 porta-mísseis e em submarinos nucleares.</Text>
+			<Text>Os mísseis podem ter suas bases em cidades, em {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e em {TXT_KEY_UNIT_NUCLEAR_SUBMARINE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ALLMISSILES_HEADING4_TITLE">
 			<Text>Todos os Mísseis</Text>
@@ -153,19 +153,19 @@
 			<Text>Em que base é possível ter os bombardeiros atômicos?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ATOMIC_HEADING4_BODY">
-			<Text>Os bombardeiros atômicos podem ter suas bases em cidades e Porta-aviões.</Text>
+			<Text>Os bombardeiros atômicos podem ter suas bases em cidades e {TXT_KEY_UNIT_CARRIER[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ATOMIC_HEADING4_TITLE">
-			<Text>Bombas Atômicas</Text>
+			<Text>{TXT_KEY_UNIT_ATOMIC_BOMB[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ATOMICBOMBS_HEADING2_BODY">
-			<Text>A primeira arma nuclear disponível no jogo, a bomba atômica é uma unidade muito poderosa que pode afetar rapidamente o equilíbrio de poder mundial. As bombas atômicas são semelhantes aos mísseis, já que só podem atacar uma vez. Ao contrário dos mísseis, elas podem ser alocadas de Porta-aviões. O raio de dano de uma bomba atômica é de 2 hexágonos em qualquer direção. As unidades apanhadas pela explosão receberão dano e as cidades perderão sua população se a bomba a atingir.[NEWLINE][NEWLINE]Uma "bomba-A" não pode destruir totalmente uma cidade. Não importa quantas vezes a cidade é atingida por bombas atômicas, ela não será destruída.</Text>
+			<Text>A primeira arma nuclear disponível no jogo, a {TXT_KEY_UNIT_ATOMIC_BOMB} é uma unidade muito poderosa que pode afetar rapidamente o equilíbrio de poder mundial. As {TXT_KEY_UNIT_ATOMIC_BOMB[2]} são semelhantes aos mísseis, já que só podem atacar uma vez. Ao contrário dos mísseis, elas podem ser alocadas de {TXT_KEY_UNIT_CARRIER[2]}. O raio de dano de uma bomba atômica é de 2 hexágonos em qualquer direção. As unidades apanhadas pela explosão receberão dano e as cidades perderão sua população se a bomba a atingir.[NEWLINE][NEWLINE]Uma "bomba-A" não pode destruir totalmente uma cidade. Não importa quantas vezes a cidade é atingida por {TXT_KEY_UNIT_ATOMIC_BOMB[2]}, ela não será destruída.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ATOMICBOMBS_HEADING2_TITLE">
-			<Text>Bombas Atômicas</Text>
+			<Text>{TXT_KEY_UNIT_ATOMIC_BOMB[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_ATOMICBOMBS_RULES_ADV_QUEST">
-			<Text>Quais são as regras das bombas atômicas?</Text>
+			<Text>Quais são as regras das {TXT_KEY_UNIT_ATOMIC_BOMB[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_BASELOCATIONS_ADV_QUEST">
 			<Text>Como sei em que base pode ter uma determinada unidade aérea?</Text>
@@ -177,40 +177,40 @@
 			<Text>Localização das Bases</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_BOMBERS_ADV_QUEST">
-			<Text>Em que base é possível ter os bombardeiros?</Text>
+			<Text>Em que base é possível ter os {TXT_KEY_UNIT_BOMBER[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_BOMBERS_HEADING4_BODY">
-			<Text>Os bombardeiros podem ter suas bases em cidades e Porta-aviões.</Text>
+			<Text>Os {TXT_KEY_UNIT_BOMBER[2]} podem ter suas bases em cidades e {TXT_KEY_UNIT_CARRIER[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_BOMBERS_HEADING4_TITLE">
-			<Text>Bombardeiros</Text>
+			<Text>{TXT_KEY_UNIT_BOMBER[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CARRIER_ADV_QUEST">
-			<Text>Que unidades aéreas podem ter como base um Porta-aviões?</Text>
+			<Text>Que unidades aéreas podem ter como base um {TXT_KEY_UNIT_CARRIER}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CARRIER_HEADING4_BODY">
-			<Text>Um Porta-aviões pode levar até três unidades aéreas (caças, bombardeiros e bombardeiros atômicos).</Text>
+			<Text>Um {TXT_KEY_UNIT_CARRIER} pode levar até três unidades aéreas (caças, bombardeiros e bombardeiros atômicos).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CARRIER_HEADING4_TITLE">
-			<Text>Porta-aviões</Text>
+			<Text>{TXT_KEY_UNIT_CARRIER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CRUISER_ADV_QUEST">
-			<Text>Que unidades aéreas podem ter como base um cruzador porta-mísseis?</Text>
+			<Text>Que unidades aéreas podem ter como base um {TXT_KEY_UNIT_MISSILE_CRUISER}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CRUISER_HEADING4_BODY">
-			<Text>Um cruzador porta-mísseis pode levar até três mísseis de qualquer tipo.</Text>
+			<Text>Um {TXT_KEY_UNIT_MISSILE_CRUISER} pode levar até três mísseis de qualquer tipo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_CRUISER_HEADING4_TITLE">
-			<Text>Cruzador Porta-mísseis</Text>
+			<Text>{TXT_KEY_UNIT_MISSILE_CRUISER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_FIGHTERS_ADV_QUEST">
-			<Text>Em que base é possível ter caças e aviões de combate?</Text>
+			<Text>Em que base é possível ter {TXT_KEY_UNIT_FIGHTER[2]} e {TXT_KEY_UNIT_JET_FIGHTER[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_FIGHTERS_HEADING4_BODY">
-			<Text>Os caças e aviões de combate podem ter suas bases em cidades e Porta-aviões.</Text>
+			<Text>Os {TXT_KEY_UNIT_FIGHTER[2]} e {TXT_KEY_UNIT_JET_FIGHTER[2]} podem ter suas bases em cidades e {TXT_KEY_UNIT_CARRIER[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_FIGHTERS_HEADING4_TITLE">
-			<Text>Caças e Aviões de Combate</Text>
+			<Text>{TXT_KEY_UNIT_FIGHTER[2]} e {TXT_KEY_UNIT_JET_FIGHTER[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_HEADING1_BODY">
 			<Text>Desde a Segunda Guerra Mundial, a "poder aéreo" dominou a guerra em todo o mundo. O poder aéreo atual como um "multiplicador de força" em combate, e a nação que estabelece a supremacia aérea sobre o campo de batalha conta com uma enorme vantagem frente ao inimigo.[NEWLINE][NEWLINE]Talvez o mais importante, o bombardeiro estratégico se converteu na força central da guerra moderna, e com a chegada dos mísseis balísticos nucleares, que contam com a capacidade de limpar, literalmente, por completo toda uma civilização da face do planeta.[NEWLINE][NEWLINE]O poder aéreo é decisivo para conseguir a vitória em Civilization V.</Text>
@@ -231,7 +231,7 @@
 			<Text>Como funciona a interceptação com as unidades aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_INTERCEPTION_HEADING2_BODY">
-			<Text>Os caças e aviões de combate podem ser usados para "interceptar" os ataques aéreos inimigos.  (o canhão antiaéreo, o míssil terra-ar móvel e certas unidades navais interceptam automaticamente; não precisa ser dada uma missão especial a eles.) Se uma unidade aérea tenta um ataque aéreo contra um alvo que está ao alcance de uma unidade interceptora, o interceptor disparará contra o atacante e lhe causará dano. A menos que interceptor consiga matá-lo, o ataque aéreo continuará.[NEWLINE][NEWLINE]Apenas uma unidade pode interceptar um ataque aéreo e esta não poderá mais interceptar durante esse turno (entretanto certas promoções podem mudar isso). Então, se espera numerosos ataques aéreos contra um alvo, é melhor que envie vários caças e unidades antiaéreas a seu redor.</Text> 
+			<Text>Os {TXT_KEY_UNIT_FIGHTER[2]} e {TXT_KEY_UNIT_JET_FIGHTER[2]} podem ser usados para "interceptar" os ataques aéreos inimigos.  (o canhão antiaéreo, o míssil terra-ar móvel e certas unidades navais interceptam automaticamente; não precisa ser dada uma missão especial a eles.) Se uma unidade aérea tenta um ataque aéreo contra um alvo que está ao alcance de uma unidade interceptora, o interceptor disparará contra o atacante e lhe causará dano. A menos que interceptor consiga matá-lo, o ataque aéreo continuará.[NEWLINE][NEWLINE]Apenas uma unidade pode interceptar um ataque aéreo e esta não poderá mais interceptar durante esse turno (entretanto certas promoções podem mudar isso). Então, se espera numerosos ataques aéreos contra um alvo, é melhor que envie vários caças e unidades antiaéreas a seu redor.</Text> 
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_INTERCEPTION_HEADING2_TITLE">
 			<Text>Interceptação</Text>
@@ -282,22 +282,22 @@
 			<Text>Capacidades das Unidades Navais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_NUCMISSILES_HEADING2_BODY">
-			<Text>Enquanto a bomba atômica causa um dano incrível, os mísseis nucleares são realmente devastadores. Todas as unidades pegas pelo raio da explosão são destruídas, e o dano causado nas cidades é ainda maior. Ao contrário das bombas atômicas, os mísseis nucleares são capazes de varrer por completo as cidades do mapa (a capital de origem de um jogador não pode ser destruída desta maneira).[NEWLINE][NEWLINE]Como seu nome sugere, os mísseis nucleares são unidades de mísseis, o que significa que eles podem ser armazenados em cruzadores de mísseis ou submarinos nucleares, mas não em Porta-aviões.</Text>
+			<Text>Enquanto a {TXT_KEY_UNIT_ATOMIC_BOMB} causa um dano incrível, os {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]} são realmente devastadores. Todas as unidades pegas pelo raio da explosão são destruídas, e o dano causado nas cidades é ainda maior. Ao contrário das {TXT_KEY_UNIT_ATOMIC_BOMB[2]}, os {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]} são capazes de varrer por completo as cidades do mapa (a capital de origem de um jogador não pode ser destruída desta maneira).[NEWLINE][NEWLINE]Como seu nome sugere, os {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]} são unidades de mísseis, o que significa que eles podem ser armazenados em {TXT_KEY_UNIT_MISSILE_CRUISER[2]} ou {TXT_KEY_UNIT_NUCLEAR_SUBMARINE[2]}, mas não em {TXT_KEY_UNIT_CARRIER[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_NUCMISSILES_HEADING2_TITLE">
-			<Text>Mísseis Nucleares</Text>
+			<Text>{TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_NUCMISSILES_RULES_ADV_QUEST">
-			<Text>Quais são as regras dos mísseis nucleares?</Text>
+			<Text>Quais são as regras dos {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_NUCSUBMARINE_ADV_QUEST">
-			<Text>Que unidades aéreas podem ter como base um submarino nuclear?</Text>
+			<Text>Que unidades aéreas podem ter como base um {TXT_KEY_UNIT_NUCLEAR_SUBMARINE}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_NUCSUBMARINE_HEADING4_BODY">
-			<Text>Um submarino nuclear pode levar até dois mísseis de qualquer tipo.</Text>
+			<Text>Um {TXT_KEY_UNIT_NUCLEAR_SUBMARINE} pode levar até dois mísseis de qualquer tipo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_NUCSUBMARINE_HEADING4_TITLE">
-			<Text>Submarino Nuclear</Text>
+			<Text>{TXT_KEY_UNIT_NUCLEAR_SUBMARINE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_REBASE_ADV_QUEST">
 			<Text>Como uma unidade aérea pode mudar de base?</Text>
@@ -312,7 +312,7 @@
 			<Text>Para que serve a capacidade de reconhecimento das unidades aéreas?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_RECON_HEADING2_BODY">
-			<Text>Os caças, aviões de combate e bombardeiros furtivos possuem a capacidade de "reconhecimento". Ao início de seu turno, tudo o que estiver a 6 hexágonos de sua base é visível. Isto não é uma missão e não custa o turno: isso acontece automaticamente.</Text>
+			<Text>Os {TXT_KEY_UNIT_FIGHTER[2]}, {TXT_KEY_UNIT_JET_FIGHTER[2]} e {TXT_KEY_UNIT_STEALTH_BOMBER[2]} possuem a capacidade de "reconhecimento". Ao início de seu turno, tudo o que estiver a 6 hexágonos de sua base é visível. Isto não é uma missão e não custa o turno: isso acontece automaticamente.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_RECON_HEADING2_TITLE">
 			<Text>Reconhecimento</Text>
@@ -327,13 +327,13 @@
 			<Text>Empilhamento Aéreo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_STEALTH_ADV_QUEST">
-			<Text>Em que base é possível ter os bombardeiros furtivos?</Text>
+			<Text>Em que base é possível ter os {TXT_KEY_UNIT_STEALTH_BOMBER[2]}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_STEALTH_HEADING4_BODY">
-			<Text>Os bombardeiros furtivos só podem ter suas bases em cidades.</Text>
+			<Text>Os {TXT_KEY_UNIT_STEALTH_BOMBER[2]} só podem ter suas bases em cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AIRPOWER_STEALTH_HEADING4_TITLE">
-			<Text>Bombardeiros Furtivos</Text>
+			<Text>{TXT_KEY_UNIT_STEALTH_BOMBER[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BARBARIAN_ADV_QUEST">
 			<Text>O que são os bárbaros e as ruínas antigas?</Text>
@@ -1382,7 +1382,7 @@
 			<Text>A Balista Romana era uma catapulta aperfeiçoada que disparava pedras ou projéteis de madeira no inimigo. Construída com madeira e reforçada com chapas de ferro, a balista era surpreendentemente precisa em mãos treinadas. Seus projéteis podiam voar a até 500 metros de distância, mas seu alcance prático era muito menor, especialmente contra uma posição fortificada. Júlio César as usou com grande eficácia em suas campanhas da Alemanha e Britânia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_CATAPULT_HEADING">
-			<Text>Catapulta</Text>
+			<Text>{TXT_KEY_UNIT_CATAPULT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_CATAPULT_TEXT">
 			<Text>A data exata da invenção da catapulta é incerta, mas os exércitos Gregos eram conhecidos por empregá-las no século 3 a.C. As catapultas usam a energia acumulada em uma corda retorcida ou madeira dobrada para lançar projéteis a uma grande distância. Elas são bastante imprecisas, mas podem ser mortais contra alvos grandes ou lentos - como as fortificações, por exemplo (que são muito grandes e se movem lentamente). Geralmente as catapultas eram transportadas em peças e depois montadas no campo de batalha. Ocasionalmente eram construídas no local por engenheiros. As últimas catapultas foram vistas durante a Primeira Guerra Mundial, os Franceses as usaram para lançar granadas nas trincheiras inimigas.</Text>
@@ -1469,10 +1469,10 @@
 			<Text>As primeiras espadas, que não eram mais do que adagas muito largas, apareceram na Idade do Bronze. Até o descobrimento da fundição do ferro (aproximadamente a 1200 a.C. na Europa) as espadas não foram armas de combate viáveis. As primeiras espadas eram curtas e afiadas, projetadas para apunhalar. Posteriores avanços na fundição do ferro possibilitaram espadas maiores, e até a Idade Média, a monstruosamente longa e pesada espada de duas mãos podiam atravessar as armaduras mais pesadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_TRIREME_HEADING">
-			<Text>Trirreme</Text>
+			<Text>{TXT_KEY_UNIT_TRIREME}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_TRIREME_TEXT">
-			<Text>O Trirreme era um barco de guerra usado nas armadas da antiguidade no Mediterrâneo. Embora equipado com uma vela, em combate era alimentado por três fileiras de remos. Quando alimentados por remadores e motivados, os Trirremes eram surpreendentemente rápidos e ágeis. Os Trirremes eram geralmente equipados com um aríete afiado na proa, já que sua tática principal consistia em afundar o navio inimigo. Alguns Trirremes transportavam arqueiros para o combate a distância, enquanto outros levavam multidões de infantaria. Esses barcos se colocavam ao lado dos barcos inimigos para que a infantaria pudessem abordá-los e capturá-los. Os Trirremes conservaram sua importância nos mares até que o canhão e os avanços na fabricação de barcos e aparelhos os deixaram obsoletos.</Text>
+			<Text>O {TXT_KEY_UNIT_TRIREME} era um barco de guerra usado nas armadas da antiguidade no Mediterrâneo. Embora equipado com uma vela, em combate era alimentado por três fileiras de remos. Quando alimentados por remadores e motivados, os {TXT_KEY_UNIT_TRIREME[2]} eram surpreendentemente rápidos e ágeis. Os {TXT_KEY_UNIT_TRIREME[2]} eram geralmente equipados com um aríete afiado na proa, já que sua tática principal consistia em afundar o navio inimigo. Alguns {TXT_KEY_UNIT_TRIREME[2]} transportavam arqueiros para o combate a distância, enquanto outros levavam multidões de infantaria. Esses barcos se colocavam ao lado dos barcos inimigos para que a infantaria pudessem abordá-los e capturá-los. Os {TXT_KEY_UNIT_TRIREME[2]} conservaram sua importância nos mares até que o canhão e os avanços na fabricação de barcos e aparelhos os deixaram obsoletos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WARCHARIOT_HEADING">
 			<Text>{TXT_KEY_UNIT_EGYPT_WARCHARIOT}</Text>
@@ -3381,7 +3381,7 @@
 			<Text>Bomba Atômica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ATOMICBOMB_TEXT">
-			<Text>Os antigos bombardeiros atômicos não eram diferentes dos outros bombardeiros pesados, com exceção, claro, da sua carga. O "Enola Gay", que transportou a bomba atômica em Hiroshima, em 6 de agosto de 1945, era um bombardeiro B-29 Americano, como foi o "Bockscar", que jogou a segunda sobre Nagasaki, três dias depois. No período desde a guerra, as potências nucleares desenvolveram "bombardeiros estratégicos" para carregar as armas nucleares em território inimigo. Estas aeronaves podem voar por muito mais tempo, em altitudes muito elevadas e estão equipadas com sofisticada tecnologia antimísseis. Os Bombardeiros mais recentes incluem a tecnologia furtiva, tornando-os ainda mais difíceis de destruir, antes que possam soltar sua carga mortal.</Text>
+			<Text>Os antigos bombardeiros atômicos não eram diferentes dos outros bombardeiros pesados, com exceção, claro, da sua carga. O "Enola Gay", que transportou a bomba atômica em Hiroshima, em 6 de agosto de 1945, era um bombardeiro B-29 Americano, como foi o "Bockscar", que jogou a segunda sobre Nagasaki, três dias depois. No período desde a guerra, as potências nucleares desenvolveram "bombardeiros estratégicos" para carregar as armas nucleares em território inimigo. Estas aeronaves podem voar por muito mais tempo, em altitudes muito elevadas e estão equipadas com sofisticada tecnologia antimísseis. Os {TXT_KEY_UNIT_BOMBER[2]} mais recentes incluem a tecnologia furtiva, tornando-os ainda mais difíceis de destruir, antes que possam soltar sua carga mortal.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_B17_HEADING">
 			<Text>B17</Text>
@@ -3390,34 +3390,34 @@
 			<Text>O Boeing B17 "Flying Fortress" foi um bombardeiro pesado utilizado pelo Corpo Aéreo do Exército dos Estados Unidos durante a Segunda Guerra Mundial. Equipado com quatro motores, numerosas plataformas de armas e uma altura de voo superior, o B17 foi o bombardeiro favorito do Corpo Aéreo Americano, apesar de seu alcance e capacidade para bombas inferiores ao Liberator B24, principalmente por causa da sua capacidade de suportar grandes danos e ainda levar sua tripulação viva de volta para casa. [NEWLINE][NEWLINE]Inicialmente usados em arriscados ataques diurnos contra alvos na Alemanha, o B17 causou baixas pesadas nos combatentes Luftwaffe. À medida que a guerra avançava e os Aliados projetavam aeronaves capazes de escoltar os bombardeiros em território inimigo, os ataques do B17 se tornaram bem mais sucedidos, causando pesados danos à indústria e cidades alemãs. [NEWLINE][NEWLINE]Mais de 12.000 B17s foram construídos durante a Segunda Guerra Mundial e aproximadamente um terço deles foi perdido em combate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_BATTLESHIP_HEADING">
-			<Text>Super Couraçado</Text>
+			<Text>{TXT_KEY_UNIT_BATTLESHIP}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_BATTLESHIP_TEXT">
-			<Text>Os Super Couraçados são navios grandes e fortemente blindados com muitas armas do mais alto calibre. Eles são descendentes diretos lineares dos navios da linha da Idade da Vela, equipado para guerrear com os maiores navios de guerra do inimigo. Nos dias que antecederam o poder aéreo e submarino, os Couraçados de Guerra dominavam os mares, capazes de afundar qualquer outra coisa que boiasse. Suas armas extremamente poderosas também podem ser usadas como artilharia, enviando enormes mísseis do interior da área terrestre. Apesar de seu tamanho, blindagem e poder de fogo, os Couraçados de Guerra são extremamente vulneráveis a ataques aéreos e submarinos. Em Pearl Harbor, aviões Japoneses que partiam de porta-aviões afundaram quatro Couraçados de Guerra Americanos e danificaram fortemente mais quatro. Isso convenceu os Aliados da importância do porta-aviões como uma arma ofensiva e, então, os Couraçados de Guerra foram relegados para a carregarem bombardeiros e deveres de porta-aviões por grande parte do resto da guerra.</Text>
+			<Text>Os {TXT_KEY_UNIT_BATTLESHIP[2]} são navios grandes e fortemente blindados com muitas armas do mais alto calibre. Eles são descendentes diretos lineares dos navios da linha da Idade da Vela, equipado para guerrear com os maiores navios de guerra do inimigo. Nos dias que antecederam o poder aéreo e submarino, os {TXT_KEY_UNIT_BATTLESHIP[2]} dominavam os mares, capazes de afundar qualquer outra coisa que boiasse. Suas armas extremamente poderosas também podem ser usadas como artilharia, enviando enormes mísseis do interior da área terrestre. Apesar de seu tamanho, blindagem e poder de fogo, os {TXT_KEY_UNIT_BATTLESHIP[2]} são extremamente vulneráveis a ataques aéreos e submarinos. Em Pearl Harbor, aviões Japoneses que partiam de {TXT_KEY_UNIT_CARRIER[2]} afundaram quatro {TXT_KEY_UNIT_BATTLESHIP[2]} Americanos e danificaram fortemente mais quatro. Isso convenceu os Aliados da importância do {TXT_KEY_UNIT_CARRIER} como uma arma ofensiva e, então, os {TXT_KEY_UNIT_BATTLESHIP[2]} foram relegados para a carregarem bombardeiros e deveres de porta-aviões por grande parte do resto da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_BOMBER_HEADING">
-			<Text>Bombardeiro</Text>
+			<Text>{TXT_KEY_UNIT_BOMBER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_BOMBER_TEXT">
-			<Text>Um Bombardeiro é uma aeronave projetada para lançar a destruição sobre as tropas, blindados e infraestrutura do inimigo. Bombardeiros geralmente têm um alcance muito longo, o que lhes permite voar em território inimigo e deixar cair as suas mortíferas cargas. Embora eles pudessem possuir metralhadoras ou armas de combate, Bombardeiros são basicamente impotentes contra caças inimigos e exigem uma escolta de caças amigos para protegê-los contra o poder aéreo hostil. [NEWLINE][NEWLINE]Todas as grandes potências utilizaram Bombardeiros na Segunda Guerra Mundial. A "blitz" Alemã procurou destruir indústrias Britânicas (para não mencionar Londres e outras cidades) a partir do ar e os Bombardeiros aliados retribuíram, jogando toneladas de explosivos em cidades, fábricas, ferrovias e outras infraestruturas Alemãs. No Pacífico, Bombardeiros Japoneses atacaram cidades aliadas e instalações militares; o ataque a Pearl Harbor sendo um sucesso notável. À medida que ganharam domínio aéreo, as forças aéreas aliadas fizeram estragos em cidades Japonesas e as suas forças armadas. Bombardeiros (e seus primos, os mísseis balísticos) ainda são as armas mais mortais nos arsenais modernos.</Text>
+			<Text>Um {TXT_KEY_UNIT_BOMBER} é uma aeronave projetada para lançar a destruição sobre as tropas, blindados e infraestrutura do inimigo. Bombardeiros geralmente têm um alcance muito longo, o que lhes permite voar em território inimigo e deixar cair as suas mortíferas cargas. Embora eles pudessem possuir metralhadoras ou armas de combate, Bombardeiros são basicamente impotentes contra caças inimigos e exigem uma escolta de caças amigos para protegê-los contra o poder aéreo hostil. [NEWLINE][NEWLINE]Todas as grandes potências utilizaram Bombardeiros na Segunda Guerra Mundial. A "blitz" Alemã procurou destruir indústrias Britânicas (para não mencionar Londres e outras cidades) a partir do ar e os Bombardeiros aliados retribuíram, jogando toneladas de explosivos em cidades, fábricas, ferrovias e outras infraestruturas Alemãs. No Pacífico, Bombardeiros Japoneses atacaram cidades aliadas e instalações militares; o ataque a Pearl Harbor sendo um sucesso notável. À medida que ganharam domínio aéreo, as forças aéreas aliadas fizeram estragos em cidades Japonesas e as suas forças armadas. Bombardeiros (e seus primos, os mísseis balísticos) ainda são as armas mais mortais nos arsenais modernos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_CARRIER_HEADING">
-			<Text>Porta-Aviões</Text>
+			<Text>{TXT_KEY_UNIT_CARRIER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_CARRIER_TEXT">
-			<Text>O primeiro voo de uma aeronave de um navio Americano ocorreu em 1910. Enquanto alguns tradicionalistas lutavam contra o desenvolvimento de porta-aviões, afirmando que o Couraçado era e seria sempre a espinha dorsal de uma marinha moderna, porta-aviões estavam em produção nas marinhas em todo o mundo na década de 1920. Em dezembro de 1941, a marinha Japonesa provou a força dos porta-aviões sem sombra de dúvida, destruindo grande parte da frota Americana do Pacífico (incluindo a maioria de seus Couraçados) em um ataque surpresa brilhante a Pearl Harbor. Por um extraordinário golpe de sorte, os porta-aviões norte-americanos não estavam no porto quando o ataque ocorreu e estes foram capazes de retardar o avanço Japonês até que o enorme esforço de produção de porta-aviões dos EUA começou a dar frutos, o que resultou em esmagadora superioridade naval (e aérea) Americana, e uma derrota esmagadora para o Japão.</Text>
+			<Text>O primeiro voo de uma aeronave de um navio Americano ocorreu em 1910. Enquanto alguns tradicionalistas lutavam contra o desenvolvimento de {TXT_KEY_UNIT_CARRIER[2]}, afirmando que o {TXT_KEY_UNIT_IRONCLAD} era e seria sempre a espinha dorsal de uma marinha moderna, {TXT_KEY_UNIT_CARRIER[2]} estavam em produção nas marinhas em todo o mundo na década de 1920. Em dezembro de 1941, a marinha Japonesa provou a força dos {TXT_KEY_UNIT_CARRIER[2]} sem sombra de dúvida, destruindo grande parte da frota Americana do Pacífico (incluindo a maioria de seus {TXT_KEY_UNIT_IRONCLAD[2]}) em um ataque surpresa brilhante a Pearl Harbor. Por um extraordinário golpe de sorte, os {TXT_KEY_UNIT_CARRIER[2]} norte-americanos não estavam no porto quando o ataque ocorreu e estes foram capazes de retardar o avanço Japonês até que o enorme esforço de produção de {TXT_KEY_UNIT_CARRIER[2]} dos EUA começou a dar frutos, o que resultou em esmagadora superioridade naval (e aérea) Americana, e uma derrota esmagadora para o Japão.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_DESTROYER_HEADING">
-			<Text>Destróier</Text>
+			<Text>{TXT_KEY_UNIT_DESTROYER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_DESTROYER_TEXT">
-			<Text>Um Destróier é uma embarcação do século XX destinada a patrulhar, escoltar e fornecer proteção antiaérea e antissubmarina. Os primeiros Destróiers eram navios leves, não tão bem adaptados às viagens oceânicas, a não ser que fossem acompanhados por "patachos" carregados com combustível. Já na Segunda Guerra Mundial, os Destróiers eram rápidos, manobráveis e carregavam armas e suprimentos suficientes para longas missões pelo oceano.[NEWLINE][NEWLINE]Como armamento, os Destróiers carregam armas antiaéreas, armas leves contra outras embarcações, torpedos e bombas submarinas. Eles frequentemente acompanham grupos de Porta-Aviões, patrulhando as águas próximas as maiores e mais valiosas embarcações em busca de submarinos, além de fornecerem cobertura antiaérea. Eles escoltam comboios com suprimentos e patrulham portos e a área costeira. O trabalho a bordo de um Destróier da Segunda Guerra Mundial era duro: durante a guerra, mais de 220 Destróiers Britânicos, Americanos, Australianos e Canadenses foram perdidos, a maioria por ataques aéreos.</Text>
+			<Text>Um {TXT_KEY_UNIT_DESTROYER} é uma embarcação do século XX destinada a patrulhar, escoltar e fornecer proteção antiaérea e antissubmarina. Os primeiros {TXT_KEY_UNIT_DESTROYER[2]} eram navios leves, não tão bem adaptados às viagens oceânicas, a não ser que fossem acompanhados por "patachos" carregados com combustível. Já na Segunda Guerra Mundial, os {TXT_KEY_UNIT_DESTROYER[2]} eram rápidos, manobráveis e carregavam armas e suprimentos suficientes para longas missões pelo oceano.[NEWLINE][NEWLINE]Como armamento, os {TXT_KEY_UNIT_DESTROYER[2]} carregam armas antiaéreas, armas leves contra outras embarcações, torpedos e bombas submarinas. Eles frequentemente acompanham grupos de {TXT_KEY_UNIT_CARRIER[2]}, patrulhando as águas próximas as maiores e mais valiosas embarcações em busca de submarinos, além de fornecerem cobertura antiaérea. Eles escoltam comboios com suprimentos e patrulham portos e a área costeira. O trabalho a bordo de um {TXT_KEY_UNIT_DESTROYER} da Segunda Guerra Mundial era duro: durante a guerra, mais de 220 {TXT_KEY_UNIT_DESTROYER[2]} Britânicos, Americanos, Australianos e Canadenses foram perdidos, a maioria por ataques aéreos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_FIGHTER_HEADING">
-			<Text>Avião de Combate</Text>
+			<Text>{TXT_KEY_UNIT_FIGHTER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_FIGHTER_TEXT">
-			<Text>O Avião de Combate foi desenvolvido na Primeira Guerra Mundial. Os primeiros eram quase que pipas com autopropulsão e armas presas a elas. Já na Segunda Guerra Mundial, tanto a tecnologia quanto a doutrina tiveram grande avanço, transformando a atual aeronave de apenas uma asa em uma matadora feroz. A principal função do Avião de Combate é conseguir o controle aéreo sobre o campo de batalha, abatendo aeronaves inimigas ou as afugentando, permitindo que bombardeiros aliados faça chover destruição no solo inimigo ou que forças navais fiquem sem obstáculos. Alguns Aviões de Combate também carregam bombas para serem usadas contra unidades terrestres, mas mesmo aqueles sem bombas podem bombardear o solo inimigo ou unidades navais com efeitos mortais.[NEWLINE][NEWLINE]Os modernos Caças a Jato são mais rápidos, possuem melhores armas e blindagem que aqueles da Segunda Guerra Mundial, mas os princípios do combate aéreo permanecem e o controle aéreo dá uma tremenda vantagem sobre os inimigos.</Text>
+			<Text>O {TXT_KEY_UNIT_FIGHTER} foi desenvolvido na Primeira Guerra Mundial. Os primeiros eram quase que pipas com autopropulsão e armas presas a elas. Já na Segunda Guerra Mundial, tanto a tecnologia quanto a doutrina tiveram grande avanço, transformando a atual aeronave de apenas uma asa em uma matadora feroz. A principal função do {TXT_KEY_UNIT_FIGHTER} é conseguir o controle aéreo sobre o campo de batalha, abatendo aeronaves inimigas ou as afugentando, permitindo que bombardeiros aliados faça chover destruição no solo inimigo ou que forças navais fiquem sem obstáculos. Alguns {TXT_KEY_UNIT_FIGHTER[2]} também carregam bombas para serem usadas contra unidades terrestres, mas mesmo aqueles sem bombas podem bombardear o solo inimigo ou unidades navais com efeitos mortais.[NEWLINE][NEWLINE]Os modernos Caças a Jato são mais rápidos, possuem melhores armas e blindagem que aqueles da Segunda Guerra Mundial, mas os princípios do combate aéreo permanecem e o controle aéreo dá uma tremenda vantagem sobre os inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_FOREIGNLEGION_HEADING">
 			<Text>Legião Estrangeira</Text>
@@ -3444,10 +3444,10 @@
 			<Text>Paraquedistas são soldados de infantaria leve, treinados para saltar na batalha de aviões atrás das linhas inimigas. Da necessidade de serem pouco armados e carregarem munição limitada, paraquedistas dependem muito do elemento surpresa para superarem seus oponentes. Eles também precisam ser rapidamente reforçados por unidades terrestres que possam romper as linhas inimigas ou correm o risco de aniquilação se o inimigo se reagrupa e os rodeia. [NEWLINE] [NEWLINE] Paraquedistas foram utilizadas com sucesso limitado na Segunda Guerra Mundial, com alguns alemães participando da invasão da Dinamarca, em 1940. Paraquedistas alemães atacaram e capturaram a ilha de Creta, em 1941. No entanto, os ferimentos dos soldados foram tão horríveis que Adolf Hitler proibiu futuros ataques aéreos de grande escala. As forças aliadas enviaram paraquedistas com sucesso moderado durante a invasão da Normandia em 1944, mas a enorme operação Market Garden, na Holanda e na Alemanha no mesmo ano, ficou longe de ser bem sucedida, resultando em pesadas baixas para os paraquedistas Britânicos, Poloneses e Americanos. [NEWLINE ][NEWLINE] Embora as tropas das forças especiais ainda empreguem paraquedistas, a prática caiu em desuso nos exércitos modernos. Hoje as tropas aerotransportadas na batalha o fazem por helicópteros.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_SUBMARINE_HEADING">
-			<Text>Submarino</Text>
+			<Text>{TXT_KEY_UNIT_SUBMARINE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_SUBMARINE_TEXT">
-			<Text>Submarinos pré-nucleares foram empregados principalmente como piratas de comércio, buscando afundar os navios mercantes do inimigo e cortar sua cadeia de suprimentos. Submarinos da Segunda Guerra Mundial eram geralmente equipados com tubos de torpedo na frente e na traseira e talvez uma pequena arma no convés, capaz de afundar um navio mercante - se ninguém estivesse atirando de volta.[NEWLINE][NEWLINE]Exceto em casos raros, submarinos não procuravam por navios de guerra inimigos. O trabalho do submarino era afundar embarcações mercantes e depois escapar antes que os navios de guerra inimigos ou aeronaves pudessem encontrá-lo. Em encontros com Destróiers, submarinos geralmente levavam o pior. Nas duas Guerras Mundiais, os "U-boats" Alemães chegaram perigosamente perto de fazerem o Reino Unido passar fome, afundando 11 milhões de toneladas de transporte na Primeira Guerra Mundial e 14 milhões de toneladas na Segunda Guerra Mundial, a um custo de cerca de 1.000 "U-boats" afundados.</Text>
+			<Text>{TXT_KEY_UNIT_SUBMARINE[2]} pré-nucleares foram empregados principalmente como piratas de comércio, buscando afundar os navios mercantes do inimigo e cortar sua cadeia de suprimentos. {TXT_KEY_UNIT_SUBMARINE[2]} da Segunda Guerra Mundial eram geralmente equipados com tubos de torpedo na frente e na traseira e talvez uma pequena arma no convés, capaz de afundar um navio mercante - se ninguém estivesse atirando de volta.[NEWLINE][NEWLINE]Exceto em casos raros, submarinos não procuravam por navios de guerra inimigos. O trabalho do submarino era afundar embarcações mercantes e depois escapar antes que os navios de guerra inimigos ou aeronaves pudessem encontrá-lo. Em encontros com {TXT_KEY_UNIT_DESTROYER[2]}, submarinos geralmente levavam o pior. Nas duas Guerras Mundiais, os "U-boats" Alemães chegaram perigosamente perto de fazerem o Reino Unido passar fome, afundando 11 milhões de toneladas de transporte na Primeira Guerra Mundial e 14 milhões de toneladas na Segunda Guerra Mundial, a um custo de cerca de 1.000 "U-boats" afundados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_TANK_HEADING">
 			<Text>{TXT_KEY_UNIT_TANK}</Text>
@@ -3456,10 +3456,10 @@
 			<Text>Um {TXT_KEY_UNIT_TANK} fornece o poder de parada da artilharia com a mobilidade da cavalaria. Os {TXT_KEY_UNIT_TANK[2]} apareceram pela primeira vez no final da Primeira Guerra Mundial, inventados para ultrapassar a superioridade da guerra defensiva da época: com metralhadoras, arame farpado e trincheiras, os ataques de infantaria de massa eram fracassos onerosos, e ataques de cavalaria não eram para qualquer um. Embora mal planejados e atormentados por problemas no motor e tripulantes inexperientes, os primeiros {TXT_KEY_UNIT_TANK[2]} mostraram grande potencial - pelo menos para aqueles que prestavam atenção. Na Segunda Guerra Mundial, os Alemães empregaram o "blitzkrieg" - assaltos-relâmpagos liderados por frotas de {TXT_KEY_UNIT_TANK[2]} - com efeito extraordinário, conquistando a França e levando o exército Britânico diretamente para fora do continente, antes que seus generais conseguissem descobrir uma resposta à nova e surpreendente tática. Embora os {TXT_KEY_UNIT_TANK[2]} permaneçam ainda hoje o componente mais importante da ofensiva de um exército terrestre, eles têm provado ser bastante vulneráveis a uma nova arma ainda mais rápida: o helicóptero.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ZERO_HEADING">
-			<Text>Zero</Text>
+			<Text>{TXT_KEY_UNIT_JAPANESE_ZERO}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_ZERO_TEXT">
-			<Text>O Mitsubishi A6M Zero era o avião de caça usado pelo Japão durante a Segunda Guerra Mundial. Destinados a lutar a partir de um porta-aviões, no início da Segunda Guerra Mundial o Zero foi o melhor avião de caça transportado do mundo. Combinando capacidade de manobra e longo alcance, o Zero era excelente em combates, facilmente superando as aeronaves inferiores dos Americanos e Britânicos. À medida que a guerra progredia, os aviões aliados melhoraram dramaticamente, enquanto a força aérea japonesa sofreu pela crescente escassez de material e de mão de obra e, ao final da guerra, o Zero foi superado. Mas no auge, o Zero foi um grande avião de caça de fato, dominando o vasto campo de batalha do Pacífico.</Text>
+			<Text>O Mitsubishi A6M Zero era o avião de caça usado pelo Japão durante a Segunda Guerra Mundial. Destinados a lutar a partir de um {TXT_KEY_UNIT_CARRIER}, no início da Segunda Guerra Mundial o {TXT_KEY_UNIT_JAPANESE_ZERO} foi o melhor avião de caça transportado do mundo. Combinando capacidade de manobra e longo alcance, o {TXT_KEY_UNIT_JAPANESE_ZERO} era excelente em combates, facilmente superando as aeronaves inferiores dos Americanos e Britânicos. À medida que a guerra progredia, os aviões aliados melhoraram dramaticamente, enquanto a força aérea japonesa sofreu pela crescente escassez de material e de mão de obra e, ao final da guerra, o {TXT_KEY_UNIT_JAPANESE_ZERO} foi superado. Mas no auge, o {TXT_KEY_UNIT_JAPANESE_ZERO} foi um grande avião de caça de fato, dominando o vasto campo de batalha do Pacífico.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_IROQUOIS_FACTOID_HEADING">
 			<Text>Curiosidades Iroquesas</Text>
@@ -3815,7 +3815,7 @@
 			<Text>Ciro II foi sucedido por seu filho, Cambises II. Depois de supostamente proteger seu trono, assassinando seu irmão Bardiya, em 525 a.C., Cambises liderou uma campanha contra o Egito, que caiu depois de batalhas em Pelusium e Memphis. Cambises, em seguida, tentou ampliar ainda mais o poder Persa a oeste, mas os ataques contra Cartago, Núbia e Amon foram todos sem sucesso. Em 522, Cambises ficou sabendo de uma revolta no Irã, liderada por um impostor dizendo ser seu irmão, Bardiya. Ele morreu enquanto corria para casa para recuperar o controle da região rebelde. Foi dito que ele cometeu suicídio, mas alguns historiadores acreditam que foi apenas propaganda do seu sucessor.[NEWLINE][NEWLINE]Após a morte de Cambises II, um dos seus generais, um homem chamado "Dario", levou suas tropas de volta ao Irã para esmagar a rebelião, que aparentemente estava bem avançada no momento em que Dario chegou. Membro da casa Aquemênida e um parente distante de Cambises II, Dario tinha se declarado herdeiro legítimo de Cambises. Demorou um ano de duros combates para acabar com a revolta e para garantir o seu direito ao trono, mas, por volta de 521, Dario estava no firme controle do Império Persa.[NEWLINE][NEWLINE]Dario I foi, por todas as contas, de um líder superlativo. Após responder à rebelião com uma combinação de punição severa de líderes rebeldes e clemência das populações locais, ele então trabalhou para reorganizar o império e para codificar suas leis. Ele expandiu mais ainda o poder Persa no norte da Índia e estabeleceu uma ponte entre o Helesponto, dando à Pérsia um ponto de apoio permanente na Europa. Ele conseguiu suprimir uma revolta das Cidades-Estado Gregas, ganhando a afeição dos cidadãos Gregos ao eliminar os tiranos locais e devolver a democracia ao povo.[NEWLINE][NEWLINE]Em 492, as forças de Dario haviam retomado a Trácia e a Macedônia nos Bálcãs, criando o palco para uma invasão da Grécia. Na primeira tentativa, Dario subestimou as dificuldades de uma campanha na Grécia, e, em 490, os aliados Gregos o venceram decisivamente na batalha de Maratona. Dario foi forçado a recuar e se reagrupar. Ele começou a se preparar para outra campanha, mas numa escala muito maior e mais poderosa.[NEWLINE][NEWLINE]Dario I morreu em 486 a.C. e foi sucedido por seu filho, Xerxes I. Xerxes imediatamente teve que lidar com uma revolta séria no Egito, onde fez em uma campanha rápida em 484. Ao contrário de seus antecessores, Xerxes tratou duramente a província rebelde, removendo os líderes locais e impondo controle Persa sobre os cidadãos. Ele fez o mesmo com os Babilônios, quando eles se revoltaram em 482 a.C.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_PERSIA_TEXT_6">
-			<Text>Em 480, Xerxes levou um enorme exército ao norte da Grécia, apoiado por uma poderosa marinha Persa. O norte da Grécia caiu facilmente frente aos invasores e, apesar da heroica resistência dos espartanos e dos beócios nas Termópilas, os Gregos foram incapazes de impedir que o exército de Xerxes marchasse para Atenas e saqueasse a mais poderosa Cidade-Estado da Grécia. No entanto, os atenienses tinham evacuado a cidade antes de os Persas chegarem, e sua marinha ainda permaneceu uma força potente.[NEWLINE][NEWLINE]Na batalha de Salamina (480 a.C.), uma frota Grega de cerca de 370 trirremes derrotou 800 galeões Persas, destruindo, talvez, 300 embarcações Persas a um custo de 40 navios Gregos. Esta derrota atrasou a planejada ofensiva Persa na Grécia durante um ano, dando tempo aos Gregos para fortalecerem suas defesas contra os invasores. Xerxes foi obrigado a regressar à Pérsia, deixando seu general Mardônio no comando, e os Gregos prontamente ganharam várias importantes batalhas navais e terrestres contra o novo líder. Com a morte de Mardônio, na batalha de Platéias, a campanha acabou e os Persas sobreviventes se retiraram da Grécia em desordem.[NEWLINE][NEWLINE]Xerxes nunca tentou outra invasão da Grécia. Em 465 a.C., ele foi assassinado.</Text>
+			<Text>Em 480, Xerxes levou um enorme exército ao norte da Grécia, apoiado por uma poderosa marinha Persa. O norte da Grécia caiu facilmente frente aos invasores e, apesar da heroica resistência dos espartanos e dos beócios nas Termópilas, os Gregos foram incapazes de impedir que o exército de Xerxes marchasse para Atenas e saqueasse a mais poderosa Cidade-Estado da Grécia. No entanto, os atenienses tinham evacuado a cidade antes de os Persas chegarem, e sua marinha ainda permaneceu uma força potente.[NEWLINE][NEWLINE]Na batalha de Salamina (480 a.C.), uma frota Grega de cerca de 370 trirremos derrotou 800 galeões Persas, destruindo, talvez, 300 embarcações Persas a um custo de 40 navios Gregos. Esta derrota atrasou a planejada ofensiva Persa na Grécia durante um ano, dando tempo aos Gregos para fortalecerem suas defesas contra os invasores. Xerxes foi obrigado a regressar à Pérsia, deixando seu general Mardônio no comando, e os Gregos prontamente ganharam várias importantes batalhas navais e terrestres contra o novo líder. Com a morte de Mardônio, na batalha de Platéias, a campanha acabou e os Persas sobreviventes se retiraram da Grécia em desordem.[NEWLINE][NEWLINE]Xerxes nunca tentou outra invasão da Grécia. Em 465 a.C., ele foi assassinado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_PERSIA_TEXT_7">
 			<Text>Governando entre 465-404 a.C., os três reis Persas que seguiram Xerxes I - Artaxerxes I, Xerxes II e de Dario II - eram fracos e sem inspiração. No final do século IV, os Persas recuperaram algum poder no Mar Egeu, com sucesso jogando os Gregos uns contra os outros, durante a Guerra do Peloponeso, entre Atenas e Esparta, no entanto, em 405 a.C., o Egito se revoltou e a Pérsia foi incapaz de recuperar o controle da província rebelde por mais de 50 anos.[NEWLINE][NEWLINE]Dario II foi sucedido por Artaxerxes II, que governou por 45 anos (404-359 a.C.). Durante o seu reinado, Artaxerxes II travou uma guerra contra Esparta, uma vez mais pelas colônias Gregas na Ásia Menor. A Pérsia se aliou aos atenienses (que estavam se recuperando de sua desastrosa derrota na Guerra do Peloponeso) e Esparta foi forçada a chegar a um acordo. [NEWLINE][NEWLINE]Apesar desses sucessos ocasionais, à medida que o século III a.C. progredia, a fraqueza e desorganização Persa cresciam. Em 373 a.C., um grupo de sátrapas do império (os governadores das províncias) se revoltou. Eles foram abatidos, mas outras revoltas se seguiram e com uma frequência crescente. A posição do rei era cada vez mais instável; Artaxerxes III subiu ao trono como resultado de uma traição, em 359 a.C., numa tentativa de garantir sua posição, prontamente assassinando muitos de seus parentes. Em 338, Artaxerxes III foi envenenado por ordem do eunuco Bagoas, que colocou o filho mais jovem de Artaxerxes, Arses, no poder. Arses prontamente tentou envenenar Bagoas, mas sua tentativa fracassou e ele foi morto. Bagoas, em seguida, levou Dario III ao trono. Dario III era um sátrapa antigo da Armênia; embora ele tivesse uma relação distante com falecido rei, todo mundo com melhores pretensões estava morto.</Text>
@@ -3941,7 +3941,7 @@
 			<Text>Nacionalismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_NAVALTRADITION_HEADING">
-			<Text>Tradição Naval</Text>
+			<Text>{TXT_KEY_POLICY_NAVAL_TRADITION}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_OLIGARCHY_HEADING">
 			<Text>Oligarquia</Text>
@@ -6474,10 +6474,10 @@
 			<Text>Alguns cavaleiros muçulmanos montavam camelos para a batalha. Isso muitas vezes teve um efeito perturbador sobre Europeus que utilizavam cavalos e que não haviam encontrado essas bestas incomuns. Como seria de esperar, os camelos são melhores adaptados ao terreno desértico que os cavalos. Geralmente, os arqueiros que ficam nos camelos empregam táticas de bater e correr contra o inimigo, mais parecido com arqueiros montados Mongóis que cavaleiros ou unidades de cavalaria pesadas. Uma unidade {TXT_KEY_UNIT_ARABIAN_CAMELARCHER} bem treinada pode ser extremamente difícil para os cavaleiros lidarem, se esses cavaleiros não estiverem protegidos por arqueiros ou sua própria cavalaria leve.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CARAVEL_HEADING">
-			<Text>Caravela</Text>
+			<Text>{TXT_KEY_UNIT_CARAVEL}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CARAVEL_TEXT">
-			<Text>A caravela era uma embarcação pequena, usada no século XV para explorar o mundo. Originalmente criada por ordem do Infante D. Henrique de Portugal, outras nações foram rápidas para detectar as qualidades da caravela e criaram suas próprias cópias da útil embarcação. Geralmente com cerca de 20 a 30 metros de comprimento e contendo dois ou três mastros, as caravelas eram leves e superficialmente elaboradas, tornando-as perfeitas para a exploração das costas e rios desconhecidos, corajosamente indo onde as embarcações maiores tinham medo de ir. Elas também foram notavelmente navios de navegabilidade e poderiam sobreviver a tudo que o Atlântico podia jogar contra elas. Duas das três embarcações de Cristóvão Colombo - a Pinta e a Niña - eram caravelas (a maior Santa Maria era um galeão).</Text>
+			<Text>A {TXT_KEY_UNIT_CARAVEL} era uma embarcação pequena, usada no século XV para explorar o mundo. Originalmente criada por ordem do Infante D. Henrique de Portugal, outras nações foram rápidas para detectar as qualidades da {TXT_KEY_UNIT_CARAVEL} e criaram suas próprias cópias da útil embarcação. Geralmente com cerca de 20 a 30 metros de comprimento e contendo dois ou três mastros, as {TXT_KEY_UNIT_CARAVEL[2]} eram leves e superficialmente elaboradas, tornando-as perfeitas para a exploração das costas e rios desconhecidos, corajosamente indo onde as embarcações maiores tinham medo de ir. Elas também foram notavelmente navios de navegabilidade e poderiam sobreviver a tudo que o Atlântico podia jogar contra elas. Duas das três embarcações de Cristóvão Colombo - a Pinta e a Niña - eram {TXT_KEY_UNIT_CARAVEL[2]} (a maior Santa Maria era um galeão).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CHUKONU_HEADING">
 			<Text>Chu-Ko-Nu (China)</Text>
@@ -6600,10 +6600,10 @@
 			<Text>Como a velocidade da batalha aumentou, com o advento de veículos blindados, artilharia e, claro, força aérea, a infantaria moderna também teve que ficar mais rápida e mais manobrável. Unidades de infantaria mais modernas são agora "mecanizadas", que se deslocam sobre o campo de batalha em veículos blindados. Estes veículos são geralmente equipados com uma ou mais metralhadoras pesadas e lançadores de granadas. Elas não são fortes o suficiente para resistir ao {TXT_KEY_UNIT_MODERN_ARMOR}, mas elas possuem proteção contra balas e estilhaços e outras ameaças aos que estão dentro do campo de batalha. Dependendo da situação, os soldados podem lutar de dentro do veículo ou desmontar e prosseguir a pé, à maneira tradicional de soldados de infantaria desde o início da guerra.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MISSLECRUISER_HEADING">
-			<Text>Cruzador de Mísseis Guiados</Text>
+			<Text>{TXT_KEY_UNIT_MISSILE_CRUISER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MISSLECRUISER_TEXT">
-			<Text>Um Cruzador de Mísseis Guiados é, com exceção do Porta-Aviões e do Submarino Nuclear, a mais poderosa arma no arsenal naval moderno. Projetado para transportar e posicionar os mísseis enormemente poderosos, precisos e de longo alcance, os Cruzadores de Mísseis Guiados muitas vezes podem atacar e destruir o inimigo em terra ou mar, muito antes de o inimigo sequer saber que o Cruzador estava posicionado. O Cruzador Americano da classe Ticonderoga é sem dúvida o mais poderoso navio a flutuar, armado com 122 tubos de lançamento que pode transportar uma grande variedade de mísseis  terra-terra, terra-ar e até mesmo antissubmarino. Também é equipado com uma variedade de armas de fogo no estilo Gatling antiaeronaves, capaz de destruir mísseis inimigos e de aeronaves de curto alcance.</Text>
+			<Text>Um {TXT_KEY_UNIT_MISSILE_CRUISER} é, com exceção do {TXT_KEY_UNIT_CARRIER} e do {TXT_KEY_UNIT_NUCLEAR_SUBMARINE}, a mais poderosa arma no arsenal naval moderno. Projetado para transportar e posicionar os mísseis enormemente poderosos, precisos e de longo alcance, os {TXT_KEY_UNIT_MISSILE_CRUISER[2]} muitas vezes podem atacar e destruir o inimigo em terra ou mar, muito antes de o inimigo sequer saber que o {TXT_KEY_UNIT_MISSILE_CRUISER} estava posicionado. O Cruzador Americano da classe Ticonderoga é sem dúvida o mais poderoso navio a flutuar, armado com 122 tubos de lançamento que pode transportar uma grande variedade de mísseis  terra-terra, terra-ar e até mesmo antissubmarino. Também é equipado com uma variedade de armas de fogo no estilo Gatling antiaéreas, capaz de destruir mísseis inimigos, e de aeronaves de curto alcance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MOBILEROCKETARTILLERY_HEADING">
 			<Text>Artilharia Móvel de Foguetes</Text>
@@ -6624,22 +6624,22 @@
 			<Text>O {TXT_KEY_UNIT_MODERN_ARMOR} foi significativamente melhorado ao longo do tempo, da mesma maneira que os melhores tanques da Segunda Guerra Mundial. Tanques de hoje são maiores, mais rápidos, têm blindagem muito melhor e as armas também, e, talvez mais importante, são fornecidos com computadores sofisticados e equipamentos de comunicação que melhoram consideravelmente o seu poder e capacidade de sobrevivência no campo de batalha mortal. Um tanque moderno pode percorrer o campo de batalha a 40 milhas por hora, enquanto dispara com precisão em alvos que estão há centenas de metros de distância, um computador minuciosamente ajusta o tambor do tanque, compensando cada lombada ou buraco na estrada.[NEWLINE][NEWLINE]No campo de batalha moderno, as maiores ameaças ao {TXT_KEY_UNIT_MODERN_ARMOR} vêm dos blindados do inimigo e da artilharia, caças inimigos e helicópteros. Raramente alguém carrega armas de infantaria fortes o suficiente para destruir tanques inimigos - exceto, é claro, para os rádios, que podem ser usados para chamar o poder da artilharia ou aérea.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_NUCLEARMISSLE_HEADING">
-			<Text>Míssil Nuclear</Text>
+			<Text>{TXT_KEY_UNIT_NUCLEAR_MISSILE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_NUCLEARMISSLE_TEXT">
-			<Text>Mísseis Nucleares carregam uma ou mais ogivas contendo bombas de hidrogênio, cada uma capaz de destruir uma cidade. Capaz de transportar sua carga mortal ao outro lado do mundo, mísseis nucleares são as armas mais mortais e mais terríveis jamais criadas. Atualmente não existem defesas práticas contra mísseis nucleares: uma vez lançado, salvo somente por um milagre, a cidade alvo está destruída. Além da destruição imediata causada pela explosão enorme, explosões nucleares envenenam a terra, o mar e o ar para as gerações futuras. Ventos errantes podem levar as consequências mortais por quilômetros, envenenando a terra e matando pessoas em todo o continente. É bastante insano usá-los em um inimigo que faz parte do mesmo planeta, a menos que seja para evitar que o inimigo os use em si mesmo.</Text>
+			<Text>{TXT_KEY_UNIT_NUCLEAR_MISSILE[2]} carregam uma ou mais ogivas contendo bombas de hidrogênio, cada uma capaz de destruir uma cidade. Capaz de transportar sua carga mortal ao outro lado do mundo, {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]} são as armas mais mortais e mais terríveis jamais criadas. Atualmente não existem defesas práticas contra {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}: uma vez lançado, salvo somente por um milagre, a cidade alvo está destruída. Além da destruição imediata causada pela explosão enorme, explosões nucleares envenenam a terra, o mar e o ar para as gerações futuras. Ventos errantes podem levar as consequências mortais por quilômetros, envenenando a terra e matando pessoas em todo o continente. É bastante insano usá-los em um inimigo que faz parte do mesmo planeta, a menos que seja para evitar que o inimigo os use em si mesmo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_NUCLEARSUBMARINE_HEADING">
-			<Text>Submarino Nuclear</Text>
+			<Text>{TXT_KEY_UNIT_NUCLEAR_SUBMARINE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_NUCLEARSUBMARINE_TEXT">
-			<Text>O Submarino Nuclear é uma embarcação movida pela energia produzida por um reator nuclear, capaz de submergir e emergir quando desejado. O uso da energia nuclear traz grandes vantagens nestes tipos de embarcação, pois possibilita que o submarino permaneça por longos períodos de tempo totalmente submerso, o que não é possível quando é movido a motores a diesel, pela necessidade de ar, ou movido à energia elétrica, pois as baterias não possuem longa duração. O primeiro submarino desse tipo foi o USS Nautilus, da marinha Americana, lançado ao mar em 1954. Eles podem lançar mísseis nucleares, deslocarem em maior velocidade e se ocultar com maior facilidade</Text>
+			<Text>O {TXT_KEY_UNIT_NUCLEAR_SUBMARINE} é uma embarcação movida pela energia produzida por um reator nuclear, capaz de submergir e emergir quando desejado. O uso da energia nuclear traz grandes vantagens nestes tipos de embarcação, pois possibilita que o submarino permaneça por longos períodos de tempo totalmente submerso, o que não é possível quando é movido a motores a diesel, pela necessidade de ar, ou movido à energia elétrica, pois as baterias não possuem longa duração. O primeiro submarino desse tipo foi o USS Nautilus, da marinha Americana, lançado ao mar em 1954. Eles podem lançar {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}, deslocarem em maior velocidade e se ocultar com maior facilidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_STEALTHBOMBER_HEADING">
-			<Text>Bombardeiro Furtivo</Text>
+			<Text>{TXT_KEY_UNIT_STEALTH_BOMBER}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_STEALTHBOMBER_TEXT">
-			<Text>Como a tecnologia dos mísseis antiaeronaves tem evoluído, o desenho de bombardeiros estratégicos e táticos também. Uma maneira de evitar ser derrubado por um inimigo é se manter invisível ao radar dele e outros dispositivos de rastreamento. O Bombardeiro Furtivo moderno é construído de fortes materiais, compostos especialmente revestidos com materiais antirradar e tem uma forma estrutural para desviar as ondas de radar do inimigo. Bombardeiros Furtivo podem transportar bombas nucleares ou não nucleares. Embora bastante eficazes, bombardeiros invisíveis também são incrivelmente caros: cada bombardeiro furtivo Americano B-2 custa cerca de um bilhão de dólares, mais do que suficiente para quebrar o banco de quase qualquer país no mundo.</Text>
+			<Text>Como a tecnologia dos mísseis antiaéreos tem evoluído, o desenho de bombardeiros estratégicos e táticos também. Uma maneira de evitar ser derrubado por um inimigo é se manter invisível ao radar dele e outros dispositivos de rastreamento. O {TXT_KEY_UNIT_STEALTH_BOMBER} moderno é construído de fortes materiais, compostos especialmente revestidos com materiais antirradar e tem uma forma estrutural para desviar as ondas de radar do inimigo. {TXT_KEY_UNIT_STEALTH_BOMBER[2]} podem transportar bombas nucleares ou não nucleares. Embora bastante eficazes, {TXT_KEY_UNIT_STEALTH_BOMBER[2]} também são incrivelmente caros: cada {TXT_KEY_UNIT_STEALTH_BOMBER} Americano B-2 custa cerca de um bilhão de dólares, mais do que suficiente para quebrar o banco de quase qualquer país no mundo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CANNON_HEADING">
 			<Text>Canhão</Text>
@@ -6660,16 +6660,16 @@
 			<Text>Os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} eram comunidades militares que viviam nas florestas da Ucrânia e da Rússia. Originalmente, o termo se referia especificamente à tribo Tártara, mas até o final do século XV era também usado para se referir a um número de camponeses que haviam fugido da servidão na Polônia, Lituânia e Moscou e estabelecido casas em estado selvagem. Alguns dos maiores cavaleiros naturais desde os Mongóis, os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} serviram no exército Russo em troca de privilégios especiais para si e para suas comunidades. Os militares Russos empregaram a cavalaria Cossaca em todos os seus principais conflitos externos e internos até o éculo XX, e as unidades de {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} lutaram em ambos os lados durante a Guerra Civil Russa. Os {TXT_KEY_UNIT_RUSSIAN_COSSACK[2]} foram todos eliminados, mas sob o Stalinismo, no entanto, alguns sobreviventes estão tentando recuperar o seu patrimônio na sequência do colapso da União Soviética.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FRIGATE_HEADING">
-			<Text>Fragata</Text>
+			<Text>{TXT_KEY_UNIT_FRIGATE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FRIGATE_TEXT">
-			<Text>Durante a "Idade das Velas", uma Fragata era um navio de guerra que foi menor que "navios da linha" de três deques, que formaram o núcleo de combate de várias marinhas pela história, mas ainda era grande o suficiente para portar uma quantidade considerável de poder de fogo. Fragatas possuem três mastros com suas armas montadas em uma plataforma única (um navio da linha pode ter dois ou até três deques de armas de fogo). Dependendo do seu tamanho, uma Fragata pode levar 25-50 armas. Geralmente servem como escolta e navios de patrulha, bem como caçadoras de piratas. Durante a Guerra de 1812, os Estados Unidos criaram as chamadas "super fragatas" que levavam até 90 armas. Um navio, o USS Constitution, ainda sobrevive, ela é a mais antiga fragata em funcionamento.</Text>
+			<Text>Durante a "Idade das Velas", uma {TXT_KEY_UNIT_FRIGATE} era um navio de guerra que foi menor que "navios da linha" de três deques, que formaram o núcleo de combate de várias marinhas pela história, mas ainda era grande o suficiente para portar uma quantidade considerável de poder de fogo. {TXT_KEY_UNIT_FRIGATE[2]} possuem três mastros com suas armas montadas em uma plataforma única (um navio da linha pode ter dois ou até três deques de armas de fogo). Dependendo do seu tamanho, uma {TXT_KEY_UNIT_FRIGATE} pode levar 25-50 armas. Geralmente servem como escolta e navios de patrulha, bem como caçadoras de piratas. Durante a Guerra de 1812, os Estados Unidos criaram as chamadas "super fragatas" que levavam até 90 armas. Um navio, o USS Constitution, ainda sobrevive, ela é a mais antiga fragata em funcionamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_IRONCLAD_HEADING">
-			<Text>Couraçado</Text>
+			<Text>{TXT_KEY_UNIT_IRONCLAD}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_IRONCLAD_TEXT">
-			<Text>Embora visionários tivessem sonhado com navios blindados de propulsão mecânica já em Leonardo da Vinci, os Couraçados foram usados primeiramente na guerra Civil Americana em meados do século IX. A primeira batalha entre Couraçados também foi na Guerra Civil Americana em 1862, entre o Monitor da União e o Virgínia da Confederação (também conhecido como o "Merrimac"). A batalha durou quatro horas, com canhões de ambos os navios "martelando" um para ao outro com pouco efeito, e a luta praticamente terminou em um empate. No entanto, o efeito da batalha no mundo foi profundo. Em uma única manhã de inconclusiva luta, esses vasos pesados e desajeitados - capazes de se moverem contra o vento e, principalmente, blindados contra os canhões de guerra - tornaram as marinhas das nações obsoletas.</Text>
+			<Text>Embora visionários tivessem sonhado com navios blindados de propulsão mecânica já em Leonardo da Vinci, os {TXT_KEY_UNIT_IRONCLAD[2]} foram usados primeiramente na guerra Civil Americana em meados do século IX. A primeira batalha entre {TXT_KEY_UNIT_IRONCLAD[2]} também foi na Guerra Civil Americana em 1862, entre o Monitor da União e o Virgínia da Confederação (também conhecido como o "Merrimac"). A batalha durou quatro horas, com canhões de ambos os navios "martelando" um para ao outro com pouco efeito, e a luta praticamente terminou em um empate. No entanto, o efeito da batalha no mundo foi profundo. Em uma única manhã de inconclusiva luta, esses vasos pesados e desajeitados - capazes de se moverem contra o vento e, principalmente, blindados contra os canhões de guerra - tornaram as marinhas das nações obsoletas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_LANCER_HEADING">
 			<Text>{TXT_KEY_UNIT_LANCER}</Text>
@@ -6687,7 +6687,7 @@
 			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} (Inglaterra)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SHIPOFTHELINE_TEXT">
-			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} são as maiores e mais poderosas embarcações à vela já construídas. Eles formaram a espinha dorsal das maiores marinhas da Europa dos séculos XVII ao XIX. {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} foram nomeados em razão da formação clássica em que esses navios lutavam. Em batalha, navios de cada lado abordariam o inimigo em uma linha e, à medida que os navios adversários passavam, cada linha lançaria um trovejante de fogo de canhão, fazendo horríveis danos às embarcações e para aqueles a bordo delas. A vitória costumava ir para o lado com os maiores canhões e marinheiros mais bem treinados. Os Ingleses eram mestres nesta forma de guerra e seus navios de linha dominaram os oceanos do mundo por mais de um século.</Text>
+			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} são as maiores e mais poderosas embarcações à vela já construídas. Eles formaram a espinha dorsal das maiores marinhas da Europa dos séculos XVII ao XIX. {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} foram nomeados em razão da formação clássica em que esses navios lutavam. Em batalha, navios de cada lado abordariam o inimigo em uma linha e, à medida que os navios adversários passavam, cada linha lançaria um trovejante de fogo de canhão, fazendo horríveis danos às embarcações e para aqueles a bordo delas. A vitória costumava ir para o lado com os maiores canhões e marinheiros mais bem treinados. Os Ingleses eram mestres nesta forma de guerra e seus {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE[2]} dominaram os oceanos do mundo por mais de um século.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SIPAHI_HEADING">
 			<Text>{TXT_KEY_UNIT_OTTOMAN_SIPAHI} (Otomanos)</Text>
@@ -7062,7 +7062,7 @@
 			<Text>Como funciona o combate naval?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_BODY">
-			<Text>Como unidades terrestres, há unidades navais não militares. {TXT_KEY_UNIT_WORK_BOAT[2]} e qualquer unidade terrestre "embarcada" são destruídos quando atacadas por Bárbaros e outras civilizações ou cidades.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o Porta-Aviões, Cruzador de Mísseis e os Submarinos. Elas são explicadas na seção "Combate Naval Avançado".</Text>
+			<Text>Como unidades terrestres, há unidades navais não militares. {TXT_KEY_UNIT_WORK_BOAT[2]} e qualquer unidade terrestre "embarcada" são destruídos quando atacadas por Bárbaros e outras civilizações ou cidades.[NEWLINE][NEWLINE]Todas as unidades navais militares são unidades de combate. Elas podem atacar outras unidades navais e as unidades de terra dentro do alcance de sua visão.[NEWLINE][NEWLINE]O combate naval é resolvido como o combate a distância normal. No entanto, existem certas unidades navais que merecem atenção especial: o {TXT_KEY_UNIT_CARRIER}, o {TXT_KEY_UNIT_MISSILE_CRUISER} e os {TXT_KEY_UNIT_SUBMARINE[2]}. Elas são explicadas na seção "Combate Naval Avançado".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_NAVAL_HEADING2_TITLE">
 			<Text>Combate naval</Text>
@@ -7110,7 +7110,7 @@
 			<Text>Como funciona o combate a distância?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_RANGED_HEADING2_BODY">
-			<Text>Algumas unidades, como Arqueiros, Catapultas e Trirremes se envolvem em Combate a Distância (isto é, eles atiram projéteis contra unidades inimigas) ao atacarem, ao invés de entrar em combate corpo a corpo. Essas unidades possuem duas vantagens sobre unidades de ataque corpo a corpo: em primeiro lugar, elas podem atacar unidades inimigas que não estão adjacentes a elas e, em segundo, elas não sofrem dano quando atacam.</Text>
+			<Text>Algumas unidades, como {TXT_KEY_UNIT_ARCHER[2]}, {TXT_KEY_UNIT_CATAPULT[2]} e {TXT_KEY_UNIT_TRIREME[2]} se envolvem em Combate a Distância (isto é, eles atiram projéteis contra unidades inimigas) ao atacarem, ao invés de entrar em combate corpo a corpo. Essas unidades possuem duas vantagens sobre unidades de ataque corpo a corpo: em primeiro lugar, elas podem atacar unidades inimigas que não estão adjacentes a elas e, em segundo, elas não sofrem dano quando atacam.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_COMBAT_RANGED_HEADING2_TITLE">
 			<Text>Combate a distância</Text>
@@ -7542,7 +7542,7 @@
 			<Text>A Chuva Radioativa é a radiação residual que se segue a uma explosão nuclear. A chuva radioativa "precipita-se" do ar como uma camada de partículas radioativas que são altamente perigosas a plantas e animais, matando-os imediatamente ou causando danos aos seus DNA's, dando-lhes cânceres, outras doenças ou lamentáveis mutações. Dependendo do tipo de explosão nuclear, a terra pode permanecer envenenada por décadas, possivelmente séculos. A limpeza requer a substituição de construções contaminadas, solo e vegetação.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_ICE_PEDIA">
-			<Text>O {TXT_KEY_FEATURE_ICE} é intransitável, exceto para unidades aéreas e submarinos. Ele não oferece nada às cidades.</Text>
+			<Text>O {TXT_KEY_FEATURE_ICE} é intransitável, exceto para unidades aéreas e submarinas. Ele não oferece nada às cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FOGOFWAR_ADV_QUEST">
 			<Text>O que é a neblina de guerra?</Text>
@@ -7863,7 +7863,7 @@
 			<Text>Uma Vez Só</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_HEADING1_BODY">
-			<Text>Ah, ouro! Ouro é uma coisa maravilhosa. Você pode usá-lo para construir um exército, para pagar por uma ligação de estradas, para adquirir edifícios, para comprar a amizade de uma Cidade-Estado e para subornar uma civilização inimiga. [NEWLINE]Pode ser verdade que "o dinheiro não compra felicidade", mas você pode conseguir um submarino nuclear armado com mísseis nucleares, e isso não é ruim.</Text>
+			<Text>Ah, ouro! Ouro é uma coisa maravilhosa. Você pode usá-lo para construir um exército, para pagar por uma ligação de estradas, para adquirir edifícios, para comprar a amizade de uma Cidade-Estado e para subornar uma civilização inimiga. [NEWLINE]Pode ser verdade que "o dinheiro não compra felicidade", mas você pode conseguir um {TXT_KEY_UNIT_NUCLEAR_SUBMARINE} armado com {TXT_KEY_UNIT_NUCLEAR_MISSILE[2]}, e isso não é ruim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_HEADING1_TITLE">
 			<Text>Ouro</Text>
@@ -8277,10 +8277,10 @@
 			<Text>Bônus vs Montarias (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_I">
-			<Text>Bônus vs Submarinos (50)</Text>
+			<Text>Bônus vs {TXT_KEY_INVISIBLE_SUBMARINE} (50)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_II">
-			<Text>Bônus vs Submarinos (100)</Text>
+			<Text>Bônus vs {TXT_KEY_INVISIBLE_SUBMARINE} (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK">
 			<Text>Bônus vs {TXT_KEY_UNIT_TANK[2]}</Text>
@@ -8364,7 +8364,7 @@
 			<Text>Interceptação (100)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_INVISIBLE_SUBMARINE">
-			<Text>É invisível (Submarino)</Text>
+			<Text>É invisível ({TXT_KEY_INVISIBLE_SUBMARINE})</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_JAGUAR">
 			<Text>Bônus em Combate na {TXT_KEY_FEATURE_JUNGLE} (50)</Text>
@@ -8421,7 +8421,7 @@
 			<Text>Pode Atacar Duas Vezes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SEE_INVISIBLE_SUBMARINE">
-			<Text>Pode Ver Submarinos</Text>
+			<Text>Pode Ver {TXT_KEY_UNIT_SUBMARINE[2]}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SIGHT_PENALTY">
 			<Text>Visibilidade Limitada</Text>
@@ -8556,7 +8556,7 @@
 			<Text>Nacionalismo é a política que enfatiza a importância e a unicidade do Estado. O Estado é a mãe e o pai do povo, e o povo ama o Estado. Todos tem a bandeira nacional tremulando sobre suas casas, e assistem deliciados ao desfile de militares armados no dia da Fundação. Estados nacionalistas são frequentemente bastante poderosos, com as pessoas trabalhando incansavelmente para o progresso dos mesmos. No entanto, a crítica interna ao estado tende a ser sufocada, podendo limitar a capacidade do Governo de corrigir a si mesmo, caso venha a desviar-se do rumo certo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_NAVALTRADITION_TEXT">
-			<Text>Nações com forte tradição naval valorizam a marinha de seu país acima de todos os outros ramos das forças armadas. (Por razões óbvias: elas são frequentemente nações insulares.) O serviço na Marinha é relacionado à classe dominante, e oficiais da Marinha são vistos como superiores aos oficiais do exército ou da força aérea. A Grã Bretanha tem a mais duradoura e forte tradição naval na Europa. Os navios Britânicos eram conhecidos por serem superiores às embarcações de outras nações, e os oficiais e tripulantes Britânicos eram os melhores navegantes. Isso dava a Marinha Britânica uma séria vantagem em termos de moral em meio a uma guerra naval.</Text>
+			<Text>Nações com forte {TXT_KEY_POLICY_NAVAL_TRADITION} valorizam a marinha de seu país acima de todos os outros ramos das forças armadas. (Por razões óbvias: elas são frequentemente nações insulares.) O serviço na Marinha é relacionado à classe dominante, e oficiais da Marinha são vistos como superiores aos oficiais do exército ou da força aérea. A Grã Bretanha tem a mais duradoura e forte tradição naval na Europa. Os navios Britânicos eram conhecidos por serem superiores às embarcações de outras nações, e os oficiais e tripulantes Britânicos eram os melhores navegantes. Isso dava a Marinha Britânica uma séria vantagem em termos de moral em meio a uma guerra naval.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_OLIGARCHY_TEXT">
 			<Text>Oligarquia é uma forma de governo em que um pequeno segmento da sociedade retém todo o poder. O poder pode ser obtido por uma família ou tribo específica, ou ainda por pessoas de uma determinada religião ou casta especial. Algumas Cidades-Estado da Grécia antiga eram oligarquias, onde todo o poder estava nas mãos de algumas famílias da elite. O Apartheid, na África do Sul, seria uma oligarquia moderna, onde a minoria branca concentra todo o poder. Antes dos ataques de 11/9, o Iraque também era uma oligarquia, com o poder concentrado nas mãos de membros da família e tribo de Saddam Hussein.</Text>
@@ -9237,7 +9237,7 @@
 			<Text>Balística é a ciência de atirar ou lançar coisas a grandes distâncias com alta precisão. Balística avançada é mais do mesmo, com distâncias ampliadas à escala de continentes. Artilheiros modernos podem atirar projéteis explosivos muitas milhas com grande precisão e mísseis podem ser lançados contra alvos específicos do outro lado do planeta. Quando acessórios como GPS e mira a laser são incluídos, praticamente deixa de existir em qualquer parte do mundo alvo que não possa ser atingido por alguma arma. Se isso é bom, é um debate aberto; em geral, depende da pessoa cujo dedo que está no botão de lançamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Míssil Nuclear[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM]Urânio e é capaz de destruir unidades e cidades.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_NUCLEAR_MISSILE}[ENDCOLOR], uma assustadora arma que requer [ICON_RES_URANIUM]Urânio e é capaz de destruir unidades e cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Nosso poder científico superou nosso poder espiritual. Nós guiamos mísseis, mas descaminhamos homens."[NEWLINE][TAB][TAB] - Martin Luther King, Jr.[NEWLINE][TAB]</Text>
@@ -9450,7 +9450,7 @@
 			<Text>"Combustão" significa queimar. É uma reação química entre substâncias, normalmente uma deles sendo o oxigênio, que resulta, na maioria das vezes, na geração de luz e energia térmica. Estamos falando especificamente aqui do uso de combustão dentro de uma máquina (portanto, "combustão interna") para criar energia para girar uma manivela ou mover um pistão.[NEWLINE][NEWLINE]Há dois tipos de motores com combustão interna: com combustão intermitente (com intervalos) e de fluxo contínuo. Em um motor com combustão intermitente, certa quantidade de combustível e oxigênio é injetada na câmara de combustão onde explodem, movendo um pistão ou outro dispositivo mecânico. Em seguida outra quantidade de combustível e oxigênio é inserida novamente na câmara e o processo inteiro se repete. Motores automobilísticos são exemplos de combustão intermitente. Nos motores de fluxo contínuo, um canal injeta combustível e oxigênio e a queima ocorre sem interrupções. Motores a jato são do tipo fluxo contínuo.[NEWLINE][NEWLINE]A primeira patente de motor de combustão interna foi dada ao inglês Samuel Brown, em 1823, pelo seu "motor a vácuo" que utilizava os gases hidrogênio e oxigênio. A primeira patente pela utilização de um motor a jato para impulsionar uma aeronave foi expedida em 1921 para o francês Maxime Guillaume. Nenhuma dessas primeiras tentativas obteve êxito, mas eles abriram as portas para tecnologias que iriam carregar o mundo até aos dias de hoje, e um futuro não tão distante.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_TANK}[ENDCOLOR], uma unidade blindada incrivelmente rápida e poderosa. Além disso, permite a construção do [COLOR_POSITIVE_TEXT]Destróier[ENDCOLOR], uma embarcação rápida capaz de caçar Submarinos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_TANK}[ENDCOLOR], uma unidade blindada incrivelmente rápida e poderosa. Além disso, permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_DESTROYER}[ENDCOLOR], uma embarcação rápida capaz de caçar {TXT_KEY_UNIT_SUBMARINE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Qualquer homem que consegue dirigir bem enquanto beija uma bela mulher, simplesmente não está dando ao beijo a devida atenção que ele merece."[NEWLINE][TAB][TAB] - Albert Einstein[NEWLINE][TAB][TAB][TAB]</Text>
@@ -9471,7 +9471,7 @@
 			<Text>Basicamente, um computador é uma máquina que manipula dados ou controles de acordo com uma série de instruções previamente definidas. Apesar de o primeiro computador "moderno" ter sido concebido não antes do século XX, os primeiros computadores podem ser representados pelos relógios astronômicos de Al-Jazari, datados de 1206 d.C., e pelos teares programáveis de Joseph-Marie Jacquard, de 1801. Embora ambas as máquinas forem programáveis, elas não realizavam outra função dos computadores modernos: armazenar dados. Os primeiros computadores usavam partes mecânicas e analógicas para funcionar e guardar seus dados, eventualmente substituídos por componentes digitais na década de 1940. Não há um ponto exato para indicar quando o computador moderno foi definitivamente criado; isso ocorreu com uma série de passos e avanços, ao longo dos quais algumas máquinas se destacaram, como a Máquina Z, de Konrad Zuse, e o ENIAC, do Exército Americano.[NEWLINE][NEWLINE]Desde a adoção da eletrônica, os computadores se tornaram menores, mais rápidos, mais baratos, mais confiáveis, mais versáteis e passaram a consumir menos energia. Se antes ocupavam salas inteiras, ou até mesmo quadras do bairro, hoje computadores modernos se confundem com telefones e podem ser encontrados não apenas como máquinas pessoais, mas são embutidos em carros, máquinas de lavar, e até mesmo na forma de tecer uma roupa. Computadores tornaram possível aos cientistas acelerar cálculos que levariam uma vida humana inteira para se completar, prever o clima com grande precisão, enviar humanos à lua e espaçonaves além dos limites do sistema solar e uma criança em Xangai jogar videogame com outra na Inglaterra, sem sair de sua casa.[NEWLINE][NEWLINE]Ainda que pareça à primeira vista uma moda passageira ou apenas um divertimento para os mais ricos, o computador deixou inegáveis marcas na história e veio para ficar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPUTERS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino Nuclear[ENDCOLOR], uma embarcação que pode disparar mísseis e é invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos. Também permite a construção do [COLOR_POSITIVE_TEXT]SAM Móvel[ENDCOLOR], uma unidade rápida, especializada em abater aeronaves inimigas.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_NUCLEAR_SUBMARINE}[ENDCOLOR], uma embarcação que pode disparar mísseis e é invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE}. Também permite a construção do [COLOR_POSITIVE_TEXT]SAM Móvel[ENDCOLOR], uma unidade rápida, especializada em abater aeronaves inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPUTERS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Computadores são como o Velho Testamento de Deus: muitas regras e nenhuma piedade."[NEWLINE][TAB][TAB] - Joseph Campbell[NEWLINE][TAB][TAB][TAB]</Text>
@@ -9576,10 +9576,10 @@
 			<Text>Voo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_DESC">
-			<Text>Durante a história, o Homem sonhou em conquistar os céus. As visões de Leonardo da Vinci sobre o voo são bem conhecidas, claro, e houve vários outros visionários também. Os teóricos antigos olharam os mestres naturais do ar, pássaros, e eles propuseram máquinas que imitavam suas asas e movimentos (ornitópodes). Mas os engenheiros não tinham os materiais, mecanismos e conhecimentos em aerodinâmica para dar vida as suas visões. [NEWLINE][NEWLINE]O estudo da aerodinâmica avançou pelos séculos XVI, XVII, XVIII e XIX por cientistas brilhantes, como da Vinci, Galileo, Huygens, Newton, Bernoulli, Euler e Smeaton. Em 1804, o inglês George Cayley voou em um modelo planador de asas fixas e, em 1853, ele criou um modelo em escala real que levava seu relutante copiloto no primeiro voo tripulado conhecido de um planador.[NEWLINE][NEWLINE]Em 1902, os irmãos Wright construíram seu primeiro planador com uma avançada forma de asa. Incapazes de encontrar um fabricante experiente para construir um motor leve, movido à gasolina, conforme suas especificações, eles mesmos desenharam e construíram. Em 17 de dezembro de 1903, o avião dos irmãos Wright voou quatro vezes, por distâncias de até 260 metros. Os anos seguintes ao invento dos irmãos Wright viram um enorme e rápido aperfeiçoamento na tecnologia do voo Em 1908, o americano Glenn Hammond Curtiss voou mais de 1 quilômetro e, em 1909, o francês Louis Bleriot voou sobre o Canal da Mancha.[NEWLINE][NEWLINE]A Primeira Guerra Mundial viu muitos avanços nas técnicas de voo, especialmente no armamento dos ares, com a criação de aviões de combate e bombardeiros. Pelos anos 20, pilotos voavam regularmente por todos os continentes e, em 1927, Charles Lindberg completou o primeiro voo, sem escalas, sobre o Oceano Atlântico. A Segunda Guerra Mundial acompanhou um tremendo aumento na velocidade, alcance, durabilidade e poder de fogo das aeronaves e, no final da guerra, caças a jato, bombardeiros de alta altitude, capazes de alcançar outro continente, e helicópteros estavam em serviço.[NEWLINE][NEWLINE]Na era moderna, viagens aéreas se tornaram comuns, com um percurso dos Estados Unidos à China - um sonho impossível há apenas 75 anos - é considerado atualmente muito tedioso. E, apesar de os ataques terroristas de 11 de setembro de 2001 terem deixado as viagens aéreas um pouco mais arriscadas, milhões de pessoas ao redor do mundo ainda embarcam nos aviões todos os dias. O voo chegou para ficar.</Text>
+			<Text>Durante a história, o Homem sonhou em conquistar os céus. As visões de Leonardo da Vinci sobre o voo são bem conhecidas, claro, e houve vários outros visionários também. Os teóricos antigos olharam os mestres naturais do ar, pássaros, e eles propuseram máquinas que imitavam suas asas e movimentos (ornitópodes). Mas os engenheiros não tinham os materiais, mecanismos e conhecimentos em aerodinâmica para dar vida as suas visões. [NEWLINE][NEWLINE]O estudo da aerodinâmica avançou pelos séculos XVI, XVII, XVIII e XIX por cientistas brilhantes, como da Vinci, Galileo, Huygens, Newton, Bernoulli, Euler e Smeaton. Em 1804, o inglês George Cayley voou em um modelo planador de asas fixas e, em 1853, ele criou um modelo em escala real que levava seu relutante copiloto no primeiro voo tripulado conhecido de um planador.[NEWLINE][NEWLINE]Em 1902, os irmãos Wright construíram seu primeiro planador com uma avançada forma de asa. Incapazes de encontrar um fabricante experiente para construir um motor leve, movido à gasolina, conforme suas especificações, eles mesmos desenharam e construíram. Em 17 de dezembro de 1903, o avião dos irmãos Wright voou quatro vezes, por distâncias de até 260 metros. Os anos seguintes ao invento dos irmãos Wright viram um enorme e rápido aperfeiçoamento na tecnologia do voo Em 1908, o americano Glenn Hammond Curtiss voou mais de 1 quilômetro e, em 1909, o francês Louis Bleriot voou sobre o Canal da Mancha.[NEWLINE][NEWLINE]A Primeira Guerra Mundial viu muitos avanços nas técnicas de voo, especialmente no armamento dos ares, com a criação de {TXT_KEY_UNIT_FIGHTER[2]} e bombardeiros. Pelos anos 20, pilotos voavam regularmente por todos os continentes e, em 1927, Charles Lindberg completou o primeiro voo, sem escalas, sobre o Oceano Atlântico. A Segunda Guerra Mundial acompanhou um tremendo aumento na velocidade, alcance, durabilidade e poder de fogo das aeronaves e, no final da guerra, caças a jato, bombardeiros de alta altitude, capazes de alcançar outro continente, e helicópteros estavam em serviço.[NEWLINE][NEWLINE]Na era moderna, viagens aéreas se tornaram comuns, com um percurso dos Estados Unidos à China - um sonho impossível há apenas 75 anos - é considerado atualmente muito tedioso. E, apesar de os ataques terroristas de 11 de setembro de 2001 terem deixado as viagens aéreas um pouco mais arriscadas, milhões de pessoas ao redor do mundo ainda embarcam nos aviões todos os dias. O voo chegou para ficar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Avião de Combate[ENDCOLOR], uma unidade aérea para ganhar o controle dos céus, e do [COLOR_POSITIVE_TEXT]Porta-aviões[ENDCOLOR], embarcação capaz de transportar aeronaves.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_FIGHTER}[ENDCOLOR], uma unidade aérea para ganhar o controle dos céus, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARRIER}[ENDCOLOR], embarcação capaz de transportar aeronaves.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A aeronáutica não foi uma ciência ou uma indústria. Ela foi um milagre."[NEWLINE][TAB][TAB] - Igor Sikorsky[NEWLINE][TAB][TAB][TAB]</Text>
@@ -9663,7 +9663,7 @@
 			<Text>O termo "laser" foi originalmente escrito "LASER", já que é um acrônimo para "Light Amplification by Stimulated Emission of Radiation" ou "Amplificação da Luz por Emissão Estimulada de Radiação", que basicamente se explica. As primeiras bases científicas para os lasers foram postuladas por Albert Einstein, em 1917, quando ele rederivou a Lei da Radiação de Planck, tempo em que escritores de ficção científica coincidentemente começavam a escrever sobre uma possível tecnologia similar. O primeiro laser funcional não foi exibido até 1960, quando o Laboratório de Pesquisa Hughes introduziu a tecnologia a laser capaz de armazenar dados por meio de dispositivos ópticos (como gravadores de DVD).[NEWLINE][NEWLINE]Desde então, muitos tipos de lasers especializados foram desenvolvidos, alguns para diferentes funções como maximizar a distância de disparos, produção de energia ou para utilizar diferentes comprimentos de ondas. Embora originalmente confundido como "uma solução procurando por um problema", os lasers encontram seu caminho em milhares de usos diferentes, de produtos eletrônicos e entretenimento até o uso militar. Só não tente olhar diretamente para luz.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MODERN_ARMOR}[ENDCOLOR], uma unidade incrivelmente rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]Caça a Jato[ENDCOLOR], a aeronave mais poderosa do jogo.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_MODERN_ARMOR}[ENDCOLOR], uma unidade incrivelmente rápida e poderosa. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_JET_FIGHTER}[ENDCOLOR], a aeronave mais poderosa do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"A noite está quase acabando; o dia logo vem. Portanto, deixemos de lado as obras das trevas e vistamo-nos com a armadura da luz."[NEWLINE][TAB][TAB] - A Bíblia Sagrada: Romanos, 13:12 [NEWLINE][TAB][TAB][TAB]</Text>
@@ -9759,7 +9759,7 @@
 			<Text>Navegação é a ciência de encontrar caminhos através dos oceanos. Antigas embarcações raramente se distanciavam ao ponto de perderem a vista da linha costeira, o que fazia da navegação muito simples, porém limitada há poucos lugares, e também deixava os navios suscetíveis a encalhar ou bater em rochas, em razão dos ventos contrários. Há poucas coisas mais terríveis para um capitão (pré-motores a vapor) que estar com sua embarcação em um litoral contrário ao vento, isto é, sendo jogado diretamente contra as rochas por ventos muito fortes.[NEWLINE][NEWLINE]Antes da invenção dos satélites, rádios e radares, navios navegavam registrando seus movimentos em um mapa, ou "cálculo por bússola". Se alguém soubesse a velocidade e exata direção que estivesse se movendo, então seria possível ter uma boa ideia de onde estaria. Entretanto, após várias semanas no mar, qualquer minuto de erro na velocidade ou direção poderia se acumular em grandes enganos. Se alguém estivesse no meio do Pacífico, ficando sem água potável, navegando em direção a uma ilha situada há milhares de quilômetros em busca de uma fonte de água para reabastecimento, um pequeno erro de cálculo poderia facilmente levar a um fim não muito agradável.[NEWLINE][NEWLINE]Um capitão poderia olhar, de sua embarcação, para o céu a fim de ajudar na navegação. Se fosse um dia ensolarado, os capitães tinham instrumentos delicados que poderiam indicar o exato momento em que o sol alcançava seu pico (mais alto ponto) cima da embarcação. Se eles possuíssem também um relógio preciso, ajustado com o tempo correto, eles poderiam usar esta informação para determinar sua longitude exata (ou distância, leste ou oeste, do Meridiano de Greenwich, que corta a localidade de Greenwich, Inglaterra). Isto, claro, exigia um bom tempo, um relógio preciso e a habilidade de determinar o exato meio-dia dentro de uma embarcação que estaria balançando pelos efeitos das ondas. Em noites claras, os capitães frequentemente poderiam usar o aparecimento ou a retirada de certas estrelas para lhes dar informação similar.[NEWLINE][NEWLINE]Eventualmente, claro, a invenção do rádio, radar e satélites fez o processo inteiro muito mais fácil e seguro. Mas mesmo hoje, capitães rotineiramente encalham ou batem suas embarcações em pontes - e essas são embarcações com motores. Imagine a habilidade necessária para manter um barco à vela em seu curso correto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fragata[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção pelos seus recursos marítimos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_FRIGATE}[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção pelos seus recursos marítimos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Os ventos e as ondas estão sempre do lado dos mais habilidosos navegadores."[NEWLINE][TAB][TAB] - Edward Gibbon[NEWLINE][TAB]</Text>
@@ -9888,7 +9888,7 @@
 			<Text>Radar é um sistema de detecção de objetos que usa ondas eletromagnéticas para identificar objetos distantes como navios e aeronaves. Cunhado em 1941, o termo "RADAR" é um acrônimo para "Radio Detection And Ranging" ou "Detecção e Telemetria por Rádio".[NEWLINE][NEWLINE]Em 1904, Christian Hulsmeyer foi capaz de detectar a presença de um navio em uma densa neblina. Mais tarde, naquele ano, ele fez avanços que permitiram o equipamento determinar a distância do objeto.[NEWLINE][NEWLINE]Em agosto de 1917, o inventor Nikola Tesla desenhou as primeiras unidades primitivas de radar, permitindo ao usuário "determinar a posição relativa ou curso de um objeto em movimento, como um barco no mar, a distância transversal do mesmo ou sua velocidade".[NEWLINE][NEWLINE]Com a chegada da Segunda Guerra Mundial, todas as potências mundiais estavam trabalhando fervorosamente no radar. Os Britânicos foram os mais avançados, com um sistema capaz de descobrir aeronaves enquanto ainda estavam a uma grande distância das cidades britânicas. (Sua pesquisa foi testada com o rumor de que os Alemães estavam trabalhando em um raio mortal). Como seu sistema era secreto, durante a guerra os Britânicos alegaram que seus observadores humanos de aeronaves foram responsáveis pelo seu sucesso em interceptar os ataques dos Alemães.[NEWLINE][NEWLINE]No final da guerra, todos os países avançados tinham realizado grandes progressos na tecnologia do radar, e na metade do século, a tecnologia estava atravessando o mundo para o uso civil, principalmente para o controle de tráfego aéreo. Com a possível exceção de certas aeronaves furtivas avançadas, hoje é quase impossível um avião entrar no espaço aéreo de qualquer nação industrializada sem ser descoberta em algum lugar por um radar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADAR_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BOMBER}[ENDCOLOR], uma unidade aérea mortal, capaz de distribuir a morte a distância. Também permite o treinamento do [COLOR_POSITIVE_TEXT]Paraquedista[ENDCOLOR], uma unidade de infantaria da fase avançada do jogo capaz de aterrissar atrás das linhas inimigas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADAR_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Visão é a arte de ver coisas invisíveis."[NEWLINE][TAB][TAB] - Jonathan Swift[NEWLINE][TAB]</Text>
@@ -9930,7 +9930,7 @@
 			<Text>Refrigeração é o processo de remover calor de um espaço fechado ou de uma substância. O objetivo primário da refrigeração sempre foi o dia preservar a comida, com o ar condicionado tendo um papel importante em nações desenvolvidas nas últimas décadas do século XX.[NEWLINE][NEWLINE]Antes de métodos mecânicos serem inventados, muitas culturas prósperas refrigeravam seus estoques de comida em {TXT_KEY_BUILDING_GRANARY[2]} isolados com palhas, usando gelo trazido dos topos das montanhas. A Índia e Egito da antiguidade usavam refrigeração por vapor, na qual grandes bandejas rasas eram preenchidas com água. À medida que a água evaporava, a água restante na bandeja resfriava rapidamente. De fato, um sistema evaporador bem planejado poderia ser utilizado para produzir gelo, mesmo nos mais quentes climas. [NEWLINE][NEWLINE]A refrigeração mecânica baseia-se no efeito da rápida expansão do gás, geralmente freon ou alguma outra substância inerte. O primeiro refrigerador artificial conhecido foi demonstrado em 1748 na Escócia, por William Cullen, mais de um século antes de um americano, Alexander C. Twinning, criar o primeira aplicação prática de um refrigerador comercial, em 1856. Muitos anos depois, refrigeradores foram introduzidos em indústrias alimentícias e de bebidas, e por volta de 1914, seu uso era comum. Na metade do século XX, caminhões de refrigeração mecânica substituíram os antigos veículos que carregavam gelo. O uso doméstico de refrigeradores foi introduzido nos anos 20 e, em 1950, "caixas de gelo" estavam praticamente extintas.[NEWLINE][NEWLINE]Os modernos aparelhos de ar condicionado foram inventados em 1902 por Willis Carrier, em Buffalo, Nova Iorque. Originalmente utilizado para manter o ar a uma temperatura específica em fábricas, onde o processo delicado de fabricação era realizado, lá pelos anos 20 o tamanho e preço das unidades caíram significativamente, ao ponto deles começarem a ser instalados em muitas salas de cinema. Unidades de janela apareceram nas casas americanas ao final da Segunda Guerra Mundial, e nos anos 50 mais de um milhão de unidades estavam instaladas em todo o país.[NEWLINE][NEWLINE]Muitas vezes considerado um privilégio, a refrigeração é uma das inovações tecnológicas mais importantes na história humana, e muito da vida moderna seria impossível, ou pelo menos mais suada, sem ela.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Submarino[ENDCOLOR], uma embarcação invisível a todas as unidades, exceto aos Destróiers e a outros Submarinos.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_SUBMARINE}[ENDCOLOR], uma embarcação invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"E sem lar, ao lado de milhares de lares, eu fico parado, e perto de milhares de mesas cheias, eu passo fome."[NEWLINE][TAB][TAB] - William Wordsworth[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10020,7 +10020,7 @@
 			<Text>O conceito ou prática de se disfarçar não é algo novo no progresso do desenvolvimento humano, mas a tecnologia moderna de disfarce leva o termo "não ser visto" a um nível totalmente novo. Na verdade, a tecnologia furtiva é uma combinação de múltiplas disciplinas e táticas militares que se expandem além do que o olho humano pode ver, tentando tanto esconder como encontrar objetos por radar, acústica, leituras termais, e outros métodos menos visíveis. [NEWLINE][NEWLINE]Uniformes camuflados são um dos mais antigos e mais simples métodos de fazer um objeto ficar invisível no ambiente em que se encontra, mas muitos avanços tecnológicos criaram a necessidade de métodos mais dinâmicos e mais sofisticados para esconder e encontrar objetos escondidos. Agora, produtos químicos térmicos são injetados em roupas, embarcações são fabricadas com materiais especiais que absorvem sinais de radares, e a assinatura infravermelha de uma aeronave é escondida com novos sistemas simples de exaustão. Embora nem sempre seja possível fazer um objeto ficar invisível a todos os métodos de detecção, veículos furtivos modernos e aeronaves espiãs mudaram a forma pela qual operações militares são executadas, fornecendo aos países com conhecimento ou habilidade para criar esses tipos de veículos, uma grande vantagem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEALTH_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Bombardeiro Furtivo[ENDCOLOR], a unidade de ataque a distância mais poderosa do jogo.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_STEALTH_BOMBER}[ENDCOLOR], a unidade de ataque a distância mais poderosa do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEALTH_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Seja extremamente sutil, tão sutil que ninguém possa achar qualquer rastro. Seja extremamente misterioso, tão misterioso que ninguém possa ouvir qualquer informação. Se um general puder agir assim, então, poderá celebrar o destino do inimigo em suas próprias mãos."[NEWLINE][TAB][TAB] - Sun Tzu[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10029,7 +10029,7 @@
 			<Text>Quando aquecida, a água produz vapor. O vapor se expande sob pressão e em um motor a vapor, parte da energia térmica é capturada e usada para levantar e abaixar um pistão ou girar um rotor. Os princípios por trás de um motor a vapor eram conhecidos pelos Gregos antigos, mas ninguém havia descoberto como colocá-los em um uso prático até o final do século XVII, quando o inglês Thomas Savery criou a bomba movida a vapor, para trazer água de minas. Em 1765, James Watt aperfeiçoou e muito o motor a vapor, ao ponto de ser utilizado em uma grande variedade de aplicações. Em 1802, motores a vapor estavam sendo instalados em barcos e, por volta de 1825, locomotivas a vapor já operavam nas ferrovias. [NEWLINE][NEWLINE]A força a vapor revolucionou a indústria e o transporte através do mundo. Dentro de um século, o globo estava todo trançado por linhas férreas e rotas de barcos a vapor. Enormes fábricas movidas a vapor produziam dezenas de milhões de toneladas de produtos (assim como equipamentos militares). Os países industrializados aproveitaram um grande crescimento na produtividade e prosperidade (e poluição). O carvão, a fonte principal dos motores a vapor, estava sendo fervorosamente minerado por todo o planeta. Uma grande parte da estratégia global militar da Grã-Bretanha estava centrada em proteger estações carvoeiras navais, através dos oceanos do mundo.[NEWLINE][NEWLINE]Eventualmente, os motores a vapor foram substituídos por motores de combustão interna, que eram muito mais eficientes e emitiam menos poluição. Mas antes do petróleo, o vapor era o rei, e o mundo moderno sequer existiria se não fosse ele.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEAM_POWER_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fábrica[ENDCOLOR], uma edificação que requer [ICON_RES_COAL]Carvão e aumenta a [ICON_PRODUCTION]Produção das cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]Couraçado[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Fábrica[ENDCOLOR], uma edificação que requer [ICON_RES_COAL]Carvão e aumenta a [ICON_PRODUCTION]Produção das cidades. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_IRONCLAD}[ENDCOLOR], uma embarcação de guerra poderosa, especialmente projetada para combater em águas costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEAM_POWER_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"As nações do Ocidente esperam que, por meio da comunicação a vapor, todo o mundo possa se tornar uma só família."[NEWLINE][TAB][TAB] - Townsend Harris[NEWLINE][TAB]</Text>
@@ -10077,7 +10077,7 @@
 			<Text>O telégrafo elétrico foi o primeiro dispositivo mecânico capaz de transmitir rapidamente informações a distâncias maiores do que o olho humano podia ver. Antes do telégrafo, a forma mais rápida de enviar informação entre a Europa e a América do Norte era por veleiros rápidos, que podiam fazer a viagem em, digamos, 10 ou 20 dias, dependendo das condições do tempo. Após a instalação do telégrafo transatlântico, a mesma mensagem podia ser transmitida em minutos. [NEWLINE][NEWLINE]O telégrafo precisou de uma série de importantes invenções antes que pudesse ser implementado. Em 1800, Alessandro Volta inventou a célula voltaica; em 1820, Hans Christian Orsted, da Dinamarca, descobriu que uma agulha magnetizada podia ser desviada por um fio com corrente elétrica; e, em 1831, Faraday, da Grã-Bretanha, e Henry, dos Estados Unidos, refinaram a ciência do eletromagnetismo suficientemente o bastante para permitir a criação de dispositivos eletromagnéticos.[NEWLINE][NEWLINE]Em 1837, o americano Samuel Morse patenteou o telégrafo eletrônico, enquanto, na mesma época, William Cooke e Charles Wheatstone, da Grã-Bretanha, obtiveram a patente para um sistema diferente de telégrafo. Em 1844, Morse tinha uma delicada linha de transmissão, ao longo da ferrovia entre Washington DC e Baltimore, Maryland. A primeira mensagem enviada foi "O que Deus tem feito!". Dentro de poucos anos, as linhas de telégrafo estavam presentes ao longo da maioria das ferrovias britânicas e americanas, e elas rapidamente se espalharam pelo mundo inteiro. Em 1860 e nos anos seguintes, o primeiro cabo transatlântico foi instalado.[NEWLINE][NEWLINE]O telégrafo permaneceu o principal meio de comunicação a longa distância por quase um século, até que foi substituído por várias outras novas invenções, como o telefone e o rádio. Durante sua existência, ele uniu o mundo de uma forma que nunca tinha sido visto antes na história da humanidade. É possível que nenhuma invenção desde então, incluindo a Internet, tenha tido tanto impacto sobre a civilização humana.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELEGRAPH_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Super Couraçado[ENDCOLOR], a embarcação de guerra mais poderosa no jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR] em suas cidades, aumentando o [ICON_STRENGTH]Poder de Combate delas e tornando-as mais difíceis de serem capturadas.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_BATTLESHIP}[ENDCOLOR], a embarcação de guerra mais poderosa no jogo. Também permite a construção da [COLOR_POSITIVE_TEXT]Base Militar[ENDCOLOR] em suas cidades, aumentando o [ICON_STRENGTH]Poder de Combate delas e tornando-as mais difíceis de serem capturadas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELEGRAPH_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Certa vez enviei um telegrama a dezenas de amigos dizendo: 'fujam rápido - tudo foi descoberto'. Todos eles deixaram a cidade imediatamente."[NEWLINE][TAB][TAB] - Mark Twain[NEWLINE][TAB][TAB][TAB]</Text>
@@ -10245,7 +10245,7 @@
 			<Text>O que você pode me dizer sobre o {TXT_KEY_FEATURE_ICE}?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_ICE_HEADING3_BODY">
-			<Text>{TXT_KEY_FEATURE_ICE} é só isso: gelo. É quase que totalmente inútil para a civilização. É instransponível (exceto para unidades aéreas ou submarinos) e não fornece nenhum recurso. Fique longe do {TXT_KEY_FEATURE_ICE}.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável[NEWLINE]Modificador de Combate: nenhum</Text>
+			<Text>{TXT_KEY_FEATURE_ICE} é só isso: gelo. É quase que totalmente inútil para a civilização. É instransponível (exceto para unidades aéreas ou submarinas) e não fornece nenhum recurso. Fique longe do {TXT_KEY_FEATURE_ICE}.[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: intransitável[NEWLINE]Modificador de Combate: nenhum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_ICE_HEADING3_TITLE">
 			<Text>{TXT_KEY_FEATURE_ICE}</Text>
@@ -10461,7 +10461,7 @@
 			<Text>Trabalhadores e Melhorias</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AMERICAN_B17_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_AMERICAN_B17} é uma unidade americana única, que substitui o Bombardeiro. É similar ao Bombardeiro, mas é mais difícil para os aviões de combate e armas antiaéreas inimigas o acertarem. O B17 também recebe um bônus quando ataca cidades inimigas. Como o Bombardeiro, o alcance do B17 é 10. Veja as regras na seção sobre "Aeronaves" para mais detalhes.</Text>
+			<Text>O {TXT_KEY_UNIT_AMERICAN_B17} é uma unidade americana única, que substitui o {TXT_KEY_UNIT_BOMBER}. É similar ao {TXT_KEY_UNIT_BOMBER}, mas é mais difícil para os {TXT_KEY_UNIT_FIGHTER[2]} e armas antiaéreas inimigas o acertarem. O B17 também recebe um bônus quando ataca cidades inimigas. Como o {TXT_KEY_UNIT_BOMBER}, o alcance do {TXT_KEY_UNIT_AMERICAN_B17} é 10. Veja as regras na seção sobre "Aeronaves" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY">
 			<Text>O Miliciano é uma unidade americana única, que substitui o Mosquete. O Miliciano pode se mover por terrenos acidentados como se estivessem livres (todos os terrenos custam 1 ponto de movimento) e recebe um bônus quando lutam em terrenos acidentados.</Text>
@@ -10482,7 +10482,7 @@
 			<Text>A {TXT_KEY_UNIT_AT_GUN} é uma unidade de combate especializada, que é bastante potente contra {TXT_KEY_UNIT_TANK[2]} inimigos, mas fraca quando combatente com outras unidades. Use seus próprios {TXT_KEY_UNIT_TANK[2]} para protegê-la e artilharia para uma enérgica força de luta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ATOMIC_BOMB_STRATEGY">
-			<Text>Uma Bomba Atômica é uma unidade extremamente poderosa. A Bomba Atômica pode ser guardada em uma cidade aliada ou a bordo de um Porta-aviões. Ela pode se mover de uma base para outra ou atacar alvos a 10 hexágonos de distância. Quando detonada, uma Bomba Atômica causará dano, ou possivelmente destruirá unidades, e cidades serão severamente danificadas em um raio de 2 hexágonos da explosão. É automaticamente destruída quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
+			<Text>Uma {TXT_KEY_UNIT_ATOMIC_BOMB} é uma unidade extremamente poderosa. A {TXT_KEY_UNIT_ATOMIC_BOMB} pode ser guardada em uma cidade aliada ou a bordo de um {TXT_KEY_UNIT_CARRIER}. Ela pode se mover de uma base para outra ou atacar alvos a 10 hexágonos de distância. Quando detonada, uma Bomba Atômica causará dano, ou possivelmente destruirá unidades, e cidades serão severamente danificadas em um raio de 2 hexágonos da explosão. É automaticamente destruída quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AZTEC_JAGUAR_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_AZTEC_JAGUAR} é uma unidade Asteca única, que substitui o Guerreiro. O {TXT_KEY_UNIT_AZTEC_JAGUAR} recebe um grande bônus quando combatente na {TXT_KEY_FEATURE_JUNGLE}. Ele também se cura quando destrói unidades inimigas e possui a promoção Montanhista, permitindo-lhe movimentar por terrenos com {TXT_KEY_FEATURE_FOREST} ou {TXT_KEY_FEATURE_JUNGLE} mais rapidamente.</Text>
@@ -10491,19 +10491,19 @@
 			<Text>Guerreiros Bárbaros são notadamente unidades fracas, mas eles podem causar problemas significativos para suas cidades e unidades não combatentes. Eles são perigosos em grandes números, mas são facilmente destruídos por Guerreiros e outras unidades do início do jogo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BATTLESHIP_STRATEGY">
-			<Text>O Super Couraçado é uma embarcação extremamente poderosa com uma imensa "Força de Combate" e de "Força Combate a Distância". Possui um alcance de 3 hexágonos, possibilitando bombardear unidades ou cidades distantes em muitos hexágonos. Seu fogo indireto lhe permite bombardear alvos que ele não pode ver (desde que uma unidade aliada possa vê-lo). O Couraçado de Guerra é vulnerável a ataques aéreos e de Submarinos.</Text>
+			<Text>O {TXT_KEY_UNIT_BATTLESHIP} é uma embarcação extremamente poderosa com uma imensa "Força de Combate" e de "Força Combate a Distância". Possui um alcance de 3 hexágonos, possibilitando bombardear unidades ou cidades distantes em muitos hexágonos. Seu fogo indireto lhe permite bombardear alvos que ele não pode ver (desde que uma unidade aliada possa vê-lo). O {TXT_KEY_UNIT_BATTLESHIP} é vulnerável a ataques aéreos e de {TXT_KEY_UNIT_SUBMARINE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_BOMBER_STRATEGY">
-			<Text>O Bombardeiro é uma unidade aérea. É efetivo contra alvos terrestres, mas não tanto contra alvos marítimos e é bastante vulnerável às aeronaves inimigas. O Bombardeiro pode estar baseado em uma cidade aliada ou a bordo de um Porta-aviões. Ele pode ser mover de uma base à outra e realizar missões em um alcance de "10". Use Bombardeiros para atacar unidades e cidades inimigas. Quando possível, envie Aviões de Combate primeiro para "usar" as defesas antiaéreas do inimigo naquele turno. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
+			<Text>O {TXT_KEY_UNIT_BOMBER} é uma unidade aérea. É efetivo contra alvos terrestres, mas não tanto contra alvos marítimos e é bastante vulnerável às aeronaves inimigas. O {TXT_KEY_UNIT_BOMBER} pode estar baseado em uma cidade aliada ou a bordo de um {TXT_KEY_UNIT_CARRIER}. Ele pode ser mover de uma base à outra e realizar missões em um alcance de "10". Use {TXT_KEY_UNIT_BOMBER[2]} para atacar unidades e cidades inimigas. Quando possível, envie {TXT_KEY_UNIT_FIGHTER[2]} primeiro para "usar" as defesas antiaéreas do inimigo naquele turno. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CANNON_STRATEGY">
 			<Text>O Canhão é uma unidade de certo muito importante no meio do jogo, capaz de devastar civilizações que ainda não o possuem. Como outras unidades de cerco, o Canhão deve gastar 1 ponto de movimento para se preparar para o ataque. Canhões permanecem potentes durante a Era Industrial. Canhões não podem ver tão longe como outras unidades e devem ser protegidas por unidades de ataque corpo a corpo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARAVEL_STRATEGY">
-			<Text>A Caravela é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque a distância, é mais forte e mais rápida que o Barco a Remo e pode navegar em águas oceânicas profundas. A Caravela possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na metade do jogo. Esse raio de visão é perdido se a Caravela for atualizada para um Destróier.</Text>
+			<Text>A {TXT_KEY_UNIT_CARAVEL} é um significativo avanço para o poder naval de uma civilização. Uma unidade de ataque a distância, é mais forte e mais rápida que o {TXT_KEY_UNIT_TRIREME} e pode navegar em águas oceânicas profundas. A {TXT_KEY_UNIT_CARAVEL} possui um grande raio de visão, tornando-a os olhos e ouvidos da marinha na metade do jogo. Esse raio de visão é perdido se a {TXT_KEY_UNIT_CARAVEL} for atualizada para um {TXT_KEY_UNIT_DESTROYER}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CARRIER_STRATEGY">
-			<Text>O Porta-aviões é uma embarcação especializada que transporta Aviões de Combate, Bombardeiros (exceto Bombardeiros Furtivos) e Bombas Atômicas. O Porta-aviões em si é incapaz de atacar, mas as aeronaves que ele transporta o tornam a mais poderosa arma ofensiva flutuante. Defensivamente, por outro lado, o Porta-aviões é fraco e deveria ser escoltado por Destróiers e Submarinos.</Text>
+			<Text>O {TXT_KEY_UNIT_CARRIER} é uma embarcação especializada que transporta {TXT_KEY_UNIT_FIGHTER[2]}, {TXT_KEY_UNIT_BOMBER[2]} (exceto {TXT_KEY_UNIT_STEALTH_BOMBER[2]}) e {TXT_KEY_UNIT_ATOMIC_BOMB[2]}. O {TXT_KEY_UNIT_CARRIER} em si é incapaz de atacar, mas as aeronaves que ele transporta o tornam a mais poderosa arma ofensiva flutuante. Defensivamente, por outro lado, o {TXT_KEY_UNIT_CARRIER} é fraco e deveria ser escoltado por {TXT_KEY_UNIT_DESTROYER[2]} e {TXT_KEY_UNIT_SUBMARINE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CATAPULT_STRATEGY">
 			<Text>A Catapulta é uma arma de cerco, extremamente útil quando atacando cidades inimigas no início do jogo. É lenta e extremamente vulnerável aos ataques corpo a corpo dos inimigos; ela sempre deve estar amparada por outras unidades quando em campo. A Catapulta deve se preparar (1 ponto de movimento) antes de atacar.</Text>
@@ -10521,7 +10521,7 @@
 			<Text>O Besteiro é muito mais poderoso que o Arqueiro. Como uma unidade de ataque a distância, ele pode causar dano significativo a outras unidades da Era Medieval até dois hexágonos de distância, mas é vulnerável a ataque corpo a corpo. Coloque Besteiros em sua cidade para defendê-la e as proteja com unidades de ataque corpo a corpo quando se moverem.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_DESTROYER_STRATEGY">
-			<Text>O Destróier é preparado para caçar e destruir Submarinos e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades "embarcáveis", Super Couraçados e Porta-aviões quando estão ao alcance de aeronaves e submarinos inimigos. O Destróier é surpreendentemente rápido e seu fogo indireto lhe permite bombardear alvos que ele não pode ver.</Text>
+			<Text>O {TXT_KEY_UNIT_DESTROYER} é preparado para caçar e destruir {TXT_KEY_UNIT_SUBMARINE[2]} e fornecer suporte antiaéreo. Normalmente ele opera como cobertura para unidades "embarcáveis", {TXT_KEY_UNIT_BATTLESHIP[2]} e {TXT_KEY_UNIT_CARRIER[2]} quando estão ao alcance de aeronaves e submarinos inimigos. O {TXT_KEY_UNIT_DESTROYER} é surpreendentemente rápido e seu fogo indireto lhe permite bombardear alvos que ele não pode ver.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_EGYPTIAN_WARCHARIOT_STRATEGY">
 			<Text>A {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é uma unidade egípcia exclusiva, que substitui o {TXT_KEY_UNIT_CHARIOT_ARCHER}. É mais rápida que o {TXT_KEY_UNIT_CHARIOT_ARCHER} e o jogador egípcio pode construí-la mesmo não tendo o recurso [ICON_RES_HORSE]Cavalo. Sendo uma unidade montada, a {TXT_KEY_UNIT_EGYPT_WARCHARIOT} é bastante vulnerável ao {TXT_KEY_UNIT_SPEARMAN}.</Text>
@@ -10533,7 +10533,7 @@
 			<Text>{TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} é a unidade inglesa exclusiva, que substitui a {TXT_KEY_UNIT_FRIGATE}. O {TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE} tem uma força de combate à distância um pouco maior que a {TXT_KEY_UNIT_FRIGATE} e é mais barato para construir. Ele pode ver um hexágono a mais que a {TXT_KEY_UNIT_FRIGATE}, permitindo-lhe descobrir inimigos em uma porção significativamente grande do {TXT_KEY_TERRAIN_OCEAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FIGHTER_STRATEGY">
-			<Text>O Avião de Combate é uma unidade aérea moderadamente poderosa. Ela pode ficar baseada em qualquer cidade aliada ou a bordo de um Porta-aviões. Pode mover-se de uma cidade a outra (ou Porta-aviões) e pode realizar missões em um raio de 8 hexágonos. Use Aviões de Combate para atacar aeronaves e unidades terrestres inimigas, para observar posições inimigas e para interceptar ataques aéreos inimigos. Aviões de Combate são especialmente efetivos contra helicópteros inimigos. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
+			<Text>O {TXT_KEY_UNIT_FIGHTER} é uma unidade aérea moderadamente poderosa. Ela pode ficar baseada em qualquer cidade aliada ou a bordo de um {TXT_KEY_UNIT_CARRIER}. Pode mover-se de uma cidade a outra (ou {TXT_KEY_UNIT_CARRIER[2]}) e pode realizar missões em um raio de 8 hexágonos. Use {TXT_KEY_UNIT_FIGHTER[2]} para atacar aeronaves e unidades terrestres inimigas, para observar posições inimigas e para interceptar ataques aéreos inimigos. {TXT_KEY_UNIT_FIGHTER[2]} são especialmente efetivos contra helicópteros inimigos. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY">
 			<Text>A Legião Estrangeira é a unidade francesa única, que substitui a Infantaria. Ela recebe um bônus de combate significativo quando opera fora de suas fronteiras, tornando-a uma excelente unidade para se lançar contra territórios inimigos.</Text>
@@ -10542,13 +10542,13 @@
 			<Text>O Mosqueteiro é a unidade francesa única, que substitui o Mosquete. O Mosqueteiro é significativamente mais poderoso que o Mosquete, fazendo dele o soldado terrestre mais poderoso no jogo (até a introdução das unidades de infantaria da Era Industrial).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FRIGATE_STRATEGY">
-			<Text>A Fragata é a primeira unidade naval desde a Caravela. É pouco mais lenta que a Caravela, porém sua "Força de Combate" e "Força de Combate a Distância" é mais que o dobro da antiga unidade naval. A Fragata pode limpar dos mares qualquer Caravela, Barco a Remo ou unidade Bárbara que possa estar flutuando.</Text>
+			<Text>A {TXT_KEY_UNIT_FRIGATE} é a primeira unidade naval desde a {TXT_KEY_UNIT_CARAVEL}. É pouco mais lenta que a {TXT_KEY_UNIT_CARAVEL}, porém sua "Força de Combate" e "Força de Combate a Distância" é mais que o dobro da antiga unidade naval. A {TXT_KEY_UNIT_FRIGATE} pode limpar dos mares qualquer {TXT_KEY_UNIT_CARAVEL}, {TXT_KEY_UNIT_TRIREME} ou unidade Bárbara que possa estar flutuando.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GALLEY_PEDIA">
-			<Text>A Galé é uma embarcação Bárbara. É um barco impulsionado por remadores e é, de todas as formas, inferior ao Barco a Remo, a primeira embarcação acessível às civilizações. Geralmente, espera-se que Galés estejam caçando nas costas marítimas, incomodando embarcações e capturando unidades "embarcáveis". Elas devem ser destruídos assim que vistos.</Text>
+			<Text>A {TXT_KEY_UNIT_GALLEY} é uma embarcação Bárbara. É um barco impulsionado por remadores e é, de todas as formas, inferior ao {TXT_KEY_UNIT_TRIREME}, a primeira embarcação acessível às civilizações. Geralmente, espera-se que {TXT_KEY_UNIT_GALLEY[2]} estejam caçando nas costas marítimas, incomodando embarcações e capturando unidades "embarcáveis". Elas devem ser destruídos assim que vistos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GALLEY_STRATEGY">
-			<Text>A Galé é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Uma unidade de ataque a distância, a Galé pode importunar cidades e unidades próximas ao litoral.</Text>
+			<Text>A {TXT_KEY_UNIT_GALLEY} é uma unidade Bárbara que se mantém nas costas marítimas, procurando por unidades "embarcáveis" para destruírem. É bem mais fraca que qualquer outra unidade naval, mas podem ser perigosas em bando. Uma unidade de ataque a distância, a {TXT_KEY_UNIT_GALLEY} pode importunar cidades e unidades próximas ao litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GERMAN_LANDSKNECHT_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_GERMAN_LANDSKNECHT} é uma unidade alemã única. Esta unidade substitui o {TXT_KEY_UNIT_PIKEMAN}. O {TXT_KEY_UNIT_GERMAN_LANDSKNECHT} é tão poderoso quanto o {TXT_KEY_UNIT_PIKEMAN}, porém custa apenas a metade para ser treinado, permitindo ao jogador alemão construir um exército medieval um curto período de tempo. Os {TXT_KEY_UNIT_GERMAN_LANDSKNECHT[2]} são mortais contra unidades montadas como o {TXT_KEY_UNIT_KNIGHT}.</Text>
@@ -10578,7 +10578,7 @@
 			<Text>O {TXT_KEY_UNIT_GREEK_HOPLITE} é uma unidade grega exclusiva, que substitui o {TXT_KEY_UNIT_SPEARMAN}. É muito mais poderosa que o {TXT_KEY_UNIT_SPEARMAN}. O {TXT_KEY_UNIT_GREEK_HOPLITE} é mortal contra oponentes montados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GUIDED_MISSILE_STRATEGY">
-			<Text>O Míssil Guiado é uma unidade de lançamento único que é destruída quando ataca um alvo inimigo. Pode ser baseado em uma cidade aliada ou a bordo de um Submarino Nuclear ou Cruzador. Podem se mover de uma base à outra ou atacar unidades inimigas que estejam a um alcance de "8". Veja as regras na seção "Mísseis" para mais informações.</Text>
+			<Text>O Míssil Guiado é uma unidade de lançamento único que é destruída quando ataca um alvo inimigo. Pode ser baseado em uma cidade aliada ou a bordo de um {TXT_KEY_UNIT_NUCLEAR_SUBMARINE} ou {TXT_KEY_UNIT_MISSILE_CRUISER}. Podem se mover de uma base à outra ou atacar unidades inimigas que estejam a um alcance de "8". Veja as regras na seção "Mísseis" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_HELICOPTER_GUNSHIP} é uma unidade aérea mortal que para todos os efeitos age como uma unidade terrestre, exceto que não pode capturar cidades. Seu alcance de 6 o torna extremamente rápido, e ele pode se movimentar sobre qualquer tipo de terreno, incluindo {TXT_KEY_TERRAIN_MOUNTAIN[2]} e {TXT_KEY_FEATURE_ICE}, mas devem "embarcar" para atravessar a água. Os {TXT_KEY_UNIT_HELICOPTER_GUNSHIP[2]} recebem um grande bônus de combate quando batalham contra {TXT_KEY_UNIT_TANK[2]}.</Text>
@@ -10593,7 +10593,7 @@
 			<Text>A Infantaria é a unidade de combate básica da Era Industrial. É significativamente mais forte que seu predecessor, o Fuzileiro. O combate moderno é muito mais complexo e, sozinha, a Infantaria é vulnerável a ataques aéreos, da Artilharia e de {TXT_KEY_UNIT_TANK[2]}. Quando possível, devem ser auxiliadas por Artilharias, {TXT_KEY_UNIT_TANK[2]} e unidades aéreas (ou antiaéreas).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IRONCLAD_STRATEGY">
-			<Text>Couraçados são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. São mais difíceis de serem destruídas que qualquer outra embarcação, e sua "Força de Combate a Distância" é maior. Entretanto, Couraças não podem entrar em águas profundas do {TXT_KEY_TERRAIN_OCEAN}. Use-as, principalmente, para defender seu litoral.</Text>
+			<Text>{TXT_KEY_UNIT_IRONCLAD[2]} são as primeiras embarcações de guerra movidas a vapor disponíveis no jogo. São mais difíceis de serem destruídas que qualquer outra embarcação, e sua "Força de Combate a Distância" é maior. Entretanto, Couraças não podem entrar em águas profundas do {TXT_KEY_TERRAIN_OCEAN}. Use-as, principalmente, para defender seu litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_IROQUOIAN_MOHAWKWARRIOR_STRATEGY">
 			<Text>O Guerreiro Mohawk é a unidade iroquesa única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. Tão poderoso quanto seu predecessor em terrenos limpos ou em {TXT_KEY_TERRAIN_HILL[2]}, o Guerreiro Mohawk recebe um bônus significativo de combate em {TXT_KEY_FEATURE_FOREST[2]} e {TXT_KEY_FEATURE_JUNGLE[2]}. Além disso, ao contrário do {TXT_KEY_UNIT_SWORDSMAN}, ela não requer [ICON_RES_IRON]Ferro para ser treinada.</Text>
@@ -10602,10 +10602,10 @@
 			<Text>O Samurai é a unidade japonesa única, que substitui o {TXT_KEY_UNIT_SWORDSMAN}. Tão poderoso quanto seu predecessor, o Samurai automaticamente recebe a promoção "Choque I", dando a ele um bônus quando luta em terreno aberto. O sucesso ao combater com um Samurai aumenta as chances de gerar Grandes Generais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO_STRATEGY">
-			<Text>O Zero é a unidade japonesa única, que substitui o Avião de Combate. É uma unidade aérea moderadamente poderosa. É parecida com o Avião de Combate comum, exceto que ele recebe um bônus significante quando combatendo outros Aviões de Combate. Pode se basear em qualquer cidade aliada ou a bordo de Porta-aviões. Pode se mover de uma cidade a outra (ou Porta-aviões) e realizar missões em um raio de 8 hexágonos. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
+			<Text>O {TXT_KEY_UNIT_JAPANESE_ZERO} é a unidade japonesa única, que substitui o {TXT_KEY_UNIT_FIGHTER}. É uma unidade aérea moderadamente poderosa. É parecida com o {TXT_KEY_UNIT_FIGHTER} comum, exceto que ele recebe um bônus significativo quando combatendo outros {TXT_KEY_UNIT_FIGHTER[2]}. Pode se basear em qualquer cidade aliada ou a bordo de {TXT_KEY_UNIT_CARRIER[2]}. Pode se mover de uma cidade a outra (ou {TXT_KEY_UNIT_CARRIER[2]}) e realizar missões em um raio de 8 hexágonos. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_JET_FIGHTER_STRATEGY">
-			<Text>O Caça a Jato é uma unidade aérea poderosa. Pode ser baseada em qualquer cidade aliada ou a borde de um Porta-aviões. Pode se mover de uma base à outra e realizar missões em um raio de "10". Use Caça a Jato para atacar aeronaves e unidades terrestres, para observar posições inimigas e defender de outros ataques aéreos. Caças a Jato são especialmente efetivos contra Helicópteros. Possui a habilidade "Reconhecimento Aéreo", que significa que tudo que estiver em um raio de 6 hexágonos será visível no início do turno. Veja as regras na seção "Aeronaves" para maiores detalhes.</Text>
+			<Text>O {TXT_KEY_UNIT_JET_FIGHTER} é uma unidade aérea poderosa. Pode ser baseada em qualquer cidade aliada ou a borde de um {TXT_KEY_UNIT_CARRIER}. Pode se mover de uma base à outra e realizar missões em um raio de "10". Use o {TXT_KEY_UNIT_JET_FIGHTER} para atacar aeronaves e unidades terrestres, para observar posições inimigas e defender de outros ataques aéreos. {TXT_KEY_UNIT_JET_FIGHTER[2]} são especialmente efetivos contra Helicópteros. Possui a habilidade "Reconhecimento Aéreo", que significa que tudo que estiver em um raio de 6 hexágonos será visível no início do turno. Veja as regras na seção "Aeronaves" para maiores detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_KNIGHT_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_KNIGHT} é uma unidade rápida e poderosa, o inegável rei dos campos de batalha medievais. Por ser uma unidade montada, é vulnerável ao {TXT_KEY_UNIT_PIKEMAN}, mas podem esmagar outros oponentes com relativa facilidade. O {TXT_KEY_UNIT_KNIGHT} pode mover-se após um ataque, o que o torna capaz de fazer buracos nas linhas inimigas e se posicionar bem atrás deles.</Text>
@@ -10623,7 +10623,7 @@
 			<Text>A Infantaria Mecanizada é mais forte e mais rápida que a Infantaria normal. Apesar de rápida, não pode ser mover após atacar, como os {TXT_KEY_UNIT_TANK[2]}; sua responsabilidade principal é, como sempre, tomar e proteger a área.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MISSILE_CRUISER_STRATEGY">
-			<Text>O Cruzador de Mísseis Guiados é uma moderna embarcação de guerra. É rápida e forte, possui uma "Força de Ataque a Distância" média e é muito bom para interceptar aeronaves inimigas. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares, permitindo você transportar essas armas mortais diretamente ao litoral do inimigo. Combinados com Porta-aviões e Submarinos, cria-se uma armada perversa e muito poderosa.</Text>
+			<Text>O {TXT_KEY_UNIT_MISSILE_CRUISER} é uma moderna embarcação de guerra. É rápida e forte, possui uma "Força de Ataque a Distância" média e é muito bom para interceptar aeronaves inimigas. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares, permitindo você transportar essas armas mortais diretamente ao litoral do inimigo. Combinados com {TXT_KEY_UNIT_CARRIER[2]} e {TXT_KEY_UNIT_SUBMARINE[2]}, cria-se uma armada perversa e muito poderosa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MOBILE_SAM_STRATEGY">
 			<Text>As unidades SAM Móveis (terra-ar) fornecem tropa avançada com defesa antiaérea. Podem interceptar e atirar contra aeronaves inimigas a 2 hexágonos de distância (mas somente uma unidade por turno). Estas unidades são muito vulneráveis a ataques não aéreos e devem ser acompanhadas de Infantarias e outras proteções.</Text>
@@ -10635,10 +10635,10 @@
 			<Text>O {TXT_KEY_UNIT_MUSKETMAN} é a primeira unidade com arma de fogo no jogo e substitui todos os antigos tipos de soldados terrestres - {TXT_KEY_UNIT_CROSSBOWMAN}, {TXT_KEY_UNIT_SWORDSMAN}, {TXT_KEY_UNIT_PIKEMAN} e demais. Não é uma unidade de ataque a distância, entretanto, não pode atacar um inimigo que esteja a mais de 1 hexágono de distância.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE_STRATEGY">
-			<Text>O Míssil Nuclear é uma Bomba Atômica melhorada e mais poderosa. Pode ser baseado em uma cidade aliada ou estar a bordo de um Submarino Nuclear ou Cruzador de Mísseis Guiados. Pode mover-se de uma base à outra ou atacar alvos que estejam a uma distância "12". Quando detonado, um Míssil Nuclear ira causar dano (e possivelmente aniquilar) cidades e destruir unidades dentro de um raio de 2 hexágonos da explosão. É automaticamente destruído quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
+			<Text>O {TXT_KEY_UNIT_NUCLEAR_MISSILE} é uma Bomba Atômica melhorada e mais poderosa. Pode ser baseado em uma cidade aliada ou estar a bordo de um {TXT_KEY_UNIT_NUCLEAR_SUBMARINE} ou {TXT_KEY_UNIT_MISSILE_CRUISER}. Pode mover-se de uma base à outra ou atacar alvos que estejam a uma distância "12". Quando detonado, um {TXT_KEY_UNIT_NUCLEAR_MISSILE} ira causar dano (e possivelmente aniquilar) cidades e destruir unidades dentro de um raio de 2 hexágonos da explosão. É automaticamente destruído quando ataca. Veja as regras na seção "Armas Nucleares" para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE_STRATEGY">
-			<Text>O Submarino Nuclear é mais forte e mais poderoso que o modelo da Era Industrial. Também é invisível a maioria das unidades e é capaz de ver outros Submarinos. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares. Como Submarinos, são vulneráveis a Destróiers e Submarinos inimigos, portanto, envie outras unidades a frente para garantir que o litoral está livre.</Text>
+			<Text>O {TXT_KEY_UNIT_NUCLEAR_SUBMARINE} é mais forte e mais poderoso que o modelo da Era Industrial. Também é invisível a maioria das unidades e é capaz de ver outros {TXT_KEY_INVISIBLE_SUBMARINE}. Ainda mais importante, podem transportar Mísseis Guiados e Nucleares. Como {TXT_KEY_UNIT_SUBMARINE[2]}, são vulneráveis a {TXT_KEY_UNIT_DESTROYER[2]} e Submarinos inimigos, portanto, envie outras unidades a frente para garantir que o litoral está livre.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_OTTOMAN_JANISSARY_STRATEGY">
 			<Text>O Janízaro é uma unidade otomana única, que substitui o Mosquete. Recebe um bônus de combate significativo quando está em ataque. Além disso, automaticamente se curam de todo dano recebido quando destroem uma unidade não Bárbara. Isso pode dar ao exército Otomano uma vantagem crucial contra forças inimigas na defensiva.</Text>
@@ -10686,10 +10686,10 @@
 			<Text>O {TXT_KEY_UNIT_SPEARMAN} é a primeira unidade de ataque à distância disponível depois do Guerreiro. Ela é um pouco mais poderosa que o Guerreiro, entretanto, recebe um bônus significativo contra unidades montadas ({TXT_KEY_UNIT_CHARIOT_ARCHER}, {TXT_KEY_UNIT_HORSEMAN} e similares).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_STEALTH_BOMBER_STRATEGY">
-			<Text>O Bombardeiro Furtivo é um Bombardeiro atualizado, possuindo um grande alcance, uma ótima "Força de Combate a Distância" e uma incrível habilidade de evitar armas antiaéreas e Aviões de Combate inimigos. Possui a habilidade "Reconhecimento Aéreo", que significa que tudo que estiver em um raio de 6 hexágonos de sua localização inicial ficará visível no início do turno. Note que Bombardeiros Furtivos não podem ser transportados por Porta-aviões. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
+			<Text>O {TXT_KEY_UNIT_STEALTH_BOMBER} é um {TXT_KEY_UNIT_BOMBER} atualizado, possuindo um grande alcance, uma ótima "Força de Combate a Distância" e uma incrível habilidade de evitar armas antiaéreas e {TXT_KEY_UNIT_FIGHTER[2]} inimigos. Possui a habilidade "Reconhecimento Aéreo", que significa que tudo que estiver em um raio de 6 hexágonos de sua localização inicial ficará visível no início do turno. Note que {TXT_KEY_UNIT_STEALTH_BOMBER[2]} não podem ser transportados por {TXT_KEY_UNIT_CARRIER[2]}. Veja as regras na seção sobre "Aeronaves" para mais informações.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUBMARINE_STRATEGY">
-			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_UNIT_SUBMARINE[2]} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_UNIT_SUBMARINE[2]} inimigos.</Text>
+			<Text>O {TXT_KEY_UNIT_SUBMARINE} é uma embarcação especializada em afundar outras embarcações. Ele é invisível para a maioria das outras unidades - exceto aos {TXT_KEY_UNIT_DESTROYER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} - até que ele ataque ou fique adjacente a outra unidade. O {TXT_KEY_UNIT_SUBMARINE} pode entrar em hexágonos com {TXT_KEY_FEATURE_ICE}. Use-o para patrulhar águas inimigas, destruir embarcações inimigas e guardar suas próprias embarcações de {TXT_KEY_INVISIBLE_SUBMARINE} inimigos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWORDSMAN_STRATEGY">
 			<Text>O {TXT_KEY_UNIT_SWORDSMAN} é uma unidade padrão de ataque corpo a corpo poderosa da Era Clássica, sendo muito mais forte que o {TXT_KEY_UNIT_SPEARMAN} e o Guerreiro. São bastante úteis para atacar cidades do início do jogo.</Text>
@@ -10701,7 +10701,7 @@
 			<Text>O Trabuco é uma arma de cerco medieval, significativamente mais poderosa que sua unidade predecessora, a Catapulta. O Trabuco deve gastar 1 ponto de movimento para se preparar, mas assim que estiver em posição, pode causar sérios danos às cidades inimigas fortificadas. Defenda seus Trabucos com unidades de ataque corpo a corpo e a distância, para evitar que inimigos cheguem muito perto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
-			<Text>O Trirreme é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta "Força de Ataque a Distância". Não é capaz de iniciar um ataque corpo a corpo. O Barco a Remo é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um Trirreme da Polinésia).</Text>
+			<Text>O {TXT_KEY_UNIT_TRIREME} é a primeira unidade naval disponível às civilizações no jogo. É uma unidade de ataque a distância com uma modesta "Força de Ataque a Distância". Não é capaz de iniciar um ataque corpo a corpo. O {TXT_KEY_UNIT_TRIREME} é útil para varrer as embarcações bárbaras das águas e para explorações pequenas (ele não é capaz de entrar em hexágonos oceânicos fora das bordas da cidade, a não ser que seja um {TXT_KEY_UNIT_TRIREME} da Polinésia).</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WARRIOR_STRATEGY">
 			<Text>O Guerreiro é a primeira unidade de combate disponível, útil para combater Bárbaros, defender as cidades iniciais e para fazer explorações pequenas. Normalmente Guerreiros não são fortes o suficiente para tomar cidades inimigas, a não ser que sejam fortemente auxiliados por Arqueiros e Catapultas - e mesmo assim eles não podem ser fortes o bastante.</Text>

@@ -128,7 +128,7 @@
             <Text>Exploração</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Exploração[ENDCOLOR] melhora sua habilidade de espalhar seu império pelos mares.[NEWLINE][NEWLINE]Ao adotar Exploração, +1 de [ICON_MOVES]Movimento é dado às unidades navais e +1 de Visibilidade às unidades navais de combate. Desbloqueia a construção do Louvre.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Exploração, você será capaz de ver {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]}, além de permitir a compra de Grandes Almirantes com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]Exploração[ENDCOLOR] melhora sua habilidade de espalhar seu império pelos mares.[NEWLINE][NEWLINE]Ao adotar Exploração, +1 de [ICON_MOVES]Movimento é dado às unidades navais e +1 de Visibilidade às unidades navais de combate. Desbloqueia a construção do Louvre.[NEWLINE][NEWLINE]Ao adotar todas as políticas do ramo Exploração, você será capaz de ver {TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS[2]}, além de permitir a compra de {TXT_KEY_UNIT_GREAT_ADMIRAL[2]} com [ICON_PEACE]Fé, a partir da Era Industrial.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE">
             <Text>Infraestrutura Marítima</Text>
@@ -137,7 +137,7 @@
             <Text>[COLOR_POSITIVE_TEXT]Infraestrutura Marítima[ENDCOLOR][NEWLINE]+3 de [ICON_PRODUCTION]Produção em todas as cidades costeiras.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Tradição Naval[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade para cada Ancoradouro, Porto ou Farol.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_NAVAL_TRADITION}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade para cada Ancoradouro, Porto ou Farol.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
             <Text>[COLOR_POSITIVE_TEXT]Marinha Mercante[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro para cada Ancoradouro, Porto ou Farol. +4 de [ICON_PRODUCTION]Produção e +4 de [ICON_CULTURE]Cultura na cidade com a Companhia Britânica das Índias Orientais</Text>
@@ -146,7 +146,7 @@
             <Text>Escola de Navegação</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR][NEWLINE]Um Grande Almirante aparece. +2 de [ICON_MOVES]Movimento parra todos os Grandes Almirantes, cuja obtenção se dará 50% mais rápido.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_NAVIGATION_SCHOOL}[ENDCOLOR][NEWLINE]Um {TXT_KEY_UNIT_GREAT_ADMIRAL} aparece. +2 de [ICON_MOVES]Movimento para todos os {TXT_KEY_UNIT_GREAT_ADMIRAL[2]}, cuja obtenção se dará 50% mais rápido.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_TREASURE_FLEETS">
             <Text>Frotas do Tesouro</Text>
