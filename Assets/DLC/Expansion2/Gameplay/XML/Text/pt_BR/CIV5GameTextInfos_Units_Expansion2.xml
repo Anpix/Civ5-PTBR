@@ -260,7 +260,7 @@
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_FYODOR_DOSTOYEVSKY">
-			<Text>Fyodor Dostoyevsky</Text>
+			<Text>Fiódor Dostoiévski</Text>
 			<Gender>masculine</Gender>			
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ANTON_CHEKHOV">
@@ -443,7 +443,7 @@
 			<Text>Modest Mussorgsky</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_PYOTR_ILYICH_TCHAIKOVSKY">
-			<Text>Pyotr Ilyich Tchaikovsky</Text>
+			<Text>Piotr Ilitch Tchaikovski</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_VERMEER">
 			<Text>Jan Vermeer</Text>
@@ -548,7 +548,7 @@
 			<Text>Antonello da Messina</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONIN_DVORAK">
-			<Text>Antonin Dvorak</Text>
+			<Text>Antonín Dvořák</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_TAIZAN_HIGUCHI">
 			<Text>Taizan Higuchi</Text>
@@ -590,7 +590,7 @@
 			<Text>Silvestre Revueltas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_CARLOS_CHAVEZ">
-			<Text>Carlos Chavez</Text>
+			<Text>Carlos Chávez</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_WASITODININGRAT">
 			<Text>Wasitodiningrat</Text>
@@ -651,7 +651,7 @@
 			<Text>Kano Masanobu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_TITIAN">
-			<Text>Titian</Text>
+			<Text>Ticiano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_GOWER">
 			<Text>George Gower</Text>
@@ -684,10 +684,10 @@
 			<Text>Mary Cassatt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_CEZANNE">
-			<Text>Paul Cezanne</Text>
+			<Text>Paul Cézanne</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_HONORE_FRAGONARD">
-			<Text>Jean Honore Fragonard</Text>
+			<Text>Jean-Honoré Fragonard</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_MARTIN_JOHNSON_HEADE">
 			<Text>Martin Johnson Heade</Text>

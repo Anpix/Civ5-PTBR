@@ -332,12 +332,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_BARTOLOME_DE_LAS_CASAS">
-			<Text>Bartolomé de las Casas</Text>
+			<Text>Bartolomeu de las Casas</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_SALVADOR_DALI">
-			<Text>Salvador Dali</Text>
+			<Text>Salvador Dalí</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -347,7 +347,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONI_GAUDI">
-			<Text>Antoni Gaudi</Text>
+			<Text>Antoni Gaudí</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -387,7 +387,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_LEO_TOLSTOY">
-			<Text>Leo Tolstoy</Text>
+			<Text>Liev Tolstói</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -453,7 +453,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_DMITRY_MENDELEEV">
-			<Text>Dmitry Mendeleev</Text>
+			<Text>Dmitri Mendeleiev</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -474,7 +474,7 @@
 		</Row>
 		<!-- GREAT MERCHANTS -->
 		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_LICINIUS_CRASSUS">
-			<Text>Marcus Licinius Crassus</Text>
+			<Text>Marco Licínio Crasso</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -494,7 +494,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_NESTLE">
-			<Text>Henri Nestle</Text>
+			<Text>Henri Nestlé</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -556,12 +556,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_POMPEY">
-			<Text>Pompey</Text>
+			<Text>Pompeu</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_PYRRHUS">
-			<Text>Pyrrhus</Text>
+			<Text>Pirro</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -571,12 +571,12 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_SITTING_BULL">
-			<Text>Sitting Bull</Text>
+			<Text>Touro Sentado</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_SPARTACUS">
-			<Text>Spartacus</Text>
+			<Text>Espártaco</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -591,7 +591,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HANNIBAL">
-			<Text>Hannibal</Text>
+			<Text>Aníbal</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>			
 		</Row>		
