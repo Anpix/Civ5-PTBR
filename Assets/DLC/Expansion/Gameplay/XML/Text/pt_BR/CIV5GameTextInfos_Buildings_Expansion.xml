@@ -10,7 +10,7 @@
 		<Row Tag="TXT_KEY_BUILDING_ALHAMBRA">
 			<Text>Alhambra</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CN_TOWER">
 			<Text>Torre CN</Text>
@@ -25,38 +25,38 @@
 		<Row Tag="TXT_KEY_BUILDING_LEANING_TOWER">
 			<Text>Torre de Pisa</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE_OF_DJENNE">
 			<Text>Grande Mesquita de Djenné</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEUSCHWANSTEIN">
 			<Text>Castelo de Neuschwanstein</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PETRA">
 			<Text>Petra</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TERRACOTTA_ARMY">
 			<Text>Exército de Terracota</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL">
 			<Text>Grande Firewall</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<!-- NATIONAL WONDERS -->
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY">
 			<Text>Agência Nacional de Inteligência</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
@@ -71,8 +71,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
 			<Text>Centro de Reciclagem|Centros de Reciclagens</Text>
-			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
 			<Text>Abrigo Antinuclear|Abrigos Antinucleares</Text>
@@ -82,34 +82,34 @@
 		<Row Tag="TXT_KEY_BUILDING_CONSTABLE">
 			<Text>Constabulário|Constabulários</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION">
 			<Text>Distrito Policial|Distritos Policiais</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<!--RELIGION BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL">
 			<Text>Catedral|Catedrais</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE">
 			<Text>Mesquita|Mesquitas</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAGODA">
 			<Text>Pagode|Pagodes</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<!-- UNIQUE BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_CEILIDH_HALL">
 			<Text>Salão Ceilidh</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_COFFEE_HOUSE">
 			<Text>Casa de Café|Casas de Café</Text>
@@ -119,7 +119,7 @@
 		<Row Tag="TXT_KEY_BUILDING_STELE">
 			<Text>Estela</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAYA_PYRAMID">
 			<Text>Pirâmide Maia|Pirâmides Maias</Text>
@@ -129,7 +129,7 @@
 		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE">
 			<Text>Grande Templo</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>					  
-		</Row>		
+			<Plurality>1</Plurality>
+		</Row>
 	</Language_pt_BR>
 </GameData>

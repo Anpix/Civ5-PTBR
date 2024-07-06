@@ -426,7 +426,7 @@
 		<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_YOUR_CITY_TT">
 		  <Text>Você não precisa exibir a tela da cidade {1: gender *:noart?de; feminine?{1: plural 2?das; other?da;}; masculine?{1: plural 2?dos; other?do;}; other?de;} {1_CityName} pelos olhos de um espião.[NEWLINE][NEWLINE]Você é o dono desta cidade e não precisa de um espião para lhe dizer o que há lá.</Text>
 		</Row>
-    <Row Tag="TXT_KEY_EO_SPY_RANK_TT">
+		<Row Tag="TXT_KEY_EO_SPY_RANK_TT">
 			<Text>{1_SpyName} alcançou a graduação de {2_RankName}.[NEWLINE][NEWLINE]Há três graduações de espião: Recruta, Agente e Agente Especial. Cada graduação subsequente faz o espião ser mais efetivo. Um espião de alta graduação roubará tecnologias mais rapidamente, descobrirá e eliminará com mais eficiência espiões inimigos que tentarem roubar tecnologias de você, fraudará eleições em Cidades-Estado com mais sucesso e possui uma chance maior de promover um golpe de estado em uma Cidade-Estado aliada a outra civilização.[NEWLINE][NEWLINE]Espiões alcançam a graduação seguinte quando roubam tecnologia de outra civilização ou eliminam um espião inimigo que esteja tentando roubar sua tecnologia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_SPY_LOCATION_TT">
@@ -556,7 +556,7 @@
 			<Text>Tem certeza que deseja enviar {2: gender feminine?a; other?o;} {1_SpyRank} {2_SpyName} ao esconderijo?[NEWLINE][NEWLINE]Qualquer ação que {2: gender feminine?a espiã; other?o espião;} esteja realizando neste momento será cancelada. Espiões não podem ajudar você enquanto estiverem no esconderijo. Entretanto, lá eles não podem ser mortos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EO_UNKNOWN_POTENTIAL">
-		  <Text>?</Text>
+			<Text>?</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

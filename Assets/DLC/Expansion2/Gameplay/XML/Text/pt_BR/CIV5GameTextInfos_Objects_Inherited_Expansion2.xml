@@ -14,22 +14,22 @@
 		<Row Tag="TXT_KEY_RESOURCE_PORCELAIN">
 			<Text>Porcelana|Porcelanas</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_COPPER">
 			<Text>Cobre|Cobres</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_SALT">
 			<Text>Sal|Sais</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_CRAB">
 			<Text>Caranguejo|Caranguejos</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_TRUFFLES">
 			<Text>Trufas</Text>
@@ -56,22 +56,22 @@
 		<Row Tag="TXT_KEY_FEATURE_SRI_PADA">
 			<Text>Pico de Adão|Picos de Adão</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_MT_SINAI">
 			<Text>Monte Sinai|Montes Sinais</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_MT_KAILASH">
 			<Text>Monte Kailash|Montes Kailash</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_FEATURE_ULURU">
 			<Text>Uluru|Ulurus</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>						
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FAITH_TEXT">
 			<Text>Fé</Text>

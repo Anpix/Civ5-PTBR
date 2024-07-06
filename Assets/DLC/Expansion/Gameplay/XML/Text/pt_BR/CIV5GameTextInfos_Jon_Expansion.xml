@@ -677,7 +677,7 @@
 			<Text>Esta ordem consumirá o {TXT_KEY_UNIT_GREAT_ADMIRAL} e irá curar todas as suas unidades navais e unidades embarcadas neste hexágono e em todos os adjacentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_HELP">
-			<Text>Esta ordem consumirá o Grande Artista e iniciará uma [ICON_GOLDEN_AGE]Era Dourada ([ICON_PRODUCTION], [ICON_GOLD] e [ICON_CULTURE] extras) por {1_Num} {1: plural 1?turno; other?turnos;}.</Text>
+			<Text>Esta ordem consumirá o Grande Artista e iniciará uma [ICON_GOLDEN_AGE]Era Dourada ([ICON_PRODUCTION]Produção, [ICON_GOLD]Ouro e [ICON_CULTURE]Cultura extras) por {1_Num} {1: plural 1?turno; other?turnos;}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOODY_FAITH">
 			<Text>Você encontrou um antigo oráculo. Os sacerdotes abençoaram você com uma divina revelação. Você recebeu {1_Num} de [ICON_PEACE]Fé.</Text>
@@ -856,10 +856,10 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITY_STATE_QUEST_INVADING_BARBS_FORMAL">
 			<Text>Eles querem que você derrote unidades Bárbaras que estão invadindo o território deles.</Text>
-		</Row>		
+		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_STOP_SPREADING_RELIGION">
-		  <Text>Pare de enviar Missionários e Profetas às minhas cidades.</Text>
-		</Row>		
+			<Text>Pare de enviar Missionários e Profetas às minhas cidades.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_DIPLO_PEACE_TREATY">
 			<Text>TRATADO DE PAZ ({1_Turns} {1: plural 1?turno; other?turnos;})</Text>
 		</Row>
@@ -883,6 +883,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_RELATION_OPEN_BORDERS_THEIR">
 			<Text>AS FRONTEIRAS DELES ESTÃO ABERTAS A NÓS</Text>
-		</Row>		
+		</Row>
 	</Language_pt_BR>
 </GameData>

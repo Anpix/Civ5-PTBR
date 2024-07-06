@@ -37,8 +37,9 @@
             <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
-            <Text>Honcongonês|Honcongonesa</Text>
-            <Gender>masculine|feminine</Gender>
+            <Text>Honcongonês|Honcongonesa|Honcongoneses|Honcongonesas</Text>
+            <Gender>masculine|feminine|masculine|feminine</Gender>
+            <Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
             <Text>Jerusalém</Text>

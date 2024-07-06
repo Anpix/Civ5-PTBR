@@ -6,7 +6,6 @@
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_LEADER_SELASSIE">
 			<Text>Haile Selassie</Text>
-			<Plurality>1</Plurality>
 			<Gender>masculine</Gender>
 		</Row>
 	</Language_pt_BR>

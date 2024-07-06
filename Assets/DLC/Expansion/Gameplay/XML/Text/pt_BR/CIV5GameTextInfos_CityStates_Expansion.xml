@@ -22,7 +22,7 @@
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP">
 			<Text>Antuérpia</Text>
 			<Gender>neuter:noart</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJ">
 			<Text>Antuerpiano|Antuerpiana|Antuerpianos|Antuerpianas</Text>
@@ -160,9 +160,9 @@
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY">
-			<Text>Vaticano</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Text>Cidade do Vaticano</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJ">
 			<Text>Vaticano|Vaticana|Vaticanos|Vaticanas</Text>
