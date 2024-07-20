@@ -678,19 +678,19 @@
 			<Text>Queime, querida! Queime!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_DISABLED_BECAUSE_CAPITAL_TT">
-			<Text>Não se pode eliminar uma cidade que já foi uma Capital</Text>
+			<Text>Não se pode arrasar uma cidade que já foi uma Capital</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_TEXT">
-			<Text>Eliminar cidade</Text>
+			<Text>Arrasar cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_TOGGLE_FOCUS_TT">
 			<Text>Alterar foco da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNRAZE_BUTTON_TT">
-			<Text>Interromper processo de eliminação</Text>
+			<Text>Interromper processo de arrasamento</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_UNRAZE_BUTTON_TEXT">
-			<Text>Parar eliminação da cidade</Text>
+			<Text>Parar arrasamento da cidade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FOOD_TEXT">
 			<Text>Foco em [ICON_FOOD]Alimento</Text>

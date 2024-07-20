@@ -1661,7 +1661,7 @@
             <Text>Criar fantoche</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_RAZE_CAPTURED_CITY">
-            <Text>Eliminar a cidade!</Text>
+            <Text>Arrasar a cidade!</Text>
         </Row>
         <Row Tag="TXT_KEY_POPUP_DONT_ANNEX_CITY">
             <Text>Deixar cidade como um fantoche</Text>
