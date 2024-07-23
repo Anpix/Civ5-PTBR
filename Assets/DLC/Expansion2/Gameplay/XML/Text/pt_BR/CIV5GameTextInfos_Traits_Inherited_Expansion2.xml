@@ -27,7 +27,7 @@
 			<Text>Prêmio Nobel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
-			<Text>Elimine cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia {TXT_KEY_TECH_ANIMAL_HUSBANDRY}. +1 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
+			<Text>Arrase cidades com o dobro da velocidade. Aproprie-se dos nomes das cidades de outras civilizações durante o jogo. Inicie com a tecnologia {TXT_KEY_TECH_ANIMAL_HUSBANDRY}. +1 de [ICON_PRODUCTION]Produção de {TXT_KEY_IMPROVEMENT_PASTURE[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
 			<Text>Castigo de Deus</Text>
