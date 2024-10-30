@@ -1040,7 +1040,7 @@
 		</Row>
 		<!-- BUILDINGS -->
 		<Row Tag="TXT_KEY_BUILDING_AIRPORT_STRATEGY">
-			<Text>O versátil Aeroporto é uma excelente opção para as duas civilizações que estão tentando melhorar sua produção de [ICON_TOURISM]Turismo ou para aqueles que precisam usar recursos de transporte aéreo para transportar unidades para cidades distantes.</Text>
+			<Text>O versátil {TXT_KEY_BUILDING_AIRPORT} é uma excelente opção para as duas civilizações que estão tentando melhorar sua produção de [ICON_TOURISM]Turismo ou para aqueles que precisam usar recursos de transporte aéreo para transportar unidades para cidades distantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BANK_STRATEGY">
 			<Text>O Banco é um edifício da era da Renascença que aumenta a produção de [ICON_GOLD]Ouro da cidade. Uma cidade deve possuir um mercado ou um bazar antes que um banco possa ser construído. As rotas comerciais que outros jogadores fazem em uma cidade com um banco gerarão um ouro extra de 2 [ICON_GOLD] para o proprietário da cidade, e o proprietário da rota comercial receberá 1 [ICON_GOLD]Ouro adicional para a rota comercial.</Text>
@@ -1058,7 +1058,7 @@
 			<Text>Além das habilidades regulares do Banco (produção adicional de [ICON_GOLD]Ouro e [ICON_GOLD]Ouro adicional de rotas comerciais)), a Liga Hanseática fornece [ICON_PRODUCTION]Produção para cada rota comercial dentro de sua civilização que se conecta a uma Cidade-Estado. As rotas comerciais podem vir de qualquer combinação de cidades, mesmo sem a Liga Hanseática (Exemplo: se você tiver rotas comerciais de Berlim para Genebra, Munique para Genebra, Munique para Berlim e Berlim para Bruxelas, todas as cidades com Liga Hanseática receberão + 15% [ICON_PRODUCTION]Produção). Somente a Alemanha pode construí-lo. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HARBOR_STRATEGY">
-			<Text>O porto é um edifício da era medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro das rotas de comerciais marítmas. Permite "ligações de cidade de água" (ver regras) entre cidades. O porto também aumenta a produção [ICON_PRODUCTION] de um recurso marítimo melhorado.</Text>
+			<Text>O {TXT_KEY_BUILDING_SEAPORT} é um edifício da era medieval. Aumenta o alcance e a produção de [ICON_GOLD]Ouro das rotas de comerciais marítmas. Permite "ligações de cidade de água" (ver regras) entre cidades. O {TXT_KEY_BUILDING_SEAPORT} também aumenta a produção [ICON_PRODUCTION] de um recurso marítimo melhorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL_STRATEGY">
 			<Text>Com o seu enorme impulso para [ICON_TOURISM]Turismo, o Hotel é uma excelente escolha para as civilizações que estão tentando alcançar uma vitória cultural, ou tentando aumentar o seu impacto ideológico em outras civilizações.</Text>
@@ -1073,7 +1073,7 @@
 			<Text>Além da produção [ICON_RESEARCH]Científica da Biblioteca que ela substitui, a Biblioteca Real também possui um espaço de Grande Obra de Escrita. Uma vez preenchida com uma Grande Obra, ela fornece XP extra para Unidades treinadas nesta cidade, por isso coloque aqui uma Grande Obra o mais rápido possível para o máximo benefício. Somente os Assírios podem construí-lo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_STRATEGY">
-			<Text>O farol só pode ser construído em uma cidade ao lado de um ladrilho costeiro. Aumenta a produção de [ICON_FOOD]Alimentos dos ladrilhos de água e dos [ICON_RES_FISH]Peixes e aumenta a [ICON_PRODUCTION]Produção de todos os recursos do mar.</Text>
+			<Text>O {TXT_KEY_BUILDING_LIGHTHOUSE} só pode ser construído em uma cidade ao lado de um ladrilho costeiro. Aumenta a produção de [ICON_FOOD]Alimentos dos ladrilhos de água e dos [ICON_RES_FISH]Peixes e aumenta a [ICON_PRODUCTION]Produção de todos os recursos do mar.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_IRONWORKS_STRATEGY">
 			<Text>A Ironworks National Maravilha aumenta a [ICON_PRODUCTION]Produção de uma cidade em 8 [ICON_PRODUCTION]. Uma civilização deve ter uma oficina em todas as cidades antes de poder construir uma Ironworks.</Text>

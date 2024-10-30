@@ -1577,10 +1577,10 @@
 			<Text>[COLOR_POSITIVE_TEXT]Elite instruída[ENDCOLOR][NEWLINE]As Cidades-Estado aliadas irão dar ocasionalmente [ICON_GREAT_PEOPLE]Grandes Pessoas ao seu Império.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Sindicatos[ENDCOLOR][NEWLINE]A [ICON_GOLD]manutenção de estradas e ferrovias diminuirá em 33%. Ancoradouros e Portos ganham +1 de [ICON_GOLD]Ouro.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_TRADE_UNIONS}[ENDCOLOR][NEWLINE]A [ICON_GOLD]manutenção de estradas e ferrovias diminuirá em 33%. {TXT_KEY_BUILDING_HARBOR[2]} e {TXT_KEY_BUILDING_SEAPORT[2]} ganham +1 de [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Marinha Mercante[ENDCOLOR][NEWLINE]+3 de [ICON_PRODUCTION]Produção em todas as cidades costeiras.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_MERCHANT_NAVY}[ENDCOLOR][NEWLINE]+3 de [ICON_PRODUCTION]Produção em todas as cidades costeiras.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_MERCANTILISM_HELP">
 			<Text>[COLOR_POSITIVE_TEXT]Mercantilismo[ENDCOLOR][NEWLINE]Comprar itens nas cidades requer 25% menos [ICON_GOLD]Ouro.</Text>
@@ -2888,7 +2888,7 @@
 			<Text>+1 de [ICON_GOLD]Ouro de hexágonos aquáticos explorados pela cidade.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_LIGHTHOUSE_HELP">
-			<Text>Todas as unidades navais recebem +1 de [ICON_MOVES]Movimento e +1 de visão. Fornece um Farol gratuito na cidade onde ele for construído.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
+			<Text>Todas as unidades navais recebem +1 de [ICON_MOVES]Movimento e +1 de visão. Fornece um {TXT_KEY_BUILDING_LIGHTHOUSE} gratuito na cidade onde ele for construído.[NEWLINE][NEWLINE]A cidade deve ser construída no litoral.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_ORACLE_HELP">
 			<Text>1 política social gratuita.</Text>
