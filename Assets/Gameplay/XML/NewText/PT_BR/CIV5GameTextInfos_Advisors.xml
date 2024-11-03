@@ -937,10 +937,10 @@
 			<Text>Temos uma crise de [ICON_PRODUCTION]Produção! Use [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construir as melhorias que aumentem a quantidade de [ICON_PRODUCTION]Produção que necessitamos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES">
-			<Text>Evite construir Ancoradouros, porque não podemos usá-los sem duas cidades litorâneas.</Text>
+			<Text>Evite construir {TXT_KEY_BUILDING_HARBOR[2]}, porque não podemos usá-los sem duas cidades litorâneas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES_INVERSE">
-			<Text>Nós temos cidades no litoral que podem ser ligadas por meio de Ancoradouros. Construa Ancoradouros nas cidades para abrir rotas comerciais através da água e coletar mais [ICON_GOLD]Ouro!</Text>
+			<Text>Nós temos cidades no litoral que podem ser ligadas por meio de {TXT_KEY_BUILDING_HARBOR[2]}. Construa {TXT_KEY_BUILDING_HARBOR[2]} nas cidades para abrir rotas comerciais através da água e coletar mais [ICON_GOLD]Ouro!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_LOSING_MONEY">
 			<Text>Precisamos aumentar nossa geração de [ICON_GOLD]Ouro para nos manter competitivos. Dispense unidades obsoletas para reduzir nosso custo de manutenção de unidades, use os nossos [COLOR_UNIT_TEXT]Trabalhadores[/COLOR] para construção de melhorias que aumentem a quantidade de [ICON_GOLD]Ouro do hexágono e faça edifícios que aumentem a nossa geração de [ICON_GOLD]Ouro.</Text>
@@ -970,7 +970,7 @@
 			<Text>Acredito que, neste momento, [COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] não precisa treinar mais [COLOR_UNIT_TEXT]Trabalhadores[/COLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_GROWTH">
-			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edifícios como o Farol, que melhoraram o rendimento desses hexágonos.</Text>
+			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui um número considerável de hexágonos aquáticos. Devemos nos concentrar na construção de edifícios como o {TXT_KEY_BUILDING_LIGHTHOUSE}, que melhoraram o rendimento desses hexágonos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
 			<Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]{1_CityName:textkey}[/COLOR] possui recursos não melhorados na água; deveríamos construir um {TXT_KEY_UNIT_WORK_BOAT} para melhorar o recurso!</Text>

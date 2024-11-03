@@ -248,7 +248,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Tribunal[ENDCOLOR], um edifício que reduz a [ICON_HAPPINESS_4]Infelicidade de cidades [ICON_OCCUPIED]ocupadas. Também oferece uma variedade de outros benefícios à [ICON_RESEARCH]Ciência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVIGATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR], um edifício que elimina o escorbuto de unidades navais. Também permite a construção, em cidades costeiras, do [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que oferece [ICON_PRODUCTION]Produção de recursos marinhos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola de Navegação[ENDCOLOR], um edifício que elimina o escorbuto de unidades navais. Também permite a construção, em cidades costeiras, do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SEAPORT}[ENDCOLOR], que oferece [ICON_PRODUCTION]Produção de recursos marinhos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_HELP">
 			<Text>O custo de [ICON_CULTURE]Cultura para aquisição de novos hexágonos é reduzido em 75% na cidade.</Text>

@@ -137,10 +137,10 @@
             <Text>[COLOR_POSITIVE_TEXT]Infraestrutura Marítima[ENDCOLOR][NEWLINE]+3 de [ICON_PRODUCTION]Produção em todas as cidades costeiras.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_NAVAL_TRADITION}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade para cada Ancoradouro, Porto ou Farol.</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_NAVAL_TRADITION}[ENDCOLOR][NEWLINE]+1 de [ICON_HAPPINESS_1]Felicidade para cada {TXT_KEY_BUILDING_HARBOR}, {TXT_KEY_BUILDING_SEAPORT} ou {TXT_KEY_BUILDING_LIGHTHOUSE}.</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]Marinha Mercante[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro para cada Ancoradouro, Porto ou Farol. +4 de [ICON_PRODUCTION]Produção e +4 de [ICON_CULTURE]Cultura na cidade com a Companhia Britânica das Índias Orientais</Text>
+            <Text>[COLOR_POSITIVE_TEXT]{TXT_KEY_POLICY_MERCHANT_NAVY}[ENDCOLOR][NEWLINE]+1 de [ICON_GOLD]Ouro para cada {TXT_KEY_BUILDING_HARBOR}, {TXT_KEY_BUILDING_SEAPORT} ou {TXT_KEY_BUILDING_LIGHTHOUSE}. +4 de [ICON_PRODUCTION]Produção e +4 de [ICON_CULTURE]Cultura na cidade com a Companhia Britânica das Índias Orientais</Text>
         </Row>
         <Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL">
             <Text>Escola de Navegação</Text>
@@ -693,7 +693,7 @@
             <Text>A unidade deve estar em um hexágono pertencente a uma civilização principal.</Text>
         </Row>
         <Row Tag="TXT_KEY_INTERFACEMODE_AIRLIFT_HELP">
-            <Text>Esta ordem permitirá à unidade se reposicionar em um hexágono terrestre em ou adjacente a uma cidade amiga com um Aeroporto. O hexágono alvo não pode estar ocupado por uma unidade inimiga, nem estar adjacente a uma.</Text>
+            <Text>Esta ordem permitirá à unidade se reposicionar em um hexágono terrestre em ou adjacente a uma cidade amiga com um {TXT_KEY_BUILDING_AIRPORT}. O hexágono alvo não pode estar ocupado por uma unidade inimiga, nem estar adjacente a uma.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
             <Text>O {TXT_KEY_BUILDING_AMPHITHEATER} aumenta a [ICON_CULTURE]Cultura de uma cidade, acelerando o crescimento do território da cidade e da aquisição de Políticas Sociais. A cidade deve possuir um {TXT_KEY_BUILDING_MONUMENT_DESC} (ou uma {TXT_KEY_BUILDING_STELE}) antes de o {TXT_KEY_BUILDING_AMPHITHEATER} poder ser construído. Contém 1 espaço para uma Grande Obra Literária.</Text>

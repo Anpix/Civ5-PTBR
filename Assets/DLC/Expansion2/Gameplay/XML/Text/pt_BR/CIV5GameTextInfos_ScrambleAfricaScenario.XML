@@ -66,10 +66,10 @@
 			<Text>The Italian African Empire came into being after the nation, unified into the modern state in 1861 AD, joined the "scramble for Africa." By this time, France, England, Spain, Portugal and the Netherlands had been carving out colonies in Africa for 100 years. Looking to conquer as yet unclaimed parts of the continent, by the outbreak of World War I, Italy had annexed Eritrea, Somalia and Libya. However, it had been defeated in its first attempt to conquer Ethiopia in the war of 1895-1896; Ethiopia would not fall under Italian dominion until 1936. In 1915 Italy entered World War I on the side of the Western Allies with the agreement of Great Britain and France that it would receive significant territory in Europe and, upon the defeat of Germany, extensive lands carved from the German East African possessions. However, in the Treaty of Versailles that ended the war, Italy was given little land in Europe and none in Africa, leading to resentment towards the European colonial powers that lasted two decades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST_SHORT">
-			<Text>Muhammad Ali's Legacy</Text>
+			<Text>Legado de Muhammad Ali</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST">
-			<Text>Trade Route [ICON_GOLD] Gold bonus from Caravansaries and Harbors is doubled.</Text>
+			<Text>Bônus de [ICON_GOLD]Ouro de Rotas Comerciais para {TXT_KEY_BUILDING_CARAVANSARY[2]} e {TXT_KEY_BUILDING_HARBOR[2]} é dobrado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BOERS_HEADING_1">
 			<Text>História</Text>

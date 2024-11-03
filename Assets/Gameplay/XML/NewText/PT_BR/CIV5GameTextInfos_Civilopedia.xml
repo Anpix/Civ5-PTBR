@@ -594,7 +594,7 @@
 			<Text>A Grande Biblioteca proporciona uma tecnologia grátis, além de +1 em [ICON_CULTURE]Cultura e +1 ponto de Grande Cientista. Esta maravilha pode melhorar muito a tecnologia nas primeiras fases do jogo a um custo de [ICON_PRODUCTION]Produção relativamente baixo.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_LIGHTHOUSE_STRATEGY">
-			<Text>O Grande Farol aumenta em +1 o movimento e a visão de todas as unidades navais militares. Também proporciona +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Mercador. Obviamente, isso é extremamente útil para uma civilização de caráter naval, especialmente em um jogo com muitas ilhas ou pequenos continentes.</Text>
+			<Text>{TXT_KEY_BUILDING_GREAT_LIGHTHOUSE} aumenta em +1 o movimento e a visão de todas as unidades navais militares. Também proporciona +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Mercador. Obviamente, isso é extremamente útil para uma civilização de caráter naval, especialmente em um jogo com muitas ilhas ou pequenos continentes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GREAT_WALL_STRATEGY">
 			<Text>A Grande Muralha aumenta em +1 o custo de movimento de todas as unidades inimigas que tentarem entrar em um hexágono que esteja em seu território. Também proporciona +1 para [ICON_CULTURE]Cultura e +1 ponto de Grande Engenheiro. Os benefícios defensivos desta Maravilha, especialmente para um império com uma rede de estradas extensa, são incalculáveis. Os ataques inimigos serão mais lentos, o que te permitirá enviar reforços aos locais mais ameaçados muito antes dos ataques serem materializados.</Text>
@@ -606,10 +606,10 @@
 			<Text>Os Jardins Suspensos aumentam em +1 a população de todas as suas cidades e em +3 a [ICON_HAPPINESS_1]Felicidade de todo seu império. Esta Maravilha, relativamente barata, é útil para qualquer civilização, mas especialmente para uma que seja expansionista e tenha muitas cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HARBOR_PEDIA">
-			<Text>O Ancoradouro consiste em uma massa de água que fornece proteção contra os elementos para os barcos e navios ancorados em seu interior. Ainda que existam alguns ancoradouros "naturais", a maioria exige certo grau de dragagem, precisam de construção de diques, quebra ventos e etc. Além disso, os Ancoradouros também possuem docas e cais para carga e descarga, bem como armazéns para estocar as mercadorias.</Text>
+			<Text>O {TXT_KEY_BUILDING_HARBOR} consiste em uma massa de água que fornece proteção contra os elementos para os barcos e navios ancorados em seu interior. Ainda que existam alguns {TXT_KEY_BUILDING_HARBOR[2]} "naturais", a maioria exige certo grau de dragagem, precisam de construção de diques, quebra ventos e etc. Além disso, os {TXT_KEY_BUILDING_HARBOR[2]} também possuem docas e cais para carga e descarga, bem como armazéns para estocar as mercadorias.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HARBOR_STRATEGY">
-			<Text>O Ancoradouro é um edifício da Era Medieval. Aumenta a [ICON_PRODUCTION]Produção de unidades navais na cidade e permite traçar "rotas náuticas" (ver regras) entre as cidades. O Ancoradouro aumenta o rendimento de [ICON_PRODUCTION]Produção de um recurso oceânico explorado.</Text>
+			<Text>O {TXT_KEY_BUILDING_HARBOR} é um edifício da Era Medieval. Aumenta a [ICON_PRODUCTION]Produção de unidades navais na cidade e permite traçar "rotas náuticas" (ver regras) entre as cidades. O {TXT_KEY_BUILDING_HARBOR} aumenta o rendimento de [ICON_PRODUCTION]Produção de um recurso oceânico explorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HERMITAGE_PEDIA">
 			<Text>O Hermitage é um museu localizado em São Petersburgo, Rússia. Construído em 1764 por Catarina, a Grande, a coleção do Hermitage contém cerca de três milhões de peças, incluindo a maior coleção de pinturas do mundo. A coleção ocupa um grande número de edifícios históricos, incluindo o extraordinário Palácio de Inverno, antiga residência oficial dos Czares de 1732 a 1917.</Text>
@@ -651,7 +651,7 @@
 			<Text>A Biblioteca aumenta a produção [ICON_RESEARCH]Científica da cidade, acelerando a aquisição de novas tecnologias na civilização. Uma Biblioteca permite a criação de dois Cientistas Especialistas a partir da população de uma cidade, aumentando a velocidade em que aparecem os Grandes Cientistas.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_STRATEGY">
-			<Text>O Farol só poder ser construído em uma cidade que esteja próxima a área costeira. Aumenta a produção de [ICON_FOOD]Alimentos dos hexágonos aquáticos e do recurso [ICON_RES_FISH]Peixe.</Text>
+			<Text>O {TXT_KEY_BUILDING_LIGHTHOUSE} só poder ser construído em uma cidade que esteja próxima a área costeira. Aumenta a produção de [ICON_FOOD]Alimentos dos hexágonos aquáticos e do recurso [ICON_RES_FISH]Peixe.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_PEDIA">
 			<Text>Durante grande parte de sua história, a maioria dos Iroqueses viviam em aldeias compostas de uma ou mais "Malocas," edifícios comunais construídos com árvores jovens revestidas de casca de olmo. Na verdade, os Iroqueses se chamam a si mesmos de "Hodenosaunee," que significa "Povo da Maloca." Estes edifícios poderiam ter entre 12 e 120 metros de comprimento e 24 metros de largura. Se dividiam em compartimentos por divisórias internas, cada uma conectada por um corredor central aberto. Vários desses compartimentos compartilhavam o fogo para cozinhar no corredor central, com uma abertura no teto agindo como uma chaminé.[NEWLINE][NEWLINE]As Malocas são estruturas eficientes, mais baratos de se construir do que as moradias individuais, exigindo menos recursos naturais do que outros tipos de casas. São representativos do desejo da cultura Iroquesa de sobreviver e crescer em harmonia com o ambiente ao seu redor.</Text>
@@ -663,7 +663,7 @@
 			<Text>O Louvre fornece um museu gratuito em todas as cidades de sua civilização. Também proporciona +1 em [ICON_CULTURE]Cultura e +2 pontos de Grande Artista. Os Museus não são baratos e cada um concede +5 em [ICON_CULTURE]Cultura por turno, o que pode representar um impulso cultural massivo durante o Renascimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MACHU_PICHU_STRATEGY">
-			<Text>Machu Picchu concede uma bonificação de 25% de [ICON_GOLD]Ouro obtido pelas rotas comerciais (conexões rodoviárias e/ou Ancoradouros entre as cidades e capital). Também proporciona +1 em [ICON_CULTURE]Cultura e +1 ponto de Grande Mercador. Machu Picchu requer a tecnologia Moeda e fornece um pequeno impulso financeiro nas primeiras e intermediárias fases da partida.</Text>
+			<Text>Machu Picchu concede uma bonificação de 25% de [ICON_GOLD]Ouro obtido pelas rotas comerciais (conexões rodoviárias e/ou {TXT_KEY_BUILDING_HARBOR[2]} entre as cidades e capital). Também proporciona +1 em [ICON_CULTURE]Cultura e +1 ponto de Grande Mercador. Machu Picchu requer a tecnologia Moeda e fornece um pequeno impulso financeiro nas primeiras e intermediárias fases da partida.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MARKET_STRATEGY">
 			<Text>O Mercado aumenta significativamente a produção de [ICON_GOLD]Ouro de uma cidade.</Text>
@@ -768,7 +768,7 @@
 			<Text>A Corte do Sátrapa é o edifício Persa que substitui o Banco. Igual ao Banco, aumenta a produção de riqueza da cidade. Além disso, a Corte Sátrapa aumenta a [ICON_HAPPINESS_1]Felicidade da civilização. Para construir uma Corte Sátrapa, a cidade deve possuir um Mercado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SEAPORT_STRATEGY">
-			<Text>Um Porto aumenta o regime de [ICON_PRODUCTION]Produção de um recurso marinho explorado.</Text>
+			<Text>Um {TXT_KEY_BUILDING_SEAPORT} aumenta o regime de [ICON_PRODUCTION]Produção de um recurso marinho explorado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SISTINE_CHAPEL_STRATEGY">
 			<Text>A Maravilha Capela Sistina aumenta em 50% a produção [ICON_CULTURE]Cultural de TODAS as cidades e fornece +1 para [ICON_CULTURE]Cultura e +2 pontos de Grande Artista. Esta é uma das Maravilhas mais poderosas da Renascença.</Text>
@@ -1750,7 +1750,7 @@
 			<Text>O {TXT_KEY_BUILDING_GRANARY} é um edifício desenhado para armazenar cereais para consumo por humanos ou animal (ou ambos). Os {TXT_KEY_BUILDING_GRANARY[2]} mais antigos foram descobertos em um assentamento Neolítico do Vale da Jordânia e datam aproximadamente de 9500 a.C. Estes primeiros {TXT_KEY_BUILDING_GRANARY[2]} mediam cerca de 3 metros quadrados. Eles possuíam o solo elevado, o que permitia a circulação do ar e oferecia certa proteção para o grão frente a ratos e outras ameaças.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HARBOR_HEADING">
-			<Text>Ancoradouro</Text>
+			<Text>{TXT_KEY_BUILDING_HARBOR}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HOSPITAL_HEADING">
 			<Text>Hospital</Text>
@@ -1768,7 +1768,7 @@
 			<Text>A biblioteca é um edifício que contém uma coleção de livros, manuscritos e outros materiais escritos. Historicamente, os livros eram muito caros, muitas vezes fora do alcance das classes mais pobres de uma civilização. A biblioteca permite aos pobres acessar os mesmos conhecimentos que os ricos, melhorando muito suas chances de sucesso e progresso.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LIGHTHOUSE_HEADING">
-			<Text>Farol</Text>
+			<Text>{TXT_KEY_BUILDING_LIGHTHOUSE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LIGHTHOUSE_TEXT">
 			<Text>Desde que o homem se aventurou ao mar em navios, ele construiu faróis na costa para orientar os navios para retornar de volta ao porto e para avisar seus capitães de rochas e cardumes perigosos. O mais antigo farol conhecido foi o Pharos (Grande Farol) de Alexandria. Construído na pequena ilha de Pharos, na costa de Alexandria, ele sobreviveu por mais de mil anos e guiou incontáveis de milhares de navios até o porto de Alexandria.</Text>
@@ -1870,10 +1870,10 @@
 			<Text>Tribunal Sátrapa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SEAPORT_HEADING">
-			<Text>Porto</Text>
+			<Text>{TXT_KEY_BUILDING_SEAPORT}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SEAPORT_TEXT">
-			<Text>O Porto é um super Ancoradouro moderno. É um porto de águas modernas que conta com instalações para lidar com navios e grandes transportes. Os portos geralmente possuem uma grande quantidade de guindastes para a rápida carga e descarga dos carregamentos, que são então transportados através de um labirinto de trilhos de trens e estradas. Os portos marítimos modernos são controlados por capitães de porto em salas de controle de alta tecnologia, equipadas com radar, satélites de detecção e computadores sofisticados que utilizam um complexo software de rastreamento.</Text>
+			<Text>O {TXT_KEY_BUILDING_SEAPORT} é um super {TXT_KEY_BUILDING_HARBOR} moderno. É um porto de águas modernas que conta com instalações para lidar com navios e grandes transportes. Os portos geralmente possuem uma grande quantidade de guindastes para a rápida carga e descarga dos carregamentos, que são então transportados através de um labirinto de trilhos de trens e estradas. Os portos marítimos modernos são controlados por capitães de porto em salas de controle de alta tecnologia, equipadas com radar, satélites de detecção e computadores sofisticados que utilizam um complexo software de rastreamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SOLARPLANT_HEADING">
 			<Text>Central de Energia Solar</Text>
@@ -3917,7 +3917,7 @@
 			<Text>Mercantilismo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_MERCHANTNAVY_HEADING">
-			<Text>Marinha Mercante</Text>
+			<Text>{TXT_KEY_POLICY_MERCHANT_NAVY}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_POLICY_MERITOCRACY_HEADING">
 			<Text>Meritocracia</Text>
@@ -7980,7 +7980,7 @@
 			<Text>Bloqueio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_TRADE_ROUTES_HEADING3_BODY">
-			<Text>Se uma cidade é conectada por uma estrada e/ou um Ancoradouro a sua Capital, essa cidade tem uma "rota comercial" com a capital. Cada rota comercial gera certa quantia de ouro por turno. A quantia é determinada pelo tamanho dessas cidades.</Text>
+			<Text>Se uma cidade é conectada por uma estrada e/ou um {TXT_KEY_BUILDING_HARBOR} a sua Capital, essa cidade tem uma "rota comercial" com a capital. Cada rota comercial gera certa quantia de ouro por turno. A quantia é determinada pelo tamanho dessas cidades.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_TRADE_ROUTES_HEADING3_TITLE">
 			<Text>Rotas Comerciais</Text>
@@ -8538,7 +8538,7 @@
 			<Text>O Mercantilismo é uma forma de nacionalismo econômico que incentiva uma nação a se envolver em políticas de "protecionismo", para promover suas próprias exportações e limitar as importações de outras nações. Se a "balança comercial" de uma nação aumenta, aumentam os ganhos em riqueza e prosperidade, e se ela cai abaixo de zero (ou seja, o país importa mais coisas do que exporta), a nação e sua população crescem mais pobres e mais vulneráveis a ameaças externas. Esta teoria era popular na Europa Ocidental a partir do século 16 até o século 18. Hoje, a maioria das nações ocidentais procura abrir as suas fronteiras ao comércio, embora geralmente imponham algum grau de tributação ou de cotas para protegerem as suas indústrias nacionais mais importantes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_MERCHANTNAVY_TEXT">
-			<Text>A Marinha Mercante é um grupo de navios mercantes que, em tempos de guerra, pode ser pressionado a servir como meio de transporte de mercadorias e suprimentos militares de uma nação, muitas vezes contando com a proteção da Marinha do país. Por muitos anos os ingleses mantiveram a maior e melhor frota de navios da marinha mercante da história mundial. Implementada em 1835, a Marinha Mercante Britânica sofreu perdas enormes na Primeira e Segunda Guerras Mundiais. Cerca de 15.000 marinheiros mercantes perderam suas vidas na Primeira, e incríveis 30 mil morreram na Segunda Guerra Mundial.</Text>
+			<Text>A {TXT_KEY_POLICY_MERCHANT_NAVY} é um grupo de navios mercantes que, em tempos de guerra, pode ser pressionado a servir como meio de transporte de mercadorias e suprimentos militares de uma nação, muitas vezes contando com a proteção da Marinha do país. Por muitos anos os ingleses mantiveram a maior e melhor frota de navios da marinha mercante da história mundial. Implementada em 1835, a Marinha Mercante Britânica sofreu perdas enormes na Primeira e Segunda Guerras Mundiais. Cerca de 15.000 marinheiros mercantes perderam suas vidas na Primeira, e incríveis 30 mil morreram na Segunda Guerra Mundial.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_MILITARISM_TEXT">
 			<Text>O militarismo é a política em que o estado requer um exército forte, e que as necessidades das forças armadas são fundamentais, superando todas as outras considerações. O poder do exército, marinha e força aérea é glorificado, e seus oficiais gozam de uma grande dose do poder político - às vezes todo ele. Estados militares podem ser expansionistas, mas isso não é uma exigência. A Cidade-Estado de Esparta foi talvez o estado mais militarista que o mundo já viu, mas o principal objetivo dos militares de Esparta era garantir que os escravos estatais não se revoltassem. Aventuras militares fora da Cidade foram realizadas com relutância, na melhor das hipóteses, por medo de que os escravos de Helot fossem aproveitar a ausência do Exército e tentassem derrubar seus senhores.</Text>
@@ -9459,7 +9459,7 @@
 			<Text>Uma bússola é um dispositivo que utiliza um imã, ou uma agulha magnetizada, para indicar a direção do norte "magnético". Apesar de o norte "magnético" não ser idêntico ao norte "real", eles são próximos o bastante para que ferramentas magnéticas sejam extremamente úteis para a navegação mundial. A primeira bússola foi inventada na China e Europa (aparentemente de forma independente) no século XXI. Bússolas permitiram aos navegantes monitorar e registrar com precisão a direção de suas embarcações nos oceanos, algo que antes era impossível durante dias e noites nublados. Eram úteis também aos viajantes atravessando desertos ou durante tempestades de neve ou sob as copas das árvores de selvas antigas.[NEWLINE][NEWLINE]Alguns exploradores modernos ainda carregam bússolas, mas hoje estes aparelhos são considerados um pouco antiquados ou ultrapassados, especialmente se comparados ao GPS, que podem indicar não só onde você está, mas fornece o local da cafeteria mais próxima, algo que nem a mais moderna bússola pode fazer.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
-			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Ancoradouro[ENDCOLOR], que cria rotas comerciais pelas águas, das cidades até a capital, produzindo [ICON_GOLD]Ouro.</Text>
+			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_HARBOR}[ENDCOLOR], que cria rotas comerciais pelas águas, das cidades até a capital, produzindo [ICON_GOLD]Ouro.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Eu acredito que a melhor coisa neste mundo não é onde estamos, mas sim a direção em que nos movemos..."[NEWLINE][TAB][TAB] - Oliver Wendell Holmes[NEWLINE][TAB]</Text>
@@ -9759,7 +9759,7 @@
 			<Text>Navegação é a ciência de encontrar caminhos através dos oceanos. Antigas embarcações raramente se distanciavam ao ponto de perderem a vista da linha costeira, o que fazia da navegação muito simples, porém limitada há poucos lugares, e também deixava os navios suscetíveis a encalhar ou bater em rochas, em razão dos ventos contrários. Há poucas coisas mais terríveis para um capitão (pré-motores a vapor) que estar com sua embarcação em um litoral contrário ao vento, isto é, sendo jogado diretamente contra as rochas por ventos muito fortes.[NEWLINE][NEWLINE]Antes da invenção dos satélites, rádios e radares, navios navegavam registrando seus movimentos em um mapa, ou "cálculo por bússola". Se alguém soubesse a velocidade e exata direção que estivesse se movendo, então seria possível ter uma boa ideia de onde estaria. Entretanto, após várias semanas no mar, qualquer minuto de erro na velocidade ou direção poderia se acumular em grandes enganos. Se alguém estivesse no meio do Pacífico, ficando sem água potável, navegando em direção a uma ilha situada há milhares de quilômetros em busca de uma fonte de água para reabastecimento, um pequeno erro de cálculo poderia facilmente levar a um fim não muito agradável.[NEWLINE][NEWLINE]Um capitão poderia olhar, de sua embarcação, para o céu a fim de ajudar na navegação. Se fosse um dia ensolarado, os capitães tinham instrumentos delicados que poderiam indicar o exato momento em que o sol alcançava seu pico (mais alto ponto) cima da embarcação. Se eles possuíssem também um relógio preciso, ajustado com o tempo correto, eles poderiam usar esta informação para determinar sua longitude exata (ou distância, leste ou oeste, do Meridiano de Greenwich, que corta a localidade de Greenwich, Inglaterra). Isto, claro, exigia um bom tempo, um relógio preciso e a habilidade de determinar o exato meio-dia dentro de uma embarcação que estaria balançando pelos efeitos das ondas. Em noites claras, os capitães frequentemente poderiam usar o aparecimento ou a retirada de certas estrelas para lhes dar informação similar.[NEWLINE][NEWLINE]Eventualmente, claro, a invenção do rádio, radar e satélites fez o processo inteiro muito mais fácil e seguro. Mas mesmo hoje, capitães rotineiramente encalham ou batem suas embarcações em pontes - e essas são embarcações com motores. Imagine a habilidade necessária para manter um barco à vela em seu curso correto.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_FRIGATE}[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]Porto[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção pelos seus recursos marítimos.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_FRIGATE}[ENDCOLOR], uma embarcação de guerra muito poderosa da Renascença. Também permite cidades costeiras construírem o [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_SEAPORT}[ENDCOLOR], que possibilita a geração de [ICON_PRODUCTION]Produção pelos seus recursos marítimos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Os ventos e as ondas estão sempre do lado dos mais habilidosos navegadores."[NEWLINE][TAB][TAB] - Edward Gibbon[NEWLINE][TAB]</Text>
@@ -9792,7 +9792,7 @@
 			<Text>Ótica é o estudo da luz e da visão. Os primeiros e mais importantes desafios óticos estavam centrados na tentativa de ajudar a percepção do olho humano - permitir que ele pudesse enxergar mais longe, ver pequenos objetos ou no escuro. As primeiras lentes foram desenvolvidas pelos antigos Egípcios e os Mesopotâmios. As mais antigas lentes, feitas de cristal polido, datam de 700 anos A.C. Os Gregos e Romanos criaram lentes rústicas, preenchendo esferas de vidro com água. Em "Óptica", Euclides de Alexandria descreveu as regras matemáticas da percepção e examinou a refração. No oitavo século d.C., estudantes Islâmicos aprenderam ótica em detalhes, escrevendo estudos em refração e na construção de lentes e espelhos.[NEWLINE][NEWLINE]Os primeiros óculos foram inventados na Itália no século XII, e o primeiro telescópio primitivo no século XV, assim como o primeiro microscópio. Embora não tão bons para os padrões de hoje, esses instrumentos expandiram enormemente a habilidade do Homem em compreender o mundo a sua volta e navegar pelos oceanos ainda não mapeados.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_OPTICS_HELP">
-			<Text>Permite o [COLOR_POSITIVE_TEXT]Embarque[ENDCOLOR] de unidades terrestres, possibilitando que elas viajem pelos oceanos. Também permite a construção do [COLOR_POSITIVE_TEXT]Farol[ENDCOLOR] em cidades costeiras, que melhora a produção de [ICON_FOOD]Alimento nos hexágonos aquáticos, acelerando seu crescimento.</Text>
+			<Text>Permite o [COLOR_POSITIVE_TEXT]Embarque[ENDCOLOR] de unidades terrestres, possibilitando que elas viajem pelos oceanos. Também permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_LIGHTHOUSE}[ENDCOLOR] em cidades costeiras, que melhora a produção de [ICON_FOOD]Alimento nos hexágonos aquáticos, acelerando seu crescimento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_OPTICS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Ele criou um instrumento para saber[NEWLINE][TAB][TAB]Se a luz brilha por inteiro ou não."[NEWLINE][TAB][TAB] - Samuel Butler[NEWLINE][TAB]</Text>
@@ -10770,7 +10770,7 @@
 			<Text>Como as unidades se movem?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_MOVEMENT_HEADING2_BODY">
-			<Text>Geralmente, unidades movem-se de um hexágono a outro, pagando o "Custo de Movimento" requerido para entrar naquele novo hexágono. Unidades estão sujeitas a limitações de pilhagem - duas unidades militares ou não militares não podem terminar o turno no mesmo hexágono, mas uma militar e outra não militar podem. A maioria das unidades é limitada pelos lugares que podem ir - unidades terrestres não podem entrar em hexágonos montanhosos e unidades navais não podem transitar por hexágonos terrestres (exceto nos Portos das cidades). Melhorias, como estradas e ferrovias aceleram a velocidade das unidades pelos hexágonos do mapa.[NEWLINE][NEWLINE]Dê uma olhada na seção "Movimento" para detalhes.</Text>
+			<Text>Geralmente, unidades movem-se de um hexágono a outro, pagando o "Custo de Movimento" requerido para entrar naquele novo hexágono. Unidades estão sujeitas a limitações de pilhagem - duas unidades militares ou não militares não podem terminar o turno no mesmo hexágono, mas uma militar e outra não militar podem. A maioria das unidades é limitada pelos lugares que podem ir - unidades terrestres não podem entrar em hexágonos montanhosos e unidades navais não podem transitar por hexágonos terrestres (exceto nos {TXT_KEY_BUILDING_SEAPORT[2]} das cidades). Melhorias, como estradas e ferrovias aceleram a velocidade das unidades pelos hexágonos do mapa.[NEWLINE][NEWLINE]Dê uma olhada na seção "Movimento" para detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITS_MOVEMENT_HEADING2_TITLE">
 			<Text>Movimento das Unidades</Text>
@@ -11073,10 +11073,10 @@
 			<Text>[NEWLINE][TAB][TAB]"As bibliotecas são como santuários onde todas as relíquias dos santos antigos, cheias da verdadeira virtude, sem ilusão ou falsidade são preservadas e repousam."[NEWLINE][TAB][TAB] - Sir Francis Bacon[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREATLIGHTHOUSE_DESC">
-			<Text>O Grande Farol, também conhecido como "the Pharos"(o Farol), era uma torre de observação e farol de Mármore construído em 280 a.C. em uma ilha no porto de Alexandria, Egito. Estima-se que tinha 300 pés de altura, a função primaria do farol era guiar a aproximação das embarcações no porto por rotas não demarcadas. Exatamente como o farol funcionava ainda é um debate, com alguns historiadores defendendo que, fogo era queimado no topo da torre, enquanto outros defendem que espelhos eram usados para refletir a luz do sol. (Como navios raramente navegavam próximo à costa de noite, provavelmente houve pouca necessidade de um farol após escurecer.) O Farol foi destruído no século XIV após ser danificado por terremotos.</Text>
+			<Text>{TXT_KEY_BUILDING_GREAT_LIGHTHOUSE}, também conhecido como "the Pharos"(o Farol), era uma torre de observação e farol de Mármore construído em 280 a.C. em uma ilha no porto de Alexandria, Egito. Estima-se que tinha 300 pés de altura, a função primaria do farol era guiar a aproximação das embarcações no porto por rotas não demarcadas. Exatamente como o farol funcionava ainda é um debate, com alguns historiadores defendendo que, fogo era queimado no topo da torre, enquanto outros defendem que espelhos eram usados para refletir a luz do sol. (Como navios raramente navegavam próximo à costa de noite, provavelmente houve pouca necessidade de um farol após escurecer.) O Farol foi destruído no século XIV após ser danificado por terremotos.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREATLIGHTHOUSE_HEADING">
-			<Text>O Grande Farol</Text>
+			<Text>{TXT_KEY_BUILDING_GREAT_LIGHTHOUSE}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREATLIGHTHOUSE_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Desceram ao mar em seus navios, para negociar na imensidão das águas. Estes viram as obras do Senhor e suas maravilhas no oceano."[NEWLINE][TAB][TAB] - A Bíblia, Salmos 107:23-24[NEWLINE][TAB]</Text>
@@ -11460,7 +11460,7 @@
 			<Text>Como funcionam as Rotas Comerciais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TRADEROUTES_HEADING3_BODY">
-			<Text>Se há um caminho entre o capital e outra de suas cidades, as cidades têm uma "Rota Comercial." As Rotas Comerciais dão um bônus de ouro para a civilização a cada turno, a quantidade depende do tamanho das cidades envolvidas. (Portos também pode criar Rotas Comercias entre as cidades costeiras.) Consulte a seção sobre Rota Comercial para mais detalhes.</Text>
+			<Text>Se há um caminho entre o capital e outra de suas cidades, as cidades têm uma "Rota Comercial." As Rotas Comerciais dão um bônus de ouro para a civilização a cada turno, a quantidade depende do tamanho das cidades envolvidas. ({TXT_KEY_BUILDING_SEAPORT[2]} também podem criar Rotas Comercias entre as cidades costeiras.) Consulte a seção sobre Rota Comercial para mais detalhes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WORKERS_TRADEROUTES_HEADING3_TITLE">
 			<Text>Estradas e Rotas de Comerciais</Text>

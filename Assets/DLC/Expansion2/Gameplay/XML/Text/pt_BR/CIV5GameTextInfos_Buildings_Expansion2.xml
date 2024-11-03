@@ -98,15 +98,17 @@
         <Row Tag="TXT_KEY_BUILDING_HOTEL">
             <Text>Hotel|Hotéis</Text>
             <Gender>masculine</Gender>
-			<Plurality>1|2</Plurality>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_CARAVANSARY">
-            <Text>Caravançarai</Text>
+            <Text>Caravançarai|Caravançarais</Text>
             <Gender>masculine</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_AIRPORT">
-            <Text>Aeroporto</Text>
+            <Text>Aeroporto|Aeroportos</Text>
             <Gender>masculine</Gender>
+            <Plurality>1|2</Plurality>
         </Row>
         <!-- Replacement building for theatre -->
         <Row Tag="TXT_KEY_BUILDING_THEATRE">
