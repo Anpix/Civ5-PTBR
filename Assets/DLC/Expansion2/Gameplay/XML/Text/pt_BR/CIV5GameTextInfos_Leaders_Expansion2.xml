@@ -27,7 +27,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_MARIA_I">
 			<Text>Maria I</Text>
-      		<Gender>feminine</Gender>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_PEDRO">
 			<Text>Dom Pedro II</Text>

@@ -2,7 +2,7 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
 <!--Sid Meier's Civilization V -->
 <!--Copyright Firaxis Games 2010 -->
-<!--File created by Paul Murphy-->
+<!--File created by Paul Murphy -->
 <GameData>
 	<Language_pt_BR>
 		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT">
@@ -62,7 +62,6 @@
 		<Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
 			<Text>Você saqueou {1_Num} de [ICON_GOLD]Ouro e {2_Num} de [ICON_CULTURE]Cultura pela captura {@3: gender *:noart?de; feminine?{@3: plural 2?das; other?da;}; masculine?{@3: plural 2?dos; other?do;}; other?de;} {@3_CityName}!!!</Text>
 		</Row>
-
 		<!-- Faith Info -->
 		<Row Tag="TXT_KEY_BUILD_CULTURE_STRING">
 			<Text>{1_Num}[ENDCOLOR] [ICON_CULTURE]Cultura</Text>

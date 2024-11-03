@@ -93,12 +93,12 @@
         </Row>
         <Row Tag="TXT_KEY_BUILDING_SHRINE">
             <Text>Santuário|Santuários</Text>
-            <Gender>masculine|masculine</Gender>
+            <Gender>masculine</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
             <Text>Centro de Reciclagem|Centros de Reciclagens</Text>
-            <Gender>masculine|masculine</Gender>
+            <Gender>masculine</Gender>
             <Plurality>1|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">

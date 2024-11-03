@@ -99,7 +99,7 @@
         <Row Tag="TXT_KEY_CANNOT_PURCHASE_NO_FAITH">
             <Text>[NEWLINE]Você não possui [ICON_PEACE]Fé suficiente para comprar isso.</Text>
         </Row>
-        <!-- Cidades-Estado -->
+        <!-- City-States-->
         <Row Tag="TXT_KEY_POPUP_MINOR_GIFT_TILE_IMPROVEMENT">
             <Text>{1_NumGold} de [ICON_GOLD]Ouro - Melhorar o Recurso</Text>
         </Row>

@@ -59,17 +59,17 @@
 		<Row Tag="TXT_KEY_UNIT_HUN_BATTERING_RAM">
 			<Text>Aríete|Aríetes</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_AUSTRIAN_HUSSAR">
 			<Text>Hussardo|Hussardos</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MEHAL_SEFARI">
 			<Text>Mehal Sefari|Mehal Sefaris</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SWEDISH_CAROLEAN">
 			<Text>Carolino|Carolinos</Text>
@@ -84,36 +84,36 @@
 		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN">
 			<Text>Arqueiro de Arco Composto|Arqueiros de Arcos Compostos</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GATLINGGUN">
 			<Text>Metralhadora Gatling|Metralhadoras Gatling</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GALLEASS">
 			<Text>Galeaça|Galeaças</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY">
 			<Text>Infante|Infantes</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_MARINE">
 			<Text>Fuzileiro Naval|Fuzileiros Navais</Text>
 			<Gender>masculine|masculine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_TRIPLANE">
 			<Text>Triplano|Triplanos</Text>
-			<Gender>masculine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER">
 			<Text>Bombardeiro Voisin|Bombardeiros Voisin</Text>
-			<Gender>masculine</Gender>
+			<Gender>masculine|masculine</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_WWI_TANK">
@@ -124,7 +124,7 @@
 		<Row Tag="TXT_KEY_UNIT_MACHINE_GUN">
 			<Text>Metralhadora Pesada|Metralhadoras Pesadas</Text>
 			<Gender>feminine|feminine</Gender>
-			<Plurality>1|2</Plurality>			
+			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PRIVATEER">
 			<Text>Corsário|Corsários</Text>
@@ -159,11 +159,11 @@
 			<Gender>masculine:human</Gender>
 			<Plurality>1|2</Plurality>
 		</Row>
-	<!-- Great Admirals -->	
+		<!-- Great Admirals -->
 		<Row Tag="TXT_KEY_GREAT_PERSON_MATTHEW_PERRY">
 			<Text>Matthew Perry</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_FARRAGUT">
 			<Text>David Farragut</Text>
@@ -516,8 +516,8 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_JAKOB_FUGGER">
 			<Text>Jakob Fugger</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
-		</Row>		
+			<Plurality>1</Plurality>
+		</Row>
 		<!-- GREAT ENGINEERS -->
 		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_BENZ">
 			<Text>Carl Benz</Text>
@@ -593,7 +593,7 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_HANNIBAL">
 			<Text>Aníbal</Text>
 			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>		
 	</Language_pt_BR>
 </GameData>

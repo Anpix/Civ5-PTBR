@@ -14,37 +14,37 @@
         <Row Tag="TXT_KEY_CIV_AUSTRIA_SHORT_DESC">
             <Text>Áustria</Text>
             <Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
 		<Row Tag="TXT_KEY_CIV_BYZANTIUM_ADJECTIVE">
             <Text>Bizantino|Bizantina|Bizantinos|Bizantinas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_BYZANTIUM_DESC">
             <Text>Império Bizantino</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_BYZANTIUM_SHORT_DESC">
             <Text>Bizâncio</Text>
             <Gender>neuter</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
 		<Row Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE">
             <Text>Cartaginês|Cartaginesa|Cartagineses|Cartaginesas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CARTHAGE_DESC">
             <Text>Império Cartaginês</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC">
             <Text>Cartago</Text>
             <Gender>neuter</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">
             <Text>Celta|Celtas</Text>
@@ -69,22 +69,22 @@
         <Row Tag="TXT_KEY_CIV_ETHIOPIA_DESC">
             <Text>Império Etíope</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+            <Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC">
             <Text>Etiópia</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+            <Gender>feminine</Gender>
+            <Plurality>1</Plurality>
         </Row>
 		<Row Tag="TXT_KEY_CIV_HUNS_ADJECTIVE">
             <Text>Huno|Huna|Hunos|Hunas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_HUNS_DESC">
             <Text>Império Huno</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_HUNS_SHORT_DESC">
             <Text>Hunos</Text>
@@ -99,7 +99,7 @@
         <Row Tag="TXT_KEY_CIV_MAYA_DESC">
             <Text>Império Maia</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_MAYA_SHORT_DESC">
             <Text>Maias</Text>
@@ -109,47 +109,47 @@
 		<Row Tag="TXT_KEY_CIV_NETHERLANDS_ADJECTIVE">
             <Text>Holandês|Holandesa|Holandeses|Holandesas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_NETHERLANDS_DESC">
             <Text>Império Holandês</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_NETHERLANDS_SHORT_DESC">
             <Text>Holanda</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
 		<Row Tag="TXT_KEY_CIV_SPAIN_ADJECTIVE">
 			<Text>Espanhol|Espanhola|Espanhóis|Espanholas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_SPAIN_DESC">
 			<Text>Império Espanhol</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_SPAIN_SHORT_DESC">
 			<Text>Espanha</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_SWEDEN_ADJECTIVE">
             <Text>Sueco|Sueca|Suecos|Suecas</Text>
 			<Gender>masculine|feminine|masculine|feminine</Gender>
-			<Plurality>1|1|2|2</Plurality>			
+			<Plurality>1|1|2|2</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SWEDEN_DESC">
             <Text>Império Sueco</Text>
             <Gender>masculine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
         <Row Tag="TXT_KEY_CIV_SWEDEN_SHORT_DESC">
             <Text>Suécia</Text>
 			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>			
+			<Plurality>1</Plurality>
         </Row>
     </Language_pt_BR>
 </GameData>

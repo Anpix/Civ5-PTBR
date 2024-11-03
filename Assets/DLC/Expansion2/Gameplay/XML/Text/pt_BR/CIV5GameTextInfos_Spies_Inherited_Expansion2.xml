@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
 <GameData>
-	<Language_pt_BR>
-
+  <Language_pt_BR>
     <!-- America - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_AMERICA_0">
       <Text>Cousin</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AMERICA_1">
       <Text>Felix</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AMERICA_2">
       <Text>Dennis</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AMERICA_3">
       <Text>Edward</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AMERICA_4">
       <Text>Prof. Rex</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AMERICA_5">
       <Text>Eliza</Text>
-		<Gender>feminine</Gender>
+      <Gender>feminine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AMERICA_6">
       <Text>Mary</Text>
@@ -47,35 +46,35 @@
     <!-- Arabia - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_0">
       <Text>Solhofaat</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_1">
       <Text>Khenzeer</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_2">
       <Text>Zarafah</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_3">
       <Text>Temsaah</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_4">
       <Text>Abyadh</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_5">
       <Text>Mostafa</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_6">
       <Text>Yusuf</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_7">
       <Text>Waddah</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_8">
       <Text>Sameera</Text>
@@ -83,7 +82,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ARABIA_9">
       <Text>Gamal</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- Aztec - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_0">
@@ -96,11 +95,11 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_2">
       <Text>Chimalli</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_3">
       <Text>Quauhtli</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_4">
       <Text>Teyacapan</Text>
@@ -108,19 +107,19 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_5">
       <Text>Yaotl</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_6">
       <Text>Coatl</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_7">
       <Text>Huitzilin</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_8">
       <Text>Itzli</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_AZTEC_9">
       <Text>Tepin</Text>
@@ -129,23 +128,23 @@
     <!-- China - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_CHINA_0">
       <Text>Li</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_CHINA_1">
       <Text>Chen</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_CHINA_2">
       <Text>Zhang</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_CHINA_3">
       <Text>Liu</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_CHINA_4">
       <Text>Yang</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_CHINA_5">
       <Text>Huang</Text>
@@ -170,23 +169,23 @@
     <!-- Egypt - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_EGYPT_0">
       <Text>Refaat</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_EGYPT_1">
       <Text>Heba</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_EGYPT_2">
       <Text>Salah</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_EGYPT_3">
       <Text>Ahmed</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_EGYPT_4">
       <Text>Zakaria</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_EGYPT_5">
       <Text>Bastet</Text>
@@ -211,7 +210,7 @@
     <!-- England - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_0">
       <Text>James</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_1">
       <Text>Scarlett</Text>
@@ -219,7 +218,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_2">
       <Text>Mycroft</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_3">
       <Text>Charlotte</Text>
@@ -231,19 +230,19 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_5">
       <Text>Mr. Eks</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_6">
       <Text>Dr. Grey</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_7">
       <Text>Andrew</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_8">
       <Text>Scott</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_9">
       <Text>Anne</Text>
@@ -252,7 +251,7 @@
     <!-- France - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_0">
       <Text>Jean-Paul</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_1">
       <Text>Martine</Text>
@@ -260,11 +259,11 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_2">
       <Text>Lucien</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_3">
       <Text>François</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_4">
       <Text>Augustine</Text>
@@ -272,15 +271,15 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_5">
       <Text>Monsieur X</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_6">
       <Text>Dr. Dupont</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_7">
       <Text>Vipère</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_8">
       <Text>Yvette</Text>
@@ -288,12 +287,12 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_FRANCE_9">
       <Text>Renard</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- Germany - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_0">
       <Text>Johann</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_1">
       <Text>Marlene</Text>
@@ -301,7 +300,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_2">
       <Text>Wilhelm</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_3">
       <Text>Eva</Text>
@@ -309,32 +308,32 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_4">
       <Text>Heinz</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_5">
       <Text>Horst</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_6">
       <Text>Carl</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_7">
       <Text>Viper</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_8">
       <Text>Albrecht</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GERMANY_9">
       <Text>Anton</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- Greece - flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_0">
       <Text>Jason</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_1">
       <Text>Helena</Text>
@@ -346,7 +345,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_3">
       <Text>Cletus</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_4">
       <Text>Kassandra</Text>
@@ -354,7 +353,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_5">
       <Text>Andres</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_6">
       <Text>Desdemona</Text>
@@ -366,32 +365,32 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_8">
       <Text>Aeneas</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_GREECE_9">
       <Text>Leander</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- India - flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_INDIA_0">
       <Text>Ashok</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INDIA_1">
       <Text>Shanx</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INDIA_2">
       <Text>Hormis</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INDIA_3">
       <Text>Sanjeev</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INDIA_4">
       <Text>Ananda</Text>
-		<Gender>feminine</Gender>
+      <Gender>feminine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INDIA_5">
       <Text>Rani</Text>
@@ -428,7 +427,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_3">
       <Text>Otetiani</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_4">
       <Text>Genesee</Text>
@@ -436,11 +435,11 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_5">
       <Text>Dadgayadoh</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_6">
       <Text>Otwtiani</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_7">
       <Text>Kateri</Text>
@@ -448,32 +447,32 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_8">
       <Text>Onondakai</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_9">
       <Text>Honanyawus</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- Japan -->
     <Row Tag="TXT_KEY_SPY_NAME_JAPAN_0">
       <Text>Akaishi</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_JAPAN_1">
       <Text>Oki</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_JAPAN_2">
       <Text>Hattori</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_JAPAN_3">
       <Text>Morozumi</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_JAPAN_4">
       <Text>Momochi</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_JAPAN_5">
       <Text>Kawashima</Text>
@@ -498,23 +497,23 @@
     <!-- Ottoman - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_0">
       <Text>Ibrahim</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_1">
       <Text>Bayezid</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_2">
       <Text>Sokollu</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_3">
       <Text>Mahmut</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_4">
       <Text>Uveys</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_5">
       <Text>Roxelana</Text>
@@ -539,23 +538,23 @@
     <!-- Persia - flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_PERSIA_0">
       <Text>Azi</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_PERSIA_1">
       <Text>Dabir</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_PERSIA_2">
       <Text>Firuz</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_PERSIA_3">
       <Text>Gaspar</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_PERSIA_4">
       <Text>Shahzad</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_PERSIA_5">
       <Text>Aga</Text>
@@ -580,7 +579,7 @@
     <!-- Rome - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_ROME_0">
       <Text>Flavius</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_1">
       <Text>Regula</Text>
@@ -588,7 +587,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_2">
       <Text>Servius</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_3">
       <Text>Lucia</Text>
@@ -596,7 +595,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_4">
       <Text>Cornelius</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_5">
       <Text>Licina</Text>
@@ -604,11 +603,11 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_6">
       <Text>Canus</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_7">
       <Text>Serpens</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_8">
       <Text>Agrippa</Text>
@@ -616,12 +615,12 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ROME_9">
       <Text>Brutus</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- Russia - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_0">
       <Text>Alexei</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_1">
       <Text>Lena</Text>
@@ -629,7 +628,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_2">
       <Text>Dmitry</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_3">
       <Text>Anastasia</Text>
@@ -641,15 +640,15 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_5">
       <Text>Boris</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_6">
       <Text>Doktor Seriy</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_7">
       <Text>Mikhail</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_8">
       <Text>Natacha</Text>
@@ -657,28 +656,28 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_RUSSIA_9">
       <Text>Zmeya</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- Siam - flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_SIAM_0">
       <Text>Aran</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SIAM_1">
       <Text>Chanarong</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SIAM_2">
       <Text>Kiet</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SIAM_3">
       <Text>Niran</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SIAM_4">
       <Text>Virote</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SIAM_5">
       <Text>Kulap</Text>
@@ -703,23 +702,23 @@
     <!-- Songhai - flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_SONGHAI_0">
       <Text>Ahmadou</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SONGHAI_1">
       <Text>Ayub</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SONGHAI_2">
       <Text>Badru</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SONGHAI_3">
       <Text>Bokhari</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SONGHAI_4">
       <Text>Guedado</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SONGHAI_5">
       <Text>Adhiambo</Text>
@@ -744,23 +743,23 @@
     
     <Row Tag="TXT_KEY_SPY_NAME_BABYLON_0">
       <Text>Rim-Sin II</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_BABYLON_1">
       <Text>Smerdis</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_BABYLON_2">
       <Text>Ilum-ma-ili</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_BABYLON_3">
       <Text>Peshgaldaramesh</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_BABYLON_4">
       <Text>Ur-zigurumaš</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_BABYLON_5">
       <Text>Semiramis</Text>
@@ -785,7 +784,7 @@
 
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_0">
       <Text>Jørgen</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_1">
       <Text>Mette</Text>
@@ -793,11 +792,11 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_2">
       <Text>Henrik</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_3">
       <Text>Niels</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_4">
       <Text>Helle</Text>
@@ -805,7 +804,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_5">
       <Text>Frederik</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_6">
       <Text>Ida</Text>
@@ -821,28 +820,28 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_DENMARK_9">
       <Text>Morten</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
 
     <Row Tag="TXT_KEY_SPY_NAME_INCA_0">
       <Text>Amaru</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INCA_1">
       <Text>Apichu</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INCA_2">
       <Text>Pariapichiu</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INCA_3">
       <Text>Puma</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INCA_4">
       <Text>Quenti</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_INCA_5">
       <Text>Suyuntu</Text>
@@ -867,23 +866,23 @@
 
     <Row Tag="TXT_KEY_SPY_NAME_KOREA_0">
       <Text>Kim</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_KOREA_1">
       <Text>Park</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_KOREA_2">
       <Text>Han</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_KOREA_3">
       <Text>Na</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_KOREA_4">
       <Text>Kong</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_KOREA_5">
       <Text>Yu</Text>
@@ -908,23 +907,23 @@
 
     <Row Tag="TXT_KEY_SPY_NAME_MONGOL_0">
       <Text>Asashōryū</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_MONGOL_1">
       <Text>Tömöriin</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_MONGOL_2">
       <Text>Zevegiin</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_MONGOL_3">
       <Text>Jigjidiin</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_MONGOL_4">
       <Text>Enkhbat</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_MONGOL_5">
       <Text>Mönkhbayar</Text>
@@ -949,27 +948,27 @@
 
     <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_0">
       <Text>Tiki</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_1">
       <Text>Hotu Matua</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_2">
       <Text>Rongo-ma-tane</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_3">
       <Text>Kupe</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_4">
       <Text>Haloti</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_5">
       <Text>Degei</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_6">
       <Text>Babamik</Text>
@@ -990,7 +989,7 @@
 
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_0">
       <Text>Rodrigo</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_1">
       <Text>Esmeralda</Text>
@@ -998,7 +997,7 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_2">
       <Text>Leon</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_3">
       <Text>Mathilda</Text>
@@ -1010,44 +1009,44 @@
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_5">
       <Text>Señor X</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_6">
       <Text>Topolino</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_7">
       <Text>Serpiente</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_8">
       <Text>Garcia</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SPAIN_9">
       <Text>El Lobo</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <!-- Ethiopia - Flavoured -->
     <Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_0">
       <Text>Mulu Ken</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_1">
       <Text>Wendimu</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_2">
       <Text>Li'ol</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_3">
       <Text>Demeke</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_4">
       <Text>Mulu Alem</Text>
-		<Gender>masculine</Gender>
+      <Gender>masculine</Gender>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_5">
       <Text>Abebech</Text>
@@ -1069,5 +1068,5 @@
       <Text>Alemnesh</Text>
       <Gender>feminine</Gender>
     </Row>
-	</Language_pt_BR>
+  </Language_pt_BR>
 </GameData>

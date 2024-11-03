@@ -309,7 +309,7 @@
 			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} ou até que ataque ou fique adjacente à outra unidade. Pode carregar 2 Mísseis e é especializado em atacar outras unidades navais.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
-			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} ou até que ataque ou fique adjacente à outra unidade. Pode causar danos maiores a outras embarcações quando entram no campo de alcance do {TXT_KEY_UNIT_SUBMARINE} sem que este seja detectado.</Text>
+			<Text>Invisível a todas as unidades, exceto aos {TXT_KEY_UNIT_DESTROYER[2]}, {TXT_KEY_UNIT_MISSILE_CRUISER[2]} e a outros {TXT_KEY_INVISIBLE_SUBMARINE} ou até que ataque ou fique adjacente à outra unidade. Pode causar grandes danos a outras embarcações quando entram no campo de alcance do {TXT_KEY_UNIT_SUBMARINE} sem que este seja detectado.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_MECH">
 			<Text>Não se beneficia de nenhum bônus defensivo fornecido pelo terreno, mas é a unidade militar mais forte de todo o jogo.</Text>			
@@ -906,7 +906,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_ADVISOR_QUESTION">
 			<Text>Como atrasar o progresso de um espião inimigo?</Text>
-		</Row>		
+		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC">
 			<Text>Detectando um Espião</Text>
 		</Row>
@@ -1587,7 +1587,7 @@
 			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável).[NEWLINE][NEWLINE]Rendimento: nenhum[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_HEADING3_BODY">
-			<Text>Geralmente, {TXT_KEY_TERRAIN_GRASS[2]} produzem mais alimento que qualquer outro tipo de terreno. Cidades construídas próximas às {TXT_KEY_TERRAIN_GRASS[2]} tendem a crescer mais rapidamente que as constrídas em outros lugares.[NEWLINE][NEWLINE]Rendimento: 2 de alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
+			<Text>Geralmente, {TXT_KEY_TERRAIN_GRASS[2]} produzem mais alimento que qualquer outro tipo de terreno. Cidades construídas próximas às {TXT_KEY_TERRAIN_GRASS[2]} tendem a crescer mais rapidamente que as construídas em outros lugares.[NEWLINE][NEWLINE]Rendimento: 2 de alimento[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_BODY">
 			<Text>{TXT_KEY_TERRAIN_PLAINS[2]} fornecem uma mistura de alimento e produção para uma cidade próxima. Uma cidade cercada de {TXT_KEY_TERRAIN_PLAINS[2]} crescerá mais lentamente que uma na {TXT_KEY_TERRAIN_GRASS}, mas será bem mais produtiva.[NEWLINE][NEWLINE]Rendimento: 1 de Alimento, 1 de Produção[NEWLINE]Custo de Movimento: 1[NEWLINE]Modificador de Combate: 0%</Text>
@@ -1665,10 +1665,10 @@
 			<Text>O dono de uma cidade pode estacionar uma unidade militar dentro da cidade para apoiar sua defesa. Parte da força de combate da unidade alojada é adicionada à força da cidade. A unidade alojada não receberá dano quando a cidade for atacada. Entretanto, se a cidade for capturada, a unidade será destruída.[NEWLINE][NEWLINE]Uma unidade alojada pode atacar unidades inimigas próximas sem que a cidade perca o bônus de alojamento.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
-		  <Text>Recuar Antes de Ataque Corpo a Corpo</Text>
+			<Text>Recuar Antes de Ataque Corpo a Corpo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
-		  <Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
+			<Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
 		</Row>
 	</Language_pt_BR>
 </GameData>

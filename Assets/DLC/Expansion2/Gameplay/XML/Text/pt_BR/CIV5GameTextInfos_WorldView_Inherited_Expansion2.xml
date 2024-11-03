@@ -124,12 +124,12 @@
 		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_IGG">
 			<Text>Ignora Grande General</Text>
-		</Row>		
+		</Row>
 		<Row Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE">
 			<Text>[COLOR_CYAN]Chance de Captura se afundar: {1_Percent}%[ENDCOLOR]</Text>
-		</Row>		
+		</Row>
 		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
 			<Text>Enquanto estiver em uma [ICON_GOLDEN_AGE]Era Dourada, todo hexágono em seu Império que produz ao menos 1 de [ICON_GOLD]Ouro produzirá 1 extra. Cidades ganham +20% de [ICON_PRODUCTION]Produção.</Text>
-		</Row>		
+		</Row>
 	</Language_pt_BR>
 </GameData>

@@ -350,7 +350,7 @@
 			<Text>The Gatling gun, forerunner to the machine gun, was invented in 1861 AD by the American Dr. Richard Gatling in the hope of reducing the size of armies and displaying how futile war is. Operation of a Gatling gun involved a revolving multi-barrel design, in which a hand crank turned the mechanism. As each barrel cycled, the spent cartridge was ejected, a new one loaded, and the muzzle barrel cooled. In this manner, a high rate of fire could be maintained without overheating. What the Gatling gun lacked in accuracy was made up for by its lethality.[NEWLINE][NEWLINE]Although not officially adopted by the United States Army until 1866, it was used for the first time in combat during the American Civil War by Union forces. It next saw use during the Peru-Chile War of the Pacific (1879-1883), which convinced European armies of its utility against massed enemies. Within a decade, the Gatling gun was adopted by most of the major powers; it was used most effectively to expand their colonial empires against the likes of the Ndebele, Zulu, Bedouins, Turkmen, Boxers, and other native peoples. In the first decade of the 1900s, designs for gas-operated "machine" guns made the weapon obsolete; the U.S. Army withdrew all models of the Gatling gun from service in 1911, followed soon after by the European armies.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GALLEASS_TEXT">
-			<Text>The {TXT_KEY_UNIT_GALLEASS} was a class of naval warship that grew in popularity during the 16th century, when designs based on the traditional galley were modified to include heavier armaments. A typical {TXT_KEY_UNIT_GALLEASS} began life as a merchant ship powered by oars, which was then upgraded to include masts for sails. With two forms of propulsion available, the {TXT_KEY_UNIT_GALLEASS} design allowed the ship to maintain much of the traditional galley's renowned speed, while also carrying heavy guns to fend off would-be attackers.</Text>
+			<Text>The {TXT_KEY_UNIT_GALLEASS} was a class of naval warship that grew in popularity during the 16th century, when designs based on the traditional {TXT_KEY_UNIT_GALLEY} were modified to include heavier armaments. A typical {TXT_KEY_UNIT_GALLEASS} began life as a merchant ship powered by oars, which was then upgraded to include masts for sails. With two forms of propulsion available, the {TXT_KEY_UNIT_GALLEASS} design allowed the ship to maintain much of the traditional galley's renowned speed, while also carrying heavy guns to fend off would-be attackers.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_GREAT_WAR_INFANTRY_TEXT">
 			<Text>As the 20th century opened, the world experienced two of the deadliest and most destructive wars in human history. It was a time of remarkable advancement in the technology of killing, and the infantrymen of World War I faced every conceivable terror the world's scientists and engineers could throw at them. Typically armed with little more than a bolt-action rifle and a simple uniform, these troops braved the horrors of trench warfare to defend their homes and families.</Text>
@@ -607,7 +607,7 @@
 			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]Escola Pública[ENDCOLOR], que aumenta a [ICON_RESEARCH]Ciência nas Cidades.</Text>			
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
-			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_COMPOSITE_BOWMAN}[ENDCOLOR], uma poderosa unidade de ataque a distância, e a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_COLOSSEUM}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_LUMBERMILL[2]}[ENDCOLOR] em hexágonos com {TXT_KEY_FEATURE_FOREST}, aumentando a sua [ICON_PRODUCTION]Produção.</Text>
+			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_COMPOSITE_BOWMAN}[ENDCOLOR], uma poderosa unidade de ataque a distância, e a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_COLOSSEUM}[ENDCOLOR], que aumenta a [ICON_HAPPINESS_1]Felicidade no Império que, por sua vez, ajuda a sua cidade a crescer e iniciar a [ICON_GOLDEN_AGE]Era Dourada mais rapidamente. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_LUMBERMILL[2]}[ENDCOLOR] em hexágonos com {TXT_KEY_FEATURE_FOREST[2]}, aumentando a sua [ICON_PRODUCTION]Produção.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Templo[ENDCOLOR], que aumenta a produção de [ICON_PEACE]Fé de uma cidade.</Text>
@@ -625,7 +625,7 @@
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CHARIOT_ARCHER}[ENDCOLOR], uma unidade de ataque a distância rápida e poderosa que requer [ICON_RES_HORSE]Cavalos. Também permite a construção do [COLOR_POSITIVE_TEXT]Moinho d'Água[ENDCOLOR], que dão à sua cidade um impulso no [ICON_FOOD]Alimento e [ICON_PRODUCTION]Produção, se ela estiver ao lado de um rio. Além disso, permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Estradas[ENDCOLOR] que possibilitam unidades se moverem mais rapidamente pelo mapa e fornecem [ICON_GOLD]Ouro extra quando você conecta cidades à sua [ICON_CAPITAL]Capital.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
-			<Text>Permite aconstrução de vários edifícos que impulsionam a produção de [ICON_GOLD]Ouro, como o  [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
+			<Text>Permite a construção de vários edifícios que impulsionam a produção de [ICON_GOLD]Ouro, como o  [COLOR_POSITIVE_TEXT]Casa da Moeda[ENDCOLOR] e o [COLOR_POSITIVE_TEXT]Mercado[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_HELP">
 			<Text>Permite a construção de [COLOR_POSITIVE_TEXT]Aquedutos[ENDCOLOR], aumentando o [ICON_FOOD]Alimento que pode ser mantido quando sua cidade cresce. Também permite que Trabalhadores construam [COLOR_POSITIVE_TEXT]Fortes[ENDCOLOR], aumentando a defesa da unidade ali estacionada. Além disso, pontes são automaticamente construídas sobre os rios onde há estradas, permitindo que as unidades os atravesse sem se atrasarem.</Text>
@@ -640,7 +640,7 @@
 			<Text>Permite o treinamento do [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_LONGSWORDSMAN}[ENDCOLOR], uma unidade medieval de ataque corpo a corpo mortífera. Também permite a construção do [COLOR_POSITIVE_TEXT]Depósito de Armas[ENDCOLOR], que fornece a todas as unidades um impulso na experiência.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARAVEL}[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_OBSERVATORY}[ENDCOLOR], que fornece um significante impulso na [ICON_RESEARCH]Ciência. Também permite que unidades terrestres embarquem e cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
+			<Text>Permite a construção da [COLOR_POSITIVE_TEXT]{TXT_KEY_UNIT_CARAVEL}[ENDCOLOR], a primeira unidade naval capaz de explorar os {TXT_KEY_TERRAIN_OCEAN[2]}, e do [COLOR_POSITIVE_TEXT]{TXT_KEY_BUILDING_OBSERVATORY}[ENDCOLOR], que fornece um significativo impulso na [ICON_RESEARCH]Ciência. Também permite que unidades terrestres embarcadas cruzem os {TXT_KEY_TERRAIN_OCEAN[2]}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_HELP">
 			<Text>Permite a construção do [COLOR_POSITIVE_TEXT]Banco[ENDCOLOR], uma edificação que aumenta o [ICON_GOLD]Ouro produzido pela cidade, além da [COLOR_POSITIVE_TEXT]Guarda Policial[ENDCOLOR], que obstrui a habilidade espiã de roubar sua tecnologia.</Text>
@@ -800,6 +800,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TEXT">
 			<Text>Em geral, os hexágonos de {TXT_KEY_TERRAIN_DESERT} são extraordinariamente inúteis. Eles não fornecem benefícios para as cidades (a menos que o {TXT_KEY_TERRAIN_DESERT} contenha um oásis ou recursos, é claro, ou tenha acesso à água potável)</Text>
+		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
 			<Text>As unidades montadas {TXT_KEY_UNIT_CAVALRY} são devastadoras contra unidades corpo a corpo, artilharia e armas de cerco. Use-as para destruir {TXT_KEY_UNIT_MUSKETMAN[2]} e então quebrar as linhas inimigas com sua habilidade de se mover depois de atacar.</Text>
 		</Row>
