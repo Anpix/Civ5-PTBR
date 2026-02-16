@@ -523,7 +523,7 @@
 			<Text>Uma unidade naval de ataque corpo a corpo muito poderosa, o {TXT_KEY_UNIT_IRONCLAD} paga o preço por ser muito forte: é mais lento no {TXT_KEY_TERRAIN_OCEAN}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
-			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} e {TXT_KEY_UNIT_MODERN_ARMOR[2]}. É capaz de pairar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas recebe dano se terminar o turno sobre uma.</Text>		
+			<Text>Unidade especializada em combater {TXT_KEY_UNIT_TANK[2]} e {TXT_KEY_UNIT_MODERN_ARMOR[2]}. É capaz de pairar sobre {TXT_KEY_TERRAIN_MOUNTAIN[2]}, mas recebe dano se terminar o turno sobre uma.</Text>
 		</Row>
 		<!--PROMOTIONS-->
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP">
@@ -923,273 +923,273 @@
 			<Text>A unidade irá recuar quando for sofrer um ataque corpo a corpo. A chance de recuo diminui contra unidades inimigas rápidas ou se houver hexágonos vazios limitados atrás da unidade.</Text>
 		</Row>
 		<!-- New Concepts and Advisor messages-->
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC">
-				<Text>Espiões</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_SUMMARY">
-				<Text>Você ganhará seu primeiro espião quando alguma civilização do jogo entrar na Renascença. Espiões podem ser enviados a uma cidade em outra civilização com o objetivo de roubar tecnologia e colher informações. Você também pode enviar um espião a uma de suas cidades para descobrir, eliminar ou diminuir as ações de um espião inimigo. Para designar o seu primeiro espião, escolha a opção "Espionagem" no botão "Informação Adicional".</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_ADVISOR_QUESTION">
-				<Text>O que é um espião?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC">
-				<Text>Movendo Espiões</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_SUMMARY">
-				<Text>Para mover um espião, abra a tela "Espionagem" e clique no botão "Mover" próximo a um espião que você queira realocar. Após clicar no botão "Mover", clique no nome da cidade destino, no lado direito da tela (sua ou de outra civilização). A "Atividade" de um espião será alterada para "Viajando" e indicará em quanto tempo ele irá chegar ao destino.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_ADVISOR_QUESTION">
-				<Text>Como movimento meus espiões?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_TOPIC">
-				<Text>Civilizações Menos Avançadas</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_DISPLAY">
-				<Text>Eles não possuem nada que precisamos.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_ACTIVATE_BUTTON">
-				<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_BODY">
-				<Text>Nossos espiões informam que a civilização alvo não possui tecnologia que nós precisamos. Nós deveríamos enviar nosso espião a uma cidade mais promissora.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_QUESTION">
-				<Text>E se não houver mais tecnologias a serem roubadas?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_SUMMARY">
-				<Text>Após seu espião realizar uma avaliação na civilização alvo, ele automaticamente começará a colher informações. Se ele descobrir que não há tecnologias que você precisa, então você receberá uma notificação sobre isso. Você, então, pode escolher mover seu espião a um local mais promissor ou deixar seu espião na civilização alvo em busca de intrigas. Intrigas são informações interceptadas que você pode entrar a outras civilizações. Por exemplo, você pode possuir um espião na Arábia e descobrir que eles planejam invadir o Egito. Você pode informar o Egito sobre a trama e receber um avanço na relação diplomática como resultado.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_TOPIC">
-				<Text>Roubando Tecnologia</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_DISPLAY">
-				<Text>Traição!</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_ACTIVATE_BUTTON">
-				<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_BODY">
-				<Text>Um espião roubou tecnologia de você! Você deveria considerar construir edifícios defensivos, como a Guarda Policial ou Distrito Policial ou, ainda, usar um dos seus espiões para trabalhar em contrainteligência.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_QUESTION">
-				<Text>Como usar espiões para roubar tecnologia?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_SUMMARY">
-				<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edifícios defensivos, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_STEALING_TECHS_SUMMARY">
-				<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edifícios defensivos, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC">
-				<Text>Espiões e Cidades-Estado</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_SUMMARY">
-				<Text>Espiões podem ser usados para aumentar sua influência sobre Cidades-Estado "fraudando" suas eleições locais ou realizando um golpe de estado. Para interagir com uma Cidade-Estado, primeiro envie um espião a uma Cidade-Estado alvo. Assim que o espião chegar, haverá um período de tempo onde ele fará uma avaliação (veja na coluna "Atividade"). Terminada a avaliação, suas opções de espionagem ficarão disponíveis. Fraudar uma eleição, uma habilidade passiva, ocorre a cada 15 turnos enquanto seu espião estiver na Cidade-Estado alvo. Se o único espião na Cidade-Estado for o seu, sua influência sobre ela irá aumentar, enquanto a dos outros irá diminuir. A presença de um espião inimigo, especialmente um de maior graduação, poderá fazer com que esta missão falhe. Entretanto, você não precisa se preocupar, pois falhar na tentativa de fraudar uma eleição não trás riscos ao seu espião.[NEWLINE][NEWLINE]Realizar um golpe de estado trás mais benefícios que fraudar uma eleição, mas é bem mais arriscado. Um golpe de estado bem sucedido permite que você "roube" a posição de aliança de outra civilização. Para dar um golpe de estado, envie um espião para uma Cidade-Estado aliada à outra civilização, da mesma forma que você faria para fraudar uma eleição. Assim que a avaliação estiver realizada, você terá um novo botão disponível chamado "Golpe". Ao clicar nele, uma mensagem de aviso aparecerá exibindo a probabilidade de sucesso do seu golpe. Quanto mais influência você possuir sobre a civilização alvo, maiores serão suas chances. O problema? Se seu espião falhar, ele será executado.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_ADVISOR_QUESTION">
-				<Text>Como usar espiões com Cidades-Estado?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC">
-				<Text>Fazendo Avaliação</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_SUMMARY">
-				<Text>Para fazer uma avaliação, envie um espião para uma cidade alvo. Assim que o espião chegar, haverá um período de tempo em que ele realizará uma avaliação (veja na coluna "Atividade"). Quando a avaliação terminar, você saberá se a cidade alvo possui tecnologias que você possa roubar. Você também será capaz de ver a tela da cidade inimiga e ter uma chance de interceptar importantes informações (como preparações para uma invasão).</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_ADVISOR_QUESTION">
-				<Text>Como realizar uma avaliação?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC">
-				<Text>Contrainteligência</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_SUMMARY">
-				<Text>Você pode se defender contra espiões inimigos criando uma contrainteligência. Para fazer isso, envie um espião para uma de suas cidades que você suspeita ser alvo (normalmente uma cidade com uma grande produção de ciência). Assim que ele estiver lá, ele terá uma chance de detectar espiões inimigos. Quanto maior a graduação do espião, melhores serão as chances de sucesso.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_ADVISOR_QUESTION">
-				<Text>Como parar outros espiões?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC">
-				<Text>Guarda e Distrito Policial</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_SUMMARY">
-				<Text>Você também poderá diminuir a atividade espiã inimiga ao construir Guardas Policiais e Distritos Policiais em suas cidades. Se uma cidade possuir uma Guarda Policial ou um Distrito Policial, o tempo necessário para se roubar uma tecnologia aumenta em 25% para cada um dos edifícios.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_ADVISOR_QUESTION">
-				<Text>Como atrasar o progresso de um espião inimigo?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC">
-				<Text>{TXT_KEY_BUILDING_INTELLIGENCE_AGENCY}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_SUMMARY">
-				<Text>A Maravilha "Agência Nacional de Inteligência" fornece a sua civilização um espião adicional e promoverá todos os espiões existentes.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_ADVISOR_QUESTION">
-				<Text>Como conseguir espiões adicionais?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC">
-				<Text>{TXT_KEY_BUILDING_GREAT_FIREWALL}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_SUMMARY">
-				<Text>A Maravilha "O Grande Firewall" reduz a efetividade dos espiões inimigos em 99.9% na cidade em que for construída e em 25% em todas as cidades da sua civilização.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_ADVISOR_QUESTION">
-				<Text>Como atrasar o progresso de um espião inimigo?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC">
-				<Text>Detectando um Espião</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_SUMMARY">
-				<Text>Espiões possuem uma pequena chance de serem detectados ao tentarem roubar tecnologias. Se a cidade alvo não possuir um espião na contrainteligência, as possíveis situações do seu espião serão: Não Detectado, Detectado mas não Identificado e Identificado. Se houver um contraespião na cidade, as possíveis situações do seu espião serão: Detectado mas Não Identificado, Identificado e Identificado e Eliminado. Ao ter seu espião seja como Identificado ou Identificado e Eliminado, sua relação com a civilização alvo sofrerá um efeito negativo. Se o seu espião for eliminado, você receberá um substituto, mas somente em alguns turnos.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_ADVISOR_QUESTION">
-				<Text>Como descobrir se alguém está me espionando?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC">
-				<Text>Obtendo Mais Espiões</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_SUMMARY">
-				<Text>Embora você comece com apenas um espião, você irá obter um novo espião à medida que você entrar em uma nova Era. Além disso, você pode obter um espião adicional ao construir a Maravilha "Agência Nacional de Inteligência".</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_ADVISOR_QUESTION">
-				<Text>Como obter mais espiões?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC">
-				<Text>Experiência Espiã</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_SUMMARY">
-				<Text>A cada missão bem sucedida, seus espiões ganham experiência e promoções, além de realizarem suas missões mais rapidamente e com mais confiança.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_ADVISOR_QUESTION">
-				<Text>Meus espiões ganham experiência?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC">
-				<Text>Obtendo Fé</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_SUMMARY">
-				<Text>[ICON_PEACE]Fé é a moeda que lhe permite fundar um Panteão, criar um Grande Profeta e pode ser usada para comprar unidades e edifícios religiosos.[NEWLINE][NEWLINE]Há várias fontes para pontos de [ICON_PEACE]Fé. Há edifícios e maravilhas que fornecem certa quantidade de [ICON_PEACE]Fé por turno, se você construí-los em suas cidades. Algumas Maravilhas Naturais também podem gerá-la quando estão sendo exploradas. Você pode encontrar [ICON_PEACE]Fé em uma Ruína Antiga. Se você for amigo de uma Cidade-Estado religiosa, ela também irá contribuir regularmente com presentes. E a última fonte de [ICON_PEACE]Fé é a melhoria {TXT_KEY_IMPROVEMENT_HOLY_SITE}, que Grandes Profetas podem construir em seu território.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_ADVISOR_QUESTION">
-				<Text>Como posso obter Fé?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC">
-				<Text>Panteões</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_SUMMARY">
-				<Text>Panteões são o primeiro passo rumo à fundação de uma Religião verdadeira. Assim que você tiver acumulado certa quantidade de [ICON_PEACE]Fé, você será capaz de selecionar a Crença do seu Panteão, que será a base para qualquer Religião que você venha a fundar, portanto, escolha sabiamente, já que ela poderá permanecer com você por todo o jogo. A quantidade de [ICON_PEACE]Fé necessária para fundar um Panteão aumentará à medida que cada Panteão for fundado no mapa.[NEWLINE][NEWLINE]Panteões são o acesso inicial à Religião. Consequentemente, somente é possível fundar um Panteão nas eras iniciais, dependendo do progresso religioso a sua volta. Assim que você escolher a Crença do seu Panteão, ela ficará imediatamente disponível em toda a sua civilização e se espalhará para novas cidades até que você funde uma verdadeira Religião.[NEWLINE][NEWLINE]Perceba que os jogadores não poderão mais fundar um novo Panteão se outro jogador já tiver aperfeiçoado a sua Religião; ou se o número de Panteões alcançar ou exceder o número de Religiões permitidas no atual jogo.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_ADVISOR_QUESTION">
-				<Text>O que é um Panteão?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC">
-				<Text>Fundando uma Religião</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_SUMMARY">
-				<Text>Assim que você possuir um Grande Profeta, e já tiver fundado um Panteão, você poderá usá-lo fundar uma verdadeira Religião. Isso é feito ao selecionar o Grande Profeta (assegure-se de que ele esteja em uma cidade) e clicar no ícone "Fundar Religião" no painel da unidade. Você será apresentado às opções para escolher que tipo de Religião você quer para sua civilização. Selecione um símbolo e um nome para sua Religião, assim como as Crenças de Fundação e de Devoção, que determinam quais crenças serão obtidas. Você confirma essas opções ao clicar no botão [ICON_RELIGION]Fundar Religião, na parte inferior direita da tela de seleção.[NEWLINE][NEWLINE]Há um limite de religiões que podem ser fundadas em cada jogo e este número é baseado no tamanho do mapa. Este limite sempre será inferior ao número padrão de civilizações no jogo, então, nem todos poderão fundar sua própria religião.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_ADVISOR_QUESTION">
-				<Text>Como fundar uma Religião?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC">
-				<Text>Usando Fé</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_SUMMARY">
-				<Text>A [ICON_PEACE]Fé pode ser usada de várias formas: pode ser usada para comprar unidades e edifícios religiosos; para criar um Grande Profeta; ou, assim que você entrar na Era Industrial, comprar outras Grandes Pessoas.[NEWLINE][NEWLINE]A [ICON_PEACE]Fé que você acumular será automaticamente usada na criação de um Grande Profeta quando você alcançar certo marco (para ver detalhes, paire o mouse sobre o ícone [ICON_PEACE] na barra de status). Assim que você entrar na Era Industrial, você poderá usar [ICON_PEACE]Fé em outras Grandes Pessoas também, dependendo de quais Políticas Sociais você tenha desbloqueado.[NEWLINE][NEWLINE]Você também pode escolher usar sua [ICON_PEACE]Fé acumulada em unidades e edifícios. Isso pode ser feito no menu Comprar da tela da cidade. Missionários e Inquisidores estão disponíveis em toda cidade devota de uma Religião, enquanto que os respectivos edifícios ficam disponíveis apenas se a Religião predominante possuir uma Crença que desbloqueie a compra de um edifício religioso.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_ADVISOR_QUESTION">
-				<Text>O que pode ser feito com a Fé?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC">
-				<Text>Crenças</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_SUMMARY">
-				<Text>Quando você funda um Panteão ou, mais tarde no jogo, funda ou aperfeiçoa uma Religião, há uma quantidade de diferentes espaços que você pode preencher com uma seleção de Crenças. Os tipos de Crenças que você recebe para selecionar são: Crença do Panteão, Crença de Fundação, Crença de Devoção e Crenças Aperfeiçoadoras. Há civilizações que, devido à sua característica única, podem escolher uma Crença Bônus.[NEWLINE][NEWLINE]Crenças são escolhidas no sistema "quem escolher primeiro leva", ou seja, quando uma Crença for escolhida, dali em diante ela ficará indisponível às outras civilizações que estiverem fundando ou aperfeiçoando suas próprias Religiões. Isso torna bastante importante o fato de ser o primeiro a poder escolher uma Crença.[NEWLINE][NEWLINE]Uma lista completa de todas as diferentes Crenças que podem ser escolhidas pode ser encontrada na seção Religião da Civilopédia.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_ADVISOR_QUESTION">
-				<Text>O que são Crenças?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC">
-				<Text>Crenças do Panteão</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_SUMMARY">
-				<Text>Este é um tipo especial de benefício de devotos, especialmente útil no início do jogo (normalmente para melhorar a produção dos hexágonos). Ele afeta qualquer cidade cuja maioria dos cidadãos pratica este Panteão ou Religião. Essas Crenças se tornarão religiões plenas mais tarde no jogo, à medida que as civilizações escolherem ir além de um mero Panteão e fundar uma Religião. </Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_ADVISOR_QUESTION">
-				<Text>O que são Crenças do Panteão?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC">
-				<Text>Crenças de Devoção</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_SUMMARY">
-				<Text>Esses atributos estão relacionados às cidades. Eles influenciam qualquer cidade onde esta Religião for praticada pela maioria dos cidadãos.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_ADVISOR_QUESTION">
-				<Text>O que são Crenças de Devoção?</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC">
-				<Text>Crenças de Fundação</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_DESCRIPTION">
-				<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC}</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_SUMMARY">
-				<Text>Esses são bônus relacionados ao jogador. Esses efeitos positivos são obtidos pelo jogador que fundar uma Religião, enquanto ele controlar a Cidade Santa onde a Religião se originar. A maioria deles está ligada à disseminação da Religião pelo mapa, dando ao fundador da Religião um forte incentivo para espalhá-la o máximo possível.</Text>
-			</Row>
-			<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_ADVISOR_QUESTION">
-				<Text>O que são Crenças de Fundação?</Text>
-			</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC">
+			<Text>Espiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_SUMMARY">
+			<Text>Você ganhará seu primeiro espião quando alguma civilização do jogo entrar na Renascença. Espiões podem ser enviados a uma cidade em outra civilização com o objetivo de roubar tecnologia e colher informações. Você também pode enviar um espião a uma de suas cidades para descobrir, eliminar ou diminuir as ações de um espião inimigo. Para designar o seu primeiro espião, escolha a opção "Espionagem" no botão "Informação Adicional".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_ADVISOR_QUESTION">
+			<Text>O que é um espião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC">
+			<Text>Movendo Espiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_SUMMARY">
+			<Text>Para mover um espião, abra a tela "Espionagem" e clique no botão "Mover" próximo a um espião que você queira realocar. Após clicar no botão "Mover", clique no nome da cidade destino, no lado direito da tela (sua ou de outra civilização). A "Atividade" de um espião será alterada para "Viajando" e indicará em quanto tempo ele irá chegar ao destino.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_ADVISOR_QUESTION">
+			<Text>Como movimento meus espiões?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_TOPIC">
+			<Text>Civilizações Menos Avançadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_DISPLAY">
+			<Text>Eles não possuem nada que precisamos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_ACTIVATE_BUTTON">
+			<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_BODY">
+			<Text>Nossos espiões informam que a civilização alvo não possui tecnologia que nós precisamos. Nós deveríamos enviar nosso espião a uma cidade mais promissora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_QUESTION">
+			<Text>E se não houver mais tecnologias a serem roubadas?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_SUMMARY">
+			<Text>Após seu espião realizar uma avaliação na civilização alvo, ele automaticamente começará a colher informações. Se ele descobrir que não há tecnologias que você precisa, então você receberá uma notificação sobre isso. Você, então, pode escolher mover seu espião a um local mais promissor ou deixar seu espião na civilização alvo em busca de intrigas. Intrigas são informações interceptadas que você pode entrar a outras civilizações. Por exemplo, você pode possuir um espião na Arábia e descobrir que eles planejam invadir o Egito. Você pode informar o Egito sobre a trama e receber um avanço na relação diplomática como resultado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_TOPIC">
+			<Text>Roubando Tecnologia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_DISPLAY">
+			<Text>Traição!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_ACTIVATE_BUTTON">
+			<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_BODY">
+			<Text>Um espião roubou tecnologia de você! Você deveria considerar construir edifícios defensivos, como a Guarda Policial ou Distrito Policial ou, ainda, usar um dos seus espiões para trabalhar em contrainteligência.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_QUESTION">
+			<Text>Como usar espiões para roubar tecnologia?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_SUMMARY">
+			<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edifícios defensivos, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_STEALING_TECHS_SUMMARY">
+			<Text>Seus espiões podem roubar tecnologia de uma civilização mais avançada. Para tentar roubar uma tecnologia, primeiro mova o seu espião para uma cidade da civilização alvo. Assim que o espião chegar, haverá um período de tempo que ele irá realizar uma avaliação (veja na coluna "Atividade"). Ao terminar a avaliação, você será informado se a civilização alvo possui ou não tecnologias que você possa roubar. Se eles possuírem, o tempo necessário para que a tecnologia seja roubada dependerá da quantidade de ciência que a cidade alvo estiver produzindo e da graduação do seu espião. Quanto maior for, mais rápido ele será capaz de roubar uma tecnologia. Quanto mais tecnologia for produzida pela cidade, mais rápido o seu espião poderá trabalhar.[NEWLINE][NEWLINE]Outros fatores que podem influenciar o tempo necessário para roubar uma tecnologia incluem edifícios defensivos, como o Distrito Policial ou a maravilha Grande Firewall, que pode parar completamente a atividade espiã. Além disso, se a cidade alvo possuir um espião na defesa, o seu espião pode ser capturado (ou até mesmo eliminado), ficando fora de ação por muitos turnos. Isso, claro, terá um efeito negativo nas relações diplomáticas com a civilização alvo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC">
+			<Text>Espiões e Cidades-Estado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_SUMMARY">
+			<Text>Espiões podem ser usados para aumentar sua influência sobre Cidades-Estado "fraudando" suas eleições locais ou realizando um golpe de estado. Para interagir com uma Cidade-Estado, primeiro envie um espião a uma Cidade-Estado alvo. Assim que o espião chegar, haverá um período de tempo onde ele fará uma avaliação (veja na coluna "Atividade"). Terminada a avaliação, suas opções de espionagem ficarão disponíveis. Fraudar uma eleição, uma habilidade passiva, ocorre a cada 15 turnos enquanto seu espião estiver na Cidade-Estado alvo. Se o único espião na Cidade-Estado for o seu, sua influência sobre ela irá aumentar, enquanto a dos outros irá diminuir. A presença de um espião inimigo, especialmente um de maior graduação, poderá fazer com que esta missão falhe. Entretanto, você não precisa se preocupar, pois falhar na tentativa de fraudar uma eleição não trás riscos ao seu espião.[NEWLINE][NEWLINE]Realizar um golpe de estado trás mais benefícios que fraudar uma eleição, mas é bem mais arriscado. Um golpe de estado bem sucedido permite que você "roube" a posição de aliança de outra civilização. Para dar um golpe de estado, envie um espião para uma Cidade-Estado aliada à outra civilização, da mesma forma que você faria para fraudar uma eleição. Assim que a avaliação estiver realizada, você terá um novo botão disponível chamado "Golpe". Ao clicar nele, uma mensagem de aviso aparecerá exibindo a probabilidade de sucesso do seu golpe. Quanto mais influência você possuir sobre a civilização alvo, maiores serão suas chances. O problema? Se seu espião falhar, ele será executado.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_ADVISOR_QUESTION">
+			<Text>Como usar espiões com Cidades-Estado?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC">
+			<Text>Fazendo Avaliação</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_SUMMARY">
+			<Text>Para fazer uma avaliação, envie um espião para uma cidade alvo. Assim que o espião chegar, haverá um período de tempo em que ele realizará uma avaliação (veja na coluna "Atividade"). Quando a avaliação terminar, você saberá se a cidade alvo possui tecnologias que você possa roubar. Você também será capaz de ver a tela da cidade inimiga e ter uma chance de interceptar importantes informações (como preparações para uma invasão).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_ADVISOR_QUESTION">
+			<Text>Como realizar uma avaliação?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC">
+			<Text>Contrainteligência</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_SUMMARY">
+			<Text>Você pode se defender contra espiões inimigos criando uma contrainteligência. Para fazer isso, envie um espião para uma de suas cidades que você suspeita ser alvo (normalmente uma cidade com uma grande produção de ciência). Assim que ele estiver lá, ele terá uma chance de detectar espiões inimigos. Quanto maior a graduação do espião, melhores serão as chances de sucesso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_ADVISOR_QUESTION">
+			<Text>Como parar outros espiões?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC">
+			<Text>Guarda e Distrito Policial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_SUMMARY">
+			<Text>Você também poderá diminuir a atividade espiã inimiga ao construir Guardas Policiais e Distritos Policiais em suas cidades. Se uma cidade possuir uma Guarda Policial ou um Distrito Policial, o tempo necessário para se roubar uma tecnologia aumenta em 25% para cada um dos edifícios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_ADVISOR_QUESTION">
+			<Text>Como atrasar o progresso de um espião inimigo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC">
+			<Text>{TXT_KEY_BUILDING_INTELLIGENCE_AGENCY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_SUMMARY">
+			<Text>A Maravilha "Agência Nacional de Inteligência" fornece a sua civilização um espião adicional e promoverá todos os espiões existentes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_ADVISOR_QUESTION">
+			<Text>Como conseguir espiões adicionais?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC">
+			<Text>{TXT_KEY_BUILDING_GREAT_FIREWALL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_SUMMARY">
+			<Text>A Maravilha "O Grande Firewall" reduz a efetividade dos espiões inimigos em 99.9% na cidade em que for construída e em 25% em todas as cidades da sua civilização.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_ADVISOR_QUESTION">
+			<Text>Como atrasar o progresso de um espião inimigo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC">
+			<Text>Detectando um Espião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_SUMMARY">
+			<Text>Espiões possuem uma pequena chance de serem detectados ao tentarem roubar tecnologias. Se a cidade alvo não possuir um espião na contrainteligência, as possíveis situações do seu espião serão: Não Detectado, Detectado mas não Identificado e Identificado. Se houver um contraespião na cidade, as possíveis situações do seu espião serão: Detectado mas Não Identificado, Identificado e Identificado e Eliminado. Ao ter seu espião seja como Identificado ou Identificado e Eliminado, sua relação com a civilização alvo sofrerá um efeito negativo. Se o seu espião for eliminado, você receberá um substituto, mas somente em alguns turnos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_ADVISOR_QUESTION">
+			<Text>Como descobrir se alguém está me espionando?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC">
+			<Text>Obtendo Mais Espiões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_SUMMARY">
+			<Text>Embora você comece com apenas um espião, você irá obter um novo espião à medida que você entrar em uma nova Era. Além disso, você pode obter um espião adicional ao construir a Maravilha "Agência Nacional de Inteligência".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_ADVISOR_QUESTION">
+			<Text>Como obter mais espiões?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC">
+			<Text>Experiência Espiã</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_SUMMARY">
+			<Text>A cada missão bem sucedida, seus espiões ganham experiência e promoções, além de realizarem suas missões mais rapidamente e com mais confiança.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_ADVISOR_QUESTION">
+			<Text>Meus espiões ganham experiência?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC">
+			<Text>Obtendo Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_SUMMARY">
+			<Text>[ICON_PEACE]Fé é a moeda que lhe permite fundar um Panteão, criar um Grande Profeta e pode ser usada para comprar unidades e edifícios religiosos.[NEWLINE][NEWLINE]Há várias fontes para pontos de [ICON_PEACE]Fé. Há edifícios e maravilhas que fornecem certa quantidade de [ICON_PEACE]Fé por turno, se você construí-los em suas cidades. Algumas Maravilhas Naturais também podem gerá-la quando estão sendo exploradas. Você pode encontrar [ICON_PEACE]Fé em uma {TXT_KEY_IMPROVEMENT_GOODY_HUT}. Se você for amigo de uma Cidade-Estado religiosa, ela também irá contribuir regularmente com presentes. E a última fonte de [ICON_PEACE]Fé é a melhoria {TXT_KEY_IMPROVEMENT_HOLY_SITE}, que Grandes Profetas podem construir em seu território.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_ADVISOR_QUESTION">
+			<Text>Como posso obter Fé?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC">
+			<Text>Panteões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_SUMMARY">
+			<Text>Panteões são o primeiro passo rumo à fundação de uma Religião verdadeira. Assim que você tiver acumulado certa quantidade de [ICON_PEACE]Fé, você será capaz de selecionar a Crença do seu Panteão, que será a base para qualquer Religião que você venha a fundar, portanto, escolha sabiamente, já que ela poderá permanecer com você por todo o jogo. A quantidade de [ICON_PEACE]Fé necessária para fundar um Panteão aumentará à medida que cada Panteão for fundado no mapa.[NEWLINE][NEWLINE]Panteões são o acesso inicial à Religião. Consequentemente, somente é possível fundar um Panteão nas eras iniciais, dependendo do progresso religioso a sua volta. Assim que você escolher a Crença do seu Panteão, ela ficará imediatamente disponível em toda a sua civilização e se espalhará para novas cidades até que você funde uma verdadeira Religião.[NEWLINE][NEWLINE]Perceba que os jogadores não poderão mais fundar um novo Panteão se outro jogador já tiver aperfeiçoado a sua Religião; ou se o número de Panteões alcançar ou exceder o número de Religiões permitidas no atual jogo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_ADVISOR_QUESTION">
+			<Text>O que é um Panteão?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC">
+			<Text>Fundando uma Religião</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_SUMMARY">
+			<Text>Assim que você possuir um Grande Profeta, e já tiver fundado um Panteão, você poderá usá-lo fundar uma verdadeira Religião. Isso é feito ao selecionar o Grande Profeta (assegure-se de que ele esteja em uma cidade) e clicar no ícone "Fundar Religião" no painel da unidade. Você será apresentado às opções para escolher que tipo de Religião você quer para sua civilização. Selecione um símbolo e um nome para sua Religião, assim como as Crenças de Fundação e de Devoção, que determinam quais crenças serão obtidas. Você confirma essas opções ao clicar no botão [ICON_RELIGION]Fundar Religião, na parte inferior direita da tela de seleção.[NEWLINE][NEWLINE]Há um limite de religiões que podem ser fundadas em cada jogo e este número é baseado no tamanho do mapa. Este limite sempre será inferior ao número padrão de civilizações no jogo, então, nem todos poderão fundar sua própria religião.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_ADVISOR_QUESTION">
+			<Text>Como fundar uma Religião?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC">
+			<Text>Usando Fé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_SUMMARY">
+			<Text>A [ICON_PEACE]Fé pode ser usada de várias formas: pode ser usada para comprar unidades e edifícios religiosos; para criar um Grande Profeta; ou, assim que você entrar na Era Industrial, comprar outras Grandes Pessoas.[NEWLINE][NEWLINE]A [ICON_PEACE]Fé que você acumular será automaticamente usada na criação de um Grande Profeta quando você alcançar certo marco (para ver detalhes, paire o mouse sobre o ícone [ICON_PEACE] na barra de status). Assim que você entrar na Era Industrial, você poderá usar [ICON_PEACE]Fé em outras Grandes Pessoas também, dependendo de quais Políticas Sociais você tenha desbloqueado.[NEWLINE][NEWLINE]Você também pode escolher usar sua [ICON_PEACE]Fé acumulada em unidades e edifícios. Isso pode ser feito no menu Comprar da tela da cidade. Missionários e Inquisidores estão disponíveis em toda cidade devota de uma Religião, enquanto que os respectivos edifícios ficam disponíveis apenas se a Religião predominante possuir uma Crença que desbloqueie a compra de um edifício religioso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_ADVISOR_QUESTION">
+			<Text>O que pode ser feito com a Fé?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC">
+			<Text>Crenças</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_SUMMARY">
+			<Text>Quando você funda um Panteão ou, mais tarde no jogo, funda ou aperfeiçoa uma Religião, há uma quantidade de diferentes espaços que você pode preencher com uma seleção de Crenças. Os tipos de Crenças que você recebe para selecionar são: Crença do Panteão, Crença de Fundação, Crença de Devoção e Crenças Aperfeiçoadoras. Há civilizações que, devido à sua característica única, podem escolher uma Crença Bônus.[NEWLINE][NEWLINE]Crenças são escolhidas no sistema "quem escolher primeiro leva", ou seja, quando uma Crença for escolhida, dali em diante ela ficará indisponível às outras civilizações que estiverem fundando ou aperfeiçoando suas próprias Religiões. Isso torna bastante importante o fato de ser o primeiro a poder escolher uma Crença.[NEWLINE][NEWLINE]Uma lista completa de todas as diferentes Crenças que podem ser escolhidas pode ser encontrada na seção Religião da Civilopédia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_ADVISOR_QUESTION">
+			<Text>O que são Crenças?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC">
+			<Text>Crenças do Panteão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_SUMMARY">
+			<Text>Este é um tipo especial de benefício de devotos, especialmente útil no início do jogo (normalmente para melhorar a produção dos hexágonos). Ele afeta qualquer cidade cuja maioria dos cidadãos pratica este Panteão ou Religião. Essas Crenças se tornarão religiões plenas mais tarde no jogo, à medida que as civilizações escolherem ir além de um mero Panteão e fundar uma Religião. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_ADVISOR_QUESTION">
+			<Text>O que são Crenças do Panteão?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC">
+			<Text>Crenças de Devoção</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_SUMMARY">
+			<Text>Esses atributos estão relacionados às cidades. Eles influenciam qualquer cidade onde esta Religião for praticada pela maioria dos cidadãos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_ADVISOR_QUESTION">
+			<Text>O que são Crenças de Devoção?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC">
+			<Text>Crenças de Fundação</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_SUMMARY">
+			<Text>Esses são bônus relacionados ao jogador. Esses efeitos positivos são obtidos pelo jogador que fundar uma Religião, enquanto ele controlar a Cidade Santa onde a Religião se originar. A maioria deles está ligada à disseminação da Religião pelo mapa, dando ao fundador da Religião um forte incentivo para espalhá-la o máximo possível.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_ADVISOR_QUESTION">
+			<Text>O que são Crenças de Fundação?</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_TOPIC">
 			<Text>Crenças Aperfeiçoadoras</Text>
 		</Row>

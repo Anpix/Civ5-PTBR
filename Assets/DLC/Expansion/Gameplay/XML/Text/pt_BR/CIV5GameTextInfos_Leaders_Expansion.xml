@@ -14,7 +14,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_DIDO">
 			<Text>Dido</Text>
-      		<Gender>feminine</Gender>
+			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS">
 			<Text>Gustavo Adolfo</Text>

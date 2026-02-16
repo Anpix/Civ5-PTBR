@@ -1275,7 +1275,7 @@
 			<Text>A Catedral é uma forma de igreja cristã diferenciada pela presença do trono do bispo. O termo latino "Cathedra" significa "cadeira", em referência ao próprio trono, a catedral sendo então o edifício que contém esse trono. A maioria das catedrais apresentam um estilo arquitetônico único quando comparada a outras estruturas circundantes, tornando-se frequentemente marcos notáveis ​​na área. Embora sejam usadas principalmente como locais de culto, as catedrais também abrigam diversas funções sociais na comunidade.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MOSQUE_TEXT">
-			<Text>A Mesquita serve como local de culto tradicional para os seguidores do Islã. A maior mesquita do mundo, o Madjid al-Haram, foi construída na cidade de Meca, na Arábia Saudita, por volta de 638 d.C. Também conhecida como Grande Mesquita, o Madjid al-Haram abrange o local sagrado da Caaba, o mais sagrado de todos os locais da religião islâmica.</Text>
+			<Text>A Mesquita serve como local de culto tradicional para os seguidores do Islã. A maior mesquita do mundo, o Madjid al-Haram, foi construída na cidade de Meca, na Arábia Saudita, por volta de 638 d.C.. Também conhecida como Grande Mesquita, o Madjid al-Haram abrange o local sagrado da Caaba, o mais sagrado de todos os locais da religião islâmica.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PAGODA_TEXT">
 			<Text>Comumente encontrado em toda a Ásia, o Pagode é um estilo arquitetônico que consiste em uma torre de várias camadas, tipicamente com beirais de grandes dimensões e um remate proeminente em seu pico. A maioria dos pagodes está associada à religião budista, pois eles eram frequentemente construídos sobre ou perto de complexos de templos budistas para abrigar relíquias sagradas.</Text>
@@ -1855,7 +1855,7 @@
 			<Text>Caçar animais selvagens é uma das primeiras maneiras pelas quais o homem antigo explorou os recursos do mundo ao seu redor. Um {TXT_KEY_IMPROVEMENT_CAMP} permite o acesso a recursos de cervos, peles, trufas e marfim.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_FREEDOM_HEADING3_BODY">
-			<Text>Freedom provides bonuses for Culture and Specialist production. Freedom becomes available upon entering the Industrial Era, and cannot be active at the same time as Autocracy or Order.</Text>
+			<Text>The Freedom ideology provides bonuses for Culture and Specialist production. Freedom becomes available upon entering the Industrial Era, and cannot be active at the same time as Autocracy or Order.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SOCIALPOLICY_PIETY_HEADING3_BODY">
 			<Text>Piety increases the Faith and Culture of the adopting civ. Piety becomes available once the Classical Era is reached, and it may not be active at the same time as Rationalism. For players looking to achieve a Cultural Victory, this is a nice place to start, as the branch provides boosts to culture.</Text>
@@ -1927,9 +1927,7 @@
 			<Text>All Civilizations and City-States have a vote. In addition, the Civilization which built the United Nations gets one bonus vote attributed in their favor during elections.[NEWLINE]Civilizations cannot vote for themselves. They will vote for the other Civilization they have the best relations with.[NEWLINE]City-States will vote for the Civilization they are allied with, unless they've been liberated, in which case they vote for their most recent liberator. If a City-State isn't allied with any Civilization, they won't vote.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VICTORY_LIBERATION_HEADING4_BODY_ALT">
-			<Text>
-        If you take a City-State that has been captured by another Civilization, you have the choice to annex the City-State, make it a puppet, or liberate it. If you choose to liberate a City-State, then it will always vote for you in UN elections, no matter what its relations are with you at the time of the vote. If the same City-State has been liberated more than once, it will vote for the Civ which liberated it most recently.[NEWLINE]If a Civilization has been removed from the game and you capture one of that Civ's cities, you have the option of annexing it, making it your puppet, or liberating it. If you choose to liberate it, the Civilization returns to play and will hold you in high regard. And while you are not guaranteed their vote in the UN elections, this huge positive modifier should make it easier to convince them to vote for you.
-		</Text>
+			<Text>If you take a City-State that has been captured by another Civilization, you have the choice to annex the City-State, make it a puppet, or liberate it. If you choose to liberate a City-State, then it will always vote for you in UN elections, no matter what its relations are with you at the time of the vote. If the same City-State has been liberated more than once, it will vote for the Civ which liberated it most recently.[NEWLINE]If a Civilization has been removed from the game and you capture one of that Civ's cities, you have the option of annexing it, making it your puppet, or liberating it. If you choose to liberate it, the Civilization returns to play and will hold you in high regard. And while you are not guaranteed their vote in the UN elections, this huge positive modifier should make it easier to convince them to vote for you.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HELP">
 			<Text>Triggers voting for the Diplomatic Victory. Builder of the UN receives a bonus vote for themsleves in addition to their regular vote.</Text>
@@ -1942,7 +1940,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_TEXT">
 			<Text>Um Grande Templo é um {TXT_KEY_IMPROVEMENT_HOLY_SITE}, considerado sagrado entre os seguidores de uma dada religião. Estes templos geralmente ostentam uma arquitetura esplendorosa e inscrições ornamentadas que permanecem por séculos como um testamento de fé dos adeptos da religião. Embora não haja consenso sobre qual dos muitos templos encontrados no mundo seja o mais antigo, muitos acreditam que Göbekli Tepe - localizado na moderna Turquia e construído há mais de 12.000 anos - seja a estrutura religiosa feita pelo homem mais antiga já descoberta.</Text>
-		</Row>		
+		</Row>
 		<Row Tag="TXT_KEY_CITIES_INDESTRUCTIBLECITY_HEADING3_BODY">
 			<Text>Você não pode destruir uma cidade fundada por você (outra Civilização pode, você não). Além disso, você não pode destruir a Capital de outra Civilização ou a Cidade Sagrada de qualquer religião.</Text>
 		</Row>
